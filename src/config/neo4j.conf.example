@@ -1,0 +1,4 @@
+[NEO4J]
+uri = bolt://localhost:7687
+username = neo4j
+password = your_password_here  ; ← Change this to your actual password

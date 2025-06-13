@@ -1,0 +1,21 @@
+# Data Collection
+requests==2.31.0
+beautifulsoup4==4.12.0
+pandas==2.0.0
+numpy==1.24.3
+
+# Database
+neo4j==5.14.0
+
+# NLP & Text Processing
+spacy==3.7.2
+nltk==3.8.1
+
+# Development Tools
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+openai==0.28
+
+pdfplumber
+sentence-transformers

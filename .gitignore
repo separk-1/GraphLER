@@ -1,0 +1,18 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project specific
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Environment variables
+.env
+
+# Temporary files
+config/neo4j.conf
+
+# Note
+bin/
+todo.txt
+playground/*

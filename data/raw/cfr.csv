@@ -1,0 +1,10 @@
+CFR,class_1,class_2
+50.73.(a)(2)(i)(B),Technical Specification Non-Compliance,Any operation or condition which was prohibited by the plant's Technical Specifications
+50.73.(a)(2)(ii)(A),Plant Degradation,"The condition of the nuclear power plant, including its principal safety barriers, being seriously degraded"
+50.73.(a)(2)(ii)(B),Plant Degradation,The nuclear power plant being in an unanalyzed condition that significantly degraded plant safety
+50.73.(a)(2)(iv)(A),System Actuation,Any event or condition that resulted in manual or automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of this section
+50.73.(a)(2)(v)(A),Safety Function Impairment,Any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: Shut down the reactor and maintain it in a safe shutdown condition
+50.73.(a)(2)(v)(D),Safety Function Impairment,Any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: Mitigate the consequences of an accident.
+50.73.(a)(2)(vii),Multi-Train or Multi-Channel Inoperability,Any event or condition that could have prevented the fulfillment of the safety function of structures or systems
+50.73.(a)(2)(v)(C),Safety Function Impairment,Any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: Control the release of radioactive material
+50.73.(a)(2)(v)(B),Safety Function Impairment,Any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: Remove residual heat
