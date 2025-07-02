@@ -10,9 +10,10 @@ data/processed/*
 .env
 
 # Temporary files
-config/neo4j.conf
+src/config/neo4j.conf
 
 # Note
 bin/
 todo.txt
 playground/*
+.DS_Store
