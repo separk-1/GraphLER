@@ -1,9 +1,9 @@
 # merge_cfr.py
 import pandas as pd
 
-LER_DF_PATH = "../../data/processed/ler_structured.csv"
-CLAUSE_CSV_PATH = "../../data/raw/ler_cfr_map.csv"
-MERGED_OUTPUT_PATH = "../../data/processed/ler_structured_with_cfr.csv"
+LER_DF_PATH = "/../../../../../data/processed/ler_structured.csv"
+CLAUSE_CSV_PATH = "/../../../../../data/raw/ler_cfr_map.csv"
+MERGED_OUTPUT_PATH = "/../../../../../data/processed/ler_structured_with_cfr.csv"
 
 def merge_cfr_data(ler_path, clause_path, output_path):
     ler_df = pd.read_csv(ler_path, encoding="utf-8")

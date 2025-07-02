@@ -3,8 +3,8 @@ import re
 import pandas as pd
 from tqdm import tqdm
 
-LER_TEXT_DIR = "../../data/processed/ler_text"
-OUTPUT_CSV_PATH = "../../data/processed/ler_structured.csv"
+LER_TEXT_DIR = "/../../../../../data/processed/ler_text"
+OUTPUT_CSV_PATH = "/../../../../../data/processed/ler_structured.csv"
 
 def find_line(keyword, lines):
     # Find the index of the line containing the specified keyword

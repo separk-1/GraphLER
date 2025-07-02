@@ -16,12 +16,15 @@ uri = config.get("NEO4J", "uri")
 username = config.get("NEO4J", "username")
 password = config.get("NEO4J", "password")
 driver = GraphDatabase.driver(uri, auth=(username, password))
+equipment_weight = float(config.get("SIMILARITY_WEIGHTS", "equipment", fallback=0.5))
+cause_weight = float(config.get("SIMILARITY_WEIGHTS", "cause", fallback=0.3))
+impact_weight = float(config.get("SIMILARITY_WEIGHTS", "impact", fallback=0.2))
 
 # Configurable paths
-INPUT_JSONL_PATH = "../../data/processed/ler_kg.jsonl"
-CFR_DATA_PATH = "../../data/raw/cfr.csv"
-OUTPUT_CSV_PATH = "../../data/processed/linked_incidents.csv"
-SIMILARITY_THRESHOLD = 0.8
+INPUT_JSONL_PATH = "/../../../../../data/processed/ler_kg.jsonl"
+CFR_DATA_PATH = "/../../../../../data/raw/cfr.csv"
+OUTPUT_CSV_PATH = "/../../../../../data/processed/linked_incidents.csv"
+SIMILARITY_THRESHOLD = 0.5
 RESET_GRAPH = True  # Set to True to clear all existing graph data
 
 # Load LER data from JSONL
@@ -55,18 +58,49 @@ def insert_cfr(tx, cfr, upper, lower):
 def insert_event(tx, event):
     tx.run("MERGE (i:Incident {filename: $filename}) SET i.title = $title, i.date = $date",
            filename=event["filename"], title=event["metadata"]["title"], date=event["metadata"]["event_date"])
-    for attr, rel in [("Task", "RELATED_TO_TASK"), ("Event", "HAS_EVENT"), ("Cause", "HAS_CAUSE"),
-                      ("Influence", "HAS_INFLUENCE"), ("Corrective Actions", "HAS_CORRECTIVE_ACTIONS")]:
+    for attr, rel in [
+        ("Detection", "detected_by"),
+        ("Equipment", "involved"),
+        ("Corrective_Actions", "resolved_by"),
+        ("Causes", "caused_by"),
+        ("Impacts", "resulted_in")
+    ]:
         for val in event["attributes"].get(attr, []):
             tx.run(f"MERGE (a:{attr.replace(' ', '')} {{description: $val}}) "
                    f"MERGE (i:Incident {{filename: $filename}}) "
                    f"MERGE (i)-[:{rel}]->(a)", val=val, filename=event["filename"])
 
+    # Facility
     facility = event["metadata"]["facility"]
     tx.run("MERGE (f:Facility {name: $name, unit: $unit}) "
            "MERGE (i:Incident {filename: $filename}) "
            "MERGE (i)-[:OCCURRED_AT]->(f)",
            name=facility["name"], unit=facility["unit"], filename=event["filename"])
+
+    # Indirect relationships
+    for eq in event["attributes"].get("Equipment", []):
+        for ft in event["attributes"].get("Failure_Type", []):
+            tx.run("""
+                MERGE (e:Equipment {description: $eq})
+                MERGE (f:FailureType {description: $ft})
+                MERGE (e)-[:failed_because]->(f)
+            """, eq=eq, ft=ft)
+
+    for ca in event["attributes"].get("Corrective_Actions", []):
+        for ft in event["attributes"].get("Failure_Type", []):
+            tx.run("""
+                MERGE (c:CorrectiveAction {description: $ca})
+                MERGE (f:FailureType {description: $ft})
+                MERGE (c)-[:prevents]->(f)
+            """, ca=ca, ft=ft)
+
+    for c in event["attributes"].get("Causes", []):
+        for cc in event["attributes"].get("Cause_Category", []):
+            tx.run("""
+                MERGE (c:Causes {description: $c})
+                MERGE (cc:CauseCategory {description: $cc})
+                MERGE (c)-[:cause_type]->(cc)
+            """, c=c, cc=cc)
 
     for clause in event["metadata"].get("clause", "").split(", "):
         if clause in cfr_dict:
@@ -85,48 +119,77 @@ def calculate_similarity(text1, text2):
     emb2 = model.encode(text2, convert_to_tensor=True)
     return util.pytorch_cos_sim(emb1, emb2).item()
 
-# Relationship: SIMILAR_TASK (use MERGE to avoid duplication)
-def insert_similarity(tx, f1, f2, t1, t2, sims):
+def insert_equipment_similarity(tx, f1, f2, eq1, eq2, score):
     tx.run("""
         MATCH (e1:Incident {filename: $f1}), (e2:Incident {filename: $f2}),
-              (t1:Task {description: $t1}), (t2:Task {description: $t2})
-        MERGE (e1)-[r:SIMILAR_TASK]->(e2)
+              (q1:Equipment {description: $eq1}), (q2:Equipment {description: $eq2})
+        MERGE (e1)-[r:SIMILAR_EQUIPMENT]->(e2)
         ON CREATE SET
-            r.task_similarity = $task_sim,
-            r.cause_similarity = $cause_sim,
-            r.event_similarity = $event_sim,
-            r.influence_similarity = $influence_sim,
-            r.task1 = $t1,
-            r.task2 = $t2
-    """, f1=f1, f2=f2, t1=t1, t2=t2,
-         task_sim=sims["task_similarity"],
-         cause_sim=sims["cause_similarity"],
-         event_sim=sims["event_similarity"],
-         influence_sim=sims["influence_similarity"])
+            r.similarity = $score,
+            r.equipment1 = $eq1,
+            r.equipment2 = $eq2
+    """, f1=f1, f2=f2, eq1=eq1, eq2=eq2, score=score)
 
+def insert_cause_similarity(tx, f1, f2, c1, c2, score):
+    tx.run("""
+        MATCH (e1:Incident {filename: $f1}), (e2:Incident {filename: $f2}),
+              (c1:Cause {description: $c1}), (c2:Cause {description: $c2})
+        MERGE (e1)-[r:SIMILAR_CAUSE]->(e2)
+        ON CREATE SET
+            r.similarity = $score,
+            r.cause1 = $c1,
+            r.cause2 = $c2
+    """, f1=f1, f2=f2, c1=c1, c2=c2, score=score)
+
+def insert_impact_similarity(tx, f1, f2, i1, i2, score):
+    tx.run("""
+        MATCH (e1:Incident {filename: $f1}), (e2:Incident {filename: $f2}),
+              (i1:Impact {description: $i1}), (i2:Impact {description: $i2})
+        MERGE (e1)-[r:SIMILAR_IMPACT]->(e2)
+        ON CREATE SET
+            r.similarity = $score,
+            r.impact1 = $i1,
+            r.impact2 = $i2
+    """, f1=f1, f2=f2, i1=i1, i2=i2, score=score)
+
+def insert_overall_similarity(tx, f1, f2, score):
+    tx.run("""
+        MATCH (e1:Incident {filename: $f1}), (e2:Incident {filename: $f2})
+        MERGE (e1)-[r:SIMILAR_OVERALL]->(e2)
+        ON CREATE SET r.similarity = $score
+    """, f1=f1, f2=f2, score=score)
 
 # Step 5: Attribute-level logical relationship construction
 def restructure_graph_relationships(tx):
     queries = [
-        # Task → Cause
+        # Incident → Detection
         """
-        MATCH (i:Incident)-[:RELATED_TO_TASK]->(t:Task), (i)-[:HAS_CAUSE]->(c:Cause)
-        MERGE (t)-[:CAUSES]->(c)
+        MATCH (i:Incident)-[:detected_by]->(d:Detection)
+        MERGE (i)-[:detected_by]->(d)
         """,
-        # Cause → Event
+
+        # Incident → Equipment
         """
-        MATCH (i:Incident)-[:HAS_CAUSE]->(c:Cause), (i)-[:HAS_EVENT]->(e:Event)
-        MERGE (c)-[:TRIGGERS]->(e)
+        MATCH (i:Incident)-[:involved]->(e:Equipment)
+        MERGE (i)-[:involved]->(e)
         """,
-        # Event → Influence
+
+        # Incident → Corrective Actions
         """
-        MATCH (i:Incident)-[:HAS_EVENT]->(e:Event), (i)-[:HAS_INFLUENCE]->(inf:Influence)
-        MERGE (e)-[:IMPACTS]->(inf)
+        MATCH (i:Incident)-[:resolved_by]->(c:CorrectiveAction)
+        MERGE (i)-[:resolved_by]->(c)
         """,
-        # Influence → CorrectiveAction
+
+        # Incident → Causes
         """
-        MATCH (i:Incident)-[:HAS_INFLUENCE]->(inf:Influence), (i)-[:HAS_CORRECTIVE_ACTIONS]->(ca:CorrectiveAction)
-        MERGE (inf)-[:ADDRESSED_BY]->(ca)
+        MATCH (i:Incident)-[:caused_by]->(c:Causes)
+        MERGE (i)-[:caused_by]->(c)
+        """,
+
+        # Incident → Impacts
+        """
+        MATCH (i:Incident)-[:resulted_in]->(imp:Impact)
+        MERGE (i)-[:resulted_in]->(imp)
         """
     ]
     for q in queries:
@@ -138,48 +201,46 @@ with driver.session(database="ler50") as session:
     for event in tqdm(data, desc="Inserting incidents"):
         session.write_transaction(insert_event, event)
 
-embedding_cache = {}
-for e in data:
-    task_text = " ".join(e["attributes"].get("Task", []))
-    if task_text:
-        embedding_cache[e["filename"]] = model.encode(task_text, convert_to_tensor=True)
-
 linked_records = []
 with driver.session(database="ler50") as session:
     for i in tqdm(range(len(data)), desc="Linking similar incidents"):
         e1 = data[i]
         f1 = e1["filename"]
-        if f1 not in embedding_cache:
-            continue
+        eq1 = " ".join(e1["attributes"].get("Equipment", []))
+        c1 = " ".join(e1["attributes"].get("Causes", []))
+        i1 = " ".join(e1["attributes"].get("Impacts", []))
         for j in range(i + 1, len(data)):
             e2 = data[j]
             f2 = e2["filename"]
-            if f2 not in embedding_cache:
-                continue
-            task_sim = util.pytorch_cos_sim(embedding_cache[f1], embedding_cache[f2]).item()
-            if task_sim >= SIMILARITY_THRESHOLD:
-                cause_sim = calculate_similarity(" ".join(e1["attributes"].get("Cause", [])),
-                                                 " ".join(e2["attributes"].get("Cause", [])))
-                event_sim = calculate_similarity(" ".join(e1["attributes"].get("Event", [])),
-                                                 " ".join(e2["attributes"].get("Event", [])))
-                infl_sim = calculate_similarity(" ".join(e1["attributes"].get("Influence", [])),
-                                                " ".join(e2["attributes"].get("Influence", [])))
-                session.write_transaction(insert_similarity, f1, f2,
-                                          " ".join(e1["attributes"]["Task"]),
-                                          " ".join(e2["attributes"]["Task"]),
-                                          {
-                                              "task_similarity": task_sim,
-                                              "cause_similarity": cause_sim,
-                                              "event_similarity": event_sim,
-                                              "influence_similarity": infl_sim
-                                          })
+            eq2 = " ".join(e2["attributes"].get("Equipment", []))
+            c2 = " ".join(e2["attributes"].get("Causes", []))
+            i2 = " ".join(e2["attributes"].get("Impacts", []))
+            equipment_sim = calculate_similarity(eq1, eq2)
+            cause_sim = calculate_similarity(c1, c2)
+            impact_sim = calculate_similarity(i1, i2)
+            total_sim = ( 
+                equipment_weight * equipment_sim + 
+                cause_weight * cause_sim + 
+                impact_weight * impact_sim
+            )
+
+            if equipment_sim >= SIMILARITY_THRESHOLD:
+                session.write_transaction(insert_equipment_similarity, f1, f2, eq1, eq2, equipment_sim)
+            if cause_sim >= SIMILARITY_THRESHOLD:
+                session.write_transaction(insert_cause_similarity, f1, f2, c1, c2, cause_sim)
+            if impact_sim >= SIMILARITY_THRESHOLD:
+                session.write_transaction(insert_impact_similarity, f1, f2, i1, i2, impact_sim)
+            if total_sim >= SIMILARITY_THRESHOLD:
+                session.write_transaction(insert_overall_similarity, f1, f2, total_sim)
+
+            if any(sim >= SIMILARITY_THRESHOLD for sim in [equipment_sim, cause_sim, impact_sim, total_sim]):
                 linked_records.append({
                     "filename_1": f1,
                     "filename_2": f2,
-                    "task_similarity": task_sim,
+                    "equipment_similarity": equipment_sim,
                     "cause_similarity": cause_sim,
-                    "event_similarity": event_sim,
-                    "influence_similarity": infl_sim
+                    "impact_similarity": impact_sim,
+                    "total_similarity": total_sim
                 })
     # Final step: restructure attribute relationships
     session.write_transaction(restructure_graph_relationships)

@@ -3,8 +3,8 @@ import re
 import pdfplumber
 from tqdm import tqdm
 
-RAW_LER_DIR = "../../data/raw/ler"
-OUTPUT_TEXT_DIR = "../../data/processed/ler_text"
+RAW_LER_DIR = "/../../../../../data/raw/ler"
+OUTPUT_TEXT_DIR = "/../../../../../data/processed/ler_text"
 
 os.makedirs(OUTPUT_TEXT_DIR, exist_ok=True)
 

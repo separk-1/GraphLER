@@ -2,3 +2,8 @@
 uri = bolt://localhost:7687
 username = neo4j
 password = your_password_here  ; ← Change this to your actual password
+
+[SIMILARITY_WEIGHTS]
+equipment = 0.5
+cause = 0.3
+impact = 0.2

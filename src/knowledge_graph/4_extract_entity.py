@@ -11,37 +11,40 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # File paths
-MERGED_CSV_PATH = "../../data/processed/ler_structured_with_cfr.csv"
-OUTPUT_JSONL_PATH = "../../data/processed/ler_kg.jsonl"
+MERGED_CSV_PATH = "/../../../../../data/processed/ler_structured_with_cfr.csv"
+OUTPUT_JSONL_PATH = "/../../../../../data/processed/ler_kg.jsonl"
 
 # GPT-based attribute extraction
 def extract_attributes(text):
-    prompt = f"""
-    You are an expert in extracting structured and generalized information from incident reports.
+    prompt = f""" 
+    You are an expert in extracting structured and generalized information from incident reports. 
 
-    Your task is to extract the following six attributes from the provided text, summarizing each with a **single generalized keyword** inside a JSON array.
+    Your task is to extract the following entities from the provided text, summarizing each with a **single generalized keyword** inside a JSON array. 
 
-    Definitions:
-    - "Task": The general type of activity that was being performed when the incident occurred.
-    - "Event": What happened during the incident — summarize as a broad event type.
-    - "Cause": The primary reason the incident happened — summarize as a single cause.
-    - "Influence": The main consequence or impact caused by the event.
-    - "Corrective Actions": The general action taken in response to the incident.
-    - "Similar Events": Other incidents of a similar nature, if known; otherwise, return an empty list.
+    Entity Definitions:
+    - "Detection": How the incident was discovered (e.g., "alarm", "inspection", "operator-observation") 
+    - "Equipment": Primary equipment involved in the incident (e.g., "pump", "valve", "sensor") 
+    - "Failure_Type": Type of equipment failure (e.g., "mechanical", "electrical", "software") 
+    - "Corrective_Actions": Actions taken to address the incident (e.g., "repair", "replacement", "procedure-change") 
+    - "Cause_Category": Primary cause classification (e.g., "equipment", "human", "administrative", "external") 
+    - "Causes": Specific root causes identified (e.g., "wear", "miscommunication", "design-flaw") 
+    - "Impacts": Consequences of the incident (e.g., "shutdown", "delay", "safety-concern") 
 
-    Incident Description:
-    "{text}"
+    Incident Description: 
+    "{text}" 
 
-    Respond strictly in **valid JSON format** as below:
+    Respond strictly in **valid JSON format** as below: 
     {{
-    "Task": ["<one keyword>"],
-    "Event": ["<one keyword>"],
-    "Cause": ["<one keyword>"],
-    "Influence": ["<one keyword>"],
-    "Corrective Actions": ["<one keyword>"],
-    "Similar Events": []  // or ["<one keyword>"]
-    }}
+    "Detection": ["<one keyword>"], 
+    "Equipment": [] // or["<one keyword>"], 
+    "Failure_Type": ["<one keyword>"], 
+    "Corrective_Actions": [] // or ["<one keyword>"], 
+    "Cause_Category": ["<one keyword>"], 
+    "Causes": [] // or ["<one keyword>"], 
+    "Impacts": [] // or ["<one keyword>"], 
+    }} 
     """
+
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",  # 
@@ -83,12 +86,13 @@ def main():
                 node = {
                     "filename": row.get("File Name", ""),
                     "attributes": {
-                        "Task": attributes.get("Task", "Unknown"),
-                        "Event": attributes.get("Event", "Unknown"),
-                        "Cause": attributes.get("Cause", "Unknown"),
-                        "Influence": attributes.get("Influence", "Unknown"),
-                        "Corrective Actions": attributes.get("Corrective Actions", "None"),
-                        "Similar Events": attributes.get("Similar Events", [])
+                        "Detection": attributes.get("Detection", "Unknown"),
+                        "Equipment": attributes.get("Equipment", "Unknown"),
+                        "Failure_Type": attributes.get("Failure_Type", "Unknown"),
+                        "Corrective_Actions": attributes.get("Corrective_Actions", "None"),
+                        "Cause_Category": attributes.get("Cause_Category", "Unknown"),
+                        "Causes": attributes.get("Causes", "Unknown"),
+                        "Impacts": attributes.get("Impacts", "Unknown"),
                     },
                     "metadata": {
                         "facility": {
