@@ -1,0 +1,175 @@
+/
+Nebraska Public Power District
+Always there when you need us
+NLS2018030
+May 8, 2018
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2018-001-00
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2018-001-00.
+There are· no new commitments contained in this letter.
+Sincerely,
+ohn Dent, Jr.
+Vice President Nuclear
+. Chief Nuclear Officer
+/jo
+Attachment: Licensee Event Report 2018-001-00
+cc: Regionai Administrator w/attachment NPG Distribution w/attachment
+USNRC - Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC - NRR Plant Licensing Branch IV via ICES entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+P.O. Box 98 / Brownville, NE 68321-0098
+Telephone: (402) 825-3811 / Fax: (402) 825-5211
+www.nppd.com
+NRG FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+i <>"'" arc,,, Reported lessons learned are incorporated into the licensing process and fed back to
+<> ~,
+.; . . 0~ LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+~ (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+; =<> (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+i ,ff Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+.,.~'> .,.. ... «-- v,Ot, (See N h U ttp R :/ E /w G w - w 10 .n 2 r 2 c. , g R ov .3 /r e fo a r d i i n n q s - t r r m uc /d ti o o c n - c a o n ll d e c g ti u o i n d s a /n n u c r e e g fo s r / s c ta o f m f/s p r l 1 e 0 ti 2 n 2 g / r t 3 h / i ) s form Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to the information collection.
+1. Facility Name 2. Docket Number 13. Page
+Cooper Nuclear Station 05000298 1 OF 3
+4. Title
+Inadequate Packing on Motor Operated Valve Results in Unplanned High Pressure Coolant Injection
+lnoperability and a Loss of Safety Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year Facility Name Docket Number
+Number No. 05000
+Facility Name Docket Number
+03 10 18 2018 -001 -00 05 08 18
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1 D 20.2201(ct) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) [8J 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+µim Shaw K402) 825-2788
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+D BJ ISV A391 y
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On March 10, 2018, while returning High Pressure Coolant Injection (HPCI) and Augmented Off-Gas to service following
+planned maintenance, Cooper Nuclear Station (CNS) Operations personnel observed rising pressure in the drywell.
+During the HPCI restoration, HPCI-MOV-M015 was cycled and left open as part of the return to service process. Shortly
+thereafter, drywell temperature and pressure started to slowly rise. It was determined the most likely cause of the change
+in drywell parameters was due to the stroking of HPCI-MOV-M015. A decision was made to close the valve to stop the
+leak, resulting in an unplanned entry into Technical Specification Limiting Condition for Operation 3.5.1, due to HPCI
+inoperability. Following valve closure, drywell temperature and pressure, along with the unidentified leakage rate,
+decreased. A decision was made to perform a normal plant shutdown to make repairs.
+CNS entered Mode 3, Hot Shutdown, on March 11, 2018. New packing was installed on HPCI-MOV-M015 and CNS
+returned to Mode 1, Power Operation, on March 17, 2018.
+The cause of the packing leak was determined to be that in effort to preserve and maximize the margin for the stroking
+function, packing consolidation and torquing methods were altered which impacted packing sealing performance.
+No safety consequences were associated with this condition.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rrn/doc-collections/nureqs/staff/sr1022/r3D NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUMBER NO.
+2018 -001 -00
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operations, 100 percent power, at the time of discovery.
+BACKGROUND
+The High Pressure Coolant Injection (HPCI) System [EIIS:BJ] provides protection to the core for the case of a
+small break in the reactor coolant pressure boundary which does not result in a rapid depressurization of the
+reactor vessel. The HPCI System permits the nuclear plant to be shutdown while maintaining sufficient reactor
+vessel water inventory until the reactor vessel is depressurized. The HPCI System continues to operate until
+reactor vessel pressure is below the pressure at which Low Pressure Coolant Injection [EIIS:BO] operation or
+Core Spray System [EIIS:BM] operation can be used to maintain core cooling.
+HPCI consists of a steam turbine assembly [EIIS:TRB] driving a multi-stage booster and main pump assembly
+[EIIS:P] and system piping, valves, controls and instrumentation. The HPCI turbine is driven by steam from
+the reactor which is generated by decay and residual heat.
+There are two normally open containment isolation valves in the main steam supply line to the turbine. One of
+these valves, HPCI-MOV-M015 is located in the drywell. These containment isolation valves [EIIS:ISV]
+automatically close upon receipt of a HPCI turbine steam line high flow signal, or a HPCI turbine steam supply
+low pressure signal, or high steam line space temperature.
+EVENT DESCRIPTION
+On March 10, 2018, while returning HPCI and Augmented Off-Gas to service following planned maintenance
+to repair a steam leak on an associated drain line, CNS entered abnormal procedure 2.4PC, "Primary
+Containment Control" due to rising pressure in the drywell.
+During the HPCI restoration, HPCI-MOV-M015 steam supply inboard isolation valve was cycled and left open
+as part of the return to service process. Shortly thereafter, drywell temperature and pressure started to slowly
+rise, causing entry into the abnormal procedure. Operations and Engineering personnel determined the most
+likely cause of the change in drywell parameters was due to the stroking of HPCI-MOV-M015. A decision was
+made to close the valve to stop the leak, causing HPCI to be inoperable resulting in an unplanned entry into
+Technical Specification Limiting Condition for Operation 3.5.1 due to isolating the steam supply to HPCI.
+Following valve closure, drywell area temperatures and pressure, along with the unidentified leakage rate,
+decreased. A decision was made to perform a normal plant shutdown to make repairs.
+CNS entered Mode 3, Hot Shutdown, on March 11, 2018. New packing was installed on HPCI-MOV-M015 on
+March 15, 2018, and CNS returned to Mode 1, Power Operation, on March 17, 2018.
+NRC FORM 366 (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+.,a>"""'~,'! lessons learned are incorporated into the licensing process and fed back to industry. Send
+(~\ LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\~I.$: Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+........ CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3[) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUMBER NO.
+2018 -001 -00
+BASIS FOR REPORT
+This event is being reported per 1O CFR 50. 73(a)(2)(v) as "any event or condition that could have prevented
+the fulfillment of the safety function of structures or systems that are needed to ..... (D) Mitigate the
+consequences of an accident."
+Event Notification 53253 was made at 13:54, March 10, 2018.
+SAFETY SIGNIFICANCE
+This is a safety system functional failure. There were no safety consequences of this failure since the plant
+shutdown to repair the problem long before any technical specification limits were exceeded. All plant systems
+responded as expectep.
+CAUSE
+In effort to preserve and maximize the margin for the MOV stroking function, packing consolidation and
+torquing methods were altered which impacted packing sealing performance.
+CORRECTIVE ACTIONS
+Verified Reactor Core Isolation Cooling [EIIS:BN] was operable by administrative means concurrent with
+declaration of HPCI inoperable.
+HPCI-MOV-M0-15 was repacked.
+To prevent recurrence, station procedures, where the margin to packing performance has been allowed to
+decline, will be corrected.
+PREVIOUS EVENTS
+There have been no events reported in the last three years related to valve packing.
+NRC FORM 366 (04-2018) Page 3 of 3

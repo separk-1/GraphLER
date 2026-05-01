@@ -1,0 +1,257 @@
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604399 10 CFR 50.73
+SRRS 5A.108
+December 18, 2018
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+'
+Subject: - Licensee Event Report 2017-008-01
+Enclosed is Licensee Event Report (LER) 2017-008~01: Division 3 Shutdown Service Water
+Pump Start Failure. This is the supplemental report to LER 2017-008-00 submitted to the NRC
+on August 11, 2017. The upd9-ted information in the L_ER is denoted by revision bars located in
+the right-hand margin. This ·report is being submitted in accordance with the requirements of 1o
+CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions conc.erning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~~-·:,)
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/lam
+Attachment: Licensee Event Report 2017-008-01
+cc:
+Regional Administrator - Region Ill
+NRC Senior Re9.ident Inspector~ Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+<)P"""c"<-. LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+.:.J ~ ~ >o .. . " .. (See Page 2 for required number of digits/characters for each block) i ( n T d -2 u s F tr 4 y 3 . ), S U en .S d . c N o u m c m lea e r n t R s eg re u g la a t r o d r i y n g C o b m ur m de is n s io e n s , t im W a a t s e h i t n o g t t o h n e , D In C fo r 2 m 0 a 5 t 5 io 5 n -0 0 S 0 e 1 r , v i o ce r s b y B e ra -m nc a h il
+C :0 to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+~ ~ ....... (; (See NUREG-1022, R.3 for instruction and guidance for completing this form W Re a g s u h l i a n t g o t r o y n , A D ff C ai r 2 s, 0 50 N 3 E . OB If - 1 a 02 m 02 e , a ns (3 1 u 5 s 0 e - d 0 1 t 0 o 4 ) i , m p O os ff e ic e a n o i f n fo M rm an a a tio g n e m c e o n ll t e ct a io n n d do B e u s d g n e o t, t
+~1'.., . ~o~ htti;i://www.nre.gov/reading-rm/doc-collections/nu regs/staff/sr1 022/r30 display a currently valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection .
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station,.Unit 1 05000461 1 OF 5
+4. Title
+Division 3 Shutdown Service Water Pump Start Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year· I S N eq u u m e b n e ti r a l I R N e o v . Month Day Year Facility Name 05 D 0 o 0 c 0 ke t Number •
+06 15 2017 2017 - 008 - 01 12 18 2018 Facility Name 05 D 0 o 0 c 0 ke t Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: {Check all that apply}
+D D D D
+20.2201 (bl 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(aH4l 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(iiJ D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iiil 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (aH5l
+D D D D
+20.2203(a)(2)(iv) 5o.46(a)(3)(iil 50.73(a)(2)(v)(C) 73.77(a)(1J
+097 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) [8J 50.73(a)(2)(v)(D) D 73.77(a)(2)(il
+D [8'.J D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iil
+~I!.~~ D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A}
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES ;\:; Cause System Component Manufacturer Reportable to ICES
+B Bl p Sulzer y '.
+'"
+14. Supplemental Report Expected
+Month Day Year
+D Yes (If yes, complete 15. Expected Submission·oate) t8l No 15. Expected Submission Date
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On June 15, 2017, Clinton Power Station (CPS) commenced procedure CPS 9069.01, Shutdown Service Water
+Operability Test. The purpose of this procedure is to verify operability of the Division 3 Shutdown Service Water (SX)
+System Pump 1S X01 PC and selected valves per the lnservice Testing program on a quarterly basis. At 0958, SX
+pump 1S X01 PC was started and after approximately 30 seconds, it tripped due to thermal overload. The pump was
+declared inoperable and Operations entered Technical Specifications (TS) Limiting Condition for Operation (LCO)
+3.7.2, Condition A which requires the High Pressure Core Spray (HPCS) system to be declared inoperable and enter
+TS LCO 3.5.1 Condition B which requires verification by administrative means that the Reactor Core Isolation Cooling
+(RCIC) system is operable and within 14 days restore the HPCS system to operable status. The cause of the event
+was an incremental increase in internal pump resistance that could not be overcome by the developed torque of the
+motor starting from standby conditions. This increased pump resistance was due to unidentified impacts during a
+design modification (i.e., dry packing at pump start, unidentified corrosion effects on packing shaft sleeve, and
+inadequate hard-face material). Another root cause was the untimely implementation of a corrective action that
+resulted from a 2014 causal evaluation due to inadequate procedure guidance. Corrective actions have been
+completed to restore operability of 1S X01 PC and ensure failure mechanisms introduced by design changes have been
+assessed. This event is reportable under 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented the
+fulfilment of a safety function and 10 CFR50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Seivices Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3Q sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+I
+2017 - 008 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Hated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Division 3 Shutdown Service Water Pump Start Failure
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: 6/15/17 Event Time: 0958
+Mode: 1 Mode Name: Power Operation Reactor Power: 97 percent
+B. Description of Event
+On June 15, 2017, Clinton Power Station (CPS) attempted to perform the quarterly surveillance test of
+the Division 3 shutdown service water (SX) [Bl] pump [P] (1 SX01 PC). The pump ran for approximately
+30 seconds before thermal overloads tripped the pump motor [M].
+At 0958, Operators declared the Division 3 SX, Division 3 Emergency Diesel Generator (EOG) [EK],
+Division 3 Inverter [EF], Division 3 Direct Current Distribution [EJ], Division 3 Alternating Current
+Distribution [ED], and the High Pressure Core Spray (HPCS) [BG] system inoperable due to the pump
+trip. Operators entered the Technical Specification Actions Requirements for Limiting Condition for
+Operation (LCO) 3.7.2 and LCO 3.5.1, ECCS - Operating. Operators verified within one hour that the
+Reactor Core Isolation Cooling (RCIC) system was operable and entered the action to restore HPCS to
+operable status within 14 days.
+A second pump run was attempted with video recording that showed the motor spinning the shaft more
+quickly for the first rotation, then immediately slowing down to approximately 70 RPM. The run lasted
+approximately 8 seconds before the pump was manually secured.
+At 2220 hours, Operators completed an 8-hour non-emergency notificatio·n to the NRC (Event
+Notification Number 52806) under 10 CFR 50.72(b)(3)(v)(D) due to the loss of a single train safety
+system, that is, inoperability of the HPCS system function. This event is reported under
+1O CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications and under
+1O c·FR 50.73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of a safety function.
+This is because the Division 3 SX pump was potentially inoperable greater than the 14 days allowed for
+an inoperable HPCS system by TS 3.5.1 Condition B, (last successful run of the Division 3 SX ·pump
+was on March 15, 2017, prior to pump failure on June 15, 2017, and return to service on June 23,
+2017). This condition could have prevented the fulfillment of the safety function of structures or
+systems that are needed to mitigate the consequences of an accident.
+NRC FORM 366A (04-2018) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+{04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resdurce@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See-NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 008 - 01
+NARRATIVE
+C. Cause of the Event
+The causal evaluation identified two root causes fundamental to the failure of the Division 3 SX Pump:
+1. Incremental increase in internal pump resistance that could not be overcome by the developed
+torque of the motor starting from standby conditions. This increased pump resistance was due
+to unidentified impacts during a design modification (i.e., dry packing at pump start, unidentified
+corrosion effects on the packing shaft sleeve, and inadequate hard-face material).
+2. The corrective action to ·replace the Division 3 SX Pump resulting from a 2014 failure to start
+was not timely to prevent a recurrence. This was due to inadequate .procedural guidance for
+promptly identifying and validating failure modes and effects and developing a remediation
+strategy for the deficient design condition to support well-timed corrective action in the event
+that the design condition cannot be immediately corrected.
+D. Safety Consequences
+The purpose for the Division $ SX system is to provide cooling water to Division 3 cooling loads
+including the HPCS pump room coolers [CLR], the Division 3 EOG and the Division 3 Switchgear Heat
+Removal System (VX). The Division 3 SX header is normally supplied cooling water from the non
+safety related Plant Service Water Sy$tem (WS) [KG]. Under design basis event conditions such as a
+Loss of Offsite Power (LOOP) or Loss of Coolant Accidents (LOCAs), a Division 3 SX pump start signal
+is generated and the cross-tie valve [V] (1 SX014C) from the WS system closes. At this point the
+Division 3 SX pump would be providing cooling water flow from the lake to the Division 3 SX cooling
+loads.
+Divisions 1 and 2 safety-related equipment remained fully capable of mitigating the consequences of an
+accident and were available during the period of this event.
+The failure of the Division 3 Shutdown Service Water Pump resulted in inoperability of Division 3
+Emergency Diesel Generator safety function and inoperability of the HPCS System safety function.
+The event described in this report constitutes a safety system functional failure.
+NRG FORM 366A {04-2018) Page_3_ of~
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30
+1. FACILITY NAME 2:DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 • 008 01
+NARRATIVE
+E. Corrective Actions
+Several component changes were made to the overall pump/motor assembly. A new motor with higher
+starting torque characteristics was installed. The pump breaker and thermal overloads were replaced
+with new units. The pump shaft sleeves were replaced and the pump packing was replaced with a
+flexible self-lubricating style·equivalent.
+On June 23, 2017, following a successful uncoupled run of the new motor, a coupled run· was
+performed with no abnormalities noted. All monitored points showed normal starting characteristics for
+the pump. The baseline and surveillance test procedures were performed without incident.
+The Division 3 SX system, including the Division 3 EOG and HPCS system werE;) declared operable at
+2345 hours on June 23, 2017.
+Additional corrective actions include establishing a preventative maintenance task to periodically
+inspect the pump packing shaft sleeve for corrosion.
+Corrective Actions for the second root cause were to revise plant procedures to include specific
+guidance to take actions for informing the timeliness of corrective actions for design related issues in
+cases where the deficient design is still installed or in use and the failure modes and effects of that
+design are not fully validated. In addition, a design verification of the Division 3 SX pump was
+completed to ensure failure mechanisms introduced by design changes have been identified. No
+additional design failure modes were identified.
+F. Previous Similar Occurrences
+. LER 2014-005-01 Failure of Shutdown Service Water Pump Results in Loss of Division 3
+Emergency Diesel Generator and High Pressure Core Spray Safety Functions
+On September 16, 2014 at approximately 1905 hours, Operators were performing an operability test of
+the Shutdown Service Water (SX) system. The Division 3 SX pump (1 SX01 PC) was started to support
+the 2-year Comprehensive Pump Test and the motor thermal overload protection tripped off the pump
+after approximately 36 seconds. The cause of the event was that procedures used to develop plant
+modification change packages contained an inadequate process to identify the need for further reviews
+and the level of design detail required by those reviews. A new pump was installed and the pump was
+restored to operable status on September 21, 2014. (ML 16006A047).
+NRC FORM 366A (04-2018) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 008 01
+NARRATIVE
+G. Component Failure Data
+The Division 3 SX pump is a Sulzer Model 8X14A VCM pump with a Siemens-Allis Type RGV motor.
+The pump is a vertical two-stage deep well pump that consists of a discharge head, six columns, and a
+bowl assembly to extend 30 feet below the floor elevation. The pump is driven by a 75 horsepower,
+1800 RPM, 480-volt motor.
+NRG FORM 366A (04-2018) Page _5_ of _5_

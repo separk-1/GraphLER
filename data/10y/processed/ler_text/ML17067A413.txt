@@ -1,0 +1,190 @@
+_,,, Exelon Generation®
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604334 10CFR50.73
+March 6, 2017 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2016-010-01 ·
+Enclosed is Licensee Event Report (LER) 2016-010-01: Failure to Complete Technical
+Specification Required Actions within the Completion Time Resulted in a Condition
+Prohibited by Technical Specifications. This report is being submitted in accordance with the
+requirements of 10 CFR 50.73 and is a follow up to LER 2016-010-00 provided on December
+13, 2016. Revision bars are provided in the margins to denote modifications made to the
+content of the LER since the previous submittal.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+·Regulatory Assurance Manager, at (217) 937-2800.
+~~SJ~~
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: Licensee Event Report 2016-010-01
+cc:
+Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety- Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) lo lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an information collection does not display a currently valid OMB control
+number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 3
+4. TITLE
+Failure to Complete Technical Specification Required Actions within the Completion Time Resulted in a Condition
+Prohibited by Technical Specifications
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+FACILITY NAME DOCKET NUMBER
+10 14 2016 2016 - 010 - 01 03 06 2017 05000
+9. OPERATING MODE. 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Checks/I that apply)
+D 0 D D
+20.2201(b) 20.2203(a)(3)(i) S0.73(a)(2)(ii)(A) · 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(dl 20.2203(alC3l(ii) s0.73(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.13(a)(2)(iiil 50. 73(a)(2)(ixJ(A)
+D D D · D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 13.11cal(4)
+D D D D
+20.2203(a)(2)(iii) 5o.3s(c)(2l 50.73(a)(2)(v)(B) 13.11ca)(5)
+D D D D
+20.2203(a)(2)(iv) 5o.4s(a)(3)(ii) 50.73(a)(2)(v)(C) 13.77(a)(1)
+D D D D
+099 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) S0.73(a)(2)(v)(D) 13.11(a)(2)(i)
+D 20.2203(a)(2)(vi) [8J 50. 73(a)(2)(i)(B) · D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D D
+50. 73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT !TELEPHONE NUMBER (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217-937-2800 -
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAlLURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE .. , CAUSE SYSTEM COMPONENT. MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX. ....
+1-----+----+------1~----+-----t···t------+-----+-----+----------+--------
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE} [8J NO SUBMISSION
+DATE
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 14, 2016, Clinton Power Station (CPS) determined subsequent to the 3rd Quarter NRC Exit Meeting that a
+condition prohibited by Technical Specification (TS) 3.7.6, "Main Turbine Bypass System," had occurred associated with
+a failure to complete a TS Required Action within the associated Completion Time. Specifically, testing of Main Steam
+Turbine Bypass Valve (TBV) Numbers 4, 5, and 6 was not performed within the required test interval and the TBVs
+were appropriately declared inoperable as required by TS Surveillance Requirement .(SR) 3.d.1. Thermal Limit
+penalties were applied as required by Limiting Condition tor Operation (LCO) 3.7.6. A Surveillance Frequency Change
+was processed in accordance with TS Program 5.5.16, "Surveillance Frequency Control Program," in June 2016 to
+change the Frequency tor SR 3.7.6.1 from 31 days to 12 months. TBVs 5 and 6 were subsequently declared
+OPERABLE and the thermal limit penalties removed without performing the required SR 3.7.6.1, contrary to TS SR
+3.0.1 Bases. The apparent cause of this event was determined to be that no specific requirement exists in either plant
+procedures or industry guidance which prohibits declaring a component or system OPERABLE based solely on an
+extension of the required surveillance test interval. Corrective actions include testing the valves with an alternate
+method and completing administrative procedure changes. This event is reportable under 10 CFR 50.73(a)(2)(i)(B) as a
+condition prohibited by TS.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarcing burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LEA) F53), U.S. Nuclear Reg~atory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washing1on, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 010 - 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX]
+EVENT IDENTIFICATION
+Failure to Complete Technical Specification Required Actions within the Completion Time
+Resulted in a Condition Prohibited by Technical Specifications·
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 10/14/16 Event Time: 0830
+Mode: 1 Mode Name: P?wer Operation Reactor Power: 99 percent
+B. DESCRIPTION OF EVENT
+· On October 14, 2016, Clinton Power Station (CPS) det~rmined subsequent to the 3rd Quarter I
+NRC Exit Meeting that a condition prohibited by Technical Specification {TS) 3.7.6, "Main Turbine
+·Bypass System,'' had occurred associated with a failure to complete a TS Required Action within
+the associated Completion Time. Specifically, on June 6, 2016, the TS Limiting Condition for
+Operations (LCO) Surveillance Requirement (SR) 3.0.2 grace period of 1.25 times the normal
+required Frequency (31 days) for completing testing of the Main Steam Bypass Valves per SR
+3.7.6.1 was exceeded for the Main Turbine Bypass System. Turbine Bypass Valves (TBV) 4, 5,
+and 6 were not tested within the required Frequency and the valves were declared inoperable as
+required by TS SR 3.0.1.Thermal Limit penalties were applied as required by LCO 3. 7.6.
+On July 7, 2016, a Surveillance Frequency Ch?nge was processed in accordance with TS
+Program 5.5.16, "Surveillance Frequency Control Program," for TS SR 3.7.6.1 to change the
+required Frequency from 31 days to 12 months. The last performance credit date of the TBV test
+was April 28, 2016. This new revision changed the due date for testing the TBVs to April 28, 2017.
+With TBV testing performed within the new required interval, the valves were declared OPERABLE
+and the Thermal Limit penalties removed without performing the required SR 3.7.6.1. It was
+subsequently determined, however, that in accordance with TS SR 3.0.1 Bases, the Surveillance
+had to be met and performed in accordance with SR 3.0.2 prior to returning equipment to
+OPERABLE status.
+The failure to perform the TS SR within the test interval without applying the Actions of TS 3.7.6
+. was a condition prohibited by TS.
+NRC FORM 366A (06·2016) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/3112018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+iJ~MOut..~C\, comments regarcing burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+l i LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\~ ~j CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (315(}0104), Office of Management and Budget, Washington, DC 20503. If a means
+ii) ....... .. used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 010 - ' 01
+NARRATIVE
+I
+A surveillance test for TBVs 4, 5, and 6 was satisfactorily completed on September 28, 2016
+using an alternate methodology.
+C. CAUSE OF EVENT
+No specific requirement exists in either Exelon administrative procedures or NEI 04-10, "Risk
+Informed Technical Specifications," which prohibits declaring a component or system OPERABLE
+based solely on an extension of the required surveillance test interval. Licensed operator staff
+incorrectly interpreted TS SR 3.0.1 ·Bases based on the guidance provided iri OP-AA-108-106,
+"Equipment Return to Service."
+D. SAFETY ANALYSIS
+·. There were no safety consequences associated with the event described in this report since no
+thermal limits were exceeded during the time the thermal limit penalty was not invoked .. A
+subsequent surveillance test of TBVs 4, 5, and 6 was satisfactorily completed on September 26,
+2016, using an alternate test method, demonstrating that the TBVs would have properly
+responded to an event. The ability of the plant to safely shutdown was not affected as a result
+of the conditions described in this report.
+E. CORRECTIVE ACTIONS
+Turbine Bypass Valves 4, 5, and 6 were satisfactorily tested on September 28, 2016 using an
+alternate test methodology. The insight gained from this event was shared with on-shift
+licensed operators and the Exelon Operations peer group. Operating procedure changes are
+being made to ensure the requirements of SR 3.0.1 are clear regarding implementation of
+surveillance frequency changes.
+F. PREVIOUS SIMILAR OCCURENCES
+There were no previous occurrences associated with this event.
+G. COMPONENT FAILURE DATA
+There was not a component failure associated with this event.
+NRC FORM 366A (06-2016) Page _3_ of _3_

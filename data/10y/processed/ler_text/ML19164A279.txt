@@ -1,0 +1,242 @@
+fl,
+Xcel Energy®
+RESP O NS I BL E B V NAT U RE® 2807 West County Road 75
+Monticello, MN 55362
+June 13, 2019 L-MT-19-032
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Monticello Nuclear Generating Plant
+Docket No. 50-263
+Renewed Facility Operating License No. DPR-22
+LER 2019-001-00, RHR Decay Heat Removal Pump Start Permissive Logic Hardening Error
+Northern States Power Company, a Minnesota corporation, doing business as Xcel Energy
+hereby submits Monticello Nuclear Generating Plant (MNGP) Licensee Event Report (LER)
+2019-001-00 "RHR Decay Heat Removal Pump Start Permissive Logic Hardening Error"
+pursuant to 10 CFR 50.73(a)(2)(i)(B) as an operation or condition which was prohibited by the
+plant's Technical Specification.
+Summary of Commitments
+This letter es no new commitments and no revisions to existing commitments.
+d~
+---r.:.o~A-':> C.0.v~~ Fo fl.. 0,~ l~\\TO f'l-l.6..17-. c.H, ... ~\~
+Christopher R. Church
+Site Vice President, Monticello Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure
+cc: Administrator, Region Ill, USNRC
+Project Manager, Monticello Nuclear Generating Plant, USNRC
+Resident Inspector, Monticello Nuclear Generating Plant, USNRC
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+l,~:; c )P'U ~ Ea,, ?1 . . ~ LICENSEE EVENT REPORT (LER) R in e d p u o s r t t r e y. d S l e es n s d o n c s o m le m a e rn n e ts d r a e r g e a rd in in c g o rp b o u r r a d te e d n e in s t t o im t a h t e e l t i o c en th s e in g In fo p r r m oc a e ti s o s n a S n e d r v f ic e e d s b B a r c a k n c t h o
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+\C ~ ~i0 (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+°'-'? ·••11:• +o (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/)
+display a currenUy valid 0MB control number, the NRC may not conduct or sponsor, and a
+nerson is not renuired to resnond to the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Monticello Nuclear Generating Plant 05000-263 1 1 OF4
+4. Title
+RHR Decay Heat Removal Pump Start Permissive Logic Hardening Error
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+04 13 2019 2019 001 00 06 13 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O C FR §: (Check all that apply)
+•
+20.2201 (b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+4
+• •
+20.2201 (d) D 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(~)(iii) D 50.73(a)(2)(ix)(A)
+•
+D 20.2203(a)(2)(i) 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+•
+10. Power Level D 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D so.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+0 D 20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+•
+D 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) [gj 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+•
+50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact fielephone Number (Include Area Code)
+!Gus Hernandez 1(763)-271-67 46
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+D BO p B260 y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+D Yes (If yes, complete 15. Expected Submission Date) [gj No 15. Expected Submission Date
+!Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On April 16, 2019 at approximately 0215 with the plant shutdown in Mode 5 with the cavity flooded and fuel
+pool gates out, 13 Residual Heat Removal (RHR) Pump failed to start from the control room during
+performance of the RHR System Cold Shutdown Valve Operability Test. Investigation into the failure to start
+identified that hardening activities on Division 1 of RHR Shutdown Cooling (SOC) conducted on April 13, 2019
+resulted in defeating remote start capability of both 11 and 13 RHR pumps. This condition caused the 11 and
+13 RHR pumps to be inoperable between April 13 and April 16. With both pumps inoperable, LCOs 3.4.8,
+3.9. 7 and 3.9.8 were not met and the Required Action for one or two RHR shutdown cooling subsystems
+inoperable requiring verification of an alternate method of decay heat removal for each inoperable RHR
+shutdown cooling system within 1 hour and once per 24 hours thereafter was not performed. This condition
+was determined to be reportable in accordance with 10 CFR 50.7 3(a)(2)(i)(B), "Any operation or condition
+which was prohibited by the plant's Technical Specifications." There were no actual safety consequences from
+this condition. The 11 RHR pump was operating in SOC mode for the duration of the condition from when
+hardening was installed until the hardening error was corrected. At no time during this condition was shutdown
+cooling lost or not in service controlling reactor water temperature. A low pressure ECCS injection/spray
+subsystem was operable at all times for the duration of the condition.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2019 001 00
+EVENT DESCRIPTION
+On April 16, 2019 at 0215 with the plant shutdown in Mode 5 with the cavity flooded and fuel pool gates out,
+13 (P-202C) Residual Heat Removal (RHR) Pump [P] failed to start from the control room during performance
+of the RHR System Cold Shutdown Valve Operability Test. Investigation into the failure to start identified that
+hardening activities on Division 1 of RHR Shutdown Cooling (SOC) conducted on April 13, 2019 to prevent
+inadvertent trips of SOC resulted in defeating remote start capability of both 11 (P-202A) and 13 (P-202C)
+RHR pumps. The hardening was installed on April 13, 2019 at 1418 with the plant shutdown in Mode 4 and
+was corrected on April 16, 2019 at 0431 restoring the ability to start the 11 and 13 RHR pumps from the
+control room. Subsequently, the 11 and 13 SOC subsystems [BO] were determined to be inoperable during
+this time frame. However, 11 RHR pump was in service in SOC mode from April 13, 2019 at 1150 with the
+plant in Mode 3 prior to the installation of hardening and remained continuously in service in SOC mode
+throughout the condition providing the required decay heat removal.
+In 2018, changes to the SOC hardening procedure were initiated to create a stand-alone procedure and to
+incorporate changes resulting from implementation of Technical Specification Task Force (TSTF)-542,
+REACTOR PRESSURE VESSEL WATER INVENTORY CONTROL, License Amendment 198. This License
+Amendment added LCO 3.3.5.3, Reactor Pressure Vessel (RPV) Water Inventory Control Instrumentation,
+identifying what instrumentation must be maintained in Modes 4 and 5 for water inventory control. Per this
+LCO, isolation of the Shutdown Cooling System on low water level is no longer required in Modes 4 and 5
+provided isolation of the associated penetration flow path is not credited in calculating DRAIN TIME.
+Consequently, changes to the hardening procedure were made to open both SOC suction valves MO-2029
+[ISV] and MO-2030 [ISV] and open their associated breakers, 83333 (MO-2029, RHR S/D COOLING ISOL
+INBD 480) [52], and D313-07 (MO-2030, SHUTDOWN CLG OUTBD ISOL (250vdc)) [72] respectively, to
+prevent automatic isolation on reactor vessel low water level. However, during development of the stand-
+alone hardening procedure a step to install a jumper to bypass an open contact in the 11 and 13 RHR pumps
+remote start logic with MO-2029 breaker open did not migrate from the original procedure to the new
+document. The cause of this condition was inadequate rigor applied to the development and review of a new
+hardening procedure stemming from a narrow focus on preventing inadvertent trips of the SOC function.
+EVENT ANALYSIS
+The condition causing the 11 and 13 RHR pumps to be inoperable existed between April 13 and April 16 prior
+to identification. With both pumps inoperable, LCOs 3.4.8, 3.9.7 and 3.9.8 were not met and the Required
+Action for one or two RHR shutdown cooling subsystems inoperable requiring verification of an alternate
+method of decay heat removal for each inoperable RHR shutdown cooling system within 1 hour and once per
+24 hours thereafter was not performed. This condition was determined to be reportable in accordance with 10
+NRG FORM 366B (02-2018) Page 2 of 4
+NRG FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and lo the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.n r e.g ov/reading-rm/doc-collections/nu regs/staff/sr1 022/r3D NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2019 001 00
+CFR 50.73(a)(2)(i)(B), "Any operation or condition which was prohibited by the plant's Technical
+Specifications."
+This condition is not classified as a safety system functional failure as the shutdown cooling mode of RHR is
+not intended to mitigate the consequences of an accident as discussed in section 6.2.3.1.2 of the USAR.
+SAFETY SIGNIFICANCE
+There were no actual safety consequences from this condition. The 11 RHR pump was operating in SOC
+mode for the duration of the condition from April 13, 2019 at 1418 when hardening was installed until April 16,
+2019 at 0431 when the hardening error was corrected. At no time during this condition was shutdown cooling
+lost or not in service controlling reactor water temperature. A low pressure ECCS injection/spray subsystem
+was operable at all times for the duration of the condition.
+In the event of a trip of the operating 11 RHR pump, restart of 11 RHR pump or start of 13 RHR pump from
+the control room would not have been possible. Operators would have responded to a loss of Division 1 SOC
+by attempting to establish Division 2 RHR in SOC mode via the operations manual procedure which directs
+the operators to remove the hardening from Division 1, place Division 2 RHR in SOC and then install the
+hardening on Division 2. This method would allow a Division 2 RHR pump to be started and the pump would
+remain operating following installation of hardening. In all cases, the ability to start an RHR pump locally at
+the breaker using the pushbutton for mechanical closure of the breaker was always available and unaffected
+by the hardening error.
+In the unlikely case that no RHR pump was able to be started in shutdown cooling mode, a preliminary
+engineering analysis was performed for the limiting time to boil for the period between April 13, 2019 at 1418
+until the plant was in Mode 5 and flooded up on April 15, 2019 at 1838. The analysis shows that the limiting
+time to boil was approximately 40 minutes. Additionally, the analysis shows that if boiling had occurred prior to
+head removal, reactor pressure would have remained below the RHR pump shutoff head for six hours,
+providing time for operator action to address the condition.
+CAUSE
+During RHR hardening activities, jumpers to provide RHR pump start permissive were not installed. Causal
+evaluation determined that an Operations mindset of preventing trips of Decay Heat Removal led to
+inadequate rigor applied to the new hardening procedure. TSTF-542 implementation supported an expanded
+hardening strategy including preventing trips of the SOC suction valves on low level by opening the breakers
+to prevent valve closure. Reviewers of the new hardening procedure were focused on logic changes to
+prevent events that would result in a loss of flow (i.e., removing trips) and overlooked logic changes
+NRG FORM 366B (02-2018) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr10221r3D NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2019 001 00
+necessary to ensure pump permissive signals remained. Because of the "trip prevention" mindset, two
+individuals reviewed the changes but neither identified the omission of the needed jumper in the start logic.
+A contributing cause to the procedure error was an inappropriate safety classification of the new procedure
+that led to inadequate procedure processing. Appropriately classifying the document would have driven
+additional reviews.
+CORRECTIVE ACTIONS
+Upon discovery of the inability to remotely start 13 RHR pump, Operations installed a jumper in the start
+circuitry that allowed the pump to be started from the control room. A temporary procedure change to the
+hardening procedure was created to add jumpers for all four RHR pumps to ensure the pump start
+permissives are maintained while the system is hardened.
+Additional corrective actions to be implemented:
+• Provide Operations case study on the requisite mindset for technical rigor
+• Perform Bypass review of the new hardening procedure in accordance with fleet procedure process
+• Change fleet procedure process to clarify definition of Important to Safety/Augmented Quality to allow
+proper classification of refueling outage Controlled Documents
+• Correct the safety classification of the hardening procedure to Augmented Quality
+• Change fleet 50.59 procedure to clarify that application of Notes does not supersede Regulatory
+Review for changes to SSCs important to safety
+PREVIOUS SIMILAR EVENTS
+LER 2017-006-00, Loss of Reactor Protection System Scram Function During Main Steam Isolation Valve and
+Turbine Stop Valve Channel Functional Tests Due to Use of a Test Fixture, reported a condition where
+revision of procedures to use the Reactor Protection System (RPS) test fixture resulted in the loss of two RPS
+reactor scram functions. The cause of this error was attributed to procedures that were inappropriately revised
+due to an inaccurate mental model that the use of the test fixture could be used to bypass any function within a
+trip logic to prevent a half scram. This was considered a legacy issue that occurred circa 2009 and the
+individuals involved in the issue were no longer in the organization. Therefore, additional corrective actions
+beyond correcting the procedure error were not performed.
+ADDITIONAL INFORMATION
+The Institute of Electrical and Electronics Engineer codes for equipment are denoted by (XX].
+NRG FORM 366B (02-2018) Page 4 of 4

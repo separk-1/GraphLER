@@ -1,0 +1,282 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+December 29, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRC Docket No. 50-296
+Subject: Licensee Event Report 50-296/2017-002-00
+The enclosed Licensee Event Report provides details of a nonconforming condition
+associated with certain Browns Ferry Nuclear Plant potential transformer (PT) primary
+fuses, which do not coordinate with the associated PT's secondary fuses. The Tennessee
+Valley Authority is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations 50.73(a)(2)(ii)(B), as any event or condition that resulted in the nuclear power
+plant being in an unanalyzed condition that significantly degraded plant safety.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-296/2017-002-00-4kV Shutdown Board Potential
+Transformer Primary Fuses Do Not Coordinate with Secondary Fuses
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 3
+Licensee Event Report 50-296/2017-002-00
+4kV Shutdown Board Potential Transformer Primary Fuses Do Not Coordinate with Secondary Fuses
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104). Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number,
+the NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Browns Ferry Nuclear Plant, Unit 3 05000296 1OF5
+4. TITLE
+4kV Shutdown Board Potential Transformer Primary Fuses Do Not Coordinate with Secondary Fuses
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR N/A N/A
+FACILITY NAME DOCKET NUMBER
+11 01 2017 2017 - 002 - 00 12 29 2017
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1 0 20.2201(d) D 20.2203(a)(3)(ii) C8J 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2J(il D 50.36(c)(1)(i)(A) D 50 73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2J(iil D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2J(iii) D so.36(c)(2l D 50.73(a)(2)(v)(B) D 73.71(a)(5J
+100
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(il
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMBER (Include Area Code)
+Baruch Calkin 1(256) 614-6713
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8J NO SUBMISSION N/A N/A N/A
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 1, 2017, at approximately 1425 Central Daylight Time, during an extent of condition review, a
+fuse coordination issue was discovered. Four Potential Transformer (PT) 10 amp secondary fuses on Unit 3
+4kV Shutdown Boards (SD BO) do not selectively coordinate with upstream 0.5 amp primary fuses for fault
+currents greater than 30 amps on the 120 V secondary. Cable fire damage could cause an affected SD BO
+to spuriously disconnect from off-site power, and could cause a spurious, maintained under-voltage trip
+signal. The under-voltage trip signal would prevent motor load operation on the board whether on off-site
+power or Emergency Diesel Generator power. If a fire were to occur in fire areas 03-03 or 16, all four Unit 3
+4kV SD BDs could be affected. In fire area 21, 4kV SD BDs 3EA and 3EB could be affected.
+This condition was determined to be a legacy issue dating to the original design of the plant. The most likely
+cause is lack of rigorous oversight of the vendor during the preparation and subsequent issuance of the fuse
+evaluation for the four Unit 3 4kV SD BDs. The required coordination studies have since been performed and
+a vendor oversight process has been added to TVA procedures. Compensatory measures (hourly fire
+·watches) have been put in place for affected fire areas. Additional corrective actions include issuing an
+Engineering Change Package to replace the Unit 3 4kV SD BDs primary 0.5 amp PT fuses with 1 amp fuses
+of the same type.
+NRG FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget. Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. L..ER NUlllBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 002 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 3, was in Mode 1 at approximately
+100 percent rated thermal power.
+II. Description of Event
+A. Event Summary
+On November 1, 2017, at approximately 1425 Central Daylight Time (CDT), during an extent of
+condition review, a fuse [FU] coordination issue was discovered. Four Potential Transformer (PT)
+[XPT] 10 amp secondary fuses on Unit 3 4kV Shutdown Boards (SD BO) [ECBD] do not
+selectively coordinate with upstream 0.5 amp primary fuses for fault currents greater than 30 amps
+on the 120 V secondary. Cable [CBL] fire damage could cause an affected SD BO to spuriously
+disconnect from off-site power, and could cause a spurious, maintained under-voltage trip signal.
+The under-voltage trip signal would prevent motor load operation on the board whether on off-site
+power or Emergency Diesel Generator (EOG) [DG] power [EK]. If a fire were to occur in fire areas
+03-03 or 16, all four Unit 3 4kV SD BDs could be affected. In fire area 21, 4kV SD BDs 3EA and
+3EB could be affected.
+On November 1, 2017, at approximately 2126 CDT, Event Notification (EN) 53049 was made to
+the NRC.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event.
+There were no systems, structures, or components inoperable at the time of discovery which
+contributed to this condition.
+C. Dates and approximate times of occurrences
+November 1, 2017, Unanalyzed condition discovered during an extent of condition review.
+1425 CDT
+November 1, 2017, Event Notification 53049 made to the NRC.
+2126 CDT
+D. Manufacturer and model number of each component that failed during the event
+There were no failed components associated with this condition.
+Page 2 of 5
+NRG FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 002 - 00
+E. Other systems or secondary functions affected
+There were no other systems or secondary functions affected.
+F. Method of discovery of each component or system failure or procedural error
+There were no component failures, system failures, or procedural errors associated with this
+condition.
+G. The failure mode, mechanism, and effect of each failed component
+There were no failed components associated with this condition.
+H. Operator actions
+There were no operator actions associated with this condition.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this condition.
+Ill. Cause of the event
+The cause of this event was the failure to perform a PT fuse coordination study to confirm that the
+primary and secondary fuses could coordinate. This condition was determined to be a legacy issue
+dating to the original design of the plant. The most likely cause is lack of rigorous oversight of the
+vendor during the preparation and subsequent issuance of the fuse evaluation for 4kV SD BDs A, B,
+C, D, 3EA, 3EB, 3EC, and 3ED, which was first issued by EBASCO in 1988. This may have resulted
+in failure of the vendor to perform a coordination study for the primary and secondary PT fuses.
+A. Cause of each component or system failure or personnel error
+There were no component failures, system failures, or known personnel errors associated with this
+condition as it was determined to be a legacy issue.
+B. Cause(s) and circumstances for each human performance related root cause
+The most likely cause is lack of rigorous oversight of the vendor during the preparation and
+subsequent issuance of the fuse evaluation for 4kV SD BDs A, B, C, D, 3EA, 3EB, 3EC, and 3ED,
+first issued by the vendor in 1988. This may have resulted in failure of the vendor to perform a
+coordination study for the primary and secondary PT fuses.
+Page 3 of 5
+NRG FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+l,,,,.-.... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+"!\_ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+; I comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+.... ./
+~ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 002 - 00
+IV. Analysis of the event
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with
+10 CFR 50.7 3(a)(2)(ii)(B), as any event or condition that results in the nuclear power plant being in
+an unanalyzed condition that significantly degraded plant safety.
+The basic function of the normal auxiliary electrical power system is to provide power for plant
+auxiliaries during startup, operation, and shutdown, and to provide highly reliable power sources for
+plant loads which are important to its safety.
+For 4kV SD BO 3EA, PT secondary fuses are 10 amp fuses and do not selectively coordinate with
+upstream primary fuses, which are 0.5 amp fuses, for fault currents greater than approximately
+30 amps on the 120V secondary. Cables tapping off from the PT secondary fuse route external to
+the board to the Main Control Room. A fire induced fault on an affected cable could clear two of the
+PT primary fuses, resulting in de-energizing of the A-phase secondary leg. Clearing of the two PT
+primary fuses would result in de-energization of undervoltage and degraded voltage relays [RLY ].
+The combination of de-energized undervoltage and degraded voltage relays would result in spurious
+energization of degraded voltage auxiliary relays. This would result in 4kV motor load sheds, tripping
+of normal and off-site power breakers [BKR], starting of the DG, and closing of the DG breaker
+(provided these functions did not have separate unrelated fire damage). If the DG successfully
+connected to the 4kV SD BO, due to the cleared PT fuse condition, the degraded voltage signal
+would not reset. This condition could result in a loss of power to plant loads which are important to
+plant safety. Similar conditions exist on 4kV SD BDs 3EB, 3EC, and 3ED.
+V. Assessment of Safety Consequences
+This condition, if left uncorrected, could result in a loss of power to plant loads which are important to
+plant safety during postulated fire damage. However, a probabilistic risk analysis performed by TVA
+concluded that the risk significance of this condition is very low, with a maximum change in Core
+Damage Frequency and Large Early Release Frequency of less than 1 E-06 for the affected unit.
+Based on this analysis, there was no significant increase in risk to the health and safety of the public
+or to plant personnel resulting from this condition.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+No components or systems failed due to this event.
+Page 4 of 5
+NRG FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/ ..... ·'!<. lessons learned are incorporated into the licensing process and fed back to industry. Send
+( . ~ LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\ .... ./ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 002 - 00
+8. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+This condition did not result in the inoperability of any safety systems.
+VI. Corrective Actions
+Corrective Actions are being managed by TVA's Corrective Action Program under Condition Report
+1354129. The required fuse coordination studies have since been performed, and a vendor oversight
+process has been added to TVA procedures since this legacy event.
+A. Immediate Corrective Actions
+• EN 53049 was made to the NRC in accordance with 10 CFR 50.72(b)(3)(ii)(B).
+• Hourly fire watches were put in place for the affected fire areas (FPI P# 17-332).
+8. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+• Issue an Engineering Change Package to replace Unit 3 4KV SD BD primary 0.5 amp PT
+fuses with 1 amp fuses of the same type.
+VII. Previous Similar Events at the Same Site
+A review of the BFN CAP and Licensee Event Reports (LERs) for Units 1, 2, and 3 found no instances
+within the past five years of degraded or unanalyzed conditions related to coordination of PT fuses.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+Page 5 of 5
+NRC FORM 366A (04-2017)

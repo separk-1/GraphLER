@@ -1,0 +1,763 @@
+Post Office Box 2000, Decatur, Alabama  35609-2000 
+July 6, 2022
+10 CFR 50.73 
+ATTN:  Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, D.C.  20555-0001 
+Browns Ferry Nuclear Plant, Units 1 and 2 
+Renewed Facility Operating License Nos. DPR-33 and DPR-52 
+NRC Docket Nos. 50-259 and 50-260 
+Subject: 
+Licensee Event Report 50-259/2021-001-01
+Reference: 
+TVA Letter to NRC dated November 22, 2021, "Licensee Event Report 50-
+259/2021-001-00" [ML21326A027] 
+The enclosed Licensee Event Report (LER) provides additional details of the 480 Volt Load 
+Shed Logic Inoperable Longer than Allowed by Technical Specifications (TS) due to Failed 
+Relay. The Tennessee Valley Authority is submitting this report in accordance with Title 
+10 of the Code of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition 
+which was prohibited by the plant’s TSs and 50.73(a)(2)(v), as any event or condition that 
+could have prevented the fulfillment of the safety function of structures or systems that are 
+needed to (A) shut down the reactor and maintain it in a safe shutdown condition; 
+(B) remove residual heat; (C) control the release of radioactive material; or (D) mitigate the
+consequences of an accident.
+This revision to the referenced letter adds information regarding the failure to comply with 
+TS 3.0.4 during a Mode change on Unit 2. 
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact Christopher L. Vaughn, Nuclear Site 
+Licensing Manager, at (256) 729-2636. 
+Respectfully, 
+Matthew Rasmussen 
+Site Vice President 
+Browns Ferry Nuclear Plan 
+IRU
+Respectfully, 
+M tth
+R
+
+U.S. Nuclear Regulatory Commission 
+Page 2 
+July 6, 2022 
+ 
+ 
+Enclosure:  Browns Ferry Nuclear Plant, Units 1 and 2, Licensee Event Report 
+50-259/2021-001-01 – 480 Volt Load Shed Logic Inoperable Longer than 
+Allowed by Technical Specifications due to Failed Relay 
+ 
+ 
+ 
+cc (w/ Enclosure): 
+ 
+NRC Regional Administrator - Region II  
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant 
+NRC Project Manager - Browns Ferry Nuclear Plant 
+ 
+ 
+ 
+
+ 
+ENCLOSURE 
+ 
+Browns Ferry Nuclear Plant 
+Units 1 and 2 
+ 
+Licensee Event Report 50-259/2021-001-01 
+ 
+480 Volt Load Shed Logic Inoperable Longer than Allowed by  
+Technical Specifications due to Failed Relay 
+ 
+ 
+See Enclosed 
+ 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+       LICENSEE EVENT REPORT (LER) 
+APPROVED BY OMB:  NO. 3150-0104   
+EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. Facility Name 
+Browns Ferry Nuclear Plant, Unit 1
+2. Docket Number 
+05000259 
+3. Page 
+1   OF  7 
+4. Title
+ 480 Volt Load Shed Logic Inoperable Longer than Allowed by Technical Specifications due to Failed Relay 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Revision 
+ No. 
+Month 
+Day 
+Year 
+Facility Name 
+ Browns Ferry Nuclear Plant, Unit 2 
+Docket Number 
+05000260 
+03 
+03 
+2021 2021 -
+001 
+-
+01 
+07 
+06 
+2022 
+Facility Name 
+ N/A
+Docket Number 
+N/A
+ 9. Operating Mode 
+1
+10. Power Level 
+100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply)
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.71(a)(4) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.71(a)(5) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(1) 
+  20.2203(a)(2)(ii)
+  21.2(c) 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+  73.77(a)(2)(i) 
+  20.2203(a)(2)(iii) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.77(a)(2)(ii) 
+  20.2203(a)(2)(iv) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  20.2203(a)(2)(v) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER
+Licensee Contact 
+Denzel Housley, Licensing Engineer 
+Phone Number  (Include area code) 
+256-729-7643
+13. Complete One Line for each Component Failure Described in this Report
+Cause
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause
+System 
+Component 
+Manufacturer Reportable to IRIS 
+X
+EK 
+RLY 
+G080 
+Y 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+14. Supplemental Report Expected)
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+No
+Yes (If yes, complete 15. Expected Submission Date
+N/A 
+N/A 
+N/A 
+16. Abstract  (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 23, 2021 at 02:00 CDT (Central Daylight Time), the Units 1 and 2 480 Volt (V) Load Shed 
+Logic, Division I was declared inoperable during the performance of surveillance testing. During the 
+performance of this surveillance procedure, relay 0-RLY-231-00A7 would not have energized when required 
+due to an open circuit in the coil. The relay was replaced and the Units 1 and 2 480 V Load Shed Logic, 
+Division I was declared operable on September 25, 2021 at 22:30 CDT. 
+An engineering evaluation of the relay failure was completed on October 28, 2021. This evaluation 
+determined that 0-RLY-231-00A7 was likely inoperable since the last time it had been energized during 
+testing on March 3, 2021. Additionally, the Units 1 and 2 480 V Load Shed Logic, Division II was out of 
+service twice during this time period to support testing on March 4, 2021 and May 19, 2021.  
+Examination of the relay determined that the relay failed due to an internal failure of the coil with no external 
+damage seen.  
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+05000-259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    2     of     7    
+I. 
+Plant Operating Conditions Before the Event 
+ 
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Units 1 and 2 were in Mode 1 at 
+approximately 100 percent power. 
+ 
+II. 
+Description of Event 
+ 
+A. Event Summary 
+ 
+On September 23, 2021, at 02:00 CDT (Central Daylight Time), the Units 1 and 2 480 Volt (V) 
+Load Shed Logic, Division I [EIIS: EK] was declared inoperable during the performance of 
+0-SR-3.8.1.8(I), “480V Load Shedding Logic System Function Test (Division I).” During the 
+performance of this surveillance procedure, relay [EIIS: RLY] 0-RLY-231-00A7 would not have 
+energized when required due to an open circuit in the coil. BFN Units 1 and 2 Technical 
+Specifications (TS) 3.8.1, “AC Sources - Operating,” Limiting Condition for Operation (LCO) C 
+was entered for the inoperability of one division of 480 V load shed logic which required 
+restoration of the required division 480 V load shed logic within 7 days. The relay was 
+replaced and the Units 1 and 2 480 V Load Shed Logic, Division I was declared operable on 
+September 25, 2021, at 22:30 CDT. 
+ 
+An engineering evaluation of the relay failure was completed on October 28, 2021. This 
+evaluation determined that 0-RLY-231-00A7 was likely inoperable since the last time it had 
+been energized during testing on March 3, 2021. Therefore, the Units 1 and 2 480 V Load 
+Shed Logic, Division I was inoperable longer than the TS 3.8.1 LCO Condition C time of 7 
+days. Additionally, the Units 1 and 2 480 V Load Shed Logic, Division II was out of service 
+twice during this time period to support testing on March 4, 2021, and May 19, 2021. With 
+both divisions of 480 V Load Shed Logic out of service, Units 1 and 2 TS 3.8.1 LCO Condition 
+J required immediate entry into LCO 3.0.3 which was not done since the inoperability of 
+0-RLY-231-00A7 was not known at the time.  On April 21, 2021, Unit 2 entered Mode 2 and 
+then Mode 1 which was not allowed by TS LCO 3.0.4 while the Units 1 and 2 480V Load Shed 
+Logic, Division I was inoperable. 
+ 
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of 
+the Code of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was 
+prohibited by the plant’s TS and 50.73(a)(2)(v), as any event or condition that could have 
+prevented the fulfillment of the safety function of structures or systems that are needed to (A) 
+shut down the reactor and maintain it in a safe shutdown condition; (B) remove residual heat; 
+(C) control the release of radioactive material; or (D) mitigate the consequences of an 
+accident. 
+ 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+05000-259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    3     of     7    
+B. Status of structures, components, or systems that were inoperable at the start of the 
+event and that contributed to the event 
+ 
+There were no other systems, structures, or components that were inoperable at the start of 
+the event and that contributed to the event. 
+ 
+C. Dates and approximate times of occurrences 
+ 
+Dates and Approximate Times 
+(CDT) 
+ 
+Occurrence 
+March 3, 2021 
+ 
+Last successful testing of relay 0-RLY-231-00A7 occurred 
+March 4, 2021, to  
+March 6, 2021 
+ 
+480 V Load Shed Logic Division II taken out of service for 
+testing 
+April 21, 2021 
+ 
+Unit 2 entered Mode 2 and then Mode 1 at the end of 
+refueling outage 21 
+May 19, 2021, to  
+May 20, 2021 
+ 
+480 V Load Shed Logic Division II taken out of service for 
+testing 
+September 23, 2021, at 02:00 
+ 
+480 V Load Shed Logic Division I was declared 
+inoperable during testing due to failure of 
+0-RLY-231-00A7 
+September 25, 2021, at 22:30 
+ 
+0-RLY-231-00A7 was replaced and 480 V Load Shed 
+Logic, Division I was declared operable 
+October 28, 2021 
+ 
+Engineering evaluation of the relay failure was completed 
+that determined 0-RLY-231-00A7 was likely inoperable 
+since the last time it had been energized during testing on 
+March 3, 2021 
+ 
+D. Manufacturer and model number of each component that failed during the event 
+ 
+The failed component was a General Electric manufactured relay, model number 12HFA51A41H. 
+ 
+E. Other systems or secondary functions affected 
+ 
+No other systems or secondary functions were affected. 
+ 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+05000-259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    4     of     7    
+F. Method of discovery of each component or system failure or procedural error 
+ 
+The failure of relay 0-RLY-231-00A7 was discovered during surveillance testing in accordance 
+with procedure 0-SR-3.8.1.8(I). 
+ 
+G. The failure mode, mechanism, and effect of each failed component 
+ 
+Examination of the relay determined that the relay failed due to an internal failure of the coil 
+with no external damage seen. 
+ 
+H. Operator actions 
+ 
+No additional operator actions were identified. 
+ 
+I. 
+Automatically and manually initiated safety system responses 
+ 
+No automatic or manual safety systems were initiated as a result of this event. 
+ 
+III. 
+Cause of the event 
+ 
+A. Cause of each component or system failure or personnel error 
+ 
+Relay 0-RLY-231-00A7 failed due to an internal failure of the coil with no external damage 
+seen. 
+ 
+B. Cause(s) and circumstances for each human performance related root cause 
+ 
+This event did not involve a human performance related root cause. 
+ 
+IV. 
+Analysis of the event 
+ 
+The Unit 1 and 2 Diesel Generators (EDG) are provided with a common 480 V load shed logic 
+system with two redundant divisions. The 480 V AC Auxiliary Power System has the capability to 
+load-shed to prevent overloading the Standby DGs. On loss of voltage for approximately 5 
+seconds, all 480V Shutdown Board electrically operated breakers, except those essential to safe 
+shutdown are automatically tripped. The motor control center feeders serving 480V reactor motor 
+operated valve (RMOV) boards are not disconnected due to loss of voltage. Undervoltage load 
+shedding is performed by undervoltage relays to disconnect pre-selected loads from the 480V 
+Shutdown Boards after these boards lose their normal supply. The loads which are required after 
+undervoltage load shed are returned by manual operation. The load shed logic system 
+disconnects pre-selected loads from the 480V Shutdown Boards and motor control centers in the 
+event of an accident signal concurrent with diesel generator voltage available to the respective 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+05000-259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    5     of     7    
+4KV shutdown boards. Certain required plant loads are returned to service in a predetermined 
+sequence in order to prevent overloading of the diesel generators in the process. Within 40 
+seconds after the initiating signal (EDG breaker closure with accident signal) is received, all 
+automatic and permanently connected loads needed to recover the unit or maintain it in a safe 
+condition are returned to service. 
+ 
+The failed relay was analyzed and it was determined that the relay coil had an open circuit internal 
+to the coil. Engineering evaluation of this failure determined that an open circuit coil occurring 
+while carrying current was the most credible scenario. Testing of the relay on 
+September 23, 2021, did not involve the relay carrying current; therefore, it was determined that 
+the relay had failed at a previous date. A review of the testing history of the relay determined that 
+the last successful operation of the relay while carrying current was on March 3, 2021. Therefore, 
+the relay was considered to be inoperable from that date. 
+ 
+TS LCO 3.8.1(b) requires Unit 1 and 2 DGs with two divisions of 480 V load shed logic and 
+common accident signal logic to be Operable in Modes 1, 2, and 3. TS LCO 3.8.1 Condition C 
+requires that, with one division of 480 V load shed logic inoperable, the required division of 480 V 
+load shed logic must be restored within 7 days. TS LCO 3.8.1 Condition I requires that, if 
+associated completion time of Condition C is not met, the unit must be in Mode 3 in 12 hours and 
+Mode 4 in 36 hours. Additionally, TS LCO 3.8.1 Condition J requires that, with two divisions of 480 
+V load shed logic inoperable, LCO 3.0.3 must be entered immediately.  
+ 
+TS LCO 3.0.4 states that when an LCO is not met, entry into a Mode or other specified condition 
+in the Applicability shall only be made when the associated ACTIONS to be entered permit 
+continued operation in the MODE or other specified condition in the Applicability for an unlimited 
+period of time.  
+ 
+The engineering evaluation determined that Division I of the 480 V Load Shed logic was 
+inoperable from March 3, 2021, to September 25, 2021. TS LCO 3.8.1 Condition C was not met 
+during this time and the actions of TS LCO 3.8.1 Condition I were not complied with. Additionally, 
+twice during this time period, both Divisions of the 480 V load shed logic were inoperable and the 
+required actions of TS LCO 3.8.1 Condition J were not completed. Also, on April 21, 2021, Unit 2 
+entered Modes 2 and 1 without meeting TS LCO 3.8.1 Condition C, which is not allowed by TS 
+LCO 3.0.4. Therefore, BFN was in violation of the TSs during these times. 
+ 
+V. 
+Assessment of Safety Consequences 
+ 
+A Probabilistic Risk Analysis (PRA) Evaluation was performed to determine the safety significance 
+of this event. The failure was modeled as a cumulative 78 hours of exposure during which time 
+Emergency Core Cooling System (ECCS) response would have been challenged during 
+conditions requiring use of onsite (DG) AC power. The BFN PRA model was quantified for Core 
+Damage Frequency (CDF) and Large Early Release Frequency (LERF) for Units 1, 2 and 3 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+05000-259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    6     of     7    
+assuming failure of the DGs and the dominant cutsets were evaluated to identify appropriateness 
+of the above assumptions and to identify any early sequences involved. 
+ 
+CDE and LERF cutsets were generated and reviewed to determine the actual expected likelihood 
+and consequences of a demand for onsite AC power in conjunction with an accident signal 
+causing load shed impacts to the Units 1 and 2 DGs during a 78 hour interval (time that both 
+relevant relays were unavailable). The review indicates that the core damage and large early 
+release frequency risk increases were very small across all three units and both risk measures. 
+ 
+A. Availability of systems or components that could have performed the same function as 
+the components and systems that failed during the event 
+ 
+The Units 1 and 2 480 V Load Shed Logic, Division II was available to provide this function 
+except for twice during this time period to support testing on March 4, 2021, and May 19, 2021 
+(approximately 78 hours). 
+ 
+B. For events that occurred when the reactor was shut down, availability of systems or 
+components needed to shutdown the reactor and maintain safe shutdown conditions, 
+remove residual heat, control the release of radioactive material, or mitigate the 
+consequences of an accident 
+ 
+This event did not occur when the reactor was shut down. 
+ 
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed 
+time from discovery of the failure until the train was returned to service 
+ 
+The relay was inoperable from March 3, 2021, until it was replaced on September 25, 2021 
+(approximately 206 days).  
+ 
+VI. 
+Corrective Actions 
+ 
+Corrective Actions for this event are being managed under Condition Report (CR) 1723229. 
+ 
+A. Immediate Corrective Actions 
+ 
+The failed relay was replaced and tested satisfactorily. 
+ 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+05000-259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    7     of     7    
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events 
+occurring in the future 
+ 
+Additional review could not determine a cause of the failure. No damage was visible and no 
+failure trends were identified. 
+ 
+VII. Previous Similar Events at the Same Site 
+ 
+There were no previous similar events occurring at BFN within the last three years. 
+ 
+VIII. Additional Information 
+ 
+There is no additional information. 
+ 
+IX. 
+Commitments 
+ 
+There are no new commitments. 

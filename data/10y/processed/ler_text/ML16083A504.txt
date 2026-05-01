@@ -1,0 +1,366 @@
+•
+Entergy Nuclear Northeast
+-===·Entergy
+Entergy Nuclear Operations, Inc.
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Brian R. Sullivan
+Site Vice President - JAF
+JAFP-16-0047
+March 23, 2016
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: LER: 2016-001, System Actuations during Manual Scram in Response to
+Frazil Ice Blockage and Residual Transfer
+James A. FitzPatrick Nuclear Power Plant
+Docket No. 50-333
+License No. DPR-59
+Dear Sir or Madam:
+This report is submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+Brian R. Sullivan
+Site Vice President
+BRS/WD/mh
+Enclosure: JAF LER 2016-001, System Actuations during Manual Scram in Response to
+Frazil Ice Blockage and Residual Transfer
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 6
+4. TITLE
+System Actuations during Manual Scram in Response to Frazil Ice Blockage and Residual Transfer
+5. EVENT DATE 6. LER NUMBER 7.REPORTDATE 8.OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+FACILITY NAME DOCKET NUMBER
+1 23 2016 2016 - 001 - 00 3 23 2016 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTEDPURSUANTTOTHEREQUIREMENTSOF 10 CFR §: (Checkallthatapply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+1
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. POWER LEVEL  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+89  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACTFORTHISLER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mr. William Drews, Regulatory Assurance Manager 315-349-6562
+13. COMPLETE ONE LINE FOREACHCOMPONENTFAILUREDESCRIBEDINTHIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+C NN BAF N/A N B EA BKR G080 N
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+ YES (If yes, complete 15. EXPECTED SUBMISSION DATE)  NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 23, 2016, James A. FitzPatrick Nuclear Power Plant (JAF) was ascending in power when screenwell water
+level started to lower. At 89 percent power, at 22:23, Operators began taking compensatory measures to reduce power
+and mitigate water level lowering. At 22:40, a manual scram was initiated.
+The scram was complicated by a residual transfer that resulted in non-vital equipment trips. This event resulted in the
+manual actuation of the Reactor Protection System, High Pressure Coolant Injection, Reactor Core Isolation Cooling, Main
+Steam Isolation Valves and automatic actuation of Emergency Diesel Generators, Emergency Service Water, and
+containment isolations in multiple systems, reportable per 10 CFR 50.73(a)(2)(iv)(A).
+The lowering screenwell water level was caused by frazil ice blockage at the intake structure. The frazil ice stopped
+affecting screenwell water level after the manual scram. Corrective actions include strengthening mitigating actions in
+response to frazil ice.
+The residual transfer was caused by lubrication hardening in the lower control valve assembly of the 71PCB-10042
+breaker. Corrective actions included replacing or reworking the lower control valve assembly.
+NRC FORM 366 (11-2015)
+Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 001 – 00
+NARRATIVE
+Background
+James A. FitzPatrick’s (JAF) Ultimate Heat Sink
+[EIIS designation: BS] is Lake Ontario. Water
+from Lake Ontario is transported via a water
+intake structure. The intake structure is an
+underwater concrete structure on the lakebed.
+Lake water enters the intake structure, travels
+through the intake tunnel, and enters the intake
+bay. The intake bay is located inside the screen
+house building. The enclosed intake bay area is
+also called the screenwell.
+Located in the screenwell area, downstream of
+trash racks and rotating screens, are three
+Circulating Water pumps [KE], three Normal
+Service Water (NSW) pumps [KG], two
+Emergency Service Water (ESW) pumps [BI],
+four Residual Heat Removal Service Water
+(RHRSW) pumps [BI] and two Fire pumps [KP].
+One Fire pump is upstream of the trash racks.
+The Circulating Water pumps supply cooling to
+the main condenser and are each operated at 133,000 gpm. NSW pumps are each rated at 17,800 gpm and
+supply cooling to plant loads during normal operating conditions. ESW pumps supply cooling to safety-related
+loads during both normal and accident conditions and are rated at 3,700 gpm each. RHRSW pumps, rated at
+4,000 gpm each, supply cooling to the RHR heat exchangers.
+Intake / screenwell water level is normally slightly lower than lake level due to flow head losses (generally at
+about 244 feet elevation depending on seasonal changes). The screenwell level is monitored in the control
+room and on Operator rounds. The NSW, ESW, and RHRSW pumps require a minimum water elevation at
+235 feet elevation for safe operation. The Circulating Water and the Fire pumps require a minimum water
+elevation of 239 feet 6 inches for safe operation.
+Frazil ice is a natural phenomenon in lakes and water ways, including Lake Ontario, when water freezes into
+loosely formed needle-like crystals. Surface water becomes supercooled when it loses heat rapidly to cold air
+without freezing. Turbulence, caused by winds, can mix the supercooled water throughout a body of water.
+The supercooled water encourages the formation of small ice crystals (frazil ice). Ice generally floats, but due
+to frazil ice's small size relative to current speeds, it can be carried to the bottom very easily. Frazil ice is more
+likely to occur when air temperatures decrease below freezing and when there is little ice cover on the lake, no
+cloud cover, winds are present, and the sun has set. Frazil ice has a negative impact on plant operations when
+it adheres to the intake structure. Supercooled water can reduce the intake structure surface temperatures
+below freezing then ice forms directly on the surface or frazil ice slush could drift into the structure and adhere
+to it. Since the intake structure actively draws in water it may draw in frazil ice. The intake structure entrance
+includes rack bars to screen large debris, consisting of 88 metal bars. These metal bars would normally be an
+optimal surface for frazil ice accumulation; however, deicing heaters are located in each.
+NRC FORM 366A (11-2015)
+Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 001 – 00
+Alternating Current (AC) power is provided to JAF continuously by one of three sources. During normal
+power operations, a portion of the power created by the Main Generator [EL] becomes the Normal Service
+power source. In the event the main generator is not available offsite power circuits are available to supply
+plant loads. Finally, Emergency Diesel Generators (EDG) [EK] are available on standby as the emergency
+power source. The AC power supply system is designed with transfer power schemes to maintain power to
+Engineered Safeguards systems.
+The fast transfer scheme triggers multiple electrical breakers in such a way that all electrical loads remain at
+power and in-phase. Alternatively, if the fast transfer was unsuccessful or the nature of the disturbance will not
+allow a fast transfer, an automatic residual transfer takes place. Residual transfer scheme is delayed until the
+voltage on the affected bus has decayed to approximately 25 percent of normal; this permits reenergizing the
+motors even though reserve and supply voltages may be out of phase.
+Event Description
+On January 23, 2016, JAF was ascending in power after a planned downpower to perform maintenance when
+screenwell water level began to decrease. The initial water level in the screenwell was 243.8 feet.
+At 21:45, screenwell water level began to gradually decrease at a rate of about 1/4 inch per minute. At that
+time, Operators were commencing with power ascension to a reactor power level of 89 percent.
+At 22:17, the screenwell water level low alarm was received at 242 feet, and an Operator was sent to verify
+local indications.
+At 22:20, AOP-56, Intake Water Level Trouble.
+At 22:23, Reactor Water Recirculating pump speed was reduced to lower reactor power and one of three
+Circulating Water pumps was secured.
+At 22:28, power reached 68% and screenwell water level reached 240.7 feet. Screenwell water level
+recovered up to 241.5 feet.
+At 22:31, screenwell water level began to decrease again.
+At 22:39, water level decreased to 240 feet.
+At 22:40, a manual scram was initiated. All control rods successfully inserted. The Main Turbine [TA] /
+Generator [TB] was manually tripped.
+The fast transfer scheme failed and a residual transfer occurred automatically, as designed, and several plant
+systems automatically tripped or started:
+ Reactor Water Recirculation pumps [AD] tripped
+ Remaining Circulating Water pumps, Feedwater [SJ], Condensate [SD], and Condensate Booster
+pumps tripped
+ Reactor Building Cooling [CC] and Turbine Building Cooling [KB] tripped
+ Air System [LD] tripped
+ EDG and ESW automatically started
+Main Steam Isolation Valves (MSIV) were manually closed and Safety Relief Valves (SR/V) [SB], High
+Pressure Coolant Injection (HPCI) [BJ], and Reactor Core Isolation Cooling (RCIC) [BN] were manually
+actuated to maintain vessel inventory and pressure. ESW was used as the cooling water source for
+equipment. This event was reported to the NRC by ENS 51680.
+NRC FORM 366A (11-2015)
+Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 001 – 00
+Event Analysis
+Frazil Ice
+This event was a severe case of frazil ice which caused significant blockage, reducing the amount of water
+that flows into the screenwell, and effectively reducing the ability of the Ultimate Heat Sink to remove heat. The
+most likely location for frazil ice accumulation is the bar racks or the concrete surfaces at the intake structure.
+Currently, there isn’t a way to directly observe the formation of frazil ice in the lake until it has already begun to
+degrade screenwell water level. Meteorological and lake conditions are monitored by Chemistry personnel for
+susceptibility of frazil ice and, if conditions warrant it, Operators are alerted to the possibility. On the day of this
+event, frazil ice susceptibility was addressed during shift turnover.
+The intake structure rack bars are heated to maintain their surface temperature above freezing. If surfaces are
+above 32 degrees no matter how slightly, ice cannot adhere to the surface. However, the concrete surfaces of
+the intake structure itself are not heated and may provide a location for frazil ice accumulation and growth. Ice
+build-up can still occur on the bars if the amount of supercooling exceeds the thermal margin provided by the
+deicing heaters. The deicing heaters are not adequately sized to prevent frazil ice formation under extreme
+supercooling conditions, although they will minimize frazil ice formation most of the time. Maintenance and
+surveillance history of deicing heaters demonstrate that they were Operable during this event.
+In response to lowering screenwell water level, procedure AOP-56, Intake Water Level Trouble, initiates
+reductions in plant power and demand for the cooling water supply. Operators responded by reducing reactor
+power and removing a Circulating Water pump.
+Prior to this event, tempering was being used to control intake bay water temperature to 37 degrees
+Fahrenheit. Warm discharge water can be added to intake bay by raising the tempering gate. In effect, a
+portion of water drawn by pumps will come from the discharge flow rather than the intake structure. A higher
+water temperature correlates with a higher tempering flow and a lower intake velocity. A lower velocity at the
+intake structure would allow more time for the ice to float to the surface instead of being drawn into the intake
+structure. If frazil ice blockage cannot be prevented, the rate of formation can be mitigated by reducing the
+intake flow rate. To be successful, these actions to reduce flow rate need initiated as soon as possible.
+Residual Transfer
+Unrelated to frazil ice, during this event, the fast transfer scheme failed to occur when a fast transfer blocking
+relay performed a timing function. If the fast transfer doesn’t happen within a short time after a Main Generator
+trip, the fast transfer is blocked and a residual transfer is automatically initiated.
+Investigations performed after this event identified that indications from the line circuit breaker 71PCB-10042,
+required for fast transfer, did not occur as expected. The indications from 71PCB-10042 breaker were delayed
+due to the lower control valves actuating slowly. This caused the breaker failure logic to actuate. This logic in
+turn (appropriately per design) prevented the fast transfer from occurring. Slow breaker operation is attributed
+to degraded lubrication in the lower control valves of 71PCB-10042. Degraded lubrication is caused by
+lubrication hardening, due to a lack of maintenance, along with cold weather and infrequent operation.
+NRC FORM 366A (11-2015)
+Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 001 – 00
+System Actuations
+RPS was actuated by a manual scram, resulting in all control rods inserting successfully.
+During the residual transfer, non-class 1E loads were shed and 4.16 kV class 1E buses transferred to standby
+power source. The EDG started on undervoltage, as designed, all breakers for 4.16 kV motor were tripped and
+the load sequencer was reset. The EDG started but did not load onto the bus because off-site power was
+maintained.
+This event resulted in the actuation of RPS, HPCI, RCIC, ESW, MSIV, EDG, and containment isolations in
+multiple systems; reportable per 10 CFR 50.73(a)(2)(iv)(A).
+Cause
+The root cause of the event is a design vulnerability of the intake structure to frazil ice accumulation. Frazil ice
+accumulation on the intake structure restricted the flowrate to the screenwell, resulting in a lowering water
+level and Operators inserted a manual scram.
+The apparent cause of the residual transfer is lubrication hardening in the lower control valve assembly of the
+71PCB-10042 breaker due to age. This apparent cause resulted in this condition by slowing down the opening
+time outside the allowed time for the 71PCB-10042 breaker, and causing the residual transfer logic to actuate.
+Similar Events
+Internal
+There have been a total of four previously recorded frazil ice events at JAF:
+Date Min screenwell level Duration* Consequence Reference
+(feet elevation) (hours)
+02/25/93 236 - 237 2 Manual Scram DER-93-0252
+02/15/04 241.2 4 Downpower CR-JAF-2004-00685
+03/03/06 243.1 5 Downpower CR-JAF-2006-00951
+02/07/10 242.7 8 Downpower CR-JAF-2010-00588
+01/23/16 239.5 1 Manual Scram CR-JAF-2016-00243
+* Approximate duration between the initial screenwell level to minimum level rounded to nearest hour.
+On February 16, 2004, the Main Generator was manually tripped to take the plant offline to perform
+maintenance when an unexpected residual transfer occurred. The apparent cause was a delayed opening of
+71PCB-10042 due to aging and cold weather (CR-JAF-2004-00709).
+External
+Frazil ice is a known industry issue for power plants in colder climates that use bodies of water as their
+Ultimate Heat Sink. Operating experience has been summarized in INPO document SOER 07-2, Intake
+Cooling Water Blockage.
+NRC FORM 366A (11-2015)
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 001 – 00
+FAILED COMPONENT IDENTIFICATION:
+Breaker Manufacturer: General Electric
+Manufacturer Model Number: ATB-362-7
+NPRDS Manufacturer Code: G080
+NPRDS Component Code: BKR
+FitzPatrick Component ID: 71PCB-10042
+Corrective Actions
+Frazil ice accumulation was a temporary condition which dissipated several hours after it began. Frazil ice
+mitigation strategies have proven useful at delaying its onset under slower acting events. Corrective actions
+due to this event include strengthening Operator awareness and prolonging the onset of frazil ice:
+ New alarm point EPIC-A-2957, high change rate of screenwell water level during potential frazil ice.
+ Enhance OP-4, Circulating Water System. Increase intake bay water temperature tempering to a range
+of 47 to 52 degrees Fahrenheit. Reduce power to 75% when notified by Nine Mile Point plant if they
+have indication of intake icing. Include guidance for monitoring meteorological conditions. If frazil ice
+potential is very high then tempering is increased to 65 degrees Fahrenheit.
+ Enhance AOP-56, Intake Water Level Trouble. Provide instructions to increase tempering flow during
+frazil ice events and the use of EPIC-A-2957.
+Corrective actions for the residual transfer included: all three lower control valves for the 71PCB-10042
+breaker were rebuilt or replaced.
+Safety Significance
+There was no actual radiological or nuclear safety consequence during this event.
+During plant power operations, when Circulating Water pumps are operating, intake velocity may be high
+enough to draw in large masses of ice and block the intake opening. Even if a manual scram is not initiated,
+the resulting lowered intake water level will automatically trip the Circulating Water pumps and cause an
+automatic scram. This automatic scram occurs prior to screenwell water level lowering below what is needed
+to run RHRSW and ESW cooling. The total flow needed for RHRSW and ESW cooling (30,000 gpm) is
+relatively low and it is unlikely that the intake structure will be completely blocked. However, assuming
+complete intake blockage, the screenwell has built-in provisions that make it possible for the flow in the intake
+and discharge tunnels to be reversed.
+During plant shutdown conditions, when the Circulating Water pumps are not normally operating, the intake
+velocity is so low that significant frazil ice is not drawn into the intake structure. Under these conditions, the
+heat generated by the rack bar heaters is sufficient to prevent frazil ice from adhering to them. Additionally, the
+residence time for the water in the intake tunnel is significantly increased allowing the water to absorb more
+heat from the ground/earth and melt any ice particles that may have passed the intake structure.
+Even though several non-vital systems tripped, a residual transfer is designed to maintain power to
+Engineered Safeguards systems.
+References
+ Condition Report: CR-JAF-2016-00243, Root Cause for Manual Scram due to Frazil Ice
+ Condition Report: CR-JAF-2016-00244, Apparent Cause for Residual Transfer
+ Procedure: AOP-56, Intake Water Level Trouble
+NRC FORM 366A (11-2015)

@@ -1,0 +1,145 @@
+menergy
+� harbor
+Energy Harbor Nuclear Corp
+Perry Nuclear Power Plant
+10 Center Road
+Perry, Ohio 44081
+Rod L. Penfield 440-280-5382
+Site Vice President, Perry Nuclear 724-462-0816 (cell)
+June 27, 2021
+L-21-200 10 CFR 50.73(a)(2)(i)(B)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2021-001, "Division 3 EOG lnoperability
+Resulting in an Operation or Condition Prohibited by Technical Specifications." There
+are no regulatory commitments contained in this submittal.
+If there are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager -Regulatory Compliance, at (440) 280-7538.
+Sincerely,
+Rod L. Penfield
+Enclosure:
+LER 2021-001
+cc: NRG Project Manager
+NRG Resident Inspector
+NRG Region Ill Regional Administrator
+Enclosure
+L-21-200
+LER 2021-001
+NRC FORM 366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+..._'\,.fl-Q"<., LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+:t.::,(, >\ regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+~ ! (See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+, •. , ...... .1'~ (See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+http://www. nrc.qov/readi nq-rm/doc-collections/n u regs/staff/ sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3.Page
+05000 00440 1 OF 2
+Perry Nuclear Power Plant
+4. Title
+Division 3 EOG lnoperability Resulting in an Operation or Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+- -
+06 01 2021 2021 001 00 07 28 2021
+Facility Name Docket Number
+05000
+9. Operating Mode 110. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+- 10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x)
+-~ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73
+□ □ □ □
+I 20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50. 73(a)(2)(v)(B) 73.71(a)(4)
+n
+□ 20.2203(a)(1) □ 20.2203(a)(4) 50. 73(a)(2)(i)(A) □ 50. 73(a)(2)(v)(C) □ 73.71(a)(5)
+□ 20.2203(a)(2)(J 10 CFR Part21 ~ 50. 73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73.77(a)(1 )(i)
+□ □ □ □ □
+20.2203(a)(2)(ii) 21.2(c) 50. 73(a)(2)(i)(C) 50. 73(a)(2)(vii) 73. 77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73. 77(a)(2)(ii)
+□ □ □ □
+20.2203(a)(2)(iv) 50.36(c)(1 )(i)(A) 50. 73(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50. 73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Hali Jenkins - Regulatory Compliance 440-280-6378
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B EK RG B093 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Q
+No I □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 1, 2021, with the Perry Nuclear Power Plant operating at 100 percent power an operation or condition prohibited by Technical
+Specifications occurred. During the monthly Division 3 Diesel Generator (DG) run on June 1, 2021, erratic output voltage was noted for
+approximately 45 seconds after start. At the time operations had reasonable expectation of operability and requested a Follow-up
+Operability Determination (FOD). Results from the Division 3 DG FOD could not support continued Operability of the Division 3 DG. The
+Division 3 DG was declared inoperable and unavailable on June 3, 2021 at 18:15.
+The most plausible cause for the erratic output voltage falling below the allowable band during startup is an internal infant component
+mortality failure of the voltage regulator. The component will be sent for failure analysis.
+On June 1, 2021 at 10:15, when erratic output voltage was first noted for the Division 3 Diesel Generator, entry into TS 3.8.1 Condition B
+and the accompanying actions did not occur. Surveillance requirement 3.8.1.1 was not performed as required within one hour and
+subsequent action TS 3.8.1 Condition F was also not met to be in Mode 3 in 12 hours. Since completion times were not met for TS 3.8.1
+Condition F, this issue is reportable under 50.73(a)(2)(i)(B) as an operation or condition prohibited by the plant's technical specifications.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. n re.gov/ read i nq-rm/doc-col lections/n u regs/staff/ sr1 022/r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER J. Lt:.KN
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Perry Nuclear Power Plant 00440 -I
+2021
+00
+001
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT DESCRIPTION
+During the monthly Division 3 Diesel Generator (DG) [EK] run on June 1, 2021, erratic output voltage was noted for approximately 45
+seconds after start. Operations had reasonable expectation of operability and requested a Follow-up Operability Determination (FOO).
+Results from the Division 3 DG FOO could not support continued Operability of the Division 3 DG. The Division 3 DG was declared
+inoperable and unavailable on June 3, 2021 at 18:15. On June 4, 2021 the new voltage regulator [RG] was replaced and was tested
+satisfactory and the DG returned to operable status at 21 :25.
+A review of the Division 3 DG maintenance history revealed that the voltage regulator was replaced and passed the Post Maintenance Test
+(PMT) on May 15, 2021. No other failures of the Division 3 DG or the voltage regulator could be found during the previous three years.
+On June 1, 2021 at 10: 15, when erratic output voltage was first noted for the Division 3 Diesel Generator, entry into TS 3.8.1 Condition B
+and the accompanying actions did not occur. Surveillance requirement 3.8.1.1 was not performed as required within one hour and
+subsequent action TS 3.8.1 Condition F was also not met to be in Mode 3 in 12 hours. Since completion times were not met for TS 3.8.1
+Condition F, this issue is reportable under 50.73(a)(2)(i)(B) as an operation or condition prohibited by the plant's technical specifications.
+CAUSE
+The most plausible cause for the erratic output voltage falling below the allowable band during startup is an internal infant component
+mortality failure of the voltage regulator. The component will be sent for failure analysis.
+EVENT ANALYSIS
+A Probabilistic Risk Assessment (PRA) evaluation was performed for the June 3, 2021 Division 3 Diesel Generator voltage regulator
+lnoperability event. Fire and other external hazards were qualitatively addressed to be of low risk. The analysis of this event results in delta
+CDF and delta LERF values that are below the acceptable thresholds of 1.0E-06/yr and 1.0E-07/yr, as discussed in Regulatory Guide
+1.174 . The risk of this event is therefore considered to be of very low safety significance in accordance with the Regulatory Guidance.
+CORRECTIVE ACTIONS
+Completed Actions
+On June 4, 2021 the voltage regulator was replaced and was tested satisfactory.
+Scheduled Actions
+A corrective action was created to send the defective voltage regulator for failure analysis testing. Further corrective action will be taken
+based on the results.
+PREVIOUS SIMILAR EVENTS
+No failures of the Division 3 DG or the voltage regulator could be found during the previous 3 years.
+COMMITMENTS
+None

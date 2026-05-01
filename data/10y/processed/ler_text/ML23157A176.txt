@@ -1,0 +1,171 @@
+i
+I I
+Edward Ca ulli Susquehrnna Nuclear, LLC
+ALEN~
+Site Vice Presi ent 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542I.3 795 Fax 570.542.1504
+Edward.C sulli@TalenEnergy.com ENElGY
+Ju e 06, 2023
+I
+I
+Atln: Document Control Desk 10 CFR/50.73
+I '
+U.1S. Nuclear Regulatory Commission I
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387 /2023-002-00
+UNIT 1 LICENSE NO. NPF-14
+PLA-8075 Docket No. 50-387
+Attached is Licensee Event Report (LER) 50-387/2023-002-00. The LER reports an event
+involving the inoperability of the High Pressure Coolant Injection (HPCI) System due to the
+HPCI Turbine Stop Valve failing to stroke fully closed as designed. The condition is being
+reported in accordance with 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have
+prevented fulfillment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+Attachment: LER 50-387/2023-002-00
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A. Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+"'1&>~~,! lessons learned are Incorporated into the licensing process and fed back to Industry. Send
+(~~) LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 2 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+lf,t I fl~ (See NUREG-1022, R.3 for instruction and guidance for completing this fem, Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+https://www.nrc.gov/reading-m,/doc-collections/nureqs/staff/sr1022/r3/) Washington, DC 20503; email: oira submlssion@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+reouestino or reaulrino the collection dlsolavs a currentlv valid 0MB control number.
+1. Facility Name 181 050 2. Docket Number 3:Page
+Susquehanna Steam Electric Station (SSES) Unit 1 00387 1 OF3
+D 052
+4. Title Unplanned lnoperability of the High Pressure Coolant Injection (HPCI) System due Failure of the HPCI Turbine Stop
+Valve to Fully Close, Most Likely Due to Internal Corrosion and Mechanical Binding of the Valve Hydraulic Drive
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year Facility Name D 050 Docket Number
+Number No.
+Facility Name Docket Number
+04 07 2023 2023 -002 - 00 06 06 2023 D 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the R uirements of 10 CFR §: {Check all that ann/v)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A) D 73.12oo(a)
+□ 20.2201(b) D 20.2203(a)(3)(i) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B) 0 73.1200(b)
+□ 20.2201 (d) D 20.2203(a)(3)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A) D 73.12oo(c)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.36(c)(2) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x) □ 73.1200(d)
+D 20.2203(a)(2)(i) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(A) D 73.12oo(e)
+D 20.2203(a)(2)(ii) D 21.2(c) D 50.69(g) D 50.73(a)(2)(v)(B) D 73.77(a)(1) D 73.1200(1)
+D 20.2203(a)(2)(iii) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) D 73.77(a)(2)(i) D 73.1200(9)
+D 20.2203(a)(2)(iv) D 50.73(a)(2)(i)(B) 181 50. 73(a)(2)(v)(D) D 73.77(a)(2)(ii) □ 73.1200(h)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(C) D 50.73(a)(2)(vii)
+0 OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact !Ehone Number (Include Area Code)
+Katie Brown - Nuclear ReQulatory Affairs 570-542-3407
+13. Complete One Line for each Component Failure Described in this Report
+Cause System / Component / Manufacturer Reportable To IRIS I Cause System Component I Manufacturer Reportable To IRIS
+X I BJ I SHV I S075 I y I I
+14. Supplemental Report Expected Month Day Year
+/ D 15. Expected Submission Date
+~ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On April 07, 2023, at approximately 20:52, during performance of the weekly Unit 1 High Pressure Coolant Injection (HPCI) Lube Oil
+System Functional Test, the HPCI Turbine Stop Valve failed to stroke fully closed as designed. Upon discovery of the condition,
+Operations entered Unit 1 Technical Specification (TS) 3.5.1, "ECCS [Emergency Core Cooling Systems]-Operating," Condition D for
+HPCI System inoperable. Operations exited TS 3.5.1, Condition D on April 08, 2023, at approximately 15:54 following valve cleaning and
+lubrication and satisfactory post maintenance testing.
+The cause of the HPCI Turbine Stop Valve failing to fully close was most likely internal corrosion and mechanical binding of the valve
+hydraulic drive mechanism caused by condensation from a steam leak past the HPCI Turbine Steam Supply Valve seat accumulating on
+the HPCI Turbine Stop Valve and dripping onto the hydraulic operating cylinder. The failure of HPCI Turbine Stop Valve as a result of the
+steam leak past the HPCI Turbine Steam Supply Valve seat was a previously unrecognized failure mode in the station's assessment of
+he steam leak, and therefore was not properly mitigated. Key corrective actions include repair of the HPCI Turbine Stop Valve and
+hydraulic operating cylinder and replacement of the HPCI Turbine Steam Supply Valve. In the interim, condition monitoring will be
+informed by weekly inspection of the HPCI Turbine Stop Valve.
+This event was reported by Event Notification 56458 in accordance with 10 CFR 50.72(b)(3)(v)(D). The condition is also being reported in
+accordance with 1O CFR 50. 73(a)(2)(v)(D) as an event or condition that could have prevented fulfillment of a safety function. There were
+no actual consequences to the health and safety of the public as a result of this event.
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW
+https:/lwwN.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3D Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME ~ 050 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Susquehanna Steam Electric Station (SSES) D 052 05000387 2023 - 002 - 00
+Unit 1
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 100 percent Rated Thermal Power (RTP)
+Unit 2 - Mode 5, zero percent RTP
+There were no structures, systems, or components that were inoperable at the start of the event and
+contributed to the event.
+EVENT DESCRIPTION
+On April 07, 2023, at approximately 20:52, during performance of the weekly Unit 1 High Pressure Coolant
+Injection (HPCI) [EIIS System Code: BJ] Lube Oil System Functional Test, the HPCI Turbine Stop Valve
+[EIIS Component Code: SHV] failed to stroke fully closed as designed. Upon discovery of the condition,
+Operations entered Unit 1 Technical Specification (TS) 3.5.1, "ECCS [Emergency Core Cooling Systems]-
+Operating," Condition D for HPCI System inoperable. Operations exited TS 3.5.1, Condition D on
+April 08, 2023, at approximately 15:54 following valve cleaning and lubrication and satisfactory post
+maintenance testing.
+This event was reported by Event Notification 56458 in accordance with 1O CFR 50. 72(b)(3)(v)(D). The
+condition is also being reported in accordance with 10 CFR 50.73(a)(2)(v)(D) as an event or condition that
+could have prevented fulfillment of a safety function.
+CAUSE OF EVENT
+The cause of the HPCI Turbine Stop Valve failing to fully close was most likely internal corrosion and
+mechanical binding of the valve hydraulic drive mechanism caused by condensation from a steam leak past
+the HPCI Turbine Steam Supply Valve [EIIS Component Code: V] seat accumulating on the HPCI Turbine
+Stop Valve and dripping onto the hydraulic operating cylinder. The failure of HPCI Turbine Stop Valve as a
+result of the steam leak past the HPCI Turbine Steam Supply Valve seat was a previously unrecognized
+failure mode in the station's assessment of the steam leak, and therefore was not properly mitigated.
+ANALYSIS/SAFETY SIGNIFICANCE
+The condition described herein rendered the Unit 1 HPCI System inoperable. HPCI and Automatic
+Depressurization System (ADS) are independent high pressure ECCS. With HPCI rendered inoperable, the
+high pressure ECCS function would be fulfilled by ADS. During the period that HPCI was inoperable, both
+divisions of ADS were operable and available to fulfill the high pressure ECCS function. Since the high
+pressure ECCS function was maintained, the condition did not represent a safety system functional failure.
+Accordingly, this event will not be counted as a safety system functional failure in the Reactor Oversight
+Process Performance Indicators. There were no actual consequences to the health and safety of the public
+as a result of this event.
+NRC FORM 366A (03-14-2023) Page i of .l_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-202 I 3 " ) ' ' ....~ Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+;:'\1:ii' lessons learned are Incorporated into the licensing process and fed back to Industry, Send comments
+\w... l) LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U.S.
+,, CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW
+https:/fw..Nvv.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r30 Washington, DC 20503; email: oira submlssion@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 050 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO,
+Susquehanna Steam Electric Station (SSES) D 052 05000387 2023 002 00
+Unit 1
+NARRATIVE
+CORRECTIVE ACTIONS
+Key corrective actions include repair of the HPCI Turbine Stop Valve and hydraulic operating cylinder and
+replacement of the HPCI Turbine Steam Supply Valve. In the interim, condition monitoring will be informed by
+weekly inspection of the HPCI Turbine Stop Valve. Additionally, risks associated with the steam leak past the
+HPCI Turbine Steam Supply Valve seat will be re-assessed to ensure bridging and elimination strategies are
+developed for all associated failure modes.
+COMPONENT FAILURE INFORMATION
+Component Name - HPCI Turbine Stop Valve
+Component Identification - FV15612
+Manufacturer - Schuttle and Koerting Co.
+Valve Type - Inverted, Oil-Operated, Semi-Balanced Globe-Type Stop Valve
+PREVIOUS OCCURRENCES
+None.
+NRC FORM 366A (03-14-2023) Page .1. of .1.

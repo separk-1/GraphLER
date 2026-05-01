@@ -1,0 +1,259 @@
+Edward R. Pigott
+~ -, DUKE Site Vice President
+McGuire Nuclear Station
+~ ENERGY®
+Duke Energy
+MG01VP 112700 Hagers Ferry Road
+Huntersville, NC 28078
+o: 980.875.4805
+Edward.Pigott@duke-energy.com
+Serial No: RA-22-0246 10 CFR 50.73
+August 18, 2022
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555
+ATTENTION: Document Control Desk
+Subject: Duke Energy Carolinas, LLC
+McGuire Nuclear Station, Units 1 and 2
+Docket Nos. 50-369 and 50-370
+Renewed License No. NPF-9, NPF-17
+Licensee Event Report 2022-001, Revision 0
+Nuclear Condition Report Number 02432084
+Pursuant to 10 CFR 50.7 3 Section (a)(2)(v)(D), attached is Unit 1 and 2 Licensee Event Report
+(LER) 2022-001, Revision 0, regarding concurrent inoperability of both trains of Control Room
+Area Chilled Water System (CRACWS) due to human error.
+This event is considered to have no significance with respect to the health and safety of the
+public. There are no regulatory commitments contained in this LER.
+If questions arise regarding this LER, please contact Jeff Sanders at 980-875-4680.
+Sincerely,
+Edward R. Pigott
+Duke Energy
+McGuire Nuclear Station
+Site Vice President
+Attachment
+U.S. Nuclear Regulatory Commission
+RA-22-0125
+Page 2
+cc: Laura A. Dudes
+Administrator Region II
+U.S. Nuclear Regulatory Commission
+Marquis One Plaza
+245 Peachtree Center Avenue
+NE Suite 1200, 30303-1257
+J. Klos
+Project Manager (McGuire)
+U.S. Nuclear Regulatory Commission
+Mail Stop O-9-E3
+11555 Rockville Pike
+Rockville, MD 20852
+Andy Hutto
+NRC Senior Resident Inspector
+McGuire Nuclear Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+..~ <w>"'_" R ,,Coot,"C. :. lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+~ " A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~• ~ -~-r"'"'.•,. ~0C , (See Page 3 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRG may not conduct or
+~+~<f,8'~ (See NUREG-1022, R.3 for instruction and guidance for completing this sponsor, and a person is not required to respond to, a collection of information unless the document
+•1"--a«• fomn httgs://ww.N.nrc.gov/reading-mn/doc-collections/nur!lQs/staff/sr1022/r.30 requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 12. Docket Number 1 .Page
+McGuire Nuclear Station, Unit 1 05000369 1 OF5
+4. Title
+Both Control Room Area Chilled Water System Trains Inoperable Due to Human Error
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year McGuire Nuclear Station, Unit 2
+Number No. 05000370
+Facility Name Docket Number
+06 21 2022 2022 -001 - 00 08 18 2022
+~5000
+9. Operating Mode 10. Power level
+1 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that aoo/v)
+10 CFR Part 20 D 20.2203(a)(2)(vi) D 50.36(c)(2) D 50. 73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+•
+20.2201(b) D 20.2203(a)(3)(i) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(A) 10 CFR Part 73
+• •
+20.2201 (d) D 20.2203(a)(3)(ii) 50.69(g) D 50.73(a)(2)(v)(B) D 73.71 (a)(4)
+•
+D 20.2203(a)(1) D 20.2203(a)(4) 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) D 73.71 (a)(5)
+•
+D 20.2203(a)(2)(i) 10 CFR Part 21 50.7 3(a)(2)(i)(B) [8] 50.73(a)(2)(v)(D) D 73.77(a)(1)(i)
+•
+D 20.2203(a)(2)(ii) D 21.2(c) 50.7 3(a)(2)(i)(C) D 50. 73(a)(2)(vii) D 73.77(a)(2)(i)
+•
+D 20.2203(a)(2)(iii) 10 CFR Part 50 50. 73(a)(2)(ii)(A) D 50.7 3(a)(2)(viii)(A) D 73.77(a)(2)(ii)
+•
+D 20.2203(a)(2)(iv) 0 50.36(c)(1 )(i)(A) 50. 73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B)
+•
+D 20.2203(a)(2)(v) 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact
+Ueffrev D. Sanders Senior Enaineer l1c;;;;m;;~~:;;~a Code)
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+~ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 2240 [EST] on June 21, 2022, with Unit 1 and Unit 2 operating at approximately 100 percent power and
+the A train of the Control Room Area Chilled Water System (CRACWS) inoperable for planned
+maintenance, a loss of safety function occurred when the B train CRACWS chiller tripped. A clearance
+required for maintenance on the A train was being performed when a non-licensed auxiliary operator (AO)
+opened the breaker feeding the oil pump associated with the running and operable B train. This resulted
+in an inadvertent trip of the B Chiller. With both CRACWS trains inoperable, Operations entered Abnormal
+Procedure AP-39 (Control Room High Temperature) and restored the B train within thirty-five minutes.
+The cause of this event is attributed to a human performance error in which the AO did not effectively use
+human performance tools to ensure the correct component was identified prior to operation. In addition to
+prompt restoration of the B Train of CRACWS and the system's safety function, corrective actions were
+initiated to improve accountability of the operator associated with this event, and implementation of
+additional layers of defense when placing clearances.
+This event had no impact on the health and safety of the public.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Repcrted
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICE NS EE EVE NT REPORT ( LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form spcnsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+McGuire Nuclear Station, Unit 1 05000-369 NUMBER NO.
+2022 - 001 - 00
+NARRATIVE
+BACKGROUND
+The following information is provided to assist readers in understanding the event described in this LER.
+Applicable Energy Industry Identification [EIIS] system and component codes are enclosed within
+brackets.
+Control Room Area Chilled Water System [KM]
+The purpose of the Control Room Area Chilled Water System (CRACWS) [KM] is to provide chilled water
+to the Control Room and Control Room Area Ventilation (CRAV S) [VI] equipment to maintain temperature
+within Technical Specification limits.
+The CRACWS system has two redundant trains (A and B) serving the CRAV S air handling units providing
+cooling of recirculated control room air. The CRACWS operates in conjunction with the CRAV S and are
+shared between both McGuire units. These trains are normally not cross-connected. Each CRACWS
+train consists of a compression tank to provide water surge protection, a chilled water pump and a control
+area chiller. Chilled water circulates in a closed loop. Each chiller has its own separate refrigeration
+system. The CRACWS water exchanges heat with the refrigerant in the evaporator to be chilled to a
+desired temperature.
+The CRACWS is an emergency system which also operates during normal unit operations. A single train
+will provide the required temperature control to maintain the control room at approximately 75°F. The
+control room is shared between units.
+NRC FORM 3666 (08-2020) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+McGuire Nuclear Station, Unit 1 05000-369 NUMBER NO.
+2022 - 001 - 00
+EVENT DESCRIPTION
+At 2240 on June 21, 2022, a loss of safety function occurred due to concurrent inoperability of both required
+CRACWS trains for 35 minutes. A clearance required for planned maintenance on the A CRACWS chiller was
+being performed when a non-licensed operator incorrectly opened the breaker supplying the oil pump
+associated with the running and operable B CRACWS Chiller. Prior to opening the incorrect breaker, the A
+CRACWS train was declared inoperable due to disconnecting the A CRACWS chiller compressor supply
+breaker per the approved clearance. Opening the B CRACWS chiller oil pump breaker resulted in a B
+CRACWS chiller trip which was supplying cooling to its required loads.
+As a result of the loss of cooling, the control room staff entered Abnormal Procedure AP-39, the incorrectly
+opened breaker was reclosed, and the B CRACWS chiller was restarted. The chiller started as expected, and
+control room temperatures returned to normal. Engineering data was collected on the B CRACWS chiller, and
+all parameters indicated the chiller was functioning properly. The AP was exited after normal operation of the B
+CRACWS was confirmed.
+Sequence of Events (times are approximate):
+• 06/21 20:39, Clearance for the A CRACWS chiller was approved to hang in support of maintenance.
+• 06/21 21 :24, A CRACWS declared inoperable due to the associated clearance.
+• 06/21 22:40, Abnormal Procedure AP-39 was entered due to elevated control room temperature. Unit 1 and
+Unit 2 entered the appropriate Technical Specifications.
+• 06/21 22:52, The B CRACWS chiller oil pump breaker was reclosed.
+• 06/21 23:13, B CRACWS Chiller re-started per the Abnormal Procedure AP-39.
+• 06/21 23:15, Unit 1 and Unit 2 exited the Technical Specifications required for two inoperable CRACWS.
+• 06/21 23:38, Control room temperatures returned to pre-event conditions and Abnormal Procedure AP-39
+was exited.
+• 06/22 02:26, 8 Hour Notification made to NRC per 10 CFR50.72(b)(3)(v)(D).
+REPORTABILITY DETERMINATION
+The concurrent inoperability of both trains of CRACWS was initially reported, as required, under 10 CFR
+50.72(b)(3)(v)(D), "Any event or condition that at the time of discovery could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of
+an accident."
+This LER satisfies the corresponding written reporting criteria in 10 CFR 50.73(a)(2)(v)(D), "Any event or
+condition that could have prevented the fulfillment of the safety function of structures or systems that are
+needed to mitigate the consequence of an accident."
+NRC FORM 3666 (08-2020) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+McGuire Nuclear Station, Unit 1 05000-369 NUMBER NO.
+2022 - 001 - 00
+CAUSAL FACTORS
+A cause investigation was completed for this event. The cause was found to be a non-licensed auxiliary
+operator did not use human performance tools effectively to ensure the correct component was identified
+prior to operation. A contributing cause was identified as a lack of adequate risk plan development and
+implementation by supervisors.
+CORRECTIVE ACTIONS
+Immediate Actions:
+1. Restored power to the B CRACWS Chiller oil pump and restarted the chiller.
+Interim and Subsequent Actions:
+1. Appropriate accountability and remediation actions performed.
+2. Department focus on activities involving clearances that require plant manipulations and associated
+procedures including additional layers of defense when placing clearances.
+3. Develop and implement training solutions focused on risk recognition and risk plan implementation.
+SAFETY ANALYSIS
+The safety significance of the CRACWS is low because of the opportunity to mitigate the consequences
+of its loss with preplanned measures as described in plant Abnormal Procedures. As a result, the loss of
+the CRACWS system, including the chillers, has been screened out of the McGuire PRA as either an
+initiating event or as a support system failure. Therefore, the CRACWS has no impact on the calculated
+Core Damage Frequency (CDF) or Large Early Release Frequency (LERF) at McGuire. Additionally,
+during this event, maximum recorded control room temperature reached 81.4F prior to the restart of the B
+CRACWS chiller which is below the Technical Specification required maximum temperature of 90F.
+There were no adverse effects on control room instrumentation, controls, or habitability during this event.
+Given the above, this event was determined to be of no significance to the health and safety of the public.
+NRC FORM 3666 (08-2020) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/'. ......, . lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+: ~ ~ . ~ , ...... ,~ ~ ;~ LICENSEE EVENT REPORT (LER) r N e u g c a l r e d a in r g b R ur e d g e u n la e to s r t y im ate C o to m m the is s F io O n I , A , L W ib a ra s r h y in , g a t n o d n , I nfor D m C a tion 2 0 C 5 o 5 l 5 le - c 0 t 0 io 0 n 1 s , Bra o n r ch ( b T y - 6 A e 1 - 0 m M a ) il , U.S to .
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+McGuire Nuclear Station, Unit 1 05000-369 NUMBER NO.
+2022 - 001 - 00
+ADDITIONAL INFORMATION
+A review of the McGuire corrective action program was conducted to determine if this was a recurring
+event (i.e., similar event with the same cause or same failure mode). No previous similar events were
+identified within the past three years associated with a loss of safety function due to human error.
+Therefore, this is not considered a recurring event.
+A review of previous reportable events for the past three years did not identify any additional similar LER
+events.
+NRC FORM 366B (08-2020) Page 5 of 5

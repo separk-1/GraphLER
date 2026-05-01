@@ -1,0 +1,401 @@
+Peter Dietrich
+Senior Vice President and Chief Nuclear Officer
+DTE Electric Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.4153 Fax: 734.586.1431
+Email: peter.dietrich@dteenergy.com
+July 1, 2021 10 CFR 50.73
+NRC-21-0035
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Fermi 2 Power Plant
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2021-001
+Pursuant to 10 CFR 50.73(a)(2)(i)(B), 10 CFR 50.73(a)(2)(ii)(B), 10 CFR 50.73(a)(2)(v), 10
+CFR 50.73(a)(2)(vii), and 10 CFR 50.72(a)(2)(ix)(A), DTE Electric Company (DTE) is
+submitting LER No. 2021-001, Unrecognized Impact of Opening of Barrier Doors on High
+Energy Line Break Analysis.
+No new commitments are being made in this submittal.
+Should you have any questions or require additional information, please contact Mr. Ertman L.
+Bennett III, Manager – Nuclear Licensing, at (734) 586-4273.
+Sincerely,
+Peter Dietrich
+Senior Vice President and Chief Nuclear Officer
+Enclosure: Licensee Event Report No. 2021-001, Unrecognized Impact of Opening of Barrier
+Doors on High Energy Line Break Analysis
+cc: NRC Project Manager
+NRC Resident Office
+Regional Administrator, Region III
+Enclosure to
+NRC-21-0035
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2021-001
+Unrecognized Impact of Opening of Barrier Doors on High Energy Line Break Analysis
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2
+05000 341 1 OF 7
+4. Title
+Unrecognized Impact of Opening of Barrier Doors on High Energy Line Break Analysis
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000
+5 3 2021 2021 - 001 - 0 7 1 2021 Facility Name Docket Number
+N/A 05000
+9. Operating Mode 10. Power Level
+1 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) ✔ 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) ✔ 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 ✔ 50.73(a)(2)(i)(B) ✔ 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) ✔ 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) ✔ 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) ✔ 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ertman Bennett III – Manager, Nuclear Licensing 734-586-4273
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+✔ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+The Fermi 2 Reactor Building Steam Tunnel (RBST) has a normally closed door which is credited as a hazard barrier for certain
+high energy line break (HELB) scenarios. On May 3, 2021, while Fermi 2 was operating at 100% reactor power in MODE 1, it
+was determined that the RBST door had been open on seven occasions within the past three years for longer than required for
+ingress/egress and that this condition was not bounded by site analyses. If a postulated HELB had occurred while the door was
+open during those seven occasions, equipment outside the RBST may have been adversely impacted by the post-HELB
+conditions. It was determined that the conditions were reportable as a condition prohibited by Technical Specifications (TS), loss
+of safety functions, an unanalyzed condition, a common cause inoperability, and a single cause preventing safety functions in
+different systems. Due to the door being open for only a short time in each case, a bounding risk evaluation determined that the
+safety significance was very low. There were no radiological releases associated with this event.
+The cause of this event was the failure of Operations personnel to properly follow site procedures which prohibited the opening
+of the door (other than during ingress/egress) without prior evaluation by site engineering. Immediate corrective action was
+taken to restrict opening of the RBST door to ingress/egress only. Additional longer-term corrective actions are planned to
+perform new HELB analyses that establish specific conditions under which the RBST door may remain open.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 001 - 0
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode – 1
+Reactor Power – 100%
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+At 0930 EDT on 5/3/2021, it was determined that, during entries into the Fermi 2 Reactor Building [NG] Steam Tunnel
+(RBST) on 4/17/2021, 4/18/2021, and 4/21/2021, the RBST door (R1-11) [DR] was not controlled according to site
+procedures. Door R1-11, when closed, is credited as a hazard barrier for certain high-energy line break (HELB)
+scenarios. On the identified dates, the RBST door was open for brief periods, but longer than needed for ingress/egress,
+while personnel were performing maintenance-related activities in the RBST. These brief periods with the door open are
+not bounded by existing analyses as the door is assumed to be closed throughout HELB events where the postulated
+break is inside the RBST. The time period that the door was open was less than one hour in each case, as stay times in
+the room were inherently limited by industrial and radiological conditions. Individuals remained in the area to close the
+door if needed, but existing analyses do not address the feasibility of performing those actions under the conditions that
+may be expected following one of the applicable HELB scenarios.
+The three dates in April 2021 where the door was left opened all occurred during MODE 1 with reactor power at 100%.
+On those dates, it was not recognized what the impact would be of having the door open. Due to questions raised by the
+NRC Resident Inspector, an investigation was performed with support by engineering personnel. After reviewing design
+basis information, it was determined on 5/3/2021 that the plant analyses did not support the opening of the RBST door
+for more than ingress/egress. Following the identification of this issue on 5/3/2021, a review of the extent of this
+condition identified other RBST entries during the past three years where the conditions may also not have been
+bounded by existing analyses. The additional occasions where the door may have been open for longer than needed for
+ingress/egress were on 9/22/2018 (MODE 3), 10/26/2018 (MODE 1), 11/2/2018 (MODE 1), and 3/21/2020 (MODE 3).
+Per unit logs, each of these entries were also less than one hour with the exception of the occurrence beginning on
+10/26/2018 which lasted approximately 10 hours to support packing leak repairs on a High Pressure Coolant Injection
+(HPCI) [BJ] Outboard Isolation Valve [ISV]. Although few specifics about these occurrences are available due to the time
+elapsed, these previous occurrences are included in this LER. The narrative below, while written specifically for the more
+recent (i.e., April 2021) occurrences, is also generally applicable to these older occurrences.
+Indications of a steam leak in the RBST led to the decision for personnel to access the RBST and investigate the source
+of the leak and perform repairs if possible. Since door R1-11 opens into the room, a steam leak in the room could
+pressurize the room and make it difficult to open from the inside. For this reason, station personnel made the decision to
+leave the R1-11 door open while any personnel were inside the room. Door R1-11 was not disabled from closing but
+remained open to facilitate personnel safety to allow for prompt egress if needed.
+NRC FORM 366A (08-2020) Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 001 - 0
+NARRATIVE
+In the Fermi 2 Updated Final Safety Analysis (UFSAR) Section 3.6.2, pipe breaks are postulated to occur in high energy
+piping systems passing through the RBST. Environmental and flooding analyses were performed for these pipe breaks,
+assuming that the R1-11 door between the RBST and Reactor Building (RB) first floor is in the closed position. This
+assumption is valid since the door is normally locked closed during power operation to prevent access into a locked high
+radiation area. Door R1-11 is designed to prevent steam tunnel pipe break environmental effects and flooding from
+having direct access to the RB first floor. The door is also a fire-rated separation barrier governed under the Fermi 2
+Technical Requirements Manual (TRM). There were personnel stationed outside the steam tunnel to satisfy the fire watch
+function while the fire-rated barrier (i.e., door) was open. Although the fire-rated function of the barrier was properly
+addressed by the fire watch, the other barrier functions of the door were not formally addressed. The Fermi 2 procedure
+for barrier identification/classification does list all the barrier functions associated with door R1-11. This procedure also
+identifies that doors such as R1-11 should remain closed in MODES 1, 2, and 3 except for ingress and egress and shall
+not be blocked open for work activities without prior evaluation. Contrary to the procedure, the RBST door was open in
+MODE 1 (and also in MODE 3 for some of the older occurrences) without prior evaluation. The full impact of the door
+remaining open, specifically the consequences during postulated HELBs in the RBST, was not understood by plant
+personnel at the times the door was open.
+The main steam line break (MSLB) and feedwater line break (FWLB) are considered the bounding HELBs that could
+occur in the RBST and are analyzed in site calculations supporting UFSAR Chapter 15. The analysis credits R1-11 to
+form the boundary between the RB and the RBST, protecting the equipment in the RB from the consequences of the
+break. With door R1-11 open at the time of a postulated MSLB or FWLB in the RBST, equipment in the RB could be
+exposed to high temperatures, humidity, and possible submergence. There is no existing site analysis that considers
+these effects on RB equipment. Although personnel were stationed in the door area (to perform the fire watch function)
+and could have acted to try to close the RBST door as needed, there is no existing site analysis that verifies the feasibility
+of those actions. Therefore, each brief period when the door was open for longer than necessary for ingress/egress is
+considered an unanalyzed condition. In each case, closure of the door when personnel exited the room restored the plant
+conditions to within existing analyses.
+As described above, there is no existing site analysis that considers the effects of high temperatures, humidity, and
+possible submergence on RB equipment due to a HELB in the RBST with door R1-11 open. Preliminary scoping of such
+an analysis determined that it could not be completed for several months (i.e., well after the required LER due date).
+Given these constraints, a conservative evaluation was performed by assuming that all RB equipment associated with the
+mitigation of these HELB events would have been unable to perform its function under the post-HELB conditions. The
+Fermi 2 Updated Final Safety Analysis Report (UFSAR) Table 3.6-1 provides a list of structures, systems, and
+components (SSCs) needed to mitigate the limiting MSLB and FWLB events. Significant SSCs in the RB that would be
+assumed impacted include the Reactor Protection System (RPS) [JD], HPCI, and Residual Heat Removal (RHR) [BO].
+Although other significant SSCs in the RB such as Reactor Core Isolation Cooling (RCIC) [BN] and Core Spray (CS) [BM]
+would also be assumed to be impacted, they are not identified in UFSAR Table 3.6-1. Under this conservative evaluation,
+reporting criteria may be conservatively assessed as described below. Although it is expected that a more detailed
+evaluation could be performed to reduce the scope of impacted RB SSCs, no credit is taken for performing such an
+evaluation at this time.
+NRC FORM 366A (08-2020) Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 001 - 0
+NARRATIVE
+An 8-hour event notification (EN 55231) was made to the NRC on 5/3/2021 based on meeting the reporting criteria of Title
+10 Code of Federal Regulations (10 CFR) 50.72(b)(3)(ii)(B) as an event or condition that resulted in the nuclear power
+plant being in an unanalyzed condition that significantly degraded plant safety. This LER is being made under the
+corresponding criteria of 10 CFR 50.73(a)(2)(ii)(B); specifically, that existing analyses did not bound the condition where a
+postulated HELB occurs in the RBST for the brief periods where the RBST door was open.
+Since it is postulated that multiple SSCs from UFSAR Table 3.6-1, and credited in the UFSAR Chapter 15 MSLB and
+FWLB analyses, are impacted by the postulated breaks inside the RBST with the door open, the brief periods where the
+RBST door was open are also reportable pursuant to:
+10 CFR 50.73(a)(2)(v)(A) – An event or condition that could have prevented fulfillment of a safety function of structures or
+systems that are needed to shut down the reactor and maintain it in a safe shutdown condition. This criterion is met, at a
+minimum, due to potential impact on both divisions of RPS.
+10 CFR 50.73(a)(2)(v)(B) – An event or condition that could have prevented fulfillment of a safety function of structures or
+systems that are needed to remove residual heat. This criterion is met, at a minimum, due to potential impact on HPCI,
+which is only a single train, and both divisions of RHR.
+10 CFR 50.73(a)(2)(v)(D) – An event or condition that could have prevented fulfillment of a safety function of structures or
+systems that are needed to mitigate the consequences of an accident. This criterion is met, at a minimum, due to
+potential impact on HPCI, which is only a single train, and both divisions of RHR.
+10 CFR 50.73(a)(2)(vii)(A) – An event where a single cause or condition caused at least one independent train or channel
+to become inoperable in multiple systems or two independent trains or channels to become inoperable in a single system
+designed to shut down the reactor and maintain it in a safe shutdown condition. This criterion is met, at a minimum, due to
+potential impact on both divisions of RPS.
+10 CFR 50.73(a)(2)(vii)(B) – An event where a single cause or condition caused at least one independent train or channel
+to become inoperable in multiple systems or two independent trains or channels to become inoperable in a single system
+designed to remove residual heat. This criterion is met, at a minimum, due to potential impact on both divisions of RHR.
+10 CFR 50.73(a)(2)(vii)(D) – An event where a single cause or condition caused at least one independent train or channel
+to become inoperable in multiple systems or two independent trains or channels to become inoperable in a single systems
+designed to mitigate the consequences of an accident. This criterion is met, at a minimum, due to potential impact on both
+divisions of RHR.
+10 CFR 50.73(a)(2)(ix)(A) – An event or condition that as a result of a single cause could have prevented the fulfillment of
+a safety function for two or more trains or channels in different systems that are needed to (2) remove residual heat and
+(4) mitigate the consequences of an accident. This criterion is met, at a minimum, due to potential impact on HPCI and
+RHR.
+NRC FORM 366A (08-2020) Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 001 - 0
+NARRATIVE
+Many of the SSCs in the RB that would have been impacted are controlled under the Fermi 2 Technical Specifications
+(TS). The impact on these SSCs under these conditions would have required entry into the Limiting Condition for
+Operation (LCO) for each of the SSCs. No entry was made to the relevant LCOs during the periods the door was open.
+Due to the combination of SSCs that would have been impacted, it is likely that immediate entry to TS LCO 3.0.3 would
+have been required. TS LCO 3.0.3 requires initiating actions within 1 hour to move to the next lower MODE of operation.
+Although actions were not initiated to move to lower MODES of operation, all the periods where the door was open were
+less than one hour, with the exception of the occurrence beginning on 10/26/2018 which lasted approximately 10 hours.
+Based on the failure to enter and meet the TS LCO 3.0.3 action times, this event is also being reported under 10 CFR
+50.73(a)(2)(i)(B) as a condition which was prohibited by the Fermi 2 TS.
+The inoperability, loss of safety function, and unanalyzed condition in each case was limited strictly to the time that the
+RBST door was open, which was less than an hour in each case except for the case in October 2018 which was
+approximately 10 hours.
+Since there was no actual piping failure at any point, none of the SSCs described above were required to actuate at any
+time and no actuations occurred.
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+The RBST door (R1-11) was opened on seven brief occasions over the past three years to allow personnel to enter the
+RBST for maintenance activities. The door remained open during the duration of the maintenance activities as a safety
+precaution so that it could be assured that the door would not fail closed, thus trapping personnel in the room. Personnel
+were stationed to attempt to close the door if plant conditions necessitated it be closed. With the door remaining open
+longer than for ingress/egress, a postulated HELB or pipe break in the RBST could have adversely impacted equipment
+outside the RBST that is credited to mitigate such a postulated event.
+No HELB or pipe break occurred during the time period that R1-11 was open, thus there were no safety consequences
+or radiological releases associated with this event. At no time during this event was there a potential for endangering the
+public health and safety.
+As described previously, there is no existing deterministic analysis for the consequences of a postulated HELB or pipe
+break with the RBST open. Instead, a bounding risk evaluation was performed using probabilistic risk assessment (PRA)
+to determine the significance of the event.
+Opening the RBST door does not affect the frequency of any initiating event. It does affect the ability of equipment to
+mitigate some initiating events, specifically those breaks postulated to occur in the RBST. As the effects on equipment
+outside of the steam tunnel have not been deterministically addressed, the PRA evaluation was performed assuming that
+all postulated pipe breaks in the RBST lead directly to core damage/large early release. This bounding evaluation
+removes the need to identify which specific equipment could have been affected as it is all assumed unavailable.
+NRC FORM 366A (08-2020) Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 001 - 0
+NARRATIVE
+The PRA evaluation then accounted for the limited time that the RBST door was actually open. The majority of instances
+where the RBST door was opened were less than an hour, with the exception of October 2018 where the door remained
+opened for approximately 10 hours. A maximum open time on a rolling year basis was used to bound all the occurrences,
+including October 2018. Using these assumptions, the Incremental Conditional Core Damage Probability (ICCDP) and
+Incremental Conditional Large Early Release Probability (ICLERP) were calculated. The results corresponded to a
+determination that the events described in this LER were of very low safety significance.
+Closure of the RBST door at the conclusion of each of the periods identified in this LER restored the plant to within
+analyzed conditions, such that the significance and consequence of any subsequent postulated piping breaks would be
+bounded by those already considered in the Fermi 2 UFSAR.
+CAUSE OF THE EVENT
+The reason for leaving the RBST door open in each case was as a safety precaution during maintenance activities in
+RBST so that personnel could egress efficiently if warranted.
+The cause of this event was determined to be the failure of Fermi 2 Operations personnel, including licensed personnel,
+to properly follow site procedures which prohibited the opening of the door (other than during ingress/egress) without prior
+evaluation by site engineering. Operations personnel also failed to identify that the RBST door performed functions other
+than a fire barrier. As a result, the actions taken to establish a fire watch did not address the other functions of the door.
+In addition, during review of the recent RBST entries, it was identified that an older engineering evaluation previously
+(from 2002) had incorrectly assumed the RBST door could be open if personnel remained within the area to close the
+door as needed but did not establish sufficient controls to ensure the door was closed if needed. This older evaluation
+was referenced by Fermi 2 Engineering personnel without validating its accuracy or applicability. The past precedent
+contributed to a mindset that it was acceptable to leave the door open without performing a new engineering evaluation.
+CORRECTIVE ACTIONS
+Upon discovery of the impact of keeping the door open on 5/3/2021, immediate action was taken to restrict opening of the
+RBST door to ingress/egress only. Subsequent entries to the RBST to support maintenance activities were performed
+without leaving door R1-11 open.
+To address the human performance aspects of this event, department-level resets were performed for Operations and
+Engineering personnel to communicate the lessons learned. In addition, expectations were communicated to Engineering
+personnel to perform new engineering evaluations when needed to support these types of conditions rather than rely on
+older analysis by informal reference.
+As a long-term corrective action, engineering plans to perform an update of calculations associated with piping breaks in
+the RBST. The intent is to include analyses of the impacts of the RBST door remaining open during such breaks. If the
+results of the analysis are favorable, procedures will be updated to allow the RBST door to remain open during
+maintenance activities, as needed, provided that the analysis restrictions, if any, are observed.
+NRC FORM 366A (08-2020) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 001 - 0
+NARRATIVE
+The reason for leaving the RBST door open in April of 2021 was as a safety precaution while personnel were inside the
+RBST to investigate a potential steam leak. The steam leak was identified and repaired during the week of May 17,
+2021. The repairs were performed while the plant was shut down, which eliminated concerns regarding the RBST door
+being open. Repair of the steam leak has eliminated the need for entry to the RBST in the foreseeable future. This will
+allow the door to remain in its closed position, consistent with analysis assumptions.
+In addition, further investigation is being performed under the Fermi 2 Corrective Action Program (CAP) to determine if
+other doors (i.e., other than R1-11) have also been improperly controlled during maintenance activities. The investigation
+is ongoing.
+PREVIOUS OCCURRENCES
+There have been no other previous reportable events concerning the RBST door. However, this report did include
+documentation of the previous occurrences in the past three years. As described above, an investigation is ongoing
+under the Fermi 2 CAP to determine if there may have been previous occurrences of a similar nature associated with
+other similar doors.
+NRC FORM 366A (08-2020) Page 7 of 7

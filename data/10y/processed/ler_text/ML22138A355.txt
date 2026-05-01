@@ -1,0 +1,236 @@
+10CFR50.73
+Virginia Electric and Power Company
+Surry Power Station
+5570 Hog Island Road
+Surry, Virginia 23883
+May 18, 2022
+U. S. Nuclear Regulatory Commission Serial No.: 22-160
+Attention: Document Control Desk SPS: SCN
+Washington, D. C. 20555-0001 Docket No.: 50-280
+50-281
+License No.: DPR-32
+DPR-37
+Dear Sir or Madam:
+Pursuant to 10CFR50.73, Virginia Electric and Power Company hereby submits the
+following Licensee Event Report applicable to Surry Power Station Unit 1 and Unit 2.
+Report No. 50-280 / 2022-001-00
+This report has been reviewed by the Station Facility Safety Review Committee and will
+be forwarded to the Management Safety Review Committee.
+Very truly yours,
+Fred Mladen
+Site Vice President
+Surry Power Station
+Enclosure
+Commitment contained in the LER: None
+cc: U.S. Nuclear Regulatory Commission, Region II
+Marquis One Tower, Suite 1200
+245 Peachtree Center Ave., NE
+Atlanta, GA 30303-1257
+NRC Senior Resident Inspector
+Surry Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to induslly. Send comments
+..,Y"llf•~'-4
+regarding burden estimate to the FOIA, library, and Information Collections Branch (T-6 A10M), U.S.
+s, •~~-: (See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\. ..... J (See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonnation and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.qoy. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1, Facility Name 2, Docket Number 3, Page
+Surry Power Station Unit 1
+05000 280 1 OF 4
+4, Title
+Failure of Two Intake Canal Level Probes Due to Biofouling
+5, Event Date 6. LER Number 7, Report Date 8, Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No, Month Day Year
+Surry Power Station Unit 2 05000 281
+- -
+03 22 2022 2022 001 00 05 18 2022 Facility Name Docket Number
+05000
+9. Operating Mode 110, Power Level
+N 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+(cid:143) (cid:143) (cid:143) (cid:143)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50, 73(a)(2)(iv)(A) 50. 73(a)(2)(x)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(b) 20.2203(a)(3)(i) 50,46(a)(3)(ii) 50. 73(a)(2)(v)(A) 10 CFR Part 73
+(cid:143) (cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50. 73(a)(2)(v)(B) 73. 71 (a)(4)
+(cid:143) (cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(1) 20.2203(a)(4) 50, 73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73. 71 (a)(5)
+(cid:143) (cid:143) (cid:143)
+[Z]
+20.2203(a)(2)(i) 10 CFR Part 21 50,73(a)(2)(i)(B) 50. 73(a)(2)(v)(D) 73. 77(a)(1 )(i)
+(cid:143) (cid:143) (cid:143) (cid:143)
+[Z]
+20.2203(a)(2)(ii) - 21.2(c) 50, 73(a)(2)(i)(C) 50. 73(a)(2)(vii) 73. 77(a)(2)(i)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iii) 10 CFR Part 50 50. 73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A) 73. 77(a)(2)(ii)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50. 73(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(v) 50,36( c)(1 )(ii)(A) 50.73(a)(2)(iii) 50. 73(a)(2)(ix)(A)
+(cid:143)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Fred Mladen, Surry Power Station Site Vice-President (757) 365-2001
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+C JE LE F132 y
+14. Supplemental Report Expected Month Day Year
+ID 15. Expected Submission Date
+[Z] No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+The non-essential Service Water (SW) automatic isolation function ensures adequate intake canal inventory can be maintained
+by the emergency service water pumps following a design basis accident. This is accomplished using intake canal level probes
+which will isolate the non-essential equipment once the canal level drops below a predetermined level. On 3/22/2022 during
+routine testing, 2 of the 4 probes failed their response time test. The probes were cleaned, retested satisfactory, and returned
+to service.
+The cause of the test failure was determined to be biofouling. There were no safety consequences since an engineering
+analysis concluded that the intake canal level and inventory would have been sufficient to support all accident analysis
+assumptions. Planned corrective actions include increased testing to monitor the biofouling buildup and the continued testing of
+probe coatings to reduce the biofouling.
+This event is being reported as a condition prohibited by the stations' Technical Specifications and a common cause failure.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+http://www.n r e.gov/ reading-rm/doc-collection sin ur egs/staff/ sr10 22/r3D sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I DYEA R SEQUENTIAL REV
+Surry Power Station Unit 1 05000- 280 NUMBER 1- NO 0 .
+~-, 001
+I
+NARRATIVE
+Plant Operating Conditions Prior to the Event
+Both units operating at 100%
+1.0 Description of Event
+The non-essential Service Water (SW) automatic isolation function [EIIS: JE, KG] ensures adequate intake canal inventory
+can be maintained by the emergency service water pumps [EIIS: Bl, P] following a design basis loss of coolant accident
+(LOCA) with a coincident loss of offsite power (LOOP). This function is designed to actuate when any three of the four
+intake canal level probes [EIIS: JE, LE] sense water level drop from the normal 28-foot level past a fixed level point of 23.5
+feet. The probes are required to actuate in 55 seconds or less to ensure that the automatic logic initiates prior to the
+intake canal level dropping to 23 feet under all design basis scenarios. The 23-foot level is the initial condition used in the
+accident analyses.
+The four (4) intake canal level probes are routinely cleaned and inspected from April to October. This is based on the
+typical period that the colonial hydroids grow in the service water system, plus some buffer time on either side of that time
+range. Typically, the probes are found clean during the April and May cleanings and found clean in the September and
+October cleanings. Although there is some variance from year to year, in general, this cleaning period has worked best
+for the discovery and removal of colonial hydroids.
+On 3/22/2022, the 18-month channel 1 and channel 4 [EIIS: JE, CHA] intake canal level probe calibrations were both
+scheduled. They were scheduled and performed sequentially. Both probes had been installed approximately 18 months
+earlier (channel 1 on 7/10/2020 and channel 4 on 7/15/2020). The channel 1 probe was tested first and produced an as
+found response time of 106 seconds. This was greater than the 55 second acceptance criteria. The probe was inspected
+and cleaned per the calibration procedure. Minimal fouling was noted (recorded as 0%-5% and hydroid-free). The
+actuation settings were checked per the calibration procedure. No adjustments were made, and no problems were found.
+The probe was retested in accordance with the calibration procedure and produced a satisfactory response time of 38
+seconds.
+Following this completed calibration, the channel 4 probe was tested, with an as-found response time of 119 seconds.
+The probe was inspected and cleaned per the calibration procedure. Minimal fouling was noted (also recorded as 0%-5%
+and hydroid-free). The actuation settings were checked per the calibration procedure. No adjustments were made, and
+no problems were found. The probe was retested in accordance with the procedure and had a satisfactory response time
+of 53 seconds.
+Since a satisfactory response time was obtained on each probe with no actions performed, other than the cleaning, it was
+concluded that the slow time response on each probe was due to the common cause of biofouling. Since biofouling is a
+phenomenon that requires a period of a few days to become established, it is likely that the biofouling existed on both
+probes for a period exceeding 72 hours prior to the test.
+NRG FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submissioo@omb eop gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER I 3. LER NUMBER
+D
+YEAR SEQUENTIAL REV
+Surry Power Station Unit 1 05000-1 280 (cid:143) -1 NUMBER 1-NO0.
+001
+NARRATIVE
+The probes were last cleaned and inspected on 10/5/2021. The channel 3 probe had been time response tested with
+satisfactory results (10-15 seconds) on 3/2/2022. The channel 2 probe was time response tested with satisfactory results
+(17 seconds) on 4/19/2022.
+Reportability
+A review of each individual probe test (on 3/22/2022) showed that in both cases, the Technical Specification (TS) actions
+taken were appropriate based on a time of discovery failure determination. However, when the tests are taken in
+aggregate and assessed against the reporting requirements delineated in NUREG-1022, Rev. 3, "Event Report Guidelines
+10 CFR 50.7 2 and 50. 73," it was concluded that both probes were likely inoperable prior to their time of discovery and that
+the station had operated in a condition prohibited by the TS; Consequently, this report is being submitted pursuant to 10
+CFR 50.73(a)(2)(i)(B). This report is also being reported pursuant to 10 CFR 50.73(a)(2)(vii)(D) as a common cause
+inoperability of independent trains or channels, i.e., a single cause resulted in two independent probe channels to become
+inoperable in a single system designed to mitigate the consequences of an accident.
+2.0 Significant Safety Consequences and Implications
+To determine the potential impact of the slow time response on the non-essential SW automatic isolation function,
+Engineering performed an evaluation to determine the intake canal minimum level that would have resulted from the slow
+time responses measured on 3/22/2022. This evaluation assessed the operating conditions present during the interval
+from the last cleaning (10/5/2021) to the time of the calibration tests (3/22/2022).
+The analysis concluded that the intake canal level and inventory would have been sufficient to support all accident
+analysis assumptions even if all four probes were conservatively assumed to actuate at the slowest of the four as found
+measured response times. In other words, the non-essential service water would have isolated prior to the intake canal
+level dropping below the assumed initial condition level of 23 feet.
+Additionally, intake canal level is also monitored by an independent system that provides level indication and high/low
+level alarms in the main control room. In the event of loss of intake canal level, station procedures direct corrective/
+mitigative actions, including isolation of non-essential SW.
+In summary, this event resulted in no safety consequences or significant implications and the health and safety of the
+public was not affected at any time.
+3.0 Cause of the Event
+Since both intake canal level probes produced a satisfactory response time with no actions other than being cleaned, it
+has been concluded that the cause of the event was due to the material that was removed when cleaned. Observations
+indicate a muddy film that is suspected of being biofouling noted on both probes.
+NRC FORM 366A (08-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb eop,gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+bttp://www.nrc gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER I 3. LER NUMBER
+I D YEA R SEQUENTIAL REV
+Surry Power Station Unit 1 05000- 280 (cid:143) -1 NUMBER 1- 0N O.
+001
+NARRATIVE
+The biofilm was easily removed with a clean cotton cloth. Once the fouling was removed, the response time testing was
+found to be satisfactory. The channel 1 probe retested at 38 seconds and the channel 4 probe retested at 53 seconds.
+These response times are comparable to response times measured during bench testing (i.e., when clean).
+4.0 Immediate Corrective Action
+The probes were cleaned, retested, and returned to service.
+5.0 Additional Corrective Actions
+On 4/21/2022, all four intake canal probes were inspected and cleaned as part of the routine April to October cleaning
+cycle.
+6.0 Planned Corrective Actions
+1. Several new coatings are being tested to reduce the biofouling material buildup. The performance of these probes and
+coatings will be monitored throughout the summer and winter seasons for effectiveness.
+2. The cleaning frequency will be changed from April to October, which was based on calendar months, to year-round until
+the cause of the biofouling is better understood.
+7.0 Similar Events
+1. LER S1 1997-009-01, "Intake Canal Level Probes Inoperable Due to Marine Growth."
+2. LER S1 1998-010-00, "Intake Canal Level Probes Inoperable Due to Marine Growth."
+8.0 Additional Information
+Units 1 and 2 continued to operate at 100% power.
+Failed Component - Liquid Level Switch, Model 8-66, Manufactured by Fluid Components International (FCI).
+NRC FORM 366A (08-2020) Page 4 of 4

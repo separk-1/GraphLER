@@ -1,0 +1,234 @@
+Exelon Generation
+10 CFR 50.73
+LG-18-010
+February 6, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 2
+Renewed Facility Operating License No. NPF-85
+NRC Docket No. 50-353
+Subject: LER 2018-001-00, HPCI lnoperability due to Discharge Check Valve Failure to
+Close
+Enclosed is a Licensee Event Report (LER) which addresses the inoperability of the High
+Pressure Coolant Injection (HPCI) system during surveillance testing at Limerick Generating
+Station (LGS), Unit 2.
+This LER is being submitted pursuant to the requirements of 10 CFR 50.73(a)(2)(v)(D), any
+event or condition that could have prevented the fulfillment of the safety function of structures
+or systems that are needed to mitigate the consequences of an accident.
+There are no commitments contained in this letter.
+I
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Respectfully,
+L /' ..
+r::>
+_, (,,. F.
+~ S Tl)R,,Jt OL.0
+..--~_Richard W. Libra
+KV-Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours .
+..~ ~ Reported lessons learned are incorporated into the licensing process and led back to industry.
+i ~(J ! LICENSEE EVENT REPORT (LEA) Send comments regarding burden estimate to the Jnlormat1on Services Branch (T-2 F43), U.S.
+..... Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+\-\..., "'.l (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently vahd OMB control number, the
+http://www.nrc qovlreadinq-rmldoc-collectionslnureqs/stafflsr1022/r31) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 2 05000353 1 OF 4
+4. TITLE
+HPCI lnoperability due to Discharge Check Valve Failure to Close
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO.
+- FACILITY NAME DOCKET NUMBER
+12 08 17 2018 - 001 00 02 06 18
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3Hil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(aH4l so.13(aH2Hiiil 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (aH4l
+D D D D
+20.2203(a)(2)(iiil so.3s(c)(2) 50.73(a)(2)(v)(B) 13.11 (a)(s)
+I
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(3l(iil 50.73(a)(2)(v)(C) v3.77(a)(1 l
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) [8'.J 50.73(a)(2)(v)(D) D 13.77(a)(2Hil
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(iil
+D D
+so.13(aH2HiHCJ OTHER Specify in Abstract below o m NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance (610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B BJ v A391 y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8'.J NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 8, 2017, when the Unit 2 High Pressure Coolant Injection (HPCI) System was being secured
+following a quarterly surveillance test, the Main Control Room (MGR) received indications that the HPCI
+pump suction piping was pressurizing. The HPCI pump discharge check valve failed to fully close following
+turbine shutdown causing repeated cycling of the HPCI pump minimum flow bypass valve. The motor
+operated HPCI pump discharge valve located immediately downstream of the pump discharge check valve
+was closed to terminate pressurization of the pump suction piping.
+With the pump discharge check valve in an indeterminate state and the motor operated pump discharge
+valve closed, the Unit 2 HPCI System was declared inoperable. This condition is reportable under 1O CFR
+50.73(a)(2)(v)(D) as an event that could have prevented fulfillment of a safety function of a system that is
+needed to mitigate the consequences of an accident. An eight (8) hour Emergency Notification System
+(ENS) notification (#53108) was completed on December 8, 2017 at 1725 hours.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+-lr... .' -"'""lo(l',.,.. 0 comments regarding burden estimate to the Information Services Branch (T·2 F43). U.S. Nuclear
+{t~.:·.J.\ LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+\~1~~; CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office ol Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1 D22, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2018 - 001 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 2 was operating in Operational Condition (OPCON) 1 at 100
+percent power at the time of the event. There were no other structures, systems, or components
+inoperable at the time of the event that contributed to the event.
+11. Description of the Event
+At approximately 1300 hours on December 8, 2017, when the Unit 2 High Pressure Coolant Injection
+(HPCI) [EllS: BJ] system was being secured following a quarterly surveillance test, the Main Control
+Room (MCA) received indications that the HPCI pump suction piping was pressurizing. Failure of the
+HPCI pump discharge check valve to fully close caused repeated cycling of the HPCI pump minimum
+flow bypass valve. The motor operated pump discharge valve located immediately downstream of
+the pump discharge check valve was closed to terminate pressurization of the pump suction piping.
+With the HPCI pump discharge check valve in an indeterminate state and the motor operated pump
+discharge valve closed, the Unit 2 HPCI System was declared inoperable.
+Following repair of the pump discharge check valve, satisfactory post-maintenance testing, and
+surveillance testing, the Unit 2 HPCI system was declared operable at 1140 hours on December 11,
+2017.
+This condition is reportable under 1O CFR 50.73(a)(2)(v)(D) as an event that could have prevented
+fulfillment of a safety function of a system that is needed to mitigate the consequences of an accident.
+An eight (8) hour Emergency Notification System (ENS) notification (#53108) was completed at 1725
+hours on December 8, 2017.
+111. Analysis of the Event
+Inspection of the Unit 2 HPCI pump discharge check valve identified that the disc was stuck in the full
+open position. Repeated contact between the disc and sides of the valve body over time resulted in
+wear of the disc and the formation of notches in the side of the valve body. During the December 8,
+2017 surveillance test, the disc became lodged in the notches and prevented disc closure when the
+system was secured. Normal wear of the valve internal parts and the formation of the notches in the
+valve body are both time dependent failure modes that occurred over the life of the valve.
+IV. Safety Significance
+The HPCI pump discharge piping includes a pump discharge check valve upstream of the system
+keep fill connections from the Condensate Transfer and the Safeguard Piping Fill systems. The
+check valve maintains the HPCI pump discharge piping filled with water above the elevation of
+normal Condensate Storage Tank (CST) water level. The pump discharge check valve performs an
+active safety function in the open direction to provide an injection flow path for the HPCI pump and a
+NRC FOAM 366A (04-20171 Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T·2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and RegulatO!}' Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150·0104), Office of Management and Budget, Washington. DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1 D22, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/read1ng-rmldoc-collections/nuregsfstaff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2018 - 001 - 00
+NARRATIVE
+non-safety related function in the closed direction to support discharge piping keep fill. With the
+pump discharge check valve stuck open, the potential exists that voided piping could prevent the
+fulfillment of the HPCI system safety function.
+There was no actual safety consequence associated with this event. The potential safety
+consequence of this event was the potential for voided piping to prevent the fulfillment of the HPCI
+system safety function. The reactor core isolation cooling (RCIC) system and low-pressure
+Emergency Core Cooling Systems (ECCS) remained operable during the period when the HPCI
+system was rendered inoperable.
+V. Cause of the Event
+Based on the valve design (lack of disc backstop), the as-found condition of the valve on December
+8, 2017 and the operating and maintenance history, the apparent cause of the valve failure was
+unexpected wear over time of the valve disc and formation of the notches in the valve body. The
+degradation was a time dependent failure mode that occurred over the life of the valve. The lack of
+disc backstop contributed to wear of the valve that ultimately resulted in failure of the valve to close
+following the December 8, 2017 surveillance test.
+VI. Corrective Actions Completed/Planned
+Maintenance was performed in accordance with the approved Anchor Darling procedure. A new
+valve disc, hinge pin, disc stud washer and cotter pin were installed. In-body maintenance also
+included removal of the notches from the valve body. In-body fit-up activities also included
+verification that the disc could not be wedged in the open position regardless of disc arm lateral
+position (i.e., centered, hard left/right).
+The following actions are in place or are planned:
+• Establish Preventive Maintenance (PM) for periodic disassembly/inspection
+• Review the feasibility of installing a disc backstop for the affected check valve family
+• Perform extent of condition review for check valves in similar applications
+VII. Previous Similar Occurrences
+A similar occurrence was identified on May 6, 2015, when the HPCI Pump Comprehensive test was
+terminated 80 minutes into the turbine surveillance test due to receipt of a turbine low oil pressure
+alarm. The MCA received indications that the HPCI pump suction piping was pressurizing. Failure
+of the HPCI pump discharge check valve to fully close following turbine shutdown resulted in
+Condensate Transfer pressurizing the HPCI pump suction piping and causing repeated cycling of the
+HPCI pump minimum flow bypass valve. The motor operated pump discharge valve was closed to
+terminate pressurization of the pump suction piping. The system remained in this alignment until the
+turbine was restarted to complete the remainder of the Pump Comprehensive test after the low oil
+pressure alarm issue was resolved. Followina turbine shutdown at the completion of the Pump
+NRG FORM 366A (04·2017) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG· 1D 22, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http:l/www.nrc.gov/readmg-rm/doc-collections/nuregs/stafflsr1D22/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2018 001 00
+NARRATIVE
+Comprehensive test, the pump discharge check valve closed as expected. The affected check valve
+exhibited proper operation through ten surveillance tests between the May 2015 event and the
+December 2017 event.
+VIII. Component Data
+System: BJ High Pressure Coolant Injection System
+Component: Valve
+Component number: 055-2F005
+Manufacturer: Flowserve
+Model number: 1783-3 DWG
+Serial number: 1426-02A
+NRC FORM 366A (04-2017) Page _4_ of _4_

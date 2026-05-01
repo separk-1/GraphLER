@@ -1,0 +1,285 @@
+Exelon Generation®
+SVP-18-075 10 CFR 50.73
+November 6, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-29
+NRC Docket No. 50-254
+Subject: Licensee Event Report 254/2018-003-01 ''Two Reactor Protection System Channels
+Impacted by Single Main Stop Valve Limit Switch Failure"
+Enclosed is Licensee Event Report (LER) 254/2018-003-01, ''Two Reactor Protection System
+Channels Impacted by Single Main Stop Valve Limit Switch Failure", for Quad Cities Nuclear
+Power Station, Unit 1.
+This report is submitted in accordance with 10 CFR 50.73(a)(2)(vii) for an event where a single
+cause or condition caused two independent trains or channels to become inoperable in a single
+system designed to mitigate the consequences of an accident. The revision confirms the cause
+mechanism and the associated corrective actions.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mark Humphrey at
+(309) 227-2800.
+Respectfully~ /
+~
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+,,c,'-v,~RSG11'-,>. LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+.. "' industry. Send comments regarding burden estimate to the Information Services Branch
+,fJ (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regumtory Commission, Washington, DC 20555-0001, or by e-mail
+I
+<
+.
+0,: t
+R
+o
+e g
+l
+u
+n
+m
+fo
+t
+c
+o
+o
+ry
+lle c
+A
+ts
+f
+.
+f
+R
+ai
+e
+rs
+s
+,
+o ur
+N
+c
+E
+e@
+OB
+n
+-
+r
+1
+c
+0
+.g
+2
+o
+0
+v
+2
+,
+,
+a
+(
+n
+3
+d
+1 5
+t
+0
+o
+- 01
+th
+0
+e
+4 ),
+De
+O
+sk
+ff ice
+O ffic
+o
+e
+f
+r,
+M
+O
+an
+ffi
+a
+c
+g
+e
+e m
+o
+e
+f
+nt
+I nfo
+a
+r
+n
+m
+d
+a tio
+B
+n
+u dg
+a
+e
+nd
+t,
+~ (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+'(.-4-q "' httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) dispmy a currently valid 0MB control number, the NRG may not conduct or sponsor, and a
+"'***., person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 3
+4. Title
+Two Reactor Protection System Channels Impacted by Single Main Stop Valve Limit Switch Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+- - Facility Name Docket Number
+06 09 2018 2018 003 01 11 06 2018 N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36( c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) ~ 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+.ri'.,,¥J,.
+. ;;~ ' iiif! . D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact !Telephone Number (Include Area Code)
+Richard Swart - Regulatory Assurance (309) 227-2810
+13. Complete One Line for each Component Failure Described in this Report
+,,,;
+Cause System Component Manufacturer Reportable to ICES :, Cause System Component Manufacturer Reportable to ICES
+B JD 33 N007 y N/A N/A N/A N/A ·N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On June 9, 2018, at 1240 hours, Quad Cities Nuclear Power Station (QCNPS) main turbine Main Stop Valve number 1 (MSV1) failed
+to provide the appropriate Reactor Protection System (RPS) relay actuations during periodic surveillance activities. The associated
+limit switch failed to properly actuate relays in subchannels of both the A and B RPS Trip System channels. Operations entered
+Technical Specification (TS) 3.3.1.1. Condition B due to one inoperable channel in each trip system.
+Fuses associated with the subchannels in both the A and B RPS channels were removed to meet the TS Action Statement. The limit
+switch was replaced on June 10, 2018, and associated RPS channels were tested satisfactory at 0538 hours. The cause of the
+switch failure was occasional binding due to inadequate lubrication during assembly by the manufacturer.
+The safety significance of this event was minimal. The associated RPS logic requires signals from 3 of 4 valves, and the other 3
+valves were providing proper signals per surveillance results. All other RPS inputs were functional. This report is submitted in
+accordance with the requirements of 10 CFR 50.73(a)(2)(vii) for a single condition that caused two independent channels to become
+inoperable in a single system designed to shut down the reactor and maintain it in a safe shutdown condition.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3Q sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station 05000254 NUMBER NO.
+2018 - 003 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Emergency Diesel Generators [DG]
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Two Reactor Protection System Channels Impacted by Single Main Stop Valve Limit Switch Failure
+A. CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: June 9, 2018 Event Time: 1240 hours
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+There were no structures, systems, or components (SSCs) out of service or inoperable that contributed to the
+event.
+B. DESCRIPTION OF EVENT
+On June 9, 2018, at 1240 hours, Quad Cities Nuclear Power Station (QCNPS) Unit 1 was performing a Turbine Stop
+Valve Closure Scram Instrumentation Functional Test. Main Stop Valve (MSV)[V] number 1 (MSV1 ), also referred to
+as Turbine Stop Valve number 1, did not produce the appropriate alarm or relay actuations in the Reactor Protection
+System (RPS)[JD] channels A or B. Operations entered Technical Specification (TS) 3.3.1.1. Condition B due to
+one inoperable channel in each trip system.
+Operations subsequently removed fuses associated with the associated RPS sub-channels at 1838 on June 9, 2018
+to satisfy the requirements of the TS Action Statement.
+A new limit switch [33] was installed on the MSV number 1. Post maintenance testing on this new switch was
+satisfactory and TS 3.3.1.1. Condition B was exited at 0346 on June 10, 2018. The RPS logic for all four MSVs was
+verified satisfactory at 0538 on June 10, 2018.
+This event is reportable as a licensee event report (LER) in accordance with 10 CFR 50.73(a)(2)(vii) for a single
+condition that caused two independent channels to become inoperable in a single system designed to shut down the
+reactor and maintain it in a safe shutdown condition.
+C. CAUSE OF EVENT
+An inspection of the degraded limit switch showed occasional binding attributed to insufficient or dried out lubricant,
+and a hardened a-ring on the operating shaft. Additional causal evaluation confirmed inadequate lubrication during
+assembly by the manufacturer.
+NRC FORM 366A (04-2018) Page _2_ of _3_
+NRC FORM 366A u.s_ NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r30
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station 05000254 NUMBER NO.
+2018 - 003 01
+NARRATIVE
+D. SAFETY ANALYSIS
+No actual safety consequences resulted from the failed limit switch since no related turbine generator trip requiring
+an RPS scram was experienced by QCNPS during this time. No automatic functions occurred as a result of the
+failed limit switch.
+Although the limit switch for MSV1 would not have provided input to its associated RPS logic, the limit switches on
+the remaining three MSVs were verified to be properly functioning. Since any three MSVs can cause a scram from
+the RPS system logic, the scram would have occurred if required.
+The MSV system design has all four valves closing on a turbine generator trip signal, supporting proper RPS
+function should it have been required. Individual MSV closures are only associated with surveillance testing.
+A Probabilistic Risk Assessment (PRA) review indicated that the individual MSV limit switches are not explicitly
+represented in the QCNPS Full Power Internal Events PRA models. Due to system redundancy, combinations of
+multiple failures would be required for an RPS failure. Since component failure events were found to have failure
+probabilities less than 1 E-06 per demand, such combinations of failure events have a negligible contribution to Core
+Damage Frequency risk.
+This event is not considered a Safety System Functional Failure per NEI 99-02 Revision 7.
+E. CORRECTIVE ACTIONS
+Immediate Actions: The limit switch was replaced and tested with satisfactory results. RPS circuit fuses were
+replaced.
+Follow Up Actions: A lubrication inspection will be invoked during the dedication process on this model of switch.
+All other MSV limit switches on both units will be replaced at the next refuel outage and will be
+considered for replacement in a forced outage. The population of switches removed will be
+inspected for lubrication issues.
+Potential Part 21 Notification initiated by Curtiss-Wright (October 8, 2018 letter to US NRC).
+F. PREVIOUS OCCURRENCES
+No previous similar events have occurred at the site based on a search of station LERs and IR s.
+G. COMPONENT FAILURE DATA
+Failed equipment: position indicating limit switch
+Component manufacturer: NAMCO, with Commercial Grade Oedication by QualTech/Curtiss-Wright
+Component model number: EA 700-90964
+Component type: Snap-Lock cam operated switch
+An ICES report will be submitted.
+NRG FORM 366A (04-2018) Page _3_ of _3_

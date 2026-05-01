@@ -1,0 +1,189 @@
+N
+Nebraska PUblic Power District
+"Alwa,s thm whtn '!Oii nwl 115•
+10 CFR 50.73
+NLS2020065
+December 28, 2020
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2020-003-00
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose ofthis correspondence is to forward Licensee Event Report 2020-003-00.
+There are no regulatory commitments contained in this request.
+Sincerely,
+~u;JU/rr1fl
+John Dent, Jr.
+Vice President and
+Chief Nuclear Officer
+/jo
+Attachment: Licensee Event Report 2020-003-00
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC - Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC -NRR Plant Licensing Branch IV via IRIS entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS'
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+72676 648A Ave/ P 0. Box 98 / Brownville, NE 68321
+http://www.nppd.com
+N/R'C¥FO.R'M\ 3.6 6 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08.-,2,0,2.0~) -.....
+Esbmateo burden per response to comply wrth this mandatory co!lecbon req IJ8St 80 hoi.;-s Repornd
+lessons learned El1l 111corporaled 111to the hcoosmg process ~ fed ~k to industry Send
+LICENSEE EVENT REPORT (LERJ commoots regarding burdoo estJmate to the FOIA, Li bray, aid In formabon CollectJons Brax:h (T-6
+! A10M), US Nuc!ea" Re<Julatory CommtSS1on, Washington, DC 20555-0001, or by e-mc1I to
+~ (See Page 3 for requred number of dlgts/characters for each block) lnfocollects Resoum@nrc gov, and the 0MB revrewer at 0MB Office of lnbmatron aid Re<Julatory
+\, / (See NUREG-1022, R 3 for nstructJon and guidance for completing thJs Alrars, (31~104), Attn Desk ail Ql(S subm1SSIQ(1@o(OO eop gov The NRC may not conduct or
+sponsor, alld a person is not requred to respond to, a collecbon of rnormabon unless the document
+•.-• 11• form ttlDs /lwww m: oov/read1na-rm/doc-roJlec1Jons/m.reas/staff/s[l Q22/r3/l reqll8Sbng or requImg the collecboo displays a currantty valfd 0MB control nurmer
+1. Facility Name 12. Docket Number 1.Page
+Cooper Nuclear Station 05000298 1 OF3
+4. Title
+Manual Reactor Scram due to Digital Electro-Hydraulic Fluid Leak
+5. Event Date 6. LER Number 7. Report Date 8.0tlherFacilltleslnvolved
+Faclllty Name Docket Number
+Month Day Year Yea: Sequerrtlal Rev Month Day Year
+Number No. 05000
+Faclllty Name Docket Number
+11 01 2020 2020 - 003 - 00 12 28 2020
+05000
+9. Opena,g Mode 10. Powerl.ewl
+1 100
+11. Tl-.s Report Is Su:mllled PlntJal't k> the Requk'ements of 10 CFR §: (Check all that aDDlv)
+10 CFR Part 20 D 20.2203(aX2XVI) D so.36(cX2) [8] 50.73(a)(2Xiv)(A) D 50 73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(aX3)(1) D 50.46(a)(3)(11) □ 50.73(aX2Xv)(A) 10 CFR Part 73
+□ 202201(d) D 20.2203(aX3)(11) □ 50.69(g) D 50.73(aX2Xv)(B) D 73 71(aX4)
+D 20 2203(aX1) □ 20 2203(aX4) □ 50.73(aX2)(1)(A) D 50 73(aX2)(v)(C) D 73 71(aX5)
+□ 20 2203(aX2Xl) 10 CFR Part 21 □ so 73(aX2)(1)(B) □ 50 73(aX2)(vXD) D 73 77(aX1X1)
+D 20.2203(aX2X11) D 21 2(c) □ 50 73(aX2X1XC) D 50.73(aX2)(V11) □ 73.77(aX2X1)
+□ 20.2203(aX2X111) 10 CFR Part 50 □ 50 73(aX2X11XA) □ 50 73(a)(2)(V111XA) □ 73.77(aX2X11)
+D 20.2203(a)(2XIV) □ 50 36(cX1X1XA) □ 50 73(a)(2X1IXB) □ 50 73(a)(2)(vf11XB)
+D 202203(a)(2Xv) □ 50.36(cX1 X11XA) D 50 73(a)(2)(111) D 50 73(a)(2)(IXXA)
+□ Other (Specify here, In Abstract, or In NRC 366A).
+12. Licensee Contact for this LER
+I.JcenBee Contact ~ Ntmber (Include Area Code)
+Linda Dewhirst, Requlatorv Affairs and Compliance Manaaer I) 825-5416
+=-. -...
+13. :.... _ Ole Line for each ~ Faikre DescriJed in ttis Reoort
+Catae System Component Manufacturer Reportable To IRIS Cause Sygtam COfTIP()fWflt ~rer Reportable To IRIS
+y
+B TG PCV S157
+14. Supplemental Report Expected Mooth Day Year
+[8'.J No D Yes (If yes, complete 15 Expected StilmlSSKln Date) 15. Expected Submission Date
+16. Abstract (Lrnrt to 1560 spaces, 1e , approxrnately 15 smgle-spaced typewntten bnes)
+On November 1, 2020, at 0534, Cooper Nuclear Station (CNS) Control Room Operators inserted a manual reactor scram due to low
+Digital Electro-Hydraulic (DEH) tank level. Further investigation revealed that a leak had developed at governor valve (GV) 1, and a
+pencil-sized stream of EH fluid was discovered leaking out of the lower, outboard 1nspecbon ~ on the GV1 actuator.
+Investigation revealed one bolt on the actuator inspection port cover plate was bottomeck)Lrt and prevented appropnate bghtening for
+an adequate seal. The <Hing on this cover plate was ruptured, allowing excessive leakage.
+The causes were on-srte vendor craftsmanship was unsatisfactory in the failure to recognize the bottomed-out bolt during actuator
+installation and inspector port cover plate holes on the new GV1 actuator body were not threaded deep enough to meet vendor
+specrlications. CNS will appropriately classify cnbcal Turbine Generator Fluid connecbons that are subject to additional verificabon of
+bolting and torqueing performance. In addition, CNS will review the final vendor evaluation of the actuator manufactunng
+defects/field craftsmanship and detenrnne if additional actions are warranted.
+This event was not risk s1gnrf1cant.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Esbmated burdefl per response to comply with this mE11daory collectloo f"8!1.18Sl 80 hours Repor1ad
+lessoos IB!IT18d are mcorporaEd mil the 11C811811g proc868 ood fad brl Ki llldustry Send corrrnents
+LICENSEE EVENT REPORT (LER) regm!mg tuden astimale Ki the FOIA, l.Jbray, and lnformEb:lo Colecbons Br!r'ICh (T-6 A1™), US
+Nuclei!" Regtiatory Coomssloo, Waslmgton, DC 206S0001, or by e-mal Ki
+CONTINUATION SHEET
+lnfocollects Resource@nrc gov, and the 0MB - at Ot.ll Office of In fonn,iion .m Regulatory
+Al!alrs, (3150-0104), Attn Desk 111 olra submsSIOn@ornb eop goy The NR C may not cooduct or
+(See NU RE G-1 022, R.3 for 1nstrucllon and guidance for completmg 1h18 form Sj):Jnsor, and a person 18 not reqUlred to 1'86pond to, a colecbon of mformallon unless the document
+https·/lv,w.v.nrc.oov/readlnq-rm/doc-collections/nuregs/staff/sr1022/r3/) requeslllg or requmng the collecbon ci!plays a currootly valtd 0MB control number
+1. FACILITY NAME 2. IXlCl<ET MJMBER 3. l.ffi NlMER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUIIEER NO.
+2020 -003 -00
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operation, at 100 percent pcmer at the time of the event on November 1,
+2020.
+BACKGROUND
+The power conversion systems at CNS are designed to produce electrical energy through conversion of a portion of thermal energy
+contained in the saturated steam supplied from the reactor, condense the b.Jrbine exhaust steam into water, and reb.Jm the water to
+the reactor as heated feec:lwater. The saturated steam produced by the reactor is passed through the high pressure b.Jrbine
+[EIIS:TRB] where the steam is expanded and then exhausted through the moisture separators [EIIS:MSR]. The moisb.Jre
+separators reduce the moisture content of the steam to close to zero percent. The steam is then passed through the low pressure
+b.Jrbines where the steam is again expanded. From the low pressure b.Jrbines, the steam is exhausted into the condenser
+[EIIS:COND] where the steam is condensed and de-aerated and then returned to the cycle as condensate.
+The main b.Jrbine [EIIS:TA ] consists of a high pressure section and a low pressure section comprised of two b.Jrbines in tandem.
+Steam from the reactor is admitted to the high pressure b.Jrbine section through two main stop valve and governor valve assemblies
+[EIIS:PCV]. After expansion through the high pressure b.Jrbine section, steam flows to four moisb.Jre separators and reb.Jms to the
+low pressure b.Jrbine section by passing through four sets of combined intermediate valves (intercept valves and reheat stop valves
+combined into one assembly) [EIIS:ISV]. These intermediate valves, fully open during normal operation, limit or isolate steam flow
+from the moisb.Jre separators to the low pressure b.Jrbines under certain conditions. This action will prevent potential damage to the
+low pressure turbines.
+The b.Jrbine utilizes a Digital Electro-Hydraulic (DEH) [EIIS:TG] system to control reactor pressure by positioning governor valves
+and condenser bypass valves. It consists of solid state governor devices, governor, startup control devices, emergency devices for
+b.Jrbine and plant protection (overspeed governor, master trip, vacuum trip, motoring protection, tlYust bearing wear trip, low bearing
+oil pressure trip) and special control and test devices. The control system operates the main stop valves, governor valves, bypass
+valves, reheat stop and intercept valves and other protective devices. DEH system oU pressure is maintained by two hydraulic
+pumps [EIIS:P] located at the DEH reservoir tank [EIIS:T]. ,
+EVENT DESCRIPTION
+During Refueling Outage 30 (Fall 2018) three governor valve actuators were replaced with refurbished actuators. Upon testing, a
+fourth governor valve actuator had to be emergently replaced due to a leak. The preventative maintenance frequency was changed
+from every 6 years to every 2 years to replace the four governor valve actuators fNery cycle. Three spare governor valve actuators
+had previously been installed at CNS and were refurbished for use in Refueling Outage 31 (Fall 2020). A fourth governor valve
+actuator had to be purd,ased.
+While staging the governor valve actuators for replacement of the existing installed actuators, it was noticed that the purchased
+actuator was missing inspection port cover plates. Per vendor recommendation, a decision was made to relocate covers from one
+of the actuators being removed to the new actuator prior to installation.
+In-field work to relocate the inspection port cover plates commenced by the vendor and the four ad:uators were installed. The DEH
+system was successfully post-work tested and in service for approximately two weeks. Three days after CNS reached 100%
+power, an on leak was discovered on the number one governor valve actuator inspecbon port cover plate.
+NRG FORM 366A (06-2016) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Es!Jrnated burden per response to comply ll'T1h Ills rnmdalory collecoon request 80 hours Reporled
+lessoos learned ~ mcorpormd mto the licensllg process and fad bock lo ridl.lStry Sand corrmarrtB
+LICENSEE EVENT REPORT {LER) ragard111g burden ast11nail lo the FOIA, I..Jbrary, !lld lnformabon Colecoons Bf'll!Ch ff-6 A10M), U.S
+Nude!r Regul!iory Corrmsoon, Wash11gton, DC 20555-0001, or by &mall to
+CONTINUATION SHEET
+lnfocolects Resou~ gov, IWld the 0/,ll J'8'il8W8f' at 0MB Office of lnfamaho!l and Regulato!y
+Allan, (3150--0104), Attn Desk ail ITT subrTISS!Oll@omb oop goy The NRC may not conduct or
+(See NU RE G-1 022, R3 for instruc!Jon and guidance for completing ttus form sponsor, and a person is not reqU1red to respond to, a collectJoo of llforma!Ioo unle6s the docLmBl11
+https://wMY.nrc gov/read1ng-my'doc-collecbons/nuregs/staff/sr1022/r3/) requesnng or requmng the co&cilOn displays a currently v~ 0MB control number
+1. FACILITY NAME 2. DOCKET NUMBER 3. Lffi t«.UBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUMBER NO.
+2020 -003 -00
+On November 1, 2020, the Control Room received an alarm for abnormal turbine DEH fluid reservoir level, resulting in a rapid power
+reduction per sl:atJon procedure and subsequent manual reactor scram.
+Investigation of the number one governor valve actuator inspection port cover plate revealed that one bolt was bottomed-out and
+prevented appropriate tightening for an adequate seal, and the o-ring was ruptured, resulting in the oil leak A visual gap between
+the bolt head and the lock washer was apparent indicating the bolt was bottomed-out. This configuration was not noticed dunng
+installation. Measurements taken confirm that this bat could not have physically been installed correctly because the holes in the
+actuator body were not threaded deep enough to accept the length of specified bolt Two other bolts on the leaking CCNer were
+discovered to be loose enough to move with an Allen wrench.
+To correct the condrbon, the bolts 'Nere cut short enough to achieve adequate tightening while maintaining necessary ttread
+engagement in the existing holes
+On November 4, 2020, at 1153, CNS reached 100 percent power.
+BASIS FOR REPORT
+This event is reportable under 10 CFR 50.73(aX2Xiv)(A) as an event that resulted in actuation of systems listed in paragraph
+(aX2)(ivXB); specifically, (a)(2)(iv)(B)(1) for a reactor protection system actuation resulting in a reactor scram and (a)(2XivX6)(2) for a
+Group 2 isolation occumng due to reactor vessel level reaching the isolation setpoinl The event was reported as Event Notification
+Number 54976.
+SAFETY SIGNIFICANCE
+This event has negligible safety significance. The manual reactor scram removed the main turbine from service. Insufficient DEH
+system pressure prevented operation of the main turbine bypass valves
+CAUSE
+The drect cause of this event was at least one bolt on number one governor valve actuator inspection port cover plate was
+bottomed-out This was due to on-site vendor craftsmanship being unsatisfactory in the failure to recognize bottomed-out bolt upon
+actuator installation. In addition, the inspection port CCNer plate holes on the new number one governor valve actuator body were
+not threaded deep enough to meet vendor specifications.
+CORRECTIVE ACTIONS
+CNS will appropriately classify critical Turbine Generator Fluid connections that are subject to additional verffication of bolting and
+torqueing performance. In addition, CNS will review the final vendor evaluation of the actuator manufacb.Jring defects/field
+a-aftsmanship and determine rf additional actions are warranted.
+PREVIOUS EVENTS
+On November 11, 2009, CNS control room operators inserted a manual reactor scram after a non-isolable DEH fluid leak
+developed This was reported under LER 2009-004-00, Manual Reactor Saam for DEH Flwd Leak.
+On November 6, 2009, CNS control room operators inserted a manual reactor scram when vessel water level lowered quickly after
+a turbine trip. This was reported under LER 2009--002--00, Manual Saam on Low Water Level Caused by Turbine Trip from
+Hydraulic Fluid Leak.
+NRC FORM 366A (06-2016) Page 3 of 3

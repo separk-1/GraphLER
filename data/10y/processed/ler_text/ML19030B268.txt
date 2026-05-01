@@ -1,0 +1,171 @@
+Alex L. Javorik
+ENERGY
+Columbia Generating Station
+P.O. Box 968, PE04
+NORTHWEST Richland, WA 99352-0968
+Ph. 509.377.8555 IF. 509.377.4150
+aljavorik@energy-northwest.com
+January 29, 2019 10 CFR 50.73
+GO2-19-001
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: COLUMBIA GENERATING STATION, DOCKET NO. 50-397
+LICENSEE EVENT REPORT NO. 2018-001-01
+Dear Sir or Madam:
+Transmitted herewith is Licensee Event Report No. 2018-001-01 for Columbia Generating
+Station, a supplement to the LER submitted on July 17, 2018. This report is submitted
+pursuant to 10 CFR 50.73(a)(2)(iv)(A).
+There are no commitments being made to the Nuclear Regulatory Commission herein. If
+you have any questions, or require additional information, please contact Mr. S. A. Nappi,
+Regulatory Compliance Supervisor, at (509) 377-4598.
+f
+2
+Executed on this ~ ay of January, 2019
+Respectfu Il y,
+(Z~
+Vice President, Engineering
+Enclosure: Licensee Event Report 2018-001-01
+cc: NRG Region IV Administrator
+NRG NRR Project Manager
+NRG Senior Resident lnspector/988C
+CD Sonoda - BPA/1399
+WA Horin - Winston & Strawn
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1.Facility Name 2.Docket Number 3.Page
+Columbia Generating Station 05000 397 1 OF 3
+4.Title
+Automatic Reactor Scram Due to Main Transformer Trip
+5.Event Date 6.LER Number 7.Report Date 8.Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+05 18 2018 2018 - 001 - 01 01 29 2019 Facility Name Docket Number
+05000
+9.Operating Mode 11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) ✔ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10.Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Tracey Parmelee, Principal Engineer, Compliance (509)377-8395
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B ED RLY ABB Y
+14.Supplemental Report Expected Month Day Year
+15.Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ✔ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On May 18, 2018, at 0651 PDT, Columbia Generating Station experienced a Main Transformer lockout relay trip. Coincident
+with the unplanned trip, an external line to ground fault occurred. A Reactor scram was automatically initiated by the plant in
+response to the transient.
+All rods fully inserted as expected; no Emergency Core Cooling Systems actuated or injected. Plant Operators effectively
+maintained Reactor power, pressure and level. This event did not pose a threat to the health and safety of the public.
+This event was reported via Event Notification #53410 under 10 CFR 50.72(b)(2)(iv)(B) as an event that resulted in actuation
+of the Reactor Protection System when the Reactor was critical.
+The root cause of the Main Transformer lockout and Reactor scram was that the vendor-supplied Buchholz relay did not meet
+the standard performance requirements to be insensitive to external faults.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Columbia Generating Station 397
+2018 - 001 - 01
+NARRATIVE
+Plant Conditions
+At the time of the event, the plant was operating in Mode 1 at 100% power. There were no safety related structures,
+systems, or components that were inoperable at the start of the event that contributed to the event.
+Event Description
+On May 18, 2018, at 0651 PDT, an offsite line to ground fault occurred on the 500kV network, which supplied a peak
+current of approximately 7kA to the Main Transformer [XFMR]. The Buchholz relay [RLY] actuated causing the Main
+Transformer to trip and lock out. This resulted in an automatic Reactor [RCT] scram and subsequent trip of both Reactor
+Recirculation [AD] pumps [P].
+Reactor power, pressure, and level were maintained as expected for this condition. Safety Relief [SB] Valves [V], MS-
+RV-1A and MS-RV-1B, opened on Reactor high pressure, as expected for this condition. After pressure lowered below the
+reset point, MS-RV-1B indicated open, therefore Operations removed power supply fuses for MS-RV-1B. Safety Relief
+Valve tailpipe temperatures confirmed that all valves were closed. Further investigation determined that there was faulty
+indication for MS-RV-1B, and that the valve had closed as expected when the reset point was reached.
+Suppression Pool level and temperature remained steady within normal operating limits. Reactor Pressure Vessel water
+level was maintained with the Condensate [SD] and Reactor Feedwater [SJ] Systems with startup flow control valves
+[FCV] in automatic. Reactor pressure was maintained with the Turbine Bypass [JI] Valves controlling in automatic. No
+Emergency Core Cooling Systems actuated or injected. The transformer lockout initiated the fast transfer to the startup
+transformer, which supplied offsite power to the plant electrical loads.
+This event is reportable as an event that resulted in actuation of the Reactor Protection System when the Reactor was
+critical per 10 CFR 50.73(a)(2)(iv)(A). This event was reported under 10 CFR 50.72(b)(2)(iv)(B) via Event Notification
+#53410.
+Immediate Corrective Actions
+Per plant procedures, Operations personnel restarted a Reactor Recirculation pump to maintain core recirculation, and
+commenced plant cooldown.
+Bonneville Power Administration performed electrical diagnostic testing of the transformer and concluded that the overall
+health of the transformer was acceptable. Energy Northwest replaced the Buchholz relay and implemented a temporary
+modification to transfer the trip function of the Buchholz relay to the sudden pressure relay. The temporary modification
+increases the reliability of the trip function with a two out of three trip logic, and has no effect on any safety-related design
+functions. The Main Transformer was then placed back in service.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Columbia Generating Station 397
+2018 - 001 - 01
+NARRATIVE
+Cause of Event
+The Main Transformer lockout and Reactor scram were the direct result of the actuation of the Main Transformer's
+Buchholz relay due to a line to ground fault in the offsite power distribution system. The root cause of this event was that
+the vendor-supplied Buchholz relay did not meet the standard performance requirements to be insensitive to external
+faults.
+Assessment of Safety Consequences
+This event did not challenge the ability of Columbia Generating Station to safely shut down. All Emergency Core Cooling
+Systems were available to perform their intended safety functions. This event did not involve an event or condition that
+could have prevented the fulfillment of any safety function described in 10 CFR 50.73(a)(2)(v). This event posed no
+threat to the health and safety of the public or plant personnel.
+Similar Events
+Columbia has not previously experienced a Main Transformer trip or automatic scram due to actuation of a Buchholz
+relay. A review of the Corrective Action Program condition report database found no other occurrences of an event with
+similar characteristics.
+Further Corrective Actions
+Additional actions include implementing the temporary modification to remove the Buchholz trip and utilize sudden
+pressure relays for the transformer trip as a permanent configuration. The station will also correct the annunciator logic
+for the gas accumulation alarm.
+Energy Industry Identification System (EIIS) Information codes from IEEE Standards 805-1984 and 803-1983 are
+represented in brackets as [XX] and [XXX] throughout the body of the narrative.
+NRC FORM 366A (04-2018) Page 3 of 3

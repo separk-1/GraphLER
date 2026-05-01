@@ -1,0 +1,301 @@
+10 CFR 50.73
+MARIA L. LACAL
+Senior Vice President
+Nuclear Regulatory and Oversight
+Palo Verde
+Nuclear Generating Station
+P.O. Box 52034
+Phoenix, AZ 85072
+Mail Station 7605
+Tel 623 393 6491
+102-07930-MLL/MMD
+July 3, 2019
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Dear Sirs:
+Subject: Palo Verde Nuclear Generating Station (PVNGS) Unit 1 and 3
+Docket No. STN 50-528 and 530 / License No. NPF 41 and 74
+Licensee Event Report 2017-002-00
+Enclosed please find Licensee Event Report (LER) 50-528/2017-002-00 that has been
+prepared and submitted pursuant to 10 CFR 50.73. This LER addressestwo events
+that could have prevented the fulfillment of a safety function due to two trains of
+Emergency Diesel Generators being INOPERABLE as a result of the performance of a
+test to validate that no common cause failure exists in order to comply with PVNGS
+Technical Specifications.
+In accordance with 10 CFR 50.4, copies of this LER are being forwarded to the Nuclear
+Regulatory Commission (NRC) Regional Office, NRC Region IV, and the Senior Resident
+Inspector.
+Arizona Public Service Company makes no commitments in this letter. If you have
+questions regarding this submittal, please contact Matthew Kura, Department Leader,
+Nuclear Regulatory Affairs, at (623) 393-5379.
+Sincerely,
+MLL/MMD
+Enclosure
+cc: S. A. Morris NRC Region IV Regional Administrator
+S. P. Lingam NRC NRR Project Manager for PVNGS
+C. A. Peabody NRC Senior Resident Inspector PVNGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Palo Verde Nuclear Generating Station (PVNGS) Unit 1 05000528 1 OF 4
+4. Title
+Emergency Diesel Generator INOPERABLE due to Fuel Oil Transfer Pump Testing
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year PVNGS Unit 3
+Number No. 05000530
+Facility Name Docket Number
+11 13 2017 2017 - 002 - 00 07 03 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+1 20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Matthew Kura, Department Leader, Nuclear Regulatory Affairs 623-393-5379
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+A DC P G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+This LER addresses two events in which both emergency diesel generator (EDG) trains became INOPERABLE, once in
+Unit 1 on November 13, 2017, and once in Unit 3 on February 21, 2019. In each event, one EDG train became
+INOPERABLE due to a diesel fuel oil transfer pump (DFOTP) trip. A test was conducted on the opposite OPERABLE
+EDG train DFOTP to comply with the plant’s Technical Specification to determine the OPERABLE EDG was not
+INOPERABLE due to a common cause failure.
+The diesel fuel oil transfer system (DF) operating procedure used for the common cause failure validation contained a
+test sequence which inadvertently rendered the affected EDG INOPERABLE. This resulted in both EDG trains being
+INOPERABLE concurrently, which corresponds to an event that could have prevented the fulfillment of the safety
+function of a system needed to mitigate the consequences of an accident (10 CFR 50.73(a)(2)(v)(D)).
+The preliminary cause was a failure to adhere to procedural guidance for the creation of a procedure change when the
+test sequence was added to the operating procedure. Specifically the procedure change did not address the impacts of
+all steps that affect operability. The procedure has been revised to eliminate the common cause testing method.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Palo Verde Nuclear Generating Station 05000-528 NUMBER NO.
+(PVNGS) Unit 1
+2017 - 002 - 00
+NARRATIVE
+All times are Mountain Standard Time and approximate unless otherwise indicated.
+1. REPORTING REQUIREMENT(S):
+This Licensee Event Report (LER) is being submitted pursuant to 10 CFR 50.73(a)(2)(v)(D) corresponding to two events
+that could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the
+consequences of an accident.
+The events were discovered on May 9, 2019, when an evaluation of the diesel fuel oil transfer pump (DFOTP) (EIIS
+Code: DC) common cause testing concluded that the test rendered the affected EDG INOPERABLE. The affected EDG
+is the OPERABLE EDG following the failure of the DFOTP on the opposite EDG. The evaluation was conducted to
+address questions on whether the affected EDG remained OPERABLE during the common cause test.
+In these events, both emergency diesel generator (EDG) (EIIS Code: EK) trains became INOPERABLE, once in Unit 1
+on November 13, 2017, and once in Unit 3 on February 21, 2019.
+2. DESCRIPTION OF STRUCTURE(S), SYSTEM(S) AND COMPONENT(S):
+Each of the station's units are provided with two seismically-qualified Class 1E EDGs rated at 5500 kW. Each EDG is
+able to supply power to a single 4.16 kV Class 1E bus. Each EDG is served by a seismically-qualified diesel fuel oil
+transfer system (DF), which consists of one diesel fuel oil storage tank (DFOST) and DFOTP, which provides fuel to the
+diesel fuel oil day tank.
+The DFOST capacity (84,000 gallons) is based on providing sufficient storage of diesel fuel oil for 7 days of continuous
+operation at 100% rated output power levels. The tanks are protected inside seismically-qualified concrete underground
+vaults.
+A DFOTP is submerged in, and takes suction from the DFOST. It discharges into the day tank and is automatically
+started and stopped by a signal from the day tank level instruments. The pump is started at the low level signal
+regardless of whether the diesel engine is running or not. If the pump fails to start, a low-pressure condition in the pump
+discharge is annunciated in the main control room. The DFOTP is powered and controlled by cables via underground
+duct banks to the DFOST.
+The day tank has a capacity of 1100 gallons. This capacity minimizes the fire protection requirements and is adequate to
+permit 2-1/2 hours of operation of the associated EDG at full load. The day tank is located in a separate enclosure, near
+and above the EDG, to provide a positive feed of fuel oil. Each day tank is equipped with a seismically-qualified level
+instrument, a normally isolated non-seismic level gauge, and an overflow and drain connection routed to the DFOST.
+The day tank level gauge is not seismically-qualified; consequently, opening the level gauge isolation valve results in the
+loss of the day tank seismic qualification. Additionally, the day tank drain valve is required to be closed to maintain EDG
+operability. Therefore, the opening of the day tank level gauge isolation and/or the day tank drain valves renders the
+affected EDG INOPERABLE. The Technical Specifications (TS) allow selected valves including the containment
+isolation valves and the emergency core cooling systems valves to be opened under administrative controls. However
+the TS do not allow the day tank valves to be opened in such a manner.
+The DF operating procedure contained a test to validate that a DFOTP common cause failure mechanism does not exist
+on a DFOTP after the redundant EDG DFOTP fails. The common cause test was added as a temporary procedure change
+to permit its use on November 13, 2017, the day after the Unit 1 ‘A’ DFOTP failed. The temporary procedure change was
+subsequently incorporated into the procedure on June 21, 2018.
+NRC FORM 366A (04-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Palo Verde Nuclear Generating Station 05000-528 NUMBER NO.
+(PVNGS) Unit 1
+2017 - 002 - 00
+The common cause test instructions directed the following sequence:
+ Establish communication (control room, EDG control room, and day tank room)
+ Un-isolate the day tank level gauge in service
+ Throttle open the day tank drain valve two turns to lower day tank level
+ Verify that the DFOTP auto starts (3.4 – 2.9 feet)
+ Close the day tank drain valve
+ Verify that day tank level restores (4.3 – 4.9 feet)
+ Isolate day tank level gauge
+ Perform independent verification of manipulated components (day tank level gauge isolation, and drain valves)
+The timeframe that these valves are open for this test is between 30 and 90 minutes.
+The EDGs are governed by TS 3.8.1, AC Sources - Operating. Limiting Condition for Operation (LCO) 3.8.1 Condition B,
+for one INOPERABLE EDG, requires restoration of the EDG to an OPERABLE status within 10 days (Required Action
+B.4). Required Actions for Condition B also include a 24 hour limit to either determine whether the OPERABLE EDG is
+not INOPERABLE due to common cause failure or verify that the OPERABLE EDG starts in accordance with
+surveillance requirement 3.8.1.2 (Required Actions B.3.1 and B.3.2). Condition E for two EDGs INOPERABLE requires
+restoration of one EDG to an OPERABLE status within 2 hours. If the plant is unable to restore one EDG within the
+given time, Required Action H.1 is entered to be in MODE 3 in 6 hours.
+3. INITIAL PLANT CONDITIONS:
+The Unit 1 ‘A’ EDG was declared INOPERABLE on November 12, 2017 at 10:53 AM during performance of a
+surveillance test when the Unit 1 ‘A’ DFOTP breaker tripped. The trip was due to a high resistance secondary stab
+connection in the Class 1E motor control center cubicle from which the DFOTP receives its power. On November 13,
+2017, a DFOTP common cause test was performed on the Unit 1 ‘B’ DFOTP.
+The Unit 3 ‘B’ EDG was declared INOPERABLE on February 20, 2019 at 11:43 AM during performance of a surveillance
+test when the Unit 3 ‘B’ DFOTP breaker tripped. The trip was due to an electrical short resulting from water intrusion into
+the DFOST vault. On February 21, 2019, a DFOTP common cause test was completed on the Unit 3 ‘A’ DFOTP.
+In both cases, the Units were in Mode 1 (Power Operation) at 100 percent power with the reactor coolant system at
+normal operating temperature and normal operating pressure and there were no other structures, systems, or
+components out of service that contributed to the events.
+NRC FORM 366A (04-2018) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Palo Verde Nuclear Generating Station 05000-528 NUMBER NO.
+(PVNGS) Unit 1
+2017 - 002 - 00
+4. EVENT DESCRIPTION:
+On November 13, 2017, at 8:07 AM, a DFOTP common cause test was performed on the Unit 1 ‘B’ DFOTP; the test
+opened the day tank drain valve and un-isolated its level gauge rendering the Unit 1 ‘B’ EDG INOPERABLE
+(concurrently with the already INOPERABLE Unit 1 ‘A’ EDG) for an estimated 30 to 90 minutes. The Unit 1 ‘A’ EDG was
+restored to OPERABLE status on November 14, 2017 at 10:17 PM after being INOPERABLE for approximately 47.5
+hours.
+On February 21, 2019, at 11:40 AM, a DFOTP common cause test was completed on the Unit 3 ‘A’ DFOTP; the test
+opened the day tank drain valve and un-isolated its level gauge rendering the Unit 3 ‘A’ EDG INOPERABLE
+(concurrently with the already INOPERABLE Unit 3 ‘B’ EDG) for an estimated 30 to 90 minutes. The Unit 3 ‘B’ EDG was
+restored to OPERABLE status on February 22, 2019 at 3:47 PM after being INOPERABLE for approximately 53 hours.
+On May 9, 2019, an evaluation concluded that the use of the DF operating procedure common cause test rendered the
+affected OPERABLE EDG INOPERABLE as described above. The common cause test had been used on the two
+occasions described to verify that the OPERABLE EDG DFOTP did not exhibit a common cause failure mode after the
+redundant DFOTP had failed.
+5. ASSESSMENT OF SAFETY CONSEQUENCES:
+The events during which both Unit 1 and Unit 3 EDGs were INOPERABLE could have prevented fulfillment of the EDG
+safety function to mitigate the consequences of an accident, and meet the reporting criteria of 10CFR 50.73(a)(2)(v)(D).
+This condition did not result in a transient more severe than those analyzed in chapters 6 and 15 of the UFSAR or result
+in the release of radioactive materials to the environment. There were no actual safety consequences as a result of this
+event and it did not adversely affect the health and safety of the public.
+While the common cause test rendered the EDG INOPERABLE, in an analyzed seismic event, the stationed operator in
+communication with the control room would be expected to recognize the need to isolate the day tank level gauge and
+shut the drain valve in a timely manner to prevent an actual loss of that EDG’s function. The valves are immediately near
+one another and the restoration steps are provided in the DF operating procedure.
+An engineering evaluation was performed on a fuel oil loss and consumption rate from the day tank due to non-seismic
+level gauge damage as the result of a seismic event at minimum day tank level. The postulated fuel oil loss rate would
+permit approximately 40 minutes of continued EDG operation. Therefore, it would be expected that the configuration of
+the day tank would be restored to prevent a loss of the EDG function during analyzed events.
+6. CAUSE OF THE EVENT:
+The preliminary cause was a failure to adhere to procedural guidance for the creation of a procedure change when the
+test sequence was added to the operating procedure. Specifically, the procedure change did not address the impacts of
+all steps that affect operability.
+The cause evaluation is still in progress; if additional causes are identified that will substantially change the reader’s
+understanding, a supplement to this LER will be submitted.
+7. CORRECTIVE ACTIONS:
+The procedure has been revised to eliminate the common cause testing method. Other alternatives to permit common-
+cause testing of the DFOTP function while maintaining operability are being considered.
+If additional corrective actions are identified that will substantially change the reader’s understanding, a supplement to
+this LER will be submitted.
+NRC FORM 366A (04-2018) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Palo Verde Nuclear Generating Station 05000-528 NUMBER NO.
+(PVNGS) Unit 1
+2017 - 002 - 00
+8. PREVIOUS SIMILAR EVENTS:
+LER 2009-001-00 [ML092160403] & LER 2010-002-01 [ML12031A192]
+LERs were submitted in 2009 and 2010 to address two Unit 2 FOTP failure events, which occurred during performance of
+a surveillance test. In these events, the affected DFOTP breaker tripped from an electrical short due to water intrusion
+into the DFOST. Water had wicked into the DFOTP motor terminations via the motor power cable that had become
+submerged in standing water trapped in the underground conduits between the DFOST vaults and the EDG building.
+The events were reported pursuant to 10 CFR 50.73 (a)(2)(i)(B) as conditions prohibited by TS 3.8.1, "AC Sources -
+Operating," and 3.8.2, "AC Sources - Shutdown," for exceeding the LCO of an INOPERABLE EDG following the failure of
+its DFOTP and 10 CFR 50.73 (a)(2)(v) for conditions that could have prevented the fulfillment of a safety function. This is
+because the wetted conditions had existed for extended periods during which the redundant EDGs had also been
+INOPERABLE for maintenance.
+The corrective action for these events was a design change to the underground duct banks that installed a manhole in
+the duct bank between the Auxiliary Building and the DFOST vaults for each EDG. This was intended to prevent failure
+of the DFOTP from water intrusion. The corrective action did not involve the common-cause testing method and would
+not have prevented the incorporation of the test method in the operating procedures in 2017.
+NRC FORM 366A (04-2018) Page 5 of 5

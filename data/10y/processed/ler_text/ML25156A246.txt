@@ -1,0 +1,153 @@
+:) entergy John Giddens
+Senior Manager -Regulatory Compliance
+(Acting Regulatory Assurance Manager)
+River Bend Station
+601-368-5756
+RBG-48363
+10 CFR 50.73
+June 5, 2025
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report, 50-458/2025-001-00, Human Performance Error
+Results in Manual Reactor Trip
+River Bend Station - Unit 1
+NRC Docket Nos. 50-458
+Renewed Facility Operating License No. NPF-47
+Entergy Operations, Inc. (Entergy) submits the enclosed Licensee Event Report (LER), 50-
+458/2025-001-00 for River Bend Station, Unit 1 (RBS). The events reported herein are
+reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), any event or condition that resulted in
+manual or automatic actuation of any of the systems listed in 10 CFR 50.73(a)(2)(iv)(B).
+This letter contains no new regulatory commitments.
+Should you have any questions, please contact me at 601-368-5756.
+Respectfully,
+Digitally signed by John Giddens
+DN: cn=John Giddens, o=Entergy,
+ou=Regulatory Compliance,
+email=jgidden@entergy.com
+Date: 2025.06.05 12:28:52 -05'00'
+JMG/ahv
+Enclosure: LER 50-458/2025-001-00
+cc: NRC Region IV Regional Administrator - Region IV
+NRC Senior Resident Inspector - River Bend Station
+NRC Office of Nuclear Security and Incident Response
+Entergy Operations, Inc., 5485 U.S. Highway 61N., St. Francisville, LA 70775
+Enclosure
+RBG-48363
+Licensee Event Report
+50-458/2025-001-00
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+.::,,.,..JJ"" REou<-.> regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S
+/~\ LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov. and the 0MB reviewer at: 0MB Office of Information and Regulatory
+~ :;,.. '>■■,cc Ii' ; (See Page 2 for required number of digits/characters for each block) Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+~,,.,:;-O""iif. ,l (See NUREG-1022. R.3 for instruction and guidance for ccmpleting this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+•" • i. • https://www.nrc.gov/reading-nm/doc-collections/nuregs/staff/sr1 022/r3/) respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid 0MB control number.
+1. Facility Name 181 050 2. Docket Number 3.Page
+River Bend Station, Unit 1 00458 1 of 2
+□ 052
+4. Title
+Human Performance Error Results in Manual Reactor Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year S N eq u u m e b n e ti r a l R N e o v . Month Day Year N/A □ o5o
+Facility Name Docket Number
+4 8 2025 2025 001 00 06 05 2025 □ 052
+N/A
+9. Operating Mode 110. Power Level
+1 081
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 D 20.2203(a)(2)(vi) 10 CFR Part 60 □ 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A) D 73.1200(a)
+□ 20.2201(b) D 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) D 20.2203(a)(3)(ii) □ 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A) D 73.1200(c)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.36(c)(2) 181 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x) □ 73.1200(d)
+D 20.2203(a)(2)(i) 10 CFR Part 21 D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(A) 10 CFR Part 73 D 73.1200(e)
+D 20.2203(a)(2)(ii) D 21.2(c) □ 50.69(g) D 50.73(a)(2)(v)(B) D 73.77(a)(1)(i) □ 73.1200(f)
+D 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) D 73.77(a)(2)(i) □ 73.1200(9)
+D 20.2203(a)(2)(iv) □ 50.73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii) □ 73.1200(h)
+D 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) D 50.73(a)(2)(vii)
+D Other (Specify here, in abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Joseph Brown I (225) 381-4693
+13. Comclete One Line for each Comoonent Failure Described in this Reoort
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+y
+A NA NA NA
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[8l No D Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 1607 CDT on April 8, 2025, with River Bend Station, Unit 1 operating in Mode 1 at 81 % power, control room
+operators responded to alarms received for a total loss of normal service water. The control room operators entered
+AOP-0009, Loss of Normal Service Water, and subsequently inserted a manual reactor trip.
+The direct cause of the loss of normal service water was the result of non-licensed operators failing to close SWP-
+MOV55A block valve, SWP-V3302, prior to post maintenance testing. Two causal factors were identified during the
+investigation: (1) Non-licensed operators did not appropriately apply human performance tools and verification
+practices when performing equipment protection tagout task; and, (2) Operations supervisor did not ensure adequate
+pre-job brief in accordance with EN-OP-102 and EN-HU-102 during briefing of equipment protection tagout installation
+- specifically, the risks involved if the work was performed incorrectly, stop-work criteria, and the key role of
+engagement by both performer and peer checker.
+This event is reportable in accordance with 10 CFR 50.73 (a)(2)(iv)(A), any event or condition that resulted in manual
+or automatic actuation of any of the systems listed in 10 CFR 50.73 (a)(2)(iv)(B).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and lnfonmation Collection Branch (T-6 A1 OM), U S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonmation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to respond
+https:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to, a collection of infonmation unless the document requesting or requiring the collection displays a
+currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+~ 050 YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 NUMBER NO.
+00458
+0 052 2025 001 00
+NARRATIVE
+Event Description
+At 1607 CDT on April 8, 2025, with River Bend Station (RBS), Unit 1 operating in Mode 1 at 81 % power, control room
+operators responded to alarms received for a total loss of normal service water [Bl]. The control room operators entered
+AOP-0009, Loss of Normal Service Water and subsequently inserted a manual reactor trip.
+The control room operators entered the appropriate post trip procedures and appropriately responded to the
+uncomplicated reactor trip.
+This event was reported on April 8, 2025, at 1911 EDT in accordance with 10 CFR 50.72(b)(2)(iv)(B) for reactor
+protection system actuation and 10 CFR 50.72(b)(3)(iv)(A) due to an expected reactor water level 3 isolation signal (EN
+57655).
+Event Cause
+The direct cause of a loss of normal service water was the result of non-licensed operators failing to close SWP-V3302
+[Bl:SHV], SWP-MOV55A block valve, prior to post maintenance testing. During post maintenance testing, maintenance
+personnel requested Operations to open SWP-MOV55A [Bl:ISV], Standby Cooling Tower Division 1 Return Isolation Valve, as
+the valve opened all normal service water pumps [Bl:P] received a low-pressure lockout condition due to an open flow path to
+the Standby Cooling Tower.
+Two causal factors were identified during the investigation: (1) Non-licensed operators did not appropriately apply
+human performance tools and verification practices when performing equipment protection tagout task; and, (2)
+Operations supervisor did not ensure adequate pre-job brief in accordance with EN-OP-102, Protective and Caution
+Tagging, and EN-HU-102, Human Performance Traps and Tools, during briefing of equipment protection tagout
+installation - specifically, the risks involved if the work was performed incorrectly, stop-work criteria, and the key role
+of engagement by both performer and peer checker.
+Safety Assessment
+The actual consequence of this human performance error was a loss of normal service water and a subsequent manual plant
+trip. Standby Service Water initiated as expected and Normal Service Water was restored 37 minutes after loss. There were
+no other actual consequences to general safety of the public, nuclear safety, industrial safety and radiological safety for this
+event.
+Corrective Actions
+Completed:
+• Performance management actions were taken with the operators involved in the event.
+In progress:
+• Operations Shift Managers perform standards reset blitz.
+• Create and implement verification challenge activity utilizing the simulator for non-licensed individuals.
+• Operations Management perform standards reset with Senior Reactor Operators on utilizing quizzing during reverse
+briefs/pre-job briefs to ensure operations clearly understand the risk, probability of one, all instructions, and components
+to be manipulated. The discussion will include "I own the risk" and risk presented by operator performance.
+Previous Occurrences
+No previous similar events at RBS have occurred within the past 5 years in which a component misposition results in a reactor
+trip.
+NRC FORM 366A (04-02-2024) Page 2 of 2

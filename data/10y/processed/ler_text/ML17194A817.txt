@@ -1,0 +1,246 @@
+~
+Exelon G n rati n,,
+SVP-17-052
+July 13, 2017 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Quad Cities Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-30
+NRC Docket No. 50-265
+Subject: Licensee Event Report 265/2017-001-00, "High Pressure Coolant Injection
+Minimum Flow Valve Failed to Open"
+Enclosed is Licensee Event Report (LER) 265/2017-001-00, "High Pressure Coolant Injection
+Minimum Flow Valve Failed to Open," for Quad Cities Nuclear Power Station, Unit 2.
+This report is submitted in accordance with 1O CFR 50.73(a)(2)(v)(D) which requires the
+reporting of any event or condition that could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mr. Wally J. Beck at
+(R309)e 22s7-:2:80:04.
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMS: NO. 3150-0104 EXPIRES: 10/3112018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours .
+.if'<j>-t,1t.Wllli'aq'4.I" Reported lessons learned are incorporated into the licensing process and fed back to industry.
+i! ~. LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~ Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+'1' ,,Ir .. (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+""4-., ....
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Quad Cities Nuclear Power Station Unit 2 05000265 1 OF 4
+4. TITLE
+High Pressure Coolant Injection Minimum Flow Valve Failed to Open
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+05 15 2017 2017 - 001 - 00 07 14 2017 FACILITY NAME DOCKET NUMBER
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50. 73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50. 73(a)(2)(iii) 50. 73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50. 73(a)(2)(iv)(A) 50. 73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50. 73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50. 73(a)(2)(v)(C) 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50. 73(a)(2)(v)(D) D 73.77(a)(2)(i)
+-
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50. 73(a)(2)(vii) D 73. 77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Mark Humphrey-Regulatory Assurance (309) 227-2810
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B BJ FIS 8080 y
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e. . approximately 15 single-spaced typewritten lines)
+On May 15, 2017, at 19:18 hours, station Operations personnel were performing a High Pressure Coolant Injection (HPCI) Pump Operability Test
+which ensures the HPCI Minimum Flow Valve opens as pump flow decreases. When the HPCI Turbine was tripped, the Minimum Flow Valve did
+not open as expected when system flow was reduced to the low flow setpoint. Operators took steps to open the valve manually, but upon release of
+the control switch, the valve returned to the closed position. The valve was then left in the closed position. The HPCI system was declared
+inoperable and Technical Specification 3.5.1 Condition G was entered.
+The cause of the Minimum Flow Valve failing to open was attributed to the HPCI Pump Discharge Flow Indicating Switch, specifically, intermittent
+failure of the high side micro switch caused by residual material from the manufacturing process. The Flow Indicating Switch, which had been
+installed for three months, was replaced and the HPCI Pump Operability Test was successfully re-performed. The failed switch was then sent to
+Exelon's Power Labs for failure analysis.
+The safety significance of this event was minimal. Given the impact on the HPCI system, this report is submitted for Unit 2 in accordance with the
+requirements of 10 CFR 50. 73(a)(2)(v)(D), which requires the reporting of any event or condition that could have prevented the fulfillment of the
+safety function of structures or systems that are needed to mitigate the consequences of an accident. The HPCI system is a single train system and
+the loss of HPCI could impact the plant's ability to mitigate the consequences of an accident.
+NRG FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+The High Pressure Coolant Injection (HPCI) [BJ] Minimum Flow Valve failed to open during HPCI Pump operability
+testing.
+A. CONDITION PRIOR TO EVENT
+Unit: 2 Event Date: May 15, 2017 Event Time: 19:18 hours
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+B. DESCRIPTION OF EVENT
+On May 15, 2017 at 19:18 Central, station Operations personnel were performing Procedure QCOS 2300-05, "HPCI
+Pump Operability Test," which ensures the Motor Operated (MO) 2-2301-14, "HPCI Minimum Flow Valve," opens as
+pump flow decreases. During the test, the valve unexpectedly failed to open. Operators took steps to open the valve
+manually, but upon release of the control switch, the valve immediately returned to the closed position. Operators left
+the valve in the closed position. The Unit 2 HPCI system remained available but was declared inoperable.
+Troubleshooting determined that the failure was due to a failure of the commercially dedicated HPCI Flow Indicating
+Switch (FIS) 2-2354. FIS 2-2354 had been recently replaced on February 2, 2017, under a corrective work order
+utilizing a commercially dedicated switch. The FIS was bench tested and post maintenance tested satisfactorily on
+February 2, 2017. The switch was again calibrated under a preventative maintenance work order during the next
+quarterly system work window on May 15, 2017, in accordance with a 92-day preventative maintenance frequency.
+All results were satisfactory. The switch then failed during the subsequent quarterly system run on the same day. In
+the follow-up failure analysis Power Labs reported that the switch had an intermittent failure of the high side micro
+switch due to residual material remaining from the manufacturing process.
+On May 15, 2017, at 23:27 Central, ENS #52758 was made to the NRC under 1O CFR 50.72(b)(3)(v)(D), to report this
+event as an event or condition that could have prevented the fulfillment of a safety function.
+Given the impact on the HPCI system, this report is submitted for Unit 2 in accordance with the requirements of 1O
+CFR 50.73(a)(2)(v)(D), which requires the reporting of any event or condition that could have prevented the fulfillment
+of the safety function of structures or systems that are needed to mitigate the consequences of an accident.
+NRG FORM 366A (06-2016) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2017 - 001 00
+NARRATIVE
+C. CAUSE OF EVENT
+The cause was determined to be failure of the HPCI Pump Discharge Flow Indicating Switch, specifically intermittent
+failure of the high side micro switch caused by residual material from the manufacturing process.
+D. SAFETY ANALYSIS
+System Design
+According to the Quad Cities Nuclear Power Station (QCNPS), Units 1 and 2 Updated Final Safety Analysis Report
+(UFSAR) Section 6.3.2.3, the HPCI subsystem is designed to pump water into the reactor vessel under Loss of
+Coolant Accident (LOCA) conditions which do not result in rapid depressurization of the pressure vessel. The loss of
+coolant might be due to a loss of reactor feedwater or to a small line break which does not cause immediate
+depressurization of the reactor vessel. The sizing of the HPCI subsystem is based upon providing adequate core
+cooling during the time that the pressure in the reactor vessel decreases to a value that the Core Spray [BM]
+subsystem and/or the Low Pressure Coolant Injection (LPCI) [BO] subsystem become effective. The HPCI
+subsystem is designed to pump 5600 gallons per minute into the reactor vessel within a reactor pressure range of
+about 1120 pounds per square inch gage (psig) to 150 psig. Initiation of the HPCI subsystem occurs automatically on
+signals indicating reactor low-low water level or high drywall pressure. HPCI injection into the reactor vessel may be
+accomplished manually by the operator or without operator action by the HPCI automatic initiation circuitry. HPCI can
+also operate in a pressure control mode of consuming steam from the reactor vessel without providing full injection
+into the vessel (down to and including zero injection).
+Safety Impact
+The safety impact of this condition was minimal. Valve MO 2-2301-14 is a normally closed valve that is used to
+maintain minimum flow through the HPCI pump to the Suppression Pool when the injection isolation valves are shut.
+The bypass valve is automatically opened on low pump flow and closed on high flow whenever the steam supply
+valve to the HPCI turbine is open. According to UFSAR Section 6.3.2.3.3, the HPCI minimum flow system is provided
+for pump protection. The minimum flow valve is automatically opened on low pump flow and closed on high flow
+whenever the steam supply valve to the turbine is open. Even though the minimum flow valve failed to open, the
+HPCI System remained capable of performing its intended design/safety function and would not have hindered the
+system from fulfilling any required safety function or injection over the required 1O minute mission time.
+According to UFSAR Table 6.2-7, MO 2-2301-14 is considered a primary containment isolation valve [ISV] with a
+normal position of closed. MO 2-2301-14 is the only primary containment isolation valve present in line 2-2340-4"-DX.
+The failure of the FIS caused MO 2-2301-14 to fail in and remain in the closed position. Since the line could
+effectively be isolated utilizing the primary containment isolation valve, the primary containment integrity could be
+assured, therefore, the primary containment system remained capable of performing its intended design/safety
+function.
+With MO 2-2301-14 failing to open, HPCI was declared inoperable and TS 3.5.1 Condition G was entered. Required
+Action G.2 is to restore HPCI System to OPERABLE status, with a completion time of 14 days. The FIS was
+replaced, post maintenance tested and the HPCI system declared operable within the 14 day completion time. There
+were no other issues or problems identified with valve MO 2-2301-14 after replacement of the FIS. No other repairs
+were required or performed.
+a single train safety system, this notification is being made in accordance with 1O CFR
+Event or Condition that Could Have Prevented Fulfillment of a Safet Function .
+NRG FORM 366A (06-2016) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMS control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2017 - 001 00
+NARRATIVE
+The engineering analysis that was performed demonstrated this event did not constitute a Safety System Functional
+Failure (SSFF). (Reference NEI 99-02, Revision 7, Regulatory Assessment Performance Indicator Guideline, Section
+2.2, "Mitigating Systems Cornerstone, Safety System Functional Failures, Clarifying Notes, Engineering Analyses.")
+As such, this event will not be reported in the NRG Performance Indicator (Pl) for SSFF since an engineering analysis
+was performed which determined that the system was capable of performing its safety function during this event.
+Risk Insights
+The plant Probabilistic Risk Assessment (PRA) model gives no credit for failure of the HPCI Minimum Flow Valve
+failure to open and does not include it in the model; hence, the failure of the valve to open did not contribute to an
+increase in risk.
+In conclusion, due to the fact that the HPCI system was available to perform its safety function, the overall safety
+significance and impact on risk of this event were minimal.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. The failed FIS was replaced with a new commercially dedicated and bench tested FIS and post
+maintenance tested satisfactorily.
+Follow-up:
+1. Site Procurement will purchase the FIS from an approved Appendix B program vendor rather than
+purchasing a commercially dedicated part.
+2. The Calibration Data Sheet for the FIS will be revised to include cycling new switches ten (10) times
+during bench testing.
+F. PREVIOUS OCCURRENCES
+The station events database, LERs, and INPO Consolidated Event System {ICES) were reviewed for similar events
+at QCNPS. This event was caused by an intermittent failure of the high side micro switch of the HPCI FIS which
+contained residual material from the manufacturing process.
+No previous occurrences were identified as applicable to the circumstances of this event.
+G. COMPONENT FAILURE DATA
+Failed Equipment: Flow Indicating Switch
+Component Manufacturer: Barton
+Component Model Number: 289A
+Component Part Number: N/A
+This event has been reported to ICES as Report No. 415432
+NRC FORM 366A (06-2016) Page _4_ of _4_

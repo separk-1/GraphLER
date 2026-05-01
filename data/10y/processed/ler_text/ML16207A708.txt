@@ -1,0 +1,162 @@
+July 25, 2016
+GO2-16-108
+GO2-16-108
+LICENSEE EVENT REPORT NO. 2016-001-01
+Enclosure
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES 01/31//2017
+(01-2014) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202 (3150-0104), Office of Management and Budget, Washington, DC
+digits/characters for each block). 20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Columbia Generating Station 05000 397 1 OF 3
+4. TITLE
+MANUAL REACTOR SCRAM FOLLOWING LOSS OF REACTOR CLOSED COOLING
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR 05000
+FACILITY NAME DOCKET NUMBER
+03 28 2016 2016 − 001 − 01 07 25 2016
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2203 (a)(1) 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+Specify in Abstract below or in
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D)
+NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+FACILITY NAME TELEPHONE NUMBER (Include Area Code)
+Desiree Wolfgramm (509) 377-4792
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+GE Reuter-
+B IG MON N
+Stokes
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1322 PDT on March 28, 2016, a manual reactor scram was initiated in response to a loss of Reactor
+Closed Cooling (RCC). The loss of RCC was due to the opening of a Service Water (SW) valve at the
+inlet side of the Fuel Pool Cooling heat exchanger during performance of a partial surveillance without
+proper isolation of the RCC system piping from the heat exchanger. The cross-connection of the two
+systems caused depressurization and loss of flow from the RCC system into the non-pressurized SW
+piping. The SW valve was closed and the reactor was scrammed. Safety system responses to the
+scram signal were normal, with all control rods being fully inserted. Reactor decay heat was removed via
+bypass valves to the Main Condenser. No safety relief valves lifted and no emergency core cooling
+systems injected following the reactor scram.
+The root cause was determined to be that plant Operators did not properly evaluate plant configuration
+when performing a partial surveillance including the marking as “N/A” (not applicable) of procedural steps,
+in accordance with plant procedures. Human performance aspects of the event were quickly addressed
+and additional corrective actions include reinforcing and monitoring procedure standards, and updating
+work control procedures at the station.
+26158 R6 NRC Form 366 (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+CONTINUATION SHEET
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+Columbia Generating Station SEQUENTIAL REV
+YEAR
+NUMBER NO.
+05000 397 2 OF 3
+2016 − 001 − 01
+NARRATIVE
+Plant Conditions
+The reactor was at 100% power before the event. There were no structures, systems or components
+that malfunctioned or that were out of service that contributed to this event. One of the four reactor
+source range detectors failed to insert during the scram, with no impact on safety functions.
+Event Description
+On March 28, 2016, Operators performed a partial surveillance of the Fuel Pool Cooling (FPC)
+System [DA] to satisfy Post Maintenance Testing (PMT) for a Service Water (SW) [BI] to FPC
+isolation valve. Per PMT instructions, sections of the surveillance procedure had been marked as
+Not Applicable (N/A) for steps not considered necessary for the partial surveillance. The steps
+marked as N/A included closing Reactor Closed Cooling (RCC) [CC] isolation valves on the
+downstream side of the heat exchanger that isolate SW from RCC. Opening the SW valve without
+isolating RCC resulted in loss of pressurized RCC inventory into depressurized SW piping.
+Operators recognized the loss of RCC from Control Room indications and took appropriate actions to
+manually scram the reactor as required by abnormal operating procedures. All plant systems
+responded as expected during the scram transient. The SW valve was closed after approximately 2
+minutes of being opened and RCC inventory recovered quickly.
+This event was reported (EN # 51826 – 4 hour notification) under criterion 10 CFR 50.72(b)(2)(iv)(B)
+– Actuation of Reactor Protection System (RPS) [JC] when the reactor is critical. The event also
+requires a 60-day report, or Licensee Event Report (LER), under criterion 10 CFR 50.73(a)(2)(iv)(A)
+as applicable to condition 50.73(a)(2)(iv)(B)(1) – An event or condition that resulted in manual or
+automatic actuation of the RPS system including: reactor scram or reactor trip.
+Event Precursors
+The SW valve maintenance was originally scheduled to be performed concurrent with the quarterly
+surveillance of FPC. A change to the schedule moved the maintenance to after the surveillance. As
+a result a partial surveillance was performed. Work control reviews and pre-job briefs failed to
+recognize the significance of some of the steps being bypassed (N/A’d) in the partial surveillance
+such as closing the RCC isolation valves.
+Cause
+The root cause was determined to be that plant Operators did not properly evaluate plant
+configuration when performing a partial surveillance including the marking as “N/A” (not applicable) of
+procedural steps, in accordance with plant’s Procedure and Work Instruction Use and Adherence
+requirements.
+26158A R3 NRC FORM 366A (01-2014)
+NRC FORM 366A LICENSEE EVENT REPORT (LER) U.S. NUCLEAR REGULATORY COMMISSION
+(01-2014)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+Columbia Generating Station YEAR
+NUMBER NO.
+05000 397 3 OF 3
+2016 − 001 − 01
+NARRATIVE
+Contributing Causes were that Work Control did not follow procedures when revising the work
+instructions, Technical Specification tracking log, and the work order impact statement, and that the
+Work Management process per the Integrated Risk Management procedure does not ensure that
+PMT tasks (and potentially other tasks on the same work order) are adequately evaluated for risk as
+stand-alone activities.
+Corrective Actions
+Human performance aspects of the event were immediately addressed, including coaching to the
+individuals involved. A Stand Down was conducted with oncoming day and night shift crews on the
+event, and instructions were issued requiring appropriate levels of reviews and peer checks when
+bypassing procedure steps for partial performance of procedures. Expectations were communicated
+to place keep all Notes, Cautions and Warnings in Continuous Use procedures even when steps in a
+section are bypassed (N/A’d).
+Additional Corrective Actions include reinforcing and monitoring procedure standards, updating work
+control procedures, and revising the Integrated Risk Management procedure to require evaluation of
+each task on a work order for risk, as well as aggregate risk of the entire work order, and document
+this evaluation in a summary on the impact statement.
+Previous Occurrences
+Previous occurrences or events where improper application of N/A to work documents was a
+contributing factor to a plant event were investigated. There were no noteworthy examples where the
+improper use of N/A required issuance of an LER.
+Assessment of Safety Consequences
+This event resulted in a reactor trip and associated loss of generation. The loss of RCC resulted in
+the loss of cooling to several components, including Reactor Recirculation Pumps, the Non-
+Regenerative Heat Exchanger, and Drywell Cooling. There were no adverse effects to those systems
+due to the temporary loss of cooling. There were no undesired radiological or industrial safety
+aspects resulting from this event. This event did not challenge the ability of Columbia Generating
+Station to safely shutdown, and all plant systems responded as designed.
+Energy Industry Identification System Information
+Energy Industry Identification System information codes from IEEE Standards 805-1984 and 803-
+1983 are represented in brackets as [X] and [XX] throughout the body of the narrative.
+26158A R3 NRC FORM 366A (01-2014)

@@ -1,0 +1,177 @@
+energy
+harbor Energy Harbor Nuclear Corp
+Perry Nuclear Power Plant
+10 Center Road
+Perry, Ohio 44081
+Rod L. Penfield 440-280-5382
+Site Vice President, Perry Nuclear 724-462-0816 (cell)
+December 05, 2022
+L-22-270 10 CFR 50. 72(a)(2)(i)(B)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2022-002, "Steam Bypass Valve Demand
+Limited on the 'B' Train due to a Degraded Signal in the Max Combined Flow Limit
+Circuit" There are no regulatory commitments contained in this submittal.
+If there are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager- Regulatory Compliance, at (440) 280-7538.
+Sincerely,
+Rod L. Penfield
+Enclosure:
+LER 2022-002
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region Ill Regional Administrator
+Enclosure
+L-22-270
+LER 2022-002
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3160--0104 EXPIRES: 08/31/2023
+·(0¥8-20~20)- Estimated burden per response to comply with this mandatory collection request 80 hourn. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regll'ding burden estimate to the FOIA, Library, and Information Collections Br111ch (T-6 A10M), U.S.
+~ } (See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocolects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+••111•• http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3() Allain;, (3150-0104), Attn: Desk ail: oira submisson@omb.eop.gov. The NRC may not conduct or
+sponsor, and a parson is not required to respond to, a collection of information unless the document
+requesting or requiring the coleclion displays a currenlly valid 0MB control number.
+1. Fecllity Name 2. Docket Number 3. Page
+Perry Nuclear Power Plant
+05000 00440 1 OF 3
+4. Title
+Steam Bypass Valve Demand Limited on the 'B' Train due to a Degraded Signal in the Max Combined Flow Limit Circuit
+6. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+10 07 2022 2022 - 002 - 00 12 06 2022 Facility Name Docket Number
+05000
+rO.
+9. Operating Mode Power Level
+1 100
+11. This Report Is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vl) □ 50.36(c)(2) □ 50. 73(a)(2)(Iv)(A) □ 50. 73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(I) □ 50.46(a)(3)(11) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73
+□ 20.2201(d) □ 20.2203(a)(3)(11) □ 50.69(g) □ 50. 73(a)(2)(v)(B) □ 73. 71 (a)(4)
+n n n n
+□ 20.2203(a)(1) 20.2203(8)(4) 50. 73(a)(2)(I)(A) 50. 73(a)(2)(v)(C) 73.71(a)(5)
+n n
+□ 20.2203(a)(2)(I) 10 CFR Part 21 ~ 50. 73(a)(2)(I)(B) 50. 73(a)(2)(v)(D) 73.77(a)(1)(I)
+□ 20.2203(a)(2)(11) □ 21.2(c) □ 50. 73(a)(2)(I)(C) □ 50. 73(a)(2)(vll) □ 73. 77(a)(2)(I)
+□ 20.2203(a)(2)(111) 10 CFR Part 50 □ 50. 73(a)(2)(11)(A) □ 50. 73(a)(2)(vlll)(A) □ 73. 77(a)(2)(11)
+□ 20.2203(a)(2)(Iv) □ 50.36(c)(1 )(l)(A) □ 50. 73(a)(2)(11)(B) □ 50. 73(a)(2)(vlll)(B)
+n n n
+7 20.2203(a)(2)(v) 50.36(c)(1 )(ll)(A) 50. 73(a)(2)(111) 50. 73(a)(2)(Ix)(A)
+l J
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Hali Jenkins, Regulatory Compliance 440-280-6378
+13. Complete One Line for each Component Failure Described In this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X JI CBD G080 y
+14. Supplemental Report Expected Month Day Year
+In 16. Expected Submission Date
+0
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 7, 2022 at 174 0, it was identified that the Maximum Combined Flow Limiter In Control light was lit with the Steam Bypass and Pressure Regulating
+system on the "B" channel. This light being lit indicates that the max combined flow limiter is in control, which limits steam flow to the main turbine and condenser
+hrough the control valves and bypass valves. This indication appeared to be an erroneous indication as reactor power and pressure remained stable. The
+system contains two channels of pressure regulation, an "A" and "B" channel. A failure in either channel could cause the light to illuminate. A troubleshooting
+earn was developed to determine the potential failure modes.
+On October 13, 2022 during problem solving for the Maximum Combined Flow Limiter In Control light, the problem solving team detennined the "A" channel was
+operating normally and that the "B" channel would prevent the bypass valves from responding to a pressure perturbation with the steam bypass and regulating
+system operating on the "B" channel. The control room shifted off the "B" channel to the "A" channel and declared the "B" channel inoperable.
+The direct cause of the Maximum Combined Flow Limiter Light was the failure of "B" Flow Demand circuit card based on the indications obtained and
+observable damage found on the card during replacement. Corrective action was taken to replace the failed card.
+The safety significance of this event is considered to be very low. This condition is reportable under 50. 73(a)(2)(i)(B) as an operation or condition prohibited by the
+plant's technical specifications. Technical Specification (TS) 3.7.6 requires the main turbine bypass system to be operable with rated power greater than 23.8
+percent, when the "B" channel was in control it was determined that the system was not operable. TS 3.7.6 requires that bypass valve operability be restored
+within 2 hours, otherwise be less than 23.8 percent power within 4 hours. Vllith firm evidence that the issue had existed on October 7 and with the inoperable "B"
+channel in control until October 13 the required actions of TS 3.7.6 were not taken, and a condition prohibited by TS resulted.
+NRC FORM 366A U.S. NUCLEAR REGULA TORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this miw,datory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150.0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or sponsor,
+and a person is not required to respond to, a collection of information unless the document requesting
+http:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3Q
+or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER ;J. Lt:K numos;"
+YEAR SEQUENTIAL REV
+Perry Nuclear Power Plant 05000-1 00440 -I NUMBER 1-G NO.
+20221 002
+I
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT DESCRIPTION
+On October 7, 2022 at 1740 and with the reactor at mode 1 and 100% rated thermal power, it was identified that the
+Maximum Combined Flow Limiter In Control (MCFLC) light was lit with the Steam Bypass and Pressure Regulating
+system [JI] on the "B" channel, this light being lit indicates that the maximum combined flow limiter is in control, which
+results in a limitation of steam flow to the main turbine [TG] and condenser through the control valves and bypass valves.
+While observing plant parameters this appeared to be an erroneous indication as reactor power and pressure remained
+stable. The system contains two channels of pressure regulation, an "A" and "B" channel. A failure in either channel
+could cause the light to illuminate. A troubleshooting team was developed to determine the potential failure modes.
+On October 13, 2022 during problem solving on the MCFLC light, the problem solving team determined the "A" channel
+was operating normally while the "B" channel contained a degradation in the circuitry resulting in the illumination of the
+MCFLC light. The data also indicated the MCFLC signal could be limiting the "B" channel, which would prevent the
+bypass valves from responding to a pressure perturbation while operating on the "B" channel. At that time operations
+placed the "A" channel in operation and declared the "B" channel inoperable.
+During a maintenance outage on October 30, 2022, the "B" flow demand circuit card [CBD] was replaced. Following the
+card replacement, testing on the "B" channel determined the channel to bein proper working condition.
+CAUSE OF EVENT
+The direct cause of the failure of the MCFLC Light was the "B" flow demand circuit card based on the voltage readings
+and observable damage found on the card during replacement. The likely cause of failure of the circuit card is age-related
+failure of the components as they are plant original parts.
+The removed flow demand card had observable charring at several resistors on the circuit card, and it had degraded
+output voltage. Based on the voltage reading and the observed charred components on the card, the "B" flow demand
+circuit card is the direct cause of the MCFLC light illuminating.
+EVENT ANALYSIS
+A Probabilistic Risk Assessment (PRA) bounding evaluation was performed for this event. Fire and other external hazards
+were qualitatively addressed to be of low risk. The analysis of this event results in delta CDF and delta LERF values that
+are below the acceptable thresholds of 1.0E-06/yr an d 1.0E-07/yr, as discussed in Regulatory Guide 1.174 . Sensitivities
+performed that increased the frequency of a general transient initiating event did not change these conclusions. The risk
+of this event is therefore considered to be of very low safety significance in accordance with the Regulatory Guidance.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reporte
+lessons learned are incorporated into the licensing process and fed back to industry. Send commen
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and lnfonnation Collections Branch (T-6 A10M), U. l
+Nuclear Regulatory Commission, Washington, DC 2055~1. or by e-mail
+CONTINUATION SHEET
+lnfocoHects.Resourte@nrc.gov, and the 0MB reviewer at 0MB Office of lnfonnation and Regulate
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NI
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or sponS<
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3D and a person is not required to respond to, a collection of infonnation unless the document requestir
+or requiring the collection displays a currently valid 0MB control number.
+1. t-Al,;ILI I l l'IAMC 2. DOCKET NUMBER ~-Ll:K l'IUMtsl:K
+YEAR SEQUENTIAL REV
+osoooi NUMBER NO.
+Perry Nuclear Power Plant 00440 -I I-~
+202~ 002
+NARRATIVE
+This condition is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by the plant's technical
+specifications. Technical Specification (TS) 3.7.6 requires the main turbine bypass system to be operable with rated power
+greater than 23.8 percent. When the "B" channel was in control, it was determined that the system was not operable. TS
+3.7.6 requires that bypass valve operability be restored within 2 hours, otherwise be less than 23.8 percent power within 4
+hours. With firm evidence that the issue had existed on October 7 and with the inoperable "B" channel in control until
+October 13, the required actions of TS 3.7.6 were not taken, and a condition prohibited by TS resulted.
+CORRECTIVE ACTIONS
+Corrective actions were taken to replace the "B" Flow Demand circuit card.
+The "A" flow demand card is of similar age to the "B" flow demand card and will be replaced. An outage scope change
+request was created and approved to add the replacement of the "A" Flow demand card into the upcoming refuel outage
+in 2023.
+PREVIOUS SIMILAR EVENTS
+None
+COMMITMENTS
+None
+NRC FORM 366A (08-2020) Page 3 of 3

@@ -1,0 +1,250 @@
+William R. Gideon
+Vice President
+ENERGY® Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+November 15, 2017
+Serial: BSEP 17-0096
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject: Brunswick Steam Electric Plant, Unit No. 1 and 2
+Renewed Facility Operating License Nos. DPR 71 and DPR-62
+Docket Nos. 50 325 and 50-324
+Licensee Event Report 1-2017-004
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement of 1O CFR 50.73(a)(1) for a written report within sixty (60) days of a reportable
+occurrence.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager - Regulatory
+Affairs, at (910) 832-2487.
+William R. Gideon
+MAT/mat
+Enclosure: Licensee Event Report 1-2017-004
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Andrew.Hon@nrc.gov
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NU REG-1022, R.3 for instruction and gu idance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP) Unit1 05000325 1 OF 4
+4. TITLE
+Emergency Diesel Generator and Primary Containment Isolation System Actuations
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Brunswick Unit 2 05000324
+FACILITY NAME DOCKET NUMBER
+09 17 2017 2017 - 004 - 00 11 15 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Lee Grzeck, Manager - Regulatory Affairs (910) 832-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+X EB 81 G080 Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 17, 2017, at 0938 Eastern Daylight Time (EDT), a momentary power interruption to Emergency Bus E4
+occurred during planned surveillance activities involving Emergency Diesel Generator (EDG) 4. This occurred when
+EDG 4 was disconnected from Emergency Bus E4 and offsite power was not supplying the bus. EDG 4 automatically
+transferred from manual mode to automatic control and reconnected to Emergency Bus E4. Normal frequency and
+voltage were restored with EDG 4 in automatic control. The momentary power interruption to Emergency Bus E4
+resulted in various Unit 2 Primary Containment Isolation System (PCIS) actuations. The affected equipment
+responded as designed.
+The direct cause of this event was that Operators were not aware that, at the time of the event, Emergency Bus E4
+was being supplied solely by EDG 4. As a result of a failed under-frequency relay, the incoming line and feeder
+breakers from Balance of Plant (BOP) Bus 2C to Emergency Bus E4 had opened during the performance of the EDG 4
+surveillance, leaving only EDG 4 to power Emergency Bus E4 in the manual mode of operation.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 004 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 and Unit 2 were in Mode 1 at approximately 100 percent of rated thermal
+power (RTP).
+Reportability Criteria
+This event resulted in the automatic actuation of Emergency Diesel Generator (EDG) 4 [EK] and various
+Primary Containment Isolation System (PCIS) [JM] actuations. As such, this event is being reported in
+accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in valid actuation of systems listed in
+10 CFR 50.73(a)(2)(iv)(B). The NRC was initially notified of this event on September 17, 2017 (i.e., Event
+Number 52974). Due to the shared configuration of the onsite AC Electrical Distribution System [EB], this
+event is applicable to both Units 1 and 2.
+Event Description
+On September 17, 2017, Unit 2 Operators were conducting a surveillance of EDG 4 in accordance with
+0PT-12.2D, No. 4 Diesel Generator Monthly Load Test. As part of this surveillance, EDG 4 was started in
+the manual mode of operation and synchronized to the grid via Emergency Bus E4. Operators observed
+unexpected loading and drops in frequency and voltage following closure of the EDG 4 output breaker. As
+a result, the decision was made to back out of the ongoing surveillance. When the EDG 4 output breaker
+was opened, at 0938 Eastern Daylight Time (EDT), a momentary power interruption to Emergency Bus E4
+occurred. EDG 4 automatically transferred from manual mode to automatic control and reconnected to
+Emergency Bus E4. Normal frequency and voltage were restored with EDG 4 in automatic control. The
+momentary power interruption to Emergency Bus E4 resulted in the partial actuation of Unit 2 PCIS
+Group 1, Group 2, Group 8, and Group 10; and a full actuation of PCIS Group 3 and Group 6. The
+affected equipment responded as designed. In addition, Unit 2 Reactor Building Ventilation System [VA]
+isolation (i.e., Secondary Containment isolation), and the automatic start of Standby Gas Treatment
+System [BH] occurred. These systems functioned as designed.
+Per design, no Unit 1 PCIS actuations occurred. Unit 1 Conventional Service Water (CSW) System [KG]
+pump 1A and Unit 2 CSW pump 2B, which are powered from Emergency Bus E4, tripped, which resulted
+in the automatic start of CSW pump 1B. These systems functioned as design. EDG 4 continued to supply
+power to Emergency Bus E4 while troubleshooting was conducted to determine the cause of the electrical
+transient. Offsite power was restored to Emergency Bus E4 at 0023 EDT on September 18, 2017.
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 004 - 00
+NARRATIVE
+Event Cause
+The direct cause of this event was that Operators were not aware that, when the EDG 4 output breaker
+was opened to back out of the performance of 0PT-12.2D, E4 was being supplied solely by EDG 4.
+Troubleshooting activities determined that a failed relay (i.e., the 81PK under-frequency relay) caused the
+incoming and line feeder breakers from Balance of Plant (BOP) Bus 2C to Emergency Bus E4 to open
+during the performance of the EDG 4 surveillance. As a result, the only source of power to Emergency
+Bus E4 was EDG 4. The momentary power interruption to Emergency Bus E4 occurred when the EDG 4
+output breaker was opened. The fact that EDG 4 was powering an isolated bus versus being paralleled to
+the grid also accounts for the unexpected EDG performance observed by the Operators when the EDG 4
+output breaker was initially closed.
+A contributing cause to the event was the failure of the field Operator, providing local oversight of the
+EDG 4 surveillance, to communicate the status of the open incoming line and feeder breakers to Control
+Room Operators.
+Safety Analysis
+The safety significance of this event is minimal. EDG 4 functioned, per design, to automatically transfer
+from manual mode to automatic control and reconnect to Emergency Bus E4. Since EDG 4 was running
+when the output breaker was opened, power was restored to Emergency Bus E4 in less than 5 seconds.
+The 81PK under-frequency relay does not provide a Technical Specification required protective function.
+The 81PK under-frequency relay is only capable of tripping the feeder breaker when the associated EDG
+is in manual mode and, as such, its failure has no impact on the ability of EDG 4 to power Emergency Bus
+E4 in the event that the EDG received an automatic start signal under emergency conditions.
+Corrective Actions
+The following corrective actions have been completed.
+• A temporary alteration was performed to disable the failed 81PK under-frequency relay and offsite
+power was restored to Emergency Bus E4.
+• Actions were taken to address human performance deficiencies with the individuals directly
+involved in the event.
+• A face-to-face meeting between the Operations Manager and affected Operations shift to discuss
+lessons learned from the event and shortfalls in operator fundamentals was held.
+• A stand-down package was generated and discussed with the affected shift to ensure
+understanding of the lessons learned, behavioral shortfalls, and operator fundamental weaknesses
+exhibited during the event. The package was also reviewed with the remaining Operations shifts.
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 004 - 00
+NARRATIVE
+The following corrective actions are planned. Any changes to the corrective actions and schedules noted
+below will be made in accordance with the site's corrective action program.
+• The failed 81PK under-frequency relay will be replaced and the breaker circuitry restored to its
+normal configuration during a planned EDG 4 maintenance window, currently scheduled for the
+week of November 12, 2017.
+• An evaluation to determine the cause of the failed 81PK under-frequency relay will be completed
+subsequent to its removal. The failure analysis is currently planned for completion by
+December 15, 2017.
+Previous Similar Events
+There have been no LERs associated with valid automatic actuations due to human performance issues in
+the past three years.
+Invalid actuations, associated with EDGs, have been reported as follows:
+• Event Notification 51739 reported an invalid actuation of EDG 2, which occurred on
+January 9, 2016, due to out-of-sequence performance of procedure steps.
+• LER 1-2016-002 reported an invalid actuation of EDGs 2 and 4, which occurred on March 3, 2016,
+due to a clearance lift sequencing error in the restoration sequence for BOP Bus 1D.
+• Event Notification 52778 reported an invalid actuation of EDGs 1, 2, 3, and 4, which occurred on
+April 6, 2017, due to a configuration error (i.e., missing flexible links) which occurred when
+transferring power supplies to BOP Bus 2C.
+Corrective actions associated with the above events could not reasonably have been expected to prevent
+the event reported in LER 1-2017-004.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2017) Page 4 of 4

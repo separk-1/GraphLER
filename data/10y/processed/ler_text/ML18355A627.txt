@@ -1,0 +1,188 @@
+NEXTeraM
+ENERGY~
+DUANE
+ARNOLD
+December 17, 2018 NG-18-0145
+10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Duane Arnold Energy Center
+Docket 50-331
+Renewed Op. License No. DPR-49
+Licensee Event Report 2018-004
+Please find attached the subject report submitted in accordance with 1 O CFR
+50. 73. This letter makes no new commitments or changes to any existing
+commitments.
+Dean Curtland
+Site Director, Duane Arnold Energy Center
+NextEra Energy Duane Arnold, LLC
+cc: Administrator, Region Ill, USNRC
+Project Manager, DAEC, USNRC
+Resident Inspector, DAEC, USNRC
+NextEra Energy Duane Arnold, LLC, 3277 DAEC Road, Palo, IA 52324
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+~ ,s '-,pUl'J:1,'-,~ o ,.... LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+~ (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+; qh "0 C (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+~ E Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+-;.~.., "'"'*11• ~OB (See N h U ttp R :/ E /w G w - w 10 .n 2 rc 2 . , g R ov .3 /r e fo ad r i i n n q s - t r r m uc /d ti o o c n - c a o n ll d e c g ti u o i n d s a / n n c u e re f g o s r / s c t o af m f/s p r l 1 e 0 ti 2 n 2 g / r t 3 h / i ) s form d W is a p s l h a i y n g a to c n u , rre D n C tl y 2 v 0 a 5 l 0 id 3 . 0M If B a c m on e t a ro n l s n u u s m e b d e r t , o th im e p N o R se C m an a y i n n fo o r t m c a o t n io d n u c c t o o ll r e c s t p io o n n so d r o , e a s n d n o a t
+person is not reauired to respond to the information collection.
+1. Facility Name 2. Docket Number 13. Page
+Duane Arnold Energy Center 05000-331 1 OF4
+4. Title
+Automatic Reactor Scram Due to Feedwater Regulating Valve Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year S N eq u u m e b n e ti r a l R N e o v . Month Day Year N/A N/A
+Facility Name Docket Number
+10 19 2018 2018 004 00 12 17 2018
+N/A N/A
+9. Operating Mode 11. This Reoort is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+1 D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(il D 50.36(c)(1)(i)(A) 18:l 5D.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+100% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact rtephone Number (Include Area Code)
+!Bob Murrell Licensinq Enqineer I 319-851-7900
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+B SK CON N/A y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+D Yes (If yes, complete 15. Expected Submission Date) [g] No 15. Expected Submission Date N/A N/A N/A
+~bstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On October 19, 2018, at 1725 while operating at 100% power, the 'B' Feedwater Regulating Valve (FRV;
+CV1621) failed closed resulting in lowering reactor level and subsequent automatic reactor scram on low
+level. This resulted in a 4 hour event report to the NRC under 1O CFR50. 72(b)(2)(iv)(B) for actuation of the
+Reactor Protection System. This report also included reports for emergency core cooling systems (High
+Pressure Coolant Injection (HPCI) and Reactor Core Isolation Cooling (RCIC)) discharge into the reactor
+coolant system under 1O CFR50.72(b)(2)(iv)(A), and a valid actuation of the Primary Containment Isolation
+System under 10CFR50.72(b)(3)(iv)(A) (reference EN#53676). The FRV was subsequently repaired and the
+reactor was started up on October 21, 2018. The direct cause of the failure was a broken conductor within
+the FRV position modulator (ZM1621). The root cause of this event was the fact that design choices made
+by the vendor resulted in a less robust wire connection. This event was of low safety significance and had
+no impact on public health or safety. There werE3 no systems, structures, or components inoperable at the
+time of the event and none that contributed to the event. This event is reportable pursuant to
+1O CFR50. 73(a)(2)(iv)(A). There were no radiological releases associated with this event.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017..), ,.-..,
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+.. lessons learned are incorporated into the licensing process and fed back to industry. Send
+•:' ~ "'~ I•! , LICENSEE EVENT REPORT (LER} comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+"~., ........ .<:11 CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3[) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Duane Arnold Energy Center 05000-331 NUMBER NO.
+2018 -004 -00
+NARRATIVE
+I. Description of Event:
+On October 19, 2018, at 1725 while operating at 100% power, the 'B' Feedwater Regulating
+Valve (FRV; CV1621) (SK - Feedwater Pump Injection and Miscellaneous System) failed
+closed resulting in lowering reactor level and subsequent automatic reactor scram on low
+level. This resulted in a 4 hour event report to the NRC under 10CFR50.72(b)(2)(iv)(B) for
+actuation of the Reactor Protection System (JD - Reactor Power Control System). This
+report also included reports for emergency core cooling systems (High Pressure Coolant
+Injection (HPCI) and Reactor Core Isolation Cooling (RCIC)) discharge into the reactor
+coolant system under 1O CFR50.72(b)(2)(iv)(A), and a valid actuation of the Primary
+Containment Isolation System under 10CFR50.72(b)(3)(iv)(A) (reference EN#53676). There
+were no systems, structures, or components inoperable at the time of the event and none
+that contributed to the event.
+After subsequent troubleshooting, the FRV was repaired and the reactor was started up on
+October 21, 2018.
+The direct cause of the FRV failure was a broken conductor within the FRV position
+modulator stepper motor.
+II. Assessment of Safety Consequences:
+This event resulted in an automatic initiation of the reactor protection system on low
+reactor water level. All rods inserted into the core as designed. After the scram, due to
+void collapse, level fell to the Level 2 (vessel low-low level) setpoint where the HPCI
+and RCIC systems automatically initiated and injected into the reactor core. HPCI,
+RCIC, and the 'A' Feedwater system restored level to Level 8 and the pumps
+automatically tripped off as designed. Subsequently, the operating crew took control of
+the plant and maintained vessel level via Feedwater and Condensate systems and
+removed decay heat via the Main Condenser.
+An immediate investigation of the event determined that the plant and operator
+response was as expected. Therefore, this event was of low safety significance and
+had no impact on public health or safety. There were no systems, structures, or
+components inoperable at the time of the event that contributed to the event. There
+were no radiological releases associated with this event.
+This event did not result in a Safety System Functional Failure.
+NRC FORM 3668 (02-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+~cP"-..,.
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT {LER)
+ii: ~'; comments regarding burden estimate to the lnfonmation Services Branch {T-2 F43), U.S. Nuclear
+...... .I Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+i CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an infonmation collection does not display a currently valid 0MB control number, the
+http://www. nr e.gov/reading-rm/doc-collections/nu reqs/staff/sr1 022/r3[J NRC may not conduct or sponsor, and a person is not required to respond to, the infonmation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Duane Arnold Energy Center 05000-331 NUMBER NO.
+2018 -004 -00
+Ill. Cause of Event:
+A root cause evaluation was completed for this event and the following root and
+contributing causes were determined:
+Root Cause: Design choices by the vendor resulted in a less robust connection that
+ultimately led to the broken conductor within the FRV position modulator.
+Contributing Cause: Routine preventative maintenance damaged the connection over
+time.
+IV. Corrective Actions:
+Immediate Corrective Action
+The failed connector was replaced in the October 2018 forced outage under Work Order
+(V\JO) 40627947-01.
+Corrective Actions to Prevent Recurrence
+Replace 'A' FRV stepper motor connectors with a more robust design at the next available
+opportunity.
+Corrective Actions for Root and Contributing Causes
+Generate Preventative Maintenance tasks to periodically replace the 'A' and 'B' FRV stepper
+motor connections.
+V. Additional Information:
+Previous Similar Occurrences:
+A review of NextEra Energy Duane Arnold LERs from the previous 5 years found no
+other instance of an event related automatic reactor scram.
+NRC FORM 366A (06-2016) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT- REPORT {LER}
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3[) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Duane Arnold Energy Center 05000-331 NUMBER NO.
+2018 -004 -00
+EIIS System and Component Codes:
+SK - Feedwater Pump Injection and Miscellaneous System
+JD - Reactor Power Control System
+Reporting Requirements:
+This activity is being reported pursuant to the requirements of 10CFR50.73(a)(2)(iv)(A).
+NRC FORM 366A (06-2016) Page 4 of 4

@@ -1,0 +1,204 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC TALEN�
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+December 21, 2020
+Attn: Document Control Desk
+10 CFR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387/2020-003-00
+UNIT 1 LICENSE NO. NPF-14
+PLA-7913 Docket No. 50-387
+Attached is Licensee Event Report (LER) 50-387/2020-003-00. The LER reports an event
+involving entry into the mode of applicability without meeting the required Limiting Conditions
+for Operation. The condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a
+condition prohibited by the plant's Technical Specifications.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter con ins no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-387/2020-003-00
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. S. Goetz, NRC Project Manager
+Mr. M. Shields, PADEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION A PPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station 05000387 1 of 4
+4. Title
+Condition Prohibited by Technical Specifications due to Inoperable Turbine Stop Valve and Turbine Control Valve Instrumentation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+05 09 2020 2020 - 003 - 00 12 21 2020
+05000
+9. Operating Mode 10. Power Level
+1 24
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 ☐ 20.2203(a)(2)(vi) ☐ 50.36(c)(2) ☐ 50.73(a)(2)(iv)(A) ☐ 50.73(a)(2)(x)
+☐ 20.2201(b) ☐ 20.2203(a)(3)(i) ☐ 50.46(a)(3)(ii) ☐ 50.73(a)(2)(v)(A) 10 CFR Part 73
+☐ 20.2201(d) ☐ 20.2203(a)(3)(ii) ☐ 50.69(g) ☐ 50.73(a)(2)(v)(B) ☐ 73.71(a)(4)
+☐ 20.2203(a)(1) ☐ 20.2203(a)(4) ☐ 50.73(a)(2)(i)(A) ☐ 50.73(a)(2)(v)(C) ☐ 73.71(a)(5)
+☐ 20.2203(a)(2)(i) 10 CFR Part 21 ☒ 50.73(a)(2)(i)(B) ☐ 50.73(a)(2)(v)(D) ☐ 73.77(a)(1)(i)
+☐ 20.2203(a)(2)(ii) ☐ 21.2(c) ☐ 50.73(a)(2)(i)(C) ☐ 50.73(a)(2)(vii) ☐ 73.77(a)(2)(i)
+☐ 20.2203(a)(2)(iii) 10 CFR Part 50 ☐ 50.73(a)(2)(ii)(A) ☐ 50.73(a)(2)(viii)(A) ☐ 73.77(a)(2)(ii)
+☐ 20.2203(a)(2)(iv) ☐ 50.36(c)(1)(i)(A) ☐ 50.73(a)(2)(ii)(B) ☐ 50.73(a)(2)(viii)(B)
+☐ 20.2203(a)(2)(v) ☐ 50.36(c)(1)(ii)(A) ☐ 50.73(a)(2)(iii) ☐ 50.73(a)(2)(ix)(A)
+☐ Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Shane Jurek, Senior Engineer (570) 542-1695
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B SB PSF B130 Y X SB PSF F155 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+☒ No ☐ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 9, 2020, operators at the Susquehanna Steam Electric Station (SSES), Unit 1, were raising power
+following a maintenance outage. SSES Technical Specifications (TS) require that certain Turbine Stop Valve
+(TSV) and Turbine Control Valve (TCV) instrumentation be operable at greater than or equal to 26 percent Rated
+Thermal Power (RTP). However, at approximately 15:23, Unit 1 reached 26 percent RTP and the TSV and TCV
+instrumentation was found to be inoperable. Operators declared the TSV and TCV instrumentation inoperable, and
+entered Conditions A and B of Limiting Condition for Operation (LCO) 3.3.1.1. Control rods were inserted and
+Unit 1 was brought below 26 percent RTP at approximately 15:37, thereby exiting Conditions A and B of
+LCO 3.3.1.1. Based on the investigation and identified cause of this event, the inoperable condition likely existed
+prior to entering the Mode of Applicability. LCO 3.0.4 prohibits reaching 26 percent RTP when the LCO 3.3.1.1 is
+not met. This event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+The cause of the event was determined to be two socket weld failures caused by high cyclic fatigue. Additionally,
+one of the socket welds was found to be undersized for its application. This condition was corrected by repairing
+the welds and upgrading the welds to the proper size. There were no actual safety consequences associated with
+the described condition.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO.
+Unit 1 2020 - 003 - 00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 24 percent Rated Thermal Power (RTP)
+Unit 2 – Mode 1, approximately 98 percent RTP
+After the event, two steam leaks were discovered on instrument piping [EIIS System/Component Code:
+SB/PSF] leading from Turbine Control Valves (TCVs) 2 and 3 [TA/FCV] to turbine pressure switches [IT/PS]
+which feed into the Reactor Protection System [System Code JC]. The steam leaks rendered Unit 1 Turbine
+Stop Valve (TSV) [TA/SHV] and TCV instrumentation inoperable prior to the start of the event.
+EVENT DESCRIPTION
+On May 9, 2020, operators at the Susquehanna Steam Electric Station (SSES), Unit 1, were raising power
+following a maintenance outage. At approximately 15:19, with reactor power at 24 percent RTP, operators
+withdrew control rods to raise power to approximately 28 percent RTP. SSES Technical Specification (TS)
+Limiting Condition for Operation (LCO) 3.3.1.1, “Reactor Protection System (RPS) Instrumentation,” requires
+that TSV and TCV instrumentation be operable (i.e., not bypassed) at greater than or equal to 26 percent
+RTP. However, at approximately 15:23, Unit 1 reached 26 percent RTP and the TSV and TCV
+instrumentation was still bypassed. Operators immediately stopped withdrawing control rods, declared the
+TSV and TCV instrumentation inoperable, and entered Conditions A and B of LCO 3.3.1.1. Unit 1 was
+brought below 26 percent RTP at approximately 15:37, thereby exiting Conditions A and B of LCO 3.3.1.1
+after approximately 14 minutes.
+Subsequent to reducing power below 26 percent RTP, Susquehanna discovered two steam leaks on
+instrument piping lines SPDCD117-2 (specifically from Field Weld-10 (FW-10)) and JD-5-3-1A (specifically
+from FW-60). These leaks resulted in the instrument lines being unable to provide adequate steam pressure
+to turbine instrument sensing lines, and were determined to have rendered the TSV and TCV instrumentation
+inoperable during startup. Susquehanna repaired the leaks by installing new socket welds on May 11, 2020,
+and resumed power ascension.
+The Completion Times associated with LCO 3.3.1.1, Required Actions A.1 and B.1 (12 hours and 6 hours,
+respectively), were not exceeded. However, SSES TS LCO 3.0.4 prohibits entering a mode of applicability
+(i.e., reaching 26 percent RTP) without meeting all required LCOs. Based on the investigation and
+determined cause for this condition, the instrumentation piping likely failed, rendering the TCV and TSV
+instrumentation inoperable, prior to entry into the Mode of Applicability for LCO 3.3.1.1. As such, this event is
+reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+CAUSE OF EVENT
+The cause of the event was determined to be FW-10 and FW-60 socket weld failure due to high cyclic
+fatigue. Additionally, the weld on FW-10 was determined to be undersized.
+NRC FORM 366A (08-2020) Page 2 of 4
+.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO.
+Unit 1 2020 - 003 - 00
+NARRATIVE
+ANALYSIS/SAFETY SIGNIFICANCE
+The inoperable TSV and TCV instrumentation was limited to a single RPS subsystem; the other subsystem
+was capable of initiating a valid reactor scram signal. As such, there was no loss of safety function (i.e., a
+safety system functional failure did not occur). This event did not result in any actual consequences to the
+health and safety of the public.
+CORRECTIVE ACTIONS
+Corrective actions for this event included repairing FW-10 and FW-60 by removing the leaking connections
+and installing new welds.
+COMPONENT FAILURE INFORMATION
+1. FW-10
+Component Identification – SPDCD117-2
+Component Name – Pressure Lines from Main Steam Line TCV-2 and TCV-3 to Turbine Pressure
+Instruments
+Component Description –1” Schedule XXS Instrument Sensing Line
+Component Manufacturer – Bechtel
+Socket Weld Location – Downstream end of Valve 101009
+2. FW-60
+Component Identification – JD-5-3-1A
+Component Name - Pressure Lines from Main Steam Line TCV-2 and TCV-3 to Turbine Pressure
+Instruments
+Component Description – 0.5” Flex Hose
+Component Manufacturer – Senior Flexonics
+Socket Weld Location – Connection of 0.5” Flex Hose to 0.5” Reducer
+PREVIOUS OCCURRENCES
+LER 50-388/2015-004-00, “Degraded Condition due to Reactor Coolant Pressure Boundary Leakage Caused
+by Vibration and Stiff Pipe Connection,” dated June 10, 2015.
+NRC FORM 366A (08-2020) Page 3 of 4
+.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO.
+Unit 1 2020 - 003 - 00
+NARRATIVE
+LER 50-387/2014-011-00, “Degraded Condition Due to Reactor Coolant Pressure Boundary Leakage
+Caused by an Inadequate Weld,” dated February 11, 2015.
+LER 50-387/2012-007-01, “Unplanned Shutdown due to Unidentified Drywell Leakage,” dated
+November 20, 2012.
+NRC FORM 366A (08-2020) Page 4 of 4
+.

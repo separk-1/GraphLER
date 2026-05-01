@@ -1,0 +1,317 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+August 8, 2016
+10 cFR 50 73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and 2
+Facility Operating License Nos. NPF-90 and 96
+NRC Docket Nos. 50-390 and 50-391
+Subject: Licensee Event Report 50-390 and 50-391/2016-010-00, Emergency Diesel
+Generator Crankcase Pressure Switches Not Analyzed to Withstand the
+Effects of a Tornado
+This submittal provides Licensee Event Report (LER) 390 and 391/2016-010-00. This LER
+provides details concerning a vulnerability in the design of the Emergency Diesel Generator
+(EDG) that may result in an EDG lockout prior to emergency start during a tornado. This
+report is being submitted in accordance with 10 CFR 50.73(a)(2)(iixB).
+Please direct any questions concerning this matter to Gordon Arent, WBN Licensing
+d
+Director, @23) 365-2004.
+Respectfully,
+Paul Simmons
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc: See Pag e 2
+U.S. Nuclear Regulatory Commission
+Page 2
+August 8, 2016
+cc (Enclosure):
+NRC Regional Administrator - Region ll
+NRC Senior Resident Inspector - Watts Bar Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0{04 EXPIRES: 1013112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours,
+.:I"**ott:o-
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+i?en,f., B
+Send comments regarding burden estimate to the FOIA, Privacy and lnformation Collections
+', a*rr LIcENSEE EVENT REPoRT (LER) Branch (T-5 F53), U,S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc,gov, and to the Desk Officer, Office of lnformation and
+Regulatory Affairs, NE0B-10202, (3150'0104), Office of Management and Budget, Washington,
+DC 20503, lf a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection,
+1. FACILIW NAME 2. DOCKET NUMBER 3. PAGE
+10F5
+Watts Bar Nuclear Plant, Unit 05000390
+1
+TITLE
+'1.
+Emergency Diesel Generator Crankcase Pressure Switches Not Analyzed to Withstand the Effects of a Tornado
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTHI Oev I veen YEAR I t=-t'-FJ#' R N E O V . MONTH I DAY YEAR FAC W TLT a TY t t N s A B M a E r Nuclear Plant Unit 2 I 1 05 D 0 O 0 C 0 K 3 E e T 1 NUMBER
+06 08 I 2016 2016 - 010 - 00 08 08 2016 FACTLTTY NAME N/A I lN /A DOCKET NUMBER
+9. OPERATING MODE 11. THIS REPORI lS SUBMITTED PURSUANT TO THE REQUIREMENTS OF t0 CFR $: (Cteck ail that apply)
+n tr tr tr
+20.2201(b) 20.2203(aX3)(i) 50.73(ax2xi.)(A) 50.73(aX2)(vi.ixA)
+tr n X n
+20 2201 (d) 20.2203(aX3Xii) 50.73(aX2XiiXB) 50.73(a)(2)(vi.iXB)
+1 n n n n
+zo 22o3(aX1) 20.2203(a)(4) 50.73(ax2xiii) 50.73(aX2xixXA)
+n tl n tr
+20 2203(ax2)(i) s0.36(cxl xixA) 50.73(a)(2)(ivXA) 50.73(ax2Xx)
+n n n tr
+10. POWER LEVEL 20 z2o3(ax2)(ii) 50 36(cxl Xii)(A) s0.73(a)(2XvXA) rc.l1 (aX4)
+tr n t] n
+20.2203(aX2Xiii) s0.36(c)(2) 50.73(aX2XvXB) rcT1 (a)(5)
+tr tl t] n
+20 2zo3(a)(2)(iv) 50.46(a)(3xii) 50 73(aX2Xv)(c) rc.Tl(a'1,:l)
+tr n tl n
+100 20 22a3(a)(2)(v) 50.73(aX2)(i)(A) 50 73(aX2)(v)(D) fi.77(ax2)(i)
+n n n n
+20.2203(a)(2Xvi) 50.73(a)(2XiXB) 50.73(aX2)(vii) B.TT(a)(2Xii)
+n 50.73(aX2XiXc) n OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (lnclude Area Code)
+Dean Baker, Licensing Engineer
+423-452-4589
+,I3. COMPLETE ONE LINE FOR EACH COiIPONENT FAILURE DESCRIBED IN THIS REPORT
+oAUSE I svsrerrr lcortneoNENrlro.ruRER REP T O O R E T P A I B X LE CAUSE SYSTEM I COMPONENT FA M cT A u N R U ER - I I REP ro OR E T P A r B x LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTHI DAY I YEAR
+I VfS (f yes, comptete 15. EXPECTED SUBMISS/ON DATE) x NO SUB D M A IS T S E ION
+ABSTRACT (Limit to l 4oo spaces, Le., approximately l S single-spaced tyrywriften lines)
+At 1526 Eastern Daylight Time on 61812016, a determination was made involving the potential impact of a tornado on
+the Emergency Diesel Generators (EDGs). The EDGs are required to be operable to provide power to ensure that
+acceptable fuel design limits, reactor coolant system pressure boundary limits, and containment integrity are not
+exceeded during abnormaltransients. Further, the EDGs are designed with a crankcase pressure trip (setpoint of
+1
+inch water), which is bypassed following an emergency start. Engineering has determined that a tornado could
+potentially cause actuation of the crankcase pressure trip due to a low barometric condition. lf an emergency start
+signal has NOT previously occurred, then during a tornado, actuation of the crankcase pressure trip would energize
+the shutdown relay causing an EDG lockout condition. The EDG lockout condition prevents subsequent EDG starts
+(normal or emergency) until operators manually reset the lockout condition locally at the EDG. This condition could
+potentially affect all four EDGs simultaneously.
+A compensatory measure has been established, that upon notification of a Tornado Warning, the EDGs would be
+'emergency started' and run during the time the Tornado Warning was in effect. This action bypasses the crankcase
+pressure trip function and allows the EDGs to perform their required safety function.
+NRC FORM 366 (11-2015)
+Paaooee 2z oof 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRES: 101fi'2A18
+(11-201s)
+Estimated burden per response to comply with this mandatory collection request: B0 hours, Repo(ed
+lessons learned are incorporated into the licensing process and fed back to industry, Send
+commenB regarding burden estimate to the F0lA, Privacy and lnformation Collections Branch (T-5
+LTGENSEE EVENT REPORT (LER) F53), U.S Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, 0ffice of lnformation and Regulatory Affairs,
+CONTINUATION SHEET NE0B-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+2016 010 00
+NARRATIVE
+I.
+PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Watts Bar Nuclear Plant (WBN) Unit 1 was in Mode 1 at 100 percent rated thermal power (RTP) and WBN
+Unit 2 was in Mode 1 at 8 percent RTP.
+II.
+DESCRIPTION OF EVENT
+A.
+Event
+At 1526 Eastern Daylight Time (EDT) on June 8, 2016, a determination was made involving the
+potential impact of a tornado on the Emergency Diesel Generators (EDGs) {EllS:DG}. The EDGs
+are required to be operable to provide power to ensure that acceptable fuel design limits, reactor
+coolant system pressure boundary limits, and containment integrity are not exceeded during
+abnormal transients. Further, the EDGs are designed with a crankcase pressure trip (setpoint of 1
+inch water), which is bypassed following an emergency start. Engineering has determined that a
+tornado could potentially cause actuation of the crankcase pressure trip due to a low barometric
+condition. lf an emergency start signal has NOT previously occurred, then during a tornado,
+actuation of the crankcase pressure trip would energize the shutdown relay causing an EDG
+lockout condition. The EDG lockout condition prevents subsequent EDG starts (normal or
+emergency) until operators manually reset the lockout condition locally at the EDG. This condition
+could potentially affect allfour EDGs simultaneously.
+The EDGs are operable but degraded. All EDGs have successfully passed their required
+surveillances within the appropriate frequency. No severe weather warnings or watches are
+forecast in the local areas, which could challenge the crankcase pressure trip.
+A compensatory measure has been established, that upon notification of a Tornado Warning, the
+EDGs would be 'emergency started' and run during the time the Tornado Warning was in effect.
+This action bypasses the crankcase pressure trip function and allows the EDGs to perform their
+required safety function.
+The identified condition placed both units in an unanalyzed condition that potentially significantly
+degrades plant safety. This event was reported to the Nuclear Regulatory Commission (NRC) on
+June 8, 2016 via Event Notification 51995 pursuant to 10 CFR 50.72(bl(2)(iixB). lt is being
+reported in this LER as an unanalyzed condition pursuant to 10 CFR 50.73(aX2)(ii)(B)
+lnoperable Structures, Components, or Systems that Contributed to the Event
+No inoperable structures, systems, or components contributed to this event
+C. Dates and Approximate Times of Occurrences
+(EDT)
+Date Time Event
+6t7116 Condition Report (CR) 1179264 initiated forWBN based on an issue
+identified at the Sequoyah Nuclear Plant related to a design
+vulnerability of the EDGs during a tornado.
+NRC FORM 366A (11-201s)
+Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRES: 1013112018
+(11-201s)
+Estimated burden per response to comply with this mandatory collection request: 80 hours, Reported
+lessons learned are incorporated into the licensing process and fed back to industry, Send
+commenb regarding burden estimate to the FOIA, Privacy and lnformation Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformation and Regulatory Afiairs,
+CONTINUATION SHEET NE0B-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503 lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1 - -00
+2016 010
+NARRATIVE
+Date Time (EDT) Event
+618116 1526 WBN reports the above condition for the crankcase over-pressure
+switches to the NRC.
+D. Manufacturer and Model Number of Components that Failed
+Not applicable.
+E.
+Other Systems or Secondary Functions Affected
+No other systems or secondary functions were affected.
+F.
+Method of discovery of each Component or System Failure or Procedural Error
+This unanalyzed condition was discovered at the Sequoyah Nuclear Plant (SQN) during an NRC
+Component Design Basis lnspection. Because WBN and SQN are essentially identical designs,
+this issue was promptly reviewed for applicability at Watts Bar.
+G. Failure Mode and Effect of Each Failed Component
+Not applicable.
+H.
+Operator Actions
+Upon determination of the unanalyzed condition, the NRC was promptly notified.
+L
+Automatically and Manually lnitiated Safety System Responses
+There were no automatic or manual system responses associated with this event.
+III.
+CAUSE OF THE EVENT
+A.
+The cause of each component or system failure or personnel error, if known.
+The design of the interlock circuit utilizes the pressure between the crankcase and the room was
+created more than 20 years ago. lt is not possible to identify the specific individuals involved in
+the design to determine their mindset at the time this design was developed. Therefore, the cause
+of the event is considered a latent or legacy issue, and not a weakness in the current design
+process.
+B. The cause(s) and circumstances for each human performance related root cause,
+The issue of the interlock design is a latent condition that was created more than 20 years ago.
+NRC FORM 366A (1 1-2015)
+Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRES: $131t2018
+(1 1-2015)
+Estimated burden per response to comply with this mandatory collection request: B0 hours, Reported
+lessons learned are incorporated into the limnsing process and fed back to industry, Send
+comments regarding burden estimate to the FOIA, Privacy and lnformation Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U S Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformation and Regulatory Afiairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Ofrce of Management and Budget, Washington, DC 20503 lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 YEAR NUMBER NO.
+1 - -00
+2016 010
+NARRATIVE
+IV.
+ANALYSIS OF THE EVENT
+Allfour EDGs are required to be operable by both units'Technical Specifications to provide electrical
+power to safe shutdown/safety related equipment following accident conditions coincident with a loss
+of offsite power. The Current Licensing Basis (CLB) requires that tornado effects be considered in
+the design of safety related structures, systems, and components. lt could not be demonstrated at
+the time of the event that the crankcase pressure switches would withstand the design basis tornado.
+The EDGs are operable, but degraded and have successfully passed their required surveillances
+within the appropriate frequency. The occurrence of such an event involving failure of the crankcase
+pressure switches is highly unlikely and there was no imminent concern regarding severe weather
+involving tornadoes.
+ln order to prevent any operability issues with the EDG due to tornado damage to the EDG building or
+components, compensatory measures have been developed to address the associated nonconformance.
+Upon notification of a Tornado Warning, the EDGs will be emergency started and operated during the time
+the Tornado Warning is in effect to bypass the crankcase pressure trip function and allow the EDGs to be
+able to perform their required safety function.
+V.
+ASSESSMENTOFSAFETYCONSEQUENCES
+The EDGs are located inside the power plant structure and are capable of performing their safety function.
+The occurrence of such an event involving failure of the crankcase pressure switches is highly unlikely and
+there was no imminent concern regarding severe weather involving tornadoes at the time of this event.
+A risk assessment has been completed and has determined that the change in core damage frequency is
+less than 1E-6 for failure of the EDG crankcase pressure switches, which is of very low safety significance.
+A.
+Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+There were no component failures
+.
+B.
+For events that occurred when the reactor was shut down, availability of systems or components
+needed to shutdown the reactor and maintain safe shutdown conditions, remove residual heat,
+control the release of radioactive material, or mitigate the consequences of an accident
+These events did not occur when the reactor was shutdown.
+C.
+For failure that rendered a train of a safety system inoperable, an estimate of the elapsed time
+from the discovery of the failure until the train was returned to service
+With the compensatory measures in place, the EDGs will remain capable of fulfilling their design
+basis function following a tornado.
+NRC FORM 366A (1 1-2015)
+Paaooee 5c oof 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRESi 1013112018
+(1 1-2015)
+Estimated burden per response to comply with this mandatory collection request: B0 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and lnformation Collections Branch (T-5
+LTGENSEE EVENT REPORT (LER) F53), U,S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc,gov, and to the Desk Officer, Office of lnformation and Regulatory Affairs,
+CONTINUATION SHEET NE0B-10242, (3150-0104), Office of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 YEAR NUMBER NO.
+1 - -00
+2016 010
+NARRATIVE
+VI
+CORRECTIVE ACTIONS
+This event was entered into the Tennessee Valley Authority Corrective Action Program and is being
+tracked under CR 1179264.
+A.
+lmmediate Corrective Actions
+An 8-hour non-emergency notification was made to the NRC to report the event as an
+unanalyzed condition that significantly degrades plant safety per 10 CFR 50.72(bX3XiiXB).
+B.
+Corrective Actions to Prevent Recurrence
+Corrective actions include establishing a compensatory measure that upon notification of a Tornado
+Warning, the EDGs will be emergency started and operated during the time the Tornado Warning is
+in effect to bypass the crankcase pressure trip function and allow the EDGs to perform their
+required safety function.
+A design change to remove the crankcase pressure trip is being developed and is expected to be
+completed in December 2016. lmplementation of the modification will then be scheduled during an
+appropriate work period for each EDG.
+VII.
+ADDITIONALINFORMATION
+A.
+Previous similar events at the same plant
+No similar events have been identified at the Watts Bar plant
+.
+B. Additional lnformation
+None.
+C. Safety System Functional Failure Consideration
+This condition did not result in a safety system functionalfailure.
+D. Scrams with Complications Consideration
+There were no scrams associated with this event.
+VIII.
+COMMITMENTS
+None.
+NRC FORM 366A (11-201s)

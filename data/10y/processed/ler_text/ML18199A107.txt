@@ -1,0 +1,238 @@
+Clinton Power Station ~,iM~IL- P/-* gr Exelon Generation®
+8401 Power Road
+Clinton, IL 61727
+U-604422 10CFR50.73
+July 16, 2018
+SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+·-.·.NRG Docket No. 50-461
+Subject: Licensee Event Report 2017-002-02
+Enclosed is Licensee Event Report (LER) 2017-002-02: Failure of the Division 1 Diesel
+Generator Ventilation Fan Load Sequence Relay Circuit During Concurrent Maintenance of
+RHR Division 2 Results in an Unanalyzed Condition. This is a supplemental report to LER 2017-
+002-01 submitted to the NRG on July 5, 2017. The updated information in the LER is denoted by
+revision bars located in the right-hand margin. This report is being submitted in accordance with the
+requirements of 1O CFR 50.73. There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+GS/lam
+Attachment: Licensee Event Report 2017-002-02
+cc:
+Regional Administrator- NRG Region Ill
+NRG Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with lh5 mandatol)' collection request: 80 hours.
+.., aP"~<.,,, LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into Ille licensing process and fed back to industry .
+.. .. Send comments regarding burden estimate to the lnfonnation Services Branch
+...f. l~ ~ ~. , (See Page 2 for required number of digits/characters for each block) (T·2 F43), U.S. Nuclear Regulatol)' Comm5sion, Washington, DC 20555-0001, or by e-mail to
+lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatol)'
+C
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503 .
+~ ....... # (See NUREG-1022, R.3 for instruction and guidance for completing this form If a means used to impose an infonnation collection does not
+...,""".., httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) d~play a currently valid 0MB control number, Iha NRG may not conduct or sponsor, and a
+~ person is not required to respond to, the infonnation collection.
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station 05000461 1 OF 4
+4. Title
+Failure of the Division 1 Diesel Generator Ventilation Fan Load Sequence Relay Circuit During Concurrent Maintenance
+of RHR Division 2 Results in an Unanalyzed Condition
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year 05000
+Number No.
+- - Facility Name Docket Number
+03 09 17 2017 002 02 07 16 18 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D 0 0
+20.2201 (bl 20.2203(a)(3J(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D 0
+20.2201 (dl 20.2203(a)(3l(iil ~ 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(aJ(1J 20.2203(al(4l so.73(a)(2J(iiil 50.73(a)(2)(ix)(A)
+D D 0 0
+20.2203(a)(2)(il 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 D D
+10. Power Level 20.2203(aJ(2J(iil 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 13.11(a)(4l
+D D 0 D
+20.2203(a)(2J(iiil so.36(c)(2J 50.73(a)(2)(v)(B) 73.11 (aJ(s)
+0 D 0 D
+20.2203(a)(2)(iv) so.46(al(3l(iil 50.73(a)(2)(v)(C) 73.77(a)(1J
+D 0 D
+099 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) 73.77(a)(2J(il
+0 0 D
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.77(a)(2)(iil
+0 0
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+""
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217-937 -2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable lo ICES
+:;j
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On Tuesday, March 7, 2017 at 2258 CDT, an Equipment Operator detected a relay cycling every 1O seconds from the
+Division (Div.) 1 480V Unit Substation (Sub) 1A . Agastat Time Delay Relay (TOR) 427X2-41 A (X2 relay) was determined to
+be the source of the clicking sound. The X2 relay supports the undervoltage load shed and restoration of the Div. 1
+Emergency Diesel Generator (EOG) ventilation room fan 1V D01 CA. The logic is designed to shed 1V D01 CA on
+undervoltage, prevent it from restarting, then allow it to be restored 1O seconds after voltage is restored either by the EOG or
+return of the safety bus. An investigation of the relay cycling condition determined that 1V D01 CA was unable to respond to a
+demand signal and the cycling was the effect of interaction between the X2 and 427X3-41 A (X3) relays. As a result, Div. 1
+EOG was declared inoperable on March 9. With the Div. 2 Residual Heat Removal (RHR) System already inoperable due to
+scheduled maintenance, the plant was determined to be in an unanalyzed condition. A causal analysis determined that the
+original design of the EOG ventilation fan relay logic relied on executing parallel sequencing logic to perform the control
+function, which was vulnerable to differences in relay model drop out voltages. Corrective actions included the replacement
+of the X3 relay with the original design relay and subsequent circuit modifications to eliminate the vulnerability to lower drop
+out voltage settings. Div. 2 RHR was returned to service on March 8. Subsequently, Div. 1 EOG was restored to
+OPERABLE on March 11. This is reportable as an unanalyzed condition, operation prohibited by the Technical
+Specifications and a loss of safety function.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+./' NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station 05000461 NUMBER NO.
+2017 • 002 • 02
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]
+EVENT IDENTIFICATION
+Failure of the Division 1 Diesel Generator Ventilation Fan Load Sequence Relay Circuit During
+Concurrent Maintenance of RHR Division 2 Results in an Unanalyzed Condition
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: March 9, 2017 Event Time: 0319
+Mode: 1 Mode Name: Power Operation Reactor Power: 99 percent
+8. DESCRIPTION OF EVENT
+On March 7 at 2258, an area operator detected a "clicking sound" coming from safety related Unit
+Substation 1A (1AP11 E). The sound was determined to be emanating from relay 427X2-41A (X2
+relay) which was cycling every ten (1 O) seconds. The model of this component is an Agastat Time
+Delay Relay (TOR) that provides the signal to reset the Load Shed and Resequencing circuit for
+Div. 1 Emergency Diesel Generator (EOG) Room Vent fan 1V D01 CA. Div. 1 EOG was declared
+inoperable on March 9 when it was determined that 1V D01 CA was unable to respond to a demand
+signal.
+An event investigation determined that relay 427X3-41 A (X3 relay) in the undervoltage circuitry for
+1AP11 E was not operating as expected, causing the cycling of the X2 relay. The effect of this
+condition was that (1) the associated Fan 1VD01CA would be unable to start automatically or
+manually when required, and (2) the ability of the Div. 1 fan to properly sequence following
+restoration from a bus undervoltage condition was impacted. During an assessment of relay
+replacement history, it was established that the X3 relay which was originally an ITE Gould J13
+relay had been replaced with a General Electric CR120B relay in 2008. The replacement X3 relay
+combined with the installed X2 relay satisfactorily passed post maintenance testing in 2008
+(including undervoltage functional testing) and also passed integrated surveillance testing in 2009.
+A "like-for-like" replacement of the X2 relay was performed in 2011 and passed integrated
+surveillance testing in 2011 and 2013. The investigation determined, however, that the combined
+operating characteristics of the X3 and X2 relays was adversely impacted by a second "like-for-like"
+replacement of the X2 relay in May 2016. Through an error in work order planning, no testing was
+specified for this "like-for-like" replacement. However, the impact on the operating characteristics of
+the electrical circuit for this X2 replacement would not have been detected by the procedurally
+required post maintenance testing. Due to the successful integrated testing since 2008, variations
+in the dropout voltage and associated impacts of the relays used in this circuit had not been
+previously recognized.
+NRC FORM 366A (04-2018) Page _2_ of _±_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA)
+Regulatory Commission, Washington; DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Clinton Power Station 05000461
+2017 - 002 - 02
+NARRATIVE
+The combination of replacement of the X3 (ITE Gould J13) relays with CR120B relays in 2008 and
+the perceived "like-for-like" replacement of the Agastat X2 relay in May 2016 established a relay
+coordination condition where the required relay sequence of operation was adversely affected due
+to variations in the manufacturer's electrical characteristics of the relays supplied for the electrical
+circuit.
+Following the replacement of the CR1208 relay with the original ITE Gould J13 relay design and
+successful undervoltage testing, the Div. 1 EOG was restored to OPERABLE status.
+C. CAUSE OF EVENT
+The cause of the event was that the original design of the EOG ventilation fan relay logic relied on
+executing parallel sequencing logic to perform the control function, which was vulnerable to
+differences in relay model drop out voltages. As the critical characteristics of the fan logic were not
+clearly documented or known, it was assumed by the procurement engineer that differences in relay
+drop out voltages were not material to the design function.
+D. SAFETY ANALYSIS
+There were no actual safety consequences associated with the event described in this report since
+offsite power remained available during the event and no other events occurred necessitating ECCS
+actuation. Plant systems necessary to conduct a safe and orderly shutdown remained available during
+this event. The Division 2 EOG, although inoperable intermittently to perform required surveillance
+testing would have been able to be restored expeditiously in the event of an accident in conjunction
+with a loss of offsite power.
+The event is reportable in accordance with 1O CFR 50.73(a)(2)(i)(B) as a condition which was
+prohibited by the plant's Technical Specifications. This event is also reportable in accordance with 1O
+CFR 50.73(a)(2)(ii)(B) as a condition that resulted in the plant being in an unanalyzed condition that
+significantly degraded plant safety. Additionally, a review of plant logs identified occurrences when the
+Div. 2 EOG was made inoperable to support surveillance testing during this time period. As a result,
+this event is also reportable as a loss of safety function per 10 CFR 50.73 (a)(2)(v)(D) which is
+considered a safety system functional failure.
+E. CORRECTIVE ACTIONS
+The corrective actions taken include replacing the existing CR120B relay with an original ITE Gould
+J 13 relay design and successfully performing the undervoltage test. A circuit modification has been
+completed to eliminate the vulnerability to the lower dropout voltage settings expected from use of
+the CR1208 relays. A procurement engineering standard has been developed to address complex
+, relay logic schemes and what critical characteristics should be selected for evaluation when
+performing a safety basis, a commercial grade dedication, and/or item equivalency evaluation for
+complex circuits involving relay coordination.
+NRG FORM 366A (04-2018) Page _3_ of _±_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (i..ER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+.... CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+,,, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station 05000461 NUMBER NO.
+2017 002 02
+NARRATIVE
+F. PREVIOUS SIMILAR OCCURENCES
+No previous occurrences involving similar circuits and relay interactions have been identified.
+G. COMPONENT FAILURE DATA
+No CPS component failures associated with this event were identified.
+NRG FORM 366A (04-2018) Page _4_ of _.1..._

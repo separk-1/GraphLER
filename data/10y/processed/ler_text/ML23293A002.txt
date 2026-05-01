@@ -1,0 +1,202 @@
+PSEG Nuclear LLC
+P,O, Box 236, Hancocks Brid9e, New Jersey 08038,0236
+10 CFR 50.73
+LR-N23-0067
+October 20, 2023
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington DC 20555-001
+Hope Creek Generating Station
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Licensee Event Report 2023-002-00
+Shutdown Margin Less Than Expected Resulting in a Condition Prohibited
+by Technical Specifications
+In accordance with 10 CFR 50.73(a)(2)(i)(B), PSEG Nuclear LLC is submitting Licensee
+Event Report (LER) number 2023-002-00.
+There are no regulatory commitments contained in this letter.
+If you have any questions or require additional information, please contact Mr. Harry
+Balian at (856) 339-2173.
+Sincerely,
+Thomas R. Agster
+Plant Manager
+Hope Creek Generating Station
+Attachment: Licensee Event Report 2023-002-00
+October 20, 2023 10 CFR 50.73
+Page 2
+LR-N23-0067
+cc: USNRC Regional Administrator – Region 1
+USNRC NRR Project Manager – Hope Creek
+USNRC Senior Resident Inspector – Hope Creek
+NJ Department of Environmental Protection, Bureau of Nuclear Engineering
+President & Chief Nuclear Officer, PSEG Nuclear
+Site Vice President, Hope Creek
+Plant Manager, Hope Creek
+Vice President, PSEG Nuclear Engineering
+Executive Director Regulatory Affairs & Nuclear Oversight
+Director Site Regulatory Compliance
+Manager, Nuclear Oversight
+Corporate Commitment Coordinator, PSEG Nuclear
+Records Management (Record Type 3E.111)
+-.
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons learned
+; . . .. s LICENSEE EVENT REPORT (LER) a th r e e in F c O o I r A p , o r L a i t b e r d a r i y n , t o a t n h d e l I ic n e fo n r s m in a g ti o p n ro c C e o s l s le a c n tio d n f s e d B b r a a c n k c h to ( i T nd -6 u s A tr 1 y. 0 M Se ), n d U c . o S m . m N en u t c s l e r a e r g a R rd e i g n u g l a b t u o r r d y e n C o e m sti m m i a ss te io t n o ,
+\ ..... .,; (See Page 2 for required number of digits/characters for each block) Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office
+--~.,, ., ,..cF of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name [i ] 050 2. Docket Number 3. Page
+Hope Creek Generating Station
+00354
+1 OF 3
+□ 052
+4. Title
+Shutdown Margin Less than Expected Resulting in a Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. □ 050
+05 04 2023 2023 - 002 - 00 10 20 2023 Facility Name Docket Number
+□ 052
+9. Operating Mode I1 0. Power Level
+2 – Start-up 0%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(g)
+□ 20.2203(a)(2)(iv) □✔ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Harry Balian (856) - 339 - 2173
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D AA ROD W351 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□✔ No □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 4, 2023, during reactor start-up following a maintenance outage, nuclear instrumentation readings (Source Range
+Monitor (SRM)) were observed to be rapidly rising during withdrawal of a control rod blade (CRB). The Reactor Operator was
+directed to re-insert the CRB. Nuclear instrumentation readings stabilized and began to lower when the CRB was re-inserted.
+The Operating Crew subsequently performed a reactor shutdown by fully inserting all CRBs.
+The start-up was re-commenced on May 5, 2023 with an adjusted start-up sequence. The start-up was successfully
+completed with normal responses from nuclear instrumentation. Subsequent collection of data determined that there had
+been a loss of reactivity worth in two CRBs.
+On August 21, 2023, Hope Creek Generating Station received the results of a Shutdown Margin (SDM) Analysis performed by
+Global Nuclear Fuel (GNF). The analysis determined that with the reduced reactivity worth of the two CRBs, the calculated
+SDM for the current fuel cycle was lower than expected, and less than required by Technical Specification 3.1.1, Shutdown
+Margin, during the early portion of the fuel cycle. This condition is reportable under 10 CFR 50.73(a)(2)(i)(B).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+a person is not required to respond to, a collection of information unless the document requesting or requiring
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3.LER NUMBER
+Hope Creek Generating Station X 050 SEQUENTIAL REV
+YEAR NUMBER NO.
+00354
+2023 - 002 - 00
+052
+NARRATIVE
+IDENTIFICATION OF OCCURRENCE
+Event Date: May 4, 2023
+Discovery Date: August 21, 2023
+CONDITIONS PRIOR TO OCCURRENCE
+At the time of the unexpected increase in SRM readings, May 4, 2023, Hope Creek was in Operational Condition (OPCON) 2,
+Start-up, 0 percent power, with the reactor subcritical. No other structures, systems or components that could have
+contributed to the event were inoperable at the time of the event.
+When the analysis from Global Nuclear Fuel (GNF) was accepted, August 21, 2023, Hope Creek was in OPCON 1, Power
+Operation, at 100 percent rated thermal power.
+DESCRIPTION OF OCCURRENCE
+During reactor start-up following a maintenance outage, nuclear instrumentation readings (Source Range Monitor (SRM)) were
+observed by the Reactor Operator to be rapidly rising during continuous withdrawal of a CRB. The Reactor Operator was
+directed to re-insert the CRB. Nuclear instrumentation readings stabilized and began to lower when the CRB was re-inserted.
+The Operating Crew subsequently performed a reactor shutdown by fully inserting all CRBs.
+An initial investigation did not reveal any errors in sequence development, Estimated Critical Positions (ECP), or CRB reactivity
+worth calculations. These items were independently checked by the fuel vendor. However, the start-up sequence was revised
+and a second start-up proceeded without any issue.
+Evaluation of Local Power Range Monitor (LPRM) responses and Traversing Incore Probe (TIP) data later determined that
+there was a loss of reactivity worth in two CRBs. Initially four CRBs were inserted to ensure shutdown margin requirements
+were met. After a calculation performed by GNF, three of the CRBs were withdrawn, leaving one inserted.
+GNF was engaged to perform a Shutdown Margin (SDM) analysis of the Cycle 25 reactor core. The analysis concluded that
+the minimum SDM at Beginning of Cycle (BOC) 25 was below the Technical Specification limit of 0.38% delta k/k. Cycle 25
+began on October 28, 2022 with reactor start-up from refuel outage R24. This condition existed until core average exposure
+reached approximately 500 Megawatt-Days per Short Ton (MWD/ST) on November 21, 2022. At that time, the SDM was
+determined to have been greater than 0.38% delta k/k and therefore compliance with Technical Specifications was restored.
+CAUSE OF EVENT
+A Root Cause Evaluation (RCE) was conducted. The Direct Cause of the event was determined to be a reduction of boron-10
+in two (2) CRBs, reducing the reactivity worth of these two CRBs. The Root Cause was determined to be that established
+procedural and administrative criteria for CRB management was ineffective at identifying mechanical end of life.
+As part of the Extent of Condition review, PSEG identified indications of reduced reactivity worth for two CRBs discharged
+during the last refueling outage, R24. This was documented in the Corrective Action Program. Visual inspection of the two
+CRBs was completed and assessment is on-going as part of the Corrective Actions for this event.
+NRC FORM 366A (10-01-2023) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+a person is not required to respond to, a collection of information unless the document requesting or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requiring the collection displays a currently valid OMB control number.
+3. FACILITY NAME 4. DOCKET NUMBER 3.LER NUMBER
+Hope Creek Generating Station X 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+00354
+052 2023 002 00
+NARRATIVE
+SAFETY CONSEQUENCES AND IMPLICATIONS
+Shutdown Margin (SDM) is defined in Hope Creek Technical Specifications (HCTS) as the amount of reactivity by which the
+reactor is subcritical or would be subcritical throughout the cycle assuming that:
+a.The reactor is xenon free;
+b.The moderator temperature is greater than or equal to 68 degrees F, corresponding to the most reactive state; and
+c.All CRBs are fully inserted except for the single CRB of highest reactivity worth, which is assumed to be fully withdrawn.
+With CRBs not capable of being fully inserted, the reactivity worth of these CRBs must be accounted for in the determination
+of SDM.
+HCTS 3.1.1 requires that the SDM be equal to or greater than 0.38% delta k/k with the highest worth CRB analytically
+determined. The GNF analysis determined that the actual SDM due to the reduction in boron concentration in the two CRBs
+was less than required. The Technical Specification minimum SDM was restored when the core average exposure reached
+500 Megawatt-Days per Standard Ton (MWD/ST) on November 21, 2022, approximately 24 days into the fuel cycle. At that
+time, the SDM was above 0.38% delta k/k.
+Although the SDM was determined to be less than required by HCTS, it was calculated as positive (greater than zero)
+throughout the period of non-compliance. While there is inherent uncertainty in SDM calculations, a positive value for SDM
+indicates that the reactor would have been able to be shutdown under all operating conditions, including transients and
+postulated accidents, during the time of non-compliance. A Technical Evaluation was performed to assess the conditions that
+existed during the first part of fuel cycle 25 and determined that conditions were sufficient to ensure the reactor could have
+been shutdown.
+On April 30, 2023, a reactor shutdown was conducted in order to perform maintenance activities. During that shutdown all
+CRBs fully inserted demonstrating the capability to insert all CRBs during the affected period of time.
+Based on the analysis conducted by GNF and the Technical Evaluation performed by the station, there were no Safety
+Consequences as a result of the condition.
+PREVIOUS EVENTS
+A review of Hope Creek LERs for the past three years was conducted. No previous LERs for Shutdown Margin were
+identified during that period.
+CORRECTIVE ACTIONS
+1. The affected CRBs will be replaced during the next refueling outage.
+2. Visual inspection of the affected CRBs will be performed.
+3. Extent of condition testing was performed on similar CRBs.
+4. The associated procedures will be revised to include appropriate end of life criteria based on internal and external OE for
+CRBs currently installed at Hope Creek.
+5. A recurring task will be created to perform visual inspection of this model of CRB to confirm no indications of cracking and
+verify that appropriate criteria have been developed.
+COMMITMENTS
+There are no regulatory commitments contained in this LER.
+NRC FORM 366A (10-01-2023) Page 3 of 3

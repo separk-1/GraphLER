@@ -1,0 +1,246 @@
+1
+Clinton Power Station
+8401 Power Road Exelon Generation®
+Clinton, IL 61727
+U-604434
+10 CFR 50.73
+July 16, 2018
+SRRS 5A.108
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2018-002-00
+Enclosed is Licensee Event Report (LER) 2018-002-00: Division 2 Diesel Generator
+lnoperability Due to Air Receiver Remaining Isolated Following Clearance Removal Resulting in
+Unplanned Shutdown Risk Change. This report is being submitted in accordance with the
+requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+~=
+Respectfully~,--
+~.$"'---)
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/lam
+Attachment: License Event Report 2018-002-00
+cc: Regional Administrator - Region Ill
+NRC Senior Resident Inspector- Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+U-604434
+SUBJECT: Licensee Event Report 2018-002-00
+bee:
+NRG Project Manager, NRR - Clinton Power Station
+Director - Licensing, Clinton Power Station Cantera
+Manager - Licensing, Clinton Power Station Cantera
+Exelon Document Control Desk Licensing
+T. R. Stoner
+B. T. Kapellas
+H.J. Weissinger
+D. Shelton
+T. Krawcyk
+R. Champley
+T. Dean
+W. Marsh
+R. Bair
+J. Cunningham
+K. Pointer
+G. Sanders
+Maintenance Rule Coordinator, V-130E
+Plant Fatigue Coordinator, V-130E
+ICES Coordinator, V-130E
+Simulator Coordinator, V-922
+TREQ Coordinator, V-922
+B. Golladay
+Licensing Vault Copy (SRRS SA.108)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~,,~"R""''-<>o LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+R ~ (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+... 3 to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+\ ! Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form .Washington, DC20503. If a means used to impose an information collection does not
+~,, .......... ~o"-' http://www.nrc.gov/reading-rm/doc-co11ections/nuregs/staff/sr1022/r3/) display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. Title
+Division 2 Diesel Generator lnoperability Due to Air Receiver Remaining Isolated Following Clearance Removal
+Resulting in Unplanned Shutdown Risk Change
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I
+Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 05000
+Facility Name Docket Number
+05 17 2018 2018 - 002 - 00 07 16 18 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.22os(a)(s)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+4
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(iil D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) so.3s(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(s)
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+D D D
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) [gj 50. 73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+j D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact !Telephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+t~;
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+It:
+'';/:~
+,'>"·
+~
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) [gl No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On May 17, 2018, at 1503 CDT, with the plant in Mode 4 during refueling outage C1R18, a plant equipment operator
+discovered that the Division (Div) 2 Emergency Diesel Generator (DG) air start receiver isolation valves 1DG160 and
+1DG161 were shut. At the time of discovery, the Div. 1 DG was inoperable for a 4160V 1A 1 partial bus outage. With the
+Div. 2 air start receiver valves shut, the Div. 2 DG was declared inoperable. Operations entered Technical Specification
+(TS) Limiting Condition for Operation (LCO) Required Actions for TS 3.8.2, "AC Sources-Shutdown," and TS 3.5.2,
+"Reactor Pressure Vessel (RPV) Water Inventory Control" as a result of the inoperability of the onsite AC power sources
+to isolation valves being credited to limit RPV drain time. The Div. 2 DG air receivers were realigned at 1545 CDT and
+the auto start function was restored. At 2104 CDT, the Div. 2 DG was declared operable following completion of the
+return to service checklist procedure. The cause of the event is that Operations relied solely on log entries to track
+component configuration, contrary to Exelon governance. Corrective measures include eliminating procedures that
+allowed tracking equipment configuration with log entries and reinforcing approved tracking methods with Operators.
+This event is reportable under the provisions of 10 CFR 50.73(a)(2)(v)(D), as "any event or condition that at the time of
+discovery could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate
+the consequences of an accident" and 10 CFR 50.73(a)(2)(i)(B) as "any operation or condition prohibited by Technical
+Specifications."
+NRC FORM 366 (04-2018)
+NRC FORM 366A, U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the lnfonnation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the infonnation collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 002 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Division 2 Diesel Generator lnoperability Due to Air Receiver Remaining Isolated Following Clearance
+Removal Resulting in Unplanned Shutdown Risk Change
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: May 17, 2018 Event Time: 1503
+Mode: 4 Mode Name: Power Operation Reactor Power: 000 percent
+B. Description of Event
+On May 17, 2018 at 1503 CDT with the plant in Mode 4 in refueling outage C1R18, an Equipment
+Operator (EO) identified that both the Division 2 Emergency Diesel Generator (EOG) [DG] air receiver
+outlet valves were closed while pertorming rounds in the Division 2 EOG room. With the valves shut,
+the Division 2 EOG could not have automatically started if required and, therefore, was inoperable. At
+the time of the discovery, Division 1 EOG was inoperable as a result of a Division 1 4160V 1A 1 partial
+bus outage.
+Following notification by the EO, Operations entered Technical Specification (TS) Limiting Condition for
+Operations (LCO) 3.8.2, "AC Sources-Shutdown," Actions B.1, B.2, and 8.3 due to the inoperability of
+both Division 1 and Division 2 EDGs. In addition, LCO 3.5.2, "Reactor Pressure Vessel (RPV) Water
+Inventory Control," Required Actions A.1, C.1 and C.2 were entered as a result of the inoperability of
+onsite AC power sources to isolation valves being credited to limit RPV drain down time. At 1545 CDT,
+Operations completed placing the Division 2 EOG air start system in standby and restored the EDG's
+auto start function. At 2104 CDT, following the completion of a return to service checklist procedure
+and field and panel walkdowns, the Division 2 EOG was declared operable and associated LCO
+Actions were exited.
+A non-emergency eight-hour notification was submitted in accordance with 1O CFR 50.72(b){3)(v), as a
+condition that alone could have prevent fulfilment of the onsite AC power function.
+NRG FORM 366A (04-2018) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+~·'.""' lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+l! ~ LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+~ ..... .~,,~ CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, ·and to
+., ~ the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 002 - 00
+NARRATIVE
+An investigation determined that the air start isolation valves remained closed as directed during
+clearance order removal on May 9, 2018. The required procedures to restore the Division 2 EOG to
+standby were tracked in Operator logs. Subsequent turnover gaps resulted in the log entry being closed
+prior to restoring the EOG to standby. As a result, the Division 2 EOG was inappropriately declared
+operable at 0800 on May 12, 2018. The Division 1 EOG was made inoperable to support scheduled
+work at 0030 on May 14, 2018, requiring the Division 2 EOG to be operable per TS 3.8.2.
+The Division 2 EOG was also being credited as the onsite power supply to isolate Residual Heat
+Removal isolation values to control RPV water level per TS 3.5.2.
+C. Cause of the Event
+The cause of this event was determined to be Operations relied on log entries to track the Division 2
+EOG component configuration, contrary to Exelon governance. Inadequate procedure use and
+adherence by Operations personnel and inadequate turnover were identified as contributing causes.
+D. Safety Consequences
+This event resulted in an unplanned change in shutdown plant risk. The plant was in Mode 4 and
+nearing the end of its scheduled refueling outage. There were no actual safety consequences
+associated with the condition described in this report since offsite power remained operable during the
+time the condition existed. There was no impact to the health and safety of the public or plant
+personnel. Multiple methods existed to restore onsite power and to establish RPV makeup.
+This condition is reportable under the provisions of 1O CFR 50.73(a)(2)(v)(D) as, "any event or condition
+that at the time of discovery could have prevented the fulfillment of the safety function of structures or
+systems that are needed to mitigate the consequences of an accident," and
+1O CFR 50.73(a)(2)(i)(B) as, "any operation or condition prohibited by Technical Specifications."
+E. Corrective Actions
+The following corrective measures were established:
+• Plant specific procedures were revised to eliminate the allowance to track plant configuration
+using log entries.
+• Approved methods for tracking plant status control were reinforced with Operators.
+• Training was conducted with Operators on procedure use and adherence related to partial
+procedure performance.
+• Operator rounds points for EDGs were revised.
+NRG FORM 366A (04-2018) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collec!ions/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+'SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 002 00
+NARRATIVE
+F. Previous Similar Occurrences
+There were no previous events identified associated with components left out of the required position.
+G. Component Failure Data
+None.
+NRG FORM 366A (04-2018) Page _4_ of _4_

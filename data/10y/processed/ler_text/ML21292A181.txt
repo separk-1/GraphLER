@@ -1,0 +1,322 @@
+Sequoyah Nuclear Plant, Post Office Box 2000, Soddy Daisy, Tennessee 37384
+October 19, 2021
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report 50-327 and 50-328/2021-003-00, Exceeded Breach
+Margin Renders Both Trains of the Auxiliary Building Gas Treatment System
+Inoperable
+The enclosed licensee event report provides details concerning a breached door associated
+with the auxiliary building secondary containment enclosure boundary that resulted in both
+trains of the Auxiliary Building Gas Treatment System being declared inoperable. This report is
+being submitted in accordance with 10 CFR 50.73(a)(2)(i)(B), as any operation or condition
+which was prohibited by the plant’s Technical Specifications and in accordance with
+10 CFR 50.73(a)(2)(v), as an event or condition that could have prevented the fulfillment of a
+safety function of structures or systems that are needed to: (C) control the release of
+radioactive material and (D) mitigate the consequences of an accident.
+There are no regulatory commitments contained in this letter. Should you have any questions
+concerning this submittal, please contact Mr. Jeffrey Sowa, Site Licensing Manager, at
+(423) 843-8129.
+Respectfully,
+Thomas Marshall
+Site Vice President
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2021-003-00
+cc: NRC Regional Administrator – Region II
+NRC Senior Resident Inspector – Sequoyah Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections Branch
+(T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and
+Regulatory Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+conduct or sponsor, and a person is not required to respond to, a collection of information unless
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+the document requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. Title
+Exceeded Breach Margin Renders Both Trains of the Auxiliary Building Gas Treatment System Inoperable
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year Sequoyah Nuclear Plant Unit 2
+Number No. 05000328
+Facility Name Docket Number
+08 20 2021 2021 - 003 - 00 10 19 2021
+NA 05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Jeffrey Sowa 423.843.8129
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+N/A N/A N/A
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 20, 2021, at 0905 eastern daylight time main control room operators were notified that auxiliary building
+secondary containment enclosure (ABSCE) boundary Door A118 was open. This was discovered by Fix-it-now
+personnel that were in the process of establishing compensatory measures associated with an active breach permit
+for Door A118. A past operability evaluation determined that ABSCE Door A118 had been left open without
+compensatory measures in place on four occasions between August 18 and August 20, 2021. The open door
+created a breach of the ABSCE boundary that exceeded the allowed breach margin and rendered both trains of the
+Auxiliary Building Gas Treatment System (ABGTS) inoperable. Additionally, the POE determined that due to the
+unknown inoperability of the ABGTS, the requirements of Limiting Condition for Operation 3.7.12 Condition E were
+not met.
+The cause of the event was miscommunication between the Work Control Center Senior Reactor Operator and
+Maintenance Services personnel on the requirements of the ABSCE breaching procedure, related to the work being
+performed, resulting in a breach permit not being issued when required. Corrective actions included revising the
+ABSCE breaching procedure to clarify exception requirements and require a breach permit if an ABSCE door will
+be left open greater than the allowable time and briefings with Operations personnel concerning the requirements of
+the ABSCE breaching procedure.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2021 - 003 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Units 1 and 2 were in Mode 1 at 100 percent
+rated thermal power.
+II. Description of Event
+A. Event Summary:
+On August 20, 2021, at 0905 eastern daylight time (EDT), main control room (MCR) operators
+were notified that auxiliary building [EIIS: NF] secondary containment enclosure (ABSCE)
+boundary Door [EIIS: DR] A118 was open. This was discovered by Fix-it-now (FIN) personnel
+that were in the process of establishing compensatory measures associated with an active
+breach permit for Door A118. The arrival of FIN personnel, with a breach permit and
+appropriate compensatory actions to close the door as required, allowed operators to
+determine the ABSCE was operable at the time of discovery.
+Investigation revealed Maintenance Services personnel had been taking equipment through
+the door as part of ongoing work associated with a glycol chiller replacement project. The work
+order had instructions to obtain an ABSCE breach permit; however, when Maintenance
+Services personnel reported to the Work Control Center (WCC) to obtain the permit, the WCC
+senior reactor operator (SRO) incorrectly determined an ABSCE breach permit was not
+required. As a result, ABSCE Door A118 was left open without a breach permit and required
+compensatory measures until FIN personnel discovered the issue at 0905.
+A past operability evaluation (POE) determined that ABSCE Door A118 had been left open
+without compensatory measures in place on four occasions between August 18 and
+August 20, 2021 (the longest period the door was open without compensatory measures in
+place was approximately 21 minutes). The open door created a breach of the ABSCE
+boundary that exceeded the allowed breach margin. The four occasions should have caused
+entry into Technical Specification (TS) Limiting Condition for Operation (LCO) 3.7.12,
+Condition B for two trains of the Auxiliary Building Gas Treatment System (ABGTS) [EIIS: VF]
+inoperable due to an inoperable ABSCE boundary in Mode 1, 2, 3, or 4 and Condition E for a
+required train of ABGTS inoperable with fuel stored in the spent fuel pool. The inoperability of
+two trains of the ABGTS during the required mode of applicability constitutes an event or
+condition that could have prevented fulfillment of a safety function of structures or systems that
+are needed to: (C) control the release of radioactive material and (D) mitigate the
+consequences of an accident. This LER documents the reportable event under 10 CFR
+50.73(a)(2)(v)(C) and 10 CFR 50.73(a)(2)(v)(D).
+Additionally, the POE determined that due to the unknown inoperability of the ABGTS, the
+requirements of LCO 3.7.12 Condition E were not met. Condition E requires immediately
+suspending all crane operations with loads over the spent fuel pool. Contrary to this
+NRC FORM 366A (08-2020) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2021 - 003 - 00
+requirement, on three occasions loads were taken over the spent fuel pool as SQN was in the
+process of receiving new fuel. Failure to immediately suspend crane operations constitutes an
+operation or condition prohibited by TSs and is therefore being reported in accordance with
+10 CFR 50.73(a)(2)(i)(B).
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+C. Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+08/18/21, 08:10:40 Door A118 was breached to support glycol chiller replacement.
+08:20:45 Door A118 was closed.
+08/18/21, 13:08:33 Door A118 was breached to support glycol chiller replacement.
+13:21:03 Door A118 was closed.
+08/19/21, 12:53:28 Door A118 was breached to support glycol chiller replacement.
+13:09:00 Door A118 was closed.
+08/20/21, 08:43:56 Door A118 was breached to support glycol chiller replacement.
+Operators were notified that Door A118 was open when FIN
+personnel arrived at Door A118 with an active breach permit and
+09:05:00 appropriate compensatory actions to close the door as required.
+This allowed operators to determine the ABSCE was operable at the
+time of discovery.
+D. Manufacturer and model number of each component that failed during the event:
+There was no component that failed during the event.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+Operators were notified that Door A118 was open by FIN personnel.
+NRC FORM 366A (08-2020) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2021 - 003 - 00
+G. Failure mode, mechanism, and effect of each failed component:
+There was no component that failed during the event.
+H. Operator actions:
+Operators instructed FIN personnel to close Door A118.
+I. Automatically and manually initiated safety system responses:
+None.
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error:
+The human performance factors related to this event were procedures, communications, and
+work practices. The ABSCE breaching procedure requirements were not understood by
+Maintenance Services personnel and not properly communicated by the WCC SRO. There was
+a miscommunication concerning the scope of the work being performed and the need for a
+breach permit. The work briefing with the WCC SRO resulted in a change to the work plan that
+was not re-evaluated by stakeholders to identify its impact to the job plan.
+B. Cause(s) and circumstances for each human performance related root cause:
+The cause of the event was miscommunication between the WCC SRO and Maintenance
+Services personnel on the requirements of the ABSCE breaching procedure, related to the work
+being performed, resulting in a breach permit not being issued when required.
+Personnel involved were from the Operations and Maintenance Services groups. The Operations
+personnel were NRC licensed, TVA employees. The Maintenance Services personnel were non-
+licensed, supplemental workers. There were no schedule or situational pressures present.
+IV. Analysis of the Event:
+The ABGTS filters airborne radioactive particulates from the area of the fuel pool following a fuel
+handling accident or loss of coolant accident (LOCA). In Mode 1, 2, 3, or 4, the ABGTS is required
+to be operable to provide fission product removal associated with Emergency Core Cooling System
+leaks due to a LOCA and leakage from containment and annulus. The analysis of the fuel handling
+accident assumes that the ABSCE boundary is capable of being established to ensure the releases
+from the auxiliary and containment buildings are consistent with the dose consequence analysis, no
+credit is taken for filtration by the ABGTS.
+ABGTS is a standby system that consists of two independent and redundant trains. Each train
+consists of a heater, a prefilter, a high efficiency particulate air filter, an activated charcoal adsorber
+NRC FORM 366A (08-2020) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2021 - 003 - 00
+section for removal of gaseous activity, and a fan. The system initiates filtered ventilation of the
+auxiliary building following receipt of a high radiation signal from the fuel handling area radiation
+monitors, a high radiation signal from the train-specific Auxiliary Building exhaust vent monitor, a
+Phase A containment isolation signal from either reactor, or a high temperature signal from the
+Auxiliary Building air intakes.
+The breached door exceeded the allowed ABSCE breach margin rendering the ABSCE inoperable.
+This configuration could have prevented the ABGTS from maintaining a pressure less than or equal
+to -0.25 inches water gauge with respect to atmospheric pressure during the post accident
+mode of operation.
+V. Assessment of Safety Consequences
+There were no actual safety consequences as a result of this event. Engineering evaluation
+determined that a delay associated with closing Door A118 would not have resulted in exceeding
+10 CFR 100 dose limits. A probabilistic risk assessment determined there would be no
+measurable changes to Core Damage Frequency or Large Early Release Frequency for this
+event.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+None.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+The arrival of FIN personnel at 0905, with a breach permit and appropriate compensatory
+actions to close the door as required, allowed operators to determine the ABSCE was
+operable at the time of discovery.
+VI. Corrective Actions
+The event was entered into the Tennessee Valley Authority Corrective Action Program (CAP)
+under condition reports (CRs) 1715829 and 1716097.
+NRC FORM 366A (08-2020) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2021 - 003 - 00
+A. Immediate Corrective Actions:
+Door A118 was closed. Operations conducted a prompt investigation associated with human
+performance to identify actions that led to the event.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+Corrective actions included revising the ABSCE breaching procedure to clarify exception
+requirements and require a breach permit if an ABSCE door will be left open greater than the
+allowable time and briefings with Operations personnel concerning the requirements of the
+ABSCE breaching procedure.
+VII. Previous Similar Events at the Same Site:
+LER 327 and 328/2018-002 was submitted for an exceeded breach margin that rendered both
+trains of the ABGTS inoperable. An evaluation determined that the event was related, in part, to
+a failure to review the requirements of the ABSCE breach permit. Corrective actions included
+revising the associated work order to add a hold point to ensure the ABSCE permit is reviewed,
+understood, and adhered to prior to and during breach.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments:
+There are no commitments.
+NRC FORM 366A (08-2020) Page 6 of 6

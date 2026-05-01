@@ -1,0 +1,419 @@
+Constellation . James A. FitzPatrick NPP
+P_Q_B ox 110
+Lycoming. NY 13093
+Timothy C. Peter
+Site Vice President-JAF
+JAFP-23-0032
+June 23, 2023
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2023-003, Procedure Error in Emergency Diesel Generator Fuel Oil
+Supply "B" Subsystem
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50. 73(a)(2)(i)(B) and 10 CFR
+50. 73(a)(2)(v)(A).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Mark Hawes, Regulatory Assurance,
+at (315) 349-6659.
+Sinczc~
+LZ:Peter
+Site Vice President
+TCP/MH
+Enclosure: LER: 2023-003, Emergency Diesel Generator Fuel Oil Supply Procedure
+Error "B" Subsystem
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER)
+b
+le
+u
+a
+r
+r
+d
+n
+e
+e
+n
+d
+e
+a
+s
+r
+t
+e
+im a
+in
+t
+c
+e
+o
+t
+r
+o
+p o
+t
+r
+h
+a
+e
+t ed
+F O
+in
+I
+t
+A
+o
+,
+th
+L
+e
+ib r
+l
+a
+ic
+r
+e
+y
+n
+,
+s
+a
+i
+n
+n
+d
+g p
+In
+ro
+fo
+c
+r
+e
+m
+ss
+a ti
+a
+o
+n
+n
+d
+C
+fe
+o
+d
+ll e
+b
+c
+a
+ti
+c
+o
+k
+n s
+t o
+B
+in
+r
+d
+a
+u
+n
+s
+c
+t
+h
+ry .
+(T
+S
+-6
+e n
+A
+d
+1
+c
+0
+o
+M
+m
+)
+m
+, U
+e
+.
+n t
+S
+s
+.
+re
+N
+ga
+u
+r
+c
+d
+le
+in
+a
+g
+r
+Regulatory Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and
+(See Page 3 for required number of digits/characters for each block) the OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) t
+c
+o
+u r
+r
+r
+e
+e
+s
+n
+p
+tl
+o
+y
+n
+v
+d
+a l
+t
+i
+o
+d
+,
+O
+a
+M
+c
+B
+o ll
+c
+e
+o
+c
+n
+ti
+t
+o
+ro
+n
+l
+o
+n
+f
+u m
+inf
+b
+o
+e
+rm
+r.
+ation unless the document requesting or requiring the collection displays a
+1. Facility Name  050 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+ 052 05000333
+1 OF 4
+4. Title
+Emergency Diesel Generator Fuel Oil Supply Procedure Error “B” Subsystem
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Ye ar S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year F N ac / il A ity N ame  050 Do N ck / et A Nu mber
+Facility Name Docket Number
+04 24 2023 2023 - 003 - 00 06 23 2023 N/A  052 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.1200(a)
+ 20.2201(b)  20.2203(a)(3)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)  73.1200(b)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)  73.1200(c)
+ 20.2203(a)(1)  20.2203(a)(4)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)  73.1200(d)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73  73.1200(e)
+ 20.2203(a)(2)(ii)  21.2(c)  50.69(g)  50.73(a)(2)(v)(B)  73.77(a)(1)  73.1200(f)
+ 20.2203(a)(2)(iii)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.77(a)(2)(i)  73.1200(g)
+ 20.2203(a)(2)(iv)  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(2)(ii)  73.1200(h)
+ 20.2203(a)(2)(v)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)
+OTHER (Specify in Abstract below or in NRC Form 366A).
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Mark Hawes, Regulatory Assurance 315-349-6659
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 24, 2023, with the James A. FitzPatrick Nuclear Power Plant (JAF) at 100 percent power, Operators identified
+that the “B” Emergency Diesel Generator (EDG) subsystem fuel oil supply table in surveillance test (ST) ST-9AB
+contained incorrect information. This ST is performed to satisfy Surveillance Requirement (SR) 3.8.3.1. Due to the
+incorporate information contained in the ST, some previous SR performances for EDG fuel oil tanks 93TK-6B and 93TK-
+6D resulted in fuel quantities that should have led to surveillance testing not meeting acceptance criteria. Therefore,
+circumstances for an operation prohibited by Technical Specifications occurred, reportable in accordance with 10 CFR
+50.73(a)(2)(i)(B); and when reviewed with overlapping maintenance periods on the “A” EDG subsystem a condition that
+could have potentially prevented the fulfillment of a safety function, reportable per 10 CFR 50.73(a)(2)(v)(A), occurred.
+The cause of the event was an administrative error during the procedure revision to a new format. Once recognized,
+prompt action was taken to restore fuel oil quantities to meet surveillance test acceptance criteria. Corrective actions
+have been completed to perform a revision to the ST, completed an extent of condition on operations STs, and
+performance an engineering evaluation to determine the impact to safety function.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104),
+Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a
+currently valid OMB controlnumber.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 003 – 00
+NARRATIVE
+Background
+The Emergency Onsite Power Supply System [EIIS identifier: EK] consists of two redundant Emergency
+Diesel Generator (EDG) [DG] subsystems. Each EDG subsystem consists of two EDG units. Each EDG is
+provided with an independent Fuel Oil Storage and Transfer System [DE] consisting of a Diesel Fuel Oil
+Storage Tank (FOST), a Diesel Fuel Oil Day Tank (FODT) and two full-capacity motor-driven Fuel Oil Transfer
+Pumps. The Fuel Oil Transfer Pumps provide the capability to transfer fuel from the FOST to the FODT.
+Stored diesel fuel oil is required to have sufficient supply for 7 days of full load operation. This requirement, in
+conjunction with an ability to obtain replacement supplies within 7 days, supports the availability of EDGs
+required to shut down the reactor and to maintain it in a safe condition for an abnormal operational transient or
+a postulated Design Bases Accident with loss of power. Technical Specification (TS) Surveillance
+Requirement (SR) 3.8.3.1 verifies the capacity of the FOST. The acceptable quantity is calculated for each
+FOST and accommodates different fuel properties for American Petroleum Institute (API) gravity and tank
+geometry. SR 3.8.3.1 is performed monthly by procedure ST-9AB, EDG System B Fuel/Lube Oil Monthly Test,
+for the “B” EDG subsystem for FOST tanks 93TK-6B and 93TK-6D.
+Event Description
+On April 24, 2023, James A. FitzPatrick Nuclear Power Plant (JAF) was at 100% power, when a satisfactory
+performance of ST-9AB was reviewed by a Senior Reactor Operator (SRO) and the measured level was
+verified against the field support supervisor’s fuel ordering calculation spreadsheet, which recommended
+ordering fuel. The prompt investigation revealed the incorrect 6-day fuel oil supply table in place of the 7-day
+fuel oil supply table in ST-9AB. This procedure error affected the acceptable quantity of fuel oil in the “B” EDG
+subsystem, specifically, 93TK-6B and 93TK-6D FOST only. It was confirmed that procedure ST-9AA for the
+“A” EDG subsystem, 93TK-6A and 93TK-6C FOST, was not affected by this error and those fuel oil quantities
+met the required 7-day supply.
+Upon discovery, SR 3.8.3.1 was declared not met based on the required quantify of fuel oil being less than
+7 days but greater than 6 days; the Limited Condition for Operation (LCO) 3.8.3 was declared not met on April
+24 at 1406, a fuel delivery restored the required quantity, and the LCO was restored on April 25 at 0913.
+Event Analysis
+ST-9AB was converted to a electronic procedure with revision 9 on November 18, 2021. TS Bases 3.8.3
+specifies a 6-day and a 7-day EDG Fuel Oil Supply table; however, these two tables were swapped.
+Between November 2021 and April 2023, this procedure error was effective. A review of records identified that
+the 7-day fuel oil supply requirement of SR 3.8.3.1 was not me for the “B” EDG subsystem between June 20,
+2022 to September 12, 2022; November 7, 2022 to December 1, 2022; and March 27, 2023 to April 25, 2023.
+However, there was always a greater than 6-day supply.
+When SR 3.8.3.1 was not met, LCO 3.8.3 was not met. Action “A” states, when one or more EDGs with fuel oil
+level < a 7-day supply and > a 6-day supply in storage tank, then restore it within 48 hours. If this was not
+Page 2 of 4
+NRC FORM 366A (03-14-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104),
+Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a
+currently valid OMB controlnumber.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 003 – 00
+completed, then Condition F states to declare the associated EDG inoperable. In accordance with TS 3.8.1
+Condition B, an inoperable EDG subsystem needs to be restored within 14 days or in accordance with
+Condition F, be in Mode 3 within 12 hours. Therefore, the “B” EDG subsystem was inoperable for longer than
+allowed by TS, which is reportable as an operation prohibited by TS in accordance with 10 CFR
+50.73(a)(2)(i)(B).
+A review of the 93TK-6A and 93TK-6C FOST levels was performed for all performances of ST-9AA over the
+period of time in which the procedure error existed on ST-9AB. One instance of fuel oil not being within limits
+on the “A” EDG subsystem was identified between 4/13/2022 0822 and 4/14/2022 1425, following the 8-hour
+endurance run of the “A” EDG subsystem. During this interval, “B” EDG subsystem fuel oil was at a
+satisfactory level.
+In addition, during the periods when “B” subsystem fuel tanks fuel level did not meet SR 3.8.3.1 coincided with
+“A” EDG subsystem maintenance or testing, then both “A” and “B” EDG subsystems were inoperable. These
+circumstances are reportable in accordance with 10 CFR 50.73(a)(2)(v)(A) as a condition which could have
+prevented the fulfillment of the EDG safety function. However, it should be noted the lowest inventory recorded
+during the effected period corresponds with approximately 6 days, 18 hours of operations. At the most limiting
+bus accident load, there was no challenge to the design function of the “B” EDG subsystem for the required
+mission time. Additionally, 93TK-6A and 93TK-6C EDG FOSTs were operable for all low fuel oil inventory
+periods and procedures were in place for transferring fuel between the divisions for an extended loss of AC
+power (ELAP).
+Cause
+An error during the conversion of procedure ST-9AB to a new format led to the incorrect table with a lower fuel
+oil quantity to be included which caused invalid surveillance test performances.
+Similar Events
+No previous similar events.
+Corrective Actions
+Completed Actions
+Fuel oil was restored to a greater than 7-day minimum level.
+ST-9AB revised to correct the minimum fuel oil level tables.
+Engineering evaluation for safety function impact.
+An extent of condition review of digital procedure conversions validated all Level 1 and Level 2 Acceptance
+Criteria were accurately transferred.
+Planned Actions
+Update AP-02.01, Procedure Writing Manual, to include a quality checklist.
+Page 3 of 4
+NRC FORM 366A (03-14-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104),
+Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a
+currently valid OMB controlnumber.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 003 – 00
+Safety Significance
+Nuclear safety – There were no actual nuclear consequences. This procedure deficiency did not impact the
+ability of the EDGs to start automatically and pickup loads as designed. It is also concluded that there was
+sufficient fuel oil onsite in all four fuel oil storage tanks and that it could be transferred as needed to run all four
+EDGS for the required 7-day mission time. The calculation for a 7-day fuel supply assumes full load operation
+amongst other high standards for performance. This requirement, in conjunction with an ability to obtain
+replacement supplies within 7 days, supports the availability of EDGs required to shut down the reactor and to
+maintain it in a safe condition for an abnormal operational transient or a postulated Design Bases Accident
+with loss of power. The potential effect on nuclear safety is confined to certain periods between November
+2021 and April 2023, only for the “B” subsystem and only for postulated run times greater than 6 days. During
+this period the Offsite Power supply remained Operable.
+References
+Issue Report - IR 04672634, EDG “B” Subsystem Fuel Oil Not Within 7 Day Supply, dated April 24, 2023
+Issue Report - IR 04672886, ST-9AB Tables Inaccurate, dated April 25, 2023
+Page 4 of 4
+NRC FORM 366A (03-14-2023)

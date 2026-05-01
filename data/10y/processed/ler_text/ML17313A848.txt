@@ -1,0 +1,541 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+November 9, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1, 2, and 3
+Renewed Facility Operating License Nos. DPR-33, DPR-52, and DPR-68
+NRC Docket Nos. 50-259, 50-260, and 50-296
+Subject: Licensee Event Report 50-259/2017-004-00
+The enclosed Licensee Event Report provides details of the concurrent inoperability of
+both trains of the Unit 1 and 2 Control Bay Chillers, and the safety systems which they
+supported. The Tennessee Valley Authority is submitting this report in accordance with
+10 CFR 50. 73(a)(2)(v)(A)/(B)/(C)/(D), as any event or condition that could have
+prevented the fulfillment of the safety function of structures or systems that are needed to
+shut down the reactor and maintain it in a safe shutdown condition, remove residual heat,
+control the release of radioactive material, or mitigate the consequences of an accident.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-259/2017-004-00 - Safety System Functional
+Failures Due to the lnoperability of Both Unit 1 and 2 Control Bay Chillers
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Units 1, 2, and 3
+Licensee Event Report 50-259/2017-004-00
+Safety System Functional Failures Due to the lnoperability of Both Unit 1 and 2 Control Bay Chillers
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+! ; * "'>,.,,.-•to"<..~ t . . LICENSEE EVENT REPORT (LER) S R e e n p d o rte c d o m l m es e s n o ts n s re le g a a r r n d e in d g a b re u rd i e n n co rp e o st r i a m te a d te in to to th th e e In lic fo e r n m s a in t g io n pr S oc e e rv s i s c es a nd B ra fe n d c h ba (T c - k 2 to F 43 in ) d , us U t . r S y. .
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+~""······'
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF10
+4. TITLE
+Safety System Functional Failures Due to the lnoperability of Both Unit 1 and 2 Control Bay Chillers
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR · Browns Ferry Nuclear, Unit 2
+NUMBER NO. 05000260
+FACILITY NAME DOCKET NUMBER
+09 10 2017 2017 - 004 - 00 11 09 2017
+Browns Ferrv Nuclear Unit 3 05000296
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §:'Check all that apply)
+D 20.2201 (b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A)
+1 D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50. 73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) 1:81 50. 73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) 1:81 50.73(a)(2)(v)(B) D 73.71(a)(5)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) 1:81 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) 1:81 50.7 3(a)(2)(v)(D) D 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMBER (Include Area Code)
+Ryan Coons, Licensing Engineer 56-729-2070
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TOEPIX
+B KM TE TR04 y B KM CAP N990 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) ~NO SUBMISSION N/A N/A N/A
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 9, 2017, at 1520 Central Daylight Time (CDT), Operations personnel declared Unit 1/2 Control
+Bay (CB) Chiller (CHLR) A inoperable after observing that its outlet water temperature exceeded its specified
+limits. On September 10, 2017, at 1151 CDT, the Unit 1/ 2 CB CHLR B was declared inoperable after failing to
+start and providing a flashing error code to an operator in the field. The concurrent inoperability of both Unit 1/ 2
+CB CHLRs required Browns Ferry Nuclear Plant (BFN) to declare the immediate inoperability of the electrical
+equipment in the affected electric board rooms, including all four Unit 1/ 2 4160 V Shutdown Boards, resulting in
+a Safety System Functional Failure, and entry into Technical Specifications (TS) Limiting Conditions for
+Operation (LCO) 3.0.3 for BFN, Units 1, 2, and 3. On September 10, 2017, at 2110 CDT, the Unit 1/2 CB CHLR
+B was restored to operable status following a capacitor replacement, and LCO 3.0.3 was exited.
+The Unit 1/2 CB CHLR A failure was caused by a thermistor failure, likely due to a break in the cable system.
+The Unit 1/2 CB CHLR B failure was due to a capacitor failing to hold its charge. Corrective actions include
+changing the preventive maintenance frequency interval for CB CHLR capacitor replacement from 10 years to 4
+years. In addition, the concurrent Unit 1/2 CB CHLR failures were caused by a design which lacked defense-in-
+depth, where removing one Unit 1/2 CB CHLR from service for unplanned corrective maintenance created a
+single-point failure risk. A design change has been proposed to install a cross-tie between the Unit 3 Chillers
+and the Unit 1/2 Chillers to provide cooling in the event that Unit 1/2 CB CHLR A and B were to both become
+inoperable.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 -004 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Units 1, 2, and 3, were in Mode 1 at 100
+percent power.
+II. Description of Event
+A. Event Summary
+On September 9, 2017, at 1520 Central Daylight Time (CDT), Operations personnel observed that
+the outlet water temperature on Unit 1/2 Control Bay (CB) Chiller (CHLR) [CHU] A exceeded its
+specified limits. Unit 1/ 2 CB CHLR A was then declared inoperable for troubleshooting on
+September 9, 2017. The inoperability of Unit 1/2 CB CHLR A required BFN, Units 1 and 2, to enter
+Technical Specification (TS) Limiting Condition for Operation (LCO) 3.7.4, Control Room Air
+Conditioning (AC) System, Condition A.
+On September 10, 2017, at 1151 CDT, Unit 1/2 CB CHLR B failed to start, and an operator in the
+field noted a flashing error code. Operations personnel noted that the A Compressor on Unit 1/ 2
+CB CHLR B was not running, and was not warm to the touch. Operations personnel declared Unit
+1/ 2 CB CHLR B inoperable at this time.
+The concurrent inoperability of both Unit 1/2 CB CHLRs required Browns Ferry Nuclear Plant (BFN)
+to declare the immediate inoperability of the electrical equipment in the affected electric board
+rooms, including all four Unit 1/2 4160 V (4kV) Shutdown Boards (SD BDs) [ECBD]. This resulted in
+multiple TS LCO and Technical Requirements Manual (TRM) LCO entries and a Safety System
+Functional Failure for safety systems on all three Units.
+The concurrent inoperability of Unit 1/2 CB CHLRs A and B also required BFN, Units 1 and 2, to
+enter TRM LCO 3.7.6, Electric Board Room Air Conditioning (AC) System, Condition B. This LCO
+requires the unit, with two Unit 1/2 electric board room AC subsystems inoperable, to declare the
+electrical equipment in the electric board rooms inoperable immediately.
+In particular, this event resulted in the loss of two trains of Standby Gas Treatment (SGT) [BH],
+which required entry into TS LCO 3.0.3 for BFN, Units 1, 2, and 3. As a result of the unplanned entry
+into TS LCO 3.0.3, all three BFN Units were required to be in Mode 2 by 2151 CDT on September
+10, 2017. The NRC Headquarters Office granted BFN an Enforcement Discretion from complying
+with TS LCO 3.0.3, Condition A, which extended the time to shutdown by 12 hours and 9 minutes,
+such that all three Units were now required to either exit TS LCO 3.0.3 or be in Mode 2 by 1000
+CDT on September 11, 2017.
+On September 10, 2017 at 1945 CDT, the Tennessee Valley Authority (TVA) submitted an 8-hour
+event notification (EN) to the NRC in accordance with 10 CFR 50.72(b)(3)(v)(A)/(B)/(C)/(D), as any
+event or condition that could have prevented the fulfillment of the safety function of structures or
+NRC FORM 366A (04-2017) Page 2of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+•.., ,,-·-... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+\ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+·~ comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\ ...../ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 - 004 - 00
+systems that are needed to shut down the reactor and maintain it in a safe shutdown condition,
+remove residual heat, control the release of radioactive material, or mitigate the consequences of
+an accident.
+On September 10, 2017, at 2110 CDT, Unit 1/2 CB CHLR B was declared operable, and BFN, Units
+1, 2, and 3 exited all applicable TS LCOs and the Notice of Enforcement Discretion (NOED).
+Unit 1/2 CB CHLR A was declared operable on September 13, 2017 at 1445 CDT following the
+completion of repairs and post-maintenance testing.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+At the start of this event, Unit 1/2 CB CHLR A was inoperable for unplanned corrective maintenance
+due to a failed thermistor. This resulted in the concurrent inoperability of Unit 1/2 CB CHLR A and B.
+C. Dates and approximate times of occurrences
+Dates and Times Occurrence
+September 9, 2017 The Control Bay Auxiliary Unit Operator (AUO) noted Unit 1/2 CB
+at 1520 CDT CHLR A alarms for "Chiller A Trouble" and "Chilled Water High
+Temp". An additional AUO also reported a flashing error code.
+Operations personnel declared CB CHLR A inoperable, and Units 1
+and 2 entered TS LCO 3. 7.4, Condition A. The chiller remained in
+service pending troubleshooting.
+September 9, 2017 The CB CHLR system engineer notified Operations personnel that
+at 1715 CDT the B circuit for the Unit 1/2 CB CHLR A failed, potentially due to a
+failed thermistor [TE]. The Unit 1/2CB CHLR A continued running at
+half load.
+September 10, 2017 Operations personnel alternated the Unit 1/2 CB CHLRs from A to B,
+at 1130 CDT in accordance with the applicable operating instruction.
+September 10, 2017 Unit 1/2 CB CHLR B was declared inoperable after an operator
+at 1151 CDT ·noticed it gave a flashing error code on its A Compressor, which did
+not appear to be running and was not warm to the touch. Since
+Unit 1/2 CB CHLR A was also inoperable, and TS LCO 3.7.4
+Condition A was previously entered on Unit 1/2 for this condition,
+Operations personnel entered all applicable TRM LCO and TS LCOs
+at this time
+NRC FORM 366A (04-2017) Page 3of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 -004 - 00
+Dates and Times Occurrence
+September 10, 2017 NRC Headquarters Office granted BFN Enforcement Discretion from
+at 1746 CDT complying with the TS LCO 3.8. 7 required action to enter
+TS LCO 3.0.3 Condition A, which would have required all Units to be
+in Mode 2 by 2151 CDT on September 10, 2017. The Enforcement
+Discretion extended this time by 12 hours and 9 minutes, such that
+all three Units were now required to either exit TS 3.0.3 or be in
+Mode 2 by 1000 CDT on September 11, 2017.
+September 10, 2017 Operations personnel issued an 8-hour EN 52959 to the NRC.
+at 1945 CDT
+September 10, 2017 Unit 1/ 2 CB CHLR B was declared operable after being placed back
+at 2110 CDT in service with one new capacitor [CAP] and one degraded
+capacitor. Unit 1/2 CB CHLR B started and all parameters were
+monitored and verified to be correct.
+All applicable Units 1, 2, and 3 TS and TRM LCOs were exited,
+including TS LCO 3.0.3, therefore, exiting the NOED.
+September 13, 2017 Unit 1/2 CB CHLR A was declared operable after the completion of
+at 1445 CDT repairs and post-maintenance testing.
+D. Manufacturer and model number of each component that failed during the event
+The thermistor temperature element was manufactured by Trane Air Conditioning, with vendor part
+number SEN00307.
+The failed capacitor was a metalized polypropylene quick-connect 15 microFarad capacitor,
+manufactured by Renken Industries, Inc. and qualified by Nuclear Logistics, Inc. with manufacturer
+part number P91 C23156H05.
+E. Other systems or secondary functions affected
+Loss of the Unit 1/2 CB CHLRs resulted in a loss of the Unit 1 and 2 Control Room AC System.
+Additionally, the inoperability of all BFN, Unit 1 and 2, 4kV SD BDs rendered the following systems
+inoperable:
+NRC FORM 366A (04-2017) Page 4of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017) .
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/, ..,:.\_
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+; ~ comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\:.. .... )
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 -004 - 00
+4kV SD BD A 4kV SD BD B 4kV SD BD C 4kV SD BD D
+Emergency Diesel EOG B EDGC EOG D
+Generator (EOG) A [DG]
+RHR Pump 1C RHR Pump 1B RHR Pump 10
+Residual Heat Removal RHR Pump 2C RHR Pump 2B RHR Pump 20
+(RHR)[BO] Pump [P] 1A
+RHR Pump 2A CS Pump 1C CS Pump 1B CS Pump 10
+CS Pump 2C CS Pump 2B CS Pump 20
+Core Spray (CS) [BM]
+Pump 1A RHRSW Pump C1 RHRSW Pump B2 RHRSW Pump 02
+CS Pump 2A RHRSW Pump C2 RHRSW Pump B3 RHRSW Pump 03
+(EECW) [Bl] (EECW)
+RHR Service Water SLC Pump 2A
+(RHRSW) [CC] Pump A 1 SLC Pump 1B SLC Pump 2B
+RHRSW Pump A2 CB CHLR 3A
+SGTB
+Standby Liquid Control
+(SLC) [BR] Pump 1A
+SGTA
+Control Room Emergency
+Ventilation System
+(CREVS) A [UF]
+F. Method of discovery of each component or system failure or procedural error
+An AUO noted Unit 1/2 CB CHLR A alarms for "Chiller A Trouble" and "Chilled Water High Temp",
+and an additional AUO also reported a flashing error code.
+Unit 1/2 CB CHLR B was declared inoperable after an operator noticed it gave a flashing error code
+on it's A Compressor, which did not appear to be running and was not warm to the touch.
+G. The failure mode, mechanism, and effect of each failed component
+For Unit 1/2 CB CHLR B, the capacitor failed to hold its charge.
+For Unit 1/2 CB CHLR A, post-event testing indicated no failure mode for the thermistor, which
+continued to operate as-designed with no deviations from the manufacturer's tolerance
+specifications. As such, this failure is attributed to a loose or open cable connection between the
+system and the thermistor.
+NRC FORM 366A (04-2017) Page 5of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 - 004 - 00
+H. Operator actions
+In response to identified error codes on Unit 1/2 CB CHLR A and B, Operations personnel declared
+Unit 1/2 CB CHLR A and B inoperable. Additionally, Operations personnel declared CREVS A,
+SGT A and B, and EOG A, B, C, and D inoperable and entered TS LCO 3.0.3.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this condition.
+Ill. Cause of the event
+A. Cause of each component or system failure or personnel error
+The cause of the concurrent Unit 1/ 2 CB CHLR failures was a design which lacked defense-in
+depth. Specifically, removing one Unit 1/2 CB CHLR from service for unplanned corrective
+maintenance creates a single-point failure risk in the event that the second Unit 1/2 CB CHLR
+becomes inoperable.
+The most likely cause of the Unit 1/2 CB CHLR A thermistor failure was a loose or open connection
+in the cable system on the system side of the thermistor. This cable was cut, removed, and replaced
+during maintenance as part of the corrective maintenance to replace the failed thermistor for the
+current event. The open connection was likely due to a broken cable, but since the cable was not
+preserved for testing, this cannot be confirmed or denied. Given the age of this cable, the likely
+failure mode was infant mortality.
+The cause of the Unit 1/2 CB CHLR B failure was that its capacitors in line with the stepdown
+transformer had lost their ability to hold a high enough voltage during chiller startup to maintain
+power to its controller. This was first evidenced by improper controller operation and the multiple
+error codes observed by maintenance personnel during troubleshooting and restart attempts. This
+was verified by measuring stepped down line voltage, which was found to be below specifications,
+indicating either a capacitor issue or a transformer problem.
+B. Cause(s) and circumstances for each human performance related root cause
+There were no human performance related root causes associated with this event.
+IV. Analysis of the event
+This event resulted from a capacitor failure on the Unit 1/2 CB CHLR B train when the redundant .
+Unit 1/ 2 CB CHLR A train was already inoperable for maintenance. Equipment in electric board rooms
+rely on chilled water from this system for proper functioning in all conditions, including accident
+conditions. Therefore, all Unit 1 and 2 4kV SD BDs and associated EDGs were declared inoperable
+along with the chiller.
+NRC FORM 366A (04-2017) Page 6of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l,o"""'·'•".i.,~­ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+\ ; .. • . . .i tC comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 - 004 - 00
+The safety function of the 4kV SD BDs, as part of the Standby AC Power System, is to provide a
+self-contained, highly reliable source of power, as required for the Engineered Safeguards System, so
+that no single credible event can disable the core standby cooling functions or their supporting
+auxiliaries. lnoperability of the Unit 1 and 2 4kV SD BDs and EDGs caused the loss of several safety
+systems and the unplanned entry into a shutdown LCO for BFN Units 1 and 2. The loss of two trains
+of SGT also caused the unplanned entry into a Unit 3 shutdown.
+The inoperability of Unit 1/2 CB CHLR A required BFN, Units 1 and 2, to enter TS LCO 3.7.4, Control
+Room Air Conditioning (AC) System, Condition A, which, when the Units are in Modes 1, 2, or 3,
+requires the affected Units 1 and 2 control room AC subsystem to be restored to operable status
+within 30 days.
+On September 10, 2017, at 1151 CDT, Unit 1/2 CB CHLR B failed to start, and an operator in the field
+noted a flashing error code. Operations personnel noted that the A Compressor on Unit 1/ 2 CB CHLR
+B was not running, and was not warm to the touch. Operations personnel declared Unit 1/2 CB CHLR
+B inoperable at this time.
+The concurrent inoperability of Unit 1/2 CB CHLRs A and B required BFN, Units 1 and 2, to enter TS
+LCO 3.7.4, Control Room Air Conditioning (AC) System, Condition B, which requires an immediate
+action to restore one Unit 1 and 2 control room AC subsystem to operable status; placing an alternate
+cooling method in operation within 24 hours; and restoring operability to one control room AC
+subsystem within 7 days.
+The concurrent inoperability of Unit 1/2 CB CHLRs A and B also required BFN, Units 1 and 2, to enter
+Technical Requirements Manual (TRM) LCO 3.7.6, Electric Board Room Air Conditioning (AC)
+System, Condition B. This LCO requires the unit, with two Unit 1/2 electric board room AC subsystems
+inoperable, to declare the electrical equipment in the electric board rooms inoperable immediately.
+For BFN, Units 1 and 2, all four (4kV) SD BDs were declared inoperable.
+With 4kV SD BDs A, B, C, and D inoperable, BFN, Units 1 and 2, entered TS LCO 3.8.7, Distribution
+Systems - Operating, Condition A, which requires that, with one Unit 1 and 2 4kV SD BO inoperable,
+the Unit 1 and 2 4kV SD BO be restored to operable status within five days, and that the associated
+EOG be declared inoperable immediately. BFN, Units 1 and 2, declared EOG A, EOG B, EOG C, and
+EOG D inoperable.
+With 4kV SD BDs A, B, C, and D inoperable, BFN, Units 1, 2, and 3 entered TS LCO 3.8.7, Conditions
+F (Unit 1) and G (Units 2 and 3). These LCOs require, with one or more required other units AC boards
+inoperable, that the affected SGT or CREVS subsystems be declared inoperable immediately. BFN,
+Units 1 and 2, declared SGT A, SGT B, and CREVS A inoperable and entered TS LCO 3.8.7,
+Conditions H (Unit 1) and I (Unit 2). These LCOs require, with two or more electrical power distribution
+subsystems inoperable that result in a loss of function, that the unit enter TS LCO 3.0.3 immediately.
+NRC FORM 366A (04-2017) Page 7of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 -004 - 00
+With SGT A and B inoperable, BFN, Units 1, 2, and 3, entered TS LCO 3.6.4.3, SGT System,
+Condition D. This LCO requires immediate TS LCO 3.0.3 entry when two or three SGT subsystems are
+inoperable in Mode 1, 2, or 3.
+With EOG A, EOG B, EOG C, and EOG D inoperable, BFN, Units 1 and 2, entered TS LCO 3.8.1, AC
+Sources - Operating, Condition B, for each inoperable EOG. Failure to meet any of the TS LCO 3.8.1,
+Condition B completion times requires entry into TS LCO 3.8.1, Condition I, which requires Units 1 and
+2 to be in Mode 3 within 12 hours and Mode 4 within 36 hours.
+Additionally, with EOG A, EOG B, EOG C, and EOG D inoperable, BFN, Unit 3 entered TS LCO 3.8.1,
+Condition K, for each inoperable EOG. This LCO requires declaring the required feature(s) supported
+by the inoperable Unit 1 and 2 EOG inoperable when the redundant required feature(s) are inoperable,
+within 4 hours from the discovery of Condition K concurrent with inoperability of redundant required
+feature(s); and declaring the affected SGT and CREVs subsystem(s) inoperable within 30 days.
+With CREVS A inoperable, BFN, Units 1, 2, and 3, entered TS LCO 3.7.3, Control Room Emergency
+Ventilation (CREV) System, Condition A. This LCO requires an inoperable CREV subsystem to be
+restored to operable status within 7 days, when the unit is in Modes 1, 2, or 3, and
+during operations with a potential for draining the reactor vessel (OPDRVs).
+V. Assessment of Safety Consequences
+This event resulted in inoperability of all four Unit 1 and 2 4kV SD BDs and their associated EDGs;
+however, the equipment remained available during the event. This equipment was declared inoperable
+because it was unable to perform its safety function under all design basis conditions for supplying
+reliable power to safety-related equipment in order to shut down the reactor and maintain it in a safe
+shutdown condition, remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident.
+The 4kV SD BDs are located in the Unit 1 and 2 Electric Board Rooms (EBR). System failure could
+result if the equipment operating temperature in the EBRs exceeded the 104 degrees Fahrenheit (F)
+operability limit. During this event, non-qualified temporary cooling was available to ensure the
+temperature in the EBR would not exceed the 104 degrees F operability limit of the associated
+safety-related components. Therefore, there was no significant risk to the health and safety of the
+public or plant personnel for this event.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+Non-qualified temporary cooling was available to ensure that the EBR room temperatures would
+not exceed the 104 degrees F operability limit of the associated safety-related components.
+NRC FORM 366A (04-2017) Page 8of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/,,,,...-...: ii._ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+; ~ comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\:. ....j Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 - 004 - 00
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This condition did not occur during a shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+This event resulted in inoperability of multiple plant safety systems, from September 10, 2017 at
+1151 CDT, when the Unit 1/2 CB CHLR B was declared inoperable after a flashing error code was
+discovered on the A Compressor, until September 10, 2017 at 2110 CDT when the Unit 1/2 CB
+CHLR B was declared operable after verification that a capacitor replacement corrected the error.
+VI. Corrective Actions
+Corrective Actions are being managed by TV/\s corrective action program under Condition Reports
+(CRs) 1336821 and 1340251.
+A. Immediate Corrective Actions
+Maintenance crews worked in parallel to restore both Unit 1/2 CB CHLR trains to operable status.
+Unit 1/2 CB CHLR B was returned to service first, after replacing a 15 microFarad capacitor and
+reinstalling a degraded 20 microFarad capacitor that tested at 14 microFarads. The chiller was
+started and all parameters were monitored and verified as satisfactory. Unit 1/2 CB CHLR A was
+later declared operable after replacement of the thermistor and completion of its associated post
+maintenance testing.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+On September 13, 2017 the CB CHLR A capacitors were replaced as a precautionary measure.
+The degraded CB CHLR B capacitor was replaced with a new capacitor on September 14, 2017.
+The following corrective actions to prevent recurrence are currently are in progress:
+1. An action was initiated to ensure that outstanding CB CHRL work orders are scheduled.
+Another action is in place to ensure the completion of these work orders.
+2. The preventive maintenance frequency interval for CB CHLR capacitor replacement will be
+changed from 10 years to 4 years.
+3. A design change has been planned to prevent future recurrence by installing a cross-tie
+between the Unit 3 Chillers and the Unit 1/2 Chillers. This cross-tie of chilled water between
+Unit 3 and Units 1/2 would provide cooling in the event that both Unit 1/2 CB CHLRs A and B
+were to become inoperable.
+NRC FORM 366A (04-2017) Page 9of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000-259
+2017 - 004 - 00
+VII. Previous Similar Events at the Same Site
+A similar event occurred at BFN on July 14, 2015, when the Unit 1 and 2 CB CHLR A was rendered
+inoperable when its condenser coils became fouled with dirt and insects while Unit 1/2 CB CHLR B
+was rendered inoperable for scheduled maintenance. This event was recorded in Licensee Event
+Report 05000259/2015-003-00.
+The corrective actions to prevent the recurrence of the July 2015 event were focused on inspecting
+the condition of equipment for the effects of dirt, insects, and other natural phenomena, and would not
+have prevented this event.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2017) Page 10of10

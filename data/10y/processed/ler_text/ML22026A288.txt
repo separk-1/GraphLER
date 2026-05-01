@@ -1,0 +1,235 @@
+Exelon Generation®
+SVP-22-004 10 CFR 50.73
+January 26, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-29
+NRC Docket No. 50-254
+Subject: Licensee Event Report 254/2022-001-00 "High Pressure Coolant Injection System
+Inoperable due to Gland Seal System Malfunction"
+Enclosed is Licensee Event Report 254/2022-001-00 "High Pressure Coolant Injection System
+Inoperable due to Gland Seal System Malfunction," for Quad Cities Nuclear Power Station, Unit 1.
+This report is submitted in accordance with 10 CFR 50. 73(a)(2)(v)(D) for an event or condition
+that could have prevented the fulfillment of a safety system needed to mitigate the
+consequences of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Sherrie Grant at (309) 227-
+2800.
+Respectfully,
+Brian Wake
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimamd burden per response to comply wi1h 1his mandalory collection request 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporatsd inlD 1he licensing process and fed back to industry. Send comments
+regarding burden estima1e to 1he FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Reguatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocollects.Resource@nrc.gov, and 1he OMS reviewer at OMS Office of Information and Regulatory
+Affairs, (3150-0104), Atln: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or sponsor,
+http:l/www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r30 and a person is not required to respond to, a collection of information unless 1he document requesting or
+requiring 1he collection displays a currently vaid O!.11 control number.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station Unit 1 05000-254 1 OF 4
+4. Title
+High Pressure Coolant Injection System Inoperable due to Gland Seal System Malfunction
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+t---+---+----l-----+--N_u_m_be_r_+-_N_o_.--11-----11----+----I n/a 05000
+12 01 2021 2022 - 001 00 01 26 2022 Facility Name Docket Number
+.n/a 05000
+9. Operating Mode 110. Power Level
+1 - Run 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D
+(cid:143) 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) ~
+D D D
+(cid:143) 20.2201(b) 20.2203(a)(3)(i) (cid:143) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A)
+D D D
+20.2201(d) 20.2203(a)(3)(ii) (cid:143) 50.69(9) 50.73(a)(2)(v)(B) 73.71(a)(4)
+D D (cid:143) D
+20.2203(a)(1) 20.2203(a)(4) (cid:143) 50.73(a)(2)(i)(A) 50. 73(a)(2)(v)(C) 73.71(a)(5)
+D D
+20.2203(a)(2)(i) (cid:143) 50.73(a)(2)(i)(B) ~ 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+D D (cid:143) D
+20.2203(a)(2)(ii) 21.2(c) (cid:143) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+D D D
+20.2203(a)(2)(iii) (cid:143) (cid:143) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+D D
+20.2203(a)(2)(iv) (cid:143) 50.36(c)(1)(i)(A) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Richard Swart 309-227-2810
+13. Complete One Line for each Component Failure Described in this Report
+11(
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+llf
+y
+X BJ LS M040 Y B EJ RLY E062
+14. Supplemental Report Expected Month Day Year
+I D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 1, 2021, Unit 1 was at 100% power with a High Pressure Coolant Injection (HPCI) surveillance in progress. HPCI was
+declared inoperable at 1809 per the surveillance instructions. With HPCI running at rated speed, Main Control Room alarms were
+received for the HPCI Gland Exhauster at 1843. At 1847, Operators in the plant reported smoke and acrid odors from cubicles at a
+Motor Control Center (MCC) associated with Unit 1 HPCI and the Gland Exhauster. Operations aborted the surveillance and placed
+HPCI in Trip/Latch, and subsequently closed steam supply isolation valves to HPCI making it unavailable for automatic operation.
+The causes of this event are the failure of a level switch in the HPCI Gland Seal Condenser (GSC) Hotwell and a failed thermal
+overload for the HPCI Gland Exhauster motor. Immediate corrective actions were to electrically isolate the faulted Gland Exhauster
+and to restore the system to a normal standby line up. Subsequent actions included replacement of the level switch and thermal
+overload.
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(v)(D) for an event or condition that could have prevented the
+fulfillment of a safety system needed to mitigate the consequences of an accident.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonnation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of infonnation unless the document
+http://www. nrc. gov/readinq-rm/doc-col lections/nuregs/staff/sr1 022/r3/) requesting or requiring the collection displays a currently valid 0MB control number,
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR SE N Q U U M E B N E T R IA L R N E O V .
+2021 - 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+High Pressure Coolant Injection System Inoperable due to Gland Seal System Malfunction
+CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: December 1, 2021 Event Time: 1847 CST
+Reactor Mode: 1 Mode Name: Run Power Level: 100%
+No structures, systems or components were inoperable at the start of this event that contributed to the
+event.
+A. DESCRIPTION OF EVENT
+On December 1, 2021, Unit 1 was operating at 100% power. Unit 1 High Pressure Coolant Injection
+(HPCl)[BJ] quarterly operability testing was in progress and had progressed to the point where Unit 1
+HPCI was declared INOPERABLE at 1809.
+At 1843, the Main Control Room (MCR) received a HPCI MOTOR OVERLOAD alarm, indicating a motor
+overload condition for the Unit 1 HPCI Gland Exhauster. At 1847, Operators in the plant reported smoke
+and acrid odor coming from multiple cubicles at 250VDC MCC [EJ] 1A. (This Motor Control Center (MCC)
+is the power supply for the Unit 1 HPCI Gland Exhauster.) Concurrently, Operators in the Unit 1 HPCI
+Room reported acrid odor and smoke coming from the vicinity of the Unit 1 HPCI Front Standard.
+Unit 1 operators aborted the surveillance, and the Unit Supervisor directed Unit 1 HPCI taken to 'Trip/Latch'
+at 1847 hours. By placing Unit 1 HPCI in 'Trip/Latch', the system was in a condition that could have
+prevented the fulfillment of a safety function needed to mitigate the consequences of an accident; therefore,
+this condition is reportable per 10 CFR 50.72(b)(3)(v)(D). An Event Notification Sheet (ENS) #55619 was
+transmitted to the NRC at 2358.
+Steam supply to HPCI was also isolated at 1853. The Gland Exhauster was electrically isolated, supply
+steam was reestablished and the HPCI stand-by lineup was completed by 2110. HPCI was declared
+operable at 2110. HPCI was unavailable for automatic initiation for 1 hour 27 minutes.
+NRG FORM 366A (08-2020) Page_2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects,Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov, The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. nr e. gov/readinq-rm/doc-col lections/n ur egs/staff/sr1 D22/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR NUMBER NO.
+2021 - 001 00
+NARRATIVE
+The Unit 1 Reactor Core Isolation Cooling (RCIC) system and the Unit 1 Automatic Depressurization
+System (ADS) remained Operable throughout the event. There was no impact on the health and safety
+of the public or plant personal.
+B. CAUSE OF EVENT
+The cause of the event was attributed to two equipment malfunctions: a failed level switch in the Unit 1
+HPCI Gland Seal Condenser Hotwell, and a failed thermal overload for the Unit 1 HPCI Gland Exhauster
+motor.
+The high-level limit switch in the Gland Seal Condenser (GSC) Hotwell suffered age-related degradation
+which resulted in a failure of the Unit 1 HPCI GSC Condensate pump to actuate on high level. As water
+level increased in the Unit 1 HPCI GSC, water eventually impinged on the Unit 1 HPCI Gland Exhauster
+and overloaded the associated motor. Under these high current conditions, the Unit 1 Gland Exhauster's
+motor (located in the Unit 1 HPCI Room) and the associated motor overloads (located in a cubicle at
+250VDC MCC 1A) underwent thermal events that generated a significant quantity of smoke and acrid odor.
+Continued operation of the Unit 1 HPCI Turbine under these conditions could have presented an industrial
+safety hazard to plant personnel in the vicinity of the Turbine or the MCC 1A. This hazard was eliminated
+by tripping Unit 1 HPCI Turbine and preventing a subsequent initiation while personnel were in the
+immediate vicinity.
+C. SAFETY ANALYSIS
+System Design
+The HPCI system is designed to ensure that adequate core cooling takes place for all break sizes less than
+those for which Low Pressure Coolant Injection (LPCI) or Core Spray systems can adequately protect the
+core without assistance from other engineered safety features. Based on previous analysis the HPCI
+system's safety-related mission time is 10-minutes.
+The purpose of the HPCI GSC sub-system is to draw away non-condensable gases and condensate from
+the HPCI turbine rotor and valve seals during initial start-up and to keep steam from being leaked into the
+HPCI room from the turbine shaft seals. Per previous system assessment, the HPCI turbine can run
+without a GSC. However, if the GSC were not in operation while the turbine is running, a small amount of
+steam could leak from the turbine shaft seals into the HPCI room and increase the HPCI room temperature.
+Safety Impact
+The safety significance of this event is minimal. At the time of the event, Unit 1 was at full power in a
+normal electric plant lineup with all other means of Reactor Coolant Injection available. Prior to the
+faults seen with the Unit 1 HPCI GSC sub-system, the Unit 1 HPCI Turbine had already demonstrated
+NRC FORM 366A (08-2020) Page _3_ of _4_
+u_s_
+NRC FORM 366A NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. nr e. gov/reading-rm/doc-collections/nu regs/staff/sr1 022/r30 requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR SE N Q U U M E B N E T R IA L R N E O V .
+2021 - 001 00
+NARRATIVE
+the ability to meet pressure and flow requirements to perform its required safety-related function within
+the required time. In the event of a line break less than those requiring LPCI or Core Spray, Unit 1
+HPCI would have been able to generate adequate pressure and flow with manual operator action in the
+Main Control Room. Automatic initiation of HPCI would not have been possible during this event (i.e.,
+during the time Unit 1 HPCI was in "Trip/Latch"). The only impact present was to workers in the
+immediate vicinity of leaking steam or smoke.
+This event is considered a Safety System Functional Failure per NEI 99-02, Revision 7.
+D. CORRECTIVE ACTIONS
+Immediate:
+1. Operations electrically isolated the faulted HPCI Gland Exhauster.
+2. Operations restored Unit 1 HPCI to OPERABLE by placing the system in a normal standby lineup at
+2110 on 12/1/2021.
+Follow up:
+1. Replace the faulted level switch for the Unit 1 HPCI Gland Seal Condenser Condensate Pump.
+(Complete)
+2. Replace the faulted motor overloads for the Unit 1 HPCI Gland Exhauster. (Complete)
+E. PREVIOUS OCCURENCES
+The station events database, LERs and INPO Industry Reporting Information System (IRIS) were
+reviewed for similar events at Quad Cities Nuclear Power Station. This event was caused by
+equipment failures causing operations to isolate the HPCI system. No previous occurrences were
+identified.
+F. COMPONENT FAILURE DATA
+Level Switch
+Manufacturer: Magnetrol
+Nomenclature: Tuffy Level Switch
+Model/Part Number: 039-5000-400
+Thermal Overload Relay
+Manufacturer: Eaton I QualTech NP
+Nomenclature: Coil, Overload
+Model/Part Number: H1029
+NRG FORM 366A (08-2020) Page_4_ of _4_

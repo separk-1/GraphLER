@@ -1,0 +1,326 @@
+; : ~ Constellation
+10 CFR 50.73
+LG-24-067
+June 18, 2024
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2024-003-00 Core Operating Limits Report Thermal Limits Exceeded
+In accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B), Limerick Generating Station
+hereby submits the enclosed Licensee Event Report.
+There are no commitments contained in this letter.
+If you have any questions, please contact Jordan Rajan at (610) 718-3400.
+Respectfully,
+Michael F. Gillin
+Vice President - Limerick Generating Station
+Constellation Energy Generation, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+;l ~\;
+(See Page 2 for required number of digits/characters for each block)
+e
+C
+s
+o
+t
+m
+im
+m
+at
+is
+e
+s io
+to
+n ,
+t
+W
+he
+a s
+F
+h
+O
+in
+I
+g
+A
+to
+,
+n
+L
+,
+ib
+D
+r
+C
+ar y
+2
+,
+0 5
+a
+5
+n
+5
+d
+- 00
+In
+0
+f
+1
+o
+,
+r m
+or
+a t
+b
+io
+y
+n
+e m
+C
+a
+o
+i
+l
+l
+l e
+t
+c
+o
+t i
+I
+o
+n
+n
+fo
+s
+co
+B
+ll
+r
+e
+a
+c
+n
+t
+c
+s
+h
+.R e
+(T
+so
+-6
+u rc
+A
+e
+1
+@
+0M
+nr
+)
+c
+,
+.g
+U
+o
+.
+v ,
+S
+a
+.
+n d
+N u
+th
+c
+e
+le
+O
+ar
+M
+R
+B
+e
+r
+g
+e
+u
+v
+l
+i
+a
+e
+t
+w
+o
+e
+ry
+r
+"~+., .. ,. ..... +o~ (See NUREG-1022, R.3 for instruction and guidance for completing this form a C t o : m O m M is B s io O n ff , i c 7 e 2 5 o f 1 7 In th fo r S m tr a e t e io t n N W an , d W R a e s g h u in la g t t o o r n y , A D f C fa i r 2 s 0 , 5 (3 0 1 3 5 . 0 T -0 h 1 e 0 N 4 R ), C A t m tn a : y D n e o s t k c o O n f d fi u c c e t r o f r o r s p th o e n s N o u r, c a le n a d r a R e p g e u rs la o t n o r i y s
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name •■ 050 2. Docket Number 3. Page
+Limerick Generating Station Unit 1
+• 052 352 1 OF 3
+4. Title
+Core Operating Limits Report Thermal Limit Exceeded for Unit 1 Fuel Bundle GGK123
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r al Rev N i o s . ion Month Day Year Facility Name • 050 Docket Number
+04 22 24 2024 - 003 - 00 06 18 2024 Facility Name • 052 Docket Number
+9. Operating Mode I10 . Power Level
+4 0
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 • 20.2203(a)(2)(vi) 10 CFR Part 50 • 50.73(a)(2)(ii)(A) • 50.73(a)(2)(viii)(A) • 73.1200(a)
+• • • • • •
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+• • • • • •
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+• • • • • •
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+• 20.2203(a)(2)(i) 10 CFR Part 21 • 50.46(a)(3)(ii) • 50.73(a)(2)(v)(A) 10 CFR Part 73 • 73.1200(e)
+• • • • • •
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+• • • • •
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+•
+20.2203(a)(2)(iv)
+•✔
+50.73(a)(2)(i)(B)
+•
+50.73(a)(2)(v)(D)
+•
+73.77(a)(2)(ii)
+•
+73.1200(h)
+• • •
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+•
+OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Jordan Rajan 610-718-3400
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B AC ROD G080 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+•✔
+No
+•
+Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On April 12, 2024, while performing a water rod inspection of fuel bundle GGK123 during a planned refuel outage, it was(cid:3)
+identified that several fuel spacers had propagated up within the bundle toward the upper tie plate. It was determined through(cid:3)
+analysis that spacer positioning had a direct effect on the Minimum Critical Power Ratio (MCPR). On April 22, 2024, an(cid:3)
+analysis of the operating conditions by Global Nuclear Fuel (GNF) of fuel bundle GGK123 was reviewed and accepted by the(cid:3)
+station. The report confirmed that, during the previous cycle, the Operating Limit MCPR exceeded limits set by Technical(cid:3)
+Specifications (TS) 3.2.3. Since the Operating Limit MCPR was exceeded for longer than allowed by TS Limiting Condition for(cid:3)
+Operation (LCO) 3.2.3, this event is reportable as a condition prohibited by TS per 10 CFR 50.73(a)(2)(i)(B).
+The fuel bundle spacers shifted out of position over the previous operating cycle. This condition was identified during the(cid:3)
+inspections in response to GNF 10 CFR Part 21 communication SC 22-04, GNF3 Raised Water Rod. This fuel bundle has(cid:3)
+been removed from the reactor core, is currently located in the spent fuel pool, and will not be re-loaded into the core. There(cid:3)
+was no impact to the health and safety of the public or plant personnel because the Safety Limit MCPR was not exceeded in(cid:3)
+the previous cycle operation(cid:17)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~¥' LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; i CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+..... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+_, ~o' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 •YEAR SEQUENTIAL REV
+I I~ I NUMBER NO.
+Limerick Generating Station Unit 1 352 I D
+052 2024 - I 003 - 00
+I
+NARRATIVE
+Condition Prior to Event
+On April 22, 2024, prior to the determination that fuel bundle GGK123 had exceeded a thermal limit, Limerick Generating
+Station Unit 1 was in Operational Condition (OPCON) 4 (Cold Shutdown) with reactor coolant temperature of 132 degrees
+Fahrenheit.
+Event Description
+On April 12, 2024, during planned in-core fuel inspections for mis-oriented water rods of susceptible GNF3 fuel bundles
+[EIIS System AC] in response to GNF 10 CFR Part 21 communication SC 22-04, an unexpected condition for fuel bundle
+GGK123 was discovered where four spacers visibly collocated below the upper tie plate. The four spacers located in the
+bottom portion of the fuel bundle were found at their expected (installed) axial locations. Fuel bundle GGK123 was
+permanently discharged to the spent fuel pool.
+Fuel vendor GNF evaluated the impact of this condition for the previous operating cycle. The evaluation conservatively
+assumed the spacers were displaced for all but the first week of the cycle. The inspection results showed the spacer
+contact marks indicated prolonged contact with the fuel indicating the spacers did not move early in the cycle. On April
+22, 2024, the station completed the evaluation for fuel bundle GGK123.
+Analysis of the Event
+The evaluation report determined that:
+(cid:118) There were no penalties or adjustments associated with Linear Heat Generation Rate (LHGR) and Average
+Planar(cid:3)Linear Heat Generation Rate (APLHGR) and no (cid:71)(cid:76)(cid:86)(cid:70)(cid:72)(cid:85)(cid:81)(cid:76)(cid:69)(cid:79)(cid:72) impact to thermal limits and margins.
+(cid:118) There was no discernible impact to thermal limits and margins for co-resident fuel in the Unit 1 reactor core during
+the(cid:3)previous cycle of operation.
+(cid:118) The Operating Limit Minimum Critical Power Ratio (MCPR) exceeded limits set by TS 3.2.3 for the previous cycle.
+(cid:118) The Safety Limit MCPR requirements set by TS 2.1.2 were never violated for the previous cycle.
+The report determined that the requirements of TS LCO 3.2.3 MCPR were not met for Unit 1 Cycle 20. TS LCO 3.2.3
+requires all MCPR values to be greater than or equal to the MCPR operating limits specified in the Core Operating Limits
+Report (COLR). If the MCPR value is less than the MCPR value in the COLR, TS LCO 3.2.3 Action b requires corrective
+actions to be initiated within 15 minutes and the MCPR value restored to within the required limits within two-hours or
+reduce thermal power to less than 25 percent within the next 4 hours. Since the station conservatively assumed the
+condition existed for most of the operating cycle, the station exceeded the two-hour requirement to restore MCPR within
+limits and did not reduce thermal power to less than 25 percent within the next 4 hours. Therefore, this event is being
+reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by the plant’s TS.
+Safety Consequences
+There were no actual safety consequences to this condition. The MCPR Safety Limit was not exceeded and there was no
+breach of fuel cladding for fuel bundle GGK123.
+NRC FORM 366A (04-02-2024) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~¥' LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; i CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+..... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+_, ~o' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 •YEAR SEQUENTIAL REV
+I I~ I NUMBER NO.
+Limerick Generating Station Unit 1 352 I D
+052 2024 - I 003 - 00
+I
+NARRATIVE
+Cause of the Condition
+The cause of the spacer relocation was determined to be the mis-oriented water rod in the fuel bundle GGK123. Mis-
+orientation of the water rod would have occurred during fuel bundle fabrication. The mis-orientation caused the spacers to
+not be locked into position, causing them to propagate up the bundle due to hydraulic force during normal operation.
+Corrective Actions
+Corrective actions taken in response to the conditions were:
+(cid:118) Verified no plant off-gas signatures indicative of leaking fuel rods which verified fuel rod integrity had not been(cid:3)
+compromised.
+(cid:118) Performed full length peripheral visual inspection of de-channeled fuel bundle GGK123.
+(cid:118) Evaluated the impact to APLHGR, LHGR, and MCPR limits.
+(cid:118) Permanently discharged fuel bundle GGK123 to the spent fuel pool.
+(cid:118) Completed inspection on the remaining 267 fuel bundles in the Unit 1 susceptible population and confirmed no
+additional(cid:3)fuel bundles had a mis-oriented water rod.
+(cid:118) Confirmed no impact to Unit 2 due to no fuel bundles in the susceptible population.
+(cid:118) GNF implemented the following additional checks during the fuel fabrication process:
+(cid:80) An in-process laser check on the orientation of the water rod tabs.
+(cid:80) Removed the Quality at the Source process and reintroduced Qualify Inspectors to the bundle assembly
+tables(cid:17)
+(cid:80) Added a check for tab orientation at final inspection.
+(cid:118) Constellation Energy Generation, LLC (and Limerick Generating Station) enhanced the new fuel receipt
+inspection(cid:3)procedures to confirm proper water rod orientation on all new GNF3 fuel bundles.
+Previous Occurrences
+There were no previous occurrences.
+Component Failure Data
+System: Reactor Core Systems (AC)
+Component: Unit 1 Fuel Bundle (ROD)
+Manufacturer: Global Nuclear Fuel (G080)
+NRC FORM 366A (04-02-2024) Page 3 of 3

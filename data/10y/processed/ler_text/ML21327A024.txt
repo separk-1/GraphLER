@@ -1,0 +1,439 @@
+Exelon Generation®
+10 CFR 50.73
+NMP1L3436
+November 19, 2021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 1
+Renewed Facility Operating License No. DPR-63
+Docket No. 50-220
+Subject: NMP1 Licensee Event Report 2021-002, Revision 0, Isolation of both Emergency
+Condensers due to loss of UPS 162A
+In accordance with the reporting requirements contained in 1O CFR 50.7 3(a)(2)(v)(B), please
+find enclosed NMP1 Licensee Event Report (LER) 2021-002, Revision 0, Isolation of both
+Emergency Condensers due to loss of UPS 162A.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+Schuerman, Digitally signed by Schuerman,
+AdamG
+AdamG DN: cn=Schuerman, Adam G
+Date: 2021.11.17 12:09:38 -05'00'
+Adam Schuerman
+Plant Manager, Nine Mile Point Nuclear Station
+Exelon Generation Company, LLC
+AS/JRA
+Enclosure: NMP1 Licensee Event Report 2021-002, Revision 0, Isolation of both Emergency
+Condensers due to loss of UPS 162A
+cc: NRC Regional Administrator, Region I
+NRC Resident Inspector
+NRC Project Manager
+Enclosure
+NMP1 Licensee Event 2021-002, Revision 0
+Isolation of both Emergency Condensers due to loss of UPS 162A
+Nine Mile Point Nuclear Station, Unit 1
+Renewed Facility Operating License No. DPR-63
+·~-~
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+'(0S-2020) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+.o »·--~ LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+. regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+'
+~ .....
+·"'i
+(See N
+(S
+U
+ee
+R E
+Pa
+G
+g
+-
+e
+1 0
+3
+2
+fo
+2
+r
+,
+r
+R
+e
+.
+q
+3
+u i
+f
+r
+o
+e
+r
+d
+i n
+n
+s
+u
+t
+m
+ru
+b
+c
+e
+ti
+r
+o
+o
+n
+f
+a
+d
+n
+ig
+d
+i t
+g
+s/
+u
+c
+i
+h
+d
+a
+a
+r
+n
+a
+c
+c
+e
+te r
+fo
+s
+r
+f o
+c
+r
+o
+e
+m
+a
+p
+c
+l
+h
+e t
+b
+in
+lo
+g
+c k
+th
+)
+is form
+N
+ln
+u
+fo
+c
+c
+le
+o
+a
+ll
+r
+e cts
+R
+.R
+e
+e
+g
+s
+u
+o
+la
+u
+t
+r
+o
+ce
+ry
+@ nr
+C
+c.
+o
+g
+m
+ov
+m
+,
+is
+a
+s
+n
+i
+d
+o n
+th
+,
+e 0
+W
+M
+a
+B
+s h
+r
+i
+e
+n
+v
+g
+ie
+to
+w
+n
+e
+,
+r at
+D C
+0 MB
+2 0
+O
+5
+f
+5
+fi
+5
+c
+-
+e
+0 0
+o
+0
+f
+1
+In
+,
+form
+or
+a tion
+b y
+a nd
+e
+R
+-m
+eg
+a
+u
+il
+l ator
+to
+y
+....., , http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)_ Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.goy. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000 220 1 OF 5
+Nine Mile Point Unit 1
+4. Title
+Isolation of both Emergency Condensers due to loss of UPS 162A
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year Facility Name Docket Number
+N/A 05000 N/A
+09 25 2021 2021 - 002 - 00 11 19 2021 Facility Name Docket Number
+N/A 05000 N/A
+110.
+9. Operating Mode Power Level
+N: Power Operating Condition 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73
+0
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(9) 50. 73(a)(2)(v)(B) □ 73. 71 (a)(4)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(i)(A) □ 50.7 3(a)(2)(v)(C) □ 73. 71 (a)(5)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73. 77(a)(1 )(i)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.73(a)(2)(i)(C) □ 50. 73(a)(2)(vii) □ 73. 77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50.7 3(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73. 77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1)(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50.73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B EF UJX Ametek YES N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+[Z] No ID Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date NA NA NA
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On Saturday September 25, 2021, at approximately 0341 hours with power level at approximately 100 percent, Nine Mile Point
+Unit 1 (NMP1) experienced a loss of Uninterruptible Power Supply (UPS) 162Awhich resulted in the loss of Reactor Protection
+System (RPS) Bus 11. The loss of RPS Bus #11 resulted in a half scram, Reactor Water Cleanup isolation, and isolation of both
+#11 and #12 Emergency Condensers. The cause of this event was the premature failure of the oscillator board (X2) and/or the
+sync board (X5) in UPS 162A. Corrective actions include replacement of faulted sync and oscillator boards.
+This event is reportable under 10 CFR50.73(a)(2)(v)(B).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons teamed are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+htlp%www.nrc.goJ!}reading-rmJdQc~collections/nurn_g_s/s1aJf/SJJ022/r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+cY:E:A-R1 SEQUENTIAL REV
+I I
+NUMBER 1-NO~.
+Nine Mile Point Unit 1 05000-1 220
+□ -1
+I 002
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Unit 1 was in Run, operating at approximately 100% rated thermal power when the event occurred. There were no
+structures, systems, or components out of service that contributed to this event.
+B. EVENT:
+On September 25, 2021, at approximately 0341 hours, the NMP Unit 1 control room received multiple annunciators
+concurrent with a loss and subsequent restoration of RPS Bus #11 on UPS 162A. This resulted in a half scram, Reactor
+Water Cleanup isolation, and isolation of both #11 and #12 Emergency Condensers. The Emergency Condenser System
+was declared inoperable, and the appropriate Technical Specification Action was entered.
+The condition was reported to the NRC on September 25, 2021 at approximately 0916 hours pursuant to the requirements
+of 10 CFR 50.72(b)(3)(v)(B) (Event Notification #55492).
+After consultation with the vendor Ametek, the oscillator board (X2) and the sync board (X5) were replaced
+simultaneously. This was done based on advisement from Ametek that these cards should be replaced in pairs. Following
+replacement of these circuit boards, UPS-162A was restarted and exhibited no signs of frequency or voltage oscillations.
+Additionally, the UPS-162A was energized and the output monitored for several days to ensure consistent output
+performance while unloaded with no anomalies noted.
+Nine Mile Point Unit 2 (NMP2) was unaffected.
+The event has been entered into the plant's corrective action program as IR 04448532.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO THE EVENT:
+No other systems, structures, or components contributed to this event.
+NRC FORM 366A (08-2020) Page 2 of 5
+' NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+bitp://www.nrc.gov/reading-rm/doc-collections/nurng_sLsiaff/sr1022h:31}
+requesting or requiring the collection displays a currently valid 0MB control number.
+I
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I IB SEQUENTIAL REV
+NUMBER NO.
+05000-1 1-0
+Nine Mile Point Untt 1 220 -I
+l 002
+NARRATIVE
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERATOR ACTIONS:
+The dates, times, major occurrences, and operator actions for this event are as follows.
+September 25, 2021 :
+0341 Received multiple Control Room alarms due to loss and subsequent restoration of RPS Bus #11 on UPS 162A.
+Both Emergency Condensers #11 and #12 isolate. Reactor Water Cleanup isolate.
+0403 RPS Bus #11 de-energized by operators to prepare for dead bus transfer to l&C Bus 130A.
+0405 RPS Bus #11 power was restored by operators via l&C Bus 130A
+0420 Restored #11 Emergency Condenser to standby
+0429 Restored #12 Emergency Condenser to standby
+1031 RPS Bus #11 de-energized by operators to prepare for dead bus transfer to UPS 1628
+1033 RPS Bus #11 power was restored by operators via UPS 1628
+Both Emergency Condensers were inoperable for a total of 48 minutes from event initiation to restoration.
+During the time Emergency Condensers were isolated, NMP1 Limiting Condition of Operation (LCO) 3.1.3.a was not met.
+Subsequently, the station entered LCO 3.1.3.e but normal orderly shutdown was not initiated since the first condenser
+restored in approximately 39 minutes, driving the station to LCO 3.1.3.b. Full compliance with LCO 3.1.3 was restored at
+0429.
+E. METHOD OF DISCOVERY:
+This event was self-revealing as identified by multiple Control Room alarms.
+F. SAFETY SYSTEM RESPONSES:
+Upon loss of the RPS #11 Instrument Bus, the Emergency Condensers and Reactor Water Cleanup isolated as expected
+due to the voltage transient. Also, the momentary loss of power resulted in Reactor Building Emergency Ventilation
+initiation.
+NRG FORM 366A (08-2020) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.9Q'l. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+bitp://www.nrc.gov/reading=ITI!ldP_1Lcolle_cfums/nYLei!sLsJ_aJf/sr1Q22lr31l
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I DYEA R SEQUENTIAL REV
+Nine Mile Point Unit 1 05000-1 220 ~-I NUMBER 1-NO0.
+i 002
+NARRATIVE
+II. CAUSE OF EVENT
+The cause of this event was determined to be the premature failure of the UPS 162A oscillator board (X2) and/or the sync
+board (XS).
+Ill. ANALYSIS OF THE EVENT
+There were no actual nuclear safety consequences associated with this event. No initiating transient was present.
+Although the Emergency Condenser loops were automatically isolated, the conditions requiring automatic initiation of the
+system were not present. The event was caused by an equipment failure creating a voltage transient that led to the
+spurious isolation.
+Although the Emergency Condensers isolated, the isolation signals are designed to be bypassed should they be required
+to operate. The ability to manually initiate the system is recognized in the Probabilistic Risk Assessment model supported
+by procedural guidance that directs restoration. It is concluded that the safety significance of this event is low and the
+event did not pose a threat to the health and safety of the public or plant personnel.
+Isolation of both the Emergency Condensers is reportable under 10 CFR 50. 72(b )(3)(v)(B) and 10 CFR 50. 73(a)(2)(v)(B)
+as any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are
+needed to control the removal of residual heat.
+IV. CORRECTIVE ACTIONS
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL STATUS:
+Operators took immediate actions and transferred the RPS Bus #11 to l&C Bus 130A.The Emergency Condensers #11
+and #12 were returned to full standby service September 25, 2021 at 0420 and 0429 respectively. Subsequentially, RPS
+Bus #11 was then restored to power by operators via UPS 1628.
+B. ACTION TAKEN OR PLANNED TO PREVENT RECURRENCE:
+The faulted sync and oscillator boards were replaced.
+NRC FORM 366A (08-2020) Page 4 of 5
+• NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+!Jllp~.n rc. gov/re~llecoons/nure9-sfstaJf/Sr1 022/r3_/j_
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I DYEA R SEQUENTIAL REV
+I
+Nine Miie Point Unit 1 05000-1 220 ~-I NUMBER 1-NO~.
+I 002
+NARRATIVE
+V. ADDITIONAL INFORMATION
+A. FAILED COMPONENTS:
+Uninterruptible Power Supply
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+NMP LER 2016-002-00 reported the Isolation of both Emergency Condensers due to loss of UPS 1628. The cause of the
+LER 2016-002-00 were determined to be the failure of a UPS capacitor and the bypass power transfer set point being set
+too low for the type of transient.
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION IDENTIFIER AND SYSTEM
+NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER: .
+IEEE 803 IEEE 805
+FUNCTION SYSTEM
+COMPONENT IDENTIFIER IDENTIFICATION
+Uninterruptible Power Supply UJX EF
+Reactor Protection System N/A JC
+Emergency Condenser System BN BL
+D. SPECIAL COMMENTS
+None
+NRC FORM 366A (08-2020) Page 5 of 5

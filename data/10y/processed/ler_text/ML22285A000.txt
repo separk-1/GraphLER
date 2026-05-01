@@ -1,0 +1,606 @@
+10 CFR 50.73 
+A member of the STARS Alliance LLC 
+ 
+Callaway • Diablo Canyon • Palo Verde • Wolf Creek 
+ 
+CARY D. HARBOR 
+Vice President Nuclear 
+Regulatory/Oversight 
+ 
+Palo Verde 
+Nuclear Generating Station 
+5801 S Wintersburg Road 
+Tonopah, AZ 85354 
+Mail Station 7605 
+ 
+102-08497-CDH/LMW 
+October 11, 2022 
+ 
+ATTN: Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, DC 20555-0001 
+ 
+Subject: 
+Palo Verde Nuclear Generating Station (PVNGS) Units 1 and 3 
+ 
+ 
+Docket No. STN 50-528 and 50-530  
+License No. NPF-41 and NPF-74 
+ 
+ 
+Licensee Event Report 2022-001-00 
+ 
+Enclosed, please find Licensee Event Report (LER) 50-528/2022-001-00, that has been 
+prepared and submitted pursuant to 10 CFR 50.73.  This LER provides the cause and 
+corrective actions for reported specified system actuations that occurred in Units 1 and 3 
+on August 14, 2022.  
+ 
+In accordance with 10 CFR 50.4, copies of this LER supplement are being forwarded to 
+the Nuclear Regulatory Commission (NRC) Regional Office, NRC Region IV and the 
+Senior Resident Inspector.   
+ 
+Arizona Public Service Company makes no commitments in this letter.  If you have 
+questions regarding this submittal, please contact Michael DiLorenzo, Department Leader, 
+Regulatory Affairs, at (623) 393-3495. 
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+ 
+CDH/LMW 
+ 
+Enclosure 
+ 
+cc: 
+S. A. Morris 
+ 
+NRC Region IV Regional Administrator  
+ 
+D. J. Galvin 
+ 
+NRC NRR Project Manager for PVNGS 
+ 
+L. N. Merker  
+NRC Senior Resident Inspector for PVNGS 
+Harbor, Cary 
+(Z16762)
+Digitally signed by 
+Harbor, Cary (Z16762) 
+Date: 2022.10.11 
+14:27:42 -07'00'
+
+ 
+ 
+NRC FORM 366 
+(08-2020) 
+ 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                 EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send 
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+(See Page 3 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this 
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. Facility Name 
+ Palo Verde Nuclear Generating Station (PVNGS) Unit 1 
+2. Docket Number 
+ 05000528 
+3. Page 
+1 OF 5 
+4. Title 
+  Units 1 and 3 Emergency Diesel Generator Actuation on Loss of Offsite Power to Class 4.16 kV Buses 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Rev 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+PVNGS Unit 3 
+Docket Number 
+05000530 
+08 
+14 
+2022 
+2022 
+001 
+00 
+10 
+11 
+2022 
+Facility Name 
+      
+Docket Number 
+05000      
+9. Operating Mode: 1/1 
+10. Power Level: 100/100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:     (Check all that apply) 
+10 CFR Part 20 
+ 20.2203(a)(2)(vi) 
+ 50.36(c)(2) 
+ 50.73(a)(2)(iv)(A) 
+ 50.73(a)(2)(x) 
+ 20.2201(b) 
+ 20.2203(a)(3)(i) 
+ 50.46(a)(3)(ii) 
+ 50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+ 20.2201(d) 
+ 20.2203(a)(3)(ii) 
+ 50.69(g) 
+ 50.73(a)(2)(v)(B) 
+ 73.71(a)(4) 
+ 20.2203(a)(1) 
+ 20.2203(a)(4) 
+ 50.73(a)(2)(i)(A) 
+ 50.73(a)(2)(v)(C) 
+ 73.71(a)(5) 
+ 20.2203(a)(2)(i) 
+10 CFR Part 21 
+ 50.73(a)(2)(i)(B) 
+ 50.73(a)(2)(v)(D) 
+ 73.77(a)(1)(i) 
+ 20.2203(a)(2)(ii) 
+ 21.2(c) 
+ 50.73(a)(2)(i)(C) 
+ 50.73(a)(2)(vii) 
+ 73.77(a)(2)(i) 
+ 20.2203(a)(2)(iii) 
+10 CFR Part 50 
+ 50.73(a)(2)(ii)(A) 
+ 50.73(a)(2)(viii)(A) 
+ 73.77(a)(2)(ii) 
+ 20.2203(a)(2)(iv) 
+ 50.36(c)(1)(i)(A) 
+ 50.73(a)(2)(ii)(B) 
+ 50.73(a)(2)(viii)(B) 
+ 
+ 20.2203(a)(2)(v) 
+ 50.36(c)(1)(ii)(A) 
+ 50.73(a)(2)(iii) 
+ 50.73(a)(2)(ix)(A) 
+ Other (Specify here, in Abstract, or in NRC 366A). 
+ 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include Area Code)  
+ Michael DiLorenzo, Department Leader, Regulatory Affairs 
+ 623-393-3495 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable To IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable To IRIS 
+C 
+EA 
+XFMR 
+W120 
+Y 
+      
+      
+      
+      
+      
+14. Supplemental Report Expected 
+15.  Expected Submission Date 
+Month 
+Day 
+Year 
+   No 
+  Yes (If yes, complete 15. Expected Submission Date) 
+ 
+ 
+ 
+ 16.  Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+On August 14, 2022, at 1702 Mountain Standard Time, a valid actuation of the emergency diesel generators (EDGs) for 
+Palo Verde Nuclear Generating Station (PVNGS) Unit 1 B-train and Unit 3 A-train occurred due to an undervoltage 
+condition on their respective 4.16 kilovolt (kV) Class 1E buses.  Both EDGs started and loaded as designed, including 
+associated train essential spray pond pumps and the Unit 1 B-train auxiliary feedwater pump.  
+ 
+The loss of power to the Unit 1 and Unit 3 Class 1E buses and resulting component actuations were the result of startup 
+transformer NAN-X02 tripping offline.  Unit 1 and Unit 3 both entered Technical Specification (TS) Limiting Condition for 
+Operation (LCO) 3.8.1, Condition A, for one required offsite circuit inoperable.  In addition, both units also entered TS LCO 
+3.8.9, Condition A, for the loss of the Class 1E bus, which was exited when the EDGs started and restored power to their 
+respective Class 1E buses.  TS LCO 3.8.1, Condition A, was exited by both units on August 15, 2022. 
+ 
+The direct cause of the undervoltage condition and the EDG and pump actuations was startup transformer NAN-X02 
+tripping offline due to the opening of the NAN-X02 startup transformer 525 kV breakers and 13.8 kV breakers due to 
+protective relay actuation.  The apparent cause of the event was attributed to water intrusion into the 2E-NAN-S05A cubicle 
+as the result of a heavy rainstorm and high winds, in combination with degraded weatherstripping and conductor insulating 
+boots that are not waterproof. 
+ 
+No similar events have been reported by PVNGS in the last three years due to the same initial cause. 
+ 
+ 
+
+ 
+NRC FORM 366A  (08-2020) 
+ 
+Page 2 of 5 
+ 
+NRC FORM 366A 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Palo Verde Nuclear Generating Station 
+ 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+001 
+00 
+NARRATIVE  
+ 
+All times are Mountain Standard Time and approximate unless otherwise indicated. 
+ 
+ 
+1.    REPORTING REQUIREMENT(S): 
+ 
+This Licensee Event Report (LER) is being submitted pursuant to 10 CFR 50.73 (a)(2)(iv)(A) to report a valid 
+automatic actuation of the circuitry that starts the emergency diesel generator (EDG) (EIIS: EK) for Unit 1 and Unit 
+3 following an undervoltage condition on the affected Class 1E bus for each unit on August 14, 2022.  The event 
+included actuations of the associated essential spray pond (SP) pumps (EIIS: BS) and the Unit 1 B auxiliary 
+feedwater (AF) pump (EIIS: BA). This event was reported to the NRC on August 14, 2022 via the event notification 
+system (ENS 56044). 
+ 
+2. DESCRIPTION OF STRUCTURE(S), SYSTEM(S) AND COMPONENT(S): 
+ 
+The safety related equipment for each Palo Verde Nuclear Generating Station (PVNGS) unit is powered by one of 
+two load groups (A-train and B-train).  Either of the associated trains can provide power for safe plant shutdown.  
+Each alternating current (AC) train includes one Class 1E 4.16 kilovolt (kV) bus (EIIS: EB).  
+ 
+The preferred and alternate power sources for each load group is offsite 525 kV AC power (EIIS: EK) and is 
+supplied via the 13.8 kV secondary windings from two of the three startup transformers (EIIS: EA) to six 13.8 kV 
+intermediate buses.  Each unit receives 13.8 kV power from two of the intermediate buses.  Class 1E 4.16 kV 
+safety load group power is provided from the associated intermediate bus engineered safety feature (ESF) 
+transformers.  The standby power supply for each safety load group consists of one EDG (EIIS: EK), including its 
+auxiliary and fuel systems.  The standby power supply functions as a source of AC power for safe plant shutdown 
+in the event of loss of preferred power and for post-accident operation of ESF loads.  
+ 
+3. INITIAL PLANT CONDITIONS: 
+ 
+On August 14, 2022, PVNGS Units 1, 2 and 3 were in Mode 1 (Power Operation) at 100 percent power, normal 
+operating temperature and normal operating pressure.  There were no inoperable structures, systems or 
+components at the time that contributed to this event.   
+ 
+4. EVENT DESCRIPTION: 
+ 
+On August 14, 2022, at 1702, a valid loss of power (LOP) actuation occurred due to an undervoltage condition 
+on the Unit 1 B-train and Unit 3 A-train Class 1E buses which resulted in an automatic actuation of the circuitry 
+that starts the Unit 1 B-train EDG and Unit 3 A-train EDG.  The undervoltage condition on the Units 1 and 3 
+Class 1E 4.16 KV buses resulted from startup transformer NAN-X02 tripping offline.  Both EDGs started and 
+loaded as designed. The EDG actuations were accompanied by the start of associated train essential SP 
+pumps in both units.  The Unit 1 B-train EDG actuation was also accompanied by the start of the Unit 1 B-train 
+auxiliary feedwater pump, as required for the undervoltage condition.  By design, actuation of the Unit 3 A-train 
+steam-driven auxiliary feedwater pump was not required in response to the EDG actuation. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+NRC FORM 366A (08-2020) 
+ 
+Page 3 of 5 
+NRC FORM 366A 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Palo Verde Nuclear Generating Station 
+ 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+001 
+00 
+At 1702 on August 14, both Units 1 and 3 entered Technical Specification (TS) Limiting Condition for Operation 
+(LCO) 3.8.1, Condition A for one required offsite circuit inoperable and TS LCO 3.8.9, Condition A for the loss of 
+the Class 1E bus.  Both units exited TS LCO 3.8.9, Condition A within one minute, after the Unit 1 B-train and Unit 
+3 A-train EDGs started and restored power to their respective Class 1E buses.  Unit 1 exited TS LCO 3.8.1, 
+Condition A on August 15 at 1905 after realigning the electrical path for offsite power to the B-train Class 1E bus 
+from startup transformer NAN-X01.  Unit 3 exited TS LCO 3.8.1, Condition A on August 15 at 1446 after realigning 
+the electrical path for offsite power to the A-train Class 1E bus from startup transformer NAN-X03.  
+ 
+Unit 2 Class 1E buses and required offsite circuits were unaffected by the NAN-X02 startup transformer trip 
+because the unit was not aligned to the NAN-X02 startup transformer.  The redundant Unit 1 A-train and Unit 3 B-
+train Class 1E buses were also unaffected by the event and remained energized by startup transformers NAN-X03 
+and NAN-X01, respectively.  
+ 
+Annunciators in the control rooms indicated startup transformer NAN-X02 tripped offline, resulting in a loss of 
+power to the Unit 1 B-train and Unit 3 A-train class buses.  Upon receipt of the annunciators in Units 1 and 3 control 
+rooms and the associated automatic start of the Unit 1 B-train and Unit 3 A-train EDGs, an Auxiliary Operator was 
+dispatched to the switchyard to conduct a walkdown of the NAN-X02 startup transformer and surrounding areas.  
+The Auxiliary Operator reported damage to the 2E-NAN-S05A cubicle consisting of the exterior metal panels being 
+deformed and indications of an arc flash event.   
+ 
+The NAN-X02 startup transformer fault initiated from the 2E-NAN-S05A cubicle.  This fault caused relays to actuate 
+which caused the 13.8 kV bus feeder breaker, all startup transformer NAN-X02 13.8 kV breakers and related 525 
+kV breakers to trip while initiating the 525 kV breaker failure logic.  This resulted in tripping the startup transformer 
+NAN-X02 offline.   
+ 
+When startup transformer NAN-X02 tripped offline, the result was a loss of power on the Unit 1 B-train and Unit 3 
+A-train Class 1E buses.  Due to the loss of power on the Class 1E buses, the Unit 1 B-train and Unit 3 A-train 
+EDGs automatically started and restored power to their respective buses.  Plant equipment responded as 
+expected.  Both of the units’ associated SP pumps started in support of the actuations, as expected.  In addition, 
+the Unit 1 B-train AF pump automatically started, as expected.  The Unit 1 B-train AF pump was not needed for 
+steam generator level control and no AF valves repositioned.  The Unit 1 B-train AF pump did not supply feedwater 
+to the steam generators. 
+ 
+At the time of the event, weather conditions were notable.  On-site station personnel reported heavy rain and high 
+winds during this time.  Wind speeds were documented over 20 miles per hour (mph) and peaked at approximately 
+50 mph during this event. 
+ 
+The direct cause of the loss of power to the Unit 1 B-train and Unit 3 A-train Class 1E buses was the opening of the 
+NAN-X02 startup transformer 525 kV and 13.8 kV breakers due to protective relay actuation.  The apparent cause 
+of the loss of power was water intrusion into the 2E-NAN-S05A cubicle as the result of a heavy rainstorm and high 
+winds, in combination with degraded weatherstripping and conductor insulating boots that are not waterproof. 
+ 
+A contributing cause to the loss of power to the Unit 1 B-train and Unit 3 A-train Class 1E buses was a deferral of 
+the preventative maintenance task that inspects the weatherstripping and insulating boots on the 2E-NAN-S05 
+switchgear cubicle, which was delayed due to the COVID-19 pandemic. 
+ 
+ 
+ 
+ 
+
+ 
+NRC FORM 366A (08-2020) 
+ 
+Page 4 of 5 
+NRC FORM 366A 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Palo Verde Nuclear Generating Station 
+ 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+001 
+00 
+5. ASSESSMENT OF SAFETY CONSEQUENCES: 
+ 
+There were no inoperable structures, systems or components at the time that contributed to this event.  The 
+EDGs responded as designed to the undervoltage condition on their respective safety buses.  Essential SP and 
+AF pumps actuated as required for the LOP.   
+ 
+This event did not result in any challenges to the fission product barriers or result in the release of radioactive 
+materials.   
+ 
+This event did not prevent the fulfillment of a safety function as described by 10 CFR 50.73(a)(2)(v), nor did it 
+result in a safety system functional failure.  
+ 
+6. CAUSE OF THE EVENT: 
+ 
+The direct cause of the loss of power to the Unit 1 B-train and Unit 3 A-train Class 1E buses was the opening of the 
+NAN-X02 startup transformer 525 kV and 13.8 kV breakers due to protective relay actuation, causing the loss of 
+power condition and the subsequent EDG and pump actuations.  The apparent cause of the 2E-NAN-S05A fault 
+was determined to be water intrusion into the switchgear cubicle as a result of the heavy rainstorm and high winds 
+in combination with degraded weatherstripping and conductor insulating boots that are not waterproof. 
+ 
+In addition, the loss of power to the Unit 1 B-train and Unit 3 A-train Class 1E buses was caused, in part, by the 
+deferral of a preventative maintenance (PM) task to perform an inspection and cleaning on the 13.8 kV outdoor 
+switchgear 2E-NAN-S05.  The PM task was initially scheduled for completion during the Unit 2 refueling outage in 
+the Spring of 2020 but was deferred due to the global COVID-19 pandemic, which resulted in insufficient personnel 
+availability to complete the scheduled work during that outage timeframe. 
+ 
+7. CORRECTIVE ACTIONS: 
+ 
+Immediate corrective actions were taken to restore offsite power to Unit 1 B-train and Unit 3 A-train Class 1E 
+buses.  Alternate supply power was provided from startup transformers NAN-X01 and NAN-X03, respectively, 
+through their associated intermediate buses to the class buses.  
+ 
+In addition, transformer and cable testing were performed, the non-class 1E 13.8 kV outdoor switchgear cubicle 
+2E-NAN-S05A was inspected and it was determined the damage was caused by a fault.  Repairs were made to 
+the cubicle frame and panels.  A water-resistant insulating wrap was applied to the conductor connections prior 
+to re-installation of the insulating boots.  Weatherstripping and conductor connection insulating boots and Tye-
+wraps were replaced.  Replacement of the degraded weatherstripping and addition of silicone self-fusing tape 
+to the protruding portion of the conductors minimize the potential of water intrusion into 2E-NAN-S05 and 
+associated conductors under PVNGS postulated weather conditions.  Replacing the weatherstripping and Tye-
+wraps corrected the event condition.  In addition, the weatherstripping and Tye-wraps will be inspected during 
+the next routine PM activity in April 2023.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+NRC FORM 366A (08-2020) 
+ 
+Page 5 of 5 
+NRC FORM 366A 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Palo Verde Nuclear Generating Station 
+ 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+001 
+00 
+8. PREVIOUS SIMILAR EVENTS: 
+ 
+No EDG or ESF actuations resulting from water intrusion into the 13.8 kV switchgear cubicles have been reported 
+by PVNGS in the past three years. 
+ 
+However, there have been similar sequences of events with different direct causes in which a startup transformer 
+was de-energized, causing two units to experience a loss of power on a single Class 1E electrical bus, resulting in 
+the automatic start of the associated EDGs, essential SP pumps and an AF pump.  
+ 
+PVNGS experienced a partial loss of offsite power event involving the loss of power to class buses in February 
+2011 as well as two additional partial loss of offsite power events involving the loss of power to class buses within 
+the past year.  The three most recent events are being further evaluated to determine if there are any common 
+factors shared between the events.  The cause of each referenced previous PVNGS event is as follows: 
+• 
+February 2011 – A cable splice failure between the NAN-X02 startup transformer and normally supplied 
+bus, Unit 2 NAN-S05 
+• 
+October 2021 – An electrical contact event resulting in an electrical fault on the NAN-X02 startup 
+transformer 
+• 
+May 2022 – An error was introduced during a design modification performed in March 2017 
+ 
+Although PVNGS has had similar events involving the loss of power to the class buses, the cause of each event 
+was different. Therefore, it is concluded there have been no repeat occurrences of loss of power to class bus 
+events at PVNGS. 
+ 
+The corrective actions from the previous LER events would not have prevented the event which is the subject of 
+this report. 
+ 
+There have been other events at PVNGS involving water intrusion, but these have not directly caused a similar 
+event as discussed in this report. 
+ 
+ 
+ 

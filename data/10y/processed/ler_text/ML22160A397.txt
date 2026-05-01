@@ -1,0 +1,179 @@
+!)entergy
+Bonnie Bryant
+General Manager
+Plant Operations
+225-381-4200
+RBG-48175
+10 CFR 50.73
+June 9, 2022
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 / 2022-02-00, "Condition Prohibited by
+Technical Specifications due to Reactor Scram and Turbine Trip Level 8
+Trip Setpoint Deviation"
+River Bend Station - Unit 1
+NRC Docket Nos. 50-458
+Renewed Facility Operating License No. NPF-47
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments.
+Should you have any questions, please contact Mr. Tim Schenk, Regulatory Assurance
+Manager, at 225-381-4177.
+Respectfully.,
+~
+BLB/dmw·
+Enclosure: Licensee Event Report 50-458 / 2022-02-00, "Condition Prohibited by
+Technical Specifications due to Reactor Scram and Turbine Trip Level 8 Trip
+Setpoint Deviation"
+cc: NRC Region IV Regional Administrator - Region IV
+NRC Senior Resident Inspector - River Bend Station
+NRC Project Manager - River Bend Station
+Entergy Nuclear Operations, Inc., River Bend Station, 5485 U.S. Highway 61, St. Francisville, LA 70775
+Enclosure
+RBG-48175
+Licensee Event Report 50-458 / 2022-02-00, "Condition Prohibited by Technical Specifications
+due to Reactor Scram and Turbine Trip Level 8 Trip Setpoint Deviation"
+Entergy Nuclear Operations, Inc., River Bend Station, 5485 U.S. Highway 61, St. Francisville, LA 70775
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and lhe 0MB reviewer at: 0MB Office of Information and Regulatory
+(See Page 3 for required number of digits/characters for each block)
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing lhis form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3.Page
+River Bend Station, Unit 1 05000 - 458 1 Of 3
+4_ Title
+Condition Prohibited by Technical Specifications due to Reactor Scram and Turbine Trip Level 8 Trip Setpoint Deviation
+5. Event Date 6-LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l R N e o v . Month Day Year F N a I c A il ity Name 05000 . Docket N N I u A m be
+Facility Name Docket Numbe
+04 13 2022 2022 -002 - 00 06 09 2022 NIA 05000 NIA
+9. Operating Mode 10. Power Level
+100
+is Submitted Pursuant to the R uirements of 10 CFR : Check all that a
+)(2)(vi) 0 50.36(c)(2) 0 50.73(a)(2)(iv)(A)
+)(3)(i) 0 50.46(a)(3)(iQ 0 50.73(a)(2)(v)(A)
+0 20.2201 (d) 0 50.69(9) 0 50.73(a)(2)(v)(B) 0 73.71(a)(4)
+0 20.2203(a)(1) 0 50.73(a)(2)(i)(A) 0 50.73(a)(2)(v)(C) 0 73.71(a)(5)
+0 20.2203(a)(2)(i) ~ 50.73(a)(2)(i)(B) 0 50.73(a)(2)(v)(D) 0 73.77(a)(1)(i)
+0 20.2203(a)(2)(ii) 0 50.73(a)(2)(i)(C) 0 50.73(a)(2)(vii) 0 73.77(a)(2)(i)
+0 20.2203(a)(2)(iii) 0 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A) 0 73.77(a){2)(ii)
+0 20.2203(a)(2)(iv) 0 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(iii) 0 50.73(a)(2)(ix)(A)
+0 Other (Specify here, in Abstract, or in NRG 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Tim Schenk, Manager Regulatory Assurance 225-381-4177
+13. Com lete One Line for each Com onent Failure Described in this Re ort
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+NIA NIA NIA NIA NIA NIA NIA NIA NIA NIA
+14. Supplemental Report Expected Month Day Year
+~ No 0 Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date NIA N/A N/A
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 15, 2021, with River Bend Station (RBS) operating at 100% power, an RBS Safety Analysis review identified
+that when accounting for transmitter drift and other uncertainties, the original station setpoints for reactor water level
+8 reactor scram and the original station setpoints for reactor water level 8 turbine trip could allow a turbine trip to
+occur prior to the reactor scram resulting in an over pressurization event.
+RBS implemented an interim penalty to Operating Limit Minimum Critical Power Ratio (OLMCPR) on July 22, 2021.
+A past operability evaluation completed on April 13, 2022, concluded that the OLMCPR Technical Specification was
+exceeded on multiple occasions during the past two operating cycles. The cause of this condition was a result of not
+considering instrument drift and uncertainty during the original development of the Level 8 reactor scram and turbine
+trip setpoints for RBS.
+Corrective actions include implementing an administrative limit to OLMCPR that is applied to all rated and off-rated
+conditions across all Core Operating Limit Report (COLR) Application Conditions, issuing an Operating Experience
+(OE) Bulletin to reinforce the behaviors necessary when receiving fleet and industry OE, and raising the turbine trip
+nominal tri set oint.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-,2020)
+............ Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+;.,_ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+f i. regarding burden eslimate to the FOIA, Library, and lnformalion Collection Branch (T-6 A10M), U.S.
+..... Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~ CONTINUATION SHEET
+., lnfoccllects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+htlps Jlwww.nrc.gov/reading-rm/d oc-collections/nuregs/staff/ sr1 022/r3/l sponsor, and a person is not required to respond to, a collection of information unless the doc;ument
+requesting or requiring the collection displays a currently valid 0MB central number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 05000 - 458 NUMBER NO.
+2022 002 00
+NARRATIVE
+EVENT DESCRIPTION
+On July 15, 2021, with River Bend Station (RBS) operating at 100% power, a potential condition was identified with
+the Reactor Pressure Vessel [RPV] level 8 instrumentation. There are-different sets of level 8 instrumentation loops
+associated with the reactor water level 8 reactor scram and the reactor water level 8 turbine trip. The nominal trip
+setpoint (NTSP) for reactor water level 8 reactor scram is 51.0 inches and the NTSP reactor water level 8 turbine
+trip is 50. 7 inches. Since there are separate sets of transmitters for these trips, it is theoretically possible for each
+set of level transmitters (LT) to see the effects of drift and other uncertainties. Failure of the level 8 reactor scram
+initiation prior to or simultaneous with a turbine trip could lead to a severe Minimum Critical Power Ratio (MCPR)
+transient and the expected MCPR would not support the current limits. RBS accident analysis input and vendor
+model assumes simultaneous actuation.
+The limiting transient event, specifically the Feedwater Controller Failure (FWCF) transient, was re-evaluated at
+rated power conditions for RBS Cycle 22 with input from Global Nuclear Fuels (GNF). This evaluation used the
+assumption that the turbine trip would occur prior to the level 8 reactor scram. The evaluation resulted in GNF
+recommending a 0.05 OLMCPR penalty. On August 19, 2021, RBS issued Standing Order 363 Revision 4 to
+include the OLMCPR penalty resulting from the level 8 issue combined with the OLMCPR penalty that previously
+resulted from Safety Communication 21-04 (SC 21-04) (reference RBS LER 21-004).
+A past operability evaluation was performed to determine if any MCPR values were exceeded in the past three
+years from July 15, 2018 - July 15, 2021. The past operability evaluation was performed with the same assumption
+that the turbine trip would occur prior to the level 8 reactor scram, while concurrently applying penalties resulting
+from both SC 21-04 and the level 8 issue. The past operability completed on April 13, 2022, concluded that
+OLMCPR limits were exceeded for a time longer than allowed by Technical Specification 3.2.2 on multiple dates in
+Cycle 20 and Cycle 21 due to the applied penalties. During Cycle 22, OLMCPR limits were not exceeded for a time
+longer than allowed by Technical Specification 3.2.2.
+This condition is being reported as an operation prohibited by Technical Specifications in accordance with 10 CFR
+50. 73(a)(2)(i)(B).
+SAFETY ASSESSMENT
+The limiting transient event, specifically the response of the FWCF transient, has not occurred while the RBS ,
+OLMCPR was exceeded due to the applied penalties resulting from SC 21-04 and the level 8 issue. It can be
+concluded that the Safety Limit Minimum Critical Power Ratio (SLMCPR) was not violated.
+Further, regarding the physical condition of the fuel observed during subsequent refuel outages, no fuel damage
+occurred due to this condition. Fuel operating in the RBS core across all three operating cycles has undergone
+either in-mast or vacuum canister sipping, and all fuel failures discovered during this time were determined to be
+due to debris fretting.
+The condition did not prevent a safety function, as no limiting transient event as analyzed in the RBS reload
+evaluation occurred while the OLMCPR was exceeded due to the penalties applied. As a result, there was no
+impact to the health and safety of the public or plant personnel from this condition.
+NRG FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150--0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours, Reported
+................
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+f ., i LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+,.,, ',/ CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lt••it"' lnfocollects. Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC . 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+https://www .nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 05000 - 458 NUMBER NO.
+2022 002 00
+EVENT CAUSE
+When the level 8 trip setpoints were originally determined for RBS, the setpoints were not evaluated to consider drift
+and uncertainty to ensure the reactor scram would occur before or simultaneously with the turbine trip to maintain
+alignment with the current safety analysis.
+RBS did not adequately incorporate fleet operating experience from Grand Gulf Nuclear Station (GGNS) when it
+was originally identified in CR-GGNS-2000-1810.
+CORRECTIVE ACTIONS
+Complete:
+• RBS applied the vendor recommended administrative limits to OLMCPR on August 19, 2021.
+• RBS work order 569699 to adjust the level 8 turbine trip setpoint has been created.
+Planned Actions tracked in the Corrective Action Program:
+• RBS work order 569699 to adjust the level 8 turbine trip setpoint has been added to the outage
+worklist and is being tracked in the corrective action process.
+• RBS will issue an OE Bulletin to reinforce the behaviors necessary when receiving fleet and industry OE.
+This item is also being tracked in the corrective action process.
+PREVIOUS SIMILAR EVENTS
+None
+NRG FORM 366A (08-2020) Page 3 of 3

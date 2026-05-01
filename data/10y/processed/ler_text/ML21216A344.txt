@@ -1,0 +1,214 @@
+MlQr*0Or* EnergyHarborNuclear Corp
+PerryNuclearPowerPlant
+10CenterRoad
+. . .. Perry, Ohio 44081
+RodL.Penfield 440-280-5382
+Site VicePresident, PerryNuclear 724-462-0816(cell)
+August 4, 2021
+L-21-189 10CFR50.73(a)(2)(i)(B)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2021-002, "Core Monitoring System Software
+Modeling Error Results in Conditions Prohibited by Technical Specifications." There are
+no regulatory commitments contained in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager- Regulatory Compliance, at (440) 280-7538.
+Sincerely,
+Rod L. Penfield
+Enclosure:
+LER 2021-002
+cc: NRC Project Manager
+NRG Resident Inspector
+NRC Region III Regional Administrator
+Enclosure
+L-21-189
+LER 2021-002
+NRCFORM366 U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+LICENSEE EVENT REPORT (LER) regardingburdenestimatetotheFOIA,Library,andInformationCollectionBranch(T-6A10M),U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(SeePage3forrequirednumberofdigits/charactersforeachblock) lnfocollects,Resource(5)nrc.qov.andtheOMBreviewerat:OMBOfficeofInformationandRegulatory
+Affairs,(3150-0104),Attn:DeskOfficerfortheNuclearRegulatoryCommission,72517thStreetNW,
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthisform Washington,DC 20503;e-mail: oira submission(5)omb.eop.qov. TheNRCmaynotconductor
+***** https://www.nrc,Qov/readinq-nTi/doc-collections/nureQs/staff/sr1022/r3/) sponsor,andapersonisnotrequiredtorespondto,acollectionofinformationunlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1.Facility Name 2.DocketNumber 3. Page
+Perry Nuclear Power Plant 05000 - 00440 1 of4
+4.Title
+Core Monitoring System Software Modeling Error Results in Conditions Prohibited by Technical Specifications
+5. EventDate 6. LERNumber 7. ReportDate 8.OtherFacilitiesInvolved
+Month Day Year Year Se N q u u m en b t e i r al R N e o. v Month Day Year FacilityName 05000 DocketNumber
+FacilityName DocketNumber
+06 17 2021 2021 -002- 00 08 04 2021
+05000
+9.OperatingMode 10.PowerLevel
+100
+11.ThisReportisSubmittedPursuanttotheRequirementsof10CFR§: (Checkallthatapply)
+□20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+□20.2201(b) □20.2203(a)(3)(i) □ 50.46(a)(3)(ii) D 50.73(a)(2)(v)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(g) ,D 50.73(a)(2)(v)(B)
+D20.2203(a)(1) O 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) □ 73.71(a)(5)
+□20.2203(a)(2)(i) 50.73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) □ 73.77(a)(1)(i)
+Q 20.2203(a)(2)(ii) D50.73(a)(2)(i)(C) D 50.73(a)(2)(vii) □ 73.77(a)(2)(i)
+□20.2203(a)(2)(iii) D50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A) □ 73.77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) D50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+Q Other(Specifyhere, inAbstract, orin NRC366A).
+12. LicenseeContactforthisLER
+LicenseeContact PhoneNumber(IncludeAreaCode)
+George Dujanovic, Staff Nuclear Engineering Specialist, Regulatory Compliance 440-280-5200
+13.CompleteOneLineforeachComponentFailureDescribedinthisReport
+Cause System Component Manufacturer ReportableToIRIS Cause System Component Manufacturer ReportableToIRIS
+14.SupplementalReportExpected Month Day Year
+15. ExpectedSubmissionDate
+Yes(Ifyes,complete15.ExpectedSubmissionDate)
+16.iAbstract(Limitto1560spaces,i.e.,approximately15single-spacedtypewrittenlines)
+i ■
+On,June 17, 2021, with Perry Nuclear Power Plant (PNPP) operating at 100 percent power, PNPP received a letterfrom
+General Electric- Hitachi (GEH) issuing SC 21-04, Revision 1, "Fuel Support Side Entry Orifice Meta-Stable Flow for2
+Beam Locations in the BWR/6 Reactors," identifying thatthe Global Nuclear Fuels (GNF) model forfuel affected by the
+Side Entry Orifices did not accurately accountforthe loss coefficients at those core locations causing a local
+ov'erprediction in Minimum Critical Power Ratio (MCPR) margin. This resulted in the determination by PNPP that a
+condition prohibited by Technical Specifications (TSs) had existed at PNPP and this report being made in accordance
+with 10 CFR 50.73(a)(2)(i)(B).
+The cause ofthe event is a legacy issue that is due to the flow geometries below the reactorcore plate in the areas of
+Intermediate Range and Source Range neutron detectordry tubes, causing a local overprediction in MCPR margin
+resulting in exceeding the MCPR TS limit.
+Corrective actions include updating the Cycle 19 Core Operating Limits Report (COLR) and associated documents to
+accountforSC 21-04, Revision 1, and updating the Thermal Limit Files in the core monitoring software.
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimatedburden perresponsetocomplywiththismandatorycollectionrequest: 80hours. Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+LICENSEE EVENT REPORT (LER)
+regarding burdenestimatetothe FOIA, Library, and Information Collection Branch (T-6A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects,Resource(5)nrc,qov. andtheOMB reviewerat: OMBOfficeofInformationand Regulatory
+Affairs, (3150-0104),Attn: DeskOfficerfortheNuclearRegulatoryCommission,72517thStreetNW,
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthisform Washington, DC 20503; e-mail: oira submission@omb.eop.Qov. The NRCmay notconductor
+https://www.nrc.qov/readina-rrn/doc-collections/nureqs/staff/sr1022/r3/) sponsor, andapersonisnotrequiredtorespondto, acollectionofinformation unlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1. FACILITYNAME 2 DOCKETNUMBER LERNUMBER
+YEAR SEQUENTIAL REV
+Perry Nuclear Power Plant 05000 - 00440 NUMBER NO.
+2021 - 002 -00
+NARRATIVE
+Energy Industry Identification System (EMS) codes are identified in the text as [XX].
+INTRODUCTION
+Minimum Critical Power Ratio (MCPR) is a ratio ofthe fuel assembly powerthatwould result in the onset of boiling
+transition to the actual fuel assembly power. The operating limit MCPR is established to ensure that no fuel damage
+results during anticipated operational occurrences (AOOs), and that 99.9% ofthe fuel rods avoid boiling transition if
+the limit is not violated. Although fuel damage does not necessarily occur ifa fuel rod actually experiences boiling
+transition, the critical poweratwhich boiling transition is calculated to occur has been adopted as a fuel design
+criterion.
+The core monitorapplies the appropriate Operating Limit Minimum Critical Power Ratio (OLMCPR) based on the
+maximum flow dependent MCPR (MCPRF) and the powerdependent MCPR (MCPRP). When this OLMCPR is
+divided by the calculated MCPR, this returns the Maximum Fraction ofthe Limiting Critical;Power Ratio (MFLCPR).
+With MFLCPR <1.000, the Core Operating Limits Report (COLR) limits are met such thatTechnical Specification (TS)
+3.2.2 is satisfied.
+Because plant operating conditions and bundle power levels are monitored and determined relatively easily,
+monitoring the MCPR is a convenientway ofensuring thatfuel failures due to inadequate cooling do not occur.
+EVENT DESCRIPTION
+On June 17, 2021, General Electric - Hitachi (GEH) issued Revision 1 to Safety Communication SC 21-04, "Fuel
+Support Side Entry Orifice Meta-Stable Flow for2 Beam Locations in the BWR/6 Reactors." Revision 1 documents the
+completion ofGEH's investigation. The investigation concluded that.this issue is reportable under 10 CFR Part21.
+Revision 1 provided updated guidance for establishing administrative limits. Perry Nuclear Power Plant (PNPP)
+currently limits operations to MFLCPR to less than 0.950 which is conservative with respectto the guidance ofSC 21-
+04, Revision 1.
+GEH notified site personnel in April 2021 through SC 21-04 (revision 0 Draft), thatthere was an issue with how the core
+monitoring software (3DMONICORE) calculated flowthrough fuel bundles in the 2 beam locations, which are fuel bundle
+locations with Intermediate Range Monitor (IRM)/Source Range Monitor (SRM) dry tubes. This potential problem would
+cause 3DMONICORE to underestimate bundle fraction limiting critical power ratio (FLCPR). TS 3.2.2 requires MCPR to
+be maintained above limits (or FLCPR less than 1.0). GEH recommended atthattime that affected sites implement an
+administrative limit of limiting operations to MFLCPR to less than 0.950.
+GEH has completed the evaluation ofthe condition to determine reportability under 10 CFR Part 21 and is a
+reportable condition under 10 CFR 21.21(a)(2) and a transferof information under 10 CFR 21.21(b).
+This evaluation established a 0.950 MFLCPR limit for only the 2 beam locations in the core. This limit, however, can
+be conservatively applied to the entire core.
+NRCFORM366A (08-2020) Page 2 of4
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimatedburden perresponsetocomplywiththismandatorycollectionrequest: 80hours. Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimatetothe FOIA, Library, and Information Collection Branch (T-6A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource(5)nrc.Qov. andtheOMBreviewerat: OMBOfficeofInformationand Regulatory
+Affairs, (3150-0104),Attn: DeskOfficerfortheNuclearRegulatoryCommission, 725 17th StreetNW,
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform Washington, DC 20503; e-mail: oira submission(5)omb.eop,aov. The NRCmay notconductor
+https://www.nrc.oov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/) sponsor, andaperson isnotrequiredtorespondto;acollectionofinformation unlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1. FACILITYNAME 2 DOCKETNUMBER LERNUMBER
+YEAR SEQUENTIAL REV
+Perry Nuclear Power Plant 05000 - 00440 NUMBER NO.
+2021 002 -00
+TS 3.2.2, MINIMUM CRITICAL POWER RATIO (MCPR), requires that all MCPRs shall be greaterthan orequal to the
+MCPR operating limits specified in the Core Operating Limits Report. Operations personnel verify this requirement by
+ensuring variable MFLCPR (Maximum Fractional Limiting Critical Power Ratio) is less than orequal to 1.000.
+Ifany MCPR value is notwithin limits, it should be restored within two hours. Ifnot restored within two hours, thermal
+power must be lowered to less than 23.8% within the nextfour hours.
+The history ofvariable MFLCPR forthe last 3 years was reviewed. The objective was to identify any period where the
+MFLCPR (corrected for SC 21-04) exceeded 1.0 for more than six hours.
+During Cycle 17 (June 2018 through March 2019), therewere no periods where MFLCPR (SC 21-04) was greaterthan
+1.0 for longerthan six hours.
+During Cycle 18 (April 2019 through March 2021), there were seven instances where MFLCPR (SC 21-04) was
+greaterthan 1.0 for longerthan six hours. During these instances, the requirements ofTS 3.2.2 were not met, and
+during this time period therewere ho limiting transients thatwould be a challenge to the Safety Limit.
+ForCycle 19 (April 2021), therewere no periods where MFLCPR (SC 21-04) was greaterthan 1.0 for longerthan six
+hours.
+This condition is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation orcondition prohibited by the plant's TSs.
+CAUSE
+The issues raised in SC 21-04 are a direct result ofthe follow-on investigation actions resulting from GEH letter SC
+20-05, Revision 0, "Fuel Support Side Entry Orifice Loss Coefficientfor In-Core Instrument Locations in the Core
+Monitoring System Databank", dated June 24, 2020. In SC 20-05, Global Nuclear Fuels (GNF)/GEH were
+investigating various flow geometries below the core platewhen itwas discovered thatthe Intermediate Range
+Monitor (IRM)/Source Range Monitor (SRM) dry tubes impactflow through neighboring bundles. During the resulting
+SC 20-05 follow-on actions, GEH observed that meta-stable flow conditions can occur in the bundles nearthe 2
+beam locations.
+EVENTANALYSIS
+A qualitative assessment ofthe issues identified in GEH SC 21-04, affecting Nuclear Fuel Thermal Limits, was
+performed. In general, ifthe Safety Limitfor MCPR is violated, there is a potential forfuel clad failure, which means
+that activity is released from the fuel, although significantfuel meltor otherfuel damage is not expected with a 1.031
+maximum MCPR. The Probability RiskAssessment (PRA) uses Peak Clad Temperature as the definition forcore
+damage. Violating the Safety Limits does not meet the PRA definition ofSevere Accident Core Damage and does not
+significantly impactthe ModularAccidentAnalysis Program (MAAP) analysis as a basis for PRA accident sequences;
+thus, this event is ofvery low safety significance.
+NRCFORM366A (08-2020) Page 3 of4
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden perresponsetocomplywiththismandatorycollectionrequest: 80hours. Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+■% LICENSEE EVENT REPORT (LER)
+regarding burden estimatetothe FOIA, Library, and Information Collection Branch (T-6A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.ResourceOnrc.oov. andtheOMB reviewerat: OMBOfficeofInformationand Regulatory
+Affairs,.(3150-0104),Attn: DeskOfficerfortheNuclearRegulatoryCommission, 725 17thStreetNW,
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform Washington, DC 20503; e-mail: oira submission(5)omb.eoD,aov. The NRCmay notconductor
+https://www.nrc.qov/readinq-rrn/doc-collections/nureqs/staff/sr1022/r3/) sponsor,,andaperson isnotrequiredtorespondto,acollectionofinformation unlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1. FACILITYNAME 2. DOCKETNUMBER LERNUMBER
+YEAR SEQUENTIAL REV
+Perry Nuclear Power Plant 05000 - 00440 NUMBER NO.
+2021 002 -00
+CORRECTIVE ACTIONS
+Immediate Corrective Action:
+As recommended in SC 21-04 (Revision 0 Draft) issued in April 2021, PNPP implemented an administrative limit
+of maintaining MFLCPR less than orequal to 0.950. PNPP Cycle 19 startup (April 2021) and subsequent
+operations has maintained MFLCPR less than orequal to 0.950.
+Corrective Action Summary:
+1. The Cycle 19 Core Operating Limits Reportand associated documents will be updated to accountfor SC 21-04,
+Revision 1.
+2. The Thermal Limit Files will be updated to accountfor SC 21-04, Revision 1.
+PREVIOUS SIMILAR EVENTS
+A review ofprevious LERs did not identify any events thatwere similarto the condition described in this LER.
+COMMITMENTS
+None
+NRCFORM366A (08-2020) Page 4 of4

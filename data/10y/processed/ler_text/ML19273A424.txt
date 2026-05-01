@@ -1,0 +1,195 @@
+10CFR50.73
+Virginia Electric and Power Company
+Surry Pow~r Station
+5570 Hog Island Road
+Surry, Virginia 23883
+SEP 1 9 20T9
+U. S. Nuclear Regulatory Commission Serial No.: 19-402
+Attention: Document Control Desk SPS: SCN
+Washington, D. C. 20555-0001 Docket No.: 50-280
+50-281
+License No.: DPR-32
+DPR-37
+Dear Sir or Madam:
+Pursuant to 1O CFR50.73, Virginia Electric and Power Company hereby submits the
+following Licensee Event Report appl(cable to Surry Power Station Unit 1 and Unit 2.
+Report No. 50-280, 50-281 I 2019-001-00
+This report has been reviewed by the Station Facility Safety Review Committee and will
+be forwarded to the Management Safety Review Committee.
+Very truly yours,
+F. Mladen
+Site Vice President
+Surry Power Station
+Enclosure
+Commitment contained in this letter: None
+cc: U.S. Nuclear Regulatory Commission, Region II
+Marquis One Tower, Suite 1200 ·
+245 Peachtree Center Ave., NE
+Atlanta, GA 30303-1257
+NRG Senior Resident Inspector
+Surry Power Station
+------~
+-------~-
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry .
+! • l ~~RREct,,. ...o . . . . :' . o . LICENSEE EVENT REPORT (LER) S N e u n c d le a c r o m R m eg e u n l t a s t o r r e y g a C rd o in m g m i b s u s r io d n e , n W es a ti s m h a in te g to to n , th D e C I n 2 fo 0 r 5 m 5 a 5 t - io 0 n 0 0 S 1, e rv o i r c e b s y B e ra -m nc a h il ( t T o - 2 ln F fo 4 c 3 o ), l le U c . t S s. .
+; ~ .., . ., , ..... +°~ (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Surry Power Station, Unit 1 05000 280 1 OF 3
+4. TITLE
+Failure to Align Angle Drive to Pump Results in Inoperable Emergency Service Water Pump
+5. EVENT DATE 6. I LE R NUMBE I R 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR S F u A r C r I y LIT Y P N o A w ME e r Station, Unit 2 05 D 0 O 0 C 0 K ET NU 2 M 8 B 1 ER
+. .
+FACILITY NAME DOCKET NUMBER
+07 21 2019 2019 001 00 09 19 2019
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a){3)(i) 50.73(a)(2)(ii){A) 50.73(a)(2)(viii)(A}
+D D D D
+20.2201 (d} 20.2203(a}(3)(ii) 50.73(a}(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N D D D D
+20.2203(a)(1> 2q.2203(a)(4) so.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i> 50.36(c)(1}(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203{a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v){A) 73.11(a}(4>
+D D D D
+20.2203(a)(2){iii) so.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(s)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) 13.77(a)(1>
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)0>
+.D [ZJ D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+: . : \ ,, / : r , } ' - - t c ! ,. ' - ' c __ ~-', ... ; . · ,- .-. D 50.73(a)(2)(i)(C) D OTHER Specify In Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Barry Garber, Manager Nuclear Licensing (757) 365-2725
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M CT A U N R U E -· R RE T P O OR E T P A IX B LE I CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O O R E T P A IX B LE
+A Bl p 8260 y I ~
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D [ZJ SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 23, 2019, with Units 1 and 2 at 100% power, the packing gland on the 1B Emergency Service Water Pump
+(ESWP) failed during periodic pump testing and the pump was declared inoperable. The packing gland was repaired and
+the pump was returned to service on June 24, 2019. During the next scheduled pump test on July 21, 2019, another
+packing failure occurred. Subsequent investigation revealed that both packing failures were caused by the angle drive to
+pump shaft not being aligned when the pump was replaced in May 2019. The decision making was not appropriate in that
+only first line supervisors were consulted before making the decision not to per:form the alignment. The decision should
+have been elevated to ensure a broader group of personnel were involved in the decision.
+The ESWP 1 B to angle drive alignment was performed in accordance with procedures and returned to service.
+Additionally, corrective actions will include a revision to the maintenance procedure and other changes focusing on
+. improving proficiency and decision making.
+This report is submitted pursuant to 10 CFR 50.73(a)(2)(i)(B) due to operations prohibited by Technical Specifications.
+Based on a risk assessment, the risk impact was determined to be of very low significance.
+NRG FORM 366 (04-2017) Page 1 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated Into the licensing process and led back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+CONTINUATION SHEET Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. II a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid 0MB control
+number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/}
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Surry Power Station, Unit 1 05000- 280
+2019 • 001 00
+NARRATIVE
+1.0 DESCRIPTION OF THE EVENT
+Three diesel-driven vertical Emergency Service Water Pumps (ESWPs) [EIIS-81-P] are provided at the James River
+intake structure [EIIS-KE-NN] to deliver service water (SW) makeup to the intake canal [EIIS-KE-NN] in the event of a
+total loss of station power coincident with a design basis Loss of Coolant Accident (LOCA). The three (3) ESWPs
+serve both Surry units. Two of three ESWPs provide sufficient heat removal for the design basis LOCA unit and the
+non-LOCA unit. Technical Specification (TS) 3.14.A.4 states that when the reactor coolant system temperature or
+pressure exceeds 350 degrees For 450 psig, three ESWPs shall be operable. TS 3.14.B allows one ESWP to remain
+inoperable for a period not to exceed 14 days.
+On April 29, 2019, ESWP 1B was tagged out in preparation for pump replacement. The pump was replaced without
+performing an angle drive to pump alignment and on May 4, 2019, the pump was started for its return to service run.
+During this run, multiple vibration points were elevated. The source of these elevated vibrations were determined to be
+resonance and did not impact operability. On May 7, 2019, the pump was successfully returned to service. On May 8,
+2019, grouting was installed under the pump pit plate and on May 28, 2019, the pump was tested with results showing
+that the vibrations had decreased indicating the grout changed the resonance frequency of the angle drive to pump
+shaft assembly.
+On June 23, 2019, during periodic testing, ESWP 1 B was secured due to abnormal sounds after pump start. The
+pump was declared inoperable as a result of a failure of the pump packing gland. The failure was attributed to
+loosening of the packing gland follower clamping bolts during pump operation at elevated vibration levels. Following
+repacking, application of a liquid threadlocker to the pump gland follower clamping nuts, and successful testing, the
+pump was declared operable on June 24, 2019.
+During the next scheduled pump test on July, 21, 2019, ESWP 1 B was again secured and declared inoperable due to a
+packing failure. Subsequent investigation showed that the pump shaft and angle drive were misaligned resulting in
+excessive shaft movement, stuffing box bushing wear, and packing failure. On July 25, 2019, the ESWP 1 B angle
+drive to pump shaft were aligned and the pump declared operable.
+It was determined that the prior packing failures were caused by angle drive to pump misalignment which occurred in
+May 2019. At three (3) separate times during this period of ESWP 1 B inoperability (i.e., from May 7 to July 25), ESWPs
+1A and 1 C were separately removed from service for scheduled maintenance, but at no time was either pump unable
+to be returned to operable status within the 2-hour time-critical operator action starting time should a design basis
+event have occurred. As a result there was not a loss of safety function.
+ESWP 1 B was determined to be unable to perform its design function since the time that the pump was replaced and
+as a result exceeded its 14-day TS allowed outage time. In addition, the period of time ESWP 1A and 1 C were
+separately removed from service resulted in exceeding the TS 3.0.1 criterion. Therefore, this report is submitted
+pursuant to 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by Technical Specifications.
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+The risk associated with the ESWP 1 Bout-of-service condition is very low since the likelihood of a design basis
+accident coincident with loss of off-site power and a challenge to intake canal cooling water volume is extremely
+unlikely. Additionally, ESWP 1A and 1C were available during the period ESWP 1B was inoperable. Therefore, the
+impact of the condition was very low, and there were no safety consequences because of this event.
+NRC FORM 366A (04-2017) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGl)LATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+CONTINUATION SHEET Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid 0MB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+http://www. n re. gov/ rea ding-rm/doc-coll ecti ons/nuregs/staff/ s r1 022/r3D
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Surry Power Station, Unit 1 05000- 280
+2019 • 001 00
+NARRATIVE
+3.0 CAUSE OF THE EVENT
+This event was caused by the angle drive to pump shaft not being aligned when the pump was replaced in May 2019.
+The decision making was not appropriate in that only first line supervisors were consulted before making the decision
+not to perform the alignment. The decision should have been elevated to ensure a broader group of personnel
+(technical experts in vertical pump alignment and their leaders) were involved in the decision.
+4.0 IMMEDIATE CORRECTIVE ACTIONS
+ESWP 1 B pump to angle drive alignment was performed in accordance with station procedures. The pump was tested
+and returned to service on July 25, 2019.
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+Although ESWPs 1A and 1C have been in service for multiple years since their last replacement, they were inspected
+for extent of condition. Results showed the packing gland follower bolts/nuts were tight with no visual signs of damage.
+Additionally, satisfactory vibration levels and a history of successful performance runs, without gland follower damage
+or packing extrusion, indicated that no significant misalignment existed between the pump and angle drives.
+6.0 ACTIONS TO PREVENT RECURRENCE
+The maintenance procedure will be revised to provide additional guidance and require an angle drive to pump
+alignment when the angle drive is removed.
+Other actions focusing on improving proficiency and decision making for the groups involved will be implemented by
+the Corrective Action Program.
+7.0 SIMILAR EVENTS
+None
+8.0 MANUFACTURER/MODEL NUMBER
+Bingham / VLT M
+Johnson right angle gear drive/ HH425
+9.0 ADDITIONAL INFORMATION
+None.
+NRC FORM 366A (04-2017) Page 3 of 3

@@ -1,0 +1,342 @@
+David A. Vineyard Southern Nuclear
+Vice President ·Hatch Operating Company,lnc.
+Plant Edwin I. Hatch
+11028 Hatch Parkway North
+Baxley, Georgia 31513
+Tel 912.537.5859
+Fax 912.366 2077 A
+SOUTHERN
+COMPANY
+October 13, 2016
+Docket No.: 50·366 NL-1&2107
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D. C. 2055S.0001
+Edwin I. Hatch Nuclear Plant Unit 2
+Ucensee Event Report 2016-003-00
+2C Emergency Diesel Generator Inoperable Due to Low Lube Oil Pressure
+Ladies and Gentlemen:
+In accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B), 10 CFR
+50. 73(a)(2)(v)(D), and 10 CFA 21.21 (d)( 1) (ii) Southern Nuclear Operating Company
+(SNC) hereby submits the enclosed Licensee Event Report.
+This letter contains no NRC commitments. If you have any questions, please contact Greg
+Johnson (912) 537·5874.
+Respectfully submitted,
+D. R. Vineyard
+Vice President - Hatch
+DRV/jcb
+Enclosures: LEA 2016-003-00
+U. S. Nuclear Regulatory Commission
+NL-16-2107
+Page2
+cc: Southern Nuclear Operating Company
+Mr. S. E. Kuczynski, Chairman, President & CEO
+Mr. D. G. Bast, Executive Vice President & Chief Nuclear Officer
+Mr. D. R. Vineyard, Vice President-Hatch
+Mr. M.D. Meier, Vice President-Regulatory Affairs
+Mr. D. R. Madison, Vice President-Fleet Operations
+Mr. B. J. Adams, Vice President - Engineering
+Mr. G. L. Johnson, Regulatory Affairs Manager- Hatch
+RTYPE: CHA02.004
+U. S. Nuclear Regulatory Commission
+Ms. C. Haney, Regional Administrator
+Mr. M. D. Orenak, NRR Project Manager-Hatch
+Mr. D. H. Hardage, Senior Resident Inspector-Hatch
+Edwin I. Hatch Nuclear Plant Unit 2
+LER 2016-003-D
+2C Emergency Diesel Generator Inoperable Due to Low Lube Oil Pressure
+X NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 01/31/2017
+(02·2014)
+;"'"-... Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~~'\ Reported lessons teamed are incorporated into the licensing process and fed back to industry.
+~' Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+....i !j Branch (T·5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by
+LICENSEE EVENT REPORT (LEA)
+internet e-mail to lnfocollects.Resource@nrc.QOY, and to the Desk OffiCer, Office of Information and
+Regulatory Affairs, NEOB-10202, (315().0104), Office of Management and Budget, Washington, DC
+20503 If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Edwin I. Hatch Nuclear Plant Unit 2 05000 366 1 OF 6
+4. TITLE
+2C Emergency Diesel Generator Inoperable Due to Low Lube Oil Pressure
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR
+NUMBER NO.
+- FACILITY NAME DOCKET NUMBER
+08 18 2016 2016 003 - 00 10 13 2016
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+D D D 0
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(A) 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+100
+D D D 181
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+D 181 181
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 10 CFR 21.21 (d)
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT r ELEPHONE NUMBER (Include Area Code)
+Edwin I. Hatch I Carl James Collins - Licensing Supervisor 912-537-5900 ext 2342
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU· REPORTABLE MANU· REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B EK DG F010 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 181 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines}
+On August 18, 2016 at 1006, while performing the monthly Emergency Diesel Generator (EDG) surveillance, the 2C
+EDG tripped on low lube oil pressure. The station entered a 72 hour Required Action Statement (RAS) for Unit 2
+Limiting Condition of Operation (LCO) 3.8.1.b. The other four EDGs were successfully started for surveillance testing
+in accordance with Tech Specs to preclude a common cause failure mode. Further inspections were performed and
+the cross drive shaft between the pump flexible drive gear and the engine driven lube oil pump was found sheared.
+The cross drive shaft assembly was replaced and the 2C EDG was declared operable on August 24, 2016 after
+subsequent functional and post maintenance testing.
+Investigations into the failure revealed that the initial cross drive shaft fracture existed prior to the monthly
+surveillance performed on August 18. The time frame for which the 2C EDG was able to perform its safety function
+for its 7-day mission time is indeterminable due to the failure mechanism of the cross drive shaft. A loss of safety
+function is being reported due to the 2C EDG being potentially inoperable during a time in which either the 1 8 swing
+EDG was inhibited from Unit 2 or the 1B /2A EDG was inoperable due to normal equipment maintenance and testing.
+Additionally, this report constitutes a Part 21 notification per 10 CFR 21.21 (d).
+NRC FORM 366 (02·2014)
+NRC FORM 366A (1·2001)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSIOI\ APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1/31/2017
+(02·2014) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+# ........ Reported lessons learned are incorporated into the licensing process and led back to industry.
+F \ Send comments regarding burden estimate to the FOIA, Privacy and lnfonmation Collections
+~~~ LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by
+t' ....~.. .l internet e-mail to lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation
+CONTINUATION SHEET and Regulatory Affairs, NEOB-10202, {3150·0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an infonmation collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the infonmation collection.
+1. FACILITY NAME 2. DOCKET 6I. LEA NUMBERI 3. PAGE
+YEAR SEQUENTIAL REV.
+Edwin I. Hatch Nuclear Plant Unit 2 05000 366 NUMBER NO. 2 OF 6
+2016 •• 003 •• 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor
+Energy Industry Identification System codes appear in the text as (EllS Code XX)
+DESCRIPTION OF EVENT
+On August 18, 2016 at 1006 with Unit 2 at approximately 100 percent thermal power, the 2C Emergency Diesel
+Generator (EDG) (EllS Code DG) tripped due to low lube oil pressure about 30 minutes into the surveillance run. The
+station entered a 72 hour Required Action Statement (RAS) for Limiting Condition of Operation (LCO) 3.8.1.b of
+Hatch Unit 2 Technical Specifications, which requires two (2) Unit 2 EDGs to be operable. The other four (4) EDGs
+were successfully started in accordance with Tech Specs to preclude a common cause failure mode, and no issues
+were identified. All four EDGs were also successfully loaded, which exceeded the requirement of the required action.
+The 1 B EDG was inhibited from automatically aligning to Unit 1 on August 19, 2016 at 1157 in order to allow 14 days
+to restore the 2C EDG to operable status. Further inspections of the 2C EDG were performed and the cross drive
+shaft between the pump flexible drive gear and the engine driven lube oil pump was found sheared. As part of
+further troubleshooting and inspection, the cross drive assembly was inspected and excessive bearing wear was
+identified in the cross drive indicated by excessive movement in the shaft.
+Upon the installation of a new cross drive assembly, as well as the replacement of associated damaged parts, the 2C
+EDG was declared operable on August 24, 2016 at 2334 following successful completion of post maintenance
+testing.
+CAUSE OF EVENT
+Based on physical indications and failure analysis taken from the damaged cross drive shaft, associated drive gears,
+and cylindrical roller bearing, the shaft failed due to rotational bending fatigue caused by premature bearing failure.
+The most likely cause of bearing failure was due to an overload condition such that the bearing was no longer able to
+adequately support the shaft to reduce rotational friction and support radial and axial loads. The overloaded bearing
+condition most likely existed from the EDG manufacturer. All preventative maintenance activities have been
+appropriately completed in accordance with vendor recommendations. Additionally, as-found failure analyses did not
+find indications of foreign material or inadequate lubrication. A search through Southern Nuclear Operating Company
+(SNC) maintenance records has not revealed any maintenance performed on the cross drive assembly by SNC
+beyond the vendor recommended visual inspection since the 2C EDG was installed. Therefore, based on the
+aforementioned information, this event is also reportable per 10 CFR 21.21 (d) for reporting manufacturing defects
+that could create a substantial safety hazard. Premature wear of the cylindrical roller bearing located on the cross
+drive shaft initiated and propagated the cross drive shaft failure. Bearing life expectancy is dependent upon the load
+and speed imposed on the bearing. Based on the maximum speeds seen by Fairbanks Morse 38TD 8-1/8 Opposed
+Piston Diesel Engines and the amount of run-time hours accumulated by the 2C EDG, the bearing failed prematurely
+due to being overloaded. This overload caused fatigue on the bearing inner and outer races and on the bearing
+rollers, such that the shaft was no longer adequately supported. This resulted in the bending of the shaft and initiated
+cracks at multiple locations on the outer diameter. The cracks then continued to propagate inward towards the center
+of the shaft due to continued bending fatigue. When the remaining cross-sectional area of the shaft could no longer
+support the applied bending and torsional loads, the shaft failed.
+NRC FORM 366A (02·2014)
+NRC FORM 366A (1·2001)
+NRC FORM 366A LICENSEE EVENT REPORT (LER) U.S. NUCLEAR REGULATORY COMMISSION
+(02·2014)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6I. LER NUMBERI 3. PAGE
+YEAR SEQUENTIAL REV.
+Edwin I. Hatch Nuclear Plant Unit 2 NUMBER NO.
+05000 366 30F6
+2016-003- 00
+NARRATIVE
+REPORT ABILITY AND SAFETY ASSESSMENT
+This event is reportable per 10 CFR 50. 73(a)(2)(i)(B) due to being a condition prohibited by Technical Specifications
+and per 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented fulfillment of a safety function
+of a system that is needed to mitigate the consequences of an accident. The time frame for which the 2C EDG was
+able to perform its safety function for its 7-day mission time is indeterminable due to the failure mechanism of the
+cross drive shaft. There is a loss of safety function due to a potential loss of onsite emergency power since the 2C
+EDG was potentially inoperable for a time period in which either the 1 B swing EDG was inhibited from Unit 2 or the
+1 B/2A EDG was inoperable due to normal equipment maintenance and testing. Additionally, this report constitutes a
+Part 21 notification in accordance with 10 CFR 21.21 (d)(1 )(ii) for reporting manufacturing defects that could create a
+substantial safety hazard.
+The Unit 2 electrically powered safety loads are separated into redundant load groups such that loss of any one
+group will not prevent the minimum safety functions from being performed. The essential loads are divided between
+essentiai4160-V buses 2E, 2F, and 2G. The availability of any two of these buses is sufficient to meet any accident
+condition. Unit 2 onsite standby AC power supply consists of three diesel generator units (2A, 2C, and 1 B EDG). In
+the event of an emergency such that normal AC power is unavailable, the EDGs supply standby power to the
+essentiai4160-V buses. Diesel generators 2A and 2C supply essential buses 2E and 2G, respectively. Diesel
+generator 1 B is a shared diesel and can supply either Unit 1 essential bus 1 F or Unit 2 essential bus 2F. Therefore,
+each load group has connections to a single EDG. There are a total of five EDGs furnishing the essential loads for
+HNP-1 and HNP-2, such that any four out of five diesel generators are adequate to supply the engineered safety
+features (ESF) loads of one unit concurrent with the emergency shutdown loads of the other unit. Therefore, the
+failure of any one diesel and its associated bus does not prevent safe shutdown, regardless of which bus fails.
+Based on failure analysis, it is indeterminate when the 2C EDG could last meet its 7-day mission time due to the
+failure mechanism of the cross drive shaft. The 2C EDG successfully passed its 24 hour surveillance in January
+2016. However, there were two subsequent periods of time in which the 1 B EDG was declared inoperable due to
+maintenance activities, thus potentially causing two EDGs to be inoperable simultaneously. The most extensive of
+these periods of time, and therefore the most limiting, was when the 1 B "swing" EDG was in a system outage in April
+2016 and declared inoperable for approximately 109 hours. The limiting accident in which two EDGs would be
+necessary to ensure Unit 2 is maintained in safe shutdown conditions would be a dual unit Loss of Site Power
+(LOSP) simultaneous with a Loss of Coolant Accident (LOCA) on Unit 2 only. The 2C EDG successfully passed its
+monthly surveillances in April, May, June and July of 2016 and ran for 30 minutes fully loaded in August 2016 prior to
+failure. This represents approximately 4.5 hours of run time. If a station LOSP concurrent with a Unit 2 LOCA event
+would have occurred during April 2016, the 2C and the 2A EDG would have started and carried essential emergency
+loads for at least 4.5 hours into the accident, at which time the 2C EDG would have failed. Upon initiation of the
+LOSP/LOCA event, appropriate priority would have been placed on returning the 1B EDG to service. Qualified diesel
+mechanics approximate this return to service time to be 18 hours. Therefore, the approximate time period for which
+Unit 2 would have had only one fully operable EDG would be approximately 13.5 hours. Unit 1 would have been
+shutdown at this point and not needed the additional EDG.
+Four and a half hours into a LOCA/LOSP event, the core has been reflooded and one loop of suppression pool
+cooling is removing decay and sensible heat from the containment. Upon the loss of the 2C EDG, the remaining 2A
+EDG would be available to continue vessel injection and core cooling using Core Spray or RHR. Due to the loss of
+the 2C EDG and suppression pool cooling, containment would begin to heat up along with a pressure increase.
+Operators would continue to monitor containment parameters and take appropriate actions in accordance with
+Emergency Operating Procedures. These actions would include spraying containment and ultimately venting
+NRC FORM 366A (02·2014)
+NRC FORM 366A(1-2001)
+NRC FORM 366A LICENSEE EVENT REPORT (LER) U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6I. LEA NUMBERJ 3. PAGE
+YEAR SEQUENTIAL REV.
+Edwin I. Hatch Nuclear Plant Unit 2 05000 366 NUMBER NO. 40F6
+2016 - 003 - 00
+NARRATIVE
+containment as necessary. Venting containment would not result in offsite radiation levels being elevated since fuel
+failure during a LOCA is not postulated. Upon returning the I B EDG to service, approximately 18 hours into the
+event, RHRSW pumps would be started to assist in containment cooling, thus restoring containment temperature
+and pressure. The use of proceduralized and trained operator actions available to mitigate the effects of the
+reduction in containment cooling ensures containment protection would have been accomplished.
+The likelihood of having a station LOSP concurrent with a Unit 2 LOCA is very low. Therefore, based on the ability
+of the station to mitigate the consequences of a potential loss of two EDGs combined with the unlikely occurrence
+these EDGs would be inoperable during a LOCA/LOSP event, there was no significant impact to the health and
+safety of the public for this event.
+CORRECTIVE ACTIONS
+The associated gears, bearings, and shaft were replaced and the cross drive assembly on the 2C EDG was rebuilt
+per approved vendor procedure requirements. Additionally, the lube oil pump gear, the engine driven jacket coolant
+pump gear, scavenging air coolant pump gear, and flexible drive gear were replaced. Engine inspections were also
+conducted to ensure damage was limited to the cross drive assembly and interfacing components.
+As part of extent of condition inspections, the existing cross drive assembly on the 2A EDG was replaced during its
+scheduled system outage. As-found backlash, axial thrust, and radial lift measurements were also taken and
+evaluated to be acceptable. Backlash, axial thrust, and radial lift measurements and a visual inspection of the gears
+will be taken at the location between the flex drive gear and the cross drive gear for all the Unit I EDGs (including
+the I B swing EDG) on an expedited schedule. The 24 month routine maintenance procedure will also be revised to
+require the performance of gear backlash, axial thrust, and radial lift measurements.
+ADDITIONAL INFORMATION
+Other Systems Affected: None.
+Failed Components Information
+Master Parts List Number: 2R43SOOI C
+Manufacturer: Fairbanks Morse
+Model Number: 38TD 8-1/8
+Type: Opposed Piston Diesel Engine
+Manufacturer Code: FOI 0
+EllS System Code: EK
+Reportable to EPIX: Y
+Root Cause Code: B
+EllS Component Code: DG
+Commitment Information: This report does not create any new licensing commitments.
+Previous Similar Events: None
+NRC FORM 366A (02-2014)
+NRC FORM 366A (1·2001)
+NRC FORM 366A LICENSEE EVENT REPORT (LER) U.S. NUCLEAR REGULATORY COMMISSION
+(02·2014)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6I. LEA NUMBERI 3. PAGE
+YEAR SEQUENTIAL REV.
+Edwin I. Hatch Nuclear Plant Unit 2 05000 366 NUMBER NO. 5 OF6
+2016-003- 00
+NARRATIVE
+PART 21 REPORTING REQUIREMENTS
+To the best of the licensee's ability, the following information is provided to meet the requirements of 10 CFR Part
+21.21(d)(4)(i) through (viii):
+(i) Name and address of the individual or individuals informing the Commission.
+David R. Vineyard, Vice President -Hatch
+Southern Nuclear Operating Company, Inc.
+Edwin I. Hatch Nuclear Plant
+11 028 Hatch Parkway North
+Baxley, Georgia 31513
+(ii) Identification of the facility, the activity, or the basic component supplied for such facility or such activity within
+the United States which fails to comply or contains a defect.
+Facility: Edwin I. Hatch Nuclear Plant
+Component: Fairbanks Morse 38TD 8-1/8 Opposed Piston Diesel Engine
+(iii) Identification of the firm constructing the facility or supplying the basic component which fails to comply or
+contains a defect.
+Fairbanks Morse
+(iv) Nature of the defect or failure to comply and the safety hazard which is created or could be created by such
+defect or failure to comply.
+An overload condition was created on the cylindrical roller bearing such that that the bearing was no longer
+able to adequately support the shaft to reduce rotational friction and support radial and axial loads. This
+resulted in premature bearing failure, leading to excessive bending of the cross drive shaft as it rotated. This
+excessive rotational bending caused crack initiation at multiple locations on the shaft due to rotational
+bending fatigue and led to eventual shaft fracture. The overloaded bearing condition most likely existed from
+the EDG manufacturer. All preventative maintenance activities have been appropriately completed in
+accordance with vendor recommendations. Additionally, as-found failure analyses did not find indications of
+foreign material or inadequate lubrication. A search through SNC maintenance records has not revealed any
+maintenance performed on the cross drive assembly by SNC beyond the vendor recommended visual
+inspection since the 2C EDG was installed.
+Due to the fact that the identified condition resulted in the fracture of the cross drive shaft and therefore
+resulted in the loss of an EDG to respond to an accident or transient, a substantial safety hazard could have
+been created in the event of a station LOSP concurrent with a Unit 2 LOCA. Since the EDGs supply onsite
+emergency AC power to the essential 4160-V buses, a loss of two EDGs to any one unit would represent a
+loss of redundancy in essential safety related equipment necessary to mitigate the consequences of an
+accident.
+(v) The date on which the information of such defect or failure to comply was obtained.
+10/11/2016
+NRC FORM 366A (02·2014)
+NRC FORM 366A (1-2001)
+NRC FORM 366A LICENSEE EVENT REPORT (LEA) U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6I. LEA NUMBERI 3. PAGE
+YEAR SEQUENTIAL REV.
+NUMBER NO.
+Edwin I. Hatch Nuclear Plant Unit 2 05000 366 60F6
+2016-003-- 00
+NARRATIVE
+(vi) In the case of a basic component which contains a defect or fails to comply, the number and location of
+these components in use at, supplied for, being supplied for, or may be supplied for, manufactured, or being
+manufactured for one or more facilities or activities subject to the regulations in this part.
+All five EDGs installed at Hatch are Fairbanks Morse 38TD 8-1/8 Opposed Piston Diesel Engines.
+(vii) The corrective action which has been, is being, or will be taken; the name of the individual or organization
+responsible for the action; and the length of time that has been or will be taken to complete the action.
+Corrective actions have been completed to restore the 2C EDG to operable status. As part of the extent of
+condition review, the 24 month routine maintenance procedure will also be revised to require the
+performance of gear backlash, axial thrust, and radial lift measurements (see CORRECTIVE ACTIONS
+above).
+(viii) Any advice related to the defect or failure to comply about the facility, activity, or basic component that has
+been, is being, or will be given to purchasers or licensees.
+Licensees who have been supplied with Fairbanks Morse 38TD 8-1/8 Opposed Piston Diesel Engines are
+advised to contact Fairbanks Morse concerning the existence of a similar condition. The backlash on pump
+gear drive trains should be inspected to ensure it is within acceptable tolerances per system specifications.
+NRC FORM 366A (02-2014)

@@ -1,0 +1,278 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+January 8, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and 2
+Facility Operating License Nos. NPF-90 and NPF-96
+NRC Docket Nos. 50-390 and 50-391
+Subject: Licensee Event Report 390/2017-015-00, Failure to Enter Limiting
+Condition of Operation Action Statement Results in a Condition
+Prohibited by Technical Specifications
+This submittal provides Licensee Event Report (LER) 390/2017-015-00. This LER
+provides details concerning inappropriate use of guidance leading to a condition prohibited
+by Technical Specifications, and is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B).
+A supplement to this report addressing cause and corrective actions is expected to be
+submitted by March 8, 2018.
+There are no regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Kim Hulvey, WBN Licensing Manager, at (423) 365-7720.
+Respectfully,
+Paul Simmons
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc: See Page 2
+U.S. Nuclear Regulatory Commission
+Page 2
+January 8, 2018
+cc (Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector -Watts Bar Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+; · ·¥~ 2 LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+~\;,, ..... ~} Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+._. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Watts Bar Nuclear Plant, Unit 1 05000390 1 OF 5
+4. TITLE
+Failure to Enter Limiting Condition of Operation Action Statement Results in a Condition Prohibited by Technical
+Specifications
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Watts Bar Nuclear Plant, Unit 2 05000391
+- FACILITY NAME DOCKET NUMBER
+11 09 2017 2017 - 015 00 1 08 2018
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) so.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) so.3s(c)(2) 50.73(a)(2)(v)(B) 73. 71 <a)(5)
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D D D
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Dean Baker, Licensing Engineer 423-452-4589
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TOEPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+SUBMISSION
+~ YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ONO DATE 3 08 2018
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 9, 2017, an issue was identified where Technical Specification (TS) Limiting Conditions of Operation
+(LCOs) were not entered when non-TS Engineered Safety Feature (ESF) area coolers were removed from service for
+maintenance. The Watts Bar Nuclear Plant (WBN) had been performing maintenance on ESF coolers serving
+Auxiliary Building areas without entering the TS LCO Action Statements associated with equipment present in those
+areas. Specific areas of concern identified were the general areas of the 713 foot and 737 foot elevations of the
+Auxiliary Building. These coolers were taken out of service for time periods longer than allowed for ESF equipment
+(typically 72 hours), which would represent a condition prohibited by the TS.
+At this time, WBN has not confirmed that for those cases where a cooler was taken out of service without entering a
+TS LCO if an actual adverse impact on safety function would have occurred if an accident with a single failure had
+occurred during those time periods. Those details, and the cause and corrective actions related to a 2010 guidance
+change, will be provided in a supplement to this report.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
++"'&~""' Fr~(;'-tro.,. comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~.. ~
+:;, lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+... ,.,, *** ....
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 - 015 00
+NARRATIVE
+I. PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Watts Bar Nuclear Plant (WBN) Unit 1 was in Mode 1 at 100 percent rated thermal power (RTP) . WBN
+Unit 2 was defueled (No Mode).
+II. DESCRIPTION OF EVENT
+A. Event Summary
+On November 9, 2017, an issue was identified where Technical Specification (TS) Limiting
+Conditions of Operation (LCOs) were not entered when non-TS Engineered Safety Feature (ESF)
+area coolers {EllS:CLR} were removed from service for maintenance. The Watts Bar Nuclear
+Plant (WBN) had been performing maintenance on ESF coolers serving Auxiliary Building
+ventilation {EllS:VF} areas without entering the TS LCO Action Statements associated with
+equipment present in those areas. Specific areas of concern identified were the general areas of
+the 713 foot and 737 foot elevations of the Auxiliary Building. These coolers were taken out of
+service for time periods longer than allowed for ESF equipment (typically 72 hours).
+This event is being reported to the Nuclear Regulatory Commission (NRC) under
+10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+B. Inoperable Structures, Components, or Systems that Contributed to the Event
+No inoperable equipment contributed to this event.
+C. Dates and Approximate Times of Occurrences
+Date Event
+4/5/2002 NRC issues letter to Perry plant related to application of Generic Letter 80-
+30 guidance to an inoperable non-technical specification support
+subsystem.
+4/5/2010 WBN adopts the Perry guidance into plant documents via an engineering
+chanoe.
+11/9/2017 CR 1357258 generated questioning the need for TS LCO Action
+Statement entry requirements for removing a redundant, non-TS ESF
+cooler from service.
+D. Manufacturer and Model Number of Components that Failed During the Event
+There were no failed components that contributed to this event.
+E. Other Systems or Secondary Functions Affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each Component or System Failure or Procedural Error
+NRG FORM 366A (04-2017) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch {T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 - 015 00
+NARRATIVE
+The issue was identified by an NRC resident inspector.
+G. Failure Mode and Effect of Each Failed Component
+There was no equipment failure associated with this event.
+H. Operator Actions
+Upon identification of the issue, non-TS ESF coolers were not removed from service without either
+entering a TS LCO Action Statement or having an engineering evaluation performed to
+demonstrate that with the cooler removed from service and a failure of the opposite train (including
+associated train coolers}, no loss of safety function would occur if an accident were to occur and
+thereby not necessitating a TS LCO Action Statement entry.
+I. Automatically and Manually Initiated Safety System Responses
+None.
+Ill. CAUSE OF THE EVENT
+A. The cause of each component or system failure or personnel error, if known.
+The cause of this issue is under investigation.
+B. The cause(s) and circumstances for each human performance related root cause.
+The cause of this issue is under investigation.
+IV. ANALYSIS OF THE EVENT
+NRC Generic Letter 80-30 identifies requirements related to the operability of plant equipment including
+support systems. The definition of operability includes "cooling" which would be inferred to mean
+ventilation and heat exchangers. A specific subset of Watts Bar equipment to which the above statement
+applies would be the non-TS ESF area coolers
+In 2002, the Perry nuclear plant was issued a clarification letter for the intended treatment of an "unusual"
+support system arrangement in which a non-TS support system has two redundant 100% capacity
+subsystems, each capable of supporting both trains of TS equipment. In this letter, it was clarified that the
+loss of one support subsystem does not result in a loss of support for either train of TS equipment, and
+both TS trains would remain operable despite a loss of support function redundancy, because the TS
+definition of operability does not require a TS subsystem's necessary support function to meet the single
+failure design criterion. The risk of operating in a non-single failure proof configuration could be assessed
+and managed by 10 CFR 50.65(a)(4), i.e., the Maintenance Rule. This guidance was defined in its own
+cover letter as a "clarification of existing generic guidance developed by the TS Section of the Office of
+Nuclear Reactor Regulation," and appeared to be generic in intent and application. The Perry guidance
+was adopted by WBN in 2010.
+NRG FORM 366A (04-2017) Page_3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 - 015 00
+NARRATIVE
+NRC position on this issue may have changed and is documented in a number of violations at other
+stations starting in the late 2000's and 2010 time period. These issues were identified and are the source
+of CR 1357258.
+V. ASSESSMENT OF SAFETY CONSEQUENCES
+Engineering evaluations pertaining to the safety consequences of this issue are in progress; however, at
+this time, a number of auxiliary building areas have been evaluated assuming one cooler out of service,
+coincident with an accident and single failure resulting in the loss of the opposite train of ESF equipment
+(including coolers). These preliminary reviews have demonstrated that the safety function for the
+equipment served by the applicable coolers would have been met, and the need to enter TS LCOs as
+supporting equipment was not required.
+A Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+The impact of this issue is under investigation.
+B. For events that occurred when the reactor was shut down, availability of systems or components
+needed to shutdown the reactor and maintain safe shutdown conditions, remove residual heat,
+control the release of radioactive material, or mitigate the consequences of an accident
+The impact of this issue is under investigation.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed time
+from the discovery of the failure until the train was returned to service
+The impact of this issue is under investigation.
+VI. CORRECTIVE ACTIONS
+This event was entered into the Tennessee Valley Authority (TVA) Corrective Action Program and is being
+tracked under Condition Report (CR) 1357258.
+A Immediate Corrective Actions
+Upon identification of the issue, Non-TS ESF area coolers were not removed from service without
+either entering a TS LCO or having an evaluation performed to demonstrate that with the cooler
+removed from service and a failure of the opposite train (including associated train coolers), no
+loss of safety function would occur.
+B. Corrective Actions to Prevent Recurrence or to Reduce Probability of Similar Events Occurring in
+the Future
+Actions to prevent recurrence will be provided in a supplement to this report.
+NRG FORM 366A (04-2017) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB oontrol number, the
+NRC may not oonduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 015 00
+NARRATIVE
+VII. PREVIOUS SIMILAR EVENTS AT THE SAME SITE
+This will be provided in a supplement to this report.
+VIII. ADDITIONAL INFORMATION
+None.
+IX. COMMITMENTS
+None.
+NRC FORM 366A (04-2017) Page _5_ of _5_

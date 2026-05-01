@@ -1,0 +1,208 @@
+Entergy0 EntergyOperations,Inc.
+RiverBendStation
+5485 U.S. Highway 61N
+St. Francisville, LA70775
+Tel 225-381-4374
+KentScott
+SiteVice President
+10 CFR 50.73
+RBG-481 11
+August 16, 2021
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 I 2021-04-00, Core Monitoring System
+Software Modeling Error Resulted in Conditions Prohibited by Technical
+Specifications”
+River Bend Station Unit 1
+—
+NRC Docket No. 50-458
+Renewed Facility Operating License No. NPF-47
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Mr. Tim Schenk
+at 225-381-4177.
+Respectfully,
+KCSIdmw
+Enclosure: ?nsee Event Report 50-458 I 2021-04-00, ‘Core Monitoring System Software
+Modeling Error Resulted in Conditions Prohibited by Technical Specifications”
+cc: NRC Regional Administrator Region IV
+-
+NRC Project Manager River Bend Station
+-
+NRC Senior Resident Inspector River Bend Station
+-
+Louisiana Department of Environmental Quality
+Public Utility Commission of Texas
+Enclosure
+RBG-48111
+Licensee Event Report 50-458 I 2021-04-00, “Core Monitoring System Software Modeling
+Error Resulted in Conditions Prohibited by Technical Specifications”
+APPROVEDBY0MB: NO.3150-0104 EXPIRES: 08/31/2023
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours, Reported
+lessonslearnedareincorporated ntothelicensingprocessandfedbacktoindustry.Sendcomments
+regardingburdenestimatetotheFOIA.Library andInformationCollectionBranch(T-6A1OMI. US.
+Nuclear Regulatory Commission. Washngton, DC 20555-0001 or by e-mail to
+ccResc.eArcv.andthe0MBrevewerat 0MBOfficeoflnfcrmaronandReguafo
+Affars.(3150-01041.Attn:DeskOfficerto’theNuclearRsculatoryCommisoon.72517thStreetNW.
+Washington DC 20503. e.mail: c.sabssc’cy:yoy.’. TheNRC maynotconductor
+sponsor,andapersonisnotrequired10respondto,acollectionofinformationunlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalid0MBcontrolnumber.
+1. Facility Name 2. Docket Number 3. Page
+River Bend Station, Unit 1 05000 458 1 of 3
+-
+4. Title
+Core Monitoring System Software Modeling Error Resulted in Conditions Prohibited by Technical Specifications
+5 EventDate 6 LERNumber 7 ReportDate 8 OtherFacilitiesInvolved
+Month Day Year Year S N eq u u m en b t e i r al R No. Month Day Year F N a / c A ilityName 05000 D N oc IA ketNumbe
+06 17 202 2021 -004 - 00 06 , 6 21)21 F N a / c A ilityName 05000 D N oc I k A etNumbe
+9.OperatingMode 10.PowerLevel
+1 100
+11.ThisReportisSubmittedPursuanttotheRequirementsof10CFR§: (Checkallthatapply)
+10 CFR Part 20 El 20.2203(a)(2)(vi) El 50.36(c)(2) El 50.73(a)(2)(iv)(A) El 50.73(a)(2)(x)
+El 20.2201(b) El 20.2203(a)(3)(i) El 50.46(a)(3)Oi) El 50.73(a)(2)(v)(A) 10 CFR Part 73
+El 20.2201(d) El 20.2203(a)(3)(it) El 50.69(g) El 50.73(a)(2)(v)(B) El 73.71(a)(4)
+El 20.2203(a)(1) El 20.2203(a)(4) El 50.73(a)(2)(i)(A) El 50.73(a)(2)(v)(C) El 73.71(a)(5)
+El 20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(t)(B) El 50.73(a)(2)(v)(D) El 73.77(a)(1)(i)
+El 20.2203(a)(2)(ii) El 21.2(c) El 50.73(a)(2)(i)(C) El 50.73(a)(2)(vii) El 73.77(a)(2)(i)
+El 20.2203(a)(2)(iii) 10 CFR Part 50 El 50.73(a)(2)(ii)(A) El 50.73(a)(2)(viii)(A) El 73.77(a)(2)(ii)
+El 20.2203(a)(2)(iv) El 50.36(c)(1)(i)(A) El 50.73(a)(2)(ii)(B) El 50.73(a)(2)(vsi)(B)
+El 202203(a)(2)(v) El 50.36(c)(1)(ll)(A) El 50.73(a)(2)(iii) El 50.73(a)(2)(ix)(A)
+El Other(Specifyhere, inAbstract, orin NRC366A).
+12. Licensee ContactforthisLER
+LicenseeContact
+Tim Schenk, ManagerRegulatoiy Assurance - . - P (2 ho 2 n 5 e ) N -3 um 8 b 1 e - r 4 t 1 nc 7 lu 7 deAreaCode(
+. ,
+13.CompleteOneLineforeachComponentFailureDescnbedinthisReport
+Cause System Component Masufactarer ReportableToIRIS Cause System Component Manufacturer ReportableToIRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+.
+14. Supplemental ReportExpected Month Day Year
+‘
+NRC FORM366 U.S. NUCLEAR REGULATORYCOMMISSION
+108-2020)
+LICENSEE EVENT REPORT (LER)
+(SeePage3forrequirednumberofdigitslcharactersforeachblock)
+(SeeNUREG-1022 R.3forinstructionandgsidanceforcompetingthisform
+hltps.n’.-.wnrc ov/readrng-riVdrx-co(lectons/nure0s.slafflsr1022/r31)
+15. ExpectedSubmission Date
+No Yes (Ifyes.complete 15. ExpectedSubmission Date) N/A N/A N/A
+16, Abstract(Limitto1560spaces.i.e..approoimately15single-spacedtypewrittenlines)
+On June 17, 2021, with River Bend Station (RBS) operating at 100 percent power, Entergy received a letterfrom GE
+Hitachi issuing SC 21-04, Revision 1, Fuel Support Side Entry Orifice Meta-Stable Flow for 2 Beam Locations in the
+BWR/6 Reactors,’ identifying that the Global Nuclear Fuels (GNF) model forfuel affected by the Side Entry Orifices did
+not accurately account forthe loss coefficients at those core locations causing a local overprediction in Minimum Critical
+Power Ratio (MCPR) margin. This resulted in the determination by Entergythat a condition prohibited by Technical
+Specifications (TSs) had existed at RBS and this report being made in accordance with 10 CFR 50.73(a)(2)O)(B).
+The causeofthe eventwasGNF had not accurately accounted for the loss coefficients at applicable core locations
+causing a local overprediction in MCPR margin resulting in exceeding the MCPR TS limit.
+Corrective actions include implementing a penalty to Operating Limit MCPR (OLMCPR) in the core monitoring system
+via an update to the databank to include all penalties associated with GEH letter SC 21-04, Revision 1, and an update to
+the current Core Operating Limits Report (COLR).
+There were no consequences to the general safety of the public, nuclear safety, industrial safety, nor radiological
+safety.
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimatedburden perresponsetocomplywith this mandatorycollectionrequest 80hours Reported
+/ r LICENSEE EVENT REPORT (LER) lessonslearned are incorporated intothelicensingprocess and fed backtoindustry Send comments
+/1 regardng burden est’nale to the FOIA. Library. and tn!ormato.n Collection Branch (T.6 Al0M. US
+Nuclear Regulatory Comm:ss’sn. Wasflirgton. DC 20555-0001. or by e-mail to
+‘- - ‘ and the0MB reviewe’ at: 0MB OfticeofIntarmatonand Reguatory
+Altars. (3l5O0l04i. Attn Desk Officerforthe Nuclear Regulatory Commission, 725 17th Street NW.
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform Washington, DC 20503, e-mail: pyqsubni]ssiu oiyrbeny.qov The NRC may not conduct or
+ht(ps//www.nrc.gov/reading-rrn/c(oc-collections/nuregs/stafl/srlQ22!r3/) sponsor. anda person isnot requiredtorespondto. acolteclionofinformation unless thedocument
+requestingorreqoiringthecollectiondisplaysacurrentlyvalid0MBcontrolnumber,
+1. FACILITYNAME , 2. DOCKETNUMBER 3. LERNUMBER
+River Bend Station, Unit 1 05000 - 458 YEAR SE N Q U U M EN BE T R IAL R N E O V .
+2021 004 00
+- -
+NARRATIVE
+PlantConditions:
+River Bend Station (RBS) Unit 1 was operating at 100 percent power in MODE 1. There were no Structures,
+Systems, or Components thatwere inoperable that contributed to this event.
+Event Description:
+On June 17, 2021, with RBS operating at 100 percent power, Entergy received a letterfrom GE Hitachi (GEH)
+concerning a Part 21 Report. This Part 21 Report was transmitted to Entergy and the NRC documenting an update
+on the issue related to an underprediction of the Side Entry Orifice (SEO) loss coefficients in core analyses, resulting
+in a local overprediction in MCPR margin.
+Specifically, Global Nuclear Fuels (GNF) identified the SEQ loss coefficients forfuel bundle locations adjacent to
+2-beam (corner) locations may potentially be higher than the current design basis value that is applied. The MCPR
+impact on potentially affected bundles that are near limits can potentially reduce this margin by greater than 0.01 in
+Critical Power Ratio. GEH has completed the evaluation of the condition to determine reportability under
+10 CFR Part 21 and is a reportable condition under 10 CFR Part 21.21(a)(2) and a transfer of information under
+10 CFR 21.21(b). The basis for reportability is that the change in MCPR associated with this issue could contribute to
+the exceeding ofa Safety Limit, as defined in the RBS TSs.
+The history of variable Maximum Fraction of Limiting Core Power Ratio (MFLCPR) for the last 3 years was reviewed.
+The objective was to identify any period where the MFLCPR (corrected for SC 21-04) exceeded 1.0 for more than 6
+hours. During Cycle 20 (May 2018 through March 2019) and Cycle 21 (May 2019 through February 2021) there were
+multiple periods where MFLCPR was greater than 1.0 for longer than 6 hours. During these instances, the
+requirements ofTS 3.2.2 were not met; however, during this time period there were no limiting transients that would
+be a challenge to the Safety Limit and there were no Safety Limit violations.
+RBS previously performed an Operability Evaluation for SC 21-04 Revision 0 in CR-RBS-2021-3221 CA-Cl, which
+resulted in the implementation of a compensatory measure for tracking CR-RBS-202l-03221. To ensure compliance
+until the new COLR is approved, the site issued a standing order to implement the reduced administrative MFLCPR.
+The site’s review of SC 21-04 Revision 1 was performed and based on that review; the standing order was updated to
+add additional conservatism.
+The BWR/6 plant design has supporting cross beams that form a grid structure underneath the core plate. The
+orientation of SEO’s relative to the beams produces different losses due to the difference in upstream flow areas.
+These variations influence the SEQ flow patterns and the potential for a meta-stable pressure loss. Because the
+frequency at which meta-stable losses may occur has not been determined, RBS was evaluated using a bounding
+loss coefficient (1.9 times the current loss value) at the 2-beam locations. Results show the potential MCPR impact at
+limiting locations can be greater than 0.01 and will vary by plant and power/flow condition. The MCPR impact is
+greater than the 0.01 criterion that GEH has historically applied for reporting that a TS Safety Limit (as found in TS
+2.1) could have been exceeded as defined under 10 CFR Part 21. Ifthe MCPR impact is greaterthan 0.01 due to
+possible meta-stable losses atthe 2-beam locations, and if not addressed, the condition could occur at a limiting
+bundle location and reduce transient margin. This could have resulted in exceeding the Safety Limit Minimum Critical
+Power Ratio (SLMCPR) if a limiting transient were to have occurred.
+NRCFORM366A (08-2020)
+Page2of3
+NRC FORM 366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden perresponsetocomplyw/hthis mandatorycollection request 80 hours Reported
+,,.. lessons(earned are nrporated intothe licensing press andfnd backtoindustry. Send comments
+regarding burden estimate to the FOIA Library, and Information Collection 8ranch (1.6 AIOMI US
+/ COMTINUATION SUET Nuclear Regulatory Commission, Wsshingtor DC 20555-000) or by e-mail to
+i —Rn e ard he OUB re eue at 0 B Office f inomat n arc Regulatory
+Affairs, (3t50-0t041, Attn Desk Officerforthe Nuclear RegulatoryCommisssn. 725 17thStreet NW.
+(SeeNUREG-1022,R.3forinstructionand guidanceforcompletingthisform Washingtcn. DC 20503: e-mail: cra s.c’ ns.p3moeon Toe NRC may not conduct or
+hops/iwwwnrc.govlieadlng rrn/doc collecfions/nureguissaffisr1022ii3/) sponsor and a person is not required to respond to acollectionofinformation unlessthedocumest
+requestingorrequiringthecollectiondisplaysacurrentlyvalid0MBcontrolnumber.
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+River Bend Station, Unit 1 05000 458 YEAR SE N Q U U M EN B T ER IAL R N E O V .
+-
+2021 004 00
+- -
+SafetyAssessment:
+Therewere no actual consequences forthis event. The RBS Operating Limit MCPR(OLMCPR) is set such that if the
+plant is operating within this limit, the most limiting operational transient forthe cycle will not result in violation of the
+SLMCPR. The site reviewed the unit operating history for limiting transients and other analyzed transients that are
+close to being limiting in the Supplemental Reload Licensing Reports. This review concluded that, for the period
+reviewed, the limiting transients were turbine trip without bypass, feedwater controllerfailure, generator load reject
+without bypass, rod withdrawal error, and loss of feedwater heating.
+Because these limiting transients were not identified in the period reviewed, the margin between the SLMCPR and
+OLMCPR was adequate for continued SLMCPR protection. The SLMCPR was not exceeded in previous analyzed
+cycles and the margin between SLMCPR and OLMCPR was sufficient to accommodate the penalty evaluated in SC
+21-04, Revision 1. As a result, there was no impact to the health and safety ofthe public or plant personnel from this
+condition. In addition, this event does not meetthe criteria for a Safety System Functional Failure.
+Event Cause(s):
+Based on the Entergy internal review, it was determined that the cause ofthis event was: GNF did not accurately
+account for loss coefficients atthose core locations causing a local overprediction in MCPR margin resulting in
+exceeding the MCPR TS limit.
+These occurrences ofexceeding the MCPR TS limit were beyond the control of Entergy to predict or prevent because
+it is a legacy design calculation error. Entergy does not have the capability to check these calculations, nor does
+Entergy have the resources to perform an independent review of all GNF calculations. The methodology used in the
+reload process has been accepted by Entergy and we do not check underlying calculations that have existed
+unchanged for multiple cycles. Entergy will credit actions taken by GNF as part ofthe Part 21 notification, including
+actions they are taking for extent of condition in their calculations. This would include the results of any technical
+audit they are performing. Entergy Supplier Quality Assurance was notified ofthis Part 21 forfollow-up on the GNF
+corrective action.
+CorrectiveActions:
+To ensure compliance with the MCPR TS, RBS issued the standing order as described above. Complete.
+RBS will implement a penalty to OLMCPR in the core monitoring system through an update to the databank to include
+all penalties associated with GEH letter SC 21-04, Revision 1. Completion tracked by Corrective Action Program.
+RBS will update the current COLR and associated documents to account for all penalties associated with GEH letter
+SC 21-04, Revision 1. Completion tracked by Corrective Action Program.
+Entergy’s Supplier QA has added CR-HQN-2021-01048 and SC 21-04 Ri tothe Qualified Supplier List comments
+sections for GEH/GNF Fuels forfollow-up in the next audit. Complete.
+Previous SimilarEvents:
+None.
+NRCFORM366A (08-2020) Page3of3

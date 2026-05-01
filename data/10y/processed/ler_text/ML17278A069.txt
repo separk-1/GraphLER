@@ -1,0 +1,250 @@
+FENOC
+PerryNuclearPowerPlant
+P.O. Box97
+10CenterRoad
+FirstEnergyNuclearOperatingCompany PenY- Ohi°44081
+DavidB. Hamilton 440-280-5382
+VicePresident
+October 4, 2017
+L-17-304 10CFR50.73(a)(2)(v)(D)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2017-004, "Loss of Safety Function for High
+Pressure Core Spray Suppression Pool Level Instrumentation". There are no regulatory
+commitments contained in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Nicola Conicella, Manager - Regulatory Compliance, at (440) 280-5415.
+Sincerely,
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2017-004
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III Regional Administrator
+Enclosure
+L-17-304
+LER 2017-004
+N (0 R 4- C 201 F 7) ORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER)
+Reported lessonslearnedareincorporatedintothelicensing processandfed backtoindustry.
+(SeePage2forrequirednumberofdigits/charactersforeachblock) SendcommentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocoilects'
+Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-
+10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameansused
+(See NUREG-1022, R.3forinstructionandguidanceforcompletingthisform toimposean informationcollectiondoes notdisplayacurrentlyvalid OMBcontrol number, the
+http://www.nrc.oov/readina-rm/doc-collections/nureqs/staff/sr1022/r3/ NRCmaynotconductorsponsor, andaperson isnotrequiredtorespondto, theinformation
+collection.
+1.FACILITYNAME
+2. DOCKETNUMBER 3.PAGE
+Perry Nuclear Power Plant
+05000-440 1 OF
+4.TITLE:
+Loss ofSafety Function for High Pressure Core Spray Suppression Pool Level Instrumentation
+5.EVENTDATE 6. LERNUMBER 7.REPORTDATE 8.OTHERFACILITIESINVOLVED
+MONTH DAY YEAR YEAR SE N Q U U M EN B T E I R AL R N E O. V MONTH DAY YEAR FACILITYNAME DOCKETNUMBER
+05000
+08 08 2017 2017 - 004 - 00 10 2017 FACILITYNAME DOCKETNUMBER
+05000
+9.OPERATINGMODE 11.THIS REPORTISSUBMITTED PURSUANTTOTHEREQUIREMENTSOF10CFR§: (Checkallthat
+□ 20.2201(b)
+20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) ] 50.36(c)(1)(i)(A) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10.POWERLEVEL □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(v)(A) □ 73.71(a)(4)
+□ 20.2203(a)(2)(iii) □ 50.36(c)(2) □ 50.73(a)(2)(v)(B) □ 73.71(a)(5)
+□ 20.2203(a)(2)(iv) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(C) □ 73.77(a)(1)
+100
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A)
+50.73(a)(2)(v)(D) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) □ 50.73(a)(2)(i)(B)
+50.73(a)(2)(vii) □ 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) LJ OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFORTHIS LER
+Tony Kledzik- Regulatory Compliance TELEPHONENUMBER(IncludeAreaCode)
+440-280-6188
+13.COMPLETEONELINEFOREACHCOMPONENTFAILUREDESCRIBEDINTHISREPORT
+CAUSE SYSTEM
+BG
+14.SUPPLEMENTALREPORTEXPECTED
+15. EXPECTED
+□ YES(Ifyes, complete 15. EXPECTEDSUBMISSIONDATE) SUBMISSION
+DATE
+ABSTRACT (Limitto1400spaces,i.e., approximately15single-spacedtypewrittenlines)
+On August 8, 2017 at 1554 hours, while the plantwas at 100 percent rated thermal power, during restoration from
+testing ofthe High Pressure Core Spray (HPCS) Suppression Pool (SP) Level High Instrumentation, unexpected as-left
+indications were found that impacted both ofthe required channels ofinstrumentation. With both SP level instruments
+inoperable, a loss ofsafety function existed.
+While venting the sensing line, the HPCS system was aligned to the suppression pool watersource. This source of
+water is HPCSs safety-related source ofwater. The automatic suction swap on high suppression pool level is implicitly
+assumed in the accidentand transient analysis since it assumes thatthe HPCS suction source is the suppression pool
+Since the HPCS system was aligned to the suppression pool when the failure occurred, the assumptions ofthe accident
+analysis are met, and no safety system functional failure occurred.
+The cause forthe unexpected as-left indications is due to airentrained in the sensing line which came out ofsolution.
+The safety significance ofthis event is considered to be small. This event is being reported under 50 73(a)(2)(vHD) fora
+loss ofsafety function. v A '
+NRCFORM366(06-2016)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours Reported
+LICENSEE EVENTREPORT(LER) lessons learned are incorporated into the licensing process and fed back to industry Send
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43) US Nuclear
+V CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by ' e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs
+(SeeNUREG-1022, R.3forinstruction andguidanceforcompletingthisform NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503 Ifameans'
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http.7/www.nrc.qov/readinq-rm/doc-collections/nureas/staff/sr1022/r3/
+NRCmay notconductorsponsor, and a person is notrequired to respond to, the information
+—————————
+1. FACILITYNAME
+2. DOCKETNUMBER
+Perry Nuclear Power Plant Unit 1 SEQUENTIAL REV
+05000-440
+NUMBER NO.
+- 004 00
+Energy Industry Identification System (ENS) codes are identified in the text as [XX].
+INTRODUCTION
+ii9ct 8' f2fJ7uatJ|54 hours-while the P|antwas at 100 percent rated thermal power, during restoration
+testing ofthe High Pressure Core Spray (HPCS) [BG] Suppression Pool (SP) [BT] Level High
+Instrumentation, [LIT] unexpected as-left indications were found that impacted both ofthe required channels
+ofinstrumentation. With both SP level instruments inoperable, a loss ofsafetyfunction existed.
+EVENT DESCRIPTION
+On August 8, 2017, at 1321 hours, surveillance testing commenced on the HPCS SP level high
+instrumentation and one channel was declared inoperable. On August 8, 2017, at 1554 hours durina
+restoration from surveillance testing ofthe HPCS SP level high instrumentation, unexpected as-left
+indications were found that impacted both ofthe required channels of instrumentation. Technical
+Specification (TS) 3.3.5.1 "Emergency Core Cooling System (ECCS) Instrumentation" condition D was
+entered. Condition D requires HPCS to be aligned to the SP; however, HPCS was already aligned to the SP
+since earlier in the day in anticipation ofthe testing.
+On August 8, 2017, at 1635 hours, venting was performed on the level instrumentation sensing line and the
+erroneous reading was corrected. The restoration from the venting was completed and the level
+instrumentation was declared operable on August 8, 2017, at 1747 hours.
+On August 8, 2017, at2022 hours, event notification EN# 52891 was made to the NRC Operations Centerto
+reporta loss ofsafety function.
+Suppression Pool Water Level Hiah -TS 3.3.5.1
+SP Water Level-High signals are initiated from two level transmitters. The logic is arranged such thateither
+taansmitterand associated trip unit can cause the suppression pool suction valve to open and the
+Condensate Storage Tank (CST) [KA] suction valve to close. This function is implicitly assumed in the
+accident and transient analyses, which take creditfor HPCS, since the analyses assume thatthe HPCS
+suction source is the suppression pool.
+CAUSE
+The cause forthe unexpected as-left indications that impacted both ofthe required channels of
+instrumentation is related to airentrained in the sensing line caused by air being introduced from air
+accumulation in the suppression pool overtime which moved to a vertical section ofthe sensing line during
+NRCFORM366A (06-2016)
+Page 2 of3
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION
+APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours Reported
+LICENSEE EVENTREPORT(LER) lessons learned are incorporated into the licensing process and fed back to industry Send
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43) US Nuclear
+CONTINUATION SHEET
+Regulatory Commission, Washington, DC 20555-0001, or by ' e-mail to
+nfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503 Ifamear?s
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform
+http://www.nrcoov/readino-rm/doc-collections/nureqs/staff/sr1022/r^/ usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber the
+NRC may notconductorsponsor, and a person is notrequired to respond to, the information
+CDPPTIAn
+1. FACILITYNAME
+2. DOCKETNUMBER
+3.LERNUMBER
+Perry Nuclear Power Plant Unit 1 05000-440 YEAR SEQUENTIAL REV
+NUMBER NO.
+2017 - 004 00
+NARRATIVE
+EVENTANALYSIS
+While venting the instrumentation, the HPCS system was aligned to the suppression pool watersource This
+IZZlll !S ^PCS>S Sa«ated source ofwater- The automatic suction swap on h^TsuppTession
+pool level is implicitly assumed in the accident and transient analysis since it assumes thatthe HPCS suction
+source is the suppression pool. Since the HPCS system was aligned to the suppression poo'whenThef
+occurred, the assumptions ofthe accident analysis are met, and no safety system ^K
+Probabilistic RiskAssessment reviewconcludes that the associated event, from a qualitative analysis is of
+low risk (smal safety) significance. The condition was introduced during the surveillance activity was
+identified in a timely manner, and was immediately corrected. Additionally, HPCS was aligned to the
+inventory source thatwould have been the inventory source thatwould have been transferred to given the
+subject instrumentation funct.oned appropriately. The function/availability of HPCS was neveraffected On
+this bas.s, there would be no corresponding change (delta) in core damage frequency (CDF) and no '
+corresponding change (delta) in the large early release frequency (LERF). The delta CDF and delta LERF
+values would therefore be well below the acceptable thresholds of 1.OE-06/yrand 1.OE-07/yr ^
+SGUide 1174 Theref°retheriSk°fthiseventisconsideredsma" as
+CORRECTIVE ACTIONS
+^?!^1^2iinnCC''UUddee reyiSin,9
+'
+'
+0
+0
+C
+C
+a
+a
+l
+l
+l
+l
+e
+e
+a
+a
+k
+k
+r
+r
+a
+a
+t
+t
+e
+e
+t
+t
+e
+e
+S
+S
+t
+t
+i
+i
+n
+n
+g
+g
+i
+i
+n
+n
+s
+s
+t
+t
+r
+r
+u
+u
+c
+c
+t
+t
+i
+i
+o
+o
+n
+n of^e sensing line penetration to perform
+a fill and vent ofthe sensing line during every performance to reduce the buildup ofentrained air.
+PREVIOUS SIMILAR EVENTS
+A reviewofLERs and the corrective action database forthe pastthree years identified no similarevents.
+COMMITMENTS
+l^ZZ6 no,re9ulf>ry commitments contained in this report. Actions described in this document represent
+intended or planned actions, are described forthe NRC's information, and are not regulatory commitments.
+NRCFORM366A (06-2016)
+Page 3 of3

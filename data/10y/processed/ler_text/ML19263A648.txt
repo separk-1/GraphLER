@@ -1,0 +1,212 @@
+Exelon Generation
+10 CFR 50.73
+LG-19-094
+September 20, 2019
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 2
+Renewed Facility Operating License No. NPF-85
+NRC Docket No. 50-353
+Subject: LEA 2019-002-00, Emergency Diesel Generator Lube Oil Pressure Sensing Line
+Leak Resulting in a Condition Prohibited by Technical Specifications
+Enclosed is a Licensee Event Report (LER) that addresses an Emergency Diesel Generator
+(EOG) being inoperable for greater than 30 days, resulting in a condition prohibited by Technical
+Specifications (TS) at Limerick Generating Station, Unit 2.
+This LEA is being submitted pursuant to the requirements of 1O CFR 50.73(a)(2)(i)(B).
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (61 O) 718-3400.
+Respectfully,
+'J?f~ ~ f'ra.nk S-lva1iclo
+Frank Sturniolo
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULA TORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018) Estimated blrden per response to comply with this mandatoiy collection request 80 hours.
+Reported lessons leirned are inccrpatated into the ieensing process and fed bacl< to
+~~.J."'""Eo(l<.t""' LICENSEE EVENT REPORT (LER) indusby. Send comments regarding burden estimate to the lnf<xmation SeMces Branch
+(T-2 F43J, U.S. Nuclear Regulatory Commission, Wasllington, DC 20555-0001, or by e-mail
+~ ~ • ~ · .... ¥ ... ~ . . - n: 0 (See NU ( R S E ee G P -1 a 0 ge 2 2 2 , f R or . 3 re f q o u r i r i e n d s n tr u u m ct b io er n o a f n d d ig it g s u /c id ha a r n a c c e te r f s o r f o c r o e m ac p h l e b t l i o n c g k ) t his form t R o e g ln u f l o a c to o r l y le c A is t . t R ai e rs s , o i. N rc E e O @ B n - r 1 c 0 .g 2 o 0 v 2 , , a ( n 3 d 1 50 to -- 0 t 1 h 0 e 4 ) D , es O i< ff ic O e ffic o e f r, M O a f n fi a c g e e m of e n In t fo a r n m d a tio B n u d a g n e d t,
+~"' +., , 01 h\!p;//www.rm;,g9v/read.ing-rm/dQc-cQH!lctionslnYr!lgs/s.t.affts.r1.0221r3n d W is a p s l l a li y n g a to c n u , r re D n C tl y 2 v 0 a 5 6 0 d 3 . D I ' f -1 1 a c m o e n a to ns l n u u s m ed b e t r o , th im e p N o R se C a m n a y in n fo o r t m c a o t n io d n u c c t o o l' r e c s 1 p io o n n s d or o , e a s n d n o a t
+person is not requred to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Limerick Generating Station Unit 2 05000 353 1 OF 4
+4. Title
+Emergency Diesel Generator Lube Oil Pressure Sensing Line Leak Resulting in a Condition Prohibited by Technical
+Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+- -
+Facility Name Docket Number
+07 22 19 2019 002 00 09 20 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.7 3(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+1 O. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.7 3(a)(2)(v)(C) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER I
+Licensee Contact Telephone Number (Include Area Code)
+Robert Dickinson, Manager Regulatory Assurance 610-718-3400
+I I 13. CIom plete One Line for each Component Failure Described in this Report I
+Cause System p~o;ponent N;anufacturer Reportable to ICES I Cause I System I Component Manufacturer Reportable to ICES
+8 EK Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Dale) 0 No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 7/22/19, the instrumentation line threaded pipe connection for a pressure indicator, was found sheared during Emergency
+Diesel Generator (EOG) 024 slow start monthly run. The one-quarter inch instrumentation line threaded connection tees off the
+four-inch main lube oi.1p iping near the discharge of the engine driven lube oil pump. Prior to the run there was no indication of a
+leak at this connection. This threaded pipe was pro-actively replaced on 5/23/18, and on 1/21/19 the threaded pipe connection
+failed due to high-cyclic fatigue. The corrective actions to address the failure on 1/21/19 were to install a support on the
+threaded connection and repair a broken U-bolt. These actions did not resolve ttie underlying condition. The cause of the failure
+on 7 /22119 was high-cyclic fatigue experienced at the threaded pipe connection. The corrective action is to redesign the
+connection to reduce the stress on the threaded pipe connection. In the interim, the instrument line was removed from service.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfoco~ecls.Resoun:e@nn:.gov, and lo
+the Desk Officer, Office of Information and Regulatory Affars, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used lo impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http;/lwww .. n.rc.govtreading-n:nJdo!:.:collection..sJnur..eg_s/staff/!\f102'2.lr3/) sponsor, and a person is not required to respond lo, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Limerick Generation Station, Unit 2 05000-1 353
+NARRATIVE
+Unit Condition Prior to the Event
+Limerick Generating Station (LGS), Unit 2 was operating in Operational Condition (OPCON) 1 at 100 percent power at the
+time of the event. There were no other structures, systems, or components inoperable that contributed to the event.
+Description of the Event
+On 7/22/19, an instrumentation line threaded pipe connection for a pressure indicator, was found sheared during the
+Emergency Diesel Generator (EOG) 024 [EllS:EK] slow start monthly run. The one-quarter inch instrumentation line
+threaded connection tees off the four-inch main lube oil piping near the discharge of the engine driven lube oil pump.
+EOG 024 was started at 21 :01, loaded at 21 :22, and fully loaded at 21 :33. A dirty drip pan alarm came in at 22:05 and
+subsequently the lube oil leak was identified. The discovery time of the leak at approximately 22:05 is very close to the
+actual failure time of the threaded pipe. Prior to the failure, there were no leaks or degraded conditions present.
+There have been leaks identified at this connection. On 3/21/2013, a 1-2 drop per minute (DPM) leak was identified on
+the same threaded connection. One month later, on 4/27/2013, the EOG was made inoperable when a threaded
+connection failed and the 1-2 DPM leak became a 140 DPM leak. The investigation performed for this failure determined
+the cause to be high-cycle fatigue from engine vibration exacerbated by a missing grommet on one of the downstream
+supports. The missing grommet was re-installed, and the threaded pipe was replaced. For approximately six years
+following this repair, no additional leakage occurred at this location.
+On 12/12/16, a leak developed on this connection on EDG 013. The investigation determined that the cause was cyclic
+fatigue of the threaded connection with a contributing factor of manipulation of the valve downstream of the threaded
+connection. The investigation determined that this fitting should be replaced on all the EDGs during the next scheduled
+system outage. The EOG 024 threaded pipe was replaced on 5/23/18.
+On 1/21/19, the threaded connection developed a leak and the EOG 024 was declared inoperable. An investigation
+determined the cause was high-cycle fatigue due to the instrument line vibrating at its resonant frequency during engine
+operation. Contributing to this was the specific design for the piping arrangement and a U-bolt that was found broken on
+the 4-inch lube oil header.
+The failed threaded connection was replaced, and the broken U-bolt was reinstalled on the main header. To account for
+the design deficiency with the instrument line piping arrangement, a clamp was installed between the main header and the
+instrument line to reduce vibrations until a design change could be implemented to change the instrument line
+configuration. Vibration readings taken following implementation of these actions found a significant reduction in the
+vibration of the instrument line; however, on 7/22/19, the threaded pipe connection failed again.
+Analysis of the Event
+The failures that occurred in 2013 were caused by a missing grommet on a support for the piping. The threaded
+connection and the grommet were replaced, and the connection performed without an issue for five years. After a
+proactive replacement was completed for EOG 024 the connection failed twice.
+NRC FORM 366A (04-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the lnfonmation Services Branch (T-2 F43), U. S Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resourte@nrt.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+!:Jt.tp;!lwww.nrc.gov/regdL11g:rm/doc-coUer;,tions/111.m~gs/s\afflsr1022/r'Jll sponsor. and a person is not required to respond to. the infonmation collection
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+0YE AR SEQUENTIAL REV
+Limerick Generation Station, Unit 2 05000-1 353 L2:J -I NUMBER I- 0N O.
+I
+002
+NARRATIVE
+The failure on 1/21/2019 was due to high-cyclic fatigue due to the instrument line vibrating at its resonant frequency. The
+threaded pipe was replaced and the EOG was returned to an operable status. The corrective actions were to install a
+clamp to support the one-quarter inch instrument line and to modify the instrument line design to reduce the vibration at
+the threaded connection.
+On 3/19/19 during a walkdown of EOG 024 during the 24-hour endurance run, a broken U-bolt was identified on the four
+inch main header in a location near the threaded connection. The U-bolt was repaired following the completion of the 24-
+hour endurance run.
+On 4/25/19 a clamp was installed from the four-inch main header to the one-quarter inch instrument line. The running
+vibration data showed an improvement in the magnitude. It was believed that the cause of the 1/21/19 failure was due to
+the broken U-bolt, and with the repair of the U-bolt and the addition of the support, the cause of the failure had been
+addressed.
+On 7/22/19 the threaded connection failed. Although the new support was installed, the threaded connection was still
+experiencing vibration, albeit at a reduced level. The threaded pipe was not replaced when the support was added. The
+threaded pipe had already experienced fatigue since it was installed several months prior to the installation of the new
+clamp. The modification to change the piping configuration had not yet been implemented.
+Based on past operating history, threaded pipe failures have occurred during engine starts and have been known to
+worsen during engine runs following crack initiation. Since the failure that occurred on 7 /22/19 was a sudden shear of the
+threaded pipe with no signs of leakage prior to failure, it is concluded that the crack initiated during the engine start on
+7/22/19 and the rapid propagation of the crack occurred during the subsequent engine run-time. Therefore, 024 EOG was
+conservatively determined to be inoperable following the completion of the last run of the EOG on 6/18/19.
+Safety Consequences
+The EOG and Auxiliary Systems are safety related standby emergency power systems and consist of four diesel
+generator sets per Unit. The operability of the A.C. power sources and associated distribution systems during operation
+ensures that sufficient power will be available to supply the safety-related equipment required for (1) the safe shutdown of
+the facility and (2) the mitigation and control of accident conditions within the facility. The TS action requirements specified
+for the levels of degradation of the power sources provide restriction upon continued facility operation commensurate with
+the level of degradation.
+The 024 EOG was conservatively determined to be inoperable from 6/18/19 through 7/25/19 therefore, the TS 3.8.1.1.a
+action to restore the diesel within 30 days was not met. There were minimal safety consequences associated with the
+condition since there were no events during this time period which required the 024 EOG. The remaining LGS Unit 2
+EOGs were only inoperable but available for surveillance testing during this period.
+Cause of the Event
+The cause of the failure of the threaded pipe connection was due to high-cyclic fatigue. A contributing cause was the
+modification to change the piping configuration had not been installed prior to the failure.
+NRC FORM 366A (04-2018) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory cotlection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry Send comments
+regarding burden estimate to the lnfonmation Services Branch (T-2 F43), U. S Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-man to lnfocollects.Resource@nrc gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http:l!www.nr~.ggv/read.ing:r.ml~cQJle.ctionJ;Jnuregststafftsr10221r3/) sponsor, and a person is not required to respond to, the infonmation collection
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+0YE AR SEQUENTIAL REV
+Limerick Generation Station, Unit 2 05000-1 353 LJ·I NUMBER 1-NO0.
+I
+002
+NARRATIVE
+Corrective Actions
+1. A temporary configuration change was implemented to remove the threaded pipe and valve, plug the lube oil piping
+hole, and cap off the small diameter copper instrumentation tubing. This temporary change eliminates the threaded pipe
+vulnerability in this location.
+2. A design change is being implemented to change the configuration of the connection between the four-inch main
+header and the one-quarter inch instrument line.
+Previous Similar Occurrences
+On 3/21 /13, a 1-2 drop per minute (OPM) leak was identified on the threaded connection for the EOG 024. On 4/27/13,
+the 1-2 OPM threaded connection leak became a 140 OPM leak, resulting in EOG 024 inoperability. The investigation
+performed for this failure determined that the cause to be high-cycle fatigue from engine vibration exacerbated by a
+missing grommet on one of the downstream supports.
+On 1/21/2019, the threaded connection developed a leak and the EOG 024 was declared inoperable due to a leak on the
+fitting that was replaced on 5/23/18. The replacement was a proactive replacement as part of an extent-of-condition
+action from a failure of this threaded connection on a different EOG.
+System: EK Emergency On-Site Power Supply System
+Component: PSF Pipe Fitting
+Manufacturer: NIA
+NRC FORM 366A (04-2018) Page 4 of 4

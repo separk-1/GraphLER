@@ -1,0 +1,232 @@
+p.- 1
+Exelon Generation©
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604271 10CFR50.73
+March 18, 2015 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: _ Licensee Event Report 2016-001-00
+Enclosed is Licensee Event Report (LER) 2016-001-00: Continuous Containment Purge
+Exhaust Fan Trip due to Unvalidated Assumptions in Work Planning Resulted in an
+Unanalyzed Condition of Primary to Secondary Containment Differential Pressure and Safety
+System Functional Failure. This report is being submitted in accordance with the
+requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+dore R. Stoner
+Site Vice President
+Clinton Power Station
+DRA/cas
+Enclosure: Licensee Event Report 2016-001-00
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - 1l linois Emergency Management Agency
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3160·0104 EXPIRES: 10/31/2018
+(11-2015) ,,
+~'ii~ Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and led back to industry.
+. Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~" '· ......... LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+digits/characters for each block) DC 20503. If a means used to impose an information collection does not display a currently valid
+OMS control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. TITLE
+Continuous Containment Purge Exhaust Fan Trip due to Unvalidated Assumptions in Work Planning Resulted in an
+Unanalyzed Condition of Primary to Secondary Containment Differential Pressure and Safety System Functional Failure
+6. EVENT DATE 6. LER NUMBER I 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+01 20 2016 2016 - 001 - 00 03 18 2016 FACILITY NAME 050 D 0 O 0 C KET NUMBER
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+0 0 0 0
+20.2201(b) 20.2203(a)(3)(i) 50. 73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+0 20.2201(d) 0 20.2203(a)(3)(ii) [gj 50. 73(a)(2)(ii)(B) 0 50. 73(a)(2)(viii)(B)
+1
+0 D D 0
+20.2203(a)(1) 20.2203(a)(4l 5o. 73(a)(2)(iiil 50. 73(a)(2)(ix)(A)
+0 0 0 0
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50. 73(a)(2)(x)
+D 0 0 D
+10. POWER LEVEL 20.2203<a><2><H> 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4l
+0 D 0 0
+20.2203(a)(2)(iii) 5o.3a(c)(2) 50. 73(a)(2)(v)(B) 73. 71 (a)(5)
+0 D 0 D
+20.2203(a)(2)(iv) 5o.4a(a)(3)<H> 50.73(a)(2)(v)(C) 13.11<a><1>
+099 0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) [gj 50. 73(a)(2)(v)(D) D 73. 77(a)(2)(il
+0 0 0 0
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73. 77(a)(2)(ii)
+0 D
+50. 73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER I
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217-937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER REP T O O R E T P A IX B LE CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O OR E T P A IX B LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gj NO SUBMISSION
+DATE
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 20, 2016 at 1311, during planned clean and inspect maintenance activities on the 4160/480 Volt Unit
+Substation K (OAP52E), the Unit Substation K switchgear breaker OAP52E-5D for Continuous Containment
+Purge (CCP) exhaust fan "A" was racked out which resulted in tripping off the CCP "B" exhaust fan. This event
+caused Clinton Power Station (CPS) to enter one hour Required Action A.1 under Technical Specifications (TS)
+Limiting Condition for Operation (LCO) 3.6.1.4, Primary Containment Pressure, due to primary to secondary
+containment differential pressure being greater than +0.25 psid. Operations staff took appropriate actions to rack
+in breaker OAP52E-5D to restart CCP "B" exhaust fan, restore primary to secondary containment differential
+pressure within limits at 1339. Event Notification #51669 was transmitted to the NRC on January 20, 2016 at
+1731. The root cause of this event is the station did not validate assumptions resulting in an inadequate work
+package. Corrective actions include updating the maintenance planning checklist, performing a read and sign
+and presenting a case study to maintenance planning personnel on this event. This event is reportable under 10
+CFR 50.73(a)(2)(ii)(B) as an unanalyzed condition and 10 CFR 50.73(a)(2)(v)(D) as a condition that could have
+prevented fulfillment of a safety function.
+NRC FORM 366 (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3160-0104 EXPIRES: 01/31/20~7
+02-2014)
+. G ~ . ,pY1•b:i"4~'\ • R Es e t p im or a te te d d le b s u s r o d n e s n le p a e r r n e re d s p a o re n s in e c o to rp c o o ra m te p d ly in w to ith t h t e h i l s ic e m n a s n in d g a t p o r r o y c e co ss lle a c n ti d o n f e r d e q b u a e c s k t : t o 8 0 in d h u o s u tr r y s . .
+~ Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~ ~/) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+... LICENSEE EVENT REPORT (LER) internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+I
+I SEQUENTIAL REV
+YEAR NUMBER NO.
+Clinton Power Station, Unit 1 05000461 2 OF 4
+2016 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Continuous Containment Purge Exhaust Fan Trip due to Unvalidated Assumptions in Work Planning
+Resulted in an Unanalyzed Condition of Primary to Secondary Containment Differential Pressure and
+Safety System Functional Failure
+A. Plant Operating Conditions Prior to the Event:
+Unit: 1 Event Date: 1/20/2016 Event Time: 1311 Central Time
+Mode: 1 Mode Name: Power Operation Reactor Power: 099 percent
+B. DESCRIPTION OF EVENT
+On January 17, 2016at1544 Operations de-energized 4160/480 Volt Unit Substation [USS] K (OAP52E)
+due to a loud crackling noise heard coming from the unit substation. Troubleshooting Work Order (WO)
+1892378 was created to inspect the transformer [XFMR] located in the unit substation to determine the
+cause of the noise.
+At 2214 on January 17, 2016, Clearance Order (C/O) 130969 was hung to support the transformer
+inspection which placed the Main Feeder breaker [BKR] OAP52E-3B in the Racked Out position.
+On January 19, 2016 the-Electrical Maintenance Manager approached Electrical Maintenance Planning
+in regards to performing Preventive Maintenance Work Order (PMWO) 1575170 Clean and Inspect Unit
+Substation 'K' scheduled in July 2016 in conjunction i,,yith the troubleshooting WO 1892378.
+Electrical Maintenance requested that the work planner incorporate specific steps from the Clean and
+Inspect PMWO 1575170 into the current troubleshooting package WO 1892378 so that the PMWO
+could be credited. While adding the requested steps into the troubleshooting WO, the work planner
+noticed that an existing job step stated "Coordinate with Ops to ensure all breakers are open/racked
+out". Because the work planner believed that this was a duplicate of a requested step, the work planner
+believed the prerequisite conditions would be met and did not need to be added into the WO task being
+planned.
+Procedure WC-AA-104, Integrated Risk Management, Attachment 8, Risk Screening/Mitigation Plan
+was completed, but the need for an OPS review was not noted and therefore not completed. The form
+identified Auxiliary Power (AP) system impacts but did not take into account the Containment Building
+Ventilation (VR) system effects. The work activity was not properly screened for risk and there was no
+reference for ensuring validation of initial conditions prior to commencing the work under WO 1892378.
+NRC FORM 366A(02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+I
+YEAR I SE N Q U U M E B N E T R IA L R N E O V .
+Clinton Power Station, Unit 1 05000461 3 OF 4
+2015 003 00
+NARRATIVE
+On January 20, 2016 the Electrical Maintenance Department (EMO) was preparing to perform the Clean
+and Inspect WO 1892378. EMO supervision contacted the Operations Work Control Supervisor (WCS)
+to request all breakers on Unit Substation K be opened and racked out. The WCS dispatched operators
+to Unit Substation Kand opened all the breakers, but did not rack the breakers out. Since the Clean
+and Inspect WO was being performed under a clearance order and the bus was de-energized,
+Operations indicated to EMO the breakers could be racked out by them.
+The EMO technicians proceeded to rack out the breakers to enable the breakers to be removed. The
+racking out of breaker OAP52E-5D for Continuous Containment Purge (CCP) "A" exhaust fan [FAN],
+1VR07CA, disconnected the 'B' auxiliary contact that is used to provide the start permissive signal for
+the CCP "B" Exhaust Fan, 1VR07CB. This caused 1VR07CB to shutdown/trip and resulted in
+Operations receiving Main Control Room (MGR) annunciator 5043-2A for Unexpected Automatic Trip of
+Running Continuous Containment Purge Supply or Exhaust Fan.
+At 1311, Primary to Secondary Containment differential pressure was reported to be +0.411 psid. The
+Technical Specifications (TS) Limiting Condition for Operation (LCO) 3.6.1.4, Primary Containment
+Pressure, condition states, "Primary containment .to secondary containment differential pressure shall be
+greater than or equal to -0.25 psid and less than or equal to +0.25 psid."
+This event caused CPS to enter a one hour Required Action A.1 under TS LCO 3.6.1.4, due to primary
+to secondary containment differential pressure being greater than +0.25 psid.
+At 1317, Operations completed shutdown of CCP per site procedure CPS 3408.01, CONTAINMENT
+BUILDING DRYWELL HVAC (VR, VQ).
+At 1320, breaker OAP52E-5D was racked back into the Unit Substation.
+At.1327,. Operations completed startup of CCP per site procedure CPS 3408.01.
+At 1339, Primary to Secondary Containment differential pressure was reported to be +0.24 psid and
+improving.
+Primary to Secondary Containment differential pressure was restored within the required TS LCO
+3.6.1.4 conditions and the Required Action A.1 was exited at 1339. Event Notification #51669 was
+transmitted to the NRG on January 20, 2016 at 1731.
+C. CAUSE OF EVENT
+An Issue Report (IR) was entered into the station's Corrective Action Program as IR 2614832. The
+station did not validate assumptions which resulted in an inadequate work package. Additionally,
+procedure OP-CL-108-101-1003, Operations Department Standards and Expectations, step 4.10.2 was
+not followed to ensure Shift Management reviews were performed along with two Senior Reactor
+Operators (SROs) and approval by the Shift Manager.
+NRC FORM 366A(11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER I 3. PAGE
+YEAR I SE N Q U U M E B N E T R IA L R N E O V .
+Clinton Power Station, Unit 1 05000461 4 OF 4
+2015 003 00
+NARRATIVE
+D. SAFETY ANALYSIS
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(ii)(B) as an unanalyzed condition and 10
+CFR 50. 73(a)(2)(v)(D) as a condition that could have prevented fulfillment of a safety function.
+The secondary containment pressure is kept slightly negative relative to the atmospheric pressure to
+prevent leakage to the atmosphere.
+The primary containment to secondary containment differential pressure can affect the initial
+containment internal pressure. The initial pressure limitation requirements ensure that peak primary
+containment pressure for a Design Bases Accident (DBA) Loss of Coolant Accident (LOCA) does not
+exceed the design value of 15 psig and that peak negative pressure for an inadvertent containment
+spray event does not exceed the design value of 3.0 psid. This event resulted in a loss of Primary to
+Secondary Containment Differential Pressure safety function due to Primary to Secondary Containment
+differential pressure being outside the initial conditions for a Design Basis Accident Loss of Coolant
+Accident.
+No actual consequences occurred as a result of these conditions .. Containment did not exceed the peak -.
+primary containment pressure design value of 15 psig or exceec;I the peak negative pressure design
+value of value 3 psid.
+E. CORRECTIVE ACTIONS
+Primary to Secondary Containment Differential Pressure was restored within the TS LCO requirements.
+Corrective Actions scheduled to be performed include
+1) Update the Maintenance Planner Checklist to ensure steps are created to validate initial conditions for
+each new emergent task,
+2) Perform a read and sign with all active Operations Senior Reactor Operators to reinforce the
+requirements of OP-CL-108-101-1003 and MA-AA-716-011, Work Execution and Close Out,
+3) Implement recommendations from a review of the current Operator Aid on breaker cubicle doors, and
+4) Develop and present a case study on this event to Maintenance Planning personnel.
+F. PREVIOUS SIMILAR OCCURRENCES
+Clinton Power Station had a similar event occur on November 9, 1999 documented in station Condition
+Report CR 1-99-11-077, involving automatic trip of CCP supply fan Band an unplanned entry into ITS
+Required Actions caused by maintenance activities. The maintenance work order package·at the time-··
+did not have an impact matrix, nor did it identify the potential to cause the fan trip within any of the job
+steps. One of the corrective actions from this event was to affix an Operator Aid to the compartment
+door of the breaker. A corrective action from the January 20, 2016 event is to implement
+recommendations from a review of the current Operator Aid since this Operator Aid may not have been
+as effective as it could have been.
+G. COMPONENT FAILURE DATA
+Not applicable since this was a human performance related event.
+NRC FORM 366A(11-2015)

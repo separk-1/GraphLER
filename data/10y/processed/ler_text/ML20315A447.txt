@@ -1,0 +1,223 @@
+=~Exelon
+Generation®
+SVP-20-080 10 CFR 50.73
+November 10, 2020
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-28 and DPR-29
+NRC Docket No. 50-254 and 50-265
+Subject: Licensee Event Report 254/2020-002-00 "Main Steam Line Drain Valve Declared
+Inoperable Due to Improper Torque Switch Setting"
+Enclosed is Licensee Event Report 254/2020-002-00 "Main Steam Line Drain Valve Declared
+Inoperable Due to Improper Torque Switch Setting," for Quad Cities Nuclear Power Station, Unit 1
+and 2.
+This report is submitted in accordance with 1O CFR 50. 73(a)(2)(i)(B), for any operation or
+condition which was prohibited by the plant's Technical Specifications.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Sherrie Grant at (309) 227-
+2800.
+'1. ~ \c.."' c.!
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send commenls
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollecls.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRG may not conduct or
+http:l/www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currentiy valid OMB control number.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station 05000-0254 1 OF 4
+4. Title
+Main Steam Line Drain Valve Declared Inoperable Due to Improper Torque Switch Setting
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month D Year Facility Name Docket Number
+1----1-----11-----+----1---N_u_m_be_r_+-_N_o_.- -11-----1--a-y--1-----1 Quad Cities 05000-0265
+Facility Name Docket Number
+09 11 2020 2020 - 002 00 11 10 2020
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2203(a)(2)(vi) 50.36(c)(2) 50. 73(a)(2)(iv)(A) 50.73(a){2)(x)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A)
+D D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 13.11{a)(4)
+D D D D D
+20.2203(a)(11 20.2203(a)(4) 50.73(a)(2)(i){A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+D D D
+20.2203(a){2)(i) ~ 50.73(a)(2)(i){B) 50.73(a)(2)(v)(D) 13.77(a)(1)(i)
+D D D D
+20.2203(a)(2)(ii) 50. 73(a)(2)(i)(C) 50.73(a)(2){vii) 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(iii) 50. 73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+D D D D
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Rachel Luebbe - Principal Regulatory Engineer 309-227-2813
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A SB ISV C665 y A SB ISV C665 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+i:gi No D Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract {Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 1, 2020 and July 23, 2020, engineering identified the torque switch setting on the Unit 2 and Unit 1 Main
+Steam Line (MSL) outboard drain (1(2)-0220-2) motor operated valves (MOV) were found to be nonconservative with
+respect to the valve's design function under the expected worst-case operating conditions. Both valves were initially
+evaluated and declared operable because the valve was closed (safety function position) and was not required to be
+opened during the normal two-year operating cycle. On September 11, 2020 at 1100 CDT, Operations determined
+that although the valves were performing their isolation function, operability was no longer supported and the MSL
+outboard drain valves were declared inoperable.
+This issue is being reported under 1OCFRSO.73(a)(2)(i)(B) for any operation or condition which was prohibited by the
+plant's Technical Specifications (TS) because TS 3.6.1.3 Action Statement A.1 was not completed within the required
+time in July 2020 during the initial discovery of the torque switch setting issue.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/} requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities 05000- 0254 YEAR NUMBER NO.
+2020 002 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Main Steam Drain Valve Declared Inoperable Due to Improper Torque Switch Setting
+A. CONDITION PRIOR TO EVENT
+Unit: 1&2 Event Date: September 11, 2020 Event Time: 1100
+Reactor Mode: 1 Mode Name: Power Operations Power Level: 100%
+There were no other structures, systems or components (SSC) inoperable during this event time period
+that could have contributed to this event.
+B. DESCRIPTION OF EVENT
+On July 1, 2020, following review of an industry operating experience report, engineering identified the
+torque switch setting on the Unit 2 Main Steam [SB] Line outboard drain valve [ISV] (2-0220-2) motor
+operated valve (MOV) was nonconservative with respect to its design function under the expected worst
+case operating conditions. The cause of as-left torque switch setting being lower than the required value
+was determined to be a latent error in the calculation used for these valves. The valve was initially called
+operable with a request for a formal Operability Evaluation (Op Eval), because the valve was closed
+(safety function position) and was not required to be opened during the normal two-year operating cycle.
+Revision 00 of the Op Eval, completed on July 7, 2020, provided compensatory actions for the degraded
+automatic isolation function by revising procedures to have a dedicated operator ready to enter the Main
+Steam Isolation Valve (MSIV) room to manually ensure full closure of the valve should the valve need to
+be opened.
+On July 23,2020, following an extent of condition review, engineering identified that the Unit 1 Main
+Steam Line outboard drain valve (1-0220-2) MOV torque switch setting was also incorrect. The Op Eval
+that was written to cover the previously identified Unit 2 valve was revised on August 5, 2020 to include
+the Unit 1 valve and requested similar compensatory actions. The basis for the Unit 2 valve operability
+was also applied to the Unit 1 valve.
+On September 11, 2020 at 1100 CDT, Operations determined that the Op Eval no longer supported
+operability of the Unit 1 and Unit 2 Main Steam Line outboard drain valves because of an inability to meet
+Primary Containment Isolation Valve (PCIV) TS surveillance requirements (SR). The affected valves
+were declared inoperable and Technical Specification 3.6.1.3 Condition A was entered at that time. On
+NRC FORM 366A (08-2020) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+l #"fl.Ai?Ql,r'-t\ regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\ ....... • CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+..,, Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eoo.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3D requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Quad Cities 05000- 0254 NUMBER NO.
+2020 002 00
+NARRATIVE
+September 11, 2020 at 1339 CDT, the affected penetration flow path was isolated in accordance with TS
+3.6.1.3 Action Statement A.1.
+It was determined the valves had been inoperable since the initial discovery of the torque switch trip
+setting issue in July 2020. Thus, this issue is being reported under 10 CFR 50. 73(a)(2)(i)(B) for any
+operation or condition which was prohibited by the plant's Technical Specifications.
+C. CAUSE OF EVENT
+The cause of the Main Steam Line Drain MOVs inoperability was an incorrect torque switch setting due to
+historical non-conservatisms in the governing calculation. The condition prohibited by TS was caused by
+an operability determination that was not in alignment with the TS SRs regarding PCIV operability.
+D. SAFETY ANALYSIS
+System Design
+The Main Steam Line Drain Valves are considered automatic PCIVs. The function of the PC IVs, in
+combination with other accident mitigation systems, is to limit fission product release during and following
+postulated Design Basis Accidents (DBAs). Primary Containment isolation within the time limits specified
+for those isolation valves designed to close automatically ensures that the release of radioactive material
+to the environment will be consistent with the assumptions using the safety analyses for a DBA. The
+MSL drain valves are normally closed and not required to be opened during the normal operating cycle.
+Safety Impact
+Both Unit 1 and Unit 2 Main Steam Line Drain Valves have been fully closed, which is their safety
+function position, since Unit 1 and Unit 2 have been at power operation following their respective
+refueling outages. Since the valves are not opened during normal unit operation, the safety
+consequences of the degraded condition which only affects the valves ability to re-close after opening is
+minimal.
+NRC FORM 366A (08-2020) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+;flRtGttl..t
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+{ \ LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\ • CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+........ Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http:/lwww.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Quad Cities 05000- 0254 NUMBER NO.
+2020 002 00
+NARRATIVE
+E. CORRECTIVE ACTIONS
+The Main Steam Line drain valves will be repaired to correct the torque switch setting issue in the next
+refuel outage on each unit.
+Follow-up corrective actions include additional training for both Operations and Engineering on the
+Operability Evaluation process and an extent of condition review on all open Operability Evaluations to
+ensure conclusions support continued operability.
+F. PREVIOUS OCCURRENCES
+The station events database, LERs and IRIS were reviewed for similar events at Quad Cities Nuclear
+Power Station, with one event being identified. This event was a Safe Shutdown Makeup Pump (SSMP)
+discharge pressure calculation error. This event is similar in that it resulted in a condition outside of
+Technical Specification that was related to an engineering error in a calculation.
+LER (254/2008-001-00) Past Operation of Safe Shutdown Makeup Pump Outside Technical
+Specifications Surveillance Requirements, 09/04/2008. An error in a calculation found that SSMP
+discharge pressure necessary to meet the TS surveillance requirement (SR) had increased. This
+calculation error resulted in historical TS SR testing failures of the corrected required SSMP discharge
+pressure. The cause was determined to be lack of procedural guidance in the performance and review of
+calculations.
+G. COMPONENT FAILURE DATA
+Failed Equipment: Unit 1 and Unit 2 Main Steam Line outboard drain valve MOV
+Component Manufacturer: Crane
+Component Model Number: 783-U
+Component Part Number: NIA
+This event has been reported to IRIS.
+NRC FORM 366A (08-2020) Page _4_ of _4_

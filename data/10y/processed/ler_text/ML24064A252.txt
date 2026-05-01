@@ -1,0 +1,267 @@
+H
+Nebraska Public Power District
+"Always there when you need us"
+10 CFR 50.73
+NLS2024013
+March 4, 2024
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2024-001-00
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2024-001-00.
+This letter does not contain regulatory commitments.
+Sincerely,
+Khalil Dia
+Site Vice President
+/bk
+Attachment: Licensee Event Report 2024-001-00
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC - Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC - NRR Plant Licensing Branch IV via IRIS entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC- CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+72676 648A Ave/ P.O. Box 98 / Brownville, NE 68321
+http://www.nppd.com
+NRC FORM 366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) C es o t m im m at i e ss i t o o n , t h W e a F s O h I in A g , to L n ib , ra D ry C , 2 a 0 n 5 d 5 5 In -0 fo 0 r 0 m 1 a , tio o n r b C y o l e le m ct a io il ns to B ln ra fo n c c o h l le (T ct - s 6 . R A e 1 s O o M ur ) c , e U @ . n S rc . .g N o u v c , le a a n r d R t e h g e u l 0 at M or B y
+(See Page 2 for required number of digits/characters for each block) reviewer at: 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov.
+The NRC may not conduct or sponsor, and a person is not required to respond to, a collection of information
+htti:2 :// www. nrc. gov/ reading-rm/doc-col Ie ctions/n u reg sf staff/s r1 022/r3/) unless the document requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name ~ 050 2. Docket Number 3. Page
+Cooper Nuclear Station 298 1 of 5
+□ 052
+4. Title
+Inoperable Turbine Stop Valve Limit Switch Causes Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year
+Number No.
+01 03 2024 2024 001 00 03 04 2024
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: Check all that aooly)
+D 20.2203(a)(2)(vi) □ 50. 73(a)(2)(ii)(A) D 50. 73(a)(2)(viii)(A) D73.12oo(a)
+D20.2201(b) D 20.2203(a)(3)(i) □ 50.36(c)(1 )(i)(A) □ 50. 73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+D20.2201(d) D 20.2203(a)(3)(ii) □ 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(iii) D 50. 73(a)(2)(ix)(A) D73.12oo(c)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.36(c)(2) D 50. 73(a)(2)(iv)(A) D 50. 73(a)(2)(x) □ 73.1200( d)
+D 20.2203(a)(2)(i) D 50.46(a)(3)(ii) D 50. 73(a)(2)(v)(A) D73.12oo(e)
+D 20.2203(a)(2)(ii) D21.2cc> D5o.69(g) D 50. 73(a)(2)(v)(B) D73.77(a)(1) □ 73.1200(f)
+D 20.2203(a)(2)(iii) □ 50. 73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) D 73. 77(a)(2)(i) □ 73.1200(9)
+D 20.2203(a)(2)(iv) ~ 50. 73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) D 73. 77(a)(2)(ii) D73.1200(h)
+D 20.2203(a)(2)(v) □ 50. 73(a)(2)(i)(C) D 50.73(a)(2)(vii)
+D OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Linda Dewhirst, Regulatory Affairs and Compliance Manager (4 02) 825-5416
+13. Complete One Line for each Com Jonent Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D JC 33 N007 y
+14. Supplemental Report Expected 15. Expected Submission Date Month Day Year
+I
+~ No D Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+During the performance of surveillance testing on January 3, 2024, turbine stop valve (TSV)-1 open limit switch,
+MS-LMS-SVOS1(1 ), failed to actuate. This failure prevented actuation of the Reactor Protection System (RPS)
+scram logic for channel A 1. At 0400, Operations declared TSV-1 limit switch inoperable and entered the
+applicable Technical Specifications (TS) Limiting Condition for Operation (LCO) 12-hour action statement to
+place the RPS channel in trip and inserting a half-scram.
+A pre-planned contingency power reduction was initiated to replace the limit switch. When the switch linkage
+was disassembled for replacement, the arm was found loose and not fully engaged onto the limit switch shaft.
+The switch was replaced, and Operations exited the TS LCO action statement at 0249 on January 4, 2024.
+The cause of the failure was due to looseness in the limit switch linkage that attached to the limit switch cam.
+This prevented proper engagement to actuate the limit switch when it was exercised for testing.
+There were no safety consequences as a result of this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request:
+80 hours. Reported lessons learned are incorporated into the licensing process
+LICENSEE EVENT REPORT (LER) and fed back to industry. Send comments regarding burden estimate to the FOIA,
+CONTINUATION SHEET Library, and Information Collections Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of
+Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira submission@omb.eop.gov. The NRC may not conduct or sponsor, and a
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid 0MB
+control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298
+NUMBER NO.
+2024 001 00
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operation, at 100 percent power at the time of the event
+on January 3, 2024.
+BACKGROUND
+The Reactor Protection System (RPS) [El IS:JC] provides timely protection against the onset and consequences
+of conditions that threaten the integrity of the fuel barrier and the reactor coolant pressure boundary. The RPS
+limits the uncontrolled release of radioactive material from the fuel and reactor coolant pressure boundary by
+terminating excessive temperature and pressure increases through the initiation of an automatic scram.
+The RPS includes sensors, relays [EIIS:RL Y], bypass circuits, and switches that are necessary to cause
+initiation of a reactor [EIIS:RPV] scram. The input parameters to the scram logic are from instrumentation that
+monitors reactor vessel water level, reactor vessel pressure, neutron flux, main steam line isolation valve
+position, turbine control valve fast closure, turbine stop valve (TSV) position, drywell pressure, and scram
+discharge volume water level.
+The RPS is arranged as two separately powered trip systems (trip system A and trip system 8). Each trip
+system has three logics. Two of the logics (A 1, A2; 81, 82) are used to produce automatic trip signals. The
+input parameters mentioned above are represented by at least one input to each of these logic channels. The
+remaining logic is used for a manual trip signal. The outputs of the automatic logic channels in a trip system
+are combined in a "one-out-of-two" logic so that either channel can trip the associated trip system. The tripping
+of both systems will produce a reactor scram.
+The operability of RPS is dependent on the operability of individual instrumentation channel functions specified
+in Technical Specifications 3.3.1.1, RPS Instrumentation, Table 3.3.1.1-1. For the Turbine Stop Valve-Closure
+Function (Table 3.3.1.1-1, Function 8), each RPS trip system receives two Turbine Stop Valve-Closure channel
+inputs from a TSV, each consisting of one position (i.e., limit) switch [EIIS:33] assembly with two contacts, each
+inputting to a relay. The relays provide a parallel logic input to an RPS trip logic channel. The logic for the
+Turbine Stop Valve-Closure Function is such that both TSVs must be closed to produce a reactor scram.
+Single TSV closure will produce a half scram. Four channels of Turbine Stop Valve-Closure Function, with two
+channels in each trip system, are required to be operable.
+EVENT DESCRIPTION
+On January 3, 2024, TSV-1 limit switch MS-LMS-SVOS1 (1 ), failed to actuate during surveillance testing.
+Testing of the limit switch function is required to meet Technical Specifications (TS) Surveillance Requirement
+3.3.1.1.9 for Table 3.3.1.1-1, Function 8 - TSV Closure. Failure of limit switch MS-LMS-SVOS1 (1) to actuate
+revented makin u the RPS scram lo ic for channel A1. The other TSV-1 limit switch, MS-LMS-SVOS1 2 ,
+NRC FORM 366A (10-01-2023) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request:
+80 hours. Reported lessons learned are incorporated into the licensing process
+LICENSEE EVENT REPORT (LER) and fed back to industry. Send comments regarding burden estimate to the FOIA,
+CONTINUATION SHEET Library, and Information Collections Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of
+Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira submission@omb.eop.gov. The NRC may not conduct or sponsor, and a
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/) person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid 0MB
+control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298
+NUMBER NO.
+2024 001 00
+actuated as expected. The safety function of the TSV position limit switches is to initiate a reactor scram at the
+start of TSV closure. Performance of surveillance testing verifies this function is performing properly.
+At 0400, Operations declared TSV-1 limit switch inoperable and entered TS Limiting Condition for Operation
+(LCO) 3.3.1.1, Condition A, Required Action A.2, place associated trip system in trip, with a Completion Time of
+12 hours. At 0853, a pre-planned contingency power reduction to approximately 60% was initiated to replace
+the limit switch. When the switch linkage was disassembled for replacement, the linkage arm was found
+partially disengaged from the splined cam of the limit switch. This allowed the arm to move without engaging
+the limit switch due to it being loose. Additionally, during re-assembly, it was identified the linkage roller did not
+line up correctly with the TSV actuator arm. The shimming on the limit switch was adjusted to correct the
+alignment.
+Both TSV-1 limit switches, MS-LMS-SVOS1(1) and MS-LMS-SVOS1(2), were replaced and Operations exited
+LCO 3.3.1.1, Condition A, on January 4, 2024, at 0249 hours.
+MS-LMS-SVOS 1( 1) Performance History:
+The failed TSV-1 limit switch was previously installed under the normal preventive maintenance (PM) frequency
+in October 2020 during refueling outage 31. The PM work order replaced both TSV-1 limit switches. Functional
+testing was conducted during quarterly power reductions the following operating cycle with no issues identified.
+In November 2022, during refueling outage 32, MS-LMS-SVOS1 (1) was removed to support work on TSV-1
+and reinstalled. Online functional testing continued during quarterly power reductions with no issues
+documented for the 2023 first or second quarter tests.
+During TSV-1 limit switch functional testing on August 19, 2023, MS-LMS-SVOS1(1) was slow to actuate. At
+the time, it was determined the delayed response was due to the method of testing and that the switch lever
+was not fully actuated far enough to change state of the limit switch. The station operator performing the test
+noted that while actuating the switch, they had to reposition their body to get full engagement. When they
+repositioned, the switch did actuate to drop out the associated relays. An additional test was performed by a
+different individual to ensure the switch was fully actuated and testing was completed successfully. TSV-1 limit
+switch MS-LMS-SVOS1(2) performed as expected. During the testing, both limit switches on TSV-2 actuated
+correctly.
+TSV-1 limit switch testing was again performed on November 18, 2023. During this testing, limit switch MS-
+LMS-SVOS1 (1) did not change state. The switch lever mechanism was held for approximately five minutes
+with no change. MS-LMS-SVOS1 (2) actuated as expected. As a result of this testing, Maintenance personnel
+visually inspected the switch and Engineering personnel evaluated the condition. An additional test was
+performed with a scope recorder connected to the associated relays to assist with diagnostics. During this test,
+the relays performed as expected. Based on the successful test, visual inspections, and experience from
+previous switch failure, it was a ain sus ected the initial test failure was associated with how the testin was
+NRC FORM 366A (10-01-2023) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request:
+80 hours. Reported lessons learned are incorporated into the licensing process
+LICENSEE EVENT REPORT (LER) and fed back to industry. Send comments regarding burden estimate to the FOIA,
+CONTINUATION SHEET Library, and Information Collections Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of
+Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira submission@omb.eop.gov. The NRC may not conduct or sponsor, and a
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/} person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid 0MB
+control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298
+NUMBER NO.
+2024 001 00
+performed; by not fully engaging the switch mechanism causing it to change state. During the testing, both limit
+switches on TSV-2 actuated correctly.
+The functional testing performed on January 3, 2024, was done at an increased frequency (from quarterly to a
+6-week interval) based on previous test performance of limit switch MS-LMS-SVOS1(1) and industry operating
+experience that identified the potential for grease hardening in the switch mechanism. Results from
+subsequent lab analysis performed on the failed limit switch ruled out grease hardening as a potential failure
+mode.
+The switch linkage arm looseness that was identified following MS-LMS-SVOS1 (1) failure on January 3, 2024,
+was not identified during the previous inspection on November 18, 2023. It cannot be determined if the
+looseness was present at that time. Linkage arm looseness can only be observed by looking for a gap on the
+top side of the switch and linkage. The engagement of the linkage on to the cam cannot be seen since the
+linkage covers the cam. The testing method of manually cycling the limit switch has been performed at CNS for
+over 20 years as an acceptable practice with consistent good responses.
+The installed limit switches for TSV-1 and TSV-2 are Namco, series EA740.
+BASIS FOR REPORT
+Based on performance history of limit switch MS-LMS-SVOS1(1 ), the TSV-1 was inoperable back to the date of
+the initial failed surveillance, i.e., on August 19, 2023. As such, this event is reportable under 10 CFR
+50.73(a)(2)(i)(B) -Any operation or condition which was prohibited by TS.
+SAFETY SIGNIFICANCE
+There were no safety consequences as a result of this event. The failure to actuate was only experienced on
+one TSV-1 limit switch MS-LMS-SVOS1 (1 ). During the time the TSV-1 closure function was inoperable for this
+failure, there was no failure of the other limit switch for TSV-1, nor was there any failure of the two limit switches
+for TSV-2. Therefore, a closure of TSV-1 would still have generated a half scram signal on RPS channel A2
+and a normal half scram would have been generated from both Channels 81 and 82 for TSV-2 closure.
+CAUSES
+The mechanistic cause for the failure of the limit switch to actuate during testing was due to the assembly
+and alignment of the linkage mechanism not having full engagement on the splined cam.
+A contributing cause was that the installation guidance did not contain the necessary vendor manual
+information to ensure consistency for tightening linkage to the cam shaft. The guidance also did not have detail
+for aligning the linkage to the actuator which allowed it to disengage from the spline adaptor and prevented the
+limit switch from actuatin
+NRC FORM 366A (10-01-2023) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request:
+80 hours. Reported lessons learned are incorporated into the licensing process
+LICENSEE EVENT REPORT (LER) and fed back to industry. Send comments regarding burden estimate to the FOIA,
+CONTINUATION SHEET
+Library, and Information Collections Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of
+Information and Regulatory Affairs, (3150-0104 ), Attn: Desk Officer for the Nuclear
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira submission@omb.eop.gov. The NRC may not conduct or sponsor, and a
+http://www. nrc. gov/ read i nq-rm/doc-col lections/nureqs/staff/ sr1022/r3/) person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid 0MB
+control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298
+NUMBER NO.
+2024 001 00
+CORRECTIVE ACTIONS
+MS-LMS-SVOS 1( 1) was replaced using additional vendor guidance and detail to perform shimming for proper
+alignment.
+CNS will also update the associated maintenance plans to include additional instruction on tightening limit
+switches, shimming as necessary for alignment, and to manually stroke the linkage.
+PREVIOUS EVENTS
+There have been no previous events in the last three years regarding TSV limit switch failures other than that
+discussed in the Event Description section of this report.
+NRC FORM 366A (10-01-2023) Page 5 of 5

@@ -1,0 +1,199 @@
+(_~ DUKE William R. Gideon
+Vice President
+ENERGY®
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+May 28, 2019
+Serial: RA-19-0227
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 2
+Renewed Facility Operating License No. DPR-62
+Docket No. 50-324
+Licensee Event Report 2-2019-002
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Jerry Pierce, Manager - Nuclear
+Support Services, at (910) 832-7931.
+s~
+William R. Gideon
+MAT/mat
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 2 05000324 1 OF 3
+4. Title
+Manual Reactor Protection System Actuation and Specified System Actuation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+03 30 2019 2019 - 002 - 00 05 28 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+023 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Jerry Pierce, Manager – Nuclear Support Services (910) 832-7931
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 17:47 Eastern Daylight Time (EDT) on March 30, 2019, with Unit 2 in Mode 1 at approximately 23 percent power and
+main turbine startup in progress, high temperature was sensed at main turbine bearing 9. A manual main turbine trip
+and manual actuation of the Reactor Protection System (RPS) were initiated in response to the high bearing
+temperature. All control rods inserted as expected during the scram. When the scram was inserted, reactor water level
+dropped below the Low Level 1 (LL1) actuation setpoint. Per design, the LL1 signal resulted in automatic actuation of
+the Primary Containment Isolation System (PCIS) with closure of Group 2, 6, and 8 isolation valves. Operators manually
+closed the Main Steam Isolation Valves (MSIVs), in anticipation of low condenser vacuum, prior to the Group 1 PCIS
+signal being received. All systems responded as designed. This event is being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in valid actuations of RPS and PCIS.
+The direct cause of this event was insufficient lubricating oil supply to the main turbine bearing 9 which caused the
+bearing to overheat; leading to the manual scram. The most probable cause for the insufficient oil flow was design
+differences which resulted in a misalignment between the lower half bearing flow channel and the oil supply port in the
+main turbine 9 bearing housing. Corrective actions include a procedure change to ensure that lubricating oil supply oil
+flow is not restricted as a result of bearing replacement.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR
+05000324 NUMBER NO.
+Unit 2
+2019 - 002 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 2 was in Mode 1 (i.e., Power Operation), at approximately 23 percent of rated
+thermal power (RTP). There was no inoperable equipment that contributed to the event.
+Reportability Criteria
+The Reactor Protection System (RPS) [JC] and Primary Containment Isolation System (PCIS) [JM]
+actuations are being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that
+resulted in manual or automatic actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B). The event was
+initially reported to the NRC on March 30, 2019 (i.e., Event Number 53966).
+Event Description
+At 17:47 Eastern Daylight Time (EDT) on March 30, 2019, with Unit 2 in Mode 1 at approximately 23 percent
+power and main turbine startup in progress, high temperature was sensed at main turbine [TA] bearing 9. A
+manual actuation of the RPS was initiated in response to the high bearing temperature. The scram was
+uncomplicated with all systems responding normally. Reactor water level reached low level 1 (LL1) due to
+the reactor trip. Per design, the LL1 signal resulted in Group 2 (i.e., floor and equipment drain isolation
+valves), Group 6 (i.e., monitoring and sampling isolation valves), and Group 8 (i.e., shutdown cooling
+isolation valves) isolations. Operators manually closed the Main Steam Isolation Valves (MSIVs), in anticipation
+of low condenser vacuum, prior to the Group 1 PCIS signal being received.
+Event Cause
+The direct cause of this event was insufficient lubricating oil supply to main turbine bearing 9 which caused the
+bearing to overheat; leading to the manual scram. The most probable cause for the insufficient oil flow was
+design differences which resulted in a misalignment between the lower half bearing flow channel and the oil
+supply port in the main turbine 9 bearing housing.
+As a result of planned maintenance on the main turbine during the 2019 Unit 2 refueling outage, it was
+determined that main turbine bearing 9 required replacement. Main turbine bearings are provided cooling
+and are lubricated by way of the Main Turbine Lube Oil System [TD]. During preparations for Unit 2 startup,
+an Auxiliary Operator identified low oil flow in the drain pot of main turbine bearing 9. The low flow condition
+was evaluated by plant staff and discussed with a vendor representative. Additionally, borescope
+inspections of the lubricating oil supply and return lines for bearing 9 were completed. Based on these
+actions, it was incorrectly concluded that the oil flow was sufficient and would improve as turbine shaft
+speed increased. When startup resumed, during the process of starting the main turbine, bearing 9 failed
+due to insufficient lubricating oil supply.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR
+05000324 NUMBER NO.
+Unit 2
+2019 - 002 - 00
+NARRATIVE
+Based on subsequent inspection of the failed bearing and a second replacement bearing, it was concluded
+that the most probable cause for the insufficient oil flow was design differences which resulted in a
+misalignment between the lower half bearing flow channel and the oil supply port in the bearing housing.
+Safety Assessment
+There was no adverse impact on the health and safety of the public. The safety significance of this event is
+minimal. The automatic reactor trip was not complicated and all safety related systems operated as
+designed.
+Corrective Actions
+The following corrective actions were completed.
+• Replacement of main turbine bearing 9 was completed on April 5, 2019.
+The following corrective actions are currently planned. Any changes to the corrective actions and schedules
+noted below will be made in accordance with the site’s corrective action program.
+• The plant procedure used to perform inspections on the main generator exciter (i.e., 0PM-TRB523,
+"General Electric 2000 kVA Excitation Alternator") will be revised to ensure that supply channel on
+the bearing is aligned with the oil supply port such that oil flow is not restricted. This action is
+currently scheduled to be completed by September 25, 2019.
+• The locations of the oil supply ports for main turbine bearings 9 and 10 will be determined and
+documented during the next bearing removal on each unit.
+Previous Similar Events
+There have been no events in the past three years in which insufficient lubricating oil supply resulted in an
+unplanned automatic actuation of a safety-related system or component.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2018) Page 3 of 3

@@ -1,0 +1,180 @@
+A I·~' 7" Exelon Generation®
+~-
+Oyster Creek
+Route 9 South
+P.O. Box388
+Forked River, NJ 08731
+10 CFR 50.73
+RA-17-052
+August 31, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRC Docket No. 50-219
+Subject: Licensee Event Report (LEA) 2017-002-00, "Manual Scram due to
+Degraded Main Condenser Vacuum."
+Enclosed is LER 2017-002-00 reporting the manual reactor scram due to degraded main
+condenser vacuum, which occurred on July 3, 2017.
+This event did not affect the health and safety of the public or plant personnel. This event
+did not result in a safety system functional failure. There are no regulatory commitments
+made in this LER submittal.
+Should you have any questions concerning this report, please contact Gary Flesher,
+Regulatory Assurance Manager, at (609) 971-4232.
+Respectfully,
+Michael F. Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRC Form 366, LEA 2017-002-00
+cc: Administrator, NRC Region I
+NRC Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRC Project Manager - Oyster Creek Nuclear Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+·~?V'fl~~. .. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+f l :\ LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+i Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+.............. (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+httQ://www.nrc.gov/reading-rm/doc-collections/nureas/staff/sr1022/r3l) number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek Nuclear Generating Station 05000219 1 OF 3
+4. TITLE
+Manual Reactor Scram due to Degrading Main Condenser Vacuum
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A 05000
+- FACILITY NAME DOCKET NUMBER
+07 03 2017 2017 - 002 00 08 31 2017 N/A 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: {Check all that apply)
+D D 0 0
+20.2201(b) 20.22os(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D 0 0
+20.2201(d) 20.22os(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N
+D D D 0
+20.22os(a><1> 20.22os(a)(4) 50.1s<a><2><m> 50.73(a)(2)(ix)(A)
+D 0 IZ! 0
+20.22os(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 0 D
+10. POWER LEVEL 20.22os(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 1s.11ca)(4)
+D D 0 D
+20.22osca>(2)(iii) 50.s6(c)(2> 50.73(a)(2)(v)(B) 1s.11ca><5>
+D D D D
+20.2203(a)(2)(iv) so.4a(a)(3J(iiJ 50.73(a)(2)(v)(C) n.n<aJ<1J
+0 0 0 D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 1s.11(a)(2)(i)
+0 0 0 D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 1s.n<a>(2)(ii)
+:~s~!~~tr::~21'.~:~'.i~~7~~;,~,~l~i;' 0 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Gary Flesher, Regulatory Assurance Manager (609) 971-4232
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE ,, MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX ,, CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+A N/A N/A N/A N N/A N/A N/A N/A N/A
+d
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 IZI SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 3, 2017, at approximately 10:15 AM following a grid disturbance, a manual scram was inserted due to
+degrading main condenser vacuum because of an improper configuration of the Augmented Off-gas (AOG) System.
+The loss of main condenser vacuum resulted when Operations personnel failed to execute procedural requirement to
+align the AOG system into a shutdown lineup. The loss of vacuum was caused by degraded Steam Jet Air Ejectors
+(SJAE) performance due to a blocked discharge path.
+The AOG system tripped 11 hours earlier following a grid disturbance. During the trip, operations personnel failed to
+re-align the AOG treatment system to a shutdown lineup resulting in the AOG Flame Arrestor siphoning into the inlet
+piping which filled the lower section of the off-gas hold up line with water.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+. . lessons learned are incorporated into the licensing process and fed back to industry. Send
+~'>#f'. AECt.~.,>0,,, comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+~. . i LICENSEE EVENT REPORT {LER) F53}, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+'lo CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+~'9 ....... . used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond lo, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Oyster Creek Nuclear Generating Station 05000219 YEAR NUMBER NO.
+2017 - 002 - 00
+NARRATIVE
+Plant Conditions Prior To Event
+Event Date: July 3, 2017 . Event Time: 10:15 hours ET
+Unit 1 Mode: Power Operation Power Level: 100%
+Description of Event
+On july 3, 2017 at 1015 hours a manual reactor scram was initiated due to degrading condenser vacuum. The loss
+of vacuum was initiated by the operations department failure to execute the procedural requirement to align the
+AOG system into a shutdown lineup. The SJAE discharge line was blocked by water from the AOG system. The
+AOG system tripped eleven hours earlier following a grid disturbance. During the trip, operations personnel failed
+to re-align the AOG system to a shutdown lineup resulting in the AOG Flame Arrestor siphoning into the lower
+section of the off-gas delay pipe.
+Cause of Event
+Operations failed to enter stop work criteria, made a non-conservative decision and did not execute a procedure in
+response to a trip of AOG. After the AOG system trip from the electrical transient, operations personnel
+misdiagnosed the AOG system lineup. The AOG system had partially isolated as designed with the recombiner
+blower still in service. To place the AOG system in a shutdown lineup, the system isolation valve had to be closed
+to separate the AOG building from the off-gas delay pipe. This isolation valve was left open and flame arrestor
+water siphoned back into the off-gas delay pipe causing a stall of the SJAEs and a subsequent loss of main
+condenser vacuum. ·
+Analysis of Event
+Following the manual scram actuation, all systems responded as expected; therefore, this event is of low safety
+significance.
+An analysis did not determine an area where early detection via plant observable parameters would have stopped
+the event. An analysis of water usage and design is below.
+A known operating characteristic on the system results in the flame arrestor getting pressurized on the process
+side up to 5 psig, (stem pressurization air sub-system). This pressure will cause the flame arrestor to siphon back
+into the AOG inlet line. A siphon will continue to backfill the suction lines due to the automatic makeup from the
+demineralized water system. Failure to isolate the inlet line to the flame arrestor with the system not in service
+allows water back flow to the off-gas process piping and fill the delay pipe. The delay pipe is the discharge piping
+from the SJAE process gas flow. Water filling the line resulted in the stall of the SJAE's that started at 0919 hours
+on July 3, 2017.
+To block SJAE flow this line would have to fill up the lowest elevation of piping. This is approximately 8100 gallons
+of water. The earliest detection of changes in the plant would occur just as the pipe is filled with water blocking the
+flow and is consistent with operations observations at approximately 0825 hours on July 3, 2017.
+NRC FORM 366A (06-2016) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+{06-2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~r.J>" fllCt.t.,>o comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+[ ,,.! LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+"\ ..... i' CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required lo respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek Nuclear Generating Station 05000219 YEAR NUMBER NO.
+2017 - 002 00
+NARRATIVE
+Corrective Actions
+Exelon took the following corrective actions:
+1. Immediate procedure changes to alarm response and operating procedures were performed to provide
+clear direction for a trip of the AOG system.
+2. Industry Benchmarking was completed and the Operations department has implemented an integrated
+decision-making model.
+3. Reinforcement of key operations fundamentals and human performance boards with each operator.
+Previous Occurrences
+A previous event occurred on July 26, 2012 during startup from Forced Outage 1 F29. The delay pipe filled with
+water prior to or during plant startup resulting in a six-hour delay in establishing condenser vacuum. A procedure
+change was put in place to verify the delay pipe is draining correctly prior to every plant start up.
+Component Data
+Component IEEE 805 System ID IEEE 803A Component
+N/A N/A N/A
+\
+NRG FORM 366A (06-2016) Page _3_ of _3_

@@ -1,0 +1,475 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+October 12, 2023
+10 CFR 50.73
+10 CFR 50.4(a)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2022-002-01 – High Pressure Coolant
+Injection System Declared Inoperable Due to a Corroded Actuator
+Reference: 1. Non-Emergency Event Notification 55992 – High Pressure Coolant Injection
+Inoperable
+2. TVA letter to NRC, “Licensee Event Report 50-259/2022-002-00 – High
+Pressure Coolant Injection System Declared Inoperable Due to a Corroded
+Actuator,” dated September 12, 2022 (ML22255A227)
+In the reference letter, Tennessee Valley Authority (TVA) submitted the subject Licensee Event
+Report (LER), which provided details of the inoperability of the Browns Ferry Nuclear
+Plant (BFN), Unit 1, High Pressure Coolant Injection (HPCI) System due to a corroded actuator.
+TVA submitted this report in accordance with Title 10 of the Code of Federal Regulations
+(10 CFR) 50.73(a)(2)(v)(D), as any event or condition that could have prevented the fulfillment
+of the safety function of structures or systems that are needed to mitigate the consequences of
+an accident. As noted in the referenced letter, TVA planned to supplement this LER to provide
+additional time to complete the root cause evaluation.
+Accordingly, enclosed is a supplement to the subject LER (i.e., LER 50-259/2022-002-01),
+which provides additional detail into the causal factors of the event and includes additional
+corrective actions to prevent recurrence.
+U.S. Nuclear Regulatory Commission
+Page 2
+October 12, 2023
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David Renn, Site Licensing Manager, at
+(256) 729-2636.
+Respectfully,
+Manu Sivaraman
+Site Vice President
+Enclosure: Licensee Event Report 50-259/2022-002-01 – High Pressure Coolant Injection
+System Declared Inoperable Due to a Corroded Actuator
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 1
+052
+00259 1 OF 8
+4. Title
+High Pressure Coolant Injection System Declared Inoperable Due to a Corroded Actuator
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000 N/A
+07 12 2022 2022 - 002 - 01 10 05 2023 Facility Name Docket Number
+N/A 05000 N/A
+9. Operating Mode 10. Power Level
+1 097
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D BJ FCV T147 Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 12, 2022, during a routine surveillance test, the Browns Ferry Nuclear Plant (BFN), Unit 1, high
+pressure coolant injection (HPCI) turbine control (governor) valve did not open as expected. Upon
+investigation, it was discovered that the electro-governor remote hydraulic actuator (EGR) had internal
+corrosion, which resulted in binding of the pilot plunger and associated pilot bushing and a subsequent failure
+to supply the hydraulic oil needed to open the governor valve.
+The resulting inoperability of the single-train HPCI system would have prevented HPCI from fulfilling its safety
+function to mitigate the consequences of an accident if demanded.
+The event was caused by inadequate procedural guidance which led to failing to identify corrosion which
+led to the valve failure. Additionally, BFN’s maintenance strategy was not aligned with industry best
+practices and was insufficient for making risk-based decisions related to the reliability of the U1 HPCI
+EGR. The EGR and remote servo were promptly replaced. As corrective actions to prevent recurrence,
+BFN revised maintenance procedures to include enhanced acceptance criteria (both wording and
+images) and now requires photographing inspection results. HPCI / Reactor Core Isolation Cooling
+(RCIC) moisture content limits, action levels and recovery actions were revised to reflect the new
+recommended levels. The HPCI Auxiliary Lube Oil Pump is now placed in service on a biweekly basis to
+recoat the EGR internals and provide real-time validation of anticipated governor valve response.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 1 was in Mode 1 at approximately
+97 percent power.
+II. Description of Event
+A. Event Summary
+On July 12, 2022, when assistant unit operators (AUOs) locally started the high pressure coolant
+injection (HPCI) [BJ] auxiliary oil pump [P], HPCI control valve 1-FCV-073-0019 (governor valve)
+[FCV] did not open as expected during the prerequisite startup checks for BFN, Unit 1 HPCI
+Flowrate surveillance test 1-SR-3.5.1.7. Subsequent troubleshooting identified that with the
+turbine at rest, and the auxiliary oil pump running, the electro-governor remote hydraulic actuator
+(EGR) [SM] did not immediately supply the hydraulic oil needed to open the governor valve.
+Operations personnel declared HPCI inoperable and entered Technical Specification (TS) 3.5.1,
+"Emergency Core Cooling System (ECCS) - Operating," Condition C and verified that reactor core
+isolation cooling (RCIC) [BN] was operable as required.
+Troubleshooting confirmed that the EGR had failed due to mechanical binding as a result of
+accumulated corrosion product around the pilot plunger which reduced critical clearances needed
+for component operation. The resulting inoperability of the single-train HPCI system would have
+prevented HPCI from fulfilling its safety function that would be needed to mitigate the
+consequences of an accident. HPCI was returned to standby readiness and was declared
+operable on July 15, 2022, at 0915 CDT, thus exiting TS 3.5.1 Condition C.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of
+the Code of Federal Regulations (10 CFR) 50.73(a)(2)(v)(D), as any event or condition that
+could have prevented the fulfillment of the safety function of structures or systems that are
+needed to mitigate the consequences of an accident.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+NRC FORM 366A (08-2020) Page 2 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+DATE AND
+OCCURRENCE
+APPROXIMATE TIMES
+BFN changed the frequency of periodic HPCI Auxiliary Lube Oil
+Pump runs from monthly to quarterly. The technical justification
+January 5, 2000 focused on Cold Quick Start and did not mention impacts to
+governor control system components, such as the EGR and
+Remote Servo.
+0-TI-230L,” Lubrication Oil Analysis & Monitoring Program,”
+October 26, 2006 Revision 000 is issued. This establishes that the HPCI lube oil
+moisture content shall be less than 0.5 percent.
+May 31, 2007 BFN, Unit 1 Restart
+Work Order (WO) 114560684 was written to reroute the BFN,
+March 29, 2013
+Unit 1 HPCI Gland Seal Leakoff lines downward.
+0-TI-230L, “Lubrication Oil Analysis & Monitoring Program,”
+February 15, 2015 Revision 009 is issued. This required installing a Vacudyne filter
+whenever lube oil moisture levels exceeded 0.2 percent.
+The BFN, Unit 1 HPCI EGR Actuator and Mechanical Drive
+were visually inspected, during BFN, Unit 1, Refueling
+October 29, 2018 Outage 12 (U1R12). No adverse findings were noted at the
+time, despite direct photographic evidence of the EGR
+displaying indications of rust and/or moisture.
+Electric Power Research Institute (EPRI) published 2021
+Lube Notes, Note 3, “Effects of Moisture in Terry Turbine
+Lube Oil and Governor Systems”, which provided new lube
+oil limit recommendations to preclude rust and other
+corrosion product development in HPCI and RCIC governor
+control system components. EPRI documented a discussion
+December 3, 2021
+between the original equipment manufacturer and
+determined that a 0.5 percent lube oil moisture content was
+an operating limit for running turbines, where system
+operation mixes the oil. This led to recommending a new
+0.05 percent (500 ppm) moisture warning limit, and that the
+0.5 percent (5000 ppm) limit only applies to operating units.
+Last known successful functional operation of the BFN,
+April 13, 2022
+Unit 1, HPCI Governor Valve EGR, which occurred during a
+1122 CDT
+flowrate surveillance.
+July 12, 2022, BFN, Unit 1, HPCI is declared inoperable to support a
+0913 CDT routine flow rate surveillance test.
+NRC FORM 366A (08-2020) Page 3 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+DATE AND
+OCCURRENCE
+APPROXIMATE TIMES
+AUOs started the HPCI aux oil pump locally, as part of a
+July 12, 2022, routine flow rate surveillance test. AUOs verified that the
+0917 CDT stop valve opened, while the governor valve unexpectedly
+remained closed and did not move.
+July 12, 2022, The governor valve opens because of troubleshooting
+0954 CDT activities, revealing that the EGR was non-functional.
+July 15, 2022, BFN, Unit 1, HPCI is declared operable following the
+0915 CDT completion of corrective maintenance and flow rate testing.
+BFN receives a copy of the EPRI Lube Oil Notes which contain
+July 25, 2022
+the revised recommended lube oil moisture content limits.
+The BFN, Unit 1 HPCI Gland Seal Leakoff Lines were rerouted
+November 17, 2022
+downward.
+Rust on the BFN, Unit 1 HPCI EGR was retroactively identified
+January 7, 2023
+based on the photographs from U1R12.
+D. Manufacturer and model number of each component that failed during the event
+The failed component was a Terry Steam Turbine Company turbine governor valve, Model
+CCS.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+Failure was discovered when the HPCI auxiliary oil pump governor valve did not open as
+expected during the prerequisite startup checks for a routine surveillance test.
+G. The failure mode, mechanism, and effect of each failed component
+The U1 HPCI EGR actuator failed due to rust accumulation on the pilot valve and inner bore,
+reducing the required clearances needed for the EGR to actuate when demanded.
+H. Operator actions
+There were no operator actions associated with this event.
+NRC FORM 366A (08-2020) Page 4 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The procedural guidance in MPI-0-073-TRB001, “High Pressure Coolant Injection (HPCI)
+Turbine Preventive Maintenance”, was less than adequate to ensure that visual inspection
+tasks identify adverse conditions prior to failure.
+Additionally, the maintenance strategy was not aligned with industry best practices and was
+insufficient for making risk-based decisions related to the reliability of the U1 HPCI EGR.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root causes were identified.
+IV. Analysis of the event
+The HPCI system is provided to assure that the reactor is adequately cooled to limit fuel cladding
+temperature in the event of a small break in the nuclear steam supply system and loss of coolant
+which does not result in rapid depressurization of the reactor vessel. The HPCI system permits
+the nuclear plant to be shut down, while maintaining sufficient reactor vessel water inventory until
+the reactor vessel is depressurized. The HPCI system continues to operate until the reactor
+vessel pressure is below the pressure at which low pressure coolant injection (LPCI) [BO]
+operation or core spray system [BM] operation maintains core cooling. Due to the HPCI system’s
+inoperability, it would have been unable to perform its safety function.
+Since the BFN, Unit 1 Restart, BFN has maintained by process and procedure HPCI lube oil
+moisture limits which were more conservative than industry recommendations. BFN also took
+conservative actions as-needed when evaluating the risks of circulating moisture-laden lube oil
+through the EGR internals.
+After the BFN, Unit 1 Restart, HPCI system monitoring and trending revealed differences between
+BFN Units which challenged the maintenance of lube oil moisture content levels needed to
+preclude corrosion. Post-2010, there was widespread industry OE regarding a poorly designed
+flexible wedge gate valve used for the HPCI Steam Admission Valve (SAV). This SAV design
+permitted 1000 psig steam leaks from the steam inlet into the turbine casing, where it would
+condense in the lube oil reservoir. This known moisture incursion source increased the difficulty of
+maintaining low-moisture oil and optimizing the longevity of EGR actuators. In 2012, BFN
+NRC FORM 366A (08-2020) Page 5 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+implemented the Sentinel Gate valve on the BFN, Unit 1 HPCI to mitigate the risk associated with
+steam leaking past the SAV. Similar modifications were performed on BFN, Units 2 and 3 in 2013
+and 2014 respectively. However, this upgrade did not allow the BFN, Unit 1 HPCI lube oil
+moisture content to be maintained as low as that of the BFN, Unit 2 or Unit 3 HPCI.
+There were no adverse events or trends regarding the BFN, Unit 1 HPCI lube oil moisture content
+between April 2013 and July 2018. In 2015, the HPCI lube oil performance monitoring criteria for
+HPCI was revised to require dewatering upon reaching a 0.2 percent moisture content, a limit
+which had been observed since 2008. Lube oil moisture spikes were conservatively identified, and
+actions were taken to ensure the newly-proceduralized moisture content threshold was not
+violated. At the time, a 0.2 percent moisture content was well below the EPRI-recommended
+value of 0.5 percent.
+In 2018, an engineer performing a visual inspection during U1R12 inspected the EGR, took
+photos, and signed off the inspection stating that no adverse conditions were identified. These
+photos were archived but not reviewed again until 2023. The condition observed in 2018 revealed
+a degraded condition which became self-revealing when the EGR failed to actuate on July 12,
+2022.
+In 2020, the Unit 1 HPCI Routine PM frequency was reduced from 2 years to 4 years to support
+the site’s move to a Divisional Outage approach. The purpose of a Divisional Outage approach
+was to optimize the site’s maintenance strategy. The technical justification for the HPCI Routine
+PM relied on a review of previous PM performances which indicated no adverse findings were
+identified. This PM frequency change unknowingly exposed BFN to additional risk, as the 2018
+visual examination failed to identify a condition adverse to quality with latent operability risks. This
+PM performance review was cited again in 2021, when BFN evaluated the adoption of a new PM
+for periodic auxiliary lube oil pump (ALOP) runs to exercise the governor system and rewet the
+EGR internals. This PM was not implemented since there were no adverse moisture trends and
+BFN was performing to criteria more conservative than what EPRI recommended at the time. In
+December 2021, EPRI published a new moisture content limit recommendation of 0.05 percent
+(500 ppm) to minimize the development of EGR internal corrosion. BFN did not recognize this
+recommendation until late July 2022.
+On July 12, 2022, during performance of the quarterly flowrate surveillance, the governor valve
+was observed to be closed, and not in the expected open position, during the prestart up trip test
+sequence. The surveillance was suspended, and troubleshooting confirmed that the EGR had
+failed due to mechanical binding from an accumulation of corrosion products around the pilot
+plunger, which reduced critical clearances needed for component operation. During the initial
+engineering evaluation for this event, BFN identified inadequate industry guidance as a factor that
+led to the event. During this evaluation, the photos from the U1R12 visual inspection which
+displayed degraded EGR internals remained undiscovered, because such photographs were not
+a required System Monitoring activity at the time. These photographs were located and reviewed
+NRC FORM 366A (08-2020) Page 6 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+on January 7, 2023. After validating that these images were applicable to a previously
+documented satisfactory visual inspection, CR 1827759 was generated to document the
+retroactive identification of the BFN, Unit 1 HPCI EGR internal corrosion.
+The governor valve opened on July 12, 2022, at 0954 CDT. This time is being taken as the time of
+discovery because that is when cognizant individuals were notified that governor valve would
+have been unable to open upon receiving a valid demand signal.
+V. Assessment of Safety Consequences
+This event resulted in inoperability and unavailability of the single train of the BFN, Unit 1, HPCI
+system resulting in the inability of the HPCI system to perform its safety functions to mitigate the
+consequences of an accident. Additionally, On June 1, 2022, RCIC was inoperable between 0110
+CDT and 0140 CDT, to support surveillance testing. In the event of an emergency, all Automatic
+Depressurization Systems (ADS) were available during this event to facilitate core cooling by low
+pressure Emergency Core Cooling Systems (ECCS), and at all other times, the RCIC system
+remained operable. A Probabilistic Risk Assessment (PRA) of the event determined that the
+incremental core damage probability (ICCDP) delta and incremental conditional large early
+release probability (ICLERP) delta resulted in a Core Damage Frequency (CDF) of 5.65E-06 and
+Large Effluent Release Frequency (LERF) of 2.41E-07.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+On June 1, 2022, RCIC was inoperable between 0110 CDT and 0140 CDT, to support
+surveillance testing. Otherwise, RCIC and all other ECCS and ADS systems remained
+operable for the duration of the event.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+It is assumed that the Unit 1 HPCI was unavailable for an exposure time of T/2, plus the repair
+time. The last successful functional operation of the component was on April 13, 2022, and the
+time of discovery was July 12, 2022. Therefore, the T/2 date is May 28, 2022, meaning that HPCI
+is considered inoperable for 45 days prior to discovery. The Unit 1 HPCI Turbine Control Valve
+NRC FORM 366A (08-2020) Page 7 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000-259 NUMBER NO.
+(cid:1407) 052
+2022 - 002 - 01
+NARRATIVE
+was declared operable following post-maintenance testing approximately 3 days later, on July 15,
+2022. The BFN, Unit 1, HPCI system was inoperable for approximately 48 days.
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA’s corrective action program under CRs
+1789217 1827759, and 1829973.
+A. Immediate Corrective Actions
+The EGR and remote servo were promptly replaced.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+As corrective actions to prevent recurrence, BFN has:
+(cid:120) Revised the section of MPI-0-073-TRB001, “High Pressure Coolant Injection (HPCI)
+Turbine Preventive Maintenance” applicable to the EGR visual inspection. The revised
+procedure now includes enhanced acceptance criteria (both wording and images) to
+remove the task performer from knowledge-based performance and ensure that the task
+will be performed in rule-based performance during future inspections. The new inspection
+instructions will require CR initiation and photographing the inspection results.
+(cid:120) Revised 0-TI-230L, “Lubrication Oil Analysis & Monitoring Program”, to include HPCI /
+RCIC moisture content limits, action levels and recovery actions to reflect the new
+recommended moisture limits and CAPR requirements.
+(cid:120) Established a new Preventive Maintenance Activity to place the HPCI Auxiliary Lube Oil
+Pump in service on a biweekly basis to recoat the EGR internals and provide a real-time
+validation of anticipated governor valve response.
+VII. Previous Similar Events at the Same Site
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (08-2020) Page 8 of 8

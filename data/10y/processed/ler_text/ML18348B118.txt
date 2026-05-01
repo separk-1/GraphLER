@@ -1,0 +1,321 @@
+Keith J. Polson
+Senior Vice President and Chief Nuclear Officer
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.6515 Fax: 734.586.1431
+Email: keith.polson@dteenergy.com
+DTE Energy-
+10 CFR 50.73
+December 14, 2018
+NRC-18-0055
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2018-006
+Pursuant to 10 CFR 50.73(a)(2)(i)(B), 10 CFR 50.73(a)(2)(ii)(B), 10 CFR
+50.73(a)(2)(v)(B), (C), (D), 10 CFR 50.73(a)(2)(vii) and 10 CFR 50.73(a)(2)(ix)(A),
+DTE Electric Company (DTE) is submitting LER No. 2018-006, Emergency Diesel
+Generator Load Sequencer Inhibits Automatic Start of Residual Heat Removal Pumps
+Under Certain Scenarios Due to Unrecognized Original Design Defect.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Senior Vice President and CNO
+Enclosure: Licensee Event Report No. 2018-006, Emergency Diesel Generator Load
+Sequencer Inhibits Automatic Start of Residual Heat Removal Pumps
+Under Certain Scenarios Due to Unrecognized Original Design Defect
+USNRC
+NRC-18-0055
+Page 2
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+I
+Enclosure to
+NRC-18-0055
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2018-006
+Emergency Diesel Generator Load Sequencer Inhibits Automatic Start of Residual Heat
+Removal Pumps Under Certain Scenarios Due to Unrecognized Original Design Defect
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYO MB: NO. 3150-0104 EXPIRES: 031312020
+(04-2018) Estimatebdu rdepne rr esponstoe complyw itht hism andatocroyl lectiorenq ues8t 0 hours.
+Reportelde ssonlse amneadre incorporatinedto t he licensinpgr ocesasn d fed backt o
+*% LICENSEE EVENT REPORT (LER) industryS. endc ommenrtesg ardinbgu rdeens timatteo theIn formatiSoenr viceBsr anch
+(T-2F 43)U, .S.N ucleaRr egulatoCryo mmissioWna, shingtDonC,2 0555-000o1r, bye -mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.agnodvt, o the DeskO fficer,O fficeo f Informatioann d
+em At (SSeee NNUUREEG--100222 , R.3 for instruc R ti .3 o n o r a n n ns d dt u g cu u t i oi d dn a n n c c e e f o o r r co o m m p p le e ti t n ig g t th is is f o o r r m m R W e a g usha u in la g t tn oA D, r f C fya s 2 ir 0 s 5 N, 0 E 3o.I O to a B m -1 o 0 a 2 n (03 ss 21 e , o 5 d 0 too -0 im 10 p O4 o ) s f,f cea i c nn ee i nn f foo M rrm a a n an s tio g ccno e l le m let a c e n n t n iodd dt no B s e u ns d n t g ot et,
++4 p http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/srl 022/r3/) displaya currentlvya ld OMcBo ntronlu mbetrh, eN RCm ayn otc onducotrs ponsoarn, da
+** * person isn otr equiretod r espontod, t heI nformaticoonl lection.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2 05000 341 1 OF 5
+4. Title
+Emergency Diesel Generator Load Sequencer Inhibits Automatic Start of Residual Heat Removal Pumps Under Certain
+Scenarios Due to Unrecognized Original Design Defect
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Month Day Year FaciliNtaym e Docket Number
+Month Day Year Year Number NoN N/A
+10 19 2018 2018 - 006 - 00 12 14 2018 FaclityName D5h
+_
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) j 20.2203(a)(3)(i) [1 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) / 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) / 50.73(a)(2)(ix)(A)
+-320.2203(a)(2)(i) 1] 50.36(c)(1)(i)(A) E] 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+L
+10. Power Level E1 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) / 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) / 50.73(a)(2)(v)(C) E] 73.77(a)(1)
+E E
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) / 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+21
+D 2 0.2203(a)(2)( vi) 0j 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) E13 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. Complete One Line for each Component Failure Described in this Report
+Cause System component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) / No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 10/19/2018, DTE Electric Company identified that the Engineered Safety Feature Bus degraded voltage relay scheme could
+inhibit all Residual Heat Removal (RHR) pumps from automatically starting and performing the Low-Pressure Coolant Injection
+(LPCI) function during a Loss of Offsite Power (LOP) with a non-simultaneous Loss of Coolant Accident (LOCA). At the time,
+Fermi 2 was in Mode 4 and automatic LPCI function was not required. However, since this condition was present from original
+plant design and construction, the result is past inoperability of the Emergency Diesel Generators and RHR pumps in certain
+non-simultaneous LOP/LOCA scenarios. This is a reportable, unanalyzed condition prohibited by Technical Specification, and
+additionally represents a loss of safety function, single cause inoperability of independent trains and single cause inoperability in
+multiple systems. The safety significance of this event is very low due to the capability of the RHR pumps to be manually started.
+There were no radiological releases associated with this event.
+L
+The root cause was an original plant design defect. A design modification to correct the design defect was implemented and
+successfully tested on all four degraded voltage circuits between 10/22/2018 and 10/24/2018.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03312020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons 'eared are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43),U . S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+(See NUREG-1022, R.3 for instruction and guidance for completing this form M co a ll n e a c g ti e o m n e d nt o e a s nd n ot B d u i d s g p e la t, y W a a s c h u i r n re g n to tl n y , va D li C d 2 0 0 M 5 B 03 . con I t f r o a l m nu e m an b s e r, u s th e e d N t o R C im p m o a s y e n a o n t i c n o fo n r d m u a c t t i o o n r
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/srl022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Ferm12
+341 2018 - 006:: - 00I
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode - 4
+Reactor Power - 0 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT.
+On 10/19/2018 at approximately 0400 EDT, during investigation into failed Emergency Diesel Generator (EDG) [[DG]]
+surveillance tests for Loss of Offsite Power (LOP) with a Loss of Coolant Accident (LOCA), DTE Electric Company
+identified that the Engineered Safety Feature (ESF) Bus [[BU]] degraded voltage relay [[RLY]] scheme could inhibit all
+Residual Heat Removal (RHR) [[BO]] pumps [[P]] from automatically starting during a LOP with a non-simultaneous LOCA
+(LOP/LOCA).
+The LOP/LOCA surveillance tests for EDGs 11 and 12 had been performed on 10/18/2018 and had resulted in the trip of
+RHR pumps A and C, respectively. The subsequent engineering review identified a design flaw in the degraded voltage
+load shed relay scheme that caused the RHR pumps used for the Low-Pressure Coolant Injection (LPCI) function to trip
+and not be automatically restarted. The review identified that under certain sequences of events, the timing of the loss of
+voltage relay trip string, load shed, and EDG breaker closure, and the parallel timing of the degraded voltage relay
+scheme resulted in a degraded voltage load shed signal occurring during the operation of the EDG load sequencer.
+Parallel timing of the degraded voltage relay scheme resulted in a trip of the RHR pump due to the degraded voltage relay
+load shed signal being present concurrently with the RHR pump start. Operation of the degraded voltage relay scheme
+during a loss of power event is nonconforming to UFSAR Section 8.2.2.5.3, which states degraded grid relaying does not
+operate during load sequencer operation. DTE determined that this design flaw was common to all four EDG degraded
+voltage load shed circuits and affected both divisions of RHR. However, there was no impact on other loads automatically
+started by the sequencer, such as Core Spray (CS) [[BM]], since the degraded grid load shed signal cleared prior to CS
+initiation.
+Previous performances of the EDG LOP/LOCA surveillance procedures had been successfully performed in a scenario
+where the LOP and LOCA signals were initiated at the same time. Engineering review confirmed that the degraded
+voltage load shed relay scheme worked appropriately and automatic start of the RHR pumps was not inhibited in this
+scenario. The EDG LOP/LOCA surveillance procedures had been revised since their last usage in the previous refueling
+outage in 2017. The procedure revisions resulted in a testing sequence where a simulated LOP signal was initiated, and
+several minutes later after validation of a successful LOP test, a simulated LOCA signal was initiated. Under the revised
+test sequence, the EDG is supplying the safety related 4KV bus at rated voltage and frequency when the simulated LOCA
+signal is initiated. Due to the timing of the degraded grid relay scheme, the degraded voltage load shed signal is still
+present when the EDG breaker closes and the RHR pump is being sequenced onto the bus. Since the RHR pump breaker
+closes when the degraded voltage load shed signal is present, the RHR breaker immediately trips, which is consistent with
+the October 18, 2018 failed surveillance test results.
+The RHR System is designed to provide removal of reactor core decay heat and sensible heat from the reactor and
+containment during normal and postulated plant accident conditions. During postulated LOCA conditions, LPCI, an
+operating mode of the RHR system and part of the Emergency Core Cooling System (ECCS), provides core cooling by
+flooding the reactor core with water drawn from the suppression pool. Control logic is provided to automatically initiate the
+LPCI mode upon receipt of a low reactor water level and/or high drywell pressure signal. The objective of the ECCS, in
+conjunction with the containment, is to limit the release of radioactive materials should a LOCA occur. The ECCS consists
+NRC FORM 366A (04-2018) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY UMB: NO. 3150-0104 EXPIRES: 031312020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned arein corporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+(See NUREG-1022, R.3 for instruction and guidance for completing this form M co a ll n e a c g ti e o m n e d nt o e a s n d n ot B d u i d s g p e la t, y W a a s c h u i r n re g n to tl n y , v D ali C d 2 O 0 M 50 B 3 . con I t f r o a l m nu e m an b s e r, u s th e e d N t o R C im p m o a s y e n a o n t i c n o fo n r d m u a c t t i o o n r
+http://www. nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1 022/r3/) sponsor, and a person is not required tor espond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 - 006 - 00
+NARRATIVE
+of the following: (1) high pressure coolant injection system (HPCI) [[BJ]], (2) automatic depressurization system (ADS)
+[[JE]], (3) CS, and (4) LPCI. The ECCS is designed to limit fuel cladding temperature over the complete spectrum of
+possible break sizes in the nuclear system process barrier, including a complete and sudden circumferential rupture of the
+largest pipe connected to the reactor vessel.
+The safety related function of the EDG System is to provide an onsite standby source of AC electrical power to shutdown
+and maintain the reactor in a safe condition under all conditions including LOCA coincident with LOP. An EDG must be
+capable of accepting required loads within the assumed loading sequence intervals and must continue to operate until
+offsite power can be restored. Proper sequencing of loads, including tripping of nonessential loads, is a required function
+for EDG operability.
+The condition identified on 10/19/18 rendered LPCI incapable of meeting its functional requirement of automatic startup
+and operation when powered by the EDGs under certain non-simultaneous LOP/LOCA scenarios. Updated Final Safety
+Analysis Report (UFSAR) Section 6.3.1.4 requires ECCS to be automatically initiated in order to provide cooling to the
+reactor core under all accident conditions. Technical Specification (TS) Surveillance Requirement (SR) 3.8.1.17.c.2
+validates that the EDGs auto-start and energize the auto-connected emergency loads through the load sequencer. Due to
+the degraded voltage relay load shed signal being present concurrently with the RHR pump start signal, the RHR pump
+trips, thus all four EDGs and both Divisions of RHR were incapable of performing their required functions for Modes 1, 2
+and 3. At the time of discovery, Fermi 2 was in Mode 4, where automatic initiation of LPCI is not required. It was
+recognized that this condition was present in the past when Fermi 2 was in Modes 1, 2, or 3, where automatic initiation of
+LPCI was required. For this reason, a past operability review was performed for the last 3 years.
+The past operability review concluded that under certain scenarios of a LOP/LOCA event sequence, such as a LOP
+followed shortly thereafter by a LOCA as in the case of the failed surveillances, the RHR pumps would have started, but
+then immediately tripped and LPCI would not have been automatically actuated. The UFSAR accident analysis in
+Chapters 6 and 15 explicitly analyzes a simultaneous LOP/LOCA, but the description of the electrical system in UFSAR
+Chapter 8 describes other possible event sequences. Therefore, the EDG degraded grid relaying scheme and RHR
+pumps would not have performed their intended design function under all UFSAR described scenarios during the past
+operability review period. The condition was determined to be applicable to all four EDGs and all four RHR pumps, thus
+the inoperability of all four EDGs and all four RHR pumps is reportable under 10CFR50.73(a)(2)(vii) as an event where a
+single cause or condition caused at least one independent train or channel to become inoperable in multiple systems or
+two independent trains or channels to become inoperable in a single system designed to mitigate the consequences of an
+accident. In addition, the condition was determined to be reportable under 10 CFR 50.73(a)(2)(ix)(A) as an event or
+condition that as a result of a single cause could have prevented the fulfillment of a safety function for two or more trains
+or channels in different systems.
+Technical Specification (TS) 3.3.8.1 requires that the LOP instrumentation shall be operable for a degraded voltage
+situation with a LOCA while in Modes 1, 2 and 3. According to Limiting Condition for Operation (LCO) 3.3.8.1 Condition A,
+an inoperable channel shall be restored in 72 hours, and if this timing is not met, then the associated EDG shall be
+declared inoperable per Condition B. As determined in the past operability review, the EDG degraded grid relaying
+scheme for all 4 EDGs would not have allowed the RHR pumps to start in certain LOP/LOCA scenarios and thus were
+inoperable for longer than the times allowed by TS.
+TS 3.8.1 requires two EDGs per division to be operable while in Modes 1, 2, and 3. According to LCO 3.5.1 Condition A, if
+one EDG is inoperable, then correct breaker alignment and indicated power availability for each offsite circuit shall be
+verified within an hour and every 8 hours thereafter. If this timing is not met, Condition G requires the unit to be in Mode 3
+NRC FORM 366A (04-2018) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessos learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+' CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form Management and Budget, Washington, DC2 0503. If a means used to impose an information
+collection does not display a currently valid OMB control number, the NRCm ay not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r3/) sponsor, and ap erson isn ot required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 - 006 - 00
+NARRATIVE
+within 12 hours. As determined in the past operability review, the EDG degraded grid relaying scheme for all 4 EDGs
+would not have allowed the RHR pumps to start in certain LOP/LOCA scenarios and thus were inoperable for longer than
+the times allowed by TS.
+TS 3.5.1 requires each of the ECCS injection/spray subsystems be Operable while in Modes 1, 2, and 3. According to
+LCO 3.5.1 Conditions C and K, if two or more low pressure ECCS injection/spray subsystems become inoperable, one
+ECCS system must be restored to Operable within 72 hours, or LCO 3.0.3 shall be immediately entered, requiring the unit
+to be in Mode 4 within 37 hours. As determined in the past operability review, two or more low pressure ECCS injection/
+spray subsystems were inoperable for longer than the times allowed.
+The failure to complete the required LCO actions for TS 3.3.8.1, 3.8.1 and 3.5.1, as described above, within their
+completion time is reportable under 10CFR50.73(a)(2)(i)(B) as a condition which was prohibited by Technical
+Specifications.
+The inoperability of all LPCI pumps and all EDGs during the past three years when Fermi 2 was in Modes 1, 2, or 3 as
+described above is also reportable under 10 CFR 50.73(a)(2)(v)(B), (C) and (D) as an event or condition that could have
+prevented the fulfillment of the safety function of structures or systems that are needed to remove residual heat, control
+the release of radioactive material, and mitigate the consequences of an accident, respectively. The losses of safety
+function discussed above were not reported as an 8-hour Event Notification under 10 CFR 50.72(b)(3)(v)(B), (C), or (D)
+since a LOCA is not a credible event in Mode 4, which was the plant status at the time of discovery, and therefore
+automatic initiation of LPCI is not required.
+Based on the UFSAR, during a LPCI failure, the following are relied on to mitigate a LOCA; 4 ADS valves, 2 divisions of
+CS, and HPCI. For those times during the past three years where HPCI and both divisions of CS were operable (with 4
+ADS valves available), Fermi 2 was within the accident analysis basis even with LPCI being unable to automatically start.
+However, for those periods when either division of CS or HPCI was inoperable, Fermi 2 was in an unanalyzed condition.
+Within the last 3 years, several instances were identified where Division 1 CS, Division 2 CS, or HPCI were unavailable.
+Each of these instances represented an unanalyzed condition and is reportable under 10 CFR 50.73(a)(2)(ii)(B). Event
+Notification 53674 was previously made at 1000 EDT on October 19, 2018 for the corresponding requirement in 10 CFR
+50.72 (b)(3)(ii)(B).
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+Engineering evaluation determined that in only certain scenarios, listed below, would the EDG degraded voltage load shed
+relay scheme trip the RHR pumps, preventing automatic initiation of LPCI:
+-LOP followed by a LOCA after the EDG is at rated speed and voltage
+-Degraded voltage followed by LOCA after the EDG is at rated speed and voltage
+-LOCA followed by a LOP when the EDG is at rated speed and voltage
+Also, the RHR pumps remained available and could have been manually started from the main control room by Operators
+during any of the scenarios where the RHR pumps did not automatically start. Manual start of RHR pumps is
+accomplished utilizing site procedures MOP01 and 23.205. The EDGs remained fully capable to supply all remaining LOP/
+LOCA loads throughout all LOP/LOCA scenarios.
+NRC FORM 366A (04-2018) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/3112020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+s regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+(See NUREG-1022, R.3 for instructton and gutdance for completing thts form Management and Budget, Washington, DC2 0503. If a means usedt o impose an information
+collection does not display a currently valid 0MB control number, theN RC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nurecs/staff/srl 022/r3/) sponsor, anda person isn ot required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341 2018 - 006 - 00
+NARRATIVE
+Within the last 3 years, several instances were identified where Division 1 CS, Division 2 CS, or HPCI were unavailable.
+The instances of multiple ECCS system outages were infrequent and, as stated above, RHR was still available for manual
+start, therefore any required actuation of the RHR pumps would have been available to mitigate an accident. A risk
+evaluation was performed to assess the on-line Probabilistic Risk Assessment (PRA) impacts of the degraded condition
+where automatic start of the RHR pumps would be inhibited. The result of this analysis was a change in Core Damage
+Frequency (CDF) of approximately 5E-07 per year, and a change in Large Early Release Frequency (LERF) of
+approximately 7E-08 per year. Changes in CDF below 1.0E-06 per year and changes in LERF below 1.0E-07 per year are
+considered to be of very low safety significance.
+There were no radiological releases associated with this event.
+CAUSE OF THE EVENT
+The direct cause of the RHR pump trips during surveillance testing was that degraded grid relaying was not blocked
+during a simulated LOP/LOCA event and generated a load shed signal during load sequencer operation. The load shed
+signal caused a trip of the RHR pump breaker when attempting to automatically close after EDG output breaker closure,
+but did not impact other automatic sequenced loads. Further review identified the root cause as being that the original
+plant design contained an unrecognized latent design defect in the undervoltage protective relaying circuits for the ESF
+buses. In addition, a design modification performed in 2010 to add a degraded voltage/LOCA relay scheme did not identify
+the legacy design defect and in fact increased the plant's vulnerability to the original design defect by increasing the
+overlap between various time delay relays. For this reason, a contributing cause was identified as technical rigor was
+lacking where design engineers did not perform a comprehensive and objective review for unintended consequences of
+the modification under all applicable operating scenarios during perforniance of the 2010 modification.
+There were no component failures during this event.
+CORRECTIVE ACTIONS
+A design modification to correct the undervoltage protective relaying circuit design defect was implemented on all four
+degraded voltage circuits between October 22 and October 24, 2018. Following implementation of the design modification,
+post-maintenance and LOP/LOCA surveillance testing on all EDGs verified that all RHR pumps successfully started
+automatically. Analysis included with the design modification also demonstrated that RHR pumps would successfully start
+automatically under all applicable scenarios. These actions were all completed prior to the end of the refueling outage.
+Additional future actions include documentation of how the degraded voltage circuits operate during all operating
+sequences of LOP and LOCA described, or implied, in the UFSAR into Fermi 2 Base Configuration Design Documents
+(BCDD) and development of a case study of this event to include with training for all personnel who prepare design
+modifications.
+PREVIOUS OCCURRENCES
+No previous site occurrences of reportable conditions were identified where all four RHR pumps were unavailable to start
+automatically due to a problem with the EDG load sequencer.
+NRC FORM 366A (04-2018) Page 5 of 5

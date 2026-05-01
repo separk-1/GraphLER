@@ -1,0 +1,191 @@
+Exelon Generation .
+James A. FitzPatrick NPP
+P.O Box 110
+Lycoming, NY 13093
+Timothy C. Peter
+Site Vice President-JAF
+JAFP-22-0002
+January 14, 2022
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2021-003, Air Solenoid Valve Condition Results in Main Steam
+Isolation Valve (MSIV) Fast Closure Test Failure
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50. 73(a)(2)(vii).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Richard Sullivan, Regulatory
+Assurance Manager, at (315) 349-6562.
+;L
+Since~l~o/
+Tima: .?eter
+Site Vice President
+TCP/RS/mh
+Enclosure: LER: 2021-003, Air Solenoid Valve Condition Results in Main Steam
+Isolation Valve (MSIV) Fast Closure Test Failure
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-
+(See Page 3 for required number of digits/characters for each block) 6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 3
+4. Title
+LER: 2021-003, Air Solenoid Valve Condition Results in Main Steam Isolation Valve (MSIV) Fast Closure Test Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+11 18 2021 2021 - 003 - 00 01 14 2022 N/A N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+ 20.2201(b)  20.2203(a)(3)(i)  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73
+ 20.2201(d)  20.2203(a)(3)(ii)  50.69(g)  50.73(a)(2)(v)(B)  73.71(a)(4)
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.71(a)(5)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(1)
+ 20.2203(a)(2)(ii)  21.2(c)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)  73.77(a)(2)(i)
+ 20.2203(a)(2)(iii) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.77(a)(2)(ii)
+ 20.2203(a)(2)(iv)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+ 20.2203(a)(2)(v)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ OTHER (Specify in Abstract below or in NRC Form 366A).
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Richard Sullivan, Regulatory Assurance Manager 315-349-6562
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JM FCV H198 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 14, 2020, at the beginning of James A. FitzPatrick (JAF) refueling outage (RO24), stroke time
+tests for Main Steam Isolation Valves (MSIV) 29AOV-86C and 29AOV-86D were outside the required time limit
+of 3 to 5 seconds per Surveillance Requirement (SR) 3.6.1.3.6. All other MSIVs were tested satisfactorily.
+A failure analysis was completed on November 18, 2021, the most probable failure mechanism is a sticking
+solenoid combined with vendor overhaul practices. This condition is common between two independent
+channels of a system used to control the release of radioactive material to become inoperable. Therefore, this
+LER is reportable per 10 CFR 50.73(a)(2)(vii).
+Corrective actions to replace the air solenoid valves were completed and both were tested satisfactorily on
+September 26, 2020. In the next refuel outage six MSIV air solenoid valves are planned to be replaced and
+sent for additional investigation.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 003 – 00
+NARRATIVE
+Background
+James A. FitzPatrick Nuclear Power Plant (JAF) has four main steam lines [EIIS identifier: SB] between the
+reactor and the main turbine [TA]. These lines are designed to isolate in the event of design basis accidents. In
+the event of a main steam line break, the isolation prevents further radiological release. In the event of a loss
+of coolant (LOCA) accident, they isolate to maintain coolant inside of containment.
+Two isolation valves are provided in series in a horizontal run of each main steam line, as close as practical to
+the primary containment. One inside (inboard) and the other outside (outboard) together form part of the
+primary containment barrier for Reactor Coolant System breaks inside the containment and part of the Reactor
+Coolant Pressure Boundary for main steam line breaks outside the primary containment.
+Event Description
+On September 14, 2020, during the performance of ST-1B, Main Steam Isolation Valve (MSIV) Fast Closure
+Test, the isolation times for 29AOV-86C and 29AOV-86D were not in compliance with the Technical
+Specification Surveillance Requirement 3.6.1.3.6. The acceptable isolation time is 3 to 5 seconds. Observed
+times from control switch manipulation to indication of full closure for 29AOV-86C and 29AOV-86D were
+10.69 seconds and 24.97 seconds respectively.
+Event Analysis
+The MSIV components did not have any internal issues that would cause it to stick or bind while closing. From
+the MSIV position indicator data, the valves closed within the expected 3-5 seconds once the valves started to
+move. The delay in valve closure was caused by a delay in the venting of air from the valve’s solenoid air
+valves associated with MSIV operators 29AOV-86C(OP) and 29AOV-86D(OP). The excessive stroke of the
+main valve was due to response time of the solenoid to a control signal indicating an internal issue with the air
+solenoid valve.
+The air operator solenoid manifold assemblies were in fair physical condition when inspected, with proper
+alignment and assembly of the subcomponents. As found testing and inspection revealed unexpected leakage
+around the solenoids, areas of wear and corrosion, and foreign material. At no time during the inspection and
+testing of this assembly did the air control valves and solenoid valves fail to shift completely or exhibit any
+significant delay. While the wear/corrosion has been identified as the potential source of leakage noted during
+test, it does not provide an adequate source for the extended stroke time.
+The inspection and testing did not provide any conclusive example or replication of delayed stroke time,
+however the testing revealed abnormal solenoid leakage. It should be noted that while the leaking solenoid is
+abnormal, it still shifted fully during the as-found functional test and continued to function within specification
+under a continued air supply.
+During disassembly, the 4-way solenoid valve air manifold and air valves were inspected and found to have
+traces of contamination. The lead piston had an undetermined contamination on the surfaces. The
+contamination could result in a delay in the solenoid valve and therefore a delay in the MSIV stroke time.
+This is a condition which caused two independent channels of a system used to control the release of
+radioactive material to become inoperable reportable per 10 CFR 50.73(a)(2)(vii).
+Page 2 of 3
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 003 – 00
+Cause
+Slow MSIV closure time during testing is caused by a delay in air venting from the valve air solenoid valves
+associated with 29AOV-86C(OP) and 29AOV-86D(OP). The most probable failure mechanism is a sticking
+solenoid combined with vendor overhaul practices.
+Similar Events
+FitzPatrick, LER 2016-002, Sticking DC Pilot in Solenoid Valve Cluster Assembly Results in Slow MSIV
+Closures, dated April 25, 2016.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: Ralph A. Hiller Co.
+Manufacturer Model Number: SA-A094
+Manufacturer Code: H198
+Component Code: FCV
+FitzPatrick Component ID: 29AOV-86C(OP) and 29AOV-86D(OP)
+Corrective Actions
+Completed: Air solenoid valves associated with 29AOV-86C(OP) and 29AOV-86D(OP) were replaced. The
+MSIV fast closure test was successfully completed after replacement of the solenoids.
+Planned: Six MSIV air solenoid valves are planned to be replaced in the upcoming refuel outage in the Fall
+of 2022. Following replacement, solenoids will be sent for additional failure analysis.
+Safety Significance
+There were no actual radiological or nuclear safety consequences due to this condition.
+Two MSIV close automatically to prevent fuel damage by limiting the loss of reactor coolant in the case of a
+major steam system leak, and to limit the release of radioactive materials by isolating the primary containment.
+Valve stroke time is required to be short enough to limit the release of radioactive material in accordance with
+accident analyses. JAF UFSAR section 14.6.1.5 states a maximum MSIV closure time of 10.5 seconds would
+limit the total amount of liquid and steam lost from the primary system to prevent core damage, and this
+closure time will ensure that any radiological doses are well below the guidelines set forth in 10 CFR 100.
+This deficiency only affected two outboard MSIVs. In both cases, the inboard MSIVs performed satisfactorily.
+Therefore, all main steam lines were able to perform their intended safety function to isolate.
+References
+ Issue Report – IR 04369253, ‘C’ Outboard MSIV, 29AOV-86C Failed Stroke Time
+ Issue Report – IR 04369255, ‘D’ Outboard MSIV, 29AOV-86D Failed Stroke Time
+ FSAR-JAF-4.6, Main Steam Line Isolation Valves
+Page 3 of 3
+NRC FORM 366A (08-2020)

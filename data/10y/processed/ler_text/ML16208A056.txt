@@ -1,0 +1,222 @@
+Entergy Operations, Inc.
+River Bend Station
+5485 U.S. Highway 61 N
+St. Francisville, LA 70775
+'
+Tel 225-381-4157
+William F. Maguire
+Site Vice President
+RBG-47690
+July 12, 2016
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Licensee Event Report 50-458 I 2016-006-00
+River Bend Station - Unit 1
+Docket No. 50-458
+License No. NPF-47
+RBF1-16-0081
+Dear Sir or Madam:
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Ms. Kristi
+Huffstatler at 225-378-3305.
+-
+Sincerely,
+WFM/dhw
+Enclosure
+cc: U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Blvd.
+Arlington, TX 76011-4511
+NRC Sr. Resident Inspector
+P. 0. Box 1050
+St. Francisville, LA 70775
+INPO
+(via ICES reportirig)
+Licensee Event Report 50-458 I 2016-006-00
+July 12, 2016
+RBG-47690
+Page 2 of 2
+Central Records Clerk
+Public Utility Commission of Texas
+1701 N. Congress Ave.
+Austin, TX 78711-3326
+Department of Environmental Quality
+Office of Envirgnmental Compliance
+Radiological Emergency Planning and Response Section
+Ji Young Wiley
+P.O. Box 4312
+Baton Rouge, LA 70821-4312
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+.... Reported lessons learned are incorpbrated into the licensing process and fed back to industry.
++
+' lGJ>f'R~(l(.f)'%
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+... Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+.... (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resourte@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an information collection does not display a currently valid OMB control
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+htl!l ://www. nrc.ggv/reaging-rm/doc-colle!;!ions/nuregs/sjaff/sr1 022/r3l)
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+River Bend Station -Unit 1 05000 458 1 OF 3
+4. TITLE
+Potential Loss of Safety Function of Multiple Systems Due to Design Deficiency in 480-volt Circuit Breakers
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILl1Y NAME DOCKET NUMBER
+NUMBER NO. 05000
+- -
+FACILl1Y NAME DOCKET NUMBER
+05 13 2016 2016 006 00 07 12 2016
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.22os(a)(1> 20.2203(a)(4> so.73(a)(2)(m> 50.73(a)(2)(ix)(A)
+D D D D
+20.22os(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.22os(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D D D D
+20.2203(a)(2)(m> so.36(c)(2> 50.73(a)(2)(v)(B) 13.11(a)(s)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) 1s.11(a)(1>
+D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) [{] 50.73(a)(2)(v)(D) 1s.11(a)(2)(i>
+D D D
+20.2203(a)(2)(vi) [{) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.77(a)(2)(ii)
+'.~::it; ,::"£l:ll D 50.73(a)(2)(i)(C) D OTHER Specffy in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Kristi Huffstatler, Manager -Regulatory Assurance (acting) (225) 378-3305
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE ?1 CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TOEPIX
+f
+(see text) fi
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [{)NO
+DATE
+'
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1200 CDT on May 13, 2016, while the plant was operating at 100 percent power, the shift manager was notified of a design
+inadequacy that could potentially prevent both divisions of the standby gas treatment system (GTS) from performing its design function.
+Under certain specific conditions, the 480-volt circuit breakers supplying the GTS fans may not re-close following a trip signal. In the
+postulated condition in which a start signal is followed by an immediate (within 0.075 seconds) trip signal, the breaker could fail to
+close at the next attempt. As a result of this condition, both divisions of GTS were declared inoperable. The initial investigation of this
+condition determined that circuit breakers in the main control building air conditioning system (HVC) and the diesel generator building
+ventilation system (HVP) are also susceptible to this postulated failure mechanism. This defect has the potential to similarly cause the
+HVC and HVP systems to be incapable of performing their safety function. The affected circuit breakers in those systems have been
+modified to correct the deficiency. This condition is being reported in accordance with IO CFR 50.73(a)(2)(i)(B) and (a)(2)(v)(D) as
+operations prohibited by Technical Specifications and an event that could have caused a loss of safety functions of the affected systems.
+The specific scenario in which this failure mechanism could plausibly have occurred is a highly unlikely e_vent. Adqitionally, standing _
+orders were already in place at the time of this -event that directed the operators to take compensatory actions to preserve the safety
+function of the affected systems. Those orders will remain in effect until ·an modifications are complete. Thus, this condition does not
+represent a significant challenge to the health and safety of the public.
+-
+NRG FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy and lnfonmation Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an infonmation collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the infonmation
+b.t!p://www,.ill.IUJ_Qv/readin~d..QC-collec..ti.Qlls.l!l.!J.re.gfil..1filflfil192.2Lr.3Ll
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+DYEA R SEQUENTIAL REV
+River Bend Station - Unit 1 05000-1 458 Iu -1 NU ° MBER 1- NO 0 .
+06
+NARRATIVE
+REPORTED CONDITION
+At 1200 CDT on May 13, 2016, while the plant was operating at 100% power, the shift manager was notified of a design
+inadequacy that could potentially prevent both divisions of the standby gas treatment system (GTS) [BH] from performing
+its design function. Under certain specific conditions, the 480-volt circuit breakers (**BKR**) Sl.Jpplying the GTS fans may
+not re-close following a trip signal. In the postulated condition in which a start signal is followed by an immediate (within
+0.075 seconds) trip signal, the breaker could fail to close at the next attempt. As a result of this condition, both divisions of
+GTS were declared inoperable.
+The initial investigation of this condition determined that circuit breakers in the main control building air conditioning
+system (HVC) [VI] and the diesel generator building ventilation system (HVP) [VJ] are also susceptible to this postulated
+failure mechanism. This defect has the potential to similarly cause the HVC and HVP systems to be incapable of
+performing their safety function.
+This condition is being reported in accordance with 10 CFR 50. 73(a)(2)(i)(B) and (a)(2)(v)(D) as operations prohibited by
+Technical Specifications, and an event that could have caused a loss of safety functions of the GTS, HVC, and HVP
+systems.
+INVESTIGATION and IMMEDIATE ACTIONS
+At 1240, the Division 1 GTS subsystem was manually started. Since the postulated breaker failure mechanism js
+precluded when the breaker is closed, this action allowed the Division 1 subsystem to be restored to an operable status.
+BACKGROUND
+The safety-related 480-volt switchgears were originally constructed with GE AKR breakers. Due to age and
+obsolescence, the GE breakers were replaced with Square D Masterpact breakers. A notable design difference between
+the two designs is in how the "anti-pumping" functionality is achieved. Pumping is the rapid, repeated opening and closing
+of the breaker when "open" and "close" signals are applied simultaneously. In the AKR design, the anti-pumping function
+was accomplished electrically using relays. In the Masterpact design, the function is accomplished mechanically by the
+breaker operating mechanism.
+This mechanical mechanism of the Masterpact breakers has a documented failure history. After several failures at RBS
+and at another utility, the vendor released a Part 21 notification describing a failure mode for Masterpact breakers. When
+a susceptible breaker receives an "open" signal when standing close signal is present, the closing mechanism has the
+potential to bind. This can cause the breaker to be incapable of responding to any subsequent "close" signal. The binding
+can be corrected by the operator action to depress the "open" pushbutton on the front of the breaker.
+CAUSAL ANALY SlS
+The reported condition was precipitated by RBS' evaluation of a failure analysis report from the circuit breaker vendor.
+RBS engineering personnel had witnessed offsite testing of Masterpact breakers for the purposes of evaluating the
+effectiveness of the vendor-provided solution for the anti-pump mechanism malfunction. This testing determined that even
+with the vendor-recommended solution implemented, the reported failure mode can still occur if a "close" signal is followed
+within 0.075 .seconds by an "open" signal. In this highly unlikely sequence of events, the breaker will trip as expected, bl!t_
+it may not successfully respond tO the next "close" signal. - - -
+NRC FORM 366A (06-2016) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+hUn://Www.nrc.gp_v/reading-rm/doc-collections/nureg_&[.s_taff/sd022/r3D NRC may not conduct or sponsor, and a person is not required to respond to; the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+DYEA R SEQUENTIAL REV
+05000-1 456
+NUMBER 1-NO0. r
+River Bend Station - Unit 1
+~-I
+I 006
+NARRATIVE
+Given this specific set of circumstances, breakers in the closed position are not susceptible to this failure mod~. For
+equipment that can be run continuously, the compensatory measure is to maintain the affected breakers in the closed
+position. For the breakers in the HVC system, the compensatory measure is to clear the condition and restart the system.
+These measures ensured the continued operability of the affected breakers.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The Masterpact breakers serving the air handling units in the main control building air conditioning system, the standby
+gas treatment system filter trains, and the emergency exhaust fans in the diesel generator rooms have been modified to
+correct the reported deficiency. The remaining breakers in the affected population are being scheduled for modification.
+PAST OCCURRENCE EVALUATION
+Design deficiencies in Masterpact breakers were previously reported in LER 050-458 I LER 2016-005-00 (April 25, 2016).
+The new failure mechanism being reported here was not known prior to the most recent laboratory testing. Thus, it was
+not possible for this new condition to have been precluded.
+SAFETY SIGNIFICANCE
+The specific scenario in which the new failure mechanism can plausibly occur is a highly unlikely event. Additionally,
+standing orders were already in place at the time of this event that directed the operators to take compensatory actions to
+preserve the safety function of the affected systems. Those orders will remain in effect until all modifications are
+complete. Thus, this condition does not represent a significant challenge to the health and safety of the public.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or
+system referred to in the LER are annotated as (**XX**) and [XX], respectively.)
+NRC FORM 366A (06-2016) Page 3 of 3

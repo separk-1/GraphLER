@@ -1,0 +1,308 @@
+. . . . . .
+Nuclear Operating Company
+IIIIIJ .
+~
+September 11, 2025
+NOC-AE-25004126
+10 CFR 50.73
+STI: 35773211
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+South Texas Project
+Units 1 and 2
+Docket Nos. STN 50-498 and STN 50-499
+Licensee Event Report 2024-004-01
+Supplement to Loss of Offsite Power Resulting in Unit 1 Automatic Reactor Trip and Actuation
+of Emergency Diesel Generators and Auxiliary Feedwater Pumps
+Reference: Letter; J. Tomlinson (STP) to Document Control Desk (NRC)-"Licensee Event
+Report 2024-004-00, Loss of Offsite Power Resulting in Unit 1 Automatic Reactor Trip and
+Actuation of Emergency Diesel Generators and Auxiliary Feedwater Pumps,"
+September 19, 2024, (NOC-AE-24004064), (ML24263A145)
+On September 19, 2024, STP Nuclear Operating Company (STPNOC) submitted the
+referenced Licensee Event Report. This letter is a supplement to the report to provide updates
+as a result of the causal investigation. The updated information is denoted by revision bars
+located in the right-hand margin. The report is submitted in accordance with 10 CFR 50. 73.
+The event did not have an adverse effect on the health and safety of the public.
+There are no commitments in this submittal.
+If there are any questions regarding this submittal, please contact Chris Warren at
+(361) 972-7293 or me at (361) 972-7566.
+f 2 k ~
+Robert B. Norris
+Site Vice President
+Attachment: Units 1 and 2 LER 2024-004-01, Supplement to Loss of Offsite Power Resulting in
+Unit 1 Automatic Reactor Trip and Actuation of Emergency Diesel Generators and
+Auxiliary Feedwater Pumps
+cc:
+Regional Administrator, Region IV
+U.S. Nuclear Regulatory Commission
+1600 E. Lamar Boulevard
+Arlington, TX 76011-4511
+NOC-AE-25004126
+Attachment
+Attachment
+Units 1 and 2 LER 2024-004-01
+Units 1 and 2 LER 2024-004-01, Supplement to Loss of Offsite Power Resulting in Unit
+1 Automatic Reactor Trip and Actuation of Emergency Diesel Generators and Auxiliary
+Feedwater Pumps
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+/~,...,..,, .,,. \ Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+; ...... ; (See Page 2 for required number of digits/characters for each block) e C s o t m im m at is e s io to n , t W he a s F h O in I g A to , n L , ib D r C ar y 2 , 0 5 a 5 n 5 d - 00 In 0 f 1 o , r m or a t b io y n e m C a o i l l l e t c o t i I o n n fo s co B ll r e a c n t c s h .R e (T so -6 u rc A e 1 @ 0M nr ) c , .g U o . v , S a . n d N u th c e le O ar M R B e r g e u v l i a e t w o e ry r
+"~+., ~o/ at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name □ ■ 050 2. Docket Number 3. Page
+South Texas Project Unit 1
+00498 1 OF 5
+□ 052
+4. Title
+Loss of Offsite Power Resulting in Unit 1 Automatic Reactor Trip and Actuation of Emergency Diesel Generators and Auxiliary
+Feedwater Pumps
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year □ ■ 050
+South Texas Project Unit 2 00499
+07 24 2024 2024 - 004 - 01 0(cid:28) (cid:20)(cid:20) 2025 Facility Name Docket Number
+□ 052
+N/A
+9. Operating Mode I10 . Power Level
+1 100%
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □✔ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(g)
+□ 20.2203(a)(2)(iv) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Chris Warren, Licensing Engineer 361-972-7293
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X N/A INS G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□✔ No □ Yes (If yes, complete 15. Expected Submission Date)
+16.(cid:3)Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On July 24, 2024, STP Unit 1 experienced a Loss of Offsite Power (LOOP), resulting in an automatic reactor trip and actuation of
+all three Unit 1 Standby Diesel Generators (SBDG) and all four Auxiliary Feedwater (AFW) pumps. All three trains of Engineered
+Safety Feature (ESF) buses were energized and all equipment responded as expected without any complications with the
+exception of Steam Generator Power Operated Relief Valve "1C." Unit 2 experienced a partial LOOP and automatic actuation of
+SBDG 22 and one of four AFW pumps. The systems for each unit actuated due to the Switchyard experiencing electrical faults
+during the Shunt Reactor RT-2 fire event, which was caused by the insulation breakdown on the C-Phase (H3) GE Type U high-
+voltage bushing. Immediate corrective actions included restoring offsite power circuits. A Transmission Distribution Service
+Provider (TDSP) had not established and implemented adequate management controls governing design changes to equipment
+in the Switchyard to ensure that changes were consistent with design requirements and aligned with requirements and
+recommendations of applicable Industry Standards; and subsequently, STPNOC did not rigorously implement management
+controls during the review and approval of design changes developed by the TDSP. Planned corrective actions include
+enhancements to STP procedure 0PGP05-ZA-0002, "10CFR50.59 Evaluations" and development and implementation of written
+instructions that include management controls to govern the review and approval of all four TD(cid:54)(cid:51)(cid:86)' Switchyard changes.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/~•,.µ...-, .', \ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; .i Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+. CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+ o'
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+♦--··
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+I I~ I I □ NUMBER D NO.
+South Texas Project Unit 1 00498
+2024 I
+052 - 004 - 01
+I
+NARRATIVE
+1. Description of the Reportable Event
+A. Reportable Event Classification
+This event is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in the valid actuation of the
+Reactor Protection System (RPS) including reactor trip (10 CFR 50.73(a)(2)(iv)(B)(1)), and automatic actuation of all four
+Unit 1 Auxiliary Feedwater (AFW) Pumps and Unit 2 AFW Pump 22 (10 CFR 50.73(a)(2)(iv)(B)(6), and automatic
+actuation of all three Unit 1 Standby Diesel Generators (SBDG) and Unit 2 SBDG 22 (10 CFR 50.73(a)(2)(iv)(B)(8)).
+B. Plant Operating Conditions Prior to Event
+Prior to the event, Units 1 and 2 were in Mode 1 at 100% power.
+C. Status of Structures, Systems, and Components That Were Inoperable at the Start of the Event that Contributed to the
+Event
+At the start of the event, there were no structures, systems, or components (SSCs) that were inoperable that contributed
+to the event.
+D. Narrative Summary of the Event
+Timeline (Note: All times are in Central Daylight Time)
+Unit 1 - 07/24/2024 (0702) - Unit 1 reactor trip due to fire in the switchyard. The 345kV North Bus and the Unit 1 Generator
+tripped. All SBDGs automatically actuated and sequenced on a Loss of Offsite Power. The following busses were
+deenergized: 13.8kV Auxiliary busses 1F, 1G, 1H, and 1J, 13.8kV Standby busses 1F, 1H, and 1G, and 480V Load
+Center 1W.
+Units 1 and 2 - 07/24/2024 (0702) - Due to loss of two independent offsite power circuits, entered Technical Specification
+3.8.1.1, Action 'e'.
+Unit 1 - 07/24/2024 (0702) - All four Reactor Coolant Pumps (RCP) lost power. Entered Technical Specification 3.4.1.2.
+Unit 2 - 07/24/2024 (0703) - Report of explosion and fire in the switchyard. Entered off-normal procedure
+0POP04-ZO-0008, Fire/Explosion.
+Unit 1 - 07/24/2024 (0735) - Verified natural circulation with Steam Generator (S/G) Power Operated Relief Valves
+(PORV) open in Manual.
+07/24/2024 (0800) - Bay City Fire Department arrive on site at the switchyard.
+Unit 1 - 07/24/2024 (0848) - Spent Fuel Pool pump 1B is running, restoring cooling to the Spent Fuel Pool.
+07/24/2024 (0925) - Fire in Shunt Reactor RT-2 is extinguished.
+NRC FORM 366A (04-02-2024) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/~•,.µ...-, .', \ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; .i Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+. CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+ o'
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+♦--··
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+I I~ I I □ NUMBER D NO.
+South Texas Project Unit 1 00498
+2024 I
+052 - 004 - 01
+I
+NARRATIVE
+D. Narrative Summary of the Event (continued)
+Timeline (Note: All times are in Central Daylight Time)
+Unit 1 - 07/24/2024 (0953) - S/G PORV 1C declared inoperable and nonfunctional due to not operating in AUTO or
+MANUAL from the Control Room.
+Unit 1 - 07/24/2024 (1054) - Completed NRC 4-hour Non-Emergency Notification under 10 CFR 50.72(b)(2)(iv)(B) for a
+Reactor Trip from 100% power (RPS actuation). Event Notification Number 57237.
+Unit 1 - 07/24/2024 (1346) - Started Reactor Coolant Pump 1D. Reactor Coolant Loop D and its associated steam
+generator and reactor coolant pump are in operation with reactor trip breakers OPEN. Exited LCO 3.4.1.2, Action 'c'.
+Unit 2 - 07/24/2024 (1350) - Both 345kV North and South buses are OPERABLE and all three ESF buses are powered by
+the Unit Auxiliary Transformer. Exited Technical Specification 3.8.1.1, Action 'e' and entered Action 'a.'
+07/24/2024 (1455) - Completed NRC 8-hour non-emergency notification under 10 CFR 50.72(b)(3)(iv)(A) as an event that
+resulted in the valid actuation of a PWR auxiliary system and emergency AC electrical power system. Completed NRC 4-
+hour non-emergency notification under 10 CFR 50.72(b)(2)(xi) for the issuance of a news release. Event Notification EN#
+57237.
+Unit 2 - 07/24/2024 (1537) - Normal offsite power to Unit 2 restored. Exited Technical Specification 3.8.1.1, Action 'a.'
+Unit 1 - 07/25/2024 (0057) - Switchyard Breakers Y0520 and Y0510 closed. Main and Auxiliary transformers are
+energized.
+Unit 1 - 07/25/2024 (0933) - Normal offsite power to Unit 1 restored. Exited Technical Specification 3.8.1.1, Action 'a'.
+E. Method of Discovery
+The event was self-revealing when Unit 1 experienced an automatic reactor trip coincident with a Loss of Offsite Power
+and actuation of the SBDGs for all three ESF buses.
+II. Component Failures
+A. Failure Mode, Mechanism, and Effects of Failed Components
+Two independent failure analyses were performed and concluded that the Shunt Reactor RT-2 H3 GE Type U high-
+voltage bushing failed due to an insulation breakdown. The independent failure analyses could not determine the cause of
+the insulation breakdown due to extensive damage sustained during the event. The failure of the bushing resulted in the
+subsequent fire. The smoke plume reached the A-phase conductor associated with the Unit 1 Main Generator
+Transformer and the C-phase conductor associated with the No. 1 Standby Transformer, allowing phase-to-ground faults
+through the plume and the loss of two independent offsite transmission circuits.
+NRC FORM 366A (04-02-2024) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/~•,.µ...-, .', \ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; .i Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+. CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+ o'
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+♦--··
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+I I~ I I □ NUMBER D NO.
+South Texas Project Unit 1 00498
+2024 I
+052 - 004 - 01
+I
+NARRATIVE
+B. Cause of Component Failure
+The independent failure analyses could not determine the cause of the insulation breakdown due to extensive damage
+sustained during the event.
+C. Systems or Secondary Functions That Were Affected by the Failure of Components with Multiple Functions
+Standby Transformer 1 was disconnected from the 345kV North Bus due to collateral damage to a tower, insulators, and
+overhead conductors.
+D. Failed Component Information
+System: N/A - Shunt Reactor RT-2 is owned, operated, and maintained by a partnership of four Electrical Transmission
+Utility Companies
+Component: Insulator {INS}
+Manufacturer: General Electric {G080}
+Model: {GE 11B877BB}
+III. Analysis of Event
+A. Safety System Responses that Occurred
+The Unit 1 Reactor Protection System actuated, automatically tripping the Unit 1 reactor following the main generator
+lockout. All three SBDGs automatically started within the required time frame and provided power to all three Engineered
+Safety Feature (ESF) trains. All four AFW pumps started, providing adequate cooling for the steam generators during
+cooldown following the reactor trip.
+The Unit 2 SBDG 22 automatically started within the required timeframe, providing power to ESF Train 'B'. AFW Pump 22
+automatically started, ensuring adequate cooling for the steam generators.
+B. Duration of the Safety System Inoperability
+Not applicable. No safety systems that contributed to this event were inoperable.
+C. Safety Consequences and Implications
+All nuclear safety systems for Units 1 and 2 responded as expected without any complications except for Unit 1 S/G
+PORV ‘1C’. There were no inoperable safety systems that contributed to the event and no safety systems were rendered
+inoperable as a result of the event. There were no actual consequences to the health and safety of the public as a result of
+this event.
+NRC FORM 366A (04-02-2024) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/~•,.µ...-, .', \ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; .i Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+. CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+ o'
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+♦--··
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+I I~ I I □ NUMBER D NO.
+South Texas Project Unit 1 00498
+2024 I
+052 - 004 - 01
+I
+NARRATIVE
+IV. Cause of Event
+A Transmission Distribution Service Provider (TDSP) had not established and implemented adequate management
+controls governing design changes to equipment in the Switchyard to ensure that changes were consistent with design
+requirements and aligned with requirements and recommendations of applicable Industry Standards; and subsequently,
+STPNOC did not rigorously implement management controls during the review and approval of design changes developed
+by the TDSP. As a result, in 2014 the Shunt Reactors were relocated, and their associated circuit switchers were replaced
+with circuit breakers without adequately evaluating the change. Consequently, due to the relocation of Shunt Reactor 2, on
+July 24, 2024, a single bushing failure caused a fire that resulted in loss of the independent transmission circuits, which
+caused a loss of offsite power to Unit 1, and resulted in a partial loss of offsite power to Unit 2.
+V. Corrective Actions
+The following Corrective Actions are planned and tracked in the STP Corrective Action Program:
+1. Revise STP procedure 0PGP05-ZA-0002, "10CFR50.59 Evaluations," to require 10CFR 50.59 Screenings and
+Evaluations address all elements of the change; and change the Usage category to "Referenced" as delineated in STP
+Procedure 0PAP01-ZA-0101, “Plant Procedure Writer’s Guide.”
+2. Develop and implement written instructions that include management controls to govern the review and approval of
+Transmission Distribution Service Providers' procedure changes, design changes, tests or changes in the conduct of other
+activities which might affect compliance with regulatory requirements, the Updated Final Safety Analysis Report and/or
+NRC commitments involving the Switchyard and associated transmission lines and equipment which could affect offsite
+power supply to STP consistent with the South Texas Project Interconnection Agreement, Exhibit D, Section V, “Review
+and Approval.”
+VI. Previous Similar Events
+A review of events over the past 3 years did not identify any similar events with the same cause as this event.
+NRC FORM 366A (04-02-2024) Page 5 of 5

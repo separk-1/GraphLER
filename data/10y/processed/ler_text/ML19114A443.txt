@@ -1,0 +1,196 @@
+FENOCTM
+Perry Nuclear Power Plant
+PO Box 97
+10 Center Road
+~
+Perry. Ohio 44081
+FirstEnergy Nuclear Operating Company
+David B. Hamilton 440-280-5382
+Vice President
+April 24, 2019
+L-19-108 1O CFR50.73(a)(2)(iv)(A)
+ATIN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2019-001, "LER 2019-001, Loss of Generator
+Excitation causes Turbine Trip and Reactor Protection System Actuation". There are no
+regulatory commitments contained in this submittal.
+If there are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager - Regulatory Compliance, at (440) 280-7538.
+Sincerely,
+I
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2019-001
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region Ill Regional Administrator
+Enclosure
+L-19-108
+LER 2019-001
+NRC FORM 366 u.s.' NUCLEAR REGULAT ORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to co~ly with this mandatory collection request 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+..,,..110€", industry. Send comments regarding burden estimate to the Information Services Branch
+:/' .:) Ci .., . o ._,. (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+; ~ to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+~ 0\ ., ...... . ' l! I I: (See h t N tp U :/ R /w E w G w -1 .n 0 r 2 e. 2 g , o R v . / 3 re f a o d r i i n n q s - t r r m uc /d tio o n c- c a o n l d le g c u tio id n a s n /n ce u r f e o g r s c / o s m ta p ff l / e sr t 1 in 0 g 2 t 2 h / i r s 3 f / o rm W Re a g s u h l i a n t g o t r o y n , A D ffa C ir s 2 , 05 N 03 E . O B If - a 1 0 m 2 e 0 a 2 n , s (3 u 1 s 5 e 0 d - 0 t 1 o 0 4 im ), p o O se ff ic a e n o in f f or M m a a n ti a o g n e m co e l n le t c ti a o n n d do B e u s d g n e o t t
+display a currenfly valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Perry Nuclear Power Plant 05000-440 1 OF 3
+4. Title:
+Loss of Generator Excitation causes Turbine Trip and Reactor Protection System Actuation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I
+Month Day Year Year I Sequential Rev Month Day Year Facility Name Docket Number
+Number No. 05000
+Facility Name Docket Number
+02 25 2019 2019 - 001 - 00 04 24 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.7 3(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.7 3(a)(2)(ii)(B) 50.7 3(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.7 3(a)(2)(iii) 50. 73(a)(2)(ix)(A)
+D D [gl D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.7 3(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.7 3(a)(2)(v)(C) 73.77(a)(1)
+74 D D D D
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50. 73(a)(2)(v)(D) 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.7 3(a)(2)(vii) 73.77(a)(2)(ii)
+D 50.7 3(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER I
+Licensee Contact Telephone Number (Include Area Code)
+Lloyd Zerr - Regulatory Compliance 440-280-527 4
+13. Complete One Line for Each Component Failure Described in this Report
+Cause I System I Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+D TL EXC 5ATI y
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) [8J No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On February 25, 2019, at 0024 hours, the Reactor Protection System (RPS) automatically actuated due to
+turbine stop and control valve closure caused by a turbine trip. The turbine trip was caused by a loss of
+generator excitation, resulting in the loss of the main generator field.
+The cause was determined to be inadequate preventive maintenance (PM) acceptance criteria for generator
+exciter brush replacement. The criteria for brush inspection and replacement should have added margin to
+brush lifetime to ensure brushes could not wear to the point where brush spring tension could no longer be
+properly maintained. Corrective actions included modifying preventive maintenance criteria to add margin to
+replace brushes earlier in their lifetime, and ensuring all brushes are checked for vibration during the PM.
+The plant responded as expected, all control rods inserted and there were no Emergency Core Cooling
+System (ECCS) actuations. The risk of this event is considered very small in accordance with the Regulatory
+Guidance. This event is reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that
+resulted in an automatic actuation of the RPS.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www. nr e.gov/read i nq-rm/doc-collections/n u regs/staffl s r1 022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2019 001 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+INTRODUCTION
+On February 25, 2019, while coasting down to enter a refuel outage and with the plant in Mode 1 at
+approximately 7 4 percent rated thermal power, the Reactor Protection System (RPS) [JC] automatically
+actuated due to turbine stop and control valve closure caused by a turbine [TG] trip. The turbine trip was
+caused by a loss of generator [GEN] excitation [EXC]. The generator received a lockout signal from the loss
+of excitation relay [RLY] following its associated time delay relay [62] actuation. The plant responded as
+expected and all control rods inserted and there were no Emergency Core Cooling System (ECCS)
+actuations. At 0344 hours, notification was made to the NRC Operations Center (Event Notification ENS
+53896) in accordance with 10 CFR 50.72(b)(2)(iv)(B) as an event or condition that results in an actuation of
+the RPS when the reactor is critical. This event is being reported in accordance with 10 CFR
+50.73(a)(2)(iv)(A) as an event or condition that resulted in an automatic actuation of the RPS.
+EVENT DESCRIPTION
+On February 25, 2019 at 0024 hours, an RPS actuation was automatically initiated due to turbine stop and
+control valve closure caused by a turbine trip. The main generator received a lockout signal from the loss of
+excitation relay following its associated time delay relay actuation. In the six seconds prior to the lockout signal,
+there was a decrease in grid voltage from approximately 346 Kilovolts (kV) to approximately 311 kV.
+Correspondingly, the main generator Mega Volts Ampere Reactiv~ (MVARs) increased significantly. This
+equipment response is expected for a valid loss of excitation event and once the field current stopped, the
+generator acted as an induction motor instead of a synchronous generator and drew MVARs from the grid to
+support its magnetic field. This flow of MVARs resulted in a decreased local grid voltage until the generator
+tripped.
+The event progression was that one or more of the exciter inboard brushes reached its wear limit. The
+brush spring(s) was(were) out of range to ensure positive, adequate downward pressure to the brush(es)
+to assure proper electrical connection was maintained. When the brush spring(s) pressure was limited,
+the brush(es) began to bounce/chatter. Each time a brush fails to make adequate connection, the
+current it is carrying is broken. As the radial distance between the brush and collector [COL] ring surface
+increases, the current is strong enough to cross over the minimal air gap creating an arc. An arc can
+impose physical damage and create surface defects in the form of pits (peaks and valleys) that act as
+increased friction to increase the wear rate of other brushes that may ride on the same ring surface. The
+longer this bouncing and subsequent arcing continues, conditions for impaired electrical connection
+degrade in an exponential manner. As high current discharges repeatedly occur, arcing also causes
+increased heating of the collector ring and brushes. Once the radial distance between the brush and
+collector ring surface increases enough, the air gap becomes great enough that the arc does not
+connect the brush and collector ring, but finds the path of least resistance, some external source to
+ground, which is referred to as a "flashover" event.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www. n rc.qov/reading-rm/doc-collections/n u regs/staff/ sr1 022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2019 001 00
+NARRATIVE
+CAUSE OF EVENT
+The direct cause of the generator lockout, and subsequently the turbine trip followed by an RPS actuation,
+was a flashover of the exciter brush rigging and carbon brushes which resulted in the loss of the main
+generator field.
+The apparent cause of the event was determined to be inadequate preventive maintenance (PM) acceptance
+criteria for brush replacement. The criteria for exciter brush inspection and replacement should have added
+margin to ensure that the brushes could not wear to the point where brush spring tension could no longer be
+properly maintained.
+EVENT ANALYSIS
+A Probabilistic Risk Assessment (PRA) evaluation was performed for the automatic RPS actuation. A
+conservative analysis of this uncomplicated plant transient results in a delta Core Damage Frequency that is
+well below the acceptable threshold of 1x10-6/year as discussed in Regulatory Guide 1.17 4. The risk of this
+event is therefore considered very small in accordance with the regulatory guidance. This event was reported
+in accordance with 10 CFR 50. 73(a)(2)(iv)(A) as an event or condition that resulted in an automatic actuation of
+the RPS.
+CORRECTIVE ACTIONS:
+A preventative maintenance (PM) revision was performed to modify the brush replacement criteria to add
+margin to replace brushes earlier in their lifetime, and to ensure that all brushes are checked for vibration
+during the PM. These actions were completed by 4/2/2019.
+Previous Similar Events
+A review of LERs and the corrective action database for the past three years identified no similar events.
+COMMITMENTS
+There are no regulatory commitments contained in this report. Actions described in this document
+represent intended or planned actions, are described for the NRC's information, and are not regulatory
+commitments.
+NRC FORM 366A (04-2018) Page 3 of 3

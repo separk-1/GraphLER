@@ -1,0 +1,260 @@
+(l
+Xcel Energy•
+APR 18 2016
+L-PI-16-034
+10 CFR 50.73
+U S Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Prairie Island Nuclear Generating Plant Units 1 and 2
+Dockets: 50-282 and 50-306
+Renewed License Nos. DPR-42 and DPR-60
+Cancellation of Licensee Event Report (LER) 50-282/2005-001-00 and Submittal of LER
+50-282/2016-003-00. Unanalyzed Condition- Procedures Credited by Appendix R
+Calculations not in Place
+References: 1) Letter from Northern States Power Company, a Minnesota corporation
+(NSPM), d/b/a Xcel Energy to Document Control Desk,
+"LER 50-282/2005-001-00, Unanalyzed Condition- Procedures Credited
+by Appendix R Calculations not in Place". (ADAMS Accession
+ML 16064A504) .
+This letter constitutes notification by Northern States Power Company, a Minnesota
+corporation, doing business as Xcel Energy (hereafter "NSPM"), to the NRC of the
+cancellation of Prairie Island Nuclear Generating Plant (PINGP) LER 50-282/2005-001-
+00 (Reference 1) . The cancellation is consistent with the guidance in NUREG-1 022,
+Rev 3, Event Reporting Guidelines 10 CFR 50.72 and 50.73 (NUREG-1022).
+Per further analysis of NUREG-1 022 §5.2.7, the event date is the discovery date of
+01/07/2016 as the event occurrence could not be clearly defined. No other changes
+were identified in Reference ·1 .
+To clarify the event date and LER event year, it is consistent with NUREG-1 022 to
+cancel Reference 1 and submit LER 50-282/2016-003-00, Unanalyzed Condition
+Procedures Credited by Appendix R Calculations not in Place, with the event date of
+01/07/2016 and corresponding LER event year of 2016. LER 50-282/2016-003-00 has
+retained the report date as 03/04/2016.
+1717 Wakonade Drive East • Welch, Minnesota 55089-9642
+Telephone: 651.388.1121
+Document Control Desk
+Page2
+Summary of Commitments
+This letter contains no new commitments and no changes to existing commitments.
+Scott Northard
+Acting Site Vice President
+Prairie Island Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure
+cc: Administrator, Region Ill, USNRC
+Project Manager, Prairie Island Nuclear Generating Plant (PINGP), USNRC
+Resident Inspector, PINGP, USNRC
+Department of Commerce, State of Minnesota
+ENCLOSURE
+· LICENSEE EVENT REPORT 50-282/2016-003-00
+4 Pages Follow
+NRCFORM366 . U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(11-2015)
+.¢-t."Ji't:<r~IIL, Estimated burden per response to comply with this mandatory collection request: 80 hours .
+;;} ~~~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~ ·:: Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+"'
+.......... +o
+"
+t'
+LICENSEE EVENT REPORT (LER)
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+(See Page 2 for required number of internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+digits/characters for each block) Regulatory Affairs, NEOB-1 0202, (3) 50-01 04), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does riot display a currently valid
+OMS control number, the NRC may not conduct or sponsor, and a person is not required to respond
+to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Prairie Island Nuclear Generating Plant 05000 282 I 1 OF4
+4. TITLE
+Unanalyzed Condition - Procedures Credited by Appendix R Calculations not in Place
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I S E N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR F P A r C a I i L r I i T e Y I N s A la M n E d Unit 2 D 0 O 5 C 0 K 0 E 0 T 3 N 0 UM 6 B ER
+FACILITY NAME DOcKET NUMBER
+1 7 2016 2016 -003 -00 3 4 2016 05000
+9. OPERATING MODE
+11. THIS REPORT IS SUBMITTED PURSUANTTO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.22o1(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50. 73(a)(2)(viii)(A)
+Unit 1: MODE 1 D 20.2201 (d) D 20.2203(a)(3)(ii) IK]50.73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B)
+Unit 2: MODE 1 D 20.2203{a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203{a)(2)(i) . D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203{a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL
+D 20.2203{a){2){iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+Unit 1: 100% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+Unit 2: 100% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50. 73(a)(2)(v)(D) D 73.77(a)(2){i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2){ii)
+D 50.73(a)(2)(i)(C) 00THER Specify in Abstract below or in NRC Farm 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMER (Include Area Code)
+Frank Sienczak 651-267-1740 . .
+·. 13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TOEPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 1/7/2016, Prairie Island Nuclear Generating Plant (PINGP) reviewed corrective actions associated with the transition to
+National Fire Protection Association "Performance-Based Standard for Fire Protection for Light Water Reactor Electric
+Generating Plants" (NFPA 805). PINGP discovered no cold shutdown repair procedure existed to restore power to train
+B reactor coolant system (RCS) vent valves to reduce RCS pressure in event of fire in Fire Area (FA) 59 (Auxiliary
+Building Mezzanine Floor Unit 1) and FA 74 (Auxiliary Building Mezzanine Floor Unit 2). The PINGP Appendix R safe
+shutdown analysis (SSA) credits such actions for train 8 RCS vent valves for a fire in these areas. PINGP established
+compensatory measures for affected equipment and, with automatic detection and suppression capability, these measures
+ensured protection of potentially affected equipment. The health and safety of the public was not at risk. PINGP submitted
+Event Notification (EN) 51642 on 1/7/2016 as this event is reportable pursuant to 10 CFR 50.72(b)(3)(ii)(B) as an
+unanalyzed condition that significantly degrades plant safety. On 04/14/2005, a revision of the SSA was approved that
+credited a cold shutdown repair as a compliance strategy for FA 59 and 74, but no repair procedure existed in the event
+of a fire in FA 59 nor FA 74.
+On 1/11/2016, F5 Appendix D "Impact of Fire Outside Control/Relay Room" was issued and include::; cold shutdown repair
+procedures for Train 8 RCS vent valves. Lack of technical rigor to ensure procedure F5 Appendix D included actions
+required by the SSA is the identified cause.
+NRC FORM 366 (11-2015)
+1
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/"""" lessons learned are incorporated into the licensing process and fed back to industry. Send
+!:~:"~ comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+\~) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. L.ER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Prairie Island 05000-282 NUMBER NO.
+2016 • 003 -00
+NARRATIVE
+Event Description
+On 1/7/2016, Prairie Island Nuclear Generating Plant (PINGP) reviewed corrective actions associated with the transition to
+National Fire Protection Association "Performance-Based Standard for Fire Protection for Light Water Reactor
+Electric Generating Plants" (NFPA 805) and discovered no cold shutdown repair procedure existed for train B RCS vent
+valves to reduce reactor coolant system (RCS) (EllS System Code AB) pressure in event of a fire in Fire Area (FA) 59
+(Auxiliary Building Mezzanine Floor Unit 1) and FA 74 (Auxiliary Building Mezzanine Floor Unit 2). The PINGP Appendix R
+safe shutdown analysis (SSA) credits a cold shutdown repair procedure for train B RCS vent valves for a fire in these areas.
+This event is reportable pursuant to 10 CFR 50.73(a)(2)(ii){B) as an unanalyzed condition that significantly degrades plant
+safety. PINGP submitted Event Notification 51642 on 1/7/2016.
+PINGP established compensatory measures for affected areas: hourly fire watches, briefings of the operating crews and fire
+brigades on the impact of a fire, protecting fire detection zones, walkdowns to verify transient combustible materials were
+controlled according to plant procedures. Along with automatic fire detection and suppression capability, these measures
+ensured protection of potentially affected equipment.
+On 04/14/2005, a revision of the SSA was approved that credited a cold shutdown repair for train B RCS vent valves as a
+compliance strategy for FA 59 and 74, but no such repair procedure existed. On 4/21/2006, PINGP discovered during a self
+assessment that no cold shutdown repair procedure existed for train B RCS vent valves in event of fire in FA 59. No EN was
+submitted for this discovery in 2006. A condition evaluation performed on 7/7/2006 determined "repair action is not credited
+until well into the shutdown scenario, the means (equipment) to perform the repair are readily available, and a similar repair is
+already proceduralized, the lack of a formal repair procedure in this instance isn't considered to significantly impact the ability
+to safely shutdown the plant for a fire in Fire Area 59."
+The cause of the lack of the repair procedure is lack of technical rigor to ensure procedure F5 Appendix D "Impact of Fire
+Outside Control/Relay Room" included instructions to restore power to train B RCS vent valves in event of fire in FA 59 and
+FA 74 as credited in the SSA.
+On 1/11/2016, F5 Appendix D, Revision 36, was issued and includes cold shutdown repair procedures for Train B RCS
+vent valves.
+Event Analysis
+The SSA describes that the reactor coolant vent system is provided to exhaust non-condensable gases from the reactor
+coolant system that could inhibit natural Circulation core cooling. The vent path from the reactor vessel head and the vent path
+from the pressurizer each contain two normally closed, independently-powered valves in parallel and connect to a common
+header that discharges either to the containment atmosphere or to the Pressurizer Relief Tank (PRT). The head vent system
+solenoid valves are desired closed to prevent a flow diversion path from the RCS during hot standby. They may be used to
+vent non-condensable gases or as a letdown path for boration to achieve cold shutdown boron concentration. The RCS head
+vent lines are designed for RCS pressure to the second isolation valve; therefore, this flow path is not a high/low pressure
+interface concern. Thus, SV-37035 through SV-37040 and SV-37091 through SV-37096 are required components.
+The valves used to vent the RCS through train B are SV-37036, 1 RCS Vent Sys Przr Vent Trn B SV, and SV-37040, 1
+RCS Vent Sys to Cntmt Trn B SV, for Unit 1 and SV-37092, 2 RCS Vent Sys Przr Vent Trn B SV, and SV-37096, 2
+NRC FORM 366 (11-2015)
+2
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+.....
+/" lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~~\ comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+\qrt)
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+......... LICENSEE EVENT REPORT (LER} lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LERNUMBER
+I I
+YEAR SEQUENTIAL REV
+Prairie Island 05000-282 NUMBER NO.
+2016 -003 -00
+·NARRATIVE
+RCS Vent Sys to Cntmt Trn B SV, for Unit 2.
+On 1/7/2016, PINGP reviewed corrective actions associated with transition to NFPA 805 and discovered no such procedure
+existed for train B RCS vent valves for a fire in FA 59 and FA 74. The PINGP SSA credits a cold shutdown repair procedure
+for train B RCS vent valves.
+Upon further investigation, PINGP found a self-assessment on 4/21/2006 discovered that no cold shutdown repair
+procedure existed to restore power to train B RCS vent valves to reduce RCS pressure in event of fire in FA 59.
+Safety Significance
+There was no nuclear, environmental, radiological or industrial safety consequence related to this event. PINGP has procedures
+and controls in places to minimize the likelihood and severity of fires occurring, and a significant fire impacting the ability to
+safely shutdown did not occur. A scenario requiring the use of the RCS vent valve procedure would involve a significant fire of
+sufficient size and intensity to damage cables for both the Train A and Train B RCS vent valves and damage the electrical
+cabinet where the cold shutdown repair action is credited. The cold shutdown repair action for Train B RCS vents is very
+similar to the previously established repair action for the Train A RCS vent solenoid valves. This repair action is credited to
+provide a method to depressurize the Reactor Coolant System to transition to cold shutdown. Hot standby could be maintained
+while the procedure was revised to repair the Train B RCS vent valves. Since this repair action is only required to achieve cold
+shutdown and hot standby could be maintained in the interim, and the low likelihood of a fire damaging the Train A and Train
+B RCS vent valves, the lack of established procedures to repair the Train B RCS Vents had a low impact on risk.
+This condition was identified during the PINGP transition to NFPA 805. This was identified in the corrective action program
+(CAP) as an action to revise the post fire safe shutdown procedure to incorporate these additional actions for the Train B
+RCS vent valves.
+The cause of the event is the lack of technical rigor to ensure procedure F5 Appendix D included instructions to restore power
+to train B RCS vent valves in event of fire in FA 59 and FA 74 as credited in the Appendix R SSA. Contributing causes are 1)
+Supervision determined that a Senior Reactor Operator (SRO) review was not required when the general action request (a
+non-CAP action request) was changed to a CAP action request and 2) Inappropriate use of management exception to extend
+the due dates for action requests.
+Corrective Action
+On 1/11/2016, F5 Appendix D, Revision 36, was issued and includes cold shutdown repair procedures for train B RCS
+vent valves.
+Since the event date, the following measures have been put into place to address the apparent cause: improvements to the
+procedure review process, improvements to engineering human performance, training for PINGP supervisors and managers
+in Engineering, Maintenance, Procurement and Planning on the need to reinforce and observe that individual contributors are
+validating assumptions and ensuring high quality products with adequate technical rigor are produced.
+In addition, the following actions will be taken: 1) Evaluate whether changes to the PINGP CAP are required to ensure when
+non~CAP action requests are converted to CAP action requests that the issues are processed as a new CAP
+3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+. / ""'..,. . lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~-~- comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+~ ~
+~ ' \ . .... '/ LICENSEE EVENT REPORT (LER) F ln 5 fo 3 c }, o ll U ec .S ts . .R N e u s c o le u a rc r e @ Re n g rc u . l g a o to v r , y an C d o m to m t i h ss e i o D n, e s W k a O s f h fic in e g r t , o n O , ffic D e C o 2 f 0 In 5 f 5 o 5 rm -0 a 0 t 0 io 1 n , a o n r d b R y e in g t u e l r a n t e o t r y e - A m ff a a il i rs to ,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenijy valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the infonmation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Prairie Island 05000-282 NUMBER NO.
+2016 -003 -00
+NARRATIVE
+action request and 2) Review all CAP action requests that have management exception and ensure they meet
+requirements for management exception and have a success path.
+Previous Similar Events
+LER 50-282-201S-001-00, "Unanalyzed Condition Due to Non-Compliance with 10 CFR 50 Appendix R," submitted
+6/17/2015.
+Corrective Actions:
+• Procedure Change Request (PCR) 01475022 moved the step ahead in the timelineto locally verify 12 RCP breaker is
+OPEN and PCR 01475293 added steps to OPEN DC knife switches for all RCP breakers. Both of these actions were
+completed.
+• Prior site training was conducted for Supervisors and Managers in Engineering, Maintenance, Procurement and Planning
+on need to reinforce and observe individual contributors, as they validate assumptions and to ensure that high quality
+products with adequate technical rigor are produced. Recurring periodicity oftraining will be determined by the Supervisory
+Leadership Development Program Curriculum Review Committee.
+• The lack of technical rigor that occurred in 2005 was a legacy issue and was corrected with the implementation of the
+Engineering Human Performance program in 2006. This program includes applying technical rigor to verification/validation
+processes. Additionally, ESP receive training on engineering rigor and human performance as part of initial ESP training
+through FL-ESP-ORT-034L.
+NRC FORM366(11-2015)
+4

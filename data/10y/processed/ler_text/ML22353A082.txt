@@ -1,0 +1,188 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+December 19, 2022
+Attn: Document Control Desk 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387(388)/2022-003-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF-22 Docket No. 50-387
+PLA-8034 And 50-388
+Attached is Licensee Event Report (LER) 50-387(388)/2022-003-00. The LER reports an event
+in which one 13.8kV startup transformer was inoperable for longer than allowed by Technical
+Specifications (TS). This condition is being reported in accordance with
+10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+~
+K. Cimorelli
+Attachment: LER 50-387(388)/2022-003-00
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A. Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+<)P~REc11~
+/~ {Ko~ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+~ :; ~~ _2 - l I _ r ',; i A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~,.,-:;-•'71 (See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+•it-•~· +01 (See NUREG-1022, R.3 for instruction and guidance for completing this Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1.Facility Name 2.Docket Number 3.Page
+Susquehanna Steam Electric Station Unit 2 05000388 I 1 of 3
+4.Title
+Inoperable 13.8kV Startup Transformer due to Misaligned Load Tap Charger Local/Remote Control Switch
+5.Event Date 6.LER Number 7.Report Date 8.Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. Susquehanna Steam Electric Station Unit 1 05000387
+Facility Name Docket Number
+10 22 2022 2022 - 003 - 00 12 19 2022
+05000
+9.Operating Mode 10.Power Level
+1 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 ☐ 20.2203(a)(2)(vi) ☐ 50.36(c)(2) ☐ 50.73(a)(2)(iv)(A) ☐ 50.73(a)(2)(x)
+☐ 20.2201(b) ☐ 20.2203(a)(3)(i) ☐ 50.46(a)(3)(ii) ☐ 50.73(a)(2)(v)(A) 10 CFR Part 73
+☐ 20.2201(d) ☐ 20.2203(a)(3)(ii) ☐ 50.69(g) ☐ 50.73(a)(2)(v)(B) ☐ 73.71(a)(4)
+☐ 20.2203(a)(1) ☐ 20.2203(a)(4) ☐ 50.73(a)(2)(i)(A) ☐ 50.73(a)(2)(v)(C) ☐ 73.71(a)(5)
+☐ 20.2203(a)(2)(i) 10 CFR Part 21 ☒ 50.73(a)(2)(i)(B) ☐ 50.73(a)(2)(v)(D) ☐ 73.77(a)(1)(i)
+☐ 20.2203(a)(2)(ii) ☐ 21.2(c) ☐ 50.73(a)(2)(i)(C) ☐ 50.73(a)(2)(vii) ☐ 73.77(a)(2)(i)
+☐ 20.2203(a)(2)(iii) 10 CFR Part 50 ☐ 50.73(a)(2)(ii)(A) ☐ 50.73(a)(2)(viii)(A) ☐ 73.77(a)(2)(ii)
+☐ 20.2203(a)(2)(iv) ☐ 50.36(c)(1)(i)(A) ☐ 50.73(a)(2)(ii)(B) ☐ 50.73(a)(2)(viii)(B)
+☐ 20.2203(a)(2)(v) ☐ 50.36(c)(1)(ii)(A) ☐ 50.73(a)(2)(iii) ☐ 50.73(a)(2)(ix)(A)
+☐ Other (Specify here, in Abstract, or in NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Derek R. Smith, Senior Engineer – Nuclear Regulatory Affairs I( 570)542-1377
+13.Complete One Line for each Component Failure Described in this Report
+Cause I System Component I Manufacturer I Reportable to IRIS I Cause I System I Component I Manufacturer I Reportable to IRIS
+I I I I I I I I
+14.Supplemental Report Expected I I Month I Day I Year
+15.Expected Submission Date
+☒ No I☐ Yes (If yes, complete 15. Expected Submission Date) I I I I
+16.Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 22, 2022, operators at the Susquehanna Steam Electric Station identified the load tap changer
+(LTC) local/remote control switch on one of the two 13.8 kV startup transformers was in the remote position,
+as opposed to the required local position. Upon identification of the condition, operators entered Technical
+Specification (TS) 3.8.1, “AC Sources-Operating,” Condition A for one offsite circuit inoperable. The switch
+was restored to the local position and the transformer was declared operable at 21:00 on October 22, 2022.
+Based on investigation and cause, the condition is likely to have existed since October 12, 2022, and is,
+therefore, being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+The cause of the event was determined to be inadvertent bumping of the LTC local/remote control switch
+during opening and closing of the transformer cabinet doors by maintenance personnel. This cause was
+attributed to a human performance error. Corrective actions include planned procedure revisions to verify the
+LTC control switches are properly positioned during transformer restoration. There were no actual
+consequences to the health and safety of the public as a result of this event.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2022 - 003 - 00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 85 percent Rated Thermal Power (RTP)
+Unit 2 – Mode 1, approximately 100 percent RTP
+There were no structures, systems, or components that were inoperable at the start of the event and
+contributed to the event. One of the two 13.8kV startup transformers was inoperable for planned
+maintenance.
+EVENT DESCRIPTION
+On October 22, 2022, operators at the Susquehanna Steam Electric Station identified the load tap changer
+(LTC) local/remote control switch [EIIS Component Code: 33] on one of the two 13.8kV startup transformers
+[EIIS System/Component Code: E/XFMR] was in the remote position, as opposed to the required local
+position. Upon identification of the condition, operators entered Technical Specification (TS) 3.8.1, “AC
+Sources-Operating,” Condition A for one offsite circuit inoperable. Investigation determined the control switch
+was most likely inadvertently manipulated while restoring the transformer to operable from planned
+maintenance on October 12, 2022. The switch was restored to the local position and the transformer was
+declared operable at 21:00 on October 22, 2022.
+The following timeline demonstrates the sequence of events:
+10/10/2022 ~ 22:10: TS 3.8.1, Condition A is entered to support planned maintenance on one of the two
+13.8 kV startup transformers.
+10/11/2022 ~ 06:00: Routine preventative maintenance activities begin to inspect and change the oil in the
+transformer LTC. The LTC local/remote control switch is not manipulated per the work instructions.
+10/11/2022 ~ 14:00: While removing the clearance order from the 480 V normal and alternate control cabinet
+[EIIS Component Code: CAB], the transformer cooling fans [EIIS Component Code: FAN] started
+unexpectedly, requiring troubleshooting to restore the transformer to operable.
+10/11/2022 ~ 18:15: Maintenance of the LTC is completed and post maintenance testing (PMT) is completed
+successfully.
+10/11/2022 through 10/12/2022 ~20:00: Troubleshooting on the unexpected fan start continued.
+Troubleshooting activities require access in the cabinet where the LTC local/remote control switch is located.
+Investigation determined this to be the most probable timeframe the switch was inadvertently bumped.
+10/12/2022 ~ 20:00: The transformer is restored to service and declared Operable. TS 3.8.1, Condition A is
+exited.
+10/22/2022 ~ 15:13: The control room received a report that the transformer LTC local/remote control switch
+was found in the remote position, as opposed to the expected local position. The transformer is declared
+inoperable and TS 3.8.1, Condition A is entered.
+10/22/2022 ~ 21:00: The LTC local/remote control switch is placed in the correct position and the transformer
+is declared operable. TS 3.8.1, Condition A is exited.
+Based on the timeline above, the transformer was inoperable for longer than allowed by TS. Therefore, this
+condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+Page 2 of 3
+NRC FORM 366A (08-2020)
+.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2022 - 003 - 00
+NARRATIVE
+CAUSE OF EVENT
+The cause of the event was determined to be inadvertent bumping of the LTC local/remote control switch
+during opening and closing of the transformer cabinet doors by maintenance personnel. This cause was
+attributed to a human performance error.
+ANALYSIS/SAFETY SIGNIFICANCE
+Based on engineering analysis of the event, station AC sources could have performed their safety function
+for this condition. If the startup transformer were unable to provide power, the alternate startup transformer is
+capable of providing offsite AC power to systems and components required to operate the engineering safety
+features for one unit and safe shutdown loads on the other unit. In addition, if both offsite sources were
+unavailable, the four aligned Emergency Diesel Generators (DGs) would supply the required power to
+emergency loads. Both the alternate startup transformer and the DGs were available during the time the LTC
+was in the remote position. Therefore, the electrical distribution system could have fulfilled its safety function
+for the condition described.
+This event will not be counted as a safety system functional failure for the NRC performance indicator based
+on the engineering analysis supporting the system’s ability to fulfill the safety function. There were no actual
+consequences to the health and safety of the public as a result of this event.
+CORRECTIVE ACTIONS
+1. Share lessons learned with station maintenance personnel.
+2. Revise station operation procedures to verify the LTC control switches are in proper positions for
+operability during transformer restoration.
+COMPONENT FAILURE INFORMATION
+Not applicable.
+PREVIOUS OCCURRENCES
+None.
+Page 3 of 3
+NRC FORM 366A (08-2020)
+.

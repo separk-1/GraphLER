@@ -1,0 +1,192 @@
+10CFR50.73
+Virginia Electric and Power Company
+Surry Power Station
+5570 Hog Island Road
+Surry, Virginia 23883
+OEC 1 0 2018
+U.S. Nuclear Regulatory Commission Serial No.: 18-421
+Attention: Document Control Desk SPS: TSC
+Washington, D. C. 20555-0001 Docket No.: 50-280
+License No.: DPR-32
+Dear Sir or Madam:
+Pursuant to 10CFR50.73, Virginia Electric and Power Company hereby submits the
+following Licensee Event Report applicable to Surry Power Station Unit 1.
+Report No. 50-280 / 2018-002-00
+This report has been reviewed by the Station Facility Safety Review Committee and will
+be forwarded to the Management Safety Review Committee.
+Very truly yours,
+F. Mladen
+Site Vice President
+Surry Power Station
+Enclosure
+Commitment contained in this letter: None
+cc: U.S. Nuclear Regulatory Commission, Region II
+Marquis One Tower, Suite 1200
+245 Peachtree Center Ave., NE
+Atlanta, GA 30303-1257
+NRC Senior Resident Inspector
+Surry Power Station
+NRC. FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request 80 hours.
+.
+. Reported lessons learned are incorporated into the licensing process and fed back to industry .
+/"ll!ai,.C..
+~. ..... ~ i LICENSEE EVENT REPORT (LER) S N e u n c d le a c r o m R m eg e u n l t a s t o r r e y g a C rd o i m ng m i b s u s r io d n e , n W es a ti s m h a in t g e t o to n , th D e C I n 2 fo 0 r 5 m 5 a 5 t - io 0 n 00 S 1, e rv o i r c e b s y B e ra -m nc a h il ( t T o - 2 ln F fo 4 c 3 o ), l le U c . t S s. .
+~ (See Page 2 for requ!r~d number of digits/characters for each block) · Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instructiqn an·d guidance for completing this form used to impose an information collection does not display a currenfly valid 0MB control number,
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Surry Power Station, Unit 1 05000 280 1 OF 3
+4. TITLE
+Windblown Debris Caused Transformer Fault Resulting in Auto-Start of Emergency Diesel Generator
+5. EVENT DATE 6. IL ER NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR S - E N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR S F u A r C r I y LIT P Y N o A w ME e r Station, Unit 2 05 D 0 O 0 C 0 K ET NU 2 M 8 B 1 ER
+- -
+FACILITY NAME . DOCKET NUMBER ..
+10 11 2018 2018 002 00 12 10 2018
+05000
+9. OPERATING.MODE 11. THIS REPORT IS ~UBMITTED _PURSUANT TO THE REQUIREMENTS OF 10 Ci=R §: (Check ail that apply)
+•D CJ . · . D D
+?D-~201 (b) '. 20.220~_(~)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) -. ·
+'. D 20.2201 (d) ·-· D 20.2203:(a)(3)(ii) . D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+N
+D D D D
+20.2203(a)(1> 20.2203(a)<4) _ 50.13(a>(2>cm> 50.73(a)(2)(ix)(A).
+'• D 20.2203(a)(2)<i> D 50.36(c)(1)(i)(A) [l] 50.73(~)(?)(iv)(A)_ D 50.73(a)(2)(x):
+~-... D . . o· · D D
+19. POWER L,EVEL _20.2203(a)c2)~ii) 50.36(f:)(1)(ii)(A) 50.7~(a)(2)(v)(A) ' 73.11(a)(4) ..
+'",;, . D D . D
+20.220:3(~)(2)(iii). 50.36(c)(2) •, 50.7,3(a)(2)(v)(B) . _< D.13.11(a>cs>
+.. _D D ·D D
+' ~00 .. . D 20:22~3(a)(2)(iv) • . ·, .. D 5o.46(a><3>(ii) D 50: 73(a)(2)(v)_(C) D ~3.11ca)c1) -
+20.2203(a)(2)(v) - 50.73(a)(2)(i)(A) .. 50:73(a)(2)(v)(D) . 13.77(a)(2)(i)
+o
+_D D Q
+·., 20.?203~a)(~)(vi) . ' 50 " .7 .' 3 (a)(2)( . i . ) . ( B) ~0.73(a)(2)(vii) 73.77(a)(2)(ii)
+,D
+',. ' ,'• 50-73(a)(2)(i)(C) OoTHER .. Specify in -'.'bstract b~low Of in ,NRG Form 366A
+..
+'' •, ,- 12. LICENSEE CONTACT FOR THIS LER • .; ' ~
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Barry Garber (757) 365-2725
+'' 13. COMPL,ETE ONE LINE FOR EACH COMPONENT,i=AILURE DESCRIBED IN THIS REPORT . ' •,,
+MANU- REPORTABLE I MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+-- FACTURER TOEPIX FACTURER TOEPIX
+X - TM LNR D831 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [{) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 11, 2018, at 23:04 hours, with Units 1 and 2 at 100% power, 'A' Reserve Station Service Transformer pilot wire
+lockout signal caused an undervoltage condition of the 1J emergency bus and the subsequent automatic start of the #3
+Emergency Diesel Generator (EDG). The #3 EDG energized the 1J emergency bus loads as designed. At the time of the
+event, the site was experiencing rain and strong winds associated with Tropical Storm Michael.
+On October 12, 2018, after the high winds had passed, inspections and functional tests determined that no repairs to the
+electrical service system were required. Normal alignment of the #3 EDG and the primary off-site power supply to the 1J
+emergency bus were reestablished within 24 hours. Both Units 1 and 2 remained at 100% power. All equipment operated
+as designed.
+-
+An eight-hour non-emergency event notification was made to the NRC pursuant to 1.0 CFR 50.72(b)(3)(iv)(A) due to a valid
+actuation of the #3 EDG. This report is being made pursuant to 10 CFR 50. 73(a)(2)(iv)(A) due to a valid actuation of the #3
+EDG.
+NRG FORM 366 (04-2017) Page -- 1 - of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch :(T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to ln/ocollects.
+CONTINUATION SHEET
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office .of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid 0MB control
+number, the NRG may not conduct or sponsor, and a person is not required .to respond to, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Surry Power Station, Unit 1 05000- 280
+. 2018 ~ 002 00
+NARRATIVE
+1.0 DESCRIPTION OF THE EVENT
+On October 11, 2018, the site was experiencing rain and strong winds associated with Tropical Storm Michael. At
+23:04 hours, with Units 1 and 2 operating at 100% power, a 'B'. phase to ground pilot wire lockout signal on the 'A'
+RSST [EIIS-EA-XFMR] resulted in electrical isolation of the 'A' RSST, the 'D' Transfer Bus, and the Unit 1 'J'
+Emergency Bus. Emergency bus 1J [EIIS-EK-BU] was de-energized due to the normal bus supply breaker [EIIS-EK
+BKR] opening on the UV signal. The UV signal initiated the automatic start sequence for the #3 Emergency Die~el
+Generator (EOG) [EIIS-EK-DG] and energized the 1J bus, as designed. All 1J emergency busloads were verified to
+be in proper alignment. All e.quipment performed as expected. ·
+.A.t the time of the pilot wire lockout signal, an individual witnessed a flash in the area of the RSSTs. A piece of charred
+roofing insulation was found in the area, but no smoke or flames were observed. It was subsequently determined that
+roofing material ha,d become airborne during the storm and contacted the bus work associated with 'A' RSST initiating
+the lockout signal.
+'·', ';
+Post event testing.of the 'A' RSST was .completed satisfactorily; and no repairs were required .. On. October 12, 2018, at
+22:05 hours,.after the 1J 4160, V emergency bus normal power supply was reestal:>lishecUhe #3 EOG was ~ecured
+and returned to normal. automatic standby alignment: · , , ., . _ .. - , . .., . , ·.
+; ,. . ·,· .. . •:. ~ ' •,
+An eight-h9ur non-emergency event notification was made-to the ,,NRG pursuant to 10 CFR 50. 7'2(b)(3)(iv)(A) due to a
+validactuaUon_oUhe #3 EOG. This report is being-made pursuant to 10 CFR 50.73(a)(2)(iv)(A) due to a valid actuation
+of the #3 EOG.
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+During the event, the redundant 1 H 4160 V emergency bus was supplied by normal off-site power. Also, the Unit 2
+4160 Vemergency busses, 2H and 2J, were supplied by normal off-site power. The #1, #2, and #3 Emergency Diesel
+Generators remained available to supply power to emergency bus loads. All equipment performed as designed, and
+the normal eqlJipment alignment was _restored by the Operations team in .a timely manner. Therefore this event is of
+minimal safety significance.
+3.0 CAUSE OF THE EVENT
+It was determined that the roofing material which had contacted the RSST had originated from a breach in the roofing
+system on the northwest end of the Unit 1 Turbine Building. The roof is constructed with a foam insulation layer
+covered by a Hypalon elastomeric liner, which is held in place at a parapet with adhesive_ and mechanical fasteners.
+During the storm, winds peeled back the roof parapet flashing cap, exposing the Hypalon liner edges. The wind
+induced air pressure lifted the liner and mechanical fasteners from the roof uncovering the insulation sheets. The
+insulation became airborne and contacted the 'A' RSST causing the lockout signal. The roof insulation material
+matched the charred material found near the RSST.
+NRC FORM 366A (04-2017) Page 2 . of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the lnfonmation Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+CONTINUATION SHEET Resource@nrc.gov, and to the Desk Officer, Offige of lnfonmation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an infonmation collection does not display a currenfly valid 0MB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+infonmation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Surry Power Station, U_nit 1 05000- 280
+2018 • 002 00
+NARRATIVE
+4.0 IMMEDIATE CORRECTIVE ACTIONS
+Roof repairs were made by removing the damaged liner, replacing the insulation sheets, and installing a new EPDM
+(ethylene propylene diene n:ionomer) roof membrane liners with new anchoring strips and fasteners. New parapet wall
+flashing was seamed onto new EPDM liner.
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+Additional periodic inspections will be performed on the turbine building roof until long term corrective actions are
+completed.
+6.0 ACTIONS TO PREVENT RECURRENCE
+'·
+Long term actions recommended by the ca.u_s~ evaluation will be implemented by the corrective action program.
+. . t
+7.0 SIMILAR EVENTS
+LER 2013-001-00, Bird Contacting Power Lines Results in Emergency Diesel Generator Auto-Start
+LER 2006-002-00, Spurious Actuation Results in Unit 2 Trip and Loss of Offsite Power
+8.0 MANUFACTURER/MODEL NUMBER
+D831 Dow Corning (J.P. Stevens) Hypalon roofing
+9.0 ADDITIONAL INFORMATION
+Unit 2 remained at 100 percent power during this event. While #3 EDG was loaded on the 1J 4160 V emergency bus,
+Technical Specification (TS) action statements associated with Unit 2 emergency electrical systems were reviewed,
+and associated TS clocks were entered. The event did not cause any additional reportable condition. All Unit 2 TS
+action statements associated with Unit 2 emergency electrical systems were exited when the #3 EDG was returned to
+normal alignment at 22:05 hours on 10/12/2018.
+There were no other structures, systems, or components that were inoperable at the start of the event that contributed
+to the event.
+NRG FORM 366A. (04-2017) Page 3 of 3

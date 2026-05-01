@@ -1,0 +1,293 @@
+,£« "/
+Exelon Generation®
+~
+10CFR 50.73
+CCN: 19-60
+April 11, 2019
+U. S. Nuclear Regulatory Commission
+ATIN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2 and Unit 3
+Renewed Facility Operating License No. DPR-44 and DPR-56
+NRG Docket No. 50-277 and 50-278
+Subject: Licensee Event Report (LER) 2-19-001
+Enclosed is a Licensee Event Report concerning a loss of a safety function following a
+partial loss of off-site power. In accordance with NEI 99-04, the regulatory commitment
+contained in this correspondence is to restore compliance with the regulations. The specific
+methods that have been planned to restore and maintain compliance are discussed in the
+LER. If you have any questions or require additional information, please do not hesitate to
+. contact Matthew Retzer at 717-456-3351.
+Patrick D. Navin
+Site Vice President
+Peach Bottom Atomic Power Station
+PDN/dnd/lR 4219191
+Enclosure
+cc: US NRG, Administrator, Region I
+US NRG, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+D. Tancabel, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+bee: Sr. Vice President, Mid-Atlantic Operations
+Site Vice President-PBAPS
+Plant Manager-PBAPS
+Director Operations-PBAPS
+Sr. Mgr. - Operations Spt & Svcs
+Shift Ops Superintendent - PBABS
+Operations Support Manager - PBAPS
+Director, Site Training-PBAPS
+Manager, PBAPS Operations Training
+Manager, Regulatory Assurance-PBAPS
+Sr. Regulatory Assurance Engineer-PBAPS
+Manager, Licensing
+Manager, PBAPS Nuclear Oversight - PB, SMB4-5
+Commitment Coordinator
+Director, Mid-Atlantic Licensing
+Sr. Manager, PRA - Corporate
+Greenlee, Scot
+Krueger, Greg
+INPO Records via ICES Report (Site OPEX Coordinator)
+Records Management - PB
+NRC FORM 366 U.S. NUCLEAR REG.ULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory ·collection request: 80 hours.
+.,,<-'-"'°~.REGt,'-,;, LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+r,,~,- % industry. Send comments regarding burden estimate to the Information Services Branch
+" (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+. ~ . 0 to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+\j; " Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+~ (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+'1/1-..,. \'i ht!Q://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3[J display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+~***" person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Peach Bottom Atomic Power Station Unit 2 05000277 1 OF 5
+4. Title
+Emergency Bus Breaker Relay Failure Results in Loss of Safety Function
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year Peach Bottom Atomic Power Sta. Unit 3 05000278
+- - Facility Name Docket Number
+02 11 2019 2019 001 00 04 11 2019
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) ~ 50.73(a)_(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36( c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2). 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+.
+;; ~ D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+.£
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+Matthew E. Retzer, Regulatory Assurance Manager 717-456-4351
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Ii Cause System Component Manufacturer Reportable to ICES
+X ED 2 T351 Yes
+f"'
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On February 11, 2019, at 2232 hours, an off-site power source was Jost due to a malfunction of a lightning arrestor
+located at an off-site substation. As a result, six of the site's eight 4kV emergency buses transferred to their alternate
+offsite source. During this process, a breaker that supplies power to a 480 volt load center (E434) fed from the E43
+emergency 4kV bus failed to automatically re-close due to a failed relay. This resulted in the E4 emergency die_sel
+..
+generator being inoperable and Joss of safety function of the 'B' Core Spray loop. The 'A' Core Spray loop was . ,·
+inoperable at the time due to planned maintenance. This resulted in a loss of the Core Spray safety function for
+approximately 7 hours and 44 minutes. The 'A' Core Spray loop was restored and returned to an operable status at
+0616, which restored the Core Spray safety function.
+The transfer to the alternate offsite power source also resulted in a Group JI and Ill primary containment isolation, as
+designed. This is considered an invalid actuation. There were no actual safety consequences as a result of this event.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to·
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may riot conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FA~ILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2019 - 001 - 00
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 2 and Unit 3 were both operating in Mode 1 at approximately 100% rated thermal power. The Unit 3 'A'
+Core Spray [EIIS:BM] loop was out of service for planned maintenance.
+Description of Event
+On February 11, 2019, at 2232 hours, the Cooper-Nottingham (220-08 line) off-site power source was lost
+due to a malfunction of a lightning arrestor located at an off-site substation.· At the time of the transient, six
+of the site's eight 4kV emergency buses [EIIS:EB] were aligned to the #2 Emergency Auxiliary Transformer,
+which is normally fed by the 220-08 line. The loss of the 220-08 line caused the 4kV emergency buses to
+transfer to the #3 Emergency Auxiliary Transfor.mer, which is fed by the Ne-wlinville (220-34 line) offsit.e
+source. The transfer resulted in the loss of the running Control Rod Drive (CRD) [EIIS:AA] pumps and
+Group II and Ill primary containment isolations for both units. This is the designed response for this event
+and operators responded in accordance with plant procedures. The transfer also resulted in isolation of the
+Unit 3 main condenser off-gas recombiner, which caused a reduction in condenser vacuum and a reduction
+in Unit 3 power to 85%.
+Due to the loss of one offsite power source, Technical Specification (TS) 3.8.1 Condition A was entered,
+which has required actions to restore the offsite circuit within seven days.
+Following transfer of power for the E43 emergency 4kV bus to the alternate source, the E434 transformer
+breaker, which supplies power from the E43 bus to the Unit 3 E434 480 volt emergency load center
+[EIIS:ED], failed to automatically re-close. With the E434 breaker open, the Unit 3 E434 load center was de
+energized and inoperable. TS 3.8.7 Condition A was entered for Unit 2 and TS 3.8.7 Condition C was
+entered for Unit 3, which requires the E434 load center to be restored within 8 hours. At 2250 hours the
+E434 breaker was manually closed from the main control room to re-energize the emergency load center
+and TS 3.8.7 Condition A and Condition C was exited. The Unit 3 E434 load center was inoperable for 18
+minutes.
+On February 12, 2019, at 0430 hours, the E4 diesel generator was declared inoperable due tc:> not meeting
+surveillance requirement conditions. TS Surveillance Requirement (SR) 3.8.1.11.c.2 and SR 3.8.1.19.c.2
+require the E434 breaker to have the capability to automatically close in order for the E4 diesel generator to
+be considered operable. With one off-site source inoperable and one diesel generator inoperable, TS 3.8.1
+Condition E was entered, which 'requires the off-site source or the diesel generator to be restored to -
+operable within 12 hours.
+The 'A' Core Spray loop was out of service at the beginning of this event for planned maintenance and was
+restored and returned to an operable status on February 12, 2019 at 0616 hours.
+NRG FORM 366A (04-2018) Page _2_ of _§_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the infonmation collection.
+htto://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/)
+-
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2019 - 001 - 00
+NARRATIVE
+. " ·-.:-~:.-..,
+Troubleshooting identified that a failed timing relay caused the E434 transformer breaker to not
+automatically close. The relay was rep.laced and post-maintenance testing performed to restore E434
+breaker function. The E4 diesel generator was returned to ari operable status at 1559 hours on February
+12, 2019.
+The failed off-site lightning arrester was replaced and the 220-08 line was re-energized. The source was
+returned to an operable status at 1921 hours on February 12, 2019, and TS 3.8.1 Condition A was exited.
+The source was inoperable for a total of 20 hours and 49 minutes.
+Analysis of Event
+Equipment required for safe shutdown of the plant is supplied with power from eight independent 4kV
+emergency switchgear buses (four for each unit). The 4kV buses are normally supplied by either of two
+preferred offsite sources via emergency auxiliary transformers. Upon loss of power from one of the
+preferred offsite sources, automatic fast transfer is made to the other offsite source. If both preferred offsite
+sources are lost, emergency power will be supplied by four standby diesel generators, each of which can
+supply power to two 4kV buses, one for each unit.
+The 4kV emergency buses supply power directly to larger loads and to 480 volt load centers for smaller
+loads. The E434 transformer breaker supplies power to the E434 480 volt load center, which powers valves
+needed for Unit 3 'D' Core Spray pump operation and support equipment for the E4 diesel generator. The
+E434 load center supports operability of the electrical power distribution system for TS 3.8.7 and the E434
+breaker needs to be closed to meet TS SR 3.8.7.1. On February 11, 2019, between 2232 hours and 2250
+hours, the E434 breaker was open, resulting in one Unit 3 AC electrical power distribution subsystem to be
+inoperable (TS 3.8.7 Condition C) for 18 minutes. In reviewing this event for reportability, a past operability
+review determined that the Unit 3 'B' Core Spray loop was inoperable during this time period because valves
+needed for maintaining the loop operable are powered from the E434 load center. TS 3.0.6 allows for TS
+Required Actions to not be entered for a supported system as long as there is not a loss of safety function.
+At the time the E434 breaker was open, the Unit 3 'A' Core Spray loop was inoperable for planned
+maintenance. As a result, both loops of Core Spray were inoperable (TS 3.5.1 Condition I).
+The E4 diesel generator was discovered ~md declared to be inoperable at 0430 hours on February 12,
+2019, due to the inability of the E434 breaker to automatically close, as required for E4 operability by TS SR
+3.8.1.11.c.2 and SR 3.8.1.19.c.2 (LOCA/LOOP surveillance tests). These surveillance requirements ensure
+the 480 volt load centers are sequenced onto the 4kV busses within three seconds after the 4kV busses are
+energized by the diesel generators following a total loss of offsite power. In reviewing this event for
+reportability, a past operability review determined the E4 diesel generator was inoperable beginning at 2232
+hours on February 11, 2019. As a result, the E4 diesel generator was inoperable for 17 hours and 27
+minutes.
+NRG FORM 366A (04-201 B) Page _3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infomnation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the infomnation collection.
+http://www. n re. gov/ reading-rm/doc-collections/nu regs/staff/s r1 022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2019 - 001 00
+NARRATIVE
+At 0616 hours on February 12, 2019, the 'A' Core Spray loop was returned to an operable status. As a
+result, both loops of Core Spray would have been inoperable (TS 3.5.1 Condition I) for 7 hours and 44
+minutes.
+This event is being reported in accordance with the following:
+• 1 OCFR 50.73(a)(2)(v)(D) - Any event or condition that could have prevented the fulfillment of the
+safety function of systems needed to mitigate the consequences of an accident.
+On February 11, 2019, between 2232 and 0616 hours (7 hours and 44 minutes), both the 'A' and
+'B' Core Spray loops would not have been able to perform their safety function, resulting in a loss
+of the Core Spray system safety function. ·
+e 1O CFR 50.73(a)(2)(iv)(A) - Manual or automatic a~tuation of general containment isolation valves in
+more than one system
+The fast transfer to the alternate off-site power source caused a momentary loss of power to
+electrical distribution panels, resulting in a Group II and Ill containment isolation in both units.
+This resulted in valve movement in more than one system, including Reactor Water Cleanup,
+and Drywell Equipment and Floor Drains. The isolations occurred as designed and are
+expected with the momentary loss _of power. They did not occur as a result of plant conditions
+that would require a containment isolation. They are therefore classified as invalid.
+There were no actual safety consequences as a result of this event. The plant's safety analysis assumes
+one ED-G is unavailable. Although the loss of the Core Spray system safety function would impact the ability
+to mitigate a design bases accident, the amount of time it was inoperable is within the time allowed by TS
+3.0.3 for the condition to exist prior to entering a shutdown condition. At all times operators in the control
+room would have been able to restore core spray function by closing the E434 breaker.
+Cause of the Event
+The cause of the initial event, loss of the 220-08 off-site source, was determined to· be due to a failed
+lightning arrester located at an off-site substation. The failure of the E434 transformer breaker was the
+resulted of a failed Agastat ETR series time delay relay for the E434 breaker. Investigation by an off-site
+vendor determined the relay failed due to a catastrophic failure of the resistor and varistor in the power input
+circuit of the relay timing board. The relay was manufactured in 2008 and installed in 2013. The relay is
+replaced on a 12-year frequency and calibrated every four years.
+Corrective Actions
+The lightning arrester and the E434 breaker relay were replaced. Additional corrective actions are
+documented in the corrective action program.
+NRG FORM 366A (04-2018) · Page _4_ of _s_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT {LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2019 001 00
+NARRATIVE
+Previous Similar Occurrences
+During a surveillance test for the E42 4kV bus on October 4, 2012, a similar Agastat ETR relay exhibited a.
+longer than expected time delay in closing due to higher than normal resistance in the time delay adjustment
+potentiometer. The normally de-.energized relay was 22 years old at the time of the failure. For the event
+described in this LER, the normally energized relay was approximately 1O years old, had been in service for
+approximately six years, and was not beyond the allowable service life when· the failure occurred.
+NRG FORM 366A (04-2018) Page _5_ of __§_

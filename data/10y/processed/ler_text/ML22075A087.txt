@@ -1,0 +1,261 @@
+Peter Dietrich
+Senior Vice President and Chief Nuclear Officer
+DTE Electric Company
+6400 N. Dixie l-lighway, Newport, Ml 48166
+Tel: 734.586.4153
+Email: pctcr.dictrich@clteenergy.com
+DTE
+March 15, 2022 10 CFR 50.73
+NRC-22-0008
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Fermi 2 Power Plant
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2021-002-01
+Pursuant to 10 CFR 50.73(a)(2)(v)(D), DTE Electric Company (DTE) is submitting revision 01
+to LER No. 2021-002, Unplanned Inoperability of High Pressure Coolant Injection System due
+to an Inverter Circuit Failure.
+No new commitments are being made in this submittal.
+Should you have any questions or require additional information, please contact Mr. Ertman L.
+Bennett III, Manager- Nuclear Licensing, at (734) 586-42
+Sincerely,
+Senior Vice President and Chief Nuclear Officer
+Enclosure: Licensee Event Report No. 2021-002-01, Unplanned Inoperability of High Pressure
+Coolant Injection System Due to an Inverter Circuit Failure
+cc: NRC Project Manager
+NRC Resident Office
+Regional Administrator, Region III
+Enclosure to
+NRC-22-0008
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2021-002-01
+Unplanned Inoperability of High Pressure Coolant Injection System Due to an Inverter
+Circuit Failure
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-2020) Eslinaled burden per response to comply lllith this mandalory collection request 80 hoors. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated ilto the licerlsing process and fed back to industry. Send commenls
+regarding bu/den eslinate to the FOIA, Library, and lnfonnation Collections Branch (Hi A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 2055!HJ001, or by e-mail to
+(See NUREG-1022, R3 for instruction and guidance for completing this form lnfocollecfs Resource@ruc.gov, and the 0MB reviewer at 0MB Office of lnfonnation and Regulato,y
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/} Affairs, (3150--0104), Attn Desk al: otra submissiofl@omb.eop.gov. Toe NRC may not conduct or
+sponsOI", and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2
+05000 341 1 OF 5
+4. Title
+Unplanned lnoperability of High Pressure Coolant Injection System Due to an Inverter Circuit Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+----------+---+-----+----+----+----+---+---N/A
+05000
+8 22 2021 2021 - 002 1 03 15 2022 Facility Name Docket Number
+N/A 05000
+110.
+9. Operating Mode Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(g) □ 50. 73(a)(2)(v)(B) □ 73.71(a)(4)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73. 71 (a)(5)
+[Z]
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.73(a)(2)(i)(B) 50. 73(a)(2)(v)(D) □ 73. 77(a)(1 )(i)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii) □ 73. 77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(AJ □ 73. 77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1 )(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50.73(a)(2)(viiil(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50.73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ertman L. Bennett Ill - Manager, Nuclear Licensing 734-586-4273
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X BJ INVT X999 Yes X DG 34 X999 Yes
+14. Supplemental Report Expected Month Day Year
+ID 15. Expected Submission Date
+(Z]
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Umit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 0529 Eastern Daylight Savings Time (EDT) on August 22, 2021, while in Mode 1 at 100% power, alarms occurred for the
+Division 2 emergency diesel generator (EOG) load sequencer and the High Pressure Coolant Injection (HPCI) inverter circuit.
+These issues led to Division 2 EDGs and HPCI being declared inoperable per Technical Specification (TS) 3.8.1 and TS 3.5.1,
+respectively. Subsequent failures of the Division 2 battery charger and inoperability of the Division 2 direct current (DC) electrical
+power distribution subsystem were identified under TS 3.8.4 and TS 3.8.7, respectively. The cause of the event was a voltage
+spike of unknown origin. However, the spare battery charger was placed in service for Division 2 and the replacement of the
+power supplies for the load sequencer and HPCI inverter eliminated the problem and allowed for all the systems to be returned
+to service with no further issues by (or before) 0956 EDT on August 24, 2021. Other safety systems such as the Reactor Core
+Isolation Cooling (RCIC) system and Division 1 EDGs remained operable throughout the event. Although no violations of TS
+occurred, the unplanned inoperability of HPCI is a reportable condition. The safety significance of this event was determined to
+be very low and there were no radiological releases.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo comply with this mandatory collection request 80 hours. Reported
+lessons learned are irKDp003ted ilto the licensing process and fed back lo indushy. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate lo the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Coomission, Washington, DC 20555--0001, or by e-mail lo
+CONTINUATION SHEET
+lnfooolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--mai: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of i,forrnation unless the document
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+requesting or requiring the oolection displays a currentiy valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+IFermi 2 I 05000- 1 341 ~□ -I NUMBER 1-CN2O. J
+002
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode-1
+Reactor Power - 100%
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+At 0529 Eastern Daylight Savings Time (EDT) on August 22, 2021, alarms [ALM] occurred for the Division 2 emergency
+diesel generator (EOG) [DG] load sequencer [34] and the High Pressure Coolant Injection (HPCI) [BJ] inverter circuit.
+These issues led to Division 2 EDGs and HPCI being declared inoperable per TS 3.8.1, "Alternating Current (AC) Sources
+-Operating," Required Action 8.4 and TS 3.5.1, "Emergency Core Cooling Systems (ECCS) - Operating," Condition E.1,
+respectively. Offsite power circuits and Division 1 EDGs were verified to be operable in accordance with TS 3.8.1
+Required Actions 8.1 and 8.3.1, respectively. The Reactor Core Isolation Cooling (RCIC) [BN] system was verified
+operable in accordance with TS 3.5.1 Required Action E.1.
+The HPCI system and the EDG load sequencer are powered by the Division 2 battery. The initial investigation identified
+blown fuses associated with the power supplies of both the Division 2 EOG load sequencer and HPCI. The fuses were
+replaced but blew again. The blown replacement fuses were removed and additional troubleshooting activities were
+performed. During the subsequent troubleshooting activities, fluctuations were identified in the Division 2 battery charger
+[BYC] in the direct current (DC) electrical power subsystem [El]. The Division 2 battery charger was declared inoperable
+at 2233 EDT on August 22, 2021, and TS 3.8.4, "DC Sources - Operating," Condition A was entered. Shortly thereafter,
+at 2331 EDT, the Division 2 DC electrical power distribution subsystem was also declared inoperable due to low voltage
+and TS 3.8.7, "Distribution Systems- Operating," Condition B was entered. The spare battery charger was placed in
+service for Division 2. Using the spare, the Division 2 battery charger was restored to an operable status at 0046 EDT on
+August 23, 2021 and TS 3.8.4 Condition A was exited. Placement of the spare battery charger also stabilized voltage on
+the Division 2 DC electrical power distribution subsystem such that TS 3.8. 7 Condition B was exited at 0055 EDT on
+August 23, 2021. The durations of the inoperability's of the Division 2 battery charger and DC electrical power distribution
+subsystem were approximately 2 hours and 1 hour, respectively which were both within the TS allowable durations of 4
+hours and 2 hours, respectively. No other safety-related systems were out of service during the event.
+Following transfer to the Division 2 spare battery charger, the aux transformer was replaced in the original battery charger,
+the power supplies for the Division 2 EOG load sequencer and HPCI Inverter were replaced. The Division 2 EDG load
+sequencer was restored to service and the EDGs were declared operable at 2132 EDT on August 23, 2021. The duration
+of the Division 2 EOG load sequencer inoperability was approximately 40 hours which was within the TS 3.8.1 Condition B
+NRG FORM 366A (08-2020) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo comply with this mandatory collection request 80 hours. Reported
+lessons learned are irKDp003ted ilto the licensing process and fed back lo indushy. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate lo the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Coomission, Washington, DC 20555--0001, or by e-mail lo
+CONTINUATION SHEET
+lnfooolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--mai: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of i,forrnation unless the document
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+requesting or requiring the oolection displays a currentiy valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+IFermi 2 I 05000- 1 341 ~□ -I NUMBER 1-CN2O. J
+002
+NARRATIVE
+allowance of 72 hours since offsite power sources were available. HPCI was restored to service and declared operable at
+0956 EDT on August 24, 2021. The duration of the HPCI inoperability was approximately 52 hours which was within the
+TS 3.5.1 Condition E allowance of 14 days since RCIC was operable. A review verified that the offsite power sources,
+Division 1 EDGs and RCIC were operable during the entire event. All TS required actions were taken within the allowable
+times and no violation of TS occurred.
+An 8-hour event notification (EN 55423) was made to the NRC on August 22, 2021 based on meeting the reporting criteria
+of Title 10 Code of Federal Regulations (10 CFR) 50.72(b)(3)(v)(D) since an unplanned HPCI inoperability is an event or
+condition that at the time of discovery could have prevented the fulfillment of the safety function of a system needed to
+mitigate the consequences of an accident. This LER is being made under the corresponding criteria of 10 CFR 50.73(a)
+(2)(v)(D); specifically, that the 52-hour unplanned inoperability of the HPCI system was an event or condition that could
+have prevented the fulfillment of the safety function of a system needed to mitigate the consequences of an accident.
+No reportability criteria were met for the EDGs, Division 2 battery charger, or Division 2 DC electrical power distribution
+subsystem.
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+During the time HPCI was inoperable the RCIC system remained available for high pressure injection in the event of an
+emergency. The Standby Feedwater (SBFW) [SJ] system was also available for high pressure injection. Additionally, the
+Automatic Depressurization System (ADS) was available to reduce reactor pressure to within the capabilities of the low
+pressure Emergency Core Cooling Systems (ECCS) [BO][BM]. TS 3.5.1 allows HPCI to be taken out of service for up to
+14 days provided that RCIC is available. HPCI is required for design basis accidents such as a loss of coolant accident
+(LOCA). No accidents or transients requiring HPCI occurred or were in progress during the HPCI inoperability.
+Offsite power was operable throughout the event, being supplied to both the 120 kV and 345 kV switchyards from the
+transmission network by five transmission lines. Division 1 of the onsite power sources (EDGs 11 and 12) remained
+operable throughout the event. Division 2 EDGs (EDGs 13 and 14) were declared inoperable due to the condition
+affecting the Division 2 EDG load sequencer. However, further review identified that the condition affecting the load
+sequencer did not impact operation of the EDGs themselves. In the event of a loss of offsite power, EDGs 13 and 14
+would still have started automatically and Division 2 loads would have been shed to prepare to accept the required loads.
+Due to failure of the load sequencer, loads would not have automatically been added. However, with operator actions to
+close breakers (two per EOG), many of the ESF loads would then have been manually added as needed. These operator
+actions are performed from the Main Control Room (MCR) and are identified in existing Fermi 2 procedures which
+operators are trained to utilize. As a result, EDGs 13 and 14 were considered inoperable but available. In a postulated
+transient or accident where offsite power and the Division 1 EDGs were both lost, the Division 2 EDGs could still have
+NRG FORM 366A (08-2020) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo comply with this mandatory collection request 80 hours. Reported
+lessons learned are irKDp003ted ilto the licensing process and fed back lo indushy. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate lo the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Coomission, Washington, DC 20555--0001, or by e-mail lo
+CONTINUATION SHEET
+lnfooolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--mai: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of i,forrnation unless the document
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+requesting or requiring the oolection displays a currentiy valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+IFermi 2 I 05000- 1 341 ~□ -I NUMBER 1-CN2O. J
+002
+NARRATIVE
+been utilized with operator actions to supply power to required ESF loads.
+Based on this discussion, the safety significance of this event is very low. There were no radiological releases associated
+with this event.
+CAUSE OF THE EVENT
+The cause of this event was a voltage spike of unknown origin. During initial troubleshooting both the Division 2 EOG
+Automatic Load Sequencer power supply and HPCI Inverter were found to have a short between the positive and negative
+input terminals and the inputs remained isolated from the chassis. Initial troubleshooting for the EOG load sequencer
+found two switching transistors shorted and for the HPCI inverter found five metal -oxide semiconductor field effect
+transistors (MOSFETs) shorted and a possible capacitor failed.
+During the troubleshooting of the charger's cycling voltage it was found that the phase "A" auxiliary transformer was
+having intermittent problems before it had a hard failure. It was turning on and off causing the silicone-controlled rectifiers
+(SCRs) to shut off. The voltage output of the transformer should be approximately 45v, but was 0v while the primary side
+was 120v. The transformer was replaced with a new transformer and the battery charger functioned as expected and was
+placed back into service. Following further troubleshooting the issue with the battery charger was independent of the
+Division 2 EOG Automatic Load Sequencer power supply and HPCI inverter issues.
+The failure mechanism of the inverter and the sequencer failures were caused by a voltage transient on the DC bus. This
+transient was created from an unknown source either electrically connected to 2PB2-6 or magnetically coupled to the
+supply cables of the devices. These findings were independently reviewed by a subject matter expert. A modification will
+be applied to monitor the input voltage on the circuit that may identify this unknown source of the voltage spike.
+CORRECTIVE ACTIONS
+A monitoring system is being installed to monitor input voltage on the circuit that will potentially identify a voltage transient
+which will help identify this unknown source.
+NRG FORM 366A (08-2020) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo comply with this mandatory collection request 80 hours. Reported
+lessons learned are irKDp003ted ilto the licensing process and fed back lo indushy. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate lo the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Coomission, Washington, DC 20555--0001, or by e-mail lo
+CONTINUATION SHEET
+lnfooolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--mai: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of i,forrnation unless the document
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+requesting or requiring the oolection displays a currentiy valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+IFermi 2 I 05000- 1 341 NUMBER 1-[2 NO. ]
+002
+NARRATIVE
+PREVIOUS OCCURRENCES
+There have been previous occurrences of unplanned HPCI inoperability in the past several years, for example LERs
+2018-005 and 2019-004. However, those occurrences were due to a support system, the Mechanical Draft Cooling
+Towers (MDCT), not being able to support operability of the Division 2 Emergency Equipment Cooling Water (EECW)
+system which is required for the operability of the HPCI room cooler. Therefore, the corrective actions taken to resolve
+those previous occurrences would not have prevented the issue described in this LER.
+NRG FORM 366A (08-2020) Page 5 of 5

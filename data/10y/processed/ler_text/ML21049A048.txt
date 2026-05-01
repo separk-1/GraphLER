@@ -1,0 +1,205 @@
+LaSalle County Station
+Exelon Generation®
+2601 North 21" Road
+Marseilles, IL 61341
+815-415-2000 Telephone
+www.exeloncorp.com
+10 CFR 50.73
+RA21-009
+February 18, 2021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+LaSalle County Station, Unit 2
+Renewed Facility Operating License No. NPF-18
+NRC Docket No. 50-374
+Subject: Licensee Event Report 2021-001-00, High Pressure Core Spray
+Inoperable due to Water Leg Pump Breaker Trip
+In accordance with 10 CFR 50.73(a)(2)(v)(D), Exelon Generation Company, LLC
+(EGC) is submitting Licensee Event Report (LER) Number 2021-001-00 for LaSalle
+County Station, Unit 2.
+There are no regulatory commitments in this letter. Should you have any questions
+concerning this report, please contact Mr. Daniel Mearhoff, Regulatory Assurance
+Manager, at (815) 415-2800.
+Respectfully,
+P/~
+Phil Hansett
+Plant Manager
+LaSalle County Station
+Enclosure: Licensee Event Report
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector- LaSalle County Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150..0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimaled burden per response to comply wilh !his mandatory collection request: 80 hours. Reported
+<""'•"C¥G"'-f ' LICENSEE EVENT REPORT (LER) lessons learned are incorporaled into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and lnfonnation Collections Branch (T-6 A10M), U.S.
+\ ..... j (S ( e S e e e N U P R ag E e G 3 -1 f 0 o 2 r 2 r , e R q . u 3 i r f e o d r in n s u t m ru b ct e io r n o f a d nd ig g it u s i / d c a h n a c r e a c fo te r r c s o f m o p r le e t a in c g h t b h l i o s c fo k r ) m N ln u fo c c le o a ll r e cts. R R e e g s u o la u t r o te ry @ nrc C .g o o m v m , i a s n si d o n lh , e O W M a B s h r in e g vi t e o w n e , r a D l: C O MB 2 0 O 5 f 5 fi 5 c - e 0 0 o 0 f 1 l , n fon o n r a tion b y a nd e R -m eg a u il l ator to y
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eoo.oov. The NRC may nol conduct or
+htto://www .nrc.qov/readinq-rm/doc-collections/nuregs/staff/ sr1022/r3D sponsor, and a person is not required lo respond to, a collection of infonnation unless the document
+requesting or requiring !he collection displays ac unently valid OMB control number.
+1. Facility Name 2. Docket Number 3.Page
+LaSalle County Station, Unit 2 05000 374 1 OF 3
+4. Title
+High Pressure Core Spray Inoperable due to Water Leg Pump Breaker Cubicle Motor Contactor
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. NA 05000
+- - Facility Name Docket Number
+12 23 2020 2021 001 00 02 18 2021
+NA 05000
+9. Operating Mode 110. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+10 CFR Part 20 20.2203(a)(2)(vi) so.3sccic2i 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+20.2201cbi 20.2203(a)(3)(i) so.4scaic3icni 50.73(a)(2)(v)(A) 1O C FR Pawt7!3'
+D D D D D
+20.2201cdi 20.2203caic3icni so.s9cei 50.73(a)(2)(v)(B) 13.11ca)(4)
+D D D D D
+20.2203caic1i 20.2203cai<4J 50. 73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 13.11caicsi
+D 20.2203caic2ic1i 1IO CF.R Part 21 D 50.73(a)(2)(i)(B) [8J 50.73(a)(2)(v)(D) D 13.11caic1ic1i
+D D D D D
+20.2203caic2ic11i 21.2cci 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 13.11caic2ic1i
+D en so D D D
+I• 1.0 tart
+20.2203caic2)(111i 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 13.11caic2)(ii)
+D D D D
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) so.13caic2icmi 50.73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Amy McMartin, Site Engineering Director (815) 415-3800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+x BG CNTR G080 y NA NA NA NA NA
+14. Supplemental Report Expected Month Day Year
+I D 15. Expected Submission Date
+[gl No Yes (If yes, complete 15. Expected Submission Date) NA NA NA
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 23, 2020, the Unit 2 high pressure core spray (HPCS) water leg pump (WLP) tripped off due to a fault
+within its breaker cubicle. The HPCS WLP is a support component required to maintain the HPCS system
+operable. With the loss of the WLP, the HPCS system was declared inoperable. The unit entered applicable
+technical specification required actions to immediately verify that the reactor core isolation cooling (RCIC) system
+was operable and to restore the HPCS system to operable within 14 days.
+This condition was previously reported under emergency notification system (ENS) 55046 as a single-train system
+inoperability that could have prevented the fulfillment of a safety function used to mitigate an accident. The
+condition is being reported under 1O CFR 50. 73(a)(2)(v)(D) as an event or condition that could have prevented
+fulfillment of a safety function. The system was restored to operable following replacement of the affected HPCS
+WLP breaker cubicle control power transformer and motor contactor. The cause was age-related failure of the
+breaker cubicle motor contactor.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eoo.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of infonnation unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+LaSalle County Station, Unit 2 05000- 374 NUMBER NO.
+2021 001 00
+NARRATIVE
+Plant and System Identification
+LaSalle Country Station Unit 2 is a General Electric Boiling Water Reactor with 3546 Megawatts Thermal Rated
+Core Power. The affected system was the Division 3 high-pressure core spray (HPCS). In accident situations, the
+HPCS system provides cooling to the reactor core to prevent excessive fuel cladding temperatures following a
+break in the nuclear system piping.
+Condition Prior to Event
+Unit(s): 2 Date: December 23, 2020 Time: 06:53 CST
+Reactor Mode(s): 1 Mode(s) Name: Power Operation Power Level: 100 percent
+Description
+On December 23, 2020, the main control room operating crew received an alarm for the Unit 2 HPCS water leg
+pump (WLP) having tripped off, followed shortly by a ground alarm for the associated electrical circuitry that cleared
+with 15 seconds. Field operators subsequently reported an acrid order in the Division 3 switchgear room and
+subsequently found the breaker for the HPCS WLP in the closed position but the breaker's cubicle was warm to the
+touch. The operating shift crew removed the HPCS WLP from service, declared the HPCS system inoperable, and
+entered applicable technical specifications {TS) 3.5.1 required action (RA) 8.1 to immediately verify by
+administrative means that the reactor core isolation cooling (RCIC) system was operable, and TS 3.5.1 RA 8.2 to
+restore the HPCS system to operable within 14 days. The operating shift established robust barriers to
+administratively protect the RCIC system following discovery through the subsequent restoration of the HPCS
+system inoperability period. The Unit 2 HPCS system was restored to operable the same day at 20:18 CST, after
+replacement of the WLP breaker cubicle control power transformer and motor contactor and post-maintenance
+testing.
+Cause
+Initial investigation identified that the WLP motor starter (2AP79E-2C) contactor and control power transformer were
+damaged. The cause was age-related failure of the contactor. The failure analysis found the motor starter damage
+had resulted from a heating event that began inside the contactor coil which eventually led to an open circuit in the
+coil. The increased current flow impacted the control power transformer, which overheated and failed.
+Reportability and Safety Analysis
+The HPCS system is part of the Division 3 emergency core cooling system (ECCS). In accident situations, HPCS
+provides cooling to the reactor core to prevent excessive fuel cladding temperatures following a break in the nuclear
+system piping. A secondary purpose of HPCS is to supply cooling water to the reactor pressure vessel as a backup
+to the RCIC system if the main condenser and feedwater were unavailable. The HPCS WLP is a support system
+required to maintain the HPCS system operable. With the loss of the HPCS WLP, HPCS was declared inoperable
+and the operating shift entered applicable TS RA statements.
+This condition could have prevented the HPCS system, a single train safety system, from performing its design
+function. Therefore, this condition is reportable in accordance with 10 CFR 50.73(a)(2)(v)(D) as a condition that
+could have prevented the fulfillment of the safety function of structures or systems that are required to mitigate the
+NRC FORM 366A (08-2020) Page_2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo comply with this mandatory collection request: 80 hours. Reported
+........... lessons learned are incorporated into the licensing process and fed back lo industry. Send comments
+··_...~. ·.. regarding burden estimate lo the FOIA, Library. and Information Collections Branch {T-6 A1 0M), U. S.
+! i LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail lo
+~' ..... CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+-:.• ., ' .f! ~ I Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/l requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+LaSalle County Station, Unit 2 05000- 374
+2021 001 00
+NARRATIVE
+consequences of an accident. The event was previously communicated to the NRC under emergency notification
+system (ENS) 55046 in accordance with 10CFR 50.72(b)(3)(v)(D).
+This condition was a safety system functional failure (SSFF) as defined in accordance with NEI 99-02, "Regulatory
+Assessment Performance Indicator Guideline." The support system WLP could have prevented the HPCS system
+from performing its design function.
+Corrective Actions
+Immediate corrective actions taken in response to the condition were:
+• Declared the Unit 2 HPCS system inoperable on December 23, 2020 at 06:53 CST
+• Completed maintenance and post-maintenance testing at 19:48 CST
+• Declared Unit 2 HPCS operable and exited associated TS 3.5.1 required actions at 20:18 CST
+• Performed failure analysis for the failed components to identify any additional actions
+The extent of condition for potential similar failure mechanisms was determined to exist among the seven
+continuously energized contactors in each of the Unit 1 and Unit 2 Division 3 (HPCS) motor control centers (MMCs),
+a total of 14 contactors. A corrective action assignment was made to evaluate further for contactor replacements.
+Previous Occurrences
+There have been no similar events involving contactor faults for safety related systems within the previous three
+year period. However, during that period there has been a previous event involving a breaker in the Unit 1 HPCS
+system MCC bus bar and another event involving a unit crosstie breaker.
+• 373-2018-002-00, Damaged Bus Bar Identified Potentially Affecting High Pressure Core Spray System
+Station personnel identified damage of the bus bar at the breaker that supplies the Unit 1 HPCS diesel
+generator auxiliaries. The degradation of the bus bar may have prevented the Division 3 DC battery charger
+from performing its function, which could have prevented the HPCS system from performing its design safety
+function. The condition of the MCC bus bar was the result of a degraded connection between the "A" phase
+bus bar and the "A" phase bus clip (stab) associated with the breaker cubicle 28. The apparent cause of the
+degraded bus bar to clip connection was due to relaxation of the bucket clip over time.
+• 374-2019-001-00, Safety Related Electrical Bus Undervoltage Results in Valid Actuation of the Common
+Emergency Diesel Generator
+While shut down for a scheduled refueling outage, Unit 2 Division 1 safety-related electrical bus (241 Y)
+tripped during surveillance testing. The trip of the electrical bus resulted in a valid undervoltage actuation
+signal to the common emergency diesel generator, causing it to start and load to bus. The cause was
+attributed to the crosstie breaker having a degraded lug on the terminal between its Unit 2 A-phase current
+transformer and the Unit 1 breaker differential current relay.
+Component Failure Data
+Device: 2AP79E-2C, HPCS WLP MCC
+Manufacturer: General Electric [G080]
+Component Type: Contactor [CNTR]
+Model: CR206CO
+NRC FORM 366A (08-2020) Page_3_ of _3_

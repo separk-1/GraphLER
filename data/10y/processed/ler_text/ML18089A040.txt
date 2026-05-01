@@ -1,0 +1,268 @@
+Exeton Generation ExelonGeneration company, LLC
+JamesA. FitzPatrickNPP
+P.O. Box110
+Lycoming, NY13093
+Tel315-349-6024 Fax315-349-6480
+Timothy c. Peter
+PlantManager JAF
+—
+JAFP-l8-0033
+March 30, 2018
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: LER: 2017-004-01, Safety ReliefValves Out ofTolerance
+James A. FitzPatrick Nuclear Power Plant
+NRC Docket No. 50-333
+Renewed Facility Operating License No. DPR-59
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50.73(a)(2)(i)(B) and 10 CFR
+50.73(a)(2)(v)(D) as an “Operation or Condition Prohibited by Technical Specifications” and
+“Event or Condition that Could Have Prevented Fulfillment of a Safety Function,” respectively.
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+Sincerely,
+Plant Manager
+TCPJWD/ds
+Enclosure: LER: 2017-004-01, Safety ReliefValves Out of Tolerance
+cc: USNRC, Region I Administrator /
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM 366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 0313112020
+(04-2017) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+commentsregardingburdenestimatetothe FOIA, PrivacyandInformation Collechons Branch (T
+‘ LICENSEE EVENT REPORT (LER) 5 Inf F o 5 co 3) ll , ec U ts .S .R . es N o u u c r l c e e a @ r n R rc e . g g u o l v a , to a r n y dt C o o t m he m D is e s s io k n O , ff W ice a r s , h O in ff g i t c o e n o , fI D nf C orm 20 at 5 io 5 n 5- a 0 n 0 d 01, R o e r gu b l y atory e- A m f a f i a l ir t s o ,
+(SeePage2forrequirednumberofdigits/charactersforeach block) NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC 20503.Ifameans
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MB controlnumber,the
+(See NUREG-1022, R.3for.instructi.on and gui.danceforcompleti.ng thi.sform
+NRC may notconductorsponsor, and a person is notrequired to respond to. theinformation
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collechon.
+1. FACILITY NAME 2. DOCKETNUMBER 3. PAGE
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 4
+4. TITLE
+Safety ReliefValves Out of Tolerance
+5. EVENTDATE 6. LERNUMBER 7. REPORTDATE 8. OTHERFACILITIESINVOLVED
+SEQUENTIAL REV FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO N/A N/A
+FACILITYNAME DOCKETNUMBER
+11 21 2017 2017 - 004 - 01 03 30 2018 N/A N/A
+9. OPERATING MODE 11.THIS REPORTISSUBMITTED PURSUANTTO THE REQUIREMENTS OF 10 CFR§: (Checkallthatapply)
+El [] [] El
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+El El El El
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+[1 El [] []
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+.
+[] [] j] []
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+JO. POWERLEVEL El 20.2203(a)(2)(ii) El 50.36(c)(1)(ii)(A) El 50.73(a)(2)(v)(A) El 73.71(a)(4)
+El
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+jJ
+j 20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 [] 20.2203(a)(2)(v) [] 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) [J 73.77(a)(2)(i)
+El
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii)
+El
+50.73(a)(2)(i)(C) OTHER SpecifyinAbstractbeloworin NRCForm366A
+12. LICENSEE CONTACT FORTHIS LER
+LICENSEECONTACT TELEPHONENUMBER(IncludeAreaCode)
+Mr. William Drews, RegulatoryAssurance Manager 315-349-6562
+13. COMPLETEONE LINE FOREACH COMPONENTFAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TOEP1X CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+B SB RV T020 Y
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (Ifyes, complete 75. EXPECTEDSUBMISSIONDATE) NO
+DATE
+ABSTRACT (Limitto 7400spaces,i.e., approximately15single-spacedtypewrittenlines)
+The As-Found test results forthe eleven Safety/ReliefValve (S/RV) pilot assemblies removed and replaced during the
+2017 Refueling Outage at James A. FitzPatrick Nuclear Power Plant (JAF) identified ten (10) S/RV pilot assemblies that
+lifted outside of the allowable tolerance required by Technical Specification Surveillance Requirement 3.4.3.1. Nine (9)
+two-stage S/RV’s were found out oftolerance high, and one three-stage was found out oftolerance low. The ten S/RV
+pilot assemblies are assumed to have been inoperable at some point in the operating cycle that preceded the 2017
+Refueling Outage resulting in a condition reportable pursuantto 10 CFR 50.73(a)(2)(i)(B).
+The S/RV design features an electric actuation capability that provides a diversified means of opening the S/RV’s despite
+the out oftolerance condition. However, the electric lift function is considered a backup to the mechanical S/RV’s and is
+not credited in the accident analysis. Therefore, the TS inoperability ofthe ten (10) S/RV’s also resulted in a condition
+reportable pursuant to 10 CFR5O.73(a)(2)(v)(D).
+The cause ofthe two-stage failures has been identified as corrosion bonding; the cause ofthe three-stage failure is
+attributed to calibration and subsequent setpoint drift. The safety consequences associated with this event are considered
+low due to the electric actuation capability.
+NRCFORM366(06-2016)
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimatedburdenpetresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+..n-RE
+‘
+LICENSEE E1ENT REPORT (LER)
+lessonslearnedareincorporatedintothelicensing processandfedbacktoindustry. Sendcomments
+“g’ CONTINUATION SHEET regardingburdenestimatetothe FOIA, PrivacyandInformation Collections Branch (1-5 F53), U.S.
+., Nuclear Regulatory Commission, Washington, DC 20555-0001,. or by e-mail to
+‘‘
+c lnfocollects.Resourcenrc.gov,andtotheDeskOfficer,OfficeofInformationand RegulatoryAffairs,
+‘s” NEOB-10202, (3150-0104),OfficeofManagementand Budget,Washington, DC 20503. Ifa means
+‘‘
+usedtoimposeaninformationcollectiondoesnotdisplayacurrenfyvalid0MB controlnumber, the
+(See NUREG-1022, R.3forinstruction and gui.danceforcompletingthisform NRCmaynotconductorsponsor,andapersonisnotrequiredtorespondto, theinformationcollection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl0221r3/)
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 333 NUMBER NO.
+—
+2017 —004 —01
+NARRATIVE
+Background
+The ASME Boiler and Pressure Vessel Code requires the reactor pressure vessel be protected from
+overpressure during upset conditions by self-actuated safety valves. As part ofthe nuclear pressure relief
+system, the size and number of SIRVs are selected such that peak pressure in the Reactor Coolant Pressure
+Boundary (RCPB) will not exceed the ASME Code limits.
+The James A. FitzPatrick Nuclear Power Plant (JAF) used ten (10) two-stage and one (1) three-stage Target
+Rock Safety/ReliefValves (S/RV) [EIIS Identifier: SB] for emergency pressure relief during operating Cycle 22.
+These valves are located on the main steam lines between the reactor vessel,and the first isolation valve
+within the drywell. Each S/RV discharges steam through a discharge line to a point below the minimum water
+level in the suppression pool.
+The S/RVs can actuate by either oftwo modes: the safety mode or the relief mode. In safety mode (or spring
+mode of operation), the spring-loaded pilot valve opens when steam pressure at the valve inlet overcomes the
+spring force holding the pilot valve closed. Opening the pilot valve allows a pressure differential to develop
+across the main valve piston and opens the main valve. This satisfies the code requirement.
+Each S/RV can be opened manually in the relief mode from the control room by its associated two-position
+switch. If one ofthese switches is placed in the open position the logic output will energize the associated
+S/RV solenoid control valve directing the pneumatic supply to open the valve. Seven ofthe installed S/RV
+solenoid control valves can also be energized by the relay logic associated with the Automatic
+Depressurization System (ADS).
+During each refueling outage all eleven ofthe pilot assemblies are removed and replaced with vendor tested
+and certified components. The pilots that are removed are sent to a vendor facility for testing, refurbishment,
+and certification. The test results for pilot assemblies removed in 2017, during Refueling Outage 22, identified
+ten (10) S/RV pilot assemblies that were out of allowable tolerance. Nine (9) of the pilots (all two-stage) lifted
+at greater than the allowable setpoint range, and one (three-stage) lifted at less than the allowable setpoint
+range.
+In order to address the concerns with corrosion bonding, JAF will commence replacement of two-stage with
+three-stage Target Rock S/RVs in the next Refueling Outage (RO). Industry experience has shown that the
+three stage S/RVs are less susceptible to corrosion bonding. The design ofthe three-stage S/RVs produces a
+greater mechanical force on opening, resulting in a greater likelihood of overcoming any potential effects of
+corrosion bonding that might occur.
+Event Description
+As-Found testing was performed on all eleven main S/RV pilot assemblies removed in 2017, during R022.
+The testing was conducted by NWS Technologies. The TS setpoint for each S/RV is 1145 +1- 34.3. During the
+initial lift test, ten ofthe eleven pilot assemblies failed to open within the allowable range (1110.7 to 1179.3).
+Nine of the ten two-stage and the three-stage S/RV pilot failed high and low outside the allowable range,
+respectively. As-Found failed test results are tabulated below.
+Page 2 of 4
+NRCFORM366A(06-2016)
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO. 3150-0104 EXPIRES: 03131/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+LICENSEE EVENT REPORT (LER)
+,“ “., lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry. Sendcomments
+CONTINUATION SHEET regardingburdenestimatetothe FOIA, PrivacyandInformation Collections Branch (1-5 F53),U.S.
+‘‘‘ Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+/ lnfocoIlects.Resourcenrc.gov,andtotheDeskOfficer,OfficeofInformationand RegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementand Budget,Washington, DC 20503. Ifa means
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MB controlnumber, the
+(See NUREG-1022, R.3for.instructi.on and gui.danceforcompletingthisform NRCmaynotconductorsponsor,andapersonisnotrequiredtorespondto, theinformahoncollechon.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022Ir3I)
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 333 NUMBER NO.
+—
+2017 —004 —01
+Table 1 As-Found Test Results
+—
+In-service Pilot Serial First Test Acceptance Range
+Location Number
+(psig) (1110.7— 1179.3 psig)
+O2RV-71A 1088 1184 Unsat—High
+O2RV-71B 1080 1254 Unsat—High
+02RV71C(a) 51 1103 Unsat—Low
+O2RV-71E 1235 1245 Unsat—High
+O2RV-71F 1195 1183 Unsat—High
+O2RV-71G 1194 1202 Unsat—High
+O2RV-71H 1111 1228 Unsat—High
+O2RV-71J 1192 1242 Unsat—High
+O2RV-71K 1193 1239 Unsat—High
+O2RV-71L 1056 1214 Unsat-High
+(a)Three.Stage
+Cause
+JAF has extensive internal Operating Experience with the S/RVs failing higher than the allowable setpoint.
+Causal evaluations identified corrosion bonding as the cause for the upward setpoint drift on the two-stage
+S/RVs. The As-Found test results shown above in conjunction with the successful second lift of all two-stage
+valves support this conclusion. Corrosion bonding is a crevice corrosion phenomenon that occurs between
+highly polished metals in a wetted solution in close proximity to each other. This close proximity (usually a gap
+of between 0.1 and 100 iJm) creates a crevice-like condition between the two wetted surfaces setting up the
+conditions for crevice corrosion to occur. An oxygen rich environment is created by the accumulation of
+oxygen in the area ofthe pilot disc due to the breakdown ofwater into hydrogen and oxygen. Susceptible
+material in the tight geometry with exposure to oxygen and high temperatures are the conditions which cause
+corrosion bonding in JAF S/RVs. There is extensive industry experience with corrosion bonding in the Target
+Rock two-stage S/RVs pilot assemblies.
+As stated above, the three-stage S/RV pilot valve failed the As-Found testing low. Disassembly and testing
+was performed by NWS Technologies to determine cause. NWS concluded that the three-stage S/RV pilot
+was originally calibrated within the lower half of the acceptance range in the OEM specification. Calibration
+within the lower half of the acceptance range resulted in a greater setpoint drift, which ultimately resulted in the
+S/RV pilot being outside the allowable range.
+Page 3 of 4
+NRCFORM366A(06-2016)
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVED BY0MB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours, Reported
+RE LICENSEE EVENT REPORT (LER)
+“ “i., lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry. Sendcomments
+‘*, CONTINUATION SHEET regardingburdenestimatetothe FOIA, PrivacyandInformation Collections Branch (T-5 F53),U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocolIects.Resourcenrc.gov,andtotheDeskOfficer,OfficeofInformationand RegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementand Budget,Washington, DC 20503. Ifa means
+**
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MB controlnumber, the
+(See NUREG-1022, R.3for.instructi.on and guidanceforcompleting thisform NRCmaynotconductorsponsor,andapersonisnotrequiredtorespondto, theinformationcollection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 333 NUMBER NO.
+— 2017 —004 —01
+Similar Events
+Internal
+• JAF LER-15-002 “Safety ReliefValve Upward Setpoint Drift,” June 1, 2015
+• JAF LER-1 1-003 “Safety ReliefValve Setpoints Outside ofAllowable Tolerances,” August 8, 2011
+• JAF LER-09-005 “Safety ReliefValve Setpoints Outside ofAllowable Tolerances,” June 22, 2009
+• JAF LER-07-001 “Safety ReliefValve Setpoints Outside of Allowable Tolerances,” August 6, 2007
+External
+• Edwin I. Hatch Nuclear Plant, Unit 1: LER-16-004 “Safety Relief Valves As Found Settings Resulted in
+Not Meeting Tech Spec Surveillance Criteria,” May 26, 2016
+• Edwin I. Hatch Nuclear Plant, Unit 2: LER-08-004 “Safety Relief Valves Allowable Test Range
+Exceeded Due to Setpoint Drift,” August 12, 2008
+Corrective Actions
+Future Corrective Actions
+• Commence replacement of S/RVs with redesigned three-stage (R023)
+Previous Corrective Actions
+• Installed Stellite 21 discs in all eleven S/RV pilot assemblies during refurbishment at the vendor facility
+• Installed the S/RV Electric Lift System recommended by the Boiling Water Reactor Owner’s Group
+• Installed enhanced insulation on the S/RVs
+Safety Significance
+Nuclear Safety
+Actual Consequences
+There were no actual consequences to the general safety ofthe public, nuclear safety, industrial safety, or
+radiological safety associated with this event.
+Potential Consequences
+The potential consequences ofthis event are associated with the over-pressurization ofthe Reactor Coolant
+Pressure Boundary. The S/RVs provide overpressure protection forthe Reactor Coolant Pressure Boundary
+as required by the ASME Boiler and Pressure Vessel Code. Events similar to the one reported herein may be
+significant if design limits are challenged. The potential consequences of this event are considered low based
+on the operation and availability of the Electric Lift System.
+Radiological Safety
+There was no radiological safety impact associated with this event.
+Industrial Safety
+There was no industrial safety impact associated with this event.
+References
+• Issue Report No. 04077124, R22 SRV As-Found Testing Failures
+• Issue Report No. 04082823, R22 3-Stage SRV As-Found Testing Failure
+• JAF Technical Specifications
+Page 4 of4
+NRCFORM366A(06-2016)

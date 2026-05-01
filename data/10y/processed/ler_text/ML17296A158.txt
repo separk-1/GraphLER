@@ -1,0 +1,496 @@
+,.
+..· , .
+Exelon Generation®
+10 CFR 50.73
+NMP2L 2655
+October 4, 2017
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-410
+Subject: NMP2 Licensee Event Report 2017-001, Automatic Reactor Scram due to High
+Reactor Pressure
+In accordance with the reporting requirements contained in 10 CFR 50.73(a)(2)(iv)(A), please
+find enclosed NMP2 Licensee Event Report (LER) 2017-001, Automatic Reactor Scram due to
+High Reactor Pressure.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Dennis M. Moore, Site Regulatory Assurance Manager, at (315) 349-5219.
+r;Jly,
+·<~-
+lbert E. Kreider Jr.
+Plant Manager, Nine Mile Point Nuclear Station
+Exelon Generation Company, LLC
+REK/KJK
+Enclosure: NMP2 Licensee Event Report 2017-001, Automatic Reactor Scram due to High
+Reactor Pressure
+cc: NRC Regional Administrator, Region I
+NRC Resident Inspector
+NRC Project Manager
+f'
+Enclosure
+NM P2 Licensee Event Report 2017-001,
+Automatic Reactor Scram due to High Reactor Pressure
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+NRC FORM 366 U.S .. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+_;:r"'"''·-=-"·-c Reported lessons learned are incorporated into the licensing process and fed back to industry.
+' •
+\
+, · .
+.
+\
+;
+~ ]
+·.".
+· '
+.
+<-
+. .
+!
+.
+I
+.
+~
+.
+'
+.
+'/ ~ . ~ ~
+(Se
+L
+e P
+IC
+ag
+E
+e 2
+N
+fo
+S
+r re
+E
+qu
+E
+ire d
+E
+n
+V
+um
+E
+be
+N
+r o
+T
+f d i
+R
+gits
+E
+/c
+P
+ha
+O
+rac
+R
+ter
+T
+s f o
+(
+r
+L
+ea
+E
+ch
+R
+bl
+)
+o ck)
+S N
+R
+e
+e
+u n
+s
+c d
+o
+le
+u
+a c
+r
+r
+c
+o
+e
+m R
+@
+m e
+n
+g e
+r
+u n
+c
+l t
+.
+a s
+g
+t
+o
+o r
+v
+r e y
+,
+g a C
+a
+r
+n
+d o
+d
+i m n g m
+t o
+i b s u s
+t
+r i
+h
+o d
+e
+n e , n
+D
+W e
+e
+s
+s
+a t
+k
+i s m h a i
+O
+n t g e
+ff
+t
+i
+o
+c
+to n
+e
+,
+r ,
+t h D e
+O
+C
+f
+I
+f
+n
+ic
+2 f
+e
+o 0 r 5 m
+o
+5 a 5
+f
+t - io 0
+In
+0 n
+f
+0
+o
+1 S
+rm
+, e r
+a
+o v
+t
+i
+i
+r c
+o
+e
+n
+b s y
+a
+B
+n
+e r
+d
+a -m nc a
+R
+h il
+e g
+( t T
+u
+o -
+l a
+2
+t
+l
+o
+n F
+r
+fo
+y
+4 c 3 o )
+A
+, l
+f
+le
+f
+U
+a
+c
+i
+.
+r
+t S s
+s
+.
+,
+.
+NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currenijy valid OMB control number, the
+h!tQ:l/www.nrc.govlreading-rmldoc-collectionslnuregslstafflsr10221r3l) NRG may not conduct or spo.nsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Nine Mile Point Unit 2 05000410 1 OF 5
+4. TITLE
+Automatic Reactor Scram due to High Reactor Pressure
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR NIA NIA
+- - FACILITY NAME DOCKET NUMBER
+08 05 2017 2017 001 00 10 04 2017 NIA NIA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1l 20.2203(a)(4) so.13(a)(2l(iiil 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(il D 50.36(c)(1)(i)(A) r8] 50.73(a}(2)(iv)(A) D 50.73(a)(2)(x)
+D
+10. POWER LEVEL 20.2203(a)(2)(iil D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A)" D 13.11 (a)(4l
+D
+20.2203(a)(2)(iiil D so.36(c)(2l D 50.73(a)(2)(v)(B) D 13.11(a)(s)
+D D
+20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) 13.77(a)(1)
+084 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 13.11(a)(2)(il
+D
+20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 13.11(a)(2)(iil
+..
+D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRC Form 366A
+'··
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Dennis M. Moore, Site Regulatory Assurance Manager (315) 349-5219
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE I MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TO EPIX
+x TG CBD GE y N/A NIA N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+SUBMISSION
+DYES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8l NO DATE
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 5, 2017, at approximately 2235, the Nine Mile Point Unit 2 (NMP2) reactor scrammed on an automatic
+scram signal during performance of quarterly turbine stop valve surveillance testing. The automatic Reactor
+Protection System (RPS) actuation and reactor scram is reportable per 10 CFR 50.73(a)(2)(iv)(A). The definitive root
+cause of the equipment failure was not located but was bound to spurious actuation of load limit relays KL 186 and
+KL 187. The spurious action was caused by an intermittent ground and/or an induced voltage within the load limit
+circuit. This is a result of the non-fault tolerant original design of the Electro-hydraulic Control (EHC) system. The
+corrective action planned is replacement of the current single point vulnerable NMP2 Turbine EHC system with a
+fault tolerant Digital EHC system. Interim actions have also been developed to mitigate risk associated with testing of
+the current system until replacement can be accomplished during the 2018 refueling outage.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear.
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www. nrc. gov/readi nq-rm/doc-collections/nureqs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2017 - 001 00
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Prior to the event, Nine Mile Point Unit 2 (NMP2) was in Mode 1 and operating at 84% reactor
+power. Turbine controls troubleshooting and overspeed trip system repairs had been
+completed, followed by power ascension from 20% power to 84% power. The plant was
+stabilized at 84% power to support quarterly turbine valve testing.
+B. EVENT:
+On August 5, 2017, at approximately 2235, during performance of quarterly turbine valve
+testing, an automatic Reactor scram occurred. The RPS system actuation was due to high
+reactor pressure. The pressure increase occurred when the turbine control valves (TCV) began
+closing while stroking turbine stop valves (TSV) 1 and 2. All systems responded as expected to
+the reactor scram signal.
+Based on the turbine bypass valves (TBV) fast opening and TCVs ramping closed, a loss of
+control valve demand was determined to be the initiator of the event. The TSV limit switch
+circuit was tested for grounds or stuck limit switches after the scram but none could be found.
+Troubleshooting identified an erroneous control valve demand signal resulting in fast closure of
+the control valves and subsequent increase in reactor pressure. After instrumenting the load
+control circuit, an anomaly on the load limit amplifier card was identified. The card was replaced
+and sent out for failure analysis. To further protect against latent failures, a temporary
+modification to lift the leads on the stop valve load limit switches was implemented. Lifting the
+leads minimizes the risk of fast closure of the TCVs in the event of a stuck load limit switch
+during future turbine valve testing.
+The failure analysis of the load limit amplifier card determined the card was functioning properly
+and was not the cause of the event. This further supports that the spurious actuation of load
+limit relays KL 186 and KL 187 was caused by an intermittent ground and/or an induced voltage
+within the load limit circuit.
+Nine Mile Point Unit 1 (NMP1) was unaffected by the scram at NMP2.
+The event has been entered into the plant's corrective action program as IR 4039435.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO
+THE EVENT:
+No other systems, structures, or components contributed to this event.
+NRG FORM 366A (04-2017) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, · or by . e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer. Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collections/nureas/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2017 - 001 00
+NARRATIVE
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERAT OR
+ACTIONS:
+The dates, times, and major occurrences and operator actions for this event are as
+follows. All dates are 2017.
+August 5
+1500 Began power ascension from 20% after completion of turbine controls
+troubleshooting and overspeed trip repairs.
+2040 Power ascension placed on hold at 84% power and started TSV and TCV testing
+per N2-0SP-RPS-Q001.
+2235 During step 8.8.3, when testing the last set of TSVs, the TCVs started closing,
+the TBVs opened and the reactor scrammed on high reactor pressure. EOP-RPV
+was entered due to low reactor water level, as well as high reactor pressure. N2-
+SOP-101 C was entered due to the reactor scram. · '
+2323 Exited EOP-RPV and N2-SOP-101C.
+E. METHOD OF DISCOVERY:
+This event was self-revealing during the performance of the surveillance test when relays
+were heard actuating unexpectedly and a reactor scram occurred.
+F. SAFETY SYSTEM RESPONSES:
+All systems operated as expected. After the scram, there were no safety system actuations.
+II. CAUSE OF EVENT:
+The definitive root cause of the equipment failure was not located but was bound to spurious
+actuation of load limit relays KL 186 and KL 187. The spurious action was caused by an
+intermittent ground and/or an induced voltage within the load limit circuit. This is a result of the
+non-fault tolerant original design of the Electro-hydraulic Control (EHC) system.
+III. ANALYSIS OF THE EVENT:
+The automatic reactor scram is reportable under 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR
+50. 73(a)(2)(iv)(A). It is defined under paragraph 10 CFR 50. 73(a)(2)(iv)(A) as any event or
+condition that resulted in manual or automatic action of any of the systems listed in 10 CFR
+50. 73(a)(2)(iv)(B). The RPS system actuation, including reactor scram, is listed in 10 CFR
+50. 73(a)(2)(iv)(B).
+NRC FORM 366A (04-2017) Page _3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, .and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2017 - 001 00
+NARRATIVE
+The definitive root cause of the equipment failure was not located but was bound to spurious
+actuation of load limit relays KL 186 and KL 187. The spurious action was caused by an
+intermittent ground and/or an induced voltage within the load limit circuit. The relay actuation
+resulted in the TCVs closing, the TBVs opening and a reactor scram on high reactor pressure.
+All control rods fully inserted and there were no safety system actuations.
+Based on the above discussion, it is concluded that the safety significance of this event is
+low and the event did not pose a threat to the health and safety of the public or plant
+personnel.
+Troubleshooting identified an erroneous control valve demand signal resulting in fast
+closure of the TCVs and subsequent increase in reactor pressure. After instrumenting the
+load control circuit, an anomaly on the load limit amplifier card was identified. The load limit
+amplifier card was replaced. Failure analysis did not identify any anomalies with the card.
+To further protect against latent failures, leads have been lifted on the stop valve load limit
+switches to prevent fast closure of the TCVs in the event of a stuck load limit switch during
+future valve testing.
+This event does affect the NRC Regulatory Oversight Process Indicator for unplanned
+scrams per 7000 hours of critical operation.
+IV. CORRECTIVE ACTIONS:
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL
+STATUS:
+The load limit amplifier card was replaced.
+B. ACTION TAKEN OR PLANNED TO PREVENT RECURRENCE:
+To prevent recurrence, replacement of the current obsolete and single point vulnerable
+NMP2 Turbine EHC system with a fault tolerant Digital EHC system is scheduled for the
+next refueling outage.
+To further protect against latent failures, a temporary modification to lift the leads on the
+stop valve load limit switches was implemented. Lifting the leads minimizes the risk of
+fast closure of the control valves in the event of a stuck load limit switch during future
+turbine valve testing. Additionally, to minimize risk prior to replacement of the system,
+the testing method for TSVs is being revised prior to the next performance.
+NRG FORM 366A (04-2017) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does. not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www. nrc. qov/readi ng-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2017 - 001 00
+NARRATIVE
+V. ADDITIONAL INFORMATION:
+A. FAILED COMPONENTS:
+The definitive root cause of the equipment failure was not located but was bound to
+spurious actuation of load limit relays KL 186 and KL 187. The spurious action was
+caused by an intermittent ground and/or an induced voltage within the load limit circuit.
+The load limit amplifier card was replaced, but troubleshooting determined it was not
+the single cause of the event. Potentially stuck limit switches have been disabled.
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+None
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION
+IDENTIFIER AND SYSTEM NAME OF EACH COMPONENT OR SYSTEM REFERRED TO
+IN THIS LER:
+IEEE 803 'FUNCTION IEEE 805 SYSTEM
+COMPONENT IDENTIFIER IDENTIFICATION
+Electro Hydraulic Control System N/A TG
+Load Limit Amplifier Card CBD TG
+Load Limit Relay RLY TG
+Limit Switch 33 SB
+Turbine Stop Valve ISV SB
+Turbine Control Valve ISV SB
+Turbine Bypass Valve PCV SB
+Main Turbine TRB TA
+Reactor Protection System N/A SC
+D. SPECIAL COMMENTS:
+None
+NRC FORM 366A (04-2017) Page _s_ of _s_

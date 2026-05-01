@@ -1,0 +1,230 @@
+&I 1
+,,MP 7
+Exelon Generation®
+~
+10CFR 50.73
+CCN: 18-131
+December 21, 2018
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 3
+Renewed Facility Operating License No. DPR-56
+NRC Docket No. 50-278
+Subject: Licensee Event Report (LER) 3-18-002, Revision 1
+Enclosed is a revision to LER 3-18-002 to identify a second violation of Technical
+Specifications (TS) that occurred during a TS required plant shutdown. Revised sections
+are identified by revision bars in the right margin. In accordance with NEI 99-04, the
+regulatory commitment contained in this correspondence is to restore compliance with the
+regulations. The specific methods that have been planned to restore and maintain
+compliance are discussed in the LER. If you have any questions or require additional
+information, please do not hesitate to contact Matt Retzer at 717-456-4351.
+Sincerely,
+(Y)~17L
+Matthew J. Herr
+Plant Manager
+Peach Bottom Atomic Power Station
+MJH/dnc:1/IR 4175898
+Enclosure
+cc: US NRC, Administrator, Region I
+US NRG, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+D. Tancabel, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+,._._p.SRl10q'-f LICENSEE EVENT REPORT (LEA) Reported lessons learned are incorporated into the licensing process and fed back fo
+i:':,::>c; ..,.0 industry. Send comments regarding burden estimate to the Information Services Branch
+; .! : . (See Page 2 for required number of digits/characters for each block) ( ln T f - o 2 c o F l 4 le 3 c ) t , s U .R .S e . s N ou u r c c l e e @ ar n R r e c. g g u o la v, t o a ry n d C t o o m th m e i s D si e o s n k , W O a ff s ~ h e i r n , g O to f n fio , e D C of 2 In 0 f 5 o 5 rm 5- a 0 t 0 io 0 n 1 , a o n r d b R y e e g -m ula a t il o t r o y
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+-~ ,i (See NUREG-1022, R.3 for instruction and guidance for completing this form DC20503. If a means used to impose an information collection does not
+v~ s: htt12://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+Qlt***""·"' person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station Unit 3 05000278 1 OF 4
+4. Title
+Reactor Coolant System Pressure Boundary Leakage Resulting in Technical Specification Required Shutdown
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year , , Number No. Month Day Year 05000
+- - Facility Name Docket Number
+09 21 2018 2018 002 1 12 12 ·2018 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D - D IZJ, D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(dl 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+o·
+D D D
+20.22os(a)(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+1 O. Power Level 20.22os(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100% D 20.2203(a)(2)(v) ·IZJ 50.73(a)(2)(i)(A) IZI 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D IZI D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+·.t.jiti.>
+';' ,.A" .c ' ..... D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact !Telephone Number (Include Area Code)
+Matthew E. Retzer, Regulatory Assurance Manager 717-456-4351
+13. Complete One Line for each Component Failure Described in this Report
+"
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+I
+B BJ PSP NA Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D IZJ
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 9/21/18, the High Pressure Coolant Injection (HPCI) system was declared inoperable due to two
+inoperable differential. pressure indicating switches that are used for isolating HPCI in the event of a break in
+the HPCI turbine steam line. A containment entry was made and it was determined that the instruments were
+incapable of performing their design function due to a leak on a one-inch diameter pressure sensing line. The
+line is a reactor coolant system pressure boundary, resulting in a Technical Specification required shutdown
+in order to repair.
+-
+The cause was determined to be vibration-induced fretting of the instrument line by a support bracket. The
+section of the pipe with the leak was replaced.
+There were no actual safety consequences as a resultr'oftbis event.
+NRC FORM 366 (04-2018)
+NRC FORM .366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach'Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2018 - 002 1
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 3 was operating in Mode 1 at approximately 100% rated thermal power. There were no structures,
+systems or components out of service that contributed to this event.
+Description of Event
+On 9/20/18 at approximately 1930 hours, an Equipment Operator, during normal rounds, identified that
+differential pressure switches DPIS-3-23-076 and DPIS-3-23-077 [EIIS:PDS] for the High Pressure Coolant
+lrijectio_n (HPCI) system [EIIS:BJ] were reading lower than expected.
+Upon further review and investigation, it was determined that the switches would-not have been able to
+perform their Technical Specification (TS) 3.3.6.1 required function of isolating the HPCI steani line in the
+event of a break. The two switches were declared inoperable on 9/21 /18 at approximately 1755 hours and
+were inoperable for approximately 22-1/2 hours as a result of this event. Required actions of TS 3.3.6.1
+were performed, including isolation of HPC.1 steam line. As a result of the isolation, TS 3.5.1 Condition C
+was entered for HPCI being inoperable, which requires the system to be restored within 14 days.
+Further analysis of the low differential pressure indicated on the DPISs suggested a possible leak of the
+instrument line upstream of the DPISs. This was supported by a small increase in measured drywell
+leakage that was identified on 9/20/18. A reactor power reduction to 35% was initiated on 9/22/18 at 0200
+hours to support an entry into the drywell. The drywell inspection verified leakage of the 1-inch diamet.er
+instrument line (Schedule 80, Type 304 stainless steel), which is a reactor coolant system pressure
+boundary. TS 3.4.4 Condition C was entered at 0955 hours on 9/22/18, which requires the unit to be in
+Mode 3 in 12 hours and Mode 4 in 36 hours. A controlled shutdown was initiated and the unit entered Mode
+3 at 2029 hours on 9/22/18 and Mode 4 at 0701 hours on 9/23/18.
+The lea!< was located at a point where the instrument line was supported by a rectangular shaped bracket.
+Vibration had caused the bracket to wear the instrument line, eventually resulting in a through-wall steam
+leak. The section of pipe that contained the leak was replaced. Similar small-bore piping was inspected
+and repairs performed as necessary.
+Following repairs, a normal startup was commenced and Unit 3 entered Mode 1 at 1638 hours on 9/25/18.
+Analysis of Event
+This event is being reported in accordance with the following:
+• 1O CFR 50.73(a)(2)(i)(A) - the completion of any nuclear plant shutdown required by the plant's
+Technical Specifications. TS 3.4.4 Condition C;reqb.lires the unit to be in Mode 3 within 12 hours for
+any reactor coolant-system pressure boundary leakage. This TS action was entered on 9/22/18 at
+NRC FORM 366A (04-2018) Page _2_ of __£
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infom1ation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http:/fwww.nrc.gov/readinq-rm/doc-collections/nuregs/staf!/srl022/r3D sponsor, and a person is not required to respond to, the infom1ation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+20"18 - 002 "1
+NARRATIVE
+0955 hours when leakage was identified on an instrument line associated with monitoring HPCI
+steam line differential pressure. The instrument line is part of the RCS pressure boundary.
+• 1O CFR 50.73(a)(2)(i)(B) - any condition prohibited by plant Technical Specifications. Two
+conditions prohibited by TS existed:
+1) Differential pressure switches DPIS-3-23-076 and DPIS-3-23-077 were identified as reading low
+on 9/20/18 at approximately 1930 hours. Further analysis determined that they would not have
+been able to perform their safety function of isolating the HPCI turbine steam line in the event of
+a steam line break. TS 3.3.6.1 Condition B requires the isolation capability performed by these
+switches to be restored in one hour. If not restored. within one hour, Condition F requires the
+penetration flow path to be isolated within one hour (two hours after discovery). Because of the
+additional analysis performed to determine if they could perform their safety function, the
+required actions were not performed until 9/21/18 at approximately 1755 hours, which is
+approximately 22-1/2 hours after discovery.
+2) Differential pressure switches DPIS-3-23-076 and DPIS-3-23-077 were identified as reading low
+on 9/20/18 at approximately 1930 hours. This was not known to be due to pressure boundary
+leakage until 9/22/18 at 0955 hours, at which time TS 3.4.4 Condition C was entered. TS 3.4.4
+Condition C requires the unit to be in Mode 3 in 12 hours and Mode 4 in 36 hours for any
+pressure boundary leakage. The unit entered Mode 3 at 2029 hours on 9/22/18 and Mode 4 at
+0701 hours on 9/23/18. Because there is firm evidence that pressure boundary leakage existed
+prior to the time of discovery on 9/22/18, the TS required completion times were not met. Mode
+3 was entered approximately 49 hours and Mode 4 was entered approximately 59 hours from the
+time low readings were identified on the DPISs.
+• 1O CFR 50.73(a)(2)(ii)(A) - the condition of the plant, including its principal safety barriers, being
+seriously degraded. Leakage was identified on an instrument line associated with monitoring HPCI
+steam line differential pressure. The instrument line is part of the RCS pressure boundary, which is
+· one of the principal safety barriers.
+• 1O CFR 50.73(a)(2)(v)(D) - any condition that could have prevented the fulfillment of the safety
+function of a system needed to mitigate the consequences of an accident. HPCI is considered a
+single train system and was required by TS to be declared inoperable as a result of this event.
+Cause of the Event
+The one-inch diameter instrument line was aligned such that it was in contact with one side of a rectangular
+support. Vibration-induced wear (fretting) reduced the wall thickness of the pipe at the contact point until a
+steam leak developed. It could not be determined why the pipe was aligned such that it was in contact with
+the support bracket.
+Corrective Actions
+The section of pipe where the leak occurred was replaced. Inspections were performed on other small-bore
+piping in the drywell that are supported by the same st¥1~upport bracket and subject to vibration. One
+other location was identified where fretting was significant enough to proactively have the pipe replaced.
+NRC FORM 366A (04-2018) Page _3_ of _1__
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.· Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfoc_ollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station Unit 3 05000278
+2018 • 002 1
+NARRATIVE
+Piping with less significant fretting was identified at nine other locations. These wear areas were wrapped
+with a layer of stainless steel sheet metal to protect the line until permanent repairs can be completed if
+needed. Additional corrective actions are documented in the corrective action program.
+Previous Similar Occurrences
+No previous similar occurrences have been identified of RCS pressure boundary leakage due to fretting.
+Unit 3 LER 17-001 documents RCS pressure boundary leakage due to a weld failure in a one-inch diameter
+instrument line. Unit 3 LE~ 05-003 documents RCS pressure boundary leakage due to a weld failure in a
+one-inch diameter equalizing line in the Residual Heat Removal System.
+NRC FORM 366A (04-2018) Page _4_ of ...!...

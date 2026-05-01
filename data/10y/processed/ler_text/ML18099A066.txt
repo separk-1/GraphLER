@@ -1,0 +1,250 @@
+Clinton Power Station _.._.. ..·. 'y'
+Exelon Generation®
+8401 Power Road 7
+Clinton, IL 61727 ~
+U-604407 10 CFR 50.73
+April 5, 2018 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRG Docket No. 50-461
+Subject: Licensee Event Report 2017-007-02
+Enclosed is Licensee Event Report (LER) 2017-007-02: Manual Reactor Scram due to Loss of
+Feedwater Heating. This is the supplemental report to LER 2017-007-01 dated
+November 9, 2017. The updated information in the LER is denoted by revision bars located in
+the right-hand margin. This report is being submitted in accordance with the requirements of 1O
+CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~c__:r
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: License Event Report 2017-007-02
+cc:
+Regional Administrator- Region Ill
+NRG Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+r)>"i1R£Oi,<. lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+,t~ ~\ l . l LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+I Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+'+-,.,.,..,..._•of! (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+· htt[2://www.nrc.gov/reading-rm/doc-co1Jections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. TITLE
+Manual Reactor SCRAM due to Loss of Feedwater Heating
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE B. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH ·DAY YEAR 05000
+- - FACILITY NAME DOCKET NUMBER
+06 10 2017 2017 007 02 04 05 2018 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply) 11
+D D D D
+20.2201(b) 20.2203(al(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) i
+D 20.2201(d) D 20.2203(a)(3)(iil IZI 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B) I
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4l so.73(a)(2l(iiil 50.73(a)(2)(ix)(A)
+D D IZI D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.11 (al(4l
+D D D D
+20.2203(a)(2)(iiil 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+098 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(il
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iil
+/
+'\ . ' ,~ ,, .. . ·:).~:;;", D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Mr. Dale Shelton (217)-937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O O R E T P A IX B LE ; , _ ,, ; CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O O R E T P A IX B LE
+B SJ LA Moore y C
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D IZI SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 10, 2017, at 2256 CDT, Clinton Power Station (CPS) experienced a complete loss of the 'A' feedwater (FW)
+heater string. The operators received numerous FW trouble alarms on FW string 'A' and low pressure heater 1A /1 B
+bypass opened (1 CB004). The operators entered procedure CPS 4005.01, "Loss of FW Heating," which directs the
+operators to restore and maintain power at or below the original power level. The operators lowered core flow and
+inserted all CRAM rods, and then observed that FW temperature had dropped greater than 100°F. As directed by CPS
+4005.01, at 2306 hours the reactor mode switch was placed into the shutdown position and Procedure 4100.01,
+"Reactor Scram," was entered. All systems operated as expected following the scram. At 0100 EDT on June 11, 2017,
+Event Notification 52800 was made. The loss of FW heating transient was caused by a loss of power to Moore trip units
+caused by a shorted condition on the Moore trip unit associated with the Hi-Hi level in the 4A FW heater. The root cause
+is that the design of the FW heater level control trip circuitry was not adequate to prevent scrams due to an unevaluated
+single point vulnerability. Prior to startup, CPS modified the circuit card locations and thereby diversified the power
+supplies so that the trip units have less dependency on common fuses. Additional corrective actions include performing
+an engineering evaluation to determine if there are additional single component failures, operator errors, or events for
+the FW heating system that could result in a drop in FW temperature of greater than 100°F.
+NRG FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+httpJ/www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r30 collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Clinton Power Sta,tion, Unit 1 05000461
+2017 - 007 - 02
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Manual Reactor SCRAM due to Loss of Feedwater Heating
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 6/10/17 Event Time: 2256 CDT
+Mode: 1 Mode Name: Power Operation Reactor Power: 98 percent
+8. Description of Event
+On June 10, 2017, at 2256 CDT, Clinton Power Station (CPS) experienced a complete loss of the 'A'
+feedwater (FW) heater [HX] string. The operators received numerous FW trouble alarms on FW
+string 'A' and low pressure (LP) heater [HTR] 1A /1 B bypass valve (1 CB004) automatically opened.
+The operators entered procedure CPS 4005.01, "Loss of FW Heating," which directs the operators to
+restore and maintain reactor power at or below the original power level and within stability control and
+power/flow map limits by adjusting reactor recirculation flow, control rods, or CRAM array. The
+operators lowered core flow and inserted all CRAM rods. The operators observed that FW
+temperature had dropped by greater than 100°F. Procedure CPS 4005.01 directs the operators to
+place the reactor mode switch [JS] into the shutdown position and enter procedure CPS 4100.01,
+"Reactor Scram." With the unit at approximately 93 percent power, the operators placed the mode
+switch in shutdown at 2306 on June 10, 2017 and entered procedure CPS 4100.01.
+The components of the CPS power conversion system are designed to produce electrical power
+utilizing the steam generated by the reactor [RCT], condense that steam into water, and return the
+water to the reactor as heated feedwater. A portion of the main turbine [TRB] steam is extracted for
+FW heating. CPS has two trains of cascading FW heaters. Under normal, full power conditions, the
+extraction steam valves [V] to each of the FW heaters are open such that steam is condensed in the
+body of the heater. In addition, the normal heater drain valves are normally open and the emergency
+FW heater drain valves to the main condenser [COND] are closed. A high-high level in a FW heater
+will isolate the input sources to the heater (i.e., extraction steam valve(s) and the. upstream normal
+FW heater drain valve(s)), reducing the reactor FW temperature.
+A walkdown of panel [PL] 1 PA08J (Miscellaneous Sensors & Transducers Power Supply Cabinet),
+which houses Moore trip units for both the 'A' and 'B' FW heating strings, identified that there were
+no lights on rack CA-1 and the indicator for fuse [FU] FU-89 was open.
+NRC FORM 366A (04-2017) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 007 - 02
+NARRATIVE
+Troubleshooting using an ohmmeter found that high resistance in the circuit was eliminated after
+pulling Moore trip unit 1LYHD103A, which is the trip unit that provides automatic actions on a Hi-Hi
+level for FW heater 4A. This indicated that the loss of power to rack CA-1 was caused by fuse FU-
+89 opening in response to a shorted condition on the Moore trip unit 1LYHD103A. When fuse FU-
+89 opened, power was also lost to the Moore trip units for FW heaters 1A , 2A, 3A, SA, and 6A
+resulting in the loss of heating to the 'A' FW heater string.
+C. Cause of the Event
+The root cause of the manual reactor scram due to the loss of the 'A' feedwater heater string is that
+the design of the feedwater heater level control trip circuitry was not adequate to prevent scrams
+due to an unevaluated single point vulnerability. The first contributing cause is a technical error in
+an analysis that incorrectly determined that there was no single component failure that will cause a
+FW temperature drop greater than 100°F. The second contributing cause is that the designer did
+not adequately consider the potential for high heat conditions inside panel 1 PA08J due to lack of
+. adequate cooling; the high heat conditions in the panel have resulted in shortened life and reduced
+reliability of the Moore trip units.
+D. Safety Consequences
+The event which caused the unplanned reactor scram did not involve any personnel or nuclear
+safety consequences. It is reportable under the provisions of 1 O CFR 50.73(a)(2)(iv)(A) due to the
+manual actuation of the reactor protection system. This event is also reportable under
+1O CFR 50.73(a)(2)(ii)(B) as it is also considered an unanalyzed condition.
+An assessment of the safety consequences and implication of this event determined that the
+manual reactor scram ensured the plant remained in a safe and stable condition and no operating
+limits were exceeded.
+The design basis loss of feedwater heating transient for CPS is based on a maximum temperature
+transient of 100°F. Should this event occur at a lower reactor power level, the severity of the
+transient would be reduced commensurate with the reduction in FW heating.
+The purpose of the 100°F limit for the feedwater temperature reduction is'to ensure that, combined
+with a turbine trip and bypass failure, no fuel cladding damage or fuel rod perforations are expected
+to occur and the peak bottom vessel pressure remains well below the ASME Level B Service limit.
+The data from this loss of feedwater heating event was reviewed by the Exelon Nuclear Fuels
+Safety Analysis Group. Although the change in feedwater temperature exceeded the 100°F
+assumed in the loss of feedwater heating analysis, it was concluded that sufficient margin existed to
+safety limits.
+NRG FORM 366A (04-2017) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r30 collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 007 - 02
+NARRATIVE
+E. Corrective Actions
+Prior to startup, CPS modified the circuit card locations in the panel that contains the Heater Drain
+system Moore trip units and thereby diversified the power supplied so that the trip units have less
+dependency on common fuses. In addition, the blown fuse FU-89 was replaced. Additional
+corrective actions included installation of temporary cooling and temperature loggers in the Panel
+1P A08J to monitor for elevated temperature condition.
+Further actions include developing an engineering evaluation to determine if there are additional
+single component failures, operator errors, or events for the FW heating system that could result in
+a decrease in FW temperature of greater than 100°F. In addition, a permanent modification that
+eliminates the high heat conditions in the panel is being tracked by the corrective action program.
+F. Previous Similar Occurrences
+LER 88-025 - Loss of Feedwater Heating System Transient Outside Design Basis Due to Inadequate
+Communication Between the Architect Engineer and the Nuclear Steam Supply System Supplier.
+On July 28, 1988, CPS experienced a partial loss of FW heating. The FW temperature drop,
+excluding the change caused by a reduction in power, was greater than 102°F, but less than
+112°F. The design basis loss of FW heating transient for CPS is based on a maximum
+temperature transient of 100°F. The cause of the loss of FW heating was the inappropriate
+setting of the FW heater level controllers. The cause of exceeding the design basis is attributed
+to the failure of the FW heating system design to meet design requirements. This was caused by
+a lack of adequate communication between the Nuclear Steam Supply System (NSSS) supplier
+and the architect engineer regarding the NSSS design requirements for the FW heating system.
+Feedwater heating system design changes, including changes to the level trip setpoint for closing
+the extraction steam valves and replacing power supply fuses, were made to ensure that the
+design basis is met.
+G. Component Failure Data
+Failed card was determined to be a Moore Industries DCA alarm card.
+Model Number: DCA/4-20ma/DH1 L2/45dC/-AD-1 OOHB1 (PC)
+Serial Number: 2412651
+NRG FORM 366A (04-2017) Page _4_ of _4_

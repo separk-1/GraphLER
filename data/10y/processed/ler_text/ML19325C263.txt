@@ -1,0 +1,276 @@
+=~Exelon Generation®
+SVP-19-080 10 CFR 50.73
+November 21, 2019
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-29
+NRG Docket No. 50-254
+Subject: Licensee Event Report 254/2018-005-01 "Loss of Safety Bus and Automatic Actuation
+of a Safety System During Undervoltage Relay Surveillance"
+Enclosed is Licensee Event Report (LER) 254/2018-005-01, "Loss of Safety Bus and Automatic
+Actuation of a Safety System During Undervoltage Relay Surveillance", for Quad Cities Nuclear
+Power Station, Unit 1. Revision reflects the changes made in the investigation report.
+This report is submitted in accordance with 1O CFR 50. 73(a)(2)(iv)(A) for an event or condition that
+results in manual or automatic actuation of any of the systems listed in paragraph 10 CFR
+50.73(a)(2)(iv)(B). This report is submitted also in accordance with 10 CFR 50.73(a)(2)(v)(B) for an
+event or condition that could have prevented fulfillment of the safety function of structures or
+systems that are needed to remove residual heat.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Rachel Luebbe at
+R(309) e227s-28;13¥.
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRG Region Ill
+NRG Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estmated burden per response to comply with this mandatory collection request: 80 hours.
+...,.,< -'-f>~ AEGu<_,~ LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estmate to the lnfonnation Services Branch
+.. ~ 0 (See Page 2 for required number of digits/characters for each block) (T·2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+.~.. to lnfocollects.Rescurce@nrc.gov, and to the Desk Ott~er, Ott~e of lnfonnation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+\ # (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an '1fonnation collection does not
+'1-Q ,.*** .. ~o htt[1:flwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l} d p i e s r p s l o a n y i a s c n u o r t re re n q tl u y i r v e a d l i t d o O re M sp B o n c d o n t t o r , o l t h n e u i m nf b o e n r n , a th li e o n N c R o C lle c m ti a o y n . not conduct or sponsor. and a
+1. Facility Name 2. Docket Number 3. Page
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 5
+4. Title
+Loss of Safety Bus and Automatic Actuation of a Safety System During Undervoltage Relay Surveillance
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Number No. Month Day Year n/a 05000
+- - Facility Name Docket Number I
+10 24 2018 2018 005 01 12 20 2019 n/a 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a}(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2}(iii) 50.73(a)(2)(ix)(A)
+D D l2J D
+20.2203(a)(2)(i} 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50. 73( a)(2}(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36( c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a}(4)
+D D l2J D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2}(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2}(v)(C) 73.77(a}(1)
+100 D 20.2203(a)(2}(v} D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a}(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a}(2}(vii) 73.77(a}(2)(ii)
+D D
+50.73(a)(2)(i)(C} Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Richard Swart - Regulatory Assurance 309-227 -281 0
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+x EB 27 G080 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date I
+D '2J
+Yes (If yes, complete 15. Expected Submission Date) No n/a
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 10/24/18 at 0901 CDT, during performance of the "Functional Test of Unit 1 Second Level Undervoltage," a loss of Bus 13-1 and
+Bus 18 occurred. The 1/ 2 Emergency Diesel Generator (EOG) automatically started due to a valid actuation on loss of power to Bus
+13-1, but did not load due to surveillance test alignments. The loss of Bus 13-1 caused the loss Bus 18, resulting in a loss of logic
+power to both loops of Low Pressure Coolant Injection (LPCI). Additional equipment was also lost.
+This notification is being made in accordance with 10 CFR 50.73(a}(2)(iv)(A), "Any event or condition that results in manual or
+automatic actuation of any of the systems listed in paragraph (a}(2)(iv)(B)," because the 1/2 EOG auto started due to the loss of power
+condition. This notification is also being made in accordance with 10 CFR 50.73(a}(2)(v}(B), "Any event or condition that could have
+prevented fulfillment of the safetY function of structures or systems that are needed to remove residual heat," because both loops of
+LPCI were inoperable for a short time period.
+The most probable cause is concurrent direct current (DC) grounds resulting in actuation of relay logic to trip Bus 13-1 and start the
+1/2 EOG. Additional 01 R25 refuel outage troubleshooting was completed and did not reveal any additional causes.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+~.::,t;,'-Q-l\PEtt&('f,..O lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+a§ LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+,. CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+\; the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+,., *** ••
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2018 - 005 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Class 1 E 4.16 KV Bus 13-1 [EB] Undervoltage Protection [JE]
+Low Pressure Coolant Injection System [BO]
+Core Spray System [BM]
+Emergency Diesel Generator [EK]
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Loss of Safety Bus and Automatic Actuation of a Safety System During Undervoltage Relay Surveillance
+A. CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: October 24, 2018 Event Time: 0901 hours CDT
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+There were no structure, systems, or components out of service or inoperable that contributed to the event.
+B. DESCRIPTION OF EVENT
+On October 24, 2018, at 0901 hours CDT, during performance of a second level undervoltage surveillance,
+Class-1 E 4.16 KV Bus 13-1 [EB] tripped on an Undervoltage Protection [JE] inadvertent signal. The loss of the
+safety bus caused the 1/2 Emergency Diesel Generator (EDG)[EK] to start automatically, although it did not load to
+the bus due to surveillance testing alignments. The loss of Bus 13-1 also causes a loss Bus 18, which causes a
+loss of logic leading to a loss of both loops of RHR Low Pressure Coolant Injection (LPCI) function.
+The loss of Bus 13-1 also caused a loss of the 1A Core Spray (CS)[BM] pump and the 1A and 1 B Residual Heat
+Removal Pumps (RHR)[BO]. The 1/2 Diesel Generator Cooling Water Pump did not start due to the loss of Bus 18.
+The following inadvertent actuations also occurred: Reactor Building Ventilation [VA] system tripped and Standby
+Gas Treatment System [BH] auto started; 1A Reactor Protection System [JD] power swapped; a full Group Ill
+Reactor Water Clean Up [CE] isolation occurred.
+All other plant equipment responded as expected to this bus transient. Full power operation was maintained. The
+affected busses were restored at 0911 hours CTD on October 24, 2018. Additional equipment recovery continued
+into the following day.
+During the ten minutes where LPCI was unavailable, Unit 1 was in the following Technical Specification (TS) LCOs:
+3.5.1 Condition A for the A and B RHR Pumps
+NRC FORM 366A (04-2018) Page _2_ of _s_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/3112020
+(04-2018)
+Estimated burden per response to comply with this mandatory c<Jlection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+} LICENSEE EVENT REPORT (LER) regarding burden estimate to the lnfonnation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+~
+;; CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of lnfonnation and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+~")***•"""
+Management and Budget, Washington, DC 20503. If a means used to impose an infonnation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form ccJlection does not display a currently valid OMB contrcJ number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D sponsor, and a person is not required to respond to, the infonnation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2018 - 005 01
+NARRATIVE
+3.5.1 Condition B for the A and B Low Pressure Coolant Injection (LPCI) sub-systems and the A Core Spray sub
+system.
+3.5.1 Condition E for two LPCI sub-systems
+3.5.1 Condition K for A and B LPCI sub-systems and CS sub-system
+3.0.3 as directed by 3.5.1 Condition K
+3.5.3 Condition A for Reactor Core Isolation Cooling (RCIC) System due to Room Cooler
+3.8.1 Condition A for off-site line unavailable to Bus 13-1
+3.8.1 Condition D for off-site line and the 1/2 EDG unavailable
+3.8. 7 Condition A for Bus 13-1 and Bus 18
+Unit 1 also remained in TS LCO 3.8.1 (b) until the 1/2 EDG was restored.
+This event was reported under 10 CFR 50.72(b)(3)(iv), 'Event or Condition that results in valid actuation of any of the
+systems listed in paragraph (b)(3)(iv)(B),' because the 1/2 EDG auto started due to the loss of power condition, and
+10 CFR 50.72(b)(3)(v)(B), 'Event or Condition that Could Have Prevented Fulfillment of a Safety Function,' because
+both loops of LPCI were inoperable for a short time period.
+C. CAUSE OF EVENT
+The most probable cause of the event was a testing-induced ground on a surveillance related terminal in
+conjunction with a DC system ground that actuated two auxiliary relays associated with the undervoltage monitoring
+function.
+A short duration (approximately 1.5 seconds) U1 125 VDC Ground alarm on the positive battery rail was received
+roughly 23 seconds prior to the loss of Bus 13-1. The magnitude of the ground decreased below the alarm
+threshold, but did not fully dissipate for an hour after the alarm.
+The undervoltage surveillance already in progress had installed a jumper into a banana jack at a terminal point
+designated YG8, but the other end of the jumper had not yet been installed into a banana jack. A review of the
+sequence of events recorder indicates that only two of four parallel relays picked up momentarily, likely caused by
+the positive rail DC ground condition, and the YG8 jumper causing a momentary short to ground on the negative
+side of these relay coils. Relay 1X 3 pick up caused a Low Voltage alarm and initiated the trip of the feed breaker to
+Bus 13-1. Relay 1X 4 pick up caused a start signal to the 1/ 2 EDG. The two parallel relays, 1X 1 and 1 X2, did not
+appear to pick up based on the lack of equipment status changes related to these two relays.
+Troubleshooting following the event did not reveal any human performance issues nor any equipment issues. A
+subsequent re-performance ofthe test did not result in any unexpected equipment issues.
+Additional inspections and troubleshooting completed during refuel outage 01 R25 did not reveal any additional
+causes.
+D. SAFETY ANALYSIS
+System Design
+Bus 13-1 is the Division I 4KV AC supply to the Division 1 Emergency Core Cooling System (ECCS) loads on
+Unit 1. It can be fed by an EDG if the normal feed from the Reserve Auxiliary Transformer is lost. Bus 18 is a
+NRC FORM 366A (04-2018)
+Page _3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+I
+2018 - 005 01
+NARRATIVE
+480 V essential services (ESS) bus. Undervoltage protection is provided to protect equipment from sustained
+degraded voltage, and for the ECCS related busses, to start the applicable EOG.
+Safety Impact
+No Division II ECCS equipment was impacted by this event.
+Bus 13-1 was unavailable for approximately 10 minutes. No significant plant transients took place during this time
+period.
+The trip of Bus 13-1 took place during surveillance testing on the undervoltage trip circuit. The subsequent
+surveillance test was completed satisfactorily with additional circuits isolated to preclude inadvertent tripping of
+Bus 13-1. No further testing will be performed on this protective relaying circuit until the next refuel outage.
+The 1/2 EDG started, but did not load to the bus as a result of intentional test configurations. Following the
+surveillance, logic was returned to a normal configuration, and post maintenance testing was satisfactorily
+performed on the 1/2 EOG.
+DC system grounds are routinely monitored per station procedures.
+Based on this, no significant safety impact exists.
+Risk Insights
+A plant Probabilistic Risk Assessment (PRA) review was performed to evaluate Bus 13-1 and Bus 18 being de
+energized, and also evaluated the 1/2 EOG cooling water pump failure to start despite the EDG starting.
+While risk-significant functions were impacted, the condition lasted only a few minutes. A model reflecting plant
+conditions resulted in Core Damage Frequency and Large Early Release Frequency both well below the 1E -07
+threshold for significance.
+This is a Maintenance Rule Functional Failure.
+In conclusion, the overall safety significance and impact on risk of this event were minimal.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. Bus 13-1, Bus 18, and other equipment was recovered.
+2. The surveillance was re-performed with satisfactory results utilizing temporary revised procedural guidance to
+block trip signals to the bus by opening knife switches.
+Follow-up:
+1. Completed troubleshooting and verifications of Bus 13-1 Cubicle 2 during the refuel outage 01 R25. No
+additional causes were identified.
+2. Implement permanent procedure revisions to open knife switches prior to relay testing to preclude similar bus
+trips in the future.
+NRG FORM 366A (04-2018) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T -2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2018 - 005 01
+NARRATIVE
+F. PREVIOUS OCCURRENCES
+The station events database and LERs were reviewed for similar events at Quad Cities Nuclear Power Station in
+the last 10 years. One LEA, 265/2011-001-00, described a loss of the Unit 2 ESS Bus due to inadvertent contact
+with the bus feed breaker local trip pushbutton by a station employee during unrelated work in the areas. While
+both events resulted in the loss of an important bus, there is no apparent connection or unresolved vulnerabilities
+identified between the two events.
+G. COMPONENT FAILURE DATA
+No equipment failure has been identified. Information below is for the relays that were inadvertently actuated.
+Equipment: HFA Multicontact Auxiliary Relay
+Component Manufacturer: General Electric
+Component Model Number: HFA
+Component Part Number: 12HFA151A2F
+This event has been reported to ICES.
+NRC FORM 366A (04-2018) Page _5_ of _5_

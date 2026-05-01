@@ -1,0 +1,242 @@
+FENOC™
+Perry Nuclear Power Plant
+PO Box 97
+10 Center Road
+~
+Perry. Ohio 44081
+FirstEnergy Nuclear Operating Company
+David B. Hamilton 440-280-5382
+Vice President
+August 23, 2018
+L-18-192 1O CFR50.73(a)(2)(v)(D)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2018-002, "Failed Fuse Leads to Loss of
+Safety Function". There are no regulatory commitments contained in this submittal.
+If there are any questions or if additional information is required, please contact
+Mr. Nicola Conicella, Manager - Regulatory Compliance, at (440) 280-5415.
+Sincerely,
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2018-002
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region Ill Regional Administrator
+Enclosure
+L-18-192
+LER 2018-002
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+_,,e,..,,.ftlll'Ot,~; industry. Send comments regarding burden estimate to the lnfonmation Services Branch
+.... .o.. .. (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+; i to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and
+~ ..... ,,J I: (See NUREG-1022, R.3 for instruction and guidance for completing this form Regulatory Affairs, NEOB- 10202, (3150-0104), Office of Management and Budget
+~ ~ '> +O http://www. n re.gov/read i nq-rm/doc-collections/n u regs/staff/ sr1022/r3/ d W is a p s l h a i y n g a to c n u , rr e D n C tly 2 v 0 a 5 lid 03 0 . M If B a co n m tr e o a l n n s u m u b s e e r d , th to e im NR po C s e m a a y n n in o fo t n c m on at d io u n c t c o o r ll e s c p ti o o n n s o d r o , e a s n d n o a t
+person is not required to respond to, the infonmation collection.
+1. Facility Name 2. Docket Number 3.Page
+Perry Nuclear Power Plant 05000-440 1 OF 4
+4. Title:
+Failed Fuse Leads to Loss of Safety Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+07 01 2018 2018 - 002 - 00 08 23 2018
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.7 3(a)(2)(ii)(A) 50.7 3(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.7 3(a)(2)(ii)(B) 50.7 3(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50. 73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.7 3(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(v)(A) D 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.7 3(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.7 3(a)(2)(v)(C) 73. 77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.7 3(a)(2)(i)(A) ~ 50.7 3(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.7 3(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D 50.7 3(a)(2)(i)(C) ~ Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER I
+Licensee Contact Telephone Number (Include Area Code)
+Tony Kledzik- Regulatory Compliance 440-280-6188
+13. Complete One Line for Each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause I System I Component Manufacturer Reportable to ICES
+B EF FU X999 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On July 1, 2018, at 0100 hours, while the plant was at 100 percent rated thermal power, a portion of the Division 1 Emergency Core
+Cooling System (ECCS) Loss Of Coolant Accident (LOCA) initiation logic was declared inoperable due to the discovery of a failed
+fuse. The fuse was replaced and the Division 1 ECCS LOCA initiation logic was declared operable at 0230 hours on July 1, 2018.
+The failed fuse caused the loss of a portion of the Division 1 ECCS LOCA initiation logic, which would have prevented the initiation of
+the Emergency Closed Cooling (ECG) A system. This resulted in ECG A and its supported systems to be declared inoperable. Low
+Pressure Core Spray (LPCS) is one of those supported systems and is considered a single train safety system. lnoperability of LPCS
+is considered an event or condition that could have prevented the fulfillment of a safety function. The failed fuse also caused the loss
+of a portion of the initiation logic, which would have prevented the automatic isolation of the Nuclear Closed Cooling system and
+Instrument Air to containment. The loss of containment isolation capability is also considered an event or condition that could have
+prevented the fulfillment of a safety function.
+The cause of the Gould Shawmut TR30R fuse failure is due to a manufacturing defect. Immediate corrective actions replaced the
+failed fuse. The spare fuse inventory was inspected, and suspect fuses were removed. Inspections are planned for circuits that were
+identified that could have the suspect fuses. If a suspect fuse is found, it will be replaced.
+The safety significance is very small. This issue is being reported in accordance with 10 CFR 50. 73(a)(2)(v)(D) as a condition that
+could have prevented the fulfillment of a safety function. This LER satisfies the evaluation, notification, and reporting obligation to
+report defects under 10 CFR 21.2(c).
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www. n re.gov/reading-rm/doc-collections/nu regs/staff/ sr1 022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2018 002 00
+NARRATIVE
+Energy Industry Identification System (El IS) codes are identified in the text as [XX].
+INTRODUCTION
+On July 1, 2018, at 0100 hours, while the plant was at 100 percent rated thermal power, a portion of the
+Division 1 Emergency Core Cooling System (ECCS) Loss Of Coolant Accident (LOCA) initiation logic was
+declared inoperable due to the discovery of a failed fuse [FU]. The fuse was replaced and the Division 1
+ECCS LOCA initiation logic was declared operable at 0230 on July 1, 2018. The failed fuse caused the loss
+of a portion of the Division 1 ECCS LOCA initiation logic, which would have prevented the initiation of the
+Emergency Closed Cooling (ECC) A [CC] system. This resulted in ECC A and its supported systems to be
+declared inoperable. Low Pressure Core Spray (LPCS) [BM] is one of those supported systems and is
+considered a single train safety system. lnoperability of LPCS is considered an event or condition that could
+have prevented the fulfillment of a safety function. The failed fuse also caused the loss of a portion of the
+initiation logic which would have prevented the automatic isolation of Nuclear Closed Cooling [CC] and
+Instrument Air [LO] to containment. The loss of containment isolation capability is considered an event or
+condition that could have prevented the fulfillment of a safety function.
+EVENT DESCRIPTION
+On June 30, 2018, at 1613 hours the control room received an unexpected out of service alarm for the
+Residual Heat Removal (RHR) "A" system [BO] and the LPCS system. Initial walkdowns of the control room
+panels did not indicate any abnormalities associated with these systems. A troubleshooting plan was
+developed to further identify the cause of the concurrent alarms received in the control room.
+On July 1, 2018, at 0100 hours, while implementing the troubleshooting plan, the positive main line fuse was
+found to be failed in disconnect ED1A06-08. This disconnect serves multiple components associated with the
+ECCS LOCA initiation logic. The unit supervisor declared the affected portion of the ECCS LOCA logic
+inoperable and entered the following Technical Specification (TS) action statements:
+• TS 3.3.5.1 "ECCS Instrumentation", conditions A and B for the inability to automatically initiate the
+Division 1 Diesel Generator and Annulus Exhaust Gas Treatment train A
+• TS 3.7.1 "Emergency Service Water (ESW) System-Divisions 1 and 2", condition A for ESW A
+inoperability.
+• TS 3.8.1 "AC Sources-Operating", condition B for Division 1 Diesel Generator inoperability.
+• TS 3.3.6.3 "Suppression Pool Makeup (SPMU) System Instrumentation", conditions A and B for the
+inability to automatically initiate the SPMU A train.
+• TS 3.3.6.1 "Primary Containment and Drywell Isolation Instrumentation" conditions A and 8 for
+preventing the automatic isolation of Nuclear Closed Cooling system and Instrument Air to
+containment.
+NRC FORM 366A (04-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www. n re.g ov/read i nq-rm/doc-collections/n ur egs/staffl s r1 022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2018 002 00
+NARRATIVE
+• TS 3.3.7 .1 "Control Room Emergency Recirculation (CRER) System Instrumentation" conditions A
+and B for the inability to automatically initiate Division 1 CRER.
+• TS 3.7.10 "Emergency Closed Cooling Water (ECCW) System" condition A for the inability to
+automatically initiate the "A" train of ECC.
+• TS 3.5.1 "ECCS-Operating" conditions A and C for the inoperability of LPCS and RHR A
+• TS 3.5.3 "Reactor Core Isolation Cooling (RCIC) System" condition A for the inoperability of RCIC
+• TS 3.6.1. 7 "Residual Heat Removal (RHR) Containment Spray System" condition A for the
+inoperability of RHR A
+• TS 3.6.2.3 "Residual Heat Removal (RHR) Suppression Pool Cooling System" condition A for the
+inoperability of RHR A
+• TS 3.6.3.3 "Combustible Gas Mixing System" condition A for the inoperability of the "A" train of
+Combustible Gas Mixing.
+• TS 3.7.4 "Control Room Heating. Ventilating. and Air Conditioning (HVAC) System" condition A for
+the inoperability of the A train of Control Room HVAC.
+• TS 3.3.8.1 "Loss of Power (LOP) Instrumentation" condition A for the inoperability of Division 1 LOP
+instrumentation.
+On July 1, 2018, at 0230 hours, the fuse was replaced and the Division 1 ECCS LOCA initiation logic and
+associated systems were declared operable. On July 1, 2018, at 0824 hours, Event Notification #53481 was
+made to the Nuclear Regulatory Commission's Operations Center under 10 CFR 50.72(b)(3)(v)(D).
+CAUSE
+The removed Gould Shawmut TR30R fuse was quarantined and sent to a laboratory for failure analysis.
+Failure analysis concluded that the cause of the fuse failure was a manufacturing defect. There was no
+evidence that the fuse had ever been subjected to a current level that exceeded its current rating. The short
+circuit element had physically pulled away from the overload element, indicating that the fuse elements were
+under tension at the time of separation. This tension was likely placed on the fuse element during
+manufacturing when the two ferrules were crimped onto the fuse barrel. The crimping operation caused one
+of the ferrules to move outward from the fuse barrel.
+EVENT ANALYSIS
+A Probabilistic Risk Assessment (PRA) evaluation was performed. The assessment concluded that the June
+30, 2018, fuse failure resulted in a very small change to overall plant risk. The corresponding change in Core
+Damage Frequency (CDF) (delta CDF=1.0E-09/year) and corresponding change in Large Early Release
+Frequency (LERF) (delta LERF = 1.6E-10/year) are below the thresholds of 1.0E-06/year delta CDF and
+NRC FORM 366A (04-2018) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www. n re.g ov/reading-rm/doc-collections/nu regs/staff/ sr1022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2018 002 00
+NARRATIVE
+1.0E-07/year delta LERF as discussed in Regulatory Guide 1.174. Based on these results, the risk of this
+event is very small in accordance with the Regulatory Guide.
+CORRECTIVE ACTIONS:
+Immediate corrective actions replaced the failed fuse. The spare fuse inventory was inspected to remove the
+manufacturing lot of suspect fuses. Inspections are being performed for susceptible circuits that could have
+the suspect fuses. If a suspect fuse is found, it will be replaced.
+PREVIOUS SIMILAR EVENTS:
+On February 11, 2016, at approximately 1505 hours with the plant in mode 4, an indicated loss of power to
+the Division 1 4160 volt bus, EH 11, occurred. An invalid undervoltage signal tripped the bus supply breaker,
+and the bus loads shed, as expected. The Division 1 diesel generator (DG) started and loaded the EH11 bus.
+Subsequently the Division 1 DG was manually shutdown due to cooling water not being available. This de
+energized all Division 1 equipment, including the train supplying shutdown cooling at the time.
+A Ferraz Shawmut OT-15 fuse was found to exhibit intermittent continuity. Failure analysis and simple
+troubleshooting methods determined the cause of the loss of the Division 1 bus, EH11, was due to an invalid
+undervoltage signal caused by the failure of the fuse which supplies the undervoltage and degraded voltage
+protection circuitry. The failure analysis revealed that the fuse internals were not soldered correctly during the
+manufacturing process. One of the fuse elements to fuse ferrule connections had flux applied but no solder.
+A 10 CFR Part 21 report was filed by the supplier on March 22, 2016. This event was reported under
+50. 73(a)(2)(iv)(A) as an invalid actuation and 50. 73(a)(2)(i)(B) for an operation or condition prohibited by
+technical specifications.
+COMMITMENTS
+None
+NRC FORM 366A (04-2018) Page 4 of 4

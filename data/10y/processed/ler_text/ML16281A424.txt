@@ -1,0 +1,296 @@
+TennesseeValleyAuthority,SequoyahNuclearPlant, P.O. Box2000,SoddyDaisy,Tennessee37384
+October7, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report 50-327 and 50-328/2016-008-00, Closed Fire Damper
+Renders Both Trains ofthe Control Room EmergencyVentilation System
+Inoperable
+The enclosed licensee event report provides details concerning discovery of a closed fire
+protectiondamper associated with the Control RoomEmergency Ventilation System (CREVS)
+that resulted in both trains ofCREVS being declared inoperable. This report is being submitted
+inaccordance with 10 CFR 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited bythe plant's Technical Specifications and inaccordance with
+10CFR 50.73(a)(2)(v)(D), as an event orcondition that could have prevented the fulfillment of
+a safetyfunction ofstructures orsystems that are needed to mitigate the consequences ofan
+accident.
+There are no regulatorycommitments contained inthis letter. Should you have any questions
+concerning this submittal, please contact Michael McBrearty, Site LicensingManager, at
+>3)843-71
+Preston P. Pratt
+Plant Manager
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2016-008-00
+cc: NRC Regional Administrator- Region II
+NRC Senior Resident Inspector- Sequoyah Nuclear Plant
+printedonrecycledpaper
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER)
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. TITLE
+Closed Fire Damper Renders Both Trains of the Control Room Emergency Ventilation System Inoperable
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR Sequoyah Nuclear Plant Unit 2 05000328
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+08 10 2016 2016 - 008 - 00 10 07 2016 NA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Scott T Bowman 423-843-6910
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 10, 2016, at 1000 Eastern Daylight Time (EDT), the Maintenance Instrument Group (MIG)
+performed a surveillance instruction (SI) that resulted in a fire protection damper associated with the Control
+Room Emergency Ventilation System (CREVS) actuating to a closed position. On August 11, at 1015 EDT,
+the fire damper was discovered in the closed position. The closure of the fire protection damper resulted in
+both trains of CREVS being inoperable due to the loss of air circulation and habitability of the Technical
+Support Center and Relay Room. Both units entered Technical Specification Limiting Condition for
+Operation (LCO) 3.7.10, Conditions A and G. Condition G requires immediate entry into LCO 3.0.3. At 1159
+EDT, on August 11, actions were taken to open the fire damper and both trains of CREVS were declared
+operable. This allowed both units to exit LCO 3.0.3 and LCO 3.7.10, Conditions A and G.
+The cause of the event was determined to be inadequate breaker alignment instructions in the SI.
+Corrective actions include revising the SI to require the associated breaker to be open prior to performance
+of the SI.
+NRC FORM 366 (11-2015)
+Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 - 008 - 00
+NARRATIVE
+I. PLANT OPERATING CONDITIONS BEFORE THE EVENT
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 and Unit 2 were in Mode 1 at
+100 percent rated thermal power.
+II. DESCRIPTION OF EVENTS
+A. Event:
+On August 10, 2016, at 1000 Eastern Daylight Time (EDT),the Maintenance Instrument Group
+(MIG) began performing a surveillance instruction (SI) associated with a functional test of the fire
+detection system [EIIS: IC] and peripheral devices. During performance of the SI, MIG received
+the expected response from the test, which was an alarm [EIIS: ALM]. Multiple times during the
+test, MIG was instructed by the SI to acknowledge the alarm (by pressing the “send” key) and
+continue with testing. At some point during performance of the SI, a fire protection damper [EIIS:
+DMP] associated with the Control Room Emergency Ventilation System (CREVS) [EIIS: VI]
+received an actuation signal and actuated to a closed position. While closing, the damper
+actuator broke its associated fusible links, as designed. This was not an anticipated result of the
+SI, and therefore, went undiscovered.
+On August 11, 2016, at 1015 EDT, while performing a walkdown of the Relay Room, the fire
+protection damper was discovered in the closed position. The closure resulted in both trains of
+CREVS being inoperable due to the loss of air circulation and habitability of the Technical
+Support Center (TSC) and Relay Room. Both units entered Technical Specification (TS) Limiting
+Condition for Operation (LCO) 3.7.10, Conditions A and G. Condition G requires immediate
+entry into LCO 3.0.3. At 1159 EDT, on August 11, actions were taken to block open the fire
+damper and both trains of CREVS were declared operable. This allowed both units to exit
+LCO 3.0.3 and LCO 3.7.10, Conditions A and G.
+An 8-hour non-emergency event notification (EN 52172) was made to the NRC in accordance
+with 10 CFR 50.72(b)(3)(xiii), as any event that results in a major loss of emergency assessment
+capability, offsite response capability, or offsite communications capability, and
+10 CFR 50.72(b)(3)(v)(D), as an event or condition that could have prevented fulfillment of a
+safety function of structures or systems that are needed to mitigate the consequences of an
+accident. This LER documents the reportable event under 10 CFR 50.73(a)(2)(v)(D).
+Additionally, it was determined that both trains of CREVS were inoperable from August 10, 2016,
+at 1000 to August 11, 2016, at 1159. LCO 3.7.10, Condition G, Required Action G.1 requires
+immediate entry into LCO 3.0.3. LCO 3.0.3 requires the unit to be in MODE 3 within 7 hours and
+MODE 4 within 13 hours. Because both trains of CREVS were inoperable for approximately
+26 hours and remained in MODE 1, this is a condition prohibited by TS and is therefore being
+NRC FORM 366A (11-2015)
+Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 - 008 - 00
+NARRATIVE
+reported in accordance with 10 CFR 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant’s TS.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+C. Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+08/10/16, 1000 MIG began performance of an SI associated with a functional test of the
+fire detection system and peripheral devices. During performance of the
+SI, a fire protection damper associated with the CREVS received an
+actuation signal and actuated to a closed position.
+08/10/16, 1400 MIG completed the SI with all acceptance criteria satisfied.
+08/11/16, 1015 The fire protection damper was discovered in the closed position. The
+closure resulted in both trains of CREVS being inoperable due to the loss
+of air circulation and habitability of the Technical Support Center and
+Relay Room. Both units entered LCO 3.7.10, Conditions A and G and
+LCO 3.0.3.
+08/11/16, 1159 The fire protection damper was blocked open and secured in its required
+position to support the design safety function. This restored both CREVS
+trains to operable status. Both units exited LCO 3.7.10, Conditions A
+and G and LCO 3.0.3.
+D. Manufacturer and model number of each component that failed during the event:
+There was no component that failed during the event. While closing, the damper actuator broke
+its associated fusible links, as designed.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+While performing a walkdown of the Relay Room, the fire protection damper was discovered in
+the closed position.
+NRC FORM 366A (11-2015)
+Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 - 008 - 00
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component, if known:
+There was no component that failed during the event. While closing, the damper actuator
+broke its associated fusible links, as designed.
+H. Operator actions:
+Both trains of CREVS were declared inoperable due to the loss of air circulation and habitability
+of the TSC and Relay Room. Both units entered LCO 3.7.10, Conditions A and G and
+LCO 3.0.3.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual system responses associated with this event.
+III. CAUSE OF THE EVENT
+A. The cause of each component or system failure or personnel error, if known:
+There was no component or system failure associated with this event.
+The cause of the event was determined to be inadequate breaker alignment instructions in the
+SI. Had the associated breaker been open during the SI test, the fire protection damper would
+not have received an actuation signal and would not have closed.
+B. The cause(s) and circumstances for each human performance related root cause:
+There was no identified human performance related root cause.
+IV. ANALYSIS OF THE EVENT
+The CREVS provides a protected environment from which occupants can control the unit following an
+uncontrolled release of radioactivity, hazardous chemicals, or smoke. The CREVS consists of two
+independent, redundant trains that recirculate and filter the air in the control room envelope (CRE)
+and a CRE boundary that limits the inleakage of unfiltered air. Each CREVS train consists of a high
+efficiency particulate air (HEPA) filter, an activated charcoal adsorber section for removal of gaseous
+activity (principally iodines), and a fan. Ductwork, valves or dampers, doors, barriers, and
+instrumentation also form part of the system.
+The CREVS is an emergency system, parts of which may also operate during normal unit operations
+in the standby mode of operation. Actuation of the CREVS places the system in the emergency
+mode of operation. Actuation of the system to the emergency radiation state of the emergency mode
+of operation, closes the unfiltered outside air intake and unfiltered exhaust dampers, and aligns the
+system for recirculation of the air within the CRE through the redundant trains of HEPA filters and
+the charcoal adsorbers. The emergency radiation state also initiates pressurization and filtered
+ventilation of the air supply to the CRE.
+NRC FORM 366A (11-2015)
+Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 - 008 - 00
+NARRATIVE
+The closed fire protection damper resulted in the CREVS being unable to provide air circulation to the
+TSC and Relay Room (both rooms are located within the CRE). This could have prevented the TSC
+from being habitable had plant conditions required activation of the TSC. The event would not have
+challenged the habitability of the main control room (MCR).
+V. ASSESSMENT OF SAFETY CONSEQUENCES
+There were no actual safety consequences as a result of this event. Engineering judgment
+determined the event could have resulted in a slight increase in dose to the MCR operators;
+however, the dose would have remained below 10 CFR 100 limits.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+There were no components or systems that failed during the event.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+The elapsed time from discovery of both trains of CREVS being inoperable until both trains were
+restored to operable status was approximately 104 minutes.
+VI. CORRECTIVE ACTIONS
+This event was entered into the Tennessee Valley Authority Corrective Action Program under
+Condition Reports (CR) 1201905.
+A. Immediate Corrective Actions:
+Actions were taken to block the fire protection damper in the open position. Additionally to
+address the extent of condition, actions were taken to inspect other fire protection
+dampers.
+B. Corrective actions to reduce probability of similar events occurring in the future:
+Corrective actions include revising the SI to require the associated breaker to be open
+prior to performance of the SI.
+NRC FORM 366A (11-2015)
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 - 008 - 00
+NARRATIVE
+VII. ADDITIONAL INFORMATION
+A. Previous similar events at the same plant:
+A review of SQN LERs identified an event that resulted in both trains of CREVS being declared
+inoperable. LER 327/2016-003 reported a condition that could have prevented the fulfillment of
+a safety function of structures or systems that are needed to mitigate the consequences of an
+accident when both trains of CREVS were declared inoperable because of an inoperable Control
+Room Envelope. The cause of the event was the bottom screw in the door latch guard appears
+to have stripped loose and fallen into the rubber seal around the base of the MCR door frame
+preventing closure of the door. Additionally, LERs 327/2013-004, 327/2015-001, and
+328/2015-001 report events associated with procedures.
+B. Additional Information:
+None.
+C. Safety System Functional Failure Consideration:
+This condition resulted in a safety system functional failure.
+D. Scrams with Complications Consideration:
+There was no scram associated with this event.
+VIII. COMMITMENTS
+None.
+NRC FORM 366A (11-2015)

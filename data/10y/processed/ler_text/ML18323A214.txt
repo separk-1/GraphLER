@@ -1,0 +1,193 @@
+Enclosure 2 to
+NRC-18-0042
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2018-004
+Inoperability of Reactor Water Cleanup System Isolation Differential Flow-High Function
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) E R s e t p im or a te t d e l b e du ss r o d ns e pn l e e r a r r e n s e p ad o r n e s i t o n ec c o o m rp p o lyw r a it it h ne t h dt i o s t m h e a i n c d en a s t in o g rc yo p l r le o c c ti e or s e a nq sn u df e e s d 8t b 0h a o c u kto r s.
+*LICENSEE EVENT REPORT (LER) IndustrSye. ndco mmenrtesg ardinbgu rdene stimatteo the InformatioSne rviceBs ranch
+(T-2F 43)U, .S.N ucleaRre gulatoCryo mmissiWona,s hingtoDnC,2 0555-0001o, r by e-mail
+(See Page 2 for required number of digits/characters for each block) to infocollects.Resource@nrc.agnodv, t o the DeskO fficerO, fficeo f Informatioann d
+e° RegulatoArfyfa irsN, EOB-10202(3, 150-0104)O, fficeo f Managemensto d Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form WashingtonD,C 20503.t t a meansu sed to Imposea nI nformactoitolenct iodno esn ot
+http://www.nrc.gov/readina-rm/doc-collections/nuregs/staff/sr1022/r3/) displaay c errenvtlayl idO MBco ntronlu mbethr,e N RCm ayn oct onduocrst ponsaonrd,a
+persoInan otr equiedto r espontod, theI nformatiocno llection.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2 05000 341 1 OF 4
+4. Title
+Inoperability of Reactor Water Cleanup System Isolation Differential Flow-High Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Se N q u u m e b n e ti r a l R N e o v . Month Day Year F N ac /A ili ty Name Do 0 c 5 k 0 et 0 N 0 umber
+05 31 2018 2018 - 004 - 00 07 25 2018 FacityName
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+El
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) El 20.2203(a)(3)(ii) 50.73(a)(2)(i)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) El 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) E 50.36(c)(1)(1)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(li) [jJ50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(lii) i 50.36(c)(2) 50.73(a)(2)(v)(B) El 73.71(a)(5)
+Fl [/
+20.2203(a)(2)(Iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) E] 50.73(a)(2)(i)(A) / 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) El 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+El 50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. Complete One Line for each Component Failure Described in this Report
+Cause System component Manufacturer Reportable to ICES cause System component Manufacturer Reportable to ICES
+B CE CAP X999 Yes N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) / No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On May 31, 2018 at 1420 EDT, the Reactor Water Cleanup (RWCU) System Isolation Differential Flow -High function was
+declared inoperable as a result of the RWCU Differential Flow Indicator reading downscale. This condition would have prevented
+the primary containment isolation valves for the RWCU system from automatically isolating on a high differential flow signal. The
+cause of the downscale reading was due to a capacitor failure within the square root converter. Corrective actions were taken to
+replace the capacitor within the square root converter and return the RWCU System Isolation Differential Flow -High function to
+operable on June 1, 2018 at 0947 EDT. Additional corrective actions included verification of the shelf life of the current inventory
+of capacitors and a 10-year preventative maintenance activity to replace the capacitor due to the 10-year service life. The safety
+related function of the RWCU System is to provide primary containment isolation upon receipt of a primary containment isolation
+signal, or upon indication of a high-energy line break (HELB) in the RWCU System piping in response to the following signals:
+low reactor water level 2; high RWCU equipment temperatures; high RWCU pump room differential temperature; or high RWCU
+System differential flow. Due to the availability of other automatic RWCU isolation functions as well as the ability to manually
+isolate RWCU, the safety significance of this event is very low. There were no radiological releases associated with this event.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are Incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an Information
+(See NUREG-1022, R.3 for Instructton and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) sponsor, and a person isn ot required to respond to, the Information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMIB ER 1 NO.
+Fermi2 208- 004E 00
+341
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode -1
+Reactor Power - 100 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+On May 31, 2018 at 1420 EDT, the Reactor Water Cleanup (RWCU) [[CE]] System Isolation Differential Flow -High
+function was declared inoperable as a result of the RWCU Differential Flow Indicator [[Fl]] reading downscale; which
+would have prevented the primary containment isolation valves [[ISV]] for the RWCU system from automatically isolating
+on a high differential flow condition. At 1519, RWCU was shutdown and the affected penetration flow paths were isolated
+in accordance with station procedures as required by Fermi 2 Technical Specification 3.3.6.1. All other RWCU primary
+containment isolation instrumentation functions remained operable and the associated RWCU system primary
+containment isolation valves were capable of being remotely closed by the control room operators throughout the event.
+The high differential flow signal is initiated from transmitters that are connected to the RWCU pump outlet and RWCU
+system discharge to condenser and feedwater. The outputs of the transmitters are compared (in a common summer) and
+the resulting output is sent to two high flow trip systems. If the difference between the inlet and outlet flow is too large,
+each trip unit generates an isolation signal. Inoperability of the non-redundant circuitry causes the channels in both trip
+systems to be inoperable. The remainder of the circuit is redundant and can be considered on a per trip system basis. The
+square root converter [[CNV]] is within the non-redundant portion of this string.
+The RWCU system is non-safety; however, the isolation valves provide a safety function to provide primary containment
+isolation upon receipt of a primary containment isolation signal, or upon indication of a high-energy line break (HELB) in
+the RWCU system piping in response to the following signals; low reactor water level 2; high RWCU equipment
+temperatures; high RWCU pump room differential temperature; or high RWCU system differential flow. The differential
+flow isolation signal is designed to detect the leaks below the capacity of the reactor coolant makeup and within the cold
+leg portion (approx. 120F) of the system, which would not change ambient air conditions.
+A similar event had occurred previously on May 27, 2018 as described in LER 2018-003. Actions had been taken to
+replace a capacitor [[CAP]] within the square root converter. Troubleshooting during this event identified that the
+replacement capacitor had-failed. Following another replacement of the capacitor within the square root converter, the
+RWCU System Isolation Differential Flow -High function was declared operable on June 1, 2018 at 0947 EDT. Therefore,
+the non-redundant RWCU System Isolation Differential Flow -High function was inoperable for approximately 19.5 hours.
+Event Notification 53435 was made at 1620 on May 31, 2018 pursuant to 10CFR 50.72 (b)(3)(v)(C) and 10CFR 50.72 (b)
+(3)(v)(D). This report is being made pursuant to 10CFR50.73(a)(2)(v)(C) as a condition that could have prevented the
+fulfillment of a safety function needed to control the release of radioactive material and 10CFR50.73(a)(2)(v)(D) as a
+condition that could have prevented the fulfillment of a safety function needed to mitigate the consequences of an
+accident. The Updated Final Safety Analysis Report (UFSAR), the TS Bases, and NRC reporting requirements were
+reviewed as part of an evaluation regarding event reportability. Based on this review, it was determined that the RWCU
+Differential Flow leak detection function is credited to mitigate a break in the RWCU system piping accident as described
+in UFSAR Chapter 6.
+NRC FORM 366A (04-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY UMB: NO. 3160-0104 EXPIRES: 03312020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) tessons earned are tncorporated into the ticensing process and fed back*to tndustry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by s-malt to Infocollects,Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Management nd Bdget, Washington, DC2 0503. If a means used to impose a information
+collection does not display a currently valid OMB control number, theN RC may not conduct or
+http://www .nrc.ov/reading-rm/doc-collections/nurecis/staff/srl 022/r3/) sponsor, and ap erson isn ot required tor espond to, the Information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Ferml 2
+341 2018 - 004 - 00
+NARRATIVE
+Technical Specification 3.3.6.1, Primary Containment Isolation requires the RWCU Differential Flow-High to be operable in
+Modes 1, 2, and 3. The high differential flow signal is provided to detect a break in the RWCU System. This will detect
+leaks in the RWCU System when area or differential temperature would not provide detection (i.e., a cold leg break). This
+Function is not assumed in any UFSAR transient or accident analysis, since bounding analyses are performed for large
+breaks such as Main Steam Line Breaks. However, UFSAR Section 6.2.4.2.6, Leak Detection, states "For systems
+penetrating the primary containment, major leaks in the pipe are located by increased temperature, radiation, sump level,
+changes in pressure, differential pressure, process line flow, etc. These indications are monitored in the control room to
+alert the operator when remote manual valves should be closed. In addition, certain indications of leakage will cause
+automatic valves to close in response to a system accident."
+A review was performed for the time the RWCU differential flow high function was previously restored (May 28 at 0046)
+until this failure (May 31 at 1420). Based on the review it was determined that this function was operable until failure on
+May 31, 2018 at 1420.
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+Within the RWCU, system leakage is generally detected by high temperature sensing instrumentation which senses a leak
+before a line break by monitoring the temperature rise in the equipment compartment for a system. This is based upon
+having the leak within the hot portion of the system. However, temperature sensing does not detect leakage from the
+cold-water part of the RWCU System. In the Differential Flow Leak Detection System, leakage is detected by means of a
+flow comparison between RWCU system inlet and outlet. If the inlet flow exceeds outlet flow by approximately 55 gpm an
+alarm is actuated and the RWCU system is isolated automatically.
+The RWCU isolation function (low reactor water level) and all other RWCU isolation functions remained operable
+throughout this event. In addition, the associated RWCU system primary containment isolation valves were capable of
+being remotely closed by the control room operators throughout this event. Based on this discussion, the safety
+significance of this event is very low. There were no radiological releases associated with this event.
+CAUSE OF THE EVENT
+The cause of this event was due to a lost signal from a flow input due to a failed capacitor within the square root converter.
+This failure occurrence has been attributed to the replacement C5 capacitor that was taken from the spare parts inventory,
+and was beyond the usable shelf life causing failure after the square root converter was placed in-service.
+As described in LER 2018-003, the capacitor in the square root converter had been replaced on May 28, 2018 with one
+that was beyond its usable shelf life and functioned until May 31, 2018 when it was observed that flow indication had been
+lost.
+Upon further review of the May 31, 2018 event, it was identified that the square root converter had been replaced following
+the December 11, 2017 performance of a surveillance procedure where the RWCU Inlet Flow square root converter was
+found to be out of tolerance and could not be recalibrated.
+Cause: Capacitor
+System: G33 - Reactor Water Cleanup
+Component: G33K602
+Manufacturer: Generic Component
+NRC FORM 366A (04-2018) Page 3 Of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/312020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc,gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Management and Budget, Washington, DC 20503. If a means used to impose an information
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl 022/r3/ sponsor, and a person is not required tor espond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341 2 - 004 - 00
+NARRATIVE
+CORRECTIVE ACTIONS
+Immediate corrective actions were taken to replace the capacitor within the square root converter and return the RWCU
+System Isolation Differential Flow -High function to operable on June 1, 2018 at 0947 EDT. Before replacement, the
+replacement capacitor was verified to be within its usable shelf life to eliminate the potential for recurrence.
+In addition, the plant verified the shelf life of the current inventory of capacitors and a 10-year preventative maintenance
+activity to replace the capacitor due to the 10-year service life was developed following the May 31, 2018 event.
+PREVIOUS OCCURRENCES
+LER 2018-003 documented a similar failure on May 27, 2018 at 0630 EDT. As described above, the corrective actions
+taken in response to LER 2018-003 (i.e. to replace the capacitor) did not prevent this LER since the replacement capacitor
+was beyond its useful life.
+NRC FORM 366A (04-2018) Page 4 Of 4

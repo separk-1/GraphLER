@@ -1,0 +1,179 @@
+Edward Casulli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Edward.Casul1i@TalenEnergy.com
+November 3, 2025
+Attn: Document Control Desk 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387(388)/2025-002-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF-22 Docket No. 50-387
+PLA-8197 50-388
+Attached is Licensee Event Report (LER) 50-387(388)/2025-002-00. The LER reports an event
+involving a two concurrent, unrelated equipment issues that resulted in the loss of both sub-
+systems of the Control Room Emergency Outside Air Supply system for approximately 35
+minutes. This event was determined to be reportable in accordance with 10 CFR
+50.73(a)(2)(v)(C) as an Event or Condition That Could Have Prevented Fulfillment of a Safety
+Function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+E. Casulli
+Attachment: LER 50-387(388)/2025-002-00
+Copy: NRC Region I
+Mr. R. Wehrmann, NRC Senior Resident Inspector
+Mr. R. Guzman, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+Attachment to PLA-8197
+LER 50-387(388)/2025-002-00
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported lessons
+!'¥·""~-"'• •~;., learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+€ • . i LICENSEE EVENT REPORT (LER) estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+\,...,_; +.l {See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+........... at 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+.hllp://www na;.gov/reading-rm/doc-collections/nuregslstaff/sr1022/r3/) not required to respond lo, a collection of information unless the document requesting or requiring the collection
+displays a currently valid Ofv'B control number.
+1. Facility Name ~ 050 2. Docket Number 3. Page
+Susquehanna Steam Electric Station (SSES) Unit 1
+00387 1 OF 3
+□ 052
+4. Title
+Both Sub-Systems of the Control Room Emergency Outside Air Supply System Impacted by Concurrent, Unrelated Equipment
+Issues in the Control Structure Heating, Ventilation & Air Conditioning System
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year Facility Name ~ 050 Docket Number
+SSES Unit 2 00388
+09 04 2025 2025 - 002 - 00 11 03 2025 Facility Name Docket Number
+□ 052
+.. , .. . ...
+9. Operating Mode 110. Power Level
+1 095 I 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply}
+□ 20.2203(a)(2)(vi) □ 50. 73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50. 73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) □ 50.46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) □ 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) □ 50. 73(a)(2)(v)(B) □ 73. 77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50. 73(a)(2)(i)(A) 0 50. 73(a)(2)(v)(C) □ 73. 77(a)(2)(i) □ 73.1200(9)
+□ 20.2203(a)(2)(iv) □ 50.73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50. 73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or NRG 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Andrew Sabisch, Nuclear Regulatory Affairs Principal Engineer 570-542-1461
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X VI COMP E232 y
+..
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+0 No ID Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract {Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On September 4, 2025, while the "A" Control Structure Heating, Ventilation and Air Conditioning (HVAC)
+fan (0V103A) was out of service for planned, proactive belt replacement, the hydro motor for the "B'' Control
+Room Fan (0V117B) discharge damper failed resulting in the damper going closed. With both the 0V103A
+and 0V117B fans out of service, both subsystems of the Control Room Emergency Outside Air Supply
+(CREOAS) system were rendered inoperable. The 0V103A fan was expeditiously worked, tested, and
+returned to service thereby restoring one sub-system to operable status. The approximately 35-minute
+concurrent inoperability of both subsystems of CREOAS is being reported in accordance with 10 CFR
+50. 73(a)(2)(v)(C) as an event or condition that could have prevented fulfillment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+...
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory ccllection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonmation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRG may not conduct or sponsor, and a person is not required to
+respond to, a collection of infonmation unless the document requesting or requiring the collection
+http:l/www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid 0MB control number.
+,1. -FA-CIL-ITY- NA-ME- ----------, ~ 050 I 2. DOCKET NUMBER Ic Y:E:AR7 3 S . E L Q E U R E N N U T M IA B L E R REV
+NUMBER NO •
+Susquehanna Steam Electric Station Unit 1 00387 1-0
+□ 052 . 1~-1 °
+02
+NARRATIVE
+CONDITIONS PRIOR TO THE EVENT:
+Unit 1: Mode 1, approximately 95% Rated Thermal Power
+Unit 2: Mode 1, approximately 100% Rated Thermal Power
+There were no inoperable structures, systems, or components at the start of the issues that contributed to the event.
+EVENT DESCRIPTION
+On September 4, 2025, two concurrent, unrelated equipment issues associated with the Control Structure HVAC system
+[EIIS System Code: VI] resulted in both sub-systems of the Control Room Emergency Outside Air Supply (CREOAS)
+system being adversely impacted.
+The following is a timeline of the significant points associated with the event.
+September 4, 2025, at approximately 1341: The "A" Control Structure HVAC fan (0V103A) [EIIS Component Code: FAN]
+was proactively removed from service to facilitate replacement of the belts which had contributed to elevated vibration.
+September 4, 2025, at approximately 1515: Control room personnel noted a change in background noise which was
+subsequently determined to have been caused by the failure of the Control Structure Supply Fan 0V117B discharge
+damper hydro motor [EIIS Component Code: COMP] resulting in the damper [EIIS Component Code: DMP] closing.
+Reduced air flow through the control room dampers was also noted.
+September 4, 2025, at approximately 1550: Belt replacement on the 0V103A fan was completed. Following successful
+post maintenance testing, the 0V103A fan was returned to service resulting in restoration of the 'A' CREOAS subsystem.
+The duration of the concurrent inoperability of the 0V103A and 0V117B fans was approximately 35 minutes.
+September 5, 2025, at approximately 2111: the discharge damper hydro motor for the 0V1178 fan was replaced, tested
+and placed back in service resulting in restoration of the 'B' CREOAS subsystem.
+CAUSE OF THE EVENT
+Two separate and independent events occurred concurrently that impacted the CREOAS system.
+Vibration is routinely monitored on the 0V103A fan. Following vibration data collection on September 4, 2025, the station
+elected to proactively remove the 0V103A fan from service to replace the fan belts. In accordance with station procedures,
+the belt replacement was planned during a window where no conflicting work was being performed, or redundant
+equipment was out of service.
+While the 0V103A fan was out of service for the planned belt replacement, the 0V117B discharge damper hydro motor
+failed. There had been no indications of degraded performance with the 0V117B hydro motor prior to the failure.
+NRC FORM 366A (04-02-2024) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6 A1 O M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonmation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRG may not conduct or sponsor, and a person is not required to
+respond to, a collection of infonmation unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+displays a currently valid OM Bc ontrol number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+00 050 cY:E:A7R SEQUENTtAL REV
+I I NUMBER NO.
+Susquehanna Steam Electric Station Unit 1 00387 ~-I l-0
+□ 052
+002
+NARRATIVE
+CAUSE OF THE EVENT (cont.)
+As shown above, the causes of the inoperability of the 0V103A fan and the 0V1178 fan were unrelated and were not
+within operators' ability to foresee and prevent.
+ANALYSIS/ SAFETY SIGNIFIGANCE
+The event reported herein did not result in an actual loss of safety function. The control structure habitability envelope is
+serviced by multiple fan systems during normal operation. On an initiation signal, the 'B' CREOAS fan (0V101 B) and
+associated filter train would have automatically started and provided filtered outside air into the control structure
+habitability envelope. The 'B' CREOAS subsystem and control room floor cooling could have fulfilled the required safety
+function to maintain the control room habitability through its pressurization function for the timeframe of the work on the 'A'
+fan system. The 'A' control room fan system was functional and could have provided the pressurization and cooling
+function if required. Since there was no actual loss of safety function, this event will not be counted as a safety system
+functional failure under the NRC Reactor Oversight Process Performance Indicator. There were no actual consequences
+to the health and safety of the public as a result of this event.
+CORRECTIVE ACTIONS
+Key corrective actions taken in response to these issues included replacing the belts on the 0V103A fan, replacing the
+hydro motor on the 0V117B fan discharge damper and performing post-maintenance testing of both components to verify
+they were operating properly.
+COMPONENT FAILURE INFORMATION
+There was only one component failure associated with this LER which was the hydro motor for the 0V117B fan discharge
+damper.
+Component Identification - HDM07831 B
+Component Name - Control Structure Supply Air Fan 0V1178 Discharge Damper Hydro Motor
+Manufacturer/ Model - Emerson Electric Company/ Asco ITT NH95
+Part Number-NH95G2602F21-57
+PREVIOUS OCCURRENCES
+NONE
+NRC FORM 366A (04-02-2024) Page 3 of 3

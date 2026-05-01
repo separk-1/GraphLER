@@ -1,0 +1,291 @@
+TennesseeValleyAuthority,Sequoyah Nuclear Plant, P.O. Box 2000,SoddyDaisy, Tennessee37384
+October 3, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report 50-327 and 50-328/2016-007-00, Unanalyzed
+Condition Due to Emergency Gas Treatment System not Meeting Single
+Failure Criteria
+The enclosed licensee event report provides details concerning a design issue that was
+identified, which could have prevented the Emergency Gas Treatment System from
+performing itsrequired safety function. This report is being submitted inaccordance with
+10 CFR 50.73(a)(2)(i)(B), 10 CFR 50.73(a)(2)(ii)(B), and 10 CFR 50.73(a)(2)(v).
+There are no regulatory commitments contained inthis letter. Should you have any questions
+concerning this submittal, please contact Michael McBrearty, Site Licensing Manager, at
+843-7170.
+Preston P. Pratt
+Plant Manager
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2016-007-00
+cc: NRC Regional Administrator- Region II
+NRC Senior Resident Inspector- Sequoyah Nuclear Plant
+printedonrecycledpaper
+NRCFORM366 U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden perresponseto comply with thismandatory collection request 80 hours.
+Reported lessons learned areincorporated intothelicensing process andfedbacktoindustry.
+Sendcomments regarding burden estimatetotheFOIA, Privacy andInformation Collections
+W LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC20555-0001, orby
+internete-mailtolnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationand
+RegulatoryAffairs, NEOB-10202, (3150-0104), OfficeofManagementandBudget, Washington,
+DC20503.Ifameansusedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid
+OMB control number, theNRC maynotconductorsponsor, anda personisnotrequired to
+respondto,theinformationcollection.
+1.FACILITYNAME 2. DOCKETNUMBER 3. PAGE
+Sequoyah NuclearPlant Unit 1 05000327 1 OF 6
+4.TITLE
+Unanalyzed Condition Dueto Emergency GasTreatmentSystem Not Meeting Single Failure Criteria
+5. EVENTDATE 6. LERNUMBER 7. REPORTDATE 8.OTHERFACILITIES INVOLVED
+FACILITYNAME DOCKETNUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Sequoyah Nuclear Plant Unit 2 05000328
+FACILITYNAME DOCKETNUMBER
+08 02 2016 2016 - 007 - 00 10 03 2016 NA
+9.OPERATING MODE 11. THIS REPORTISSUBMITTED PURSUANTTO THE REQUIREMENTSOF 10 CFR§: (Checkall thatapply)
+• 20.2201(b) • 20.2203(a)(3)(i) • 50.73(a)(2)(H)(A) • 50.73(a)(2)(viii)(A)
+• 20.2201(d) • 20.2203(a)(3)(H) IEI 50.73(a)(2)(ii)(B) • 50.73(a)(2)(viii)(B)
+1
+• 20.2203(a)(1) • 20.2203(a)(4) • 50.73(a)(2)(iii) • 50.73(a)(2)(ix)(A)
+• 20.2203(a)(2)(i) • 50.36(c)(1)(i)(A) • 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x)
+10.POWERLEVEL • 20.2203(a)(2)(H) • 50.36(c)(1)(ii)(A) • 50.73(a)(2)(v)(A) • 73.71(a)(4)
+• 20.2203(a)(2)(iii) • 50.36(c)(2) • 50.73(a)(2)(v)(B) • 73.71(a)(5)
+• 20.2203(a)(2)(iv) • 50.46(a)(3)(H) El 50.73(a)(2)(v)(C) • 73.77(a)(1)
+100 • 20.2203(a)(2)(v) • 50.73(a)(2)(i)(A) E3 50.73(a)(2)(v)(D) • 73.77(a)(2)(i)
+• 20.2203(a)(2)(vi) [X] 50.73(a)(2)(i)(B) • 50.73(a)(2)(vii) • 73.77(a)(2)(H)
+• 50.73(a)(2)(i)(C) | | OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFORTHIS LER
+LICENSEECONTACT TELEPHONENUMBER (IncludeAreaCode)
+ScottT Bowman 423-843-6910
+13.COMPLETEONELINEFOREACHCOMPONENTFAILURE DESCRIBED INTHIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U RER REP T O O R E T P A IX BLE I CAUSE SYSTEM COMPONENT FA M C A T N U U RER RE T PO O R E T P A IX BLE
+I
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+• YES(Ifyes,complete 15. EXPECTEDSUBMISSIONDATE) ^ NO
+DATE
+ABSTRACT(Limitto1400spaces,i.e.,approximately15single-spacedtypewrittenlines)
+On August 2, 2016, during review ofthe Emergency Gas Treatment System (EGTS) circuits, Engineering
+discovered that the EGTS may automatically swapfrom the flow control path inA-Auto to the Standbyflow
+control path upon the start of a design basis event (DBE). The intended design ofthe EGTS swap-over
+circuitwas to detect an actual failure of the control path inA-Auto and swap to the Standby control path. The
+unnecessary automatic swap to Standby could preventthe EGTS train, configured inA-Auto, from
+performing its required safetyfunction during a DBE. On August 5, at 1658 eastern daylighttime (EDT), the
+condition was resolved when the automatic swap-overcircuit was disabled. On August 17, at 1722 EDT a
+past operability evaluation determined the configuration ofthe EGTS flow controllers constituted an
+unanalyzed condition that significantly degraded plant safety due to the EGTS not meeting single failure
+criteria. Engineering analysis determined that thefailure of both trains of EGTS controllers would not result
+inexceeding 10 CFR 100 limits. The cause ofthe event was that the EGTS control circuitry was not
+designed to accountfor situations that should have been anticipated. Corrective actions include
+implementing a permanent modification to disable the EGTS automatic swap-overfunction.
+NRCFORM366(11-2015)
+Page2 of6
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learnedare incorporated intothe licensing process and fed back to industry. Send
+commentsregardingburdenestimatetotheFOIA, Privacyand InformationCollectionsBranch(T-5
+F53), U.S. NuclearRegulatoryCommission, Washington, DC20555-0001,orbyinternete-mailto
+' LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington, DC20503.Ifameans
+CONTINUATION SHEET usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+NRCmaynotconductorsponsor,and a personis notrequiredto respondto,theinformation
+collection.
+1.FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah NuclearPlant Unit 1 05000327
+2016 - 007 00
+NARRATIVE
+I. PLANT OPERATING CONDITIONS BEFORE THE EVENT
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 and Unit 2 were in Mode 1 at
+100 percent rated thermal power.
+II. DESCRIPTION OF EVENTS
+A. Event:
+On August 2, 2016, during review of the Emergency Gas Treatment System (EGTS) [EMS: BH]
+circuits, Engineering discovered that the EGTS may automatically swap from the flow control
+path inA-Auto to the Standbyflow control path upon the start of a design basis event (DBE).
+The intended design of the EGTS swap-overcircuitwas to detect an actual failure of the control
+path inA-Auto and swap to the Standby control path. The unnecessary automatic swap to
+Standby could preventthe EGTS train, configured inA-Auto, from performing its required safety
+function during a DBE. On August 5, at 1658 eastern daylighttime (EDT), the condition was
+resolved when the automatic swap-over circuitwas disabled. On August 17, at 1722 EDT a past
+operability evaluation determined the configuration of the EGTS flow controllers constituted an
+unanalyzed condition that significantly degraded plant safety due to the EGTS not meeting single
+failure criteria. Engineering analysis determined that the failure of both trains of EGTS
+controllers would not result in exceeding 10 CFR 100 limits.
+An 8-hour non-emergency event notification (EN 52187) was made to the NRC in accordance
+with 10 CFR 50.72(b)(3)(ii)(B), as an unanalyzed condition that significantly degraded plant
+safety. This LER documents the reportable event under 10 CFR 50.73(a)(2)(ii)(B).
+Additionally, this event is reportable under 10 CFR 50.73(a)(2)(i)(B) as any operation orcondition
+which was prohibited by the plant's Technical Specifications (TS) when itwas determined that
+the Conditions and Required Actions of TS 3.6.10would not have been met because this
+condition has existed since initial plant startup. This event is also reportable under
+10 CFR 50.73(a)(2)(v) as an event or condition that could have prevented fulfillment of a safety
+function of structures orsystems that are needed to: (C) control the release of radioactive
+material and (D) mitigate the consequences of an accident.
+B. Status of structures, components, orsystems thatwere inoperable atthe start of the event
+and contributed to the event:
+No inoperable structures, components, orsystems contributed to this event.
+NRCFORM366A(11-2015)
+Page 3 of 6
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 007 00
+NARRATIVE
+C. Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+08/02/16 Engineering discovered that the EGTS may automatically swapfrom the
+flow control path inA-Auto to the Standbyflow control path upon the start
+ofa DBE.
+08/05/16,0723 Operations declared Btrain of the EGTS inoperable for both units based
+on completion of a prompt determination of operability. Both units entered
+Condition A of TS 3.6.10 with the time of entry declared to be
+August 2, 2016, at 1647.
+08/06/16, 0348 Btrain of the EGTS for Unit 2 was declared operable due to
+implementation of a temporary modification that disabled the swap-over
+logic. Concurrently, the Unit 2, Atrain EGTS dampers were declared
+non-functional. Atrain ofthe EGTS for Unit 2 was declared inoperable
+and Unit 2 entered Condition A ofTS 3.6.10.
+08/06/16, 0355 Btrain of the EGTS for Unit 1 was declared operable due to
+implementation of a temporary modification that disabled the swap-over
+logic. Concurrently, the Unit 1, A train EGTS dampers were declared
+non-functional. A train of the EGTS for Unit 1 was declared inoperable
+and Unit 1 entered Condition A ofTS 3.6.10.
+08/06/16,0408 Both trains ofthe EGTS were declared operablefor both units based on
+both units' A and Btrain EGTS controllers isolation dampers being placed
+inA-Auto with the swap-over logic disabled. Both units exited Condition A
+ofTS 3.6.10.
+08/17/16, 1722 A past operability evaluation determined the configuration of the EGTS
+flow controllers constituted an unanalyzed condition that significantly
+degraded plant safety due to the EGTS not meeting singlefailure criteria.
+08/17/16, 1746 An 8-hour non-emergency event notification (EN 52187) was made to the
+NRC in accordance with 10 CFR 50.72(b)(3)(ii)(B), as an unanalyzed
+condition that significantly degraded plant safety.
+D. Manufacturer and model numberofeach componentthatfailed during the event:
+There was no componentthatfailed during the event.
+E. Othersystems orsecondaryfunctions affected:
+There were no othersystems orsecondaryfunctions affected by this event.
+NRCFORM366A(11-2015)
+Page 4 of 6
+NRC FORM366A U.S. NUCLEAR REGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit 1 05000327
+2016 007 00
+NARRATIVE
+F. Method of discovery of each component orsystem failure or procedural error:
+Engineering was reviewing circuits associated with the EGTS and discovered the issue.
+G. Thefailure mode, mechanism, and effect of each failed component, ifknown:
+There was no component thatfailed during the event.
+H. Operatoractions:
+Following review and concurrence of a prompt determination of operability, the Btrain of EGTS
+was declared inoperable for both units and both units entered TS 3.6.10 Condition A.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual system responses associated with this event.
+III. CAUSE OF THE EVENT
+A. The cause of each component or system failure or personnel error, ifknown:
+There was no component orsystem failure associated with this event.
+The apparent cause was that the EGTS control circuitry was not designed to accountfor
+situations that should have been anticipated. The cause relates to the original design of the
+EGTS, and no current operational or programmaticweaknesses were identified.
+B. The cause(s) and circumstancesfor each human performance related root cause:
+There was no identified human performance related root cause.
+IV. ANALYSIS OF THE EVENT
+The design basesfor the EGTS are (1) to keep the air pressure within each Shield Building annulus
+belowatmospheric at all times inwhich the integrity of that particularcontainment is required, and (2)
+to reduce the concentration of radioactive nuclides in annulus airthat is released to the environs
+during a loss of coolant accident (LOCA) in either reactor unitto levels sufficiently low to keep the
+exclusion area boundary dose rate belowthe 10 CFR 100 guideline value.
+The EGTS circuit contains four pressure switches [EMS: PS] designed to cause an automaticswap
+over ifthe annulus pressure increases more positive than the pressure switch setpoint. These
+switches are inthe EGTS circuitto detect a suspected control function failure, and upon actuation,
+result inthe isolation of the A-Auto flow control path and automatically swap to the Standbyflow
+control path. With oneflow path inA-Auto, and EGTS swapping to a failed opposite train due to a
+DBE, neithertrain would be available for the event.
+NRC FORM366A(11-2015)
+Page 5 of 6
+NRC FORM366A U.S. NUCLEAR REGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit1 05000327
+2016 007 00
+NARRATIVE
+Engineering determined that there are three plausible scenarios inwhich the EGTS would not
+perform as designed during a DBEwhich could result inthe EGTS not fulfilling its required safety
+function. The three scenarios are a large or small break LOCA and a Phase A signal received while
+either unit's annulus is at atmospheric pressure. Foreach ofthe three scenarios, coincidentwith an
+assumed loss of one train of control air, the EGTS would swap to an isolated Standbyflow path,
+which would result in both of the EGTS fans not having an exhaust path. The EGTS would not be
+able to pulla vacuum inthe annulus, resulting inthe annulus pressure becoming positive. This could
+result in a continuous, unmonitored release to the environment.
+V. ASSESSMENT OF SAFETY CONSEQUENCES
+The SQN probabilistic risk assessment model does not consider EGTS in core damage and
+large early release frequencies. Engineering analysis determined that thefailure of both trains
+of EGTS controllers could have resulted in a more than minimal increase in dose associated
+with the currentdose analysis; howeverthe dose would have remained below 10 CFR 100
+limits.
+A. Availability of systems or components that could have performed the samefunction as the
+components and systems thatfailed during the event:
+There were no components orsystems thatfailed during the event.
+B. Forevents that occurred when the reactorwas shut down, availability ofsystems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occurwhen the reactorwas shutdown.
+C. Forfailure that rendered a train of a safety system inoperable, an estimate ofthe elapsed
+time from discovery of the failure until the train was returned to service:
+The Btrain ofthe EGTS for Unit 2 was inoperablefor approximately 83 hours. The Btrain ofthe
+EGTS for Unit 1 was inoperable for approximately 83.2 hours.
+VI. CORRECTIVE ACTIONS
+This eventwas entered into the Tennessee Valley Authority Corrective Action Program under
+Condition Reports (CR) 1198440 and 1200028.
+A. Immediate Corrective Actions:
+Engineering notified the appropriate individuals and Operations requested a prompt
+determination of operability evaluation. The condition was resolved when the automatic
+swap-overcircuit was disabled.
+NRCFORM366A(11-2015)
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah Nuclear Plant Unit1 05000327
+2016 007 00
+NARRATIVE
+B. Corrective actions to reduce probability of similarevents occurring inthe future:
+Corrective actions include implementing a permanent modification to disable the EGTS
+automatic swap-overfunction.
+VII. ADDITIONAL INFORMATION
+A. Previous similarevents at the same plant:
+A review of SQN LERs identified an eventwith a similar cause. LER 327/2013-003 reported a
+condition prohibited by technical specifications associated with the Emergency Core Cooling
+System. The cause of the event was the conduit penetrations for the residual heat removal
+containment sump isolation valve were not designed to accountfor groundwater infiltration
+through the plant concrete structures resulting in leakage into the conduit and subsequently the
+limit switch compartment.
+B. Additional Information:
+None.
+C. Safety System Functional Failure Consideration:
+This condition resulted in a safety system functional failure.
+D. Scramswith Complications Consideration:
+There was no scram associated with this event.
+VIM. COMMITMENTS
+None.
+NRCFORM366A(11-2015)

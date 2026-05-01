@@ -1,0 +1,365 @@
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604466 10 CFR 50.73
+SRRS 5A.108
+January 17, 20.19
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2017-010-02
+Enclosed is Licensee Event Report (LER) 2017-010-02: Division 1 Transformer Failure Leads to
+Instrument Air Isolation to Containment Requiring a Manual Reactor Scram. This is a supplemental
+report to LER 2017-010-01 submitted to the NRC on August 3, 2018. The updated information in the
+LER is denoted by revision bars located in the right-hand margin. This report is being submitted in
+accordance with the requirements of 1O CFR 50. 73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+kp/lam
+Attachment: License Event Report 2017-010-02
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+. { . / /~ ., ,c...P" •Eo11~, ' , l p. " . . (See P L a I g C e 2 E fo N r r S eq E ui E red E nu V m E be N r o T f d i R git E s/c P ha O ra R cte T rs ( fo L r E ea R ch ) b lock) i R ( n T d e -2 p u o s F t r r t 4 y e 3 . d ) , S l U e e s n .S s d o . n c N s o u m c le l m e a a e rn r n e t R s d e g r a e u r g l e a a t r o d in r i y n c g o C rp o b o m u r r a m d t e e is n d s io e in n s t , t o im W t a h a t e s e h i t l n i o c g e t t o n h n s e , in D g In C f p o r r 2 m o 0 c 5 a e 5 t s io 5 s n - 0 a 0 S n 0 e d 1 r . v f i o c e r e d s b y b B a e r c a - k m n c a t h o il
+t. ~;.
+- ....... I
+0
+" (See NUREG-1022, R.3 for instruction and guidance for completing this form
+t
+W R
+o
+e a g s
+ln
+u h
+f
+la i
+o
+n t
+c
+g o
+o
+t r o y
+lle
+n
+c
+, A
+ts
+D f
+.
+f
+R
+C ai
+e
+r 2 s
+s
+, 0
+o
+5
+u
+0
+r
+N
+c
+3 E
+e
+.
+@
+OB I
+n
+f -
+r
+1
+c
+a 0
+.g
+2 m
+o
+0
+v
+2 e
+,
+, a n
+a
+s (
+n
+3
+d
+1 u 5 s
+t
+0 e
+o
+- d 0 1
+t
+t
+h
+0 o
+e
+4 ) i , m
+D
+p
+e
+O o
+s
+s f
+k
+f e ic e
+O
+a
+f
+n
+fi
+o
+ce
+f in
+r
+f
+,
+o M rm
+O
+an
+f
+a
+fi
+a t
+c
+io g
+e
+n e m
+o
+c e
+f
+o n ll t
+I
+e
+n
+c
+fo
+t a io
+r
+n
+m
+n d
+a
+d
+ti
+o
+o
+B e
+n
+u s d g
+a
+n e
+n
+o t
+d
+, t
+'(,,s..~ ,.o"' htt1;1://www .nrc.gov/reading-rrn/doc-collections/n uregs/staff/sr1 022/r30 display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. Title
+Division 1 Transformer Failure Leads to Instrument Air Isolation to Containment Requiring a Manual Reactor Scram
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 05000
+- - Facility Name Docket Number
+12 09 2017 2017 010 02 01 18 19 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D
+20.2201(d) 20.2203(a)(3)(ii) ~ 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4J 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(i) 50.36( c) ( 1) (i)(A) ~ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+1o . Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D
+20.2203(a)(2)(iv) 5o.46(a)(3)(iiJ ~ 50.73(a)(2)(v)(C) 73.77(a)(1)
+097 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D tJ
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+Li;:\··· :1~::: •.r ,.; • ,: · .. ;d • ; ·· Y ·· .'-'·· . t.:iJ D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+·-·~
+Cause System Component Manufacturer Reportable to ICES , . Cause System Component Manufacturer Reportable to ICES
+X ED XFMR G184 y {,,,
+:.
+~
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e.! approximately 14 single-spaced typewritten lines)
+On December 9, 2017 at 1347 CDT the Main Control Room received annunciators that indicated a trip of a 4160V 1A 1 Breaker
+(1AP07EJ), 480V transformer 1A and A1 feed breaker. The loss of Division 1 480V power caused the Instrument Air (IA) containment
+isolation valves to fail close as designed. The loss of IA affected various containment loads, including the scram pilot air header and .
+containment isolation valves. Another consequence of this event was that secondary containment (SC) vacuum was not maintained
+within Technical Specification (TS) limits due to Fuel Building ventilation dampers failing closed by design due to the loss of power.
+In addition, this event resulted in the inoperability of the Low Pressure Core Spray System (a single train safety system) and
+inoperability of primary containment due to primary to secondary containment differential pressure being outside TS limits.
+Operations entered Emergency Operating Procedure (EOP) -08, Secondary Containment Control. Division 2 Standl:)y Gas Treatment
+System was activated at 1350 and restored SC vacuum within allowable TS values at 1351 and the EOP was exited. Due to the loss
+of IA, a manual reactor scram was inserted at 1353 when two control rods began drifting in as expected. A phase to ground fault was
+identified on 480V transformer 1A (1AP11 E). On December 14, 2017, the 480V transformer was replaced and the plant returned to
+Mode 1 operations on December 15, 2017. The condition described in this report was determined to be reportable under 10
+CFR50.73(a)(2)(iv)(A), 10 CFR 50.73(a)(2)(v)(C), 10 CFR 50.73 (a)(2)(ii)(B) and 10 CFR 50.73 (a)(2)(v)(D). Based on analyses
+performed at vendor test facilities following the event, the cause of the transformer failure was determined to be excessive layer to
+layer design stress within the 4160V winding. The identification of a pre-existing design defect during the cause analysis also
+resulted in the issuance a 10 CFR Part 21 notification to the NRG. This event is classified as an unplanned scram with complications
+due to the loss of Div. 1 480 power.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 • 010 02
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Division 1 Transformer Failure Leads to Instrument Air Isolation to Containment Requiring a Manual Reactor
+Scram
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: 12/09/17 Event Time: 1347
+Mode: 1 Mode Name: Power Operation Reactor Power: 97 percent
+B. Description of Event
+At 1347 CDT on December 9, 2017, the Main Control Room received annunciators that indicated a
+trip of the 4160V [EB] 1A 1 breaker [BKR] 1A P07EJ and the loss of 480V unit substations 1A and A 1.
+Numerous Division 1 components lost 480V power (powered from unit substations 1A and A 1) including
+the scram pilot air header isolation valves and the reactor water cleanup system. The Division 1
+containment Instrument Air isolation valves had failed closed by design due to the loss of power. Due to
+the loss of containment instrument air, several control rods began to drift into the core as expected and,
+by procedure, a manual reactor scram was performed at 1353.
+Due to the loss of power, the Fuel Building ventilation dampers failed closed by design. With the
+normal ventilation system secured, secondary containment vacuum rose t~ slightly greater O inches
+water gauge which exceeded the Technical Specification (TS) Surveillance Requirement (SR) 3.6.4.1.1
+limit of greater than or equal to 0.25 inches vacuum water gauge at 1348. The Control Room entered
+Emergency Operating Procedure-a, Secondary Containment Control. Another consequence of this
+event was that primary containment to secondary containment differential pressure exceeded the limits
+of TS 3.6.1.4, "Primary Containment Pressure." In addition, the Low Pressure Core Spray System (a
+single train safety system) was declared inoperable due to the loss of power and TS Limiting Condition
+for Operation (LCO) 3.5.1, "EGGS-Operating," Action A.1 was entered. Secondary Containment
+vacuum was restored within TS requirements at 1351 by starting the Division 2 Standby Gas Treatment
+System (SGTS).
+Inspection of 480V transformer 1A (1AP11 E) found an area on the upper end of the B phase coil
+that was consistent with a phase to ground fault.
+On December 14, 2017, the transformer was replaced and the plant returned to Mode 1 operations on
+December 15, 2017.
+NRG FORM 366A (04-2018) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 010 - 02
+NARRATIVE
+This event is reportable under 1O CFR 50.73(a)(2)(iv)(A) as a manual actuation of the Reactor Protection
+System (RPS), 1O CFR 50.73(a){2)(v)(C) as a condition that could have prevented the fulfillment of a
+safety function needed to control the release of radioactive material, 1 O CFR 50.73(a)(2)(v)(D) as a
+condition that could have prevented the fulfillment of a safety function needed to mitigate the
+consequences of an accident and 1O CFR 50.73 (a)(2)(ii)(B) as an event that resulted in the plant being
+in an unanalyzed condition that significantly degraded plant safety.
+The event described in this report is considered an unplanned scram with complications due to the
+loss of the Division 1 480V power.
+C. Cause of the Event
+Based on analyses performed at vendor test facilities following the event, the cause of the transformer
+failure was determined to be excessive layer to layer design stress within the 4160V winding of a Gould
+Brown Boveri (GBB) dry type 4160/480V safety related transformer. This pre-existing design defect .,_
+resulted in the issuance of a 1O CFR Part 21 notification to the NRG.
+D. Safety Consequences
+The trip of 4160V circuit breaker 1A P07EJ and the failure of the 480V transformer 1A P11 E placed the
+station in a potential scram condition due to loss of Instrument Air to the containment and the scram pilot
+air header. Manual operator actions were taken to shut down the reactor prior to an automatic scram
+and place the plant in a safe and stable condition. The loss of Division 1 480V power caused the Fuel ·
+Building Ventilation System to isolate resulting in secondary containment vacuum to rise greater than O
+inches water gauge and primary containment differential pressure to exceed the initial conditions
+assumed in the accident analysis, resulting in the plant being in an unanalyzed condition. Operators
+placed the Division 2·SGTS in service to restore secondary containment vacuum. Once the plant
+reached Mode 4, Cold Shutdown, the containment airlock was defeated to restore primary containment
+differential pressure to within limits. All Division 2 and Division 3 Emergency Core Cooling Systems
+remained operable and available throughout this event for accident mitigation if required. No plant
+safety limits were exceeded and no Emergency Core Cooling System actuations occurred.
+NRG FORM 366A (04-2018) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 010 - 02
+NARRATIVE
+E. Corrective Actions
+On December 14, 2017, the faulted transformer was replaced and the plant returned to Mode 1
+operations on December 15, 2017. Safety and non-safety related Gould Brown Boveri (GBB) 4160V
+dry type transformers which could lead to the plant entering a forced shutdown condition or having high
+operational impact were replaced in the following refueling outage C1R18. Transformers were replaced
+with an improved design transformer which does not have layer to layer design stress in excess of the
+current insulation manufacturer's recommendations.
+F. Previous Similar Occurrences
+LER 2013-008-01 Failure of Division 1 Transformer Leads to Isolation of Instrument Air Supply to
+Containment, Lowering Scram Pilot Air Header Pressure, and Manual Reactor
+Scram
+On December 8, 2013 at 2026 hours with the plant in Mode 1 at 97.3 percent reactor power, operators
+received multiple alarms due to the trip of 4160V 1A 1 breaker 1A P07EJ which resulted in a loss of
+power to Division 1 480V unit substations 1A and A 1. Operators were immediately dispatched and
+found a 4160/480V stepdown transformer A 1 (OAP05E) failed. Many Division I components lost power.
+The loss of power caused an Instrument Air containment isolation. The loss of Instrument Air affected
+various containment loads, including the scram pilot air header, the main steam isolation valves and the
+reactor water cleanup system. At 2036 hours, the scram pilot air header low pressure alarm was
+received and in response to an anticipated automatic reactor scram, operators immediately initiated a
+manual reactor scram'. All control rods fully inserted into the core.
+The cause of the transformer failure was a turn to turn failure of the high side windings due to
+insulation breakdown over time, prior to its expected end of life. An installed spare was connected
+to replace the failed Division 1 transformer.
+G. Component Failure Data
+Component Description: I-T-E Dry Type Transformer; 4160V/480V; 750KVA,
+Manufacturer: GOULD-BROWN-BOVERI
+NRG FORM 366A (04-2018) Page _4_ of _4_

@@ -1,0 +1,516 @@
+10 CFR 50.73 
+NMP2L2896 
+January 10, 2025 
+ 
+ 
+U. S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, DC 20555-0001 
+ 
+ 
+Nine Mile Point Nuclear Station, Unit 2 
+Renewed Facility Operating License No. NPF-69 
+Docket No. 50-410 
+ 
+Subject:  
+Supplement to NMP2 Licensee Event Report 2024-002, Automatic Reactor 
+Scram on Turbine Trip due to Failed Breaker  
+ 
+In accordance with the reporting requirements contained in 10 CFR 50.73(a)(2)(iv)(A), please 
+find enclosed NMP2 Licensee Event Report (LER) 2024-002, Automatic Reactor Scram on 
+Turbine Trip due to Failed Breaker. 
+ 
+There are no regulatory commitments contained in this letter. 
+ 
+Should you have any questions regarding the information in this submittal, please contact  
+Matt Rossi, Site Regulatory Assurance Manager, at (315) 349-7012. 
+ 
+Respectfully, 
+ 
+ 
+ 
+ 
+ 
+ 
+Carl J. Crawford 
+Plant Manager, Nine Mile Point Nuclear Station 
+ 
+CJC/MLR 
+ 
+ 
+ 
+Enclosure:  
+NMP2 Licensee Event Report 2024-002, Automatic Reactor Scram on Turbine 
+Trip due to Failed Breaker  
+ 
+cc: 
+NRC Regional Administrator, Region I 
+ 
+NRC Resident Inspector 
+ 
+NRC Project Manager  
+  
+ 
+ 
+Crawford, Carl
+Digitally signed by Crawford, Carl 
+Date: 2025.01.09 07:29:55 -05'00'
+
+ 
+ 
+Enclosure 
+ 
+NMP2 Licensee Event Report 2024-002,  
+Automatic Reactor Scram on Turbine Trip due to Failed Breaker 
+Nine Mile Point Nuclear Station, Unit 2 
+ 
+Renewed Facility Operating License No. NPF-69 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NRC FORM 366
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block)
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported lessons 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer 
+at:  OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory 
+Commission, 725 17th Street NW, Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is 
+not required to respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+1.  Facility Name
+052 
+050
+2.  Docket Number
+3.  Page
+1 OF
+4.  Title
+5.  Event Date
+Month
+Day
+Year
+6.  LER Number
+Year
+-
+Sequential 
+Number
+-
+Revision 
+No.
+7.  Report Date
+Month
+Day
+Year
+8.  Other Facilities Involved
+Facility Name
+Facility Name
+Docket Number
+Docket Number
+9.  Operating Mode
+10.  Power Level
+050
+052
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply)
+10 CFR Part 20
+20.2201(b)
+20.2201(d)
+20.2203(a)(1)
+20.2203(a)(2)(i)
+20.2203(a)(2)(ii)
+20.2203(a)(2)(iii)
+20.2203(a)(2)(iv)
+20.2203(a)(2)(v)
+20.2203(a)(2)(vi)
+20.2203(a)(3)(i)
+20.2203(a)(3)(ii)
+20.2203(a)(4)
+10 CFR Part 21
+21.2(c)
+10 CFR Part 50
+50.36(c)(1)(i)(A)
+50.36(c)(1)(ii)(A)
+50.36(c)(2)
+50.46(a)(3)(ii)
+50.69(g)
+50.73(a)(2)(i)(A)
+50.73(a)(2)(i)(B)
+50.73(a)(2)(i)(C)
+50.73(a)(2)(ii)(A)
+50.73(a)(2)(ii)(B)
+50.73(a)(2)(iii)
+50.73(a)(2)(iv)(A)
+50.73(a)(2)(v)(A)
+50.73(a)(2)(v)(B)
+50.73(a)(2)(v)(C)
+50.73(a)(2)(v)(D)
+50.73(a)(2)(vii)
+50.73(a)(2)(viii)(A)
+50.73(a)(2)(viii)(B)
+50.73(a)(2)(ix)(A)
+50.73(a)(2)(x)
+10 CFR Part 73
+73.77(a)(1)
+73.77(a)(2)(i)
+73.77(a)(2)(ii)
+73.1200(a)
+73.1200(b)
+73.1200(c)
+73.1200(d)
+73.1200(e)
+73.1200(f)
+73.1200(g)
+73.1200(h)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact
+Phone Number (Include area code)
+13. Complete One Line for each Component Failure Described in this Report
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+14.  Supplemental Report Expected
+Yes (If yes, complete 15.  Expected Submission Date)  
+No 
+15.  Expected Submission Date
+Month
+Day
+Year
+16.  Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+Nine Mile Point Unit 2
+■
+410
+4
+Supplement to LER 2024-002-00, Automatic Reactor Scram on Turbine Trip due to failed breaker
+09
+23
+2024
+2024
+002
+01
+01
+09
+2025
+Mode 1, Power Operation
+100%
+✔
+Matt Rossi, Site Regulatory Assurance Manager
+(315)-349-7012
+X
+TL
+BKR
+G080
+Yes
+X
+TL
+BD
+GE
+Yes
+✔
+  
+On 9/23/2024 failure of the Main Generator Field Circuit Breaker (41M-2EXSX01) [EXC] lead to a Generator Field 
+Loss of Excitation [TL]. This resulted in a Main Generator Lockout which caused a Turbine Trip [TA] and automatic 
+anticipatory RPS actuation [JC] at 07:20. High resistance across Main Generator Field Circuit Breaker 
+(41M-2EXSX01) caused a large voltage drop across the breaker main contacts. The Auto Voltage Regulator (AVR) 
+[90] control system responded to the lower excitation through the feedback and increased output to compensate. The 
+increased output resulted in increased voltage drop, heat at the contacts, a subsequent fire, and Loss of Field 
+Excitation. The resulting Turbine Trip and Turbine Stop and Control Valve closure caused an automatic anticipatory 
+RPS actuation.  
+  
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A). 
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1.  FACILITY NAME
+2.  DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+I.    DESCRIPTION OF EVENT: 
+ 
+A. PRE-EVENT PLANT CONDITIONS: 
+ 
+Prior to the event, NMP2 was in Mode 1 operating at 100% power. 
+ 
+B. EVENT: 
+ 
+On 9/23/2024 failure of the Main Generator Field Circuit Breaker (41M-2EXSX01) [EXC] lead to a Generator Field Loss of 
+Excitation [TL]. This resulted in a Main Generator Lockout which caused a Turbine Trip [TA] and automatic anticipatory 
+RPS actuation [JC] at 07:20. High resistance across Main Generator Field Circuit Breaker (41M-2EXSX01) caused a large 
+voltage drop across the breaker main contacts. The Auto Voltage Regulator (AVR) [90] control system responded to the 
+lower excitation through the feedback and increased output to compensate. The increased output resulted in increased 
+voltage drop, heat at the contacts, a subsequent fire, and Loss of Field Excitation. The resulting Turbine Trip and Turbine 
+Stop and Control Valve closure caused an automatic anticipatory RPS actuation. 
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A). 
+ 
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO THE EVENT: 
+ 
+None. 
+ 
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES: 
+ 
+September 23, 2024: 
+ 
+07:20: All Condensate Booster pumps, the ‘A’ Feedwater pump, and the ‘C’ Feedwater (FWS) Pump, tripped. In addition, 
+the A and B recirc pumps tripped from fast speed. This is all indicating that a slow transfer occurred. It was verified that 
+generator output breaker R925 and R230 auto opened as expected due to the generator lockout relay 86-1-2SPGZ01 
+actuating (Reference EE-001B and N2-OP-68). Reactor water level decreased below Level 2 (L2, 108.8") reaching 98.5” 
+due to the trip of the ‘A’ and ‘C’ Feedwater pumps. This resulted in multiple Primary Containment Isolation System (PCIS) 
+isolations. Groups 2, 3, 6, 7, 8, and 9 isolated as expected per N2-OP-83. The L2 actuations also caused Reactor Core 
+Isolation Cooling (RCIC), High Pressure Core Spray (HPCS) and Division 3 diesel generator to auto start, as designed. 
+RCIC and HPCS injected to restore level above L2. The Reactor Building (RB) ventilation system isolated and Standby 
+Gas Treatment (SBGT) and Control Room Emergency Filtration (CREF) systems started as designed. These are all 
+expected responses for reaching a L2. Reactor pressure reached a peak of 1102 psig. Reactor pressure was controlled by 
+the turbine bypass valves. (Reference IR 04804263) 
+ 
+07:20: HPCS and RCIC were used to control reactor water level between 160” and 200”. 
+ 
+07:38: Operations received report from RP tech that they see and smell smoke on the Turbine Building Elevation 306'. 
+Operator was dispatched to investigate. 
+ 
+07:39: Operations reported visible flames on the Main Generator Field Circuit Breaker. Operator attempted to extinguish 
+the fire using portable CO2 extinguishers. 
+ 
+2
+4
+Nine Mile Point
+410
+2024
+002
+00
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1.  FACILITY NAME
+2.  DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+07:55: HPCS was secured and RCIC alone was used to control reactor water level until the station was within the capacity 
+of a Condensate booster pump. 
+ 
+08:03: Operations reported fire was extinguished and no EAL thresholds were met. 
+ 
+08:05: Breakers 2NJS-US3-6B and 2NJS-US3-13B were opened to remove power from the AVR to the exciter. 
+ 
+09:19: Electrical Maintenance (EMD) identified the ‘B’ station battery had a +145 VDC ground. OPS identified that the 
+AVR and exciter had control power from the ‘B’ station battery. 
+ 
+10:02: Breaker 2BYS-PNLB107-14, the B station battery feed to the AVR, was opened per N2-OP-68B step G.1.7.  Prior 
+to opening the breaker, ‘B’ battery indicated +145 VDC to ground. After opening 2BYS-PNLB107-14, ‘B’ battery remained 
++145 VDC to ground. 
+ 
+10:55: The trip and close fuses for the exciter breaker were removed. This resulted in the ‘B’ station battery ground 
+voltages returning to normal values. 
+ 
+1445: RCIC was secured and Reactor level control was transitioned to ‘B’ condensate booster pump. 
+ 
+E. METHOD OF DISCOVERY: 
+ 
+This event was self-revealed when the Turbine Control Valve Fast Closure signals actuated RPS ‘A’ and ‘B’, resulting in 
+unit scram. 
+ 
+F. SAFETY SYSTEM RESPONSES: 
+ 
+All safety systems responded per design. 
+ 
+II.    CAUSE OF EVENT: 
+ 
+The cause of the event was a mechanical fault internal to the breaker caused a high resistance connection to develop 
+ultimately resulting in loss of the generator field. 
+ 
+The internals of the breaker melted during the event destroying evidence. The internal damage 
+prevented the identification of a specific sub-component failure including potential process, or 
+programmatic causes associated with the sub-component maintenance, construction, or testing. 
+ 
+III.    ANALYSIS OF THE EVENT: 
+ 
+The scram did not have any impact to the health and safety of the public. All safety systems responded per design. 
+ 
+NMP2 tripped due to increased resistance in the contact of the ‘A’ (-) phase of the 41M field breaker. The increased 
+resistance caused the breaker to burn further degrading the contacts, which increased the resistance until it dropped the 
+generator excitation. This was identified by generator output voltage drop. The feedback loop from the AVR increased 
+current to recover the generator field which caused the output voltage to increase and generator output voltage to recover.  
+3
+4
+Nine Mile Point
+410
+2024
+002
+00
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1.  FACILITY NAME
+2.  DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+The increased current further increased temperature which also increased resistance on the ‘A’ (-) phase breaker 
+contacts. The feedback loop between resistance increase, generator field voltage drop, AVR current control, and breaker 
+contact temperature, continually increased temperature and degraded the breaker contacts. The AVR continued to 
+respond until it hit a max current limit at which point it could not improve generator field voltage although field voltage 
+continued to degrade. This resulted in the loss of the generator field. This tripped the 40-1-2SPGZ02 relay based on 
+settings calculated in EC-167 which takes into account generator reactive capability. This in turn initiated the 
+86-1-2SPGZ01 relay which triggered the generator lockout sequence and resulted in the turbine trip and SCRAM.    
+ 
+IV.    CORRECTIVE ACTIONS: 
+ 
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL STATUS: 
+ 
+During the N2F47 forced outage the station replaced the 41M-2EXSX01 Main Generator Field Breaker and cubicle (panel) 
+assembly (W/O C93993280). 
+ 
+B. ACTION TAKEN OR PLANNED TO PREVENT RECURRENCE: 
+ 
+Preventive Maintenance program changes for the breaker have been implemented with thermography performed every 
+two weeks and monitoring of generator field voltage and current. 
+The Corrective Action to Prevent Recurrence is to modify the generator field circuity to remove the generator field breaker. 
+This will remove the component and cubicle and prevent a similar failure mechanism. 
+ 
+V.    ADDITIONAL INFORMATION 
+ 
+A. FAILED COMPONENTS: 
+ 
+Main Generator Field Circuit Breaker (41M-2EXSX01) 
+ 
+B. PREVIOUS LERs ON SIMILAR EVENTS: 
+ 
+None 
+ 
+ 
+ 
+ 
+  
+4
+4
+Nine Mile Point
+410
+2024
+002
+00

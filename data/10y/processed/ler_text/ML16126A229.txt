@@ -1,0 +1,250 @@
+---
+~
+( ~:t~~;\'.)
+··· ..... •Entergy. Eintc•Oll' 0(lera~ions, lne.
+Aivor Berni Station
+5485 U.S. H!gh\':lay 61N
+St. Frcnci:;vill:J, LA 70775
+Tel 225-391-4157
+\:'Jl'.~~2:<1 F. rn::gulro
+Si~;:i Vic'.l Pro:iid:mt
+RBG-47679
+April25.2016
+U. S. Nuclear Regulatory Commission
+ATI"N: Document Control Desk
+Washington. DC 20555
+Subject: Ucensee Event Report 50-45812016-00S-OO
+River Bend Statton - Unlt 1
+Docket No. 50-458
+Ucense No. NPF-47
+RBF1·16-0051
+Dear Sir or Madam:
+tn accordance with 10 CFR 50~73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Mt'.. Joseph
+Clark at 225-381-4177.
+-
+WFM/dhw
+Enclosure
+cc: U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Blvd.
+Arlington, TX 76011·4511
+NRC Sr. Resident Inspector
+P. O. Box 1050
+St. Francisville. LA 70775
+INPO
+(via ICES reporting)
+•'
+"°\
+RBG'"47679
+April 25, 2016
+Page2of2
+Central Records Clerk
+Public Utility Commission of Texas
+1701 N. Congress Ave.
+-Austin, TX 78711 ·3326
+Department of Environmental Quality
+Office of Environmental Compliance
+RadlologiQSJ Emergency Planning and Response Section
+Ji Young Wiley
+P.O. Box 4312
+eaten Rouge, LA 70821-4312
+2
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+l ;;;.e.P"'~t-t.., ~ ... . Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~ . .. Send comments regarding burden estimate to the FOIA, Privacy and Information Collecfions
+~~ ff LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+•1'11111.,_ internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Offite of Management and Budget, Washington,
+I DC 20503. If a means used to impose an information collecfion does not display a currently valid
+digits/characters for each block)
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collecfion.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+River Bend Station -Unit 1 05000 458 1 OF 4
+4. TITLE
+Potential Loss of Safety Function of Onsite AC Sources and Operations Prohibited by Technical Specifications Due to Uncorrected
+Circuit Breaker Control Logic Design Causing Intermittent Failure to Close
+5. EVENT DATE 6. IL ER NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+.. -
+FACILITY NAME DOCKET NUMBER
+02 24 2016 '2016 005 00 04 25 2016
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D 0 0
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)'
+D D D 0
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+4
+D D D 0
+20.2203(a)(1> 20.2203(a)(4) so.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D 0 0 0
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) [{] 50.73(a)(2)(v)(A) 13.11(a)(4>
+o
+D · 0 D
+20.2203(a)(2)(m> so.3a(c)(2) 50.73(a)(2)(v)(B) 13.11(a)(s>
+0 D 0 D
+20.2203(a)(2)(iv) ~o.4a(a)(3)(ii) 50.73(a)(2)(v)(C) 1s.n(a)(1>
+0 0 0 D
+0
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(1i)(D) 1s.n(a)(2)(i)
+0 0 D
+20.2203(a)(2)(vi) [{] 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 1s.n(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Joseph A. Clark, Manager -Regulatory Assurance (225) 381-4177
+13, COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE f CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACT UR ER TOEPIX FACTURER TOEPIX
+I
+(see text)
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes; complete 15. EXPECTED SUBMISSION DATE) [{] NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On February 24, 2016, with the plant in cold shutdown, the operations shift manager was made aware of a notification regarding a
+certain model ofMasterpact 480-volt circuit breakers that described a failure mode that could potentially prevent the automatic closure
+of the breakers. Assessment of this information determined that the susceptible breakers included those powering the emergency
+ventilation fans in the Division 1 and 2 emergency diesel generator rooms and two auxiliary building unit coolers. This condition
+required that both diesel generators and both trains of shutdown cooling and to be declared inoperable. This constituted a condition that
+could potentially prevent fulfillment of the safety function of onsite AC power sources and decay heat removal. The Division 2 residual
+heat removal loop was operating in shutdown cooling, satisfactorily maintaining reactor coolant temperature. The cause of the event is
+that station personnel failed to recognize the breakers' vulnerability to this failure mode. This directly resulted in the failure to take
+corrective action prior to this industry notification. The cause of the untimely corrective actions is that the breakers were incorrectly
+determined to be operable in 2014 when the condition was discovered. All the affected breakers were modified to eliminate the failure
+mode prior to the subsequent plant 'startup.
+NRG FORM 366 (11-2015)
+Page 1of3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+'
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resollrce@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME .I 3. LER NUMBER
+osooo-1~ oocKET•u::~ DYE AR SEQUENTIAL REV
+NUMBER NO.
+u-1 1-0
+!Riv" Bond Station -Unit 1 °
+I 0s
+NARRATIVE
+REPORTED CONDITION
+On February 24, 2016, with the plant in cold shutdown, the operations shift manager was made aware of a notification
+regarding a certain model of Masterpact 480-volt s11fety-re(ated circuit breakers (**BKR~*) that described a failure mode
+that could potentially prevent the automatic closure of the breakers. The initial information regarded the emergency
+ventilation fans in the Division 1 and 2 emergency diesel generator rooms. These fans are not in Technical Specifications,
+but they provide a support function to the emergency diesel generators (**DG**). This condition required that both
+diesel generators to be declared inoperable. This constituted a condition that could potentially prevent fulfillment of the
+safety function of onsite AC power sources [ED].
+Later on the same c:late, further evaluation of the notification identified four other circuit breakers affected by the same
+condition. These breakers supply power to Division l·and 2 containment unit coolers and the Division 1and2.auxiliary
+building 141 ft. elevation general area unit coolers. The auxiliary building unit coolers are not in Technical Specifications,
+but they provide a support function to the electrical distribution system. The required action in Technical Specification is
+to declare both trains of the residual heat removal system (shutdown cooling mode) [BO] inoperable. This inoperability
+constituted a condition that could have potentially prevented the fulfillment of the decay heat removal safety function.
+Division 2 residual heat removal was operating in shutdown cooling, satisfactorily maintaining reactor coolant
+temperature. The affected breakers can be manually operated to start/stop their associated equipment, if necessary for
+operation
+INVESTIGATION AND IMMEDIATE ACTIONS
+Masterpa'ct breakers were installed at RBS as replacements for obsolete General Electric AKR breakers. Subsequently, at
+RBS and elsewhere, there were isolated failures ofthe breakers to close upon demand. Failure analyses had beer:i
+conducted by both the vendor and the utilities, but no such analyses determined that a potentially generic problem
+existed. · · ·
+In 2014, the breaker vendor issued a non-conformance report that concluded that the closure failures were from
+intermittent mechanical binding of the anti-pump mechanism. The binding was the result of a "standing close signal,"
+which is the condition where the relay that actuates the closing mechanism remains energized, either indefinitely or for a
+defined period of time following a closure actuation. The control logic for any given breaker is an inherent design feature
+of the circuitry of the switchgear, not internal to the breaker itself. It was eventually determined by the vendor that this
+condition could cause any Masterpact breaker to intermittently fail to close. The vendor indicated that the failure mode
+could not be predicted, but was repeatable, 'and occurred on both new and old breakers.
+When RBS evaluated the vendor's nonconformance report, a population of affected circuit breakers was identified, and
+the served systems were evaluated for adverse effects on their ability to perform their safety functions. The operational
+history of the. breakers was examined, and it was determined that the observed increase in failure rate was not statistically
+significant. The affected systems were determined to be operable.
+The nonconformance report stated that the failure mode could be averted by pressing the PUSH TO OPEN button on the
+front of the breaker after remote opening. This information was used to develop an Operations Standing Order, and this
+action was performed after every breaker opening for any of the affected breakers during power operations or hot
+NRG FORM 366A (11-2015)
+Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+\ (11-2015)
+LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET NU.MsB.E R 3. LER NUMBER
+I YEAR SEQUENTIAL REV
+05000- ~u-1 NUMBER 1-GNO J
+River Bend Station -Unit 1
+I
+oos
+shutaown until the moamcat1on to remove t 1e standing close signal was installed. No ailures of these oreakers occurred
+when standing order was utilized.
+Isolated failures occurred in breakers serving the control building air conditioning system in the refueling outage in 2015,
+and vendor recommendations for modifying the breaker control circuitry were implemented. Those modifications were
+limited, however, to breakers with continuously energized closure relays.
+In the February 2016 notification, the vendor provided information regarding the identification of a potential defect, with
+a recommendation that Masterpact breakers designed for electrical closing operation be evaluated. The vulnerable
+breakers identified in connection with the notification were not surfaced during previous extent-of-condition reviews due
+to being limited to the population with the. continuously energized closing relay. The new information provided in
+February 2016 revealed that even breakers with a time-delayed removal of power from the closing relay could be
+vulnerable while the relay was energized.
+CAUSAL ANALYSIS
+The first direct cause of the event is that station personnel failed to recognize the breaker vulnerability to this failur~
+mode. As a result, an additional population of breakers that had a time-delayed de-energization of the closing relay was
+identified in February 2016. These additional breakers included components that supported the emergency diesel
+generators and portions of the safety-related AC distribution system in the auxiliary building.
+The second direct cause of the untimely corrective actions is that the breakers were incorrectly determined to be operable
+when the original condition with Masterpact breakers was discovered in 2014. Specifically, the procedure for
+development of operability determinations contained inadequate guidance on the use of reliability-based evaluations.
+One contributing cause of the event was the insufficient detail in the procedure regarding distribution of OE information
+for screening. This caused the component engineer for circuit breakers to be bypassed in the OE review cycle, likely
+preventing early detection of the condition. Additionally, the OE notices did not contain detailed information regarding
+the failure mode. '
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The following actions have been completed to prevent recurrence of the reported condition.
+•All safety-related Masterpact circuit breakers with the control circuit configuration that applied a· s.tanding close
+signal have been modified to eliminate this condition.
+•The fleet procedure for operability evaluations has been revised to address conditions involving reduced reliability of
+safety-related components.
+PREVIOUS OCCURRENCE EVALUATION
+The reported condition resulted from a very specific design feature of a certain model of circuit breakers. No previous
+event reports regarding this condition have been submitted by RBS in the last three years.
+~
+SAFETY SIGNIFICANCE
+NRC FORM 366A (11-2015)
+7 Page 3 of 3
+1
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+\ (11-2015)
+LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME I2. DOCKET NUM.,B.E R 3. LER NUMBER
+DYE AR SEQUENTIAL REV
+0500-0- .u -1 NUMBER 1-NO0.
+River Bend Station -Unit 1 °
+I 0s
+The plant was in cold shutdown when the vendor notification was received. Technical Specification limiting condition for
+operations for the affected system were entered, and the required actions were completed. Dedicated operators were
+assigned to implement the standing order to mitigate the failure mode. All safety-related Masterpact circuit breakers with
+the control circuit configuration that applied a standing close signal were modified to eliminate this condition prior to
+plant startup.
+A probabilistic risk analysis of this condition has concluded that this condition w~s of very low risk significance.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or
+system referred to in the LER are annotated as (**XX**) and [XX], respectively.)
+\'
+NRC FORM 366A (11·2015)

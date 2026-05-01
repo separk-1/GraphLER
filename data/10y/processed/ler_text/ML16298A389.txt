@@ -1,0 +1,302 @@
+•
+Entergy Nuclear Operations, Inc.
+~Entergx Pilgrim Nuclear Power Station
+600 Rocky Hill Road
+Plymouth. MA 02360
+October 13, 2016
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Eyent Report 2016-005-00, Ultimate Heat Sink and Salt Service Water
+System Declared Inoperable
+Pilgrim Nuclear Power Station
+Docket No. 50-293
+Renewed License No. DPR-35
+LETTER NUMBER: 2.16.062
+Dear Sir or Madam:
+The enclosed Licensee Event Report 2016-005-00, Ultimate Heat Sink and Salt Service Water
+System Declared Inoperable, is submitted in accordance with 1O Code of Federal Regulations
+50.73.
+If you have any questions or require additional information, contact me at (508) 83p-8323.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+Eve~~.~~t_~ ~
+Manager, Regulatory Assurance
+EPP/sc
+Attachment: Licensee Event Report 2016-005-00, Ultimate Heat Sink and Salt Service Water
+System Declared Inoperable (5 Pages)
+Entergy Nuclear Operations, Inc. · Letter No. 2.16.062
+Pilgrim Nuclear Power Station Page 2 of 2
+cc: Mr. Daniel H. Dorman
+Regional Administrator, Region I
+U.S. Nuclear Regulatory Commission
+2100 Renaissance Blvd., Suite 100
+King of Prussia, PA 19406-2713
+Ms. Booma Venkataraman, Project Manager
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 0-8C2A
+Washington, DC 20555
+NRC Senior Resident Inspector
+Pilgrim Nuclear Power Station
+Attachment
+Letter Number 2.16.062
+Licensee Event Report 2016-005-00
+Ultimate Heat Sink and Salt Service Water System Declared Inoperable
+(5 Pages)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~~~ltt',.'!"°'<·~
+R - Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~ ~ Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~~ ,,.,. .... y.7,;fJ LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER , 3. PAGE
+Pilorim Nuclear Power Station 05000293 1 OF5
+4. TITLE
+Ultimate Heat Sink and Salt Service Water System Declared Inoperable
+5. EVENT DATE 6. ILE R NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. N/A N/A
+-
+08 15 2016 2016- 005 00 10 13 2016 FACILITY NAME DOCKET NUMBER
+N/A N/A
+9. OPERA TING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that ann/y)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2){x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 13.11(a)(4)
+D D D
+20.2203(a)(2)(iii) 5o.3s(c)(2) ~ 50.73(a)(2)(v)(B). 13.11 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 13.77(a)(1)
+D D D
+70 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) ~ 50. 73(a)(2)(v)(D) 13.77(a)(2)(i)
+D D D
+D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11 (a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Mr. Everett P. Perkins, Jr. - Regulatory Assurance Manager 508-830-8323
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TOEPIX if CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH I DAY YEAR
+n SUBMISSION
+IXl I
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO n4TE
+ABSTRACT
+On August 15, 2016 at 1552 EDT, with the reactor at about 70 percent core thermal power (CTP), Pilgrim
+Nuclear Power Station (PNPS) declared the ultimate heat sink (UHS) and salt service water (SSW) system
+inoperable due to high sea water inlet temperatures greater than 75 degrees Fahrenheit (F). PNPS had already
+taken action, in accordance with plant procedures, to reduce power from 100 percent in an effort to keep from
+exceeding the Technical Specification (TS) Limit. PNPS entered a 24-hour shutdown Limiting Condition for
+Operation Action Statement (LCO-AS) for Salt Service Water (SSW) inlet temperature exceeding the TS limit in
+TS 3.5.B.4. The LCO-AS was subsequently exited at 1651 hours when the temperature of SSW trended to
+below the TS limit.
+Under certain design conditions, the SSW system is required to provide cooling· water to various heat
+exchangers such as the Reactor Building Closed Cooling Water (RBCCW) and Turbine Building Closed Cooling
+Water (TBCCW) systems. When the inlet temperature to these supplied loads exceeds the 75 degree F limit
+established in the TS, the SSW system is conservatively declared inoperable until the temperature trends below
+this value. This condition existed for 59 minutes reaching a maximum of 75.1 degrees F. The cause of the sea
+water inlet temperature exceeding the 75 degree F TS criterion was sustained increased sea water surface
+temperature in Cape Cod Bay due to summer weather conditions and recirculation of water from the plant's
+discharge due to wind and tidal conditions.
+There was no imDact to public health and safetv from this condition.
+NRC FORM 366A (11-2015)
+p age 2 0 f 5
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+"'"'~,..,~ lessons learned are incorporated into the licensing process and fed back to industry. Send
+.;. comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+'f: F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+*•••· LICENSEE EVENT REPORT lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(LER) CONTINUATION
+used to impose an information collection does not display a currently valid OMB control number, the
+SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 005 00
+NARRATIVE
+BACKGROUND
+Cape Cod Bay is the Ultimate Heat Sink (UHS) for PNPS. The circulating water system and the Salt Service
+Water (SSW) system take sea water from Cape Cod Bay via the plant intake canal and intake structure and .
+(
+provide cooling water for various plant heat loads. These systems discharge the heated cooling water back
+into Cape Cod Bay via system discharge piping and the plant discharge canal. The safety objective of the
+SSW system is to provide a heat sink for the Reactor Building Closed Cooling Water (RBCCW) system
+under normal, transient, and accident conditions. The SSW system has five SSW pumps and is designed
+with sufficient redundancy so that no single active system component failure can prevent the system from
+achieving the safety objective. The system is designed to continuously provide a supply of cooling water to·
+the secondary side of the RBCCW heat exchangers adequate to meet the requirements of the RBCCW
+system under all conditions. The RBCCW system provides the necessary cooling requirements for the
+Residual Heat Removal (RHR) system and ultimately the reactor and primary containment.
+The SSW pumps are separated into two loops. Two pumps are connected to each loop and the fifth pump
+can feed either loop. Initiation of standby AC power following loss of the preferred AC power source will
+automatically start at least one pump in each loop during normal conditions. Following a Loss of Coolant
+Accident (LOCA) and loss-of-offsite power, one pump will start in each loop because of diesel load
+limitations. Additional pumps are started manually by the operator as additional cooling loads are
+established and diesel capacity is available.
+Technical Specification (TS) Limiting Condition For Operation (LCO) 3.5.B.4 requires that two SSW
+subsystems shall be operable whenever irradiated fuel is in the reactor vessel, reactor coolant temperature is
+greater than 212 degrees F and prior to startup from a cold condition. A subsystem is considered
+OPERABLE when it has an OPERABLE UHS and two OPERABLE pumps with associated controls and
+instrumentation. The OPERABILITY of the UHS is based on having a minimum water level in the pump well
+of the intake structure of greater than 13 ft. 9 in. below mean sea level and a maximum water temperature of
+75 degrees F.
+One of the TS Surveillance Requirements for the SSW System is 4.5.B.4.2 which is to verify the average sea
+water temperature is less than or equal to 75 degrees F every 24 hours.
+If the UHS is inoperable, the unit must be placed in a MODE in which the Specification does not apply. To
+achieve this status, the unit must be in Cold Shutdown within 24 hours. The allowed completion times are
+reasonable, based on operating experience, to reach the required unit conditions from full power conditions
+in an orderly manner and without challenging unit systems.
+EVENT DESCRIPTION
+On August 15, 2016 at 1552 EDT, with the reactor at about 70 percent core thermal power (CTP), Pilgrim
+Nuclear Power Station (PNPS) declared the ultimate heat sink (UHS) and salt service water (SSW) system
+inoperable due to high sea water inlet temperatures greater than 75 degrees F. PNPS had already taken
+action, in accordance with plant procedures, to reduce power from 100 percent in an effort to keep from
+exceeding the Technical Specification (TS) Limit. PNPS entered a 24-hour shutdown Limiting Condition for
+NRG FORM 366A (11-2015)
+Pa e 3 of 5
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(LER) CONTINUATION
+used to impose an information collection does not display a currently valid OMB control number, the
+SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 005 00
+NARRATIVE
+Operation Action Statement (LCO-AS) for Salt Service Water (SSW) inlet temperature exceeding the TS
+limit in TS 3.5.B.4. The LCO-AS was subsequently exited at 1651 hours when the temperature of SSW
+trended to below the TS limit.
+Under certain design conditions, the SSW system is required to provide cooling water to various heat
+exchangers such as the Reactor Building Closed Cooling Water (RBCCW) and Turbine Building Closed
+Cooling Water (TBCCW) systems. When the inlet temperature to these supplied loads exceeds the 75
+degree F limit established in the TS, the SSW system is conservatively declared inoperable until the
+temperature trends below this value. On August 16, 2016 this condition existed for 59 minutes with the
+maximum temperature documented at 75.1 degrees F.
+CAUSE OF THE EVENT
+The cause of the sea water inlet temperature exceeding the 75 degree F TS criterion was sustained
+increased sea water surface temperature in Cape Cod Bay due to summer weatper conditions and
+recirculation of water from the plant's discharge due to wind and tidal conditions.
+The lack of margin available between the possible maximum sea water temperature and the design
+analytical limit influenced the plant's response. The possibility that both loops of containment cooling might
+be declared inoperable because of high UHS temperature was recognized when the 75 degree F Technical
+Specification limit was established in 1997. However, at that time based on historical temperature data and
+knowledge of the behavioral characteristics of the bay and local meteorology, it was considered highly
+improbable that the plant would ever be shut down because of high UHS temperature with the limit set at 75
+degrees F. On these bases, the UHS temperature limit of 75 degrees F was considered acceptable.
+CORRECTIVE ACTIONS
+To increase the margin between the Salt Service Water (SSW) design basis inlet temperature and expected
+environmental operating conditions an engineering eval,uation that supports increasing the margin between
+the Salt Service Water (SSW) design basis inlet temperature and expected environmental operating
+conditions is being performed. Appropriate regulatory actions will be taken based on the results of that
+evaluation. ·
+As an interim action, procedural enhancements to deal with elevated salt service water temperature will be
+implemented.
+Additional corrective actions will be implemented as necessary within the corrective action program.
+SAFETY CONSEQUENCES
+NRC FORM 366A (11-2015)
+Pa e 4 of 5
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT'REPORT lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(LER) CONTINUATION
+used to.impose an information collection does not display a currently valid OMB control number, the
+SHEET NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 005 00
+NARRATIVE
+There were no consequences to the general safety of the public, nuclear safety, industrial safety, and
+radiological safety due to this event.
+The safety function of the SSW System is to transfer heat from all systems and components cooled by the
+Reactor Building Closed Cooling Water (RBCCW) System to Cape Cod Bay. The SSW System provides a
+continuous supply of cooling water to the secondary side of the RBCCW heat exchangers under normal,
+shutdown, transient, and accident conditions. Design and accident analyses for the station have been
+performed with the assumption that the SSW inlet temperature would average 75 degrees F maximum.
+Increased SSW inlet temperatures reduce the ability of the SSW System to remove heat from the RBCCW
+System.
+Following an event in 2013 where SSW inlet temperature exceeded 75 degrees F, an engineering evaluation
+was performed to address the consequences of the temperature excursion and to determine whether the
+safety function would still have been fulfilled. This evaluation assumed an event where the SSW inlet
+temperature exceeded 75 degrees F and remained less than 78 degrees F for short durations, with the 12-
+hour rolling average less than 75 degrees F. This evaluation concluded that all systems, structures, and
+components would be capable of performing their safety functions under the assumed conditions. The
+temperature excursion that occurred on August 15, 2016 is bounded by that evaluation. Accordingly, the
+safety function of the Salt Service Water System would have been satisfied based on the maximum
+temperature recorded and the short duration of the excursion.
+There was no adverse impact on the public health or safety.
+REPORTA BILITY
+This event is reportable under 1O CFR 50. 73(a)(2)(v)(B) and 10 CFR50. 73(a)(2)(v)(D), Event or Condition
+that Could Have Prevented Fulfillment of a Safety Function.
+PREVIOUS EVENTS
+LERs for the previous ten years were reviewed for UHS and SSW Pumps being inoperable. These LERs are
+summarized as follows:
+LER 2015-006 - Ultimate Heat Sink and Salt Service Water System Declared Inoperable
+LER 2013-007 - Ultimate Heat Sink and Salt Service Water System Declared Inoperable
+NRC FORM 366A (11-2015)
+Pa e 5 of 5
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(LER) CONTINUATION
+used to impose an information collection does not display a currently valid OMB control number, the
+SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 005 00
+NARRATIVE
+ENERGY INDUSTRY IDENTIFICATION SYSTEM (EllS) CODES
+The EllS codes for Components and Systems referenced in this report are as follows:
+SYSTEMS CODES
+Ultimate Heat Sink (UHS) System (Cape Cod Bay) BS
+REFERENCES:
+1) Pilgrim Nuclear Power Station LER 2013-007, Ultimate Heat Sink and Salt Service Water System
+Declared Inoperable, dated 9/13/2013 (NRC Accession No. ML 13266A242).
+2) Pilgrim Nuclear Power Station LER 2015-006, Ultimate Heat Sink and Salt Service Water System
+Declared Inoperable, dated 10/7/2015 (NRC Accession No. ML 15289A231),
+NRC FORM 366A (11-2015)

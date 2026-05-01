@@ -1,0 +1,650 @@
+Keith J. Poison
+Site Vice President
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.4849 Fax: 734.586.4172
+Email: keith.polson@dteenergy.com
+DTE Energy-
+10 CFR 50.73
+October 20, 2016
+NRC-16-0062
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2016-006
+Pursuant to 10 CFR 50.73(a)(2)(i)(B), 10 CFR 50.73(a)(2)(ii)(B), and 10 CFR
+50.73(a)(2)(v)(B), (C), and (D), DTE Electric Company (DTE) is submitting LER
+No. 2016-006, Inadequate Interpretation of Technical Specifications Related to
+Mechanical Draft Cooling Tower Fan Brake System Leads to Condition Prohibited by
+Technical Specifications, Loss of Safety Function, and Unanalyzed Condition.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Site Vice President
+Enclosure: Licensee Event Report No. 2016-006, Inadequate Interpretation of
+Technical Specifications Related to Mechanical Draft Cooling Tower Fan
+Brake System Leads to Condition Prohibited by Technical Specifications,
+Loss of Safety Function, and Unanalyzed Condition
+USNRC
+NRC-16-0062
+Page 2
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-16-0062
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2016-006, Inadequate Interpretation of Technical
+Specifications Related to Mechanical Draft Cooling Tower Fan Brake System Leads to
+Condition Prohibited by Technical Specifications, Loss of Safety Function, and
+Unanalyzed Condition
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10131/2018
+(06-2016) Estimatebdu rdenpe r responsteo comply with this mandatory collection request: 80 hours.
+Reported lessonlse arnedar e incorporated intot hel icensinpgro cess andf ed backto industry.
+Send commenrtesg ardibnugr deens timattoet he FOIAP,r ivacy andI nformatCioollnec tions
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, WashingDtCo n20,5 55-0001, or by e-mail
+9 y (See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, andt o theD esk Officer, Office of Information andR egulatory
+"** Affairs, NEOB-10202, (3150-0104), Office of Managemeanntd B udgeWt, ashingtoDnC,2 0503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form meanuss edto i mposaen i nformactioolnle ctdiooens not display a currently valid 0MB control
+http://www.nrc.gov/reading-rm/doc-_collections/nuregs/staff/srl022/r3/) number, the NRC may noct onduocr ts ponsor, anda persoinsn otr equirteo dre spond to,t he
+httpllww~nrgovreadn ____ information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Fermi 2 05000 341 1 OF 11
+4. TITLE
+Inadequate Interpretation of Technical Specifications Related to Mechanical Draft Cooling Tower Fan Brake System Leads to
+Condition Prohibited by Technical Specifications, Loss of Safety Function, and Unanalyzed Condition
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N Q U UE B N E T AL NO.YE M A O NTH DAY YEAR N/ FA A C ILITYNAME 05 D 0 O 0 C 0 KETNUMBER
+FACILITNYA ME DOCKENTU MBER
+08 25 2016 2016 - 006 - 00 10 20 2016 N/A 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) [] 20.2203(a)(3)(i) Fl 50.73(a)(2)(ii)(A) [l 50.73(a)(2)(viii)(A)
+20.2201(d) El 20.2203(a)(3)(ii) [/] 50.73(a)(2)(ii)(B) El 50.73(a)(2)(viii)(B)
+20.2203(a)(1) El 20.2203(a)(4) El 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+[] []
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+[] El
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+E E El
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+[]
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) / 50.73(a)(2)(v)(C) 73.77(a)(1)
+E
+53 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) / 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) / 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)()(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FAACUUREER R R E E PO P R T TA B B L L E CAUSE SYSTEM COMPONENT F F A A C T U U R R E E R R R E E PO P R T TA X B L LE
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+F] Y ES (If yes, complete E 1 l 5 . EXPECTED SUBMISSION DATE ) / NO SUB D M A I T S E SION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1629 EDT on August 25, 2016, it was determined that an inadequate interpretation of Fermi 2 Technical Specification (TS) 3.7.2
+was being utilized. For an Ultimate Heat Sink (UHS) divisional reservoir to be operable, two Mechanical Draft Cooling Tower
+(MDCT) fans in that division are required to be operable. The MDCT fans have a brake system to prevent fan overspeed during a
+tornado. Fermi 2 procedures had directed personnel to declare the MDCT fans and UHS reservoir inoperable due to nonfunctionality of
+the brake system only if a tornado watch or warning was in effect for the area near Fermi 2. The correct interpretation of TS 3.7.2
+would be to declare the MDCT fans and UHS reservoir inoperable any time the brake system was nonfunctional. Following discovery
+of the inadequate interpretation of TS, a review of the brake system for the past three years was performed. The review identified 15
+occurrences where the brake system was nonfunctional and should have resulted in entry to TS 3.7.2. These 15 occurrences resulted in
+operations or conditions prohibited by TS since TS Required Actions were not completed within their Completion Times. In addition, 5
+of the 15 were also instances where the plant configuration was such that it could have prevented the fulfillment of the safety function
+of structures or systems. Finally, 4 of the 15 were instances where the plant was in an unanalyzed condition. There were no
+radiological releases associated with this event. There was no credible threat of a tornado during any of the 15 occurrences. The safety
+significance was determined to be very low. The cause of the event was an incorrect proceduralized TS interpretation. Corrective
+actions were taken to revise the procedure.
+NRC FORM 366 (06-20161
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY MB: NO. 31w50-0104 EXPIRES: 1013112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management andB udgeWt,a shington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form u N s R e C d t m o a im y p n o o s t e c a o n n d in u fo c r t m o a r t i s o p n o c n o s l o le r c , ti a o n n d d a oe p s e n rs o o t n d is i p s la n y o t a r c e u q r u r i e r n ed tl y t v o a l r i e d s O po M n B d c to o , n t t r h o e l nu in m fo b r e m r a , t t io h n e
+htlp://w .nrc gov/reading-rm/doc-collections/nuregs/staff/sr10221r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+IYEAR SEQUENTIAL REV
+- NUMBER NO.
+S05000
+Fermi 2 341 2016 - 06 - 0
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode - 1
+Reactor Power - 53 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+At 1629 EDT on August 25, 2016, while operating in Mode 1 at 53 percent power, it was determined that DTE Electric
+Company (DTE) had been utilizing an inadequate interpretation of Technical Specifications (TS) pertaining to the
+Mechanical Draft Cooling Tower (MDCT) [[CTW]] fan [[FAN]] brake [[BRK]] system. TS 3.7.2 requires the Ultimate Heat
+Sink (UHS) [[BS]] reservoir to be operable in Modes 1, 2 and 3. The UHS operability requirements in Modes 4 and 5 are
+determined by the systems the UHS supports. The UHS reservoir is divided into two one-half capacity reservoirs,
+corresponding to Division 1 and Division 2. Each reservoir is the cooling source for that division's service water
+subsystems, including the service water for the Emergency Diesel Generators (EDGs) [[DG]]. A two-cell MDCT is located
+above each of the one-half capacity reservoirs. Each cell is equipped with a MDCT fan. Two MDCT fans above each
+one-half capacity reservoir are required for it to be considered operable. The "A" and "C" MDCT fans are in Division 1 and
+the "B" and "D" fans are in Division 2. The MDCT fans have a brake system to prevent overspeed from a design basis
+tornado as described in the Updated Final Safety Analysis Report (UFSAR) Section 9.2.5.2.2. Thus the fan brakes are a
+design feature of the fans and their functionality impacts the operability of the MDCT fans and therefore the UHS.
+Contrary to this, a DTE procedure directed personnel to declare the MDCT fan and associated reservoir inoperable per TS
+3.7.2 due to nonfunctionality of the brake system only if a tornado watch or tornado warning had been issued for the area
+surrounding Fermi 2. This inadequate interpretation of TS was discovered during an NRC Component Design Basis
+Inspection (CDBI). At the time of discovery on August 25, 2016, all of the MDCT fan brakes were functional and the
+associated fans were operable.
+The fan brake system for each of the four trains is actuated by nitrogen which is supplied by three nitrogen stages (bottles
+[[GBM]]) arranged in series. The nitrogen source is the main bottle which supplies the other two bottles through pressure
+reducing valves [[V]]. Each of the three nitrogen bottles is rated at a different pressure and has procedurally specified
+lower and upper limits. The nitrogen pressures of all twelve bottles are recorded daily as part of operator rounds. If any of
+the nitrogen bottles is outside of its specified limits, the fan brake system is considered nonfunctional. The main nitrogen
+bottle for each train is replaced on an as-needed basis when it is out-of-specification or a trend indicates that it is
+approaching its lower limit. The replacement of a nitrogen bottle is performed per plant procedures.
+With a correct understanding of the applicable TS, a past operability review was performed for the three years prior to the
+date of discovery. This review identified multiple occurrences where the MDCT fan brakes were nonfunctional. General
+descriptions applicable to one or more of the occurrences are provided below and then followed by the details of the
+specific occurrences.
+For each occurrence, the associated MDCT fan and reservoir was considered operable at the time and no entry to TS
+3.7.2 was made based on the fan brake nonfunctionality. Limiting Condition for Operation (LCO) 3.7.2 Condition B
+Required Action B.1 requires restoration of the reservoir within 72 hours. LCO 3.7.2 Condition D Required Actions D.1
+and D.2 require the reactor to be in Mode 3 in. 12 hours and Mode 4 in 36 hours if the Required Action and associated
+Completion Time of Condition B are not met.
+Page 2 of 11
+NRC FORM 366A (06-20161
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY uMB: NO. 310-0104 EXPIRES: 103112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LI EN E REPORTo lessons teamnaered incorporated intoth eli censing process and fedb ack to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+U Slnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+S...NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form u N s R e C d t m o a i m y p n o o s t e c a o n n d in u fo c r t m o a r ti s o p n o c n o s l o le r c , ti a o n n d d a oe p s e n rs o o t n d is i p s la n y o t a r c e u q r u re ir n e t d ly t v o a li r d e s O p M on B d c to o , n t t r h o e l n i u n m fo b rm er a , ti t o h n e
+http:/ /ww .nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER YEAR 3 S . E L Q E U R E N N U TI M A B L E R REV
+NUMBER NO.
+05000-
+Fermi 2 341 2016 .
+NARRATIVE
+Additionally, Note 1 of LCO 3.7.2 requires entering applicable Conditions and Required Actions of LCO 3.8.1 for EDGs. In
+the occurrences in Modes 1, 2 or 3, both EDGs in the division associated with the affected reservoir should have been
+declared inoperable as a result of that division's reservoir being inoperable. LCO 3.8.1 Condition B for both EDGs in one
+division inoperable should have been entered. LCO 3.8.1 Condition B Required Action B.1 requires that surveillance
+requirement (SR) 3.8.1.1 be performed for operable offsite power circuit(s) within one hour and once per 8 hours
+thereafter. SR 3.8.1.1 verifies correct breaker alignment and indicated power availability for each offsite circuit. Note that
+although SR 3.8.1.1 was not performed at the required time, offsite power was available during every occurrence and
+therefore the SR would have been met. LCO 3.8.1 Condition B Required Action B.2 states that required feature(s),
+supported by the inoperable EDGs, must be declared inoperable within 4 hours when the redundant required feature(s)
+are inoperable. LCO 3.8.1 Condition B Required Action B.4 requires restoration of one EDG in the division to operable
+status within 72 hours, the same as the restoration time for the reservoir in LCO 3.7.2. LCO 3.8.1 Condition B also has a
+24 hour Completion Time to either determine operable EDGs are not inoperable due to common cause failure (Required
+Action B.3.1) or perform SR 3.8.1.2 for operable EDGs (Required Action B.3.2). In these occurrences, the EDGs were
+inoperable due to the inoperability of the UHS rather than a common cause failure of the EDGs. This means that although
+neither Required Action B.3.1 nor Required Action B.3.2 was performed at the time they were applicable, Required Action
+B.3.1 would have been met in each case. Finally, LCO 3.8.1 Condition G requires the reactor to be in Mode 3 in 12 hours
+if the Required Action and associated Completion Time of Condition B are not met.
+In some of the occurrences, both divisions of the UHS were impacted at the same time or work on EDGs was being
+performed in one division while the opposite division of the UHS was impacted by the fan brake nonfunctionality. This
+subset of occurrences would require entry to LCO 3.8.1 Condition C for one or both EDGs in both divisions inoperable.
+LCO Condition C Required Action C.1 requires that both EDGs in one division be restored to operable status within 2
+hours. In addition, LCO 3.8.1 Condition G requires the reactor to be in Mode 3 in 12 hours if the Required Action and
+associated Completion Time of Condition C are not met.
+Some of the occurrences were while the plant was in Modes 4 or 5. As described above, UHS operability requirements in
+Modes 4 and 5 are determined by the systems the UHS supports. Although the note in LCO 3.7.2 refers to LCO 3.8.1 for
+EDGs made inoperable by UHS, LCO 3.8.2 is the applicable LCO for EDGs in Modes 4 and 5. LCO 3.8.2 requires two
+EDGs to be capable of supplying one division of alternating current (AC) power. LCO 3.8.2 Condition B for one or both
+required EDGs inoperable has the following Required Actions: B.1 to suspend core alterations, B.2 to suspend movement
+of recently irradiated fuel assemblies in secondary containment, B.3 to initiate action to suspend operations with the
+potential to drain the reactor vessel, and B.4 to initiate action to restore required EDGs to operable status. All four of
+these Required Actions have a Completion Time of "Immediately."
+The occurrences are as follows:
+1) On October 30, 2013, the main nitrogen bottle for the "B" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the
+bottle found out-of-specification other than during this pre-planned maintenance. From 1447 EDT on October 31 to 0214
+EDT on November 1 (i.e. approximately 11.5 hours), while operating in Mode 1 between 95% and 100% power, the "B"
+MDCT fan brake was nonfunctional due to the replacement of the nitrogen bottle. During this time period, the "B" MDCT
+fan was inoperable and therefore the Division 2 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1
+was made related to this. Thus, TS LCO 3.8.1 Required Actions B.1 and B.2 were not completed within their Completion
+Times and this is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+NRC FORM 366A (06-2016) Page 3 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 101312018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+s A LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+C N N TInfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. It a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form u N s R e C d t m o a im y p n o o s t e c a o n n d in u fo c r t m o a r t io s n p o c n o s l o le r c , ti a o n n d d o a e s p e n r o s t o n d is is pl a n y o t a r c e u q r u r i e r n ed tl y t v o a li r d e s O po M n B d c to o , n t t r h o e l n i u n m fo b rn er a , t t io he n
+htIp_: www l.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/}
+collection.
+1 FACILITY NAME 2. DOCKET NUMBER Y3 LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+05000-
+Fermi 2 341 2016
+NARRATIVE
+2) At 0901 EST on January 24, 2014, while operating in Mode 1 at 85% power, the main nitrogen bottle for the "A" MDCT
+fan brake was found out-of-specification low. Subsequently, one of the other nitrogen bottles for the "A" MDCT fan brake
+was also found out-of-specification low. A work order was generated to replace the main nitrogen bottle. From 0901 EST
+on January 24 until the bottle replacement was completed at 1537 EST on January 31 (i.e. approximately 7 days), the "A"
+MDCT fan brake was nonfunctional due to the nitrogen bottle being out-of-specification and then being replaced. During
+this time period, the "A" MDCT fan was inoperable and therefore the Division 1 UHS reservoir was inoperable as well. No
+entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS LCO 3.8.1 Required Actions B.1, B.2, B.3.1 (or B.3.2),
+B.4, and G and TS LCO 3.7.2 Required Actions B.1, D.1, and D.2 were not completed within their Completion Times and
+this is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS. In addition, the "A" MDCT
+fan brake nonfunctionality coincided with approximately 46 hours where various Division 2 safety-related systems,
+structures, or components (SSCs), including Division 2 EDGs, were inoperable. Since both EDGs in one division are
+required to provide AC power, LCO 3.8.1 Condition C should have been entered. The Division 2 EDGs were not always
+restored to operable status within the allowable Completion Time of LCO 3.8.1 Condition C Required Action C.1. Other
+Division 2 SSCs inoperable during this time included Residual Heat Removal (RHR) [[BO]] and Standby Gas Treatment
+System (SGTS) [[BH]] which, when considering the "A" MDCT fan brake nonfunctionality, resulted in exceeding the
+Completion Times for Required Actions in LCO 3.5.1 Condition K (for RHR) and LCO 3.6.4.3 Condition D (for SGTS).
+These missed Completion Times are also reportable under 10 CFR 50.73(a)(2)(i)(B). The period of overlap described
+above also resulted in an unanalyzed condition because the plant configuration when equipment in Division 2, such as
+EDGs, was inoperable while the Division 1 UHS and EDGs were inoperable would not support safe shutdown capability in
+the event of a tornado. This is reportable under 10 CFR 50.73(a)(2)(ii)(B) as an event or condition that results in the plant
+being in an unanalyzed condition that significantly degraded plant safety. It was previously reported to the NRC under 10
+CFR 50.72(b)(3)(ii)(B) on August 31, 2016 (Event Notification 52214). Note that the start time of this occurrence (0901
+EST) and the amount of time overlap with Division 2 SSCs inoperable (46 hours) indicated above are both slightly different
+than the times indicated in Event Notification 52214 (0915 EST and approximately 30 hours) due to the subsequent review
+of data, but there is no impact on applicable reporting criteria due to these differences. The times when both RHR
+divisions were inoperable or one or more EDGs in both divisions were inoperable is also reportable under 10 CFR
+50.73(a)(2)(v)(B) and (D) as an event or condition that could have prevented the fulfillment of the safety function of
+structures or systems that are needed to remove residual heat and mitigate the consequences of an accident,
+respectively. The times when both SGTS subsystems were inoperable is also reportable under 10 CFR 50.73(a)(2)(v)(C)
+as an event or condition that could have prevented the fulfillment of the safety function of structures or systems that are
+needed to control the release of radioactive material. These losses of safety function were not reported as an 8-hour
+Event Notification under 10 CFR 50.72(b)(3)(v)(B), (C), or (D) since the described condition no longer existed at the time
+of discovery in August 2016.
+3) On February 12, 2014, the main nitrogen bottle for the "B" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the "B" bottle before it exceeded its limit. Prior to the
+performance of this work order, at 1152 EST on February 14, 2014, while in Mode 5 at 0% power and at a reactor
+pressure vessel temperature of approximately 95 degrees Fahrenheit (F), the nitrogen bottles for the "A" MDCT fan brake
+were found out-of-specification low. A work order was generated to replace the "A" main nitrogen bottle. From 1152 EST
+on February 14 until the bottle replacement was completed at 1514 EST on February 24 (i.e. approximately 10 days), the
+"A" MDCT fan brake was nonfunctional due to its nitrogen bottle being out-of-specification and then being replaced. From
+1118 EST to 1529 EST on February 20 (i.e. approximately 4 hours), the "B" MDCT fan brake was nonfunctional due to the
+replacement of its nitrogen bottle. At no time was the "B" bottle found out-of-specification other than during this pre-
+planned maintenance. All of this occurred during a refueling outage which had begun on February 10 and continued into
+March (i.e. beyond the time when the "A" and "B" MDCT fan brakes were functional again). During the 10 day time period
+discussed above, the "A" MDCT fan was inoperable and therefore the Division 1 UHS reservoir was inoperable as well.
+NRC FORM 366A (06-2016) Page 4 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY vMB: NO. 3150-0104 EXPIRES: 101312018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+>.. r lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F In 5 f 3 o ) c , ol U le . c S ts . .R N es u o c u le r a ce r @ R n e rc g . u g l o a v to , ry a nd C o to m t m he is D si e o s n k , O W ff a ic s e h r i , n O gt f o fi n c , e o D f I C nf o 2 r 0 m 5 a 5 t 5 io -0 n 0 a 0 n 1 d , R o e r gu b la y t or e y - m A a ff i a l irs to ,
+.. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance fo g r s c /s o t m af p f/ l s e r t O ing 2 t 2 h / i r s 3 / f ) o rm u N se R d C to m a im y p n o o s t e c a o n n d in u fo c r t m o a r t io s n p o c n o s ll o e r c , ti a o n n d d a oe p s e n rs o o t n d is i p s la n y o t a r c e u q r u r i e r n ed tl y t v o a l r i e d s O po M n B d c t o o n , tr t o h l e n i u n m fo b rm er a , t i t o h n e
+http /wwwnrc_gov/readingrm/do(c-collectionslnure collection.
+1. FACILITY NAME FYEAR 2. DOCKET NUMBER 3 S . E L Q E U R E N N T U I M A B L ER REV
+NUMBER NO.
+05000-
+Fermi2 341 2016
+NARRATIVE
+During the 4 hour time period discussed above when both the "A" and "B" fan brakes were nonfunctional, both the "A" and
+"B" MDCT fans were inoperable and therefore both divisions of the UHS reservoir were inoperable. No entry to TS LCO
+3.7.2 was made related to this and TS LCO 3.7.2 Required Actions B.1, D.1, and D.2 were not completed within their
+Completion Times. In Mode 5 (i.e. the refueling outage), TS LCO 3.8.2 only requires a single division of EDGs to be
+operable. During the time period when only the "A" MDCT fan was inoperable due to the nonfunctionality of its brake, the
+Division 2 UHS reservoir and EDGs were the ones credited to be operable at that time. This configuration was acceptable
+per the TS. However, during the 4 hour time period when the Division 2 UHS and EDGs were made inoperable by the "B"
+MDCT fan brake nonfunctionality, entry to TS LCO 3.8.2 Condition B would have been required. Required Actions B.1
+through B.4 were not performed within their Completion Times. The failure to complete Required Actions within their
+Completion Times is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS. The
+coincident nonfunctionality of the "A" and "B" MDCT fan brakes, in addition to any other SSCs out-of-service during the
+refueling outage, resulted in an unanalyzed condition because the plant configuration when both divisions of UHS and
+EDGs were inoperable would not support safe shutdown capability in the event of a tornado. This is reportable under 10
+CFR 50.73(a)(2)(ii)(B) as an event or condition that results in the plant being in an unanalyzed condition that significantly
+degraded plant safety. It was previously reported to the NRC under 10 CFR 50.72(b)(3)(ii)(B) on August 31, 2016 (Event
+Notification 52214). Note that the start time of this occurrence indicated above (1152 EST) is slightly earlier than the time
+indicated in Event Notification 52214 (1747 EST) due to the subsequent review of data, but there is no impact on
+applicable reporting criteria due to this difference. The times when both divisions of UHS were inoperable or one or more
+EDGs in both divisions were inoperable is also reportable under 10 CFR 50.73(a)(2)(v)(B) and (D) as an event or
+condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to
+remove residual heat and mitigate the consequences of an accident, respectively. This was not reported as an 8-hour
+Event Notification under 10 CFR 50.72(b)(3)(v)(B) or (D) since the described condition no longer existed at the time of
+discovery in August 2016.
+4) On August 6, 2014, the main nitrogen bottle for the "B" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the
+bottle found out-of-specification other than during this pre-planned maintenance. From 0800 EDT to 1435 EDT on August
+8 (i.e. approximately 6.5 hours), while operating in Mode 1 at 100% power, the "B" MDCT fan brake was nonfunctional due
+to the replacement of the nitrogen bottle. During this time period, the "B" MDCT fan was inoperable and therefore the
+Division 2 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS
+LCO 3.8.1 Required Actions B.1 and B.2 were not completed within their Completion Times and this is reportable under
+10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+5) At 1432 EST on December 11, 2014, while operating in Mode 1 at 58% power, the main nitrogen bottle for the "A"
+MDCT fan brake was found out-of-specification low. A work order was generated to replace the bottle. From 1432 EST
+on December 11 until the bottle replacement was completed at 1319 EST on December 18 (i.e. approximately 7 days), the
+"A" MDCT fan brake was nonfunctional due to the nitrogen bottle being out-of-specification and then being replaced.
+During this time period, the "A" MDCT fan was inoperable and therefore the Division 1 UHS reservoir was inoperable as
+well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS LCO 3.8.1 Required Actions B.1, B.2, B.3.1
+(or B.3.2), B.4, and G and TS LCO 3.7.2 Required Actions B.1, D.1, and D.2 were not completed within their Completion
+Times and this is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+6) At 1106 EST on January 6, 2015, while operating in Mode 1 at 100% power, the main nitrogen bottle for the "B" MDCT
+fan brake was found out-of-specification low. A work order was generated to replace the bottle. From 1106 EST on
+January 6 until the bottle replacement was completed at 1441 EST on January 9 (i.e. approximately 76 hours), the "B"
+MDCT fan brake was nonfunctional due to the nitrogen bottle being out-of-specification and then being replaced. During
+NRC FORM 3W6(A06- 2016) Page -5 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 103112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+,.e lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINU CO A N T TN I U O AT N ON S S HE E E E T T F53), Infocol U le . c S ts . .R N es u o c u le r a c r e @ R n e r g c. u g l o at v o , r y a nd C o to m t m he i ss D io e n s , k O W ffi a c s e h r i , n O gt f o fi n ce , o D f C In fo 2 r 0 m 5 a 5 t 5 io -0 n 0 0 a 1 n , d R o e r g u b la y t or e y - m A a ff i a l irs t , o
+'., NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form u N s R e C d t m o a i m y p n o o s t e c a o n n d in u fo c r t m o a r t io s n p o c n o s ll o e r c , t i a o n n d d a oe p s e n rs o o t n d is i p s la n y o t a r c e u q r u r i e r n ed tl y t v o a l r i e d s O po M n B d c t o o n , tr t o h l e n i u n m fo b rm er a , t t io h n e
+http://www nag~ov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER YEAR 3 SE . L Q E U R E N N T U I M A B L ER REV
+NUMBER NO.
+05000--
+Fermi2 341 2016- 006 - 0
+NARRATIVE
+this time period, the "B" MDCT fan was inoperable and therefore the Division 2 UHS reservoir was inoperable as well. No
+entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS LCO 3.8.1 Required Actions B.1, B.2, B.3.1 (or B.3.2),
+and B.4 and TS LCO 3.7.2 Required Action B.1 were not completed within their Completion Times and this is reportable
+under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS. Since the bottle replacement was required
+after the bottle was already out-of-specification, this was not considered pre-planned maintenance. The Division 2 UHS
+reservoir is the heat sink for the Division 2 Emergency Equipment Service Water (EESW) / Emergency Equipment Cooling
+Water (EECW) [[CC]] subsystems. Division 2 EESW/EECW is necessary to support the operability of the High Pressure
+Coolant Injection (HPCI) [[BJ]] system, which is a single train system. During the approximately 76 hour time-frame
+discussed above, the inoperability of the UHS could have prevented the HPCI system from fulfilling its safety function to
+mitigate the consequences of an accident. Therefore, this occurrence is also reportable under 10 CFR 50.73(a)(2)(v)(D)
+as an event or condition that could have prevented the fulfillment of the safety function of structures or systems that are
+needed to mitigate the consequences of an accident. This was not reported as an 8-hour Event Notification under 10 CFR
+50.72(b)(3)(v)(D) since the described condition no longer existed at the time of discovery in August 2016.
+7) At 0852 EST on January 23, 2015, while operating in Mode 1 at 100% power, the main nitrogen bottle for the "A" MDCT
+fan brake was found out-of-specification low. A work order was generated to replace the bottle. From 0852 EST until the
+bottle replacement was completed at 1632 EST on January 23 (i.e. approximately 7.5 hours), the "A" MDCT fan brake was
+nonfunctional due to the nitrogen bottle being out-of-specification and then being replaced. During this time period, the "A"
+MDCT fan was inoperable and therefore the Division 1 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2
+or 3.8.1 was made related to this. Thus, TS LCO 3.8.1 Required Actions B.1 and B.2 were not completed within their
+Completion Times and this is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+8) At 1000 EDT on March 23, 2015, while in Mode 4 at 0% power and at a reactor pressure vessel temperature of
+approximately 100 degrees F, the main nitrogen bottle for the "A" MDCT fan brake was found out-of-specification low.
+Subsequently, the other nitrogen bottles for the "A" MDCT fan brake were also found out-of-specification low. A work
+order was generated to replace the main nitrogen bottle. From 1000 EDT on March 23 until the bottle replacement was
+completed at 1447 EDT on April 9 (i.e. approximately 17 days), the "A" MDCT fan brake was nonfunctional due to the
+nitrogen bottle being out-of-specification and then being replaced. This occurred during a forced outage which had begun
+on March 21 and was completed on April 3 when Mode 4 was exited. By the time the "A" MDCT fan brake was functional
+again, the plant had returned to Mode 1 at 100% power. During the 17 day time period, the "A" MDCT fan was inoperable
+and therefore the Division 1 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 was made related to this
+and TS LCO 3.7.2 Required Actions B.1, D.1, and D.2 were not completed within their Completion Times. In Mode 4 (i.e.
+the forced outage), TS LCO 3.8.2 only requires a single division of EDGs to be operable. Until March 27, the Division 2
+UHS and EDGs were the ones credited to be operable. This configuration was acceptable per the TS. However starting
+on March 27 at 2320 EDT, the Division 1 UHS reservoir and EDGs were the ones credited to be operable at that time.
+Since the Division 1 UHS and EDGs were made inoperable by the "A" MDCT fan brake nonfunctionality, entry to TS LCO
+3.8.2 Condition B would have been required. Required Actions B.1 through B.3 were not applicable in Mode 4; however,
+Required Action B.4 was not performed within its Completion Time. Mode 4 was exited on April 3 with the Division 1 UHS
+and EDGs still inoperable due to the "A" MDCT fan brake nonfunctionality; this represented an unauthorized mode change
+per TS SR 3.0.4. After exiting Mode 4, the requirement for all EDGs to be operable per TS LCO 3.8.1 would have
+resumed. Although the Division 1 EDGs were still inoperable, no entry to TS LCO 3.8.1 was made related to this. Thus,
+TS LCO 3.8.1 Required Actions B.1, B.2, B.3.1 (or B.3.2), B.4, and G were not completed within their Completion Times.
+The failure to complete Required Actions within their Completion Times and the unauthorized mode change are reportable
+under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS. In addition, the "A" MDCT fan brake
+nonfunctionality coincided with approximately 29 hours during the forced outage and ensuing startup where various
+Division 2 SSCs, including Division 2 EDGs and EESW/EECW, were inoperable. This resulted in an unanalyzed condition
+NRC FORM 366A (06.2016) Page 6 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 31 50-0104 EXPIRES: 101312018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learnedar e incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F In 5 f 3 o ) c , oll U e . c S ts . .R N es u o c u le rc a e r @ R nr e c g .g u o la v t , o ry a nd C o to m t m he i ss D io e n sk , O W ff a ic s e h r i , n O gt f o fi n ce , o D f I C nfo 2 r 0 m 5 a 5 t 5 io -0 n 0 0 a 1 n , d R o e r g u b la y to e ry -m A a f i f l a ir t s o ,
++.. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. Ifa means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form u N s R e C d t m o a im y p n o o s t e c a o n n i d n u fo c r t m o a r t i s o p n o c n o s l o le r, c t a io n n d d o a e s p e n r o s t o n d is is pl a n y o t a r c e u q r u re ir n e t d ly v to a li r d e s O po M n B d c t o o n , t t r h o e l n i u n m fo b rm er a , t t io h n e
+http://www.nrcgov/reading-rm/doc-collections/nurigs/staff/sr1022/r3/ collection.
+___
+1. FACILITY NAME 2. DOCKET NUMBER Y YE 3 A R SE L Q E U R E N N U TI M A B L E R REV
+-- NUMBER NO.
+05000-
+Fermi2 341 2016 -
+NARRATIVE
+because the plant configuration when equipment in Division 2, such as EDGs or EESW/EECW, was inoperable while the
+Division 1 UHS and EDGs were inoperable would not support safe shutdown capability in the event of a tornado. This is
+reportable under 10 CFR 50.73(a)(2)(ii)(B) as an event or condition that results in the plant being in an unanalyzed
+condition that significantly degraded plant safety. It was previously reported to the NRC under 10 CFR 50.72(b)(3)(ii)(B)
+on August 31, 2016 (Event Notification 52214). The times when both EESW/EECW subsystems were inoperable or one
+or more EDGs in both divisions were inoperable is also reportable under 10 CFR 50.73(a)(2)(v)(B) and (D) as an event or
+condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to
+remove residual heat and mitigate the consequences of an accident, respectively. This was not reported as an 8-hour
+Event Notification under 10 CFR 50.72(b)(3)(v)(B) or (D) since the described condition no longer existed at the time of
+discovery in August 2016.
+9) On July 4, 2015, the main nitrogen bottle for the "B" MDCT fan brake was identified as in its required range, but nearing
+its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the bottle
+found out-of-specification other than during this pre-planned maintenance. From 0810 EDT to 1522 EDT on July 9 (i.e.
+approximately 7 hours), while operating in Mode 1 at 100% power, the "B" MDCT fan brake was nonfunctional due to the
+replacement of the nitrogen bottle. During this time period, the "B" MDCT fan was inoperable and therefore the Division 2
+UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS LCO 3.8.1
+Required Actions B.1 and B.2 were not completed within their Completion Times and this is reportable under 10 CFR
+50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+10) On December 5, 2015, the main nitrogen bottle for the "B" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the
+bottle found out-of-specification other than during this pre-planned maintenance. From 1126 EST to 1717 EST on
+December 7 (i.e. approximately 6 hours), while operating in Mode 1 at 100% power, the "B" MDCT fan brake was
+nonfunctional due to the replacement of the nitrogen bottle. During this time period, the "B" MDCT fan was inoperable and
+therefore the Division 2 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to
+this. Thus, TS LCO 3.8.1 Required Actions B.1 and B.2 were not completed within their Completion Times and this is
+reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+11) On January 22, 2016, the main nitrogen bottle for the "A" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the
+bottle found out-of-specification other than during this pre-planned maintenance. From 0845 EST to 1109 EST on
+January 23 (i.e. approximately 2.5 hours), while operating in Mode 1 at 100% power, the "A" MDCT fan brake was
+nonfunctional due to the replacement of the nitrogen bottle. During this time period, the "A" MDCT fan was inoperable and
+therefore the Division 1 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to
+this. Thus, TS LCO 3.8.1 Required Action B.1 was not completed within its Completion Time and this is reportable under
+10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+12) On February 19, 2016, the main nitrogen bottle for the "A" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the
+bottle found out-of-specification other than during this pre-planned maintenance. From 0801 EST to 1407 EST on
+February 29 (i.e. approximately 6 hours), while operating in Mode 1 at approximately 60% power, the "A" MDCT fan brake
+was nonfunctional due to the replacement of the nitrogen bottle. During this time period, the "A" MDCT fan was
+inoperable and therefore the Division 1 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was
+made related to this. Thus, TS LCO 3.8.1 Required Actions B.1 and B.2 were not completed within their Completion
+Times and this is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+NRC FORM 36A (06-2016) Page 7 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY MB: NO. 3150-0104 EXPIRES: 10,31,2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LIC N E Elessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and InformatiCoonll ections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+U SInfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+++. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See h tt N p U :/ R /w E w G w -1 .n 0 r 2 c 2 .g , o R v . / 3 r e f a o d r i i n n g st - r r u m c / ti d o o n c c a o n l d le c g t u io id n a s n /n c u e r e fo g r s c /s o t m af p f/ l s e r t 1 in 0 g 2 2 th /r i 3 s / 1 fo rm u N s R e C d t m o a im y p n o o s t e c a o n n i d n u fo c r t m o a r t io s n p o c n o s l o le r c , ti a o n n d d a oe p s e n rs o o t n d is i p s la n y o a t r c e u q r u re ir n e t d ly t v o a li r d e s O p M on B d c to o , n t t r h o e l n i u n m fo b rm er a , t t io h n e
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SE N Q U U M E B N E T R IA L R N E O V .
+05000-
+Fermi 2 341 2016 - 0 - 0
+NARRATIVE
+13) On March 17, 2016, the main nitrogen bottles for the "A" and "C" MDCT fan brakes were both identified as in their
+required ranges, but nearing their lower limits. Work orders were generated to replace the bottles before they exceeded
+their limits. At no time were the bottles found out-of-specification other than during this pre-planned maintenance. From
+0855 EDT to 1738 EDT on April 6 (approximately 8.5 hours), while operating in Mode 1 at 100% power, the "A" MDCT fan
+brake was nonfunctional due to the replacement of the nitrogen bottle. From 0856 EDT on April 6 to 1641 EDT on April 7
+(i.e. approximately 32 hours), while operating in Mode 1 at 100% power, the "C" MDCT fan brake was nonfunctional due
+to the replacement of the nitrogen bottle. During this cumulative time period of approximately 32 hours, one or both of the
+"A" and "C" MDCT fans were inoperable and therefore the Division 1 UHS reservoir was inoperable as well. No entry to
+TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS LCO 3.8.1 Required Actions B.1, B.2, and B.3.1 (or B.3.2) were
+not completed within their Completion Times and this is reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation or
+condition prohibited by TS. In addition, the "A" and "C" MDCT fan brakes nonfunctionality coincided with a test of a
+Division 2 EDG. The Division 2 EDG test resulted in EDG 14 being inoperable at 1347 EDT on April 6 for a period of 22
+seconds. Both EDGs in one division are required to provide AC power. During the 22 second time-frame on April 6, one
+or more EDGs in both divisions were inoperable. EDG 14 was restored to operable status within the allowable Completion
+Time of LCO 3.8.1 Condition C Required Action C.1. However, this resulted in an unanalyzed condition because the plant
+configuration when Division 2 EDG 14 was inoperable while the Division 1 UHS and EDGs were inoperable would not
+support safe shutdown capability in the event of a tornado. This is reportable under 10 CFR 50.73(a)(2)(ii)(B) as an event
+or condition that results in the plant being in an unanalyzed condition that significantly degrades plant safety. It was
+previously reported to the NRC under 10 CFR 50.72(b)(3)(ii)(B) on August 25, 2016 (Event Notification 52202). The
+occurrence of one or more EDGs in both divisions being inoperable is also reportable under 10 CFR 50.73(a)(2)(v)(B) and
+(D) as an event or condition that could have prevented the fulfillment of the safety function of structures or systems that
+are needed to remove residual heat and mitigate the consequences of an accident, respectively. This was not reported as
+an 8-hour Event Notification under 10 CFR 50.72(b)(3)(v)(B) or (D) since the described condition no longer existed at the
+time of discovery in August 2016.
+14) On April 23, 2016, the main nitrogen bottles for the "B" and "D" MDCT fan brakes were both identified as in their
+required ranges, but nearing their lower limits. Work orders were generated to replace the bottles before they exceeded
+their limits. At no time were the bottles found out-of-specification other than during this pre-planned maintenance. From
+approximately 0500 EDT on April 28 to 1240 EDT on April 29 (i.e. approximately 32 hours), while operating in Mode 1 at
+100% power, both the "B" and "D" MDCT fan brakes were nonfunctional due to the replacement of the nitrogen bottles.
+During this time period, both the "B" and "D" MDCT fans were inoperable and therefore the Division 2 UHS reservoir was
+inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS LCO 3.8.1 Required Actions
+B.1, B.2, and B.3.1 (or B.3.2) were not completed within their Completion Times and this is reportable under 10 CFR
+50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+15) On April 26, 2016, the main nitrogen bottle for the "A" MDCT fan brake was identified as in its required range, but
+nearing its lower limit. A work order was generated to replace the bottle before it exceeded its limit. At no time was the
+bottle found out-of-specification other than during this pre-planned maintenance. From 1241 EDT to 1552 EDT on April 29
+(i.e. approximately 3 hours), while operating in Mode 1 at 100% power, the "A" MDCT fan brake was nonfunctional due to
+the replacement of the nitrogen bottle. During this time period, the "A" MDCT fan was inoperable and therefore the
+Division 1 UHS reservoir was inoperable as well. No entry to TS LCO 3.7.2 or 3.8.1 was made related to this. Thus, TS
+LCO 3.8.1 Required Action B.1 was not completed within its Completion Time and this is reportable under 10 CFR
+50.73(a)(2)(i)(B) as an operation or condition prohibited by TS.
+NRC FORM 366A (06-2016) Page 8 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY MB: NO. 31 50-0104 EXPIRES: 1013112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) commenretsga rding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+c' . CONTINUATION SHEET F in 5 f 3 o ) c , o ll U ec . t S s.R .N es u o c u le rc a e r @ R n e rc g . u g l o a v to , ry a nd C o to m t m he is s D io e n s , k O W ff a ic s e h r i , n O gt f o fi n ce , o D f I C nf o 2 r 0 m 5 a 5 t 5 io -0 n 0 a 0 n 1 d , R o e r gu b l y a to e ry -m A a f i f l a ir t s o ,
+.. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See h tt N p_ U :/ R /w E w G w - . 1 n 0 rc 2 . 2 g , o R v . r 3 e a fo d r in in g s t r r m uc /d ti o o c n - c a o n l d le c g t u io id n a s n /n c u e r e fo g r s c /s o t m af p f/ l s e r t 1 in 0 _ g _ 2 g 2 - t _ h / g r i _ s 3 _ / f ) o rm u N co s R e ll C e d c t t m i o o a n i m y . p n o o s t e c a o n nd i n uc f t o o r r m sp a o ct n oi s ol o le r nc , t i a o n n d d o a e s p e n rs o o t n d is is pl a n y o t a r e c q u u rr i e re n d tl y t v o a l r id es O po M n B d c t o o nt ,t r h o e l n i u n m fo b rm er a , ti t o h n e
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi2 341 2016
+NARRATIVE
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+As described previously, the MDCT fan brakes are only required for a design basis tornado; they are not required for other
+design basis events. No tornado watches or warnings occurred during the time-frames above when MDCT fan brakes
+were nonfunctional. Since there was no credible threat of a tornado during any of the periods when the MDCT fan brakes
+were nonfunctional, the MDCT fans and associated UHS would have been able to perform their intended functions. Also
+note that 8 out of 15 of the occurrences discussed in this LER occurred during the months of December, January, and
+February. Historical weather data from more than 50 years shows that tornadoes are extremely rare in Michigan during
+those particular months.
+A bounding risk evaluation was performed to assess the on-line Probabilistic Safety Assessment (PSA) risk impact of the
+MDCT fan brakes being unable to perform their function in the event of a tornado strike to the Fermi 2 RHR complex (i.e.
+where the MDCTs are located). Using the limiting configuration of both Division 2 MDCT cells (i.e. the "B" and "D" fans)
+unavailable for an entire year yields increases in core damage frequency (CDF) and large early release frequencies
+(LERF) of 2.38E-07 per year and 7.20E-08 per year, respectively. Changes in CDF below 1.0E-06 per year and changes
+in LERF below 1.0E-07 per year are considered to be of very low safety significance.
+Although the TS Bases indicate that both MDCT fans are required for that UHS division to be operable, it should also be
+noted that the PSA success criteria require that only one MDCT cell be available in a division for that division to remove
+decay heat; this limits the risk impact of a single MDCT fan brake in a division being unavailable. Of the 15 occurrences
+described above, 13 involve impact to only one MDCT cell (i.e. only a single MDCT fan brake is nonfunctional) in a
+division at a time. While these occurrences do represent conditions prohibited by TS, they still met the PSA success
+criteria.
+During shutdown conditions (Modes 4 and 5), the site shutdown risk procedure would have, on two occasions, evaluated
+the outage risk color as red (one time for both divisions of UHS inoperable (i.e. number 3) and one time for one division of
+UHS inoperable with inoperable EDGs in the other division (i.e. number 8)). In neither case, however, were both MDCT
+fan brakes within a division nonfunctional, meaning the UHS was available for decay heat removal in the event of a
+tornado strike to the RHR complex; the risk of this configuration is qualitatively deemed to be low.
+As discussed above for the occurrence from January 6 to 9, 2015 (i.e. number 6), the nonfunctionality of the "B" MDCT fan
+brake could have prevented the HPCI system from fulfilling its safety function. However, the Reactor Core Isolation
+Cooling (RCIC) [[BN]] system remained available for high pressure injection in the event of an emergency. The Standby
+Feedwater [[SJ]] system was also available for high pressure injection, except for a 1.5 hour period on January 9 during a
+surveillance test. Additionally, the Automatic Depressurization System [[JE]] was available to reduce reactor pressure to
+within the capabilities of the low pressure Emergency Core Cooling Systems. The longest instance where HPCI could
+have been prevented from fulfilling its safety function as a result of the MDCT fan brake nonfunctionality was
+approximately 76 hours. TS 3.5.1 allows HPCI to be taken out of service for planned outages for up to 14 days. The risk
+increase associated with the impact to HPCI is bounded by the PSA evaluation for Division 2 discussed above. It is also
+important to note that, although HPCI was considered inoperable due to the propagation of TS requirements for UHS and
+was therefore considered a loss of safety function in this LER, HPCI is not a system required for safe shutdown in the
+event of a tornado per UFSAR Table 3.3-2. HPCI is required for design basis accidents such as a loss of coolant accident
+(LOCA).
+As discussed above for the occurrence from January 24 to 31, 2014 (i.e. number 2), the nonfunctionality of the "A" MDCT
+fan brake combined with work on the Division 2 SGTS could have prevented the SGTS from fulfilling its safety function.
+Page 9 of 11
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYO MB: NO. 3150-0104 EXPIRES: 1013112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons leamed are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+- C N NN Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
++.. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See h t N tp U :// R w E w G w - . 1 n 0 r 2 c 2 g , o R vl . r 3 e f a o d r i i n n g s - tr r u m c / t d io o n c - a c n o d l l g e u c i t d io an n c s/ e n u fo r r e g co s/ m st p a l f e f t / i s n r g 0 2 th 2 is /r 3 fo / r ) m u N s R e C d to m a im y p n o o s t e c a o n n d in u fo c r t m o a r t io s n p o c n o s l o le r c , ti a o n n d d a oe p s e n rs o o t n d is i p s la n y o t a r c e u q r u r i e re n d tl y t v o a l r i e d s O po M n B d c t o o n , tr t o h l e n i u n m fo b rm er a , ti t o h n e
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3 LER NUMBER
+IYEAR
+SEQUENTIAL REV
+- NUMBER NO.
+05000-
+Fermi2 341 2016 -
+NARRATIVE
+However, the Reactor Building Heating Ventilation and Air Conditioning (RBHVAC) [[VA]] system remained available
+during that time to maintain the Secondary Containment (SC) [[NH]] pressure boundary. It is also important to note that,
+although SGTS was considered inoperable due to the propagation of TS requirements for UHS and was therefore
+considered a loss of safety function in this LER, SGTS is not a system required for safe shutdown in the event of a
+tornado per UFSAR Table 3.3-2. SGTS is required for design basis accidents such as a LOCA.
+Offsite power was available during all fifteen of the occurrences. Combustion Turbine Generator (CTG) [[GEN]] 11-1
+serves as an alternate AC power source for Fermi 2 during station blackout conditions. CTG 11-1 was operable during all
+of these occurrences with the exception of a three day period from March 25 to 28, 2015 that overlapped with the
+occurrence from March 23 to April 9, 2015 (i.e. number 8). The continued availability of offsite power plus the availability
+of CTG 11-1, with the one exception noted, reduces the consequence of the potential loss of safety function of the EDGs.
+There were no radiological releases associated with any of the occurrences discussed in this event.
+CAUSE OF THE EVENT
+The cause of the event was an incorrect proceduralized TS interpretation. Fermi 2 utilizes an Operations Department
+Expectation (ODE) to provide guidance for implementing LCOs. ODE-12, Revision 36, "LCOs," contained specific
+guidance on how to treat nonfunctionality of the MDCT fan brakes. This guidance incorrectly directed Operations
+personnel to declare the MDCT fan inoperable only if a tornado watch or warning was issued for the area surrounding
+Fermi 2. This guidance was based on a letter dated December 28, 1989 in which DTE notified the NRC of the intent to
+determine MDCT fan operability in this manner. DTE had assumed that this position was acceptable to the NRC and
+therefore had implemented this position in the ODE. However, based on a discussion and review during the August 2016
+CDBI, it was determined that the NRC had never approved this position and that the position was incorrect.
+The individual occurrences of MDCT fan brake nonfunctionality discussed above were all related to the brake system
+nitrogen bottles. There are several causes for the nitrogen bottle pressures to be nearing their limits or out-of-
+specification. The nitrogen bottles may slowly lose pressure over time due to imperfect leak-tightness of the system or
+may decrease more rapidly if there is a more significant leak. In addition, the pressure in the bottles may be impacted by
+the ambient temperature due to weather changes (i.e. winter to summer and vice-versa) or operating equipment nearby,
+such as surveillance testing of the MDCT fans.
+CORRECTIVE ACTIONS
+As described above, the inadequate interpretation of TS was embedded in the procedure ODE-12. Corrective action has
+been taken to revise ODE-12 (Revision 37 dated August 27, 2016) such that it now states that "If the MDCT fan brake(s)
+are not meeting their ability to function for any reason including nitrogen pressures, the associated MDCT fan will be
+declared INOPERABLE and actions taken in accordance per TS 3.7.2." The revised ODE has already been used since
+that time to prompt the appropriate entry into the Technical Specifications following detection of a nitrogen bottle out-of-
+specification for the MDCT "C" fan brake on August 29, 2016.
+The corrective actions associated with the individual occurrences were discussed as part of the description of the
+occurrence. In all cases, the main nitrogen bottle was replaced to restore the pressure to within the required limits.
+In addition, DTE will evaluate potential modifications to the nitrogen bottle configuration to reduce the frequency of
+nitrogen bottle replacement and/or reduce the time required to replace a nitrogen bottle.
+NRC FORM 366A (06-2016) Page 10 of 11
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY UMB: NO. 3150-0104 EXPIRES: 1013112018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons leamed are incorporated intot he licensinpgro cess and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy andIn formation Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and tot he Desk Officer, Office of Information and Regulatory Affairs,
++++ NEOB-10202, (3150-0104), Office of Management andB udgeWt, ashington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://rwwnrc gov/reading-rm/doc-collections/nuregs/staff/sr1022Nr3) NRC may not conduct or sponsor, and a person is not required to respond to,t he information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341 2016-006 - 00
+NARRATIVE
+PREVIOUS OCCURRENCES
+The previous occurrences of the inadequate interpretation of TS related to the operability of the MDCT fan brake system
+within the past three years were discussed in this LER. Two other LERs regarding the operability of the MDCT fan brake
+system were identified. LER 99-008-00 documented a condition prohibited by TS for a MDCT fan brake being inoperable
+due to valve misalignment. The corrective actions associated with LER 99-008-00 addressed the valve alignment
+problems and did not address the question of how the operability of the MDCT fans is treated when the fan brake nitrogen
+pressures are outside of specification. LER 89-016-01 documented a deficiency in the design of the power supply of the
+MDCT fan brake system that could have led to the system being inoperable. The corrective actions associated with LER
+89-016-01 included upgrades to the MDCT fan brake system and an engineering review which confirmed the necessity of
+the fan brakes during a design basis tornado. However, a review of LER 89-016-01 also resulted in the formulation of the
+DTE position that the fan brakes only needed to be operable when tornado conditions are present (i.e. watch or warning)
+which was communicated to the NRC by letter dated December 28, 1989. That DTE position taken in 1989 was the basis
+for the incorrect procedural guidance that caused the inadequate interpretation of TS as discussed in this LER. Therefore,
+these previous occurrences would not have prevented the condition described in this LER.
+NRC FORM 366A (06-2016) Page 11 of 11

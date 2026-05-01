@@ -1,0 +1,214 @@
+•
+Entergy Operations, Inc.
+River Berid Station
+5485 U.S. Highway 61 N
+'-=-'Enter~
+St. Francisville, LA 70775
+Tel 225-381-4157
+William F. Maguire
+Site Vice President
+RBG-47754
+May 9, 2017
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Licensee Event Report 50-458 I 2017-003-00
+River Bend Station - Unit 1
+Docket No. 50-458
+License No. NPF-47
+RBF1-17-0053
+Dear Sir or Madam:
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Mr. Tim
+Schenk at 225-381-4177.
+-
+Sincerely,
+WFM/dhw
+Enclosure
+I
+cc: U.S. Nuclear Regulatory Commission
+Region IV '·
+1600 East Lamar Blvd.
+Arlington, TX 76011-4511
+NRC Sr. Resident Inspector
+P. 0. Box 1050 ·
+St. Francisville, LA 70775
+INPO
+(via ICES reporting)
+:I
+Licensee Event Report 50-458 I 2017-003-00
+May 9, 2017
+RBG-47754
+Page 2 of 2
+Central Records Clerk
+Public Utility Commission of Texas
+1701 N. Congress Ave.
+Austin, TX 78711-3326
+Department of Environmental Quality
+Office of Environmental Compliance
+Radiological Emergency Planning and Response Section
+Ji Young Wiley
+P.O. Box 4312
+Baton Rouge, LA 70821-4312
+(
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours .
+.~ lf'. v•~"-"'1 ''\. ... Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+~.
+(See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+'e<\1 ......... Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an infonmation collection does not display a currently valid OMB control number,
+htto://www.nrc.gov/reading-rm/doc-collections/nuqilgs/staff/sr1022/r30 the NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+River Bend Station - Unit 1 05000-458 1 OF3
+4. TITLE
+Manual Reactor Scram Initiated in Resoonse to Increase in Steam Pressure During Steam Leak Troubleshootina
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITY NAME DOCKET NUMBER
+03 10 2017 2017 003 00 05 09 2017
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) [8J 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+15 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+'
+D 20.2203(a)(2)(v) . D 50. 73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT llLEPHONE NUMBER (Include Area Code)
+lrim Schenk, Manager - Regulatory Assurance ~25-381-4177
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+(see text)
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+~BSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 10, 2017, at approximately7:14 a.m. CST, the reactor operator manually actuated a reactor scram in response to an.
+abnormal increase in steam pressure. Reactor power was approximately 15 percent at the time. The turbine generator had been
+synchronized to the grid at 5:13 a.m. on March 10, and was being closely monitored by engineers and operators since a major
+modification to the turbine electro-hydraulic control (EHC) system had been installed during the recent refueling outage.
+Approximately 45 minutes prior to the manual scram, a main control room alarm actuated indicating a problem with the EHC system.
+A few minutes later, it was reported from the turbine building that there was a steam leak in the area of the EHC steam pressure
+transmitters. Shortly thereafter, reactor pressure began to increase with no demand signal present, at which time the reactor
+operator initiated the scram. The main feedwater system remained in service, and reactor water level control performed normally as
+designed. No reactor safety-relief valves actuated. The main turbine bypass valves did not open following the shutdown, and
+engineering review determined this condition was consistent with the response to the abnormal configuration of the EHC system
+pressure transmitters created by efforts to isolate the leak locally. Approximately five minutes after the scram, the outboard main
+steam isolation valves were manually closed to limit the reactor cooldown rate. This event resulted from the incorrect installation of a
+new compression fitting in the steam pressure instrumentation tubing for the main turbine control system. This event is being
+reported in accordance with 10 CFR 50. 73(a)(2)(iv)(A) as a manual actuation of the reactor protection system.
+NRC FORM 366 (04-2017)
+--- - ---------
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER}
+comments. regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+htto://wmJ.nrc.gov/reading-nn/doc-collections/nureqs/staff/sr1022/r3D NRC may not conduct or sponsor, and a. person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+River Bend Station - Unit 1 05000-458 NUMBER NO.
+2017 003 00
+NARRATIVE
+REPORTED CONDITION
+On March 10, 2017, at approximately 7:14 a.m. CST, the reactor operator manually actuated a reactor scram in response
+to an abnormal increase in steam pressure. Reactor power was approximately 15 percent at the time, and the turbine
+generator was on· line. The reactor had been taken critical at 4:39 p.m. on March 8 following a refueling outage, and
+power ascent was in progress. The turbine generator had been synchronized to the grid at 5:13 a.m. on March 10, and
+was being closely monitored by engineers and operators since a major modification to the turbine electro-hydraulic
+control (EHC) system [JI] had been installed during the outage.
+Approximately 45 minutes prior to the manual scram, a main control room alarm actuated indicating a problem with the
+EHC system. A few minutes later, it was reported from the turbine building that there was a steam leak in the area of the
+steam pressure transmitters. The operations shift manager held a briefing with the operators on potential effects of the
+field observations, the single-point vulnerability of the transmitter configuration, and the possibility of a main turbine
+trip. Shortly thereafter, reactor pressure began to increase with no demand signal present. This response likely resulted
+from efforts to isolate the steam leak.
+The main feedwater system remained in service, and reactor water level control was performed normally. No reactor
+safety-relief valves actuated. The main turbine bypass valves did not open following the shutdown, and engineering
+review determined this condition was consistent with the response to the abnormal configuration of the EHC system
+pressure transmitters created by efforts to isolate the leak locally. Approximately five minutes after the scram, the
+outboard main steam isolation valves were manually closed to limit the reactor cooldown rate.
+Other than scheduled testing on the Division 1 diesel generator, no safety-related systems were out of service at the time
+of the scram.
+This event is being reported in accordance with 10 CFR 50. 73(a)(2)(iv)(A) as a manual ·actuation of the reactor protection
+system
+INVESTIGATION
+I
+During the recent refueling outage, a digital control system had been installed on the main steam turbine bypass
+pressure regulation system. Part of that modification involved the installation of a new main turbine steam throttle
+pressure transmitter (**PT**) near the high pressure turbine. The transmitter was to be installed adjacent to two
+existing steam pressure transmitters by adding a tee fitting into an existing run of tubing (**TBG**). One of the newly
+installed tubing compression fittings· separated during efforts to isolate the leak. Examination of the components
+concluded that the ferrule in the fitting was not fully inserted, and did not compress adequately to engage the surface of
+the tubing when the nut was tightened.
+NRC FORM 366A (04-2017) Page 2 of 3
+i- --- -----
+\ \.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureos/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+River Bend Station - Unit 1 05000-458 NUMBER NO.
+2017 003 00
+!The tee fitting was installed by two qualified pipefitters who were contracted for the refueling outage, with oversight
+provided by a contract pipefitter foreman. The field work to complete the fit-up of the tee connection was specified as
+Quality Control (QC) Hold Point. The contract foreman stated that he was present during the fit-up of the tee connection
+and that the technicians performed the work as required, fitting each of the three connections and tightening them one
+at a time starting with the top compression fitting and ending. with the bottom connection. When the fittings were tight,
+he observed the technicians use a gap tool to verify proper gap and engagement of the compression nut on the tee
+connection body.
+CAUSAL ANALYSIS
+·!This event resulted directly from the incorrect installation of the tee compression fitting for the new steam pressure
+transmitter. A contributing cause was the lack a standard process on how to properly verify compression tubing and
+fitting engagement is maintained during the tightening process. (
+CORRECTIVE ACTION TO PREVENT RECURRENCE
+A maintenance procedure will be developed to address the proper installation of compression fittings. This action will be
+tracked in the corrective action program.
+PREVIOUS OCCURRENCE EVALUATION
+RBS has reported no similar events in the last three years.
+SAFETY SIGNIFICANCE
+h"he plant responded as designed to the transient. The response of the main turbine bypass valves resulted from the
+efforts to isolate the steam leak, and was, by itself, of no consequence to the operators' response to the event. The
+steam leak was isolated by closure of an instrument valve. The outboard main steam isolation valves were manually
+closed in accordance with procedures to manage reactor cooldown rate. There were no injuries as a result of the steam
+leak. This event was, thus, of minimal significance to the health·.and safety of the public.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or
+system referred to in the LER are annotated as (**XX**) and [XX], respectively.)
+Page 3 of 3
+NRC FORM 366A (06-2016)

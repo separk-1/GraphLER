@@ -1,0 +1,222 @@
+10CFR50.73
+Virginia Electric and Power Company
+Surry Power Station
+5570 Hog Island Road
+Surry, Virginia 23883
+September 19, 2022
+U. S. Nuclear Regulatory Commission Serial No.: 22-247
+Attention: Document Control Desk SPS: MSG
+Washington, D. C. 20555-0001 Docket No.: 50-280
+50-281
+License No.: DPR-32
+DPR-37
+Dear Sir or Madam:
+Pursuant to 10 CFR50.73, Virginia Electric and Power Company hereby submits the
+following Licensee Event Report applicable to Surry Power Station Unit 1 and Unit 2.
+Report No. 50-280/2022-002-00
+This report has been reviewed by the Station Facility Safety Review Committee and will
+be forwarded to the Management Safety Review Committee.
+Very truly yours,
+Site Vice President
+Surry Power Station
+Enclosure
+Commitments contained in the LER: None
+cc: U.S. Nuclear Regulatory Commission, Region II
+Marquis One Tower, Suite 1200
+245 Peachtree Center Ave., NE
+Atlanta, GA 30303-1257
+NRC Senior Resident Inspector
+Surry Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+http://www. n re.gov/ reading-rm/doc-co Il ecti ons/n ureg s/staff/ sr 10 22/r3/} Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+Surry Power Station, Unit 1
+05000 280 1 OF 4
+4. Title
+Failure of Unit 1 Emergency Diesel Generator Results in an Operation or Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+Surry Power Station, Unit 2 05000 281
+- -
+07 25 2022 2022 002 00 09 15 2022 Facility Name Docket Number
+05000
+110.
+9. Operating Mode Power Level
+N/N 100/100
+11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: (Check all that apply)
+(cid:143) (cid:143) (cid:143) (cid:143)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50. 73(a)(2)(iv)(A) 50. 73(a)(2)(x)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50. 73(a)(2)(v)(A) 10 CFR Part 73
+(cid:143) (cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(d) 20.2203(a)(3)(ii) 50.69(9) 50. 73(a)(2)(v)(B) 73. 71 (a)(4)
+(cid:143) (cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(1) 20.2203(a)(4) 50. 73(a)(2)(i)(A) 50. 73(a)(2)(v)(C) 73.71(a)(5)
+(cid:143) (cid:143) (cid:143)
+[Z]
+20.2203(a)(2)(i) 10 CFR Part 21 50. 73(a)(2)(i)(B) 50. 73(a)(2)(v)(D) 73. 77(a)(1 )(i)
+(cid:143) D (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(ii) 21.2(c) 50. 73(a)(2)(i)(C) 50. 73(a)(2)(vii) 73. 77(a)(2)(i)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iii) 10 CFR Part 50 50. 73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A) 73. 77(a)(2)(ii)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50. 73(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(v) 50.36(c)(1 )(ii)(A) 50. 73(a)(2)(iii) 50. 73(a)(2)(ix)(A)
+(cid:143)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Fred Mladen, Site Vice President, Surry Power Station (757) 365-2001
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B EK DG G080 y
+14. Supplemental Report Expected Month Day Year
+ID 15. Expected Submission Date
+[Zj No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 25, 2022, with both Surry Power Station Units 1 and 2 at 100% power, the 7-day Technical Specification (TS) Allowed
+Outage Time (AOT) for an emergency diesel generator (EDG) was exceeded due to a partial loss of load during monthly
+surveillance testing for the Unit 1 emergency diesel generator (EDG-1 ), requiring repair and restoration. To complete the
+EDG-1 repair, balancing, testing, and return to service, a request for enforcement discretion was submitted and approved that
+extended the TS AOT by two days (for a total of nine days). During event troubleshooting, it was revealed that the cause was
+corrosion between the lugs of the field lead causing a hard ground on one pole of the generator rotor.
+The risk analysis performed for this event concluded that the increase in core damage and large early release probability
+remained within the NRC Enforcement Manual, Appendix F limits. Completed corrective actions included the replacement of
+the EDG-1 generator and verification of operability of the EDG-2 and EDG-3.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.n rc.g ov /reading-rm/doc-co Il ections/n ur egs/staff/ sr 10 22/r3/}
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+DYEA R SEQUENTIAL REV
+Surry Power Station, Unit 1 05000- , 280 ~-I NUMBER 1-NGO.
+I 002
+NARRATIVE
+PLANT OPERAT ING CONDITIONS BEFORE THE EVENT
+Surry Power Station (SPS) Unit 1 and Unit 2 were at 100% power.
+1.0 DESCRIPTION OF THE EVENT
+The SPS emergency diesel generator (EDG) [EIIS: DG] for Unit 1 (EDG-1) and Unit 2 EOG (EDG-2) are dedicated to
+emergency buses 1H and 2H [EIIS: BU], respectively. A third diesel generator (EDG-3) is provided as a "swing diesel"
+and is shared by both units (the "J" bus). Each EDG has 100% capacity and is connected to an independent 4160 V
+emergency bus. EDG-1 provides emergency power to certain equipment and systems common to Units 1 and 2,
+including the Auxiliary Feedwater system (AFW) [EIIS: BA] cross-tie between Units 1 and 2, the Auxiliary building [EIIS:
+NF] filter exhaust fan [EIIS: FAN], Main Control Room (MCR) [EIIS: NA] chiller [EIIS: CHU], and MGR/Emergency
+Switchgear Room [EIIS: EK] filtered supply fans [EIIS: FAN].
+At 0956 on July 18, 2022, the SPS EDG-1 for Unit 1 was removed from service to perform the monthly surveillance test.
+Approximately 20 minutes after reaching full load, EDG-1 experienced a partial loss of load. The MCR operators noted
+that the generator load had lowered and the generator output current indication was above the normal amps for fully
+loaded. Local field operators noted a change in engine sound normally associated with decreasing load; subsequently,
+EDG-1 was unloaded and ran unloaded for 30 minutes before being secured in accordance with the normal shutdown
+sequence. Following shutdown, EDG-1 was removed from service for investigation.
+Troubleshooting was performed, and it was discovered that a lead to the generator exciter [EIIS: EXC] was grounded. A
+physical inspection of this lead revealed a failure between the generator brush rigging and the panel wiring at the bolted
+connection point. A bridge and megger check on the generator stator was satisfactory. Further troubleshooting of the
+generator rotor indicated a hard ground on one out of eight (8) rotor poles.
+It was concluded that repairs to EDG-1 were necessary, including replacement of the generator. During the return-to
+service testing portion of the repair effort, activities required to complete the repair, perform post-maintenance testing, and
+return the SPS Unit 1 EDG-1 to service would not be accomplished within the 7-day Allowed Outage Time (AOT)
+(reference: TS 3.16.B.1.a.3 for an inoperable EOG), and as such, a request for enforcement discretion was requested
+and verbally approved on July 24, 2022, at 14:27. This enforcement discretion allowed a 2-day extension to the 7-day
+AOT to complete the EDG-1 return to service activities.
+TS 3.16.B.1.a.3 requires an inoperable EDG to be restored to service within seven (7) days or action be initiated to place
+the appropriate unit in a shutdown condition. In addition, TS 3.0.2 states that TS action statements associated with any
+individual systems, subsystems, trains, components, and devices that EDG-1 supports also would be governed by the 7-
+day EOG AOT. Since EDG-1 provides emergency power to certain equipment and systems common to Units 1 and 2, the
+shutdown of Unit 2 also would be required upon the expiration of the EDG-1, 7-day AOT.
+During final return-to-service testing, at 0956 on July 25, 2022, with both Surry Power Station (SPS) Unit 1 and Unit 2 at
+100% power, the AOT for TS 3.16.B.1.a.3 was exceeded for Unit 1. Additionally, TS 3.0.2 for Unit 2 was not satisfied due
+to the inoperability of EDG-1 beyond that allowed by TS 3.16.B.1.a.3. Both units remained at 100% power throughout the
+restoration of EDG-1 that was declared operable at 1705 on July 26, 2022.
+NRC FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/}
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+DYEA R SEQUENTIAL REV
+Surry Power Station, Unit 1 05000- 1 280 ~- I NUMBER 1-NGO.
+I 002
+NARRATIVE
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+Due to the unavailability of EDG-1, additional Probabilistic Risk Assessment (PRA) calculations were performed to support
+the requested enforcement discretion for the additional 48-hour extension of the AOT for TS 3.16. The additional PRA
+calculations performed, without compensatory measures included, indicated values of 3.301 E-08 for the Incremental
+Conditional Core Damage Probability (ICCDP) and 1.967E-09 for Incremental Conditional Large Early Release Probability
+(ICLERP), which were below the NRC Enforcement Manual, Appendix F, limits of 5E-7 for ICCDP and 5E-8 for ICLERP.
+Additionally, during the period of enforcement, compensatory actions were put in place for defense-in-depth protection.
+3.0 CAUSE OF THE EVENT
+The EDG-1 was in service for approximately 50 years when the generator failure occurred. A physical inspection of the
+field lead disclosed a failure between the generator brush rigging and the panel wiring at the bolted connection point.
+Further troubleshooting of the generator rotor indicated a hard ground on one (1) of eight (8) poles. The failure of the lead
+caused additional electrical stress on the insulation system of the field that resulted in the first coil on the pole closest to
+the field connection to fail to ground. The failed generator was sent to the vendor for failure analysis, and the vendor
+confirmed that the field circuit was grounded to the shaft through a grounded pole. From the failure analyses performed, it
+was revealed that the cause was corrosion between the lugs of the field lead that led to the hard ground on one pole of the
+generator rotor.
+4.0 IMMEDIATE CORRECTIVE ACTION
+EDG-1 was declared inoperable and removed from service. In accordance with TS 3.16.B.1.a.2, the EDG-2 and the
+swing EDG-3 were successfully run within 24 hours to demonstrate operability and to ensure that the EDGs were not
+susceptible to a common cause failure. Additionally, due to EDG-1 providing emergency power to the AFW cross-tie
+between Units 1 and 2, TS 3.6.1.3 was entered. Equipment protections were implemented to protect safe shut down
+capabilities, and troubleshooting efforts were initiated.
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+When the short to ground was discovered on one of the field windings, troubleshooting efforts were suspended in favor of
+generator replacement. Compensatory measures were implemented during the extended EDG-1 AOT as specified in the
+approved Notice of Enforcement Discretion (NOED). Completed corrective actions include the replacement of the EDG-1
+generator, replacement of the field lead and repair of the connection, and inspection of the EDG-3 field leads for corrosion
+and heating.
+6.0 PLANNED CORRECTIVE ACTIONS
+Planned corrective actions include refurbishment of the failed EDG-1 generator and inspection of the EDG-2 field leads for
+corrosion and heating.
+NRC FORM 366A (08-2020) 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+IB-1 SEQUENTIAL REV
+NUMBER 1-NO0.
+Surry Power Station, Unit 1 05000-1 280
+002
+NARRATIVE
+7.0 SIMILAR EVENTS
+A review of the last five years showed no similar events at SPS.
+8.0 ADDITIONAL INFORMATION
+SPS Unit 1 and Unit 2 remained at 100% power throughout the repair and return to service of EDG-1.
+Failed Component: Generator/General Motors/Electro-motive Division, A-20 style generator
+NRC FORM 366A (08-2020) Page 4 of 4

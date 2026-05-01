@@ -1,0 +1,181 @@
+•
+FPL
+10 CFR 50.73
+L-2021-114
+June 3, 2021
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+RE: Turkey Point Units 3 and 4
+Docket No. 50-250 and 50-251
+Reportable Event: 2021-002-00
+Date of Event: April 15, 2021
+Title: Unrecognized Technical Specification Surveillance Requirement Non-Compliance
+The attached Licensee Event Repmt 05000250/2021-002-00 is submitted pursuant to IO CFR
+50.73(a)(2)(i)(B) for a condition prohibited by Technical Specifications. The event affected
+Units 3 and 4 and is repo1ted on Unit 3 per NUREG-1022 guidance.
+[f there are any questions, please call Mr. Robert Hess at 305-246-4112 or e-mail
+Robert.Hess@fpl.com.
+Sincerely,
+Michael Pearce
+Site Vice President-Turkey Point Nuclear Plant
+Florida Power & Light Company
+Attachments: USNRC Forms 366 and 366A, current revision
+cc: USNRC Senior Resident Inspector, Turkey Point Plant
+USNRC Regional Administrator, Region II
+Floric.la Power & Light Company
+9760 SW 344rh St., I lumesteac.l, FL 33035
+N~R~C- -F~O-RM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+\ ~) (See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+.... (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+.,
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000 250 1 OF 3
+Turkey Point Unit 3
+4. Title
+Unrecognized Technical Specification Surveillance Requirement Non-Compliance
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+Turkey Point Unit 4 05000 251
+04 15 2021 2021 - 002 - 00 06 03 2021 Facility Name Docket Number
+05000
+9. Operating Mode I10 . Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.71(a)(4)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.71(a)(5)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ ✔ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(1)(i)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+David Stoia, Licensing Engineer 305-246-6538
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+E
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ID
+□ ✔ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 4/15/2021 FPL identified that Reactor Protection System (RPS) Technical Specification Functional Unit (FU) 20 had not met
+Technical Specification Surveillance Requirements (TSSRs) during 5 discrete periods over the past 3 years. Due to RPS design
+limitations, FU20, Automatic Trip and Interlock Logic, could not be fully tested above the P8 interlock (45% reactor power). The
+trip functions not tested are automatically bypassed and not testable above the P8 interlock, but below P8 are active and TSSR
+4.3.1.1 is applicable. During the identified periods the completion time was not met. Since the condition was unrecognized,
+action was not taken, resulting in discrete periods of non-compliance with the TSAS.
+The subject Actuation Logic Tests have since been completed and test frequencies adjusted in the Surveillance Frequency
+Control Program to accommodate the RPS system design. All FU20 trip functions are operable and within approved surveillance
+frequencies.
+This event is reportable pursuant to 10 CFR 50.73(a)(2)(i)(B) for a condition prohibited by Technical Specifications.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+r;;)"all("Ot,<,t lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+! ..~ "h,. i , LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+= i . .,. , .. ~ " : CONTINUATION SHEET I N n u fo c c le o a ll r e cts R .R e e g s u o la u t r o c r e y @ nr C c o .g m o m v, is a s n i d o n th , e O W M a B s h r i e n v g ie to w n e , r at D : C O MB 2 0 O 5 f 5 fi 5 c - e 0 0 o 0 f 1 In , form or a tion b y a nd e R -m eg a u il l ator to y
+·••f!· Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- I □ NUMBER D NO.
+Turkey Point Unit 3 250
+2001 I
+- 002 - 00
+I I I I
+NARRATIVE
+EVENT DESCRIPTION
+On 4/15/2021 FPL determined that RPS FU20, Automatic Trip and Interlock Logic, had not met TSSR 4.3.1.1. The
+Actuation Logic Tests (ALT) that apply to several trip functions, due to the design of the RPS [JC], were not being
+performed at the frequencies specified by the SFCP. The FU20 TSSRs include the ALTs as described in TS 4.3.3.1 Table
+4.3-1, the 92-day (quarterly) frequencies for which are assigned by the SFCP. The affected FU20 trip functions tested by
+the ALTs and their respective power interlocks include:
+- Power Range Neutron Flux (low setpoint); <P10 (10% power)
+- Intermediate Range Neutron Flux; <P10
+- Source Range Neutron Flux; <P6 (10E-5 cps)
+- Reactor Coolant Low Flow (2/3 loops); <P8 (45% power)
+- Reactor Coolant Pump Breaker Open (2/3 loops); <P8
+The SFCP previously prescribed a quarterly frequency to the ALT for each of these trip functions. However, the design of
+the RPS is such that reactor power must be below the associated interlock of each trip function to perform the ALT. The
+subject ALTs are active below the P8 interlock (45% reactor power). When the reactors are operating at full power these
+trip functions are bypassed and the ALTs cannot be performed. If the ALT surveillance is past due and reactor power is
+maneuvered to a level below the corresponding interlock, such as for equipment maintenance or a scheduled outage, the
+TSSR is not met, rendering the FU20 channel inoperable. TS 3.3.1 Table 3.3-1 Action 8 directs shutdown to Mode 3 within
+6 hours if a single channel is inoperable. In cases where both channels are inoperable TS 3.0.3 applies, also directing
+shutdown to Mode 3 within 6 hours. Since the condition was unrecognized, action pursuant to the TSAS was not taken,
+resulting in 5 discrete periods of TSAS non-compliance that occurred over the Past Operability Review (POR) assessment
+period.
+All of the periods of TS non-compliance during the assessment range occurred during power reductions of Units 3 and 4
+for equipment maintenance or scheduled outages. Since there were no load reductions that went below 10% power and
+scheduled outages begin with a manual reactor trip from approximately 15% power, only the trip functions associated with
+the P8 (45%) interlock were non-compliant. This includes the Reactor Coolant Low Flow (2/3 loops) and RCP Breaker
+Open (2/3 loops) reactor trip functions. The evaluation concluded that the discrete periods of TS 3.3.1 or TS 3.0.3 non-
+compliance were as follows:
+Unit Period Ch A Ch B Applicable TS
+3 9/30/18 04:41 - 10/1/18 00:02 (19 hrs 21 min) X X TS 3.0.3
+3 5/18/19 11:08 - 5/20/19 00:50 (37 hrs 42 min) X TS 3.3.1
+3 9/26/19 20:54 - 9/27/19 19:31 (22 hrs 37 min) X X TS 3.0.3
+3 3/29/20 05:43 - 3/30/20 00:02 (18 hrs 19 min) X X TS 3.0.3
+4 3/10/19 05:45 - 3/11/19 00:02 (18 hrs 17 min) X X TS 3.0.3
+All FU20 ALT surveillances that could not be performed above their respective interlock power levels had been completed
+regularly during outage conditions, which is consistent with the design of the Turkey Point RPS. There were no failures
+during the surveillance testing and therefore no loss of safety function during the periods of TS non-compliance. At no
+point had any completed surveillance frequency exceeded an 18-month fuel cycle.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+r;;)"all("Ot,<,t lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+! ..~ "h,. i , LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+= i . .,. , .. ~ " : CONTINUATION SHEET I N n u fo c c le o a ll r e cts R .R e e g s u o la u t r o c r e y @ nr C c o .g m o m v, is a s n i d o n th , e O W M a B s h r i e n v g ie to w n e , r at D : C O MB 2 0 O 5 f 5 fi 5 c - e 0 0 o 0 f 1 In , form or a tion b y a nd e R -m eg a u il l ator to y
+·••f!· Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- I □ NUMBER D NO.
+Turkey Point Unit 3 250
+2021 I
+- 002 - 00
+I I I I
+NARRATIVE
+CAUSE
+The cause of this event is a latent gap within the test capabilities of the Turkey Point RPS. Although not compliant with the
+SFCP frequencies, the practice of performing the ALT surveillances during outage conditions is consistent with the design
+of the Turkey Point RPS.
+SAFETY SIGNIFICANCE
+The safety significance of this event is low. The subject ALT surveillances had been completed at frequencies that were
+consistent with the design of the Turkey Point RPS. No test failures had occurred during the assessment period. The
+actions to bring the SFCP frequencies into alignment with the RPS design did not require any additional surveillance
+testing.
+CORRECTIVE ACTIONS
+All FU20 ALT surveillances that cannot be performed above their respective interlock power levels have been completed
+during reactor shutdown conditions. The SFCP implementing procedure has been revised to assign an 18-month refueling
+outage frequency to the subject FU20 ALT surveillances. All FU20 ALT surveillances are currently within their approved
+performance frequencies. FU20 is fully operable.
+ADDITIONAL INFORMATION
+EIIS Codes are shown in the format [IEEE system identifier, component function identifier, second component function
+identifier (if appropriate)].
+SIMILAR EVENTS
+A 5-year historical review of reportable events related to unrecognized inoperability of equipment required by Technical
+Specifications was performed to identify similar events or patterns. No other cases of TS surveillance frequencies that
+exceeded Tech Spec shutdown requirements were identified.
+NRC FORM 366A (08-2020) Page 3 of 3

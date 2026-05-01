@@ -1,0 +1,202 @@
+Robert J. Franssen Susquehanna Nuclear, LLC
+Plant Manager 769 Salem Boulevard TALEN~
+Berwick, PA 18603
+Tel. 570.542.3170 Fax 570.542.1504 ENERGY
+robert.franssen@talenenergy.com
+DEC 1 4 2016
+U.S. Nuclear Regulatory Commission 10 CFR 50.73
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388(387)/2016-024-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF- 22 Docket No. 50-387
+PLA-7561 50-388
+Attached is Licensee Event Report (LER) 50-388(387)/2016-024-00. This LER repmis a
+condition involving exceeding the Technical Specification Allowable Value for
+Secondary Containment Isolation Instrumentation. This LER is being submitted pursuant
+to the requirements of 10 CFR 50.73(a)(2)(i)(B) and 10 CFR 50.73(a)(2)(v)(C) as a
+condition prohibited by Technical Specifications and as a condition that could have
+prevented fulfillment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of
+this event.
+This letter contains no new regulatory commitments.
+~
+R. J. Franssen
+Attachment: LER 50-388(387)/2016-024-00
+Copy: NRC Region I
+Mr. J. E. Greives, NRC Sr. Resident Inspector
+Ms. T. E. Hood, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+-~~:~ LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~-~ ~)
+(See Page 2 for required number of digits/characters for each block) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+~. ...... •<t to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+httQ://www.nrc.gov/reading-rm/doc-collections/nur§9s/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Susquehanna Steam Electric Station Unit 1 05000387 1 OF3
+4. TITLE Refuel Floor Radiation Exhaust Monitor Isolation Setpoint Above Technical Specification Limit Due to Human
+Performance Error
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L NO. MONTH DAY YEAR Susquehanna Steam Electric Station Unit 2 05000388
+FACILITY NAME DOCKET NUMBER
+19.
+10 19 2016 2016 024 00 11-\ 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that app!v)
+1 D 2o.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) l2l:l 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) l2l:l 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+0 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+M. L. Krick, Senior Engineer-Nuclear Regulatory Affairs (570) 542-1818
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+A IL RM GE y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+~BSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 19, 2016, during performance of surveillance procedure Sl-079-335, 24 Month Calibration of
+Refuel Floor High Exhaust Duct High Radiation Monitor Channel R-D12-1K615B, the as-found HiHi trip
+setpoint of the Unit 1 Refuel Floor High Exhaust Duct B Radiation Monitor was found at 36 mR!hr. This
+exceeds the Technical Specification 3.3.6.2, Secondary Containment Isolation Instrumentation and Technical
+Specification 3.3.7.1, Control Room Emergency Outside Air Supply (CREOAS) System Instrumentation,
+Allowable Value of :::;25 mR!hr. Based upon investigation, this condition was determined to have existed since
+prior to the previous 24 month calibration of the instrument on 11/15/14.
+The cause of this condition was determined to be less than adequate use of Human Performance Tools,
+including Self-Checking, Verification Practices and Procedure Use and Adherence by the maintenance crew
+performing the surveillance on 11/15/14. As a result of not properly using these tools, the setpoint graph was
+mislabeled resulting in incorrect setpoint calculation.
+This condition requires reporting in accordance with 10 CFR 50. 73(a)(2)(i)(B) and 10 CFR 50. 73(a)(2)(v)(C) as
+a condition prohibited by Technical Specifications and as a condition that could have prevented fulfillment of a
+safety function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06·2016)
+Estimated burden per response to comply with this mandatory collection requesl: 80 hours.
+Reported lessons learned are incorporated into lhe licensing process and fed back lo industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and lnformalion Collections
+Branch (T·5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://IN'NIN. nrc.qov/readi nq-rm/doc-collections/nureqs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station 05000-387 NUMBER NO.
+Unit 1 2016 -024 -00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 - Mode 1, approximately 100 percent Rated Thermal Power
+EVENT DESCRIPTION
+On October 19, 2016, during performance of surveillance procedure Sl-079-335, 24 Month Calibration of
+Refuel Floor High Exhaust Duct High Radiation Monitor Channel R-D12-1K615B, the as-found Hi-Hi trip
+setpoint of the Unit 1 Refuel Floor High Exhaust Duct B Radiation Monitor [EllS Component Identifier: RM]
+was found at 36 mR/hr. This exceeds the Technical Specification (TS) 3.3.6.2, Secondary Containment [EllS
+System Identifier: NG] Isolation Instrumentation and TS 3.3.7.1, Control Room Emergency Outside Air
+Supply (CREOAS) System [EllS System Identifier: NA] Instrumentation, Allowable Value of :<:;;25 mR!hr.
+Upon investigation, this condition was determined to have existed since prior to the previous 24 month
+calibration performed on 11/15/2014. During performance of the previous Refuel Floor High Exhaust Duct B
+Radiation Monitor calibration under Sl-079-335, the I&C Technician performing the surveillance mislabeled
+the X andY axis on the setpoint graph combined with inconsistent use of the procedure instruction. This
+resulted in all the setpoint calculations performed in the remainder of the procedure to be incorrect. This
+includes the "as-found" and "as-left" trip setpoints for the monitor. The following timeline summarizes the
+investigation findings:
+• 8/4/2012: Sl-079-335 was performed. Both the "as- found" and "as-left" trip setpoints were calculated and
+set correctly- within TS allowable value.
+• 11/15/2014: Sl-079-335 was performed incorrectly due to mislabeling of the X and Y axis on the setpoint
+plot and inconsistent use of the procedure instruction. Supervisor performed a review and did not identify
+the error on the plot.
+- "As- Found" trip setpoint recorded as 18 mR!hr
+- Actual "as-found" trip setpoint based upon 2016 re-review was 45 mR/hr
+- "As-Left" trip setpoint recorded as 24 mR!hr
+- Actual "as-left" trip setpoint based upon 2016 re-review was 35 mR!hr
+• 10/19/16: Sl-079-335 was performed. The "as-found" setpoint was found at 36 mR!hr, outside the TS
+Allowable Value. This aligns with the actual "as-left" trip setpoint determined from re-performing the 2014
+calibration calculations. The calibration was completed and the trip setpoint corrected to within the TS
+Allowable Value.
+Based on this investigation, the Refuel Floor High Exhaust Duct B Radiation Monitor Hi-Hi trip setpoint was
+above the TS allowable value from some point after the 2012 calibration until the 2016 calibration.
+This condition requires reporting in accordance with 10 CFR 50. 73(a)(2)(i)(B) and 10 CFR 50. 73(a)(2)(v)(C)
+as a condition prohibited by Technical Specifications and as a condition that could have prevented fulfillment
+of a safety function.
+NRC FORM 366A (06-2016) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Ollice of Information and Regulatory
+Allairs, NEOB-10202, (3150-0104), Ollice of Management and Budget, Washington, DC 20503. If a
+(See NUREG-10 22, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://INWW.n rc.gov/readi nq-rm/doc-collections/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station 05000-387 NUMBER NO.
+Unit 1 2016 -024 -00
+CAUSE OF EVENT
+The cause of the event was determined to be less than adequate use of Human Performance Tools including
+Self-Check (STAR), Verification Practices and Procedure Use and Adherence.
+ANALYSIS/SAFETY SIGNIFICANCE
+The Technical Specification (TS) 3.3.6.2, Secondary Containment Isolation Instrumentation and TS 3.3.7.1,
+Control Room Emergency Outside Air Supply (CREOAS) System Instrumentation, Allowable Value for the
+Refuel Floor High Exhaust Duct Radiation - High instrument function is :::;25 mR/hr. For each of these
+Technical Specifications, the Refuel Floor High Exhaust Duct Radiation Monitor is required to be operable
+during the following:
+- During operations with a potential for draining the reactor vessel
+- During Core alterations, and during movement of irradiated fuel assemblies in secondary containment
+At the time of discovery, Susquehanna Steam Electric Station Unit 1 and Unit 2 were not in the applicable
+condition for these Technical Specifications and no TS LCO action was entered. As stated above, the
+condition of the radiation monitor trip setpoint existed since prior to the 2014 calibration. The function of this
+instrumentation is to isolate secondary containment Zone Ill (includes the refuel floor) in the event of a fuel
+handling accident. This trip system is a dual train system. Additionally, the refuel floor is common to both
+Unit 1 and 2, so there are 2 trains at both units. Based on the fact that the instrument is not a single train
+system and that the other instruments could have isolated secondary containment, this condition would not
+prevent secondary containment isolation in the event of a fuel handling accident. Additionally, the as found
+setpoint of the subject instrument was still below the calculated design basis exposure dose rate for a fuel
+handling accident, which means the instrument would have still initiated secondary containment isolation as
+credited in the analysis. Therefore, the described condition does not represent a safety system functional
+failure.
+This event will not be counted as a safety system functional failure (SSFF) for the NRC performance indicator
+based on the Engineering analysis supporting the system's ability to fulfill the safety function.
+CORRECTIVE ACTIONS
+Key corrective actions include the following:
+1. Correctly set the Refuel floor High Exhaust Duct B Radiation Monitor Hi-HI trip setpoint (Complete).
+2. An I&C Maintenance department communication with respect to lessons learned is to be distributed.
+3. Perform an extent of condition review of similar procedures to validate no errors exist with respect to the
+calculated "as found" and "as-left" setpoints.
+4. The individual involved in the surveillance procedure error, as required by procedure, was coached and
+remediated.
+PREVIOUS SIMILAR EVENTS
+None
+NRC FORM 366A (06-2016) Page 3 of 3

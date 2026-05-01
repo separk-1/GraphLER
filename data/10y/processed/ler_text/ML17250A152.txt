@@ -1,0 +1,232 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, New Jersey 08038-0236
+PSE:G
+Nuclear LLC
+10CFR50.73
+LR-N17-0132
+SEP 07 ·2017
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Salem Generating Station Unit 2
+Renewed Facility Operating License No. DPR-75
+Docket No. 50-311
+Subject: Supplemental Licensee Event Report 2016-002-01, Automatic
+Reactor Trip due to Main Turbine Trip
+In accordance with the requirements of 10 CFR 50. 73(a)(2)(iv)(A), PSEG Nuclear LLC
+is submitting the enclosed Supplemental Licensee Event Report (LER) Number 2016-
+002-01, "Automatic Reactor Trip due to Main Turbine Trip."
+If you have any questions or require additional information, please contact Mr. Thomas
+Cachaza at (856) 339-5038.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+Oe>#_.vc,,,L,
+,/L...~
+_,,l
+lJ 6' s r I;_,_ d ~"2..
+Patrick Martino
+Plant Manager
+Salem Generating Station
+dlr
+Attachment: Licensee Event Report 2016-002-01
+LR-N17-0132 10CFR50.73
+Page 2
+Document Control Desk
+cc: Mr. Daniel Dorman, Regional Administrator - Region I, NRC
+Mr. Richard Ennis, Project Manager - US NRC
+Mr. Patrick Finney, NRC Senior Resident Inspector- Salem (X24)
+Mr. Patrick Mulligan, Manager IV, NJBNE
+Mr. Thomas Cachaza, Salem Commitment Tracking Coordinator (X25)
+Mr. Lee Marabella - Corporate Commitment Tracking Coordinator (N21)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+R~~ . sJ·~RRttl(t~" '>a ?' >~ LICENSEE. EVENT REPORT (LER) S R e e n p d o rt c e o d m l m es e s n o t n s s re le g a a r r n d e in d g a b re u rd In e c n o r e p s o t r im at a e t d e In to to th th e e In li f c o e rm ns a in ti g o n p r S o e c r e v s ic s e s a n B d ra fe n d c h b a (T c - k 2 to F 4 i 3 n ) d , u U st . r S y . .
+~ Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+"+4 *"*** .. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an Information collection does not display a currently valid OMB control number,
+the NRG may not conduct or sponsor, and a person is not required to respond to, the information
+htt12://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Salem Generating Station-Unit 2 05000 311 1 OF 4
+4. TITLE
+Automatic Reactor Trip due to Main Turbine Trip
+5. EVENT DATE 6. ILE R NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+- -
+FACILITY NAME DOCKET NUMBER
+02 04 2016 2016 002 01 09 07 2017
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D
+20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D
+20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D so.73(a)(2)(1ii) D 50.73(a)(2)(ix)(A)
+IZJ
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D so.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+0
+20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+74% D
+20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(1)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+J
+D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or In NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Thomas J. Cachaza, Senior Regulatory Compliance Engineer (856) 339-5038
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EplX
+x TB RLY G082 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+IZI SUBMISSION
+DYES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 2/4/16 at 11 :21, Salem Unit 2 automatically tripped from approximately 74% power. Power had been reduced at the beginning
+of dayshift to support a 500 KV transmission line outage. The reactor trip was due to a Main Turbine trip caused by a Main
+Generator Protection signal initiated by a main generator automatic voltage regulator (A YR) volts/hertz over excitation protection
+relay. All emergency core cooling systems and emergency safeguards feature systems functioned as expected. As found calibration
+data for the generator protection logic relay were found out of specification low. An evaluation determined the cause of the event to
+be that the organization failed to develop and implement corrective actions to resolve the previously identified cause of poor
+manufacturing/vendor quality identified in the causal evaluation following a similar Unit 1 trip on 12/21/2012 trip due to STV-1
+relay setpoint drift.
+This report is being made in accordance with 10 CFR 50.73 (a)(2)(iv)(A), "Any event or condition that resulted in manual or automatic
+actuation of any of the systems listed in paragraph (a)(2)(iv)(B)," specifically automatic actuation of the Reactor Protection System and
+the Auxiliary Feedwater System for this event.
+NRG FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are Incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/readlng-rm/doc-collectlons/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Salem Generating Station - Unit 2 05000-1 311 I ~ NUMBER 0N O.
+2~161 I I ·
+- 002
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+Westinghouse-Pressurized Water Reactor {PWR/4}
+Main Generator System/Relay {TB/RL Y}
+*Energy Industry Identification System (EllS) codes and component function identifier codes appear as {SS/CCC}.
+IDENTIFICATION OF OCCURRENCE
+Event Date: 02/04/2016
+Discovery Date: 02/04/2016
+CONDITIONS PRIOR TO OCCURRENCE
+On 02/04/2016, Salem Unit 2 was operating in MODE 1. At 07:00, Salem Unit 2 commenced a load reduction at 30% per
+hour to approximately 73% rated thermal power (RTP) to support a 500 kV line outage. Power was stabilized at
+approximately 74% RTP at 07:50.
+DESCRIPTION OF OCCURRRENCE
+On 2/4/16 at 11 :21 Salem Unit 2 automatically tripped from approximately 7 4% power on Generator Protection, initiated by
+the main generator Automatic Voltage Regulator (AVR) STV1volts/hertz relay {TB/RLY}. At 11 :20:36 Overhead
+Annunciator (OHA) H21 - "Generator Voltage/Frequency High" was received, followed by OHA H27 - "Gen Vreg Trbl" at
+11:21:19. At 11 :21 :25 OHA F47 - "Generator Protection" was received, coincident with the Unit 2 trip.
+The STV1 relay is an over excitation protection relay. Troubleshooting identified the STV1 as a contributor to the trip, so
+the calibration of the relay was checked. The as-found calibration data showed that the relay pick up setting was out of
+specification low.
+In the time period just prior to the Unit 2 trip, the generator was operating at approximately 26.1 KV, which corresponds to
+a 2.175 V/Hz sensed at the STV1 relay. The as found pick up for the STV1 relay was at 2.17 V/Hz, so the plant was
+operating above the relay's pick up set point. Once the set point was exceeded, the H21 OHA alarm was received in the
+Control Room. After the time delay of 45 seconds had elapsed, the trip relay picked up, starting the sequence of tripping
+the AVR on an external trip and dropping the generator field, causing the turbine trip on generator protection. The turbine
+trip resulted in a reactor scram.
+The Unit 2 AVR was replaced during the 2R21 refueling outage in Fall 2015. The STV1 was original plant design. A new
+relay was purchased, calibrated, and installed at the time of the AVR replacement.
+A four-hour NRC Event Notification (EN) was required by 10 CFR 50.72(b)(2)(iv)(B) for actuation of the reactor protection
+system (RPS) when the reactor is critical and an eight-hour NRC EN was required by 10 CFR 50.72(b)(3)(iv)(A) for a valid
+actuation of the auxiliary feedwater system. EN 51708 was completed at 13:33 on 02/04/2016. This LER is being
+submitted pursuant to the requirements of 1 OCFR50.73 (a)(2)(iv)(A), "Any event or condition that resulted in manual or
+automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B)."
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours, Reported
+lessons learned are Incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ SEQUENTIAL REV
+Salem Generating Station - Unit 2 05000-1 311 I I NUMBER NO.
+1-~
+. 2016 • 002
+NARRATIVE
+CAUSE OF EVENT
+The generator trip, and subsequent automatic reactor trip, was initiated by the main generator automatic voltage regulator
+(AVR) STV1 volts/hertz over excitation protection relay. This relay tripped at a volts/hertz level less than the design set
+point (104.5% vs. 110%) during voltage manipulations to support a line outage. Failure analysis identified the cause of the
+trip as damage to the R14 rheostat on the STV1 relay card. This damage is attributable to either poor manufacturing
+quality or inadequate shipping and handling. This rheostat directly controls the set point at which the STV relay will trip for
+over excitation protection. This defect caused the relay to trip prior to its design value. The STV-1 relay could not be
+adjusted to within the manufacturer's acceptance criteria (+/-1%) with the failed R14 rheostat.
+The organization failed to develop and implement corrective actions to resolve the previously identified cause of poor
+manufacturing/vendor quality identified in the causal evaluation following a similar Unit 1 trip on 12/21/2012 trip due to
+STV-1 relay setpoint drift.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+The generator protection schemes serve as asset protection for the generator, main power transformers, and main
+turbine. The generator over excitation protection scheme is accomplished by four GE STV relays set to protect two zones
+of protection. Two of the four relays are set to trip at 110% and the other two at 118% of generator voltage. During an
+over excitation condition when the generator voltage is over 110% or 118%, an external trip is sent to the voltage regulator
+which ultimately results in a generator trip. There is a backup relay for every protection setting in order to prevent
+inadvertent damage to the generator or transformers in the event that there is an undetected failed relay during an over
+voltage condition. When the GE Alterrex voltage regulator was replaced with the ABB Unitrol automatic voltage regulator,
+the existing generator over excitation protection scheme (i.e., original design) was maintained and the same settings were
+used based on the over excitation relays coordination analysis.
+There were no safety consequences as a result of this event. All emergency core cooling systems (ECCS) and
+emergency safeguard feature (ESF) systems functioned as expected. No equipment was damaged as a result of the
+event. The plant was stabilized in Mode 3 with decay heat removal via the main steam dump valves and auxiliary feed
+water system. Condenser vacuum remained available for decay heat removal.
+SAFETY SYSTEM FUNCTIONAL FAILURE
+A review of this event determined that a safety system functional failure (SSFF) did not occur as defined in NEI 99 02,
+Regulatory Assessment Performance Indicator Guidelines.
+PREVIOUS EVENTS
+A review of previous events identified one that occurred in December 2012 which was caused by relay set point drift.
+This event was reported in LER 272/2012-005.
+NRG FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staffisr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I SEQUENTIAL REV
+05000-1
+BYEAR- 1
+NUMBER 1- NO 0 .
+Salem Generating Station - Unit 2 311
+002
+NARRATIVE
+CORRECTIVE ACTIONS
+1. The STV1 relay was replaced with a new, calibrated relay prior to Unit 2 restart.
+2. Salem Unit 1 STV relays will be tested per the manufacture's acceptance test concurrent with the AVR replacement
+in the Spring 2016 refueling outage.
+COMMITMENTS
+There are no regulatory commitments contained in this LER.
+NRG FORM 366A (04-2017) Page 4 of 4

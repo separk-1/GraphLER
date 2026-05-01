@@ -1,0 +1,241 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, New Jersey 08038-0236
+11SI~(i
+Nuclear LLC
+10CFR50.73
+LR-N16-0225
+NOV 3 0 2016
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station Unit 1
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Licensee Event Report 2016-002-01, High Pressure Coolant Injection
+System Inoperable.
+In accordance with the requirements of 10 CFR 50.73(a)(2)(v)(D), and 10 CFR 50.73
+(a)(2)(i)(B), PSEG Nuclear LLC is submitting the enclosed Licensee Event Report (LER)
+Number 2016-002-01, High Pressure Coolant Injection System Inoperable.
+If you have any questions or require additional information, please contact
+Mr. Thomas MacEwen at (856) 339-1097.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+Edward T Casulli
+Plant Manager
+Hope Creek Generating Station
+ttm
+Attachment: Licensee Event Report 2016-002-01
+LR-N16-0225
+10CFR50.73
+Page 2
+Document Control Desk
+cc: Mr. Daniel Dorman, Regional Administrator- Region I, NRC
+Ms. Carleen Parker, Project Manager- US NRC
+Mr. Justin Hawkins, NRC Senior Resident Inspector- Hope Creek (X24)
+Mr. Patrick Mulligan, Manager IV, NJBNE
+Mr. Thomas MacEwen, Hope Creek Commitment Tracking Coordinator (H02)
+Mr. Lee Marabella- Corporate Commitment Tracking Coordinator (N21)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+A Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+I' LICENSEE EVENT REPORT (LER)
+••, .,.,;..il Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+(See Page 2 for required number of internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-01 04), Office of Management and Budget, Washington, DC
+digits/characters for each block) 20503. If a means used to Impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person Is not required to respond to,
+the Information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Hope Creek Generating Station 05000354 1 OF4
+4. TITLE High Pressure Coolant Injection System Inoperable
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I SEQUENTIAL I REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+FACILITY NAME DOCKET NUMBER
+08 06 2016 2016 -002 -01 11 30 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+0 20.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(i)(C) 0 50.73(a)(2)(vii)
+1
+0 20.2201(d) 0 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A)
+0 20.2203(a)(1) 0 20.2203(a)(4) 0 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+0 20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) 0 50.73(a)(2)(iii) 0 50.73(a)(2)(1x)(A)
+D 20.2203(a)(2)(ii) 0 50.36(c)(1 )(ii)(A) 0 50.73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(iil) D 50.36(c)(2) D 50.73(a)(2)(v)(A) 0 73.71(a)(4)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(B) 0 73.71(a)(5)
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) 0 50.73(a)(2)(v)(C) 00THER
+0 20.2203(a)(2)(vi) X 50.73(a)(2)(i)(B) X 50.73(a)(2)(v)(D) Specify in Abstract below or In NRC
+Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMER (Include Area Code)
+Thomas MacEwen, Lead Compliance Engineer 856-339-1097
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+X BJ 65 W290 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) • NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 6, 2016, at 21 :34, with the Hope Creek reactor operating at 100% power, the High Pressure Coolant
+Injection (HPCI) system turbine governor valve did not respond as expected during system surveillance testing.
+The system was declared inoperable and an 8-hour immediate notification was made under 10 CFR 50.72
+(B)(3)(v)( d). Subsequent investigation found that HPCI turbine governor was not functioning due to corrosion
+products in the governor, preventing movement of the pilot valve. Additional research determined that the turbine
+governor did not respond properly on July 3, 2016 during the collection of an oil sample. Based on this, the HPCI
+system was inoperable for a period of 39 days from July 3, 2016, until August 11, 2016, when repairs to the
+governor were completed. The HPCI system Technical Specification has an allowed outage time of 14 days.
+This report is being submitted under 10 CFR 50.73(a)(2)(i)(B), as a condition which is prohibited by the plant's
+Technical Specifications, and under 10 CFR 50. 73(a)(2)(v)(D), as an event or condition that could have prevented
+the fulfillment of a safety function of systems that are needed to mitigate the consequences of an accident. The
+cause of the event is the accumulation of corrosion products in the HPCI turbine governor due to excessive
+moisture content in the HPCI system control oil.
+NRC FORM 366 (02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01131/2017
+(02-2014)
+Eslimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are Incorporated into the licensing process and fed back
+to Industry. Send comments regarding burden eslimate to the FOIA, Privacy and
+LICENSEE EVENT REPORT (LER) Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET the Desk Officer, Office of Information and Regulatory Affairs, NEOB-1 0202, (3150-01 04), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an information
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+YEAR SEQUENTIAL REVISION
+Hope Creek Generating Station 05000354 I NUMBER I NUMBER
+2 OF4
+2016 • 002 . 001
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric- Boiling Water Reactor (BWR/4)
+High Pressure Coolant Injection System-EllS Identifier {BJ/65}*
+*Energy Industry Identification System {EllS} codes and component function identifier codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURRENCE
+Event Date: 08/06/2016
+Discovery Date: 08/06/2016
+CONDITIONS PRIOR TO OCCURRENCE
+Hope Creek was in Operational Condition 1 at 100 percent rated thermal power (RTP). HPCI System {BJ} surveillance
+testing was in progress.
+DESCRIPTION OF OCCURRRENCE
+On August 6, 2016 at 21 :34, Hope Creek operators were performing a HPCI system valve actuation functional test.
+During the test, system valves are verified to reposition to their intended position in response to a HPCI manual
+initiation signal. The HPCI turbine governor valve FV-4879, did not reposition to the open position as expected, and
+remained in the full closed position. Operators reviewed the event and subsequently declared the HPCI system
+inoperable.
+Troubleshooting and investigation determined that the HPCI EG-R (Electronic Governor Remote) was not operating
+properly. The EG-R is a hydro-electrical device that is mounted on the turbine and receives a low pressure oil
+supply from the turbine oil system. The EG-R ports oil to the remote servo which moves its output shaft accordingly to
+move a turbine mounted relay valve to control the flow of steam to the turbine. The EG-R was found to contain
+corrosion products that prevented proper movement of the EG-R internals. This resulted in the turbine governor
+valve, FV-4879 remaining in the closed position, and would have prevented HPCI system operation.
+The HPCI system ensures that the reactor core is not uncovered if there is a small break in the reactor coolant
+pressure boundary (RCPB) that does not result in rapid depressurization of the reactor vessel.
+CAUSE OF EVENT
+The cause of the event is that corrosion products were present in the EG-R. The corrosion products were created
+due to high moisture content in the turbine control oil. The moisture was most likely introduced into the bearing oil
+via a path from the turbine shaft seals and into the bearing oil at the shaft bearings. Leak-by of the turbine steam
+admission valve FDHV-F001, allowed a small, continuous supply of steam to leak into the turbine casing and
+subsequently, to leak out through the turbine shaft seals. Insulation installed around the turbine casing also
+contributed by trapping steam in the area around the turbine bearings, increasing the rate of moisture intrusion into
+the oil.
+A cause evaluation determined that organizational weaknesses existed in the station process for adverse condition
+monitoring. The monitoring plan that was developed to prevent and detect moisture intrusion did not adequately
+establish single point ownership for sampling, or a process to implement the sampling, such as a work order or
+temporary activity log. In addition, management controls were determined to be insufficient to detect the failure to
+monitor the adverse condition. Management reviews of data collection were not performed due to overreliance on
+the monitoring plan to be properly implemented.
+NRC FORM 366A (02·2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are Incorporated into the licensing process and fed back
+to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+.••• / LICENSEE EVENT REPORT (LER) Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-01 04), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an Information
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the Information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+YEAR SEQUENTIAL REVISION
+Hope Creek Generating Station 05000354 I NUMBER I NUMBER
+3 OF4
+2016 • 002 • 001
+NARRATIVE
+SAFETY CONSEQUENCES AND IMPLICATIONS
+This event resulted in inoperability of the single train HPCI system, resulting in the inability of the HPCI system to
+perform its required safety function to mitigate the consequences of an accident. The HPCI system is part of the
+Emergency Core Cooling System (ECCS), and is specifically intended for a small break in the reactor coolant pressure
+boundary (RCPB) that does not result in rapid depressurization of the reactor vessel.
+In the event that the HPCI system fails, the Automatic Depressurization System (ADS) {SB} uses a number of the
+reactor safety/relief valves to reduce reactor vessel pressure during small or isolated breaks. When reactor vessel
+pressure is reduced to within the design capability of the low pressure systems (Core Spray {BM} and Low Pressure
+Coolant Injection {80}), these systems provide reactor vessel coolant inventory makeup, so that acceptable post
+accident reactor core coolant temperatures are maintained.
+During the time period between the last successful HPCI test on June 23, 2016 until the condition was discovered on
+August 6, 2016, the following low pressure ECCS systems were unavailable:
+• The A Low Pressure Coolant Injection (LPCI) pump was unavailable from June 30, 2016 at 0210 until July 1,
+2016 at 0158 due to planned maintenance.
+• The C LPCI pump and A Core Spray subsystem were unavailable from July 4, 2016 at 2200 until July 8, 2016
+at 0440, due to planned maintenance on the C EDG.
+• The D LPCI pump was unavailable on July 26, 2016, from 0400 to 1702, due to emergent valve maintenance.
+• The C LPCI pump and A Core Spray subsystem were unavailable from August 2, 2016 at 1742 until August 4,
+2016 at 1230 due to an emergent relay failure associated with the C Vital bus.
+• The the C LPCI pump and A Core Spray subsystem were unavailable from August 4, 2016 at 2155 until August 6,
+2016 at 0135 due to an emergent failure of the C EDG speed switch.
+ECCS logic requires at least one Core Spray subsystem or one LPCI pump be operating in order for the ADS to
+depressurize the reactor vessel and restore core cooling. At no time during the period of HPCI unavailability was the
+combination of operable low pressure ECCS pumps less than the required number for ADS system operation.
+Based on the above, during the time period that the HPCI system was unavailable, sufficient systems were available to
+provide the required safety functions needed to protect the health and safety of the public.
+SAFETY SYSTEM FUNCTIONAL FAILURE
+This condition is a safety system functional failure as defined in NEI 99-02, Revision 7, Regulatory Assessment
+Performance Indicator Guideline.
+NRC FORM 366A (02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES:
+(02-2014) 01/31/2017
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed
+LICENSEE EVENT REPORT (LER) back to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+CONTINUATION SHEET Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and
+to the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104),
+Office of Management and Budget, Washington, DC 20503. If a means used to Impose an
+Information collection does not display a currently valid OMB control number, the NRC may
+not conduct or sponsor, and a person Is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+YEAR I SEQUENTIAL REVISION
+Hope Creek Generating Station 05000354 NUMBER I NUMBER
+4 OF4
+2016 • 002 -001
+NARRATIVE
+PREVIOUS EVENTS
+A review of events from the past five years was conducted. Two previous events were identified that had similarity
+to this event. In November, 2011, elevated moisture was discovered in the HPCI turbine oil at 3517 ppm.
+Subsequently, an adverse condition monitoring (ACM) plan was created to drain 10 gallons from the HPCI
+reservoir every other week, and to obtain a weekly oil sample for trending and analysis. This was continued until
+the moisture content was below 500 ppm. The moisture was attributed to leakage past the FD-HV-F001 HPCI
+steam admission valve. The valve was repaired in April, 2012 during the 1i h refueling outage. The ACM was
+properly implemented to monitor the oil during the period of concern.
+In another event, moisture was detected in the RCIC turbine oil in February, 2015. The moisture was detected by
+an equipment operator who noted that the RCIC oil level was 1/16 inches higher than normal. When he drained oil
+from the system, he observed visible water. The RCIC oil system was drained, flushed and refilled. The moisture
+intrusion was attributed to leakage past the RCIC turbine steam admission valve, FC-HV-F045, and the improper
+placement of insulation on the turbine casing. Following the RCIC event, the HPCI turbine insulation was
+inspected and modified to ensure proper clearances around the shaft steam seals.
+CORRECTIVE ACTIONS
+The HPCI EG-R was replaced.
+The HPCI oil system was drained and refilled with new oil.
+The Insulation around the turbine bearings had been repositioned to reduce the possibility of moisture intrusion in to
+the HPCI control oil.
+The HPCI steam admission valve FD-HV-F001 was repaired in November, 2016, to correct the seat leakage.
+The ACM process is being modified to add specific guidance on implementation requirements and management
+oversight.
+Other corrective actions are being tracked in the licensee's Corrective Action Program.
+COMMITMENTS
+This LER contains no regulatory commitments.
+NRC FORM 366A (02·2014)

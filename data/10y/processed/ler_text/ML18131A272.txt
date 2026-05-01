@@ -1,0 +1,206 @@
+Exelon Generation .
+10CFR 50.73
+CCN: 18-45
+May 11, 2018
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS} Unit 2 and Unit 3
+Renewed Facility Operating License No. DPR-44 and DPR-56
+NRC Docket No. 50-278 and 50-278
+Subject: Licensee Event Report (LEA} 2-18-001
+Enclosed is a Licensee Event Report concerning an unanalyzed condition regarding
+implementation of fire safe shutdown requirements. In accordance with NEI 99-04, the
+regulatory commitment contained in this correspondence is to restore compliance with the
+regulations. The specific methods that have been planned to restore and maintain
+compliance are discussed in the LEA. If you have any questions or require additional
+information, please do not hesitate to contact Jim Kovalchick at 717-456-3351.
+Patrick D. Navin
+Site Vice President
+Peach Bottom Atomic Power Station
+PDN/dnd/I R 4115309
+Enclosure
+cc: US NRC, Administrator, Region I
+US NRC, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+S. Gray, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estinated burden per response to compfy with 1115 rraida1ory a>ltection request: 80 hours.
+,,c.. ..v -• •. .,"<.> LICENSEE EVENT REPORT (LER) Reported lessons learned are i'lcorporated i1to the icensi1g process and fed baCk to
+!¥.'' irduslly. Send comments l9gi!nJiog burden estinate to the lnloflnation Services BtMCh
+.. . " (See Page 2 for required number of digits/characters for each block) t [ o T ·2 J n F fo 4 c 3 o ), l te U c . t S s. . R N e u s c o le u a rt r e R @ e n g r o t l . a g l o o v ry . C an o d m m to i ss t i h o e n , W De a s s k h i1 O g f to fi: n e , r, D C O 2 ff 0 ce 55 5 o - f 0 0 I 0 n 1 fo , r o m r a b ti y o n ~ a I nd
+Regulatory Affairs, NEOB-10202, (3150-0104), Offce of Management and Budget,
+" ~ < <i, • o~ 'I t (Se h e t t N g U :// R w E w G w - . 1 n 0 rc 2 . 2 g , o R v/ . r 3 e f a o d r i n in g s - t r r m uc /d ti o o c n - c a o n l d le c g t u io id n a s n /n c u e r f e o g r s c /s o t m af p f/ le sr ti 1 n 0 g 2 t 2 h / i r s 3 / f l o rm d W is a p s la h y i1 g a t o c n u , n e D n C tf y 2 0 v 5 al 0 id 3 . OM If B a c o m n e tr a o n l s n u u rr s o e e d r , to th e if r N !lo R s G e m a a n y i n 1 o k t m c n c a n ti d o u n c t c o o r le s c p ti o o n n s o d r o , e a s n d n o a t
+~ ••••• iL person 5 not required to respond to, the iiformatiln colection
+1. Facility Name 2. Docket Number 3.Page
+Peach Bottom Atomic Power Station Unit 2 05000277 1 OF 4
+4. Title
+Fire Safe Shutdown Requirements Not Met for Spurious Operation of Valves at a High-Low Pressure Interface
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Dey Year Peach Bottom Atomic Power Sta. Unit 3 05000278
+03 14 2018 2018 - 001 - 0 05 11 2018 Facility Name 05 D 0 o 0 c 0 ke t Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1o CFR §: (Check all that apply)
+D D D D
+I 20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D [8l D
+20.2201(d) 20.2203(a)(3)(ii) 50.7 3(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+1O . Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iiil 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iiJ
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+James M. Kovalchick, Regulatory Assurance Manager 717-456-3351
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) [8l No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 3/14/18, during a review of the Fire Protection Program Safe Shutdown Analyses, station personnel identified two
+valves that establish the boundary between a high pressure system and a low pressure system did not meet
+requirements contained in 1O CFR 50, Appendix R, Section 111.G for protection against spurious operation during a fire.
+A flow path exists through the Reactor Water Cleanup (RWCU) System into the Reactor Core Isolation Cooling (RCIC)
+pump discharge line into the 'B' feedwater line and into the low-pressure piping for the feedwater recirculation line back
+to the main condenser. During a fire, the cables could be damaged in such a way that the power cable to the outermost
+valve could be reenergized and the valve could open. The second valve is also normally closed but could spuriously
+open. If the fire also caused three other isolation valves in the RWCU system to not close, a flow path to the main
+condenser could exist, resulting in a loss of reactor vessel water inventory.
+This condition was not identified during the original analysis in the 1980's. There were no actual safety consequences
+as a result of this condition.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04-2018}
+Estimated burden per response to comply v.ilh this mandatoiy collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back lo industiy. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Aegulatoiy
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Aesource@nrc.gov, and to
+the Desk Officer, Office of Information and Aegulatoiy Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NAG may not conduct or
+sponsor, and a person is not required to respond to, the inlormation collection.
+http://www.nrc.gov/reading-rm/doc-coffections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2018 - 001 0
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 2 and Unit 3 were both operating in Mode 1 at approximately 100% rated thermal power. There were
+no structures, systems or components out of service that contributed to this event.
+Description of Event
+On 3/14/18, station personnel were reviewing and updating the Fire Protection Program Safe Shutdown
+Analyses. The update including classifying two motor operated valves in the feedwater system as "high/low
+pressure interface" valves. An analysis originally performed in the 1980's did not identify the valves as
+high/low pressure interface valves. It was determined that a flow path existed from the reactor vessel
+through the Reactor Water Cleanup (RWCU) System into the Reactor Core Isolation Cooling (RCIC) pump
+discharge line into the '8' feedwater line and into the low-pressure piping for the feedwater recirculation line
+back to the main condenser. The two valves (in each unit) are:
+Unit 2 Unit 3
+M0-2-06-0388 M0-3-06-0388 FW Long Path Recirculation Isolation Valve
+M0-2-06-2663 M0-3-06-3663 Long Path Recirculation Common Return Line
+As high/low pressure interface valves, both valves must be assumed to have the potential to spuriously
+open due to fire damage to electrical cables for the valves.
+A review performed in 2015 determined the two valves are a potential path for diversion of flow from the
+RCIC pump discharge if they should spuriously open during a fire, which could affect post-fire safe
+shutdown scenarios that rely on RCIC. Due to the potential for diversion of flow during a fire, power to the
+normally closed 2663/3663 valves was removed by opening the breaker during normal operations.
+During the 2015 review, it was assumed that removing power from the closed valves during normal
+operations would prevent the valve from opening during a fire and would eliminate the risk of loss of reactor
+vessel inventory during a fire. It was determined that the only action needed was to update fire protection
+documentation and calculations to classify the valves as high/low interface valves.
+During the March 2018 updating process, it was determined that the possibility of a 3-phase hot short during
+a fire also needed to be considered. The power cable between the breaker and the motor operator for the
+valve is in a cable tray with other energized cables. A 3-phase hot short could re-energize the valve
+operator and open the 2663/3663 valve. For this to create an actual flow path to the main condenser, fire
+damage to four additional valves would need to occur that would result in the valves spuriously opening or
+not closing if already open. The valves are the M0-2/3-06-0388 valve and three normally open primary
+containment isolation valves in the RWCU system:
+NRC FORM 366A (04-2018) Page _2_ of ....!.__
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04·2018)
+Estimated burden per response to comply with this mandatoiy collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and led back to industiy. Send coovnents
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatoiy
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatoiy Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2018 - 001 0
+NARRATIVE
+M0-2/3-12-015 RWCU Inlet Inboard Isolation Valve
+M0-2/3-12-018 RWCU Inlet Outboard Isolation Valve
+M0-2/3-12-068 RWCU Outlet Isolation Valve
+Note: the same valves exist in both units as indicated by "2/3" in the valve number.
+Once this issue was identified, it was entered into the corrective action program. Because the valves had
+not been properly evaluated as high/low interface valves, compensatory measures were established in fire
+areas 6N for Unit 2 and 13N for Unit 3.
+Further review determined the issue is also considered an unanalyzed condition and is reportable as
+required by 10 CFR 50.72(b)(3)(ii). See ENS event number 53265.
+Analysis of Event
+10 CFR 50, Appendix R, Section 111.G requires at least one train of cables and equipment necessary for
+achieving and maintaining hot shutdown to be protected against fire damage. This includes damage from
+hot shorts, open circuits, or shorts to ground that could prevent operation or cause maloperation of such
+equipment. These requirements are further clarified in NRC guidance in Generic Letters 81-12 and 86-10.
+GL 86-10, Section 5.3.1 states:
+For three-phase AC circuits, the probability of getting a hot short on all three phases in the proper
+sequence to cause spurious operation of a motor is considered sufficiently low as to not require
+evaluation except for any cases involving Hi/Lo pressure interfaces.
+The exception for high/low pressure interfaces is due to the potential severity of a loss of reactor coolant
+event concurrent with a fire.
+Section 6.2 of the site's FPP provides an analysis of high/low pressure interfaces that address the above
+Appendix R requirements. Fire Safe Shutdown Program Specification NE-00296, Section 6.1, provides
+program and design requirements for high/low pressure interfaces.
+Cause of the Event
+The flow path from the RWCU system to the feedwater return to condenser line was not identified as a
+high/low pressure interface during original Appendix R analysis in the 1980's. The exact cause is unknown,
+although it was likely due to lack of technical rigor in the system analysis performed when implementing
+Appendix R requirements.
+NRC FORM 366A (04-201 B) Page _3_ of .....i_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply l'<ith this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 2 05000277 NUMBER NO.
+2018 - 001 0
+NARRATIVE
+Corrective Actions
+Since unprotected cables existed in fire areas 6N for Unit 2 and 13N for Unit 3, compensatory measures
+were conservatively established in accordance with Technical Requirements Manual (TAM) Section 3.14.8
+Condition A. A design change has been developed to add a disconnect switch to the power cable for the
+2663/3663 valve such that a 3-phase hot short could not occur. Additional corrective actions are
+documented in the corrective action program.
+Previous Similar Occurrences
+No previous similar occurrences have been identified.
+NRC FORM 366A (04-2018) Page _4_ of ....!.__

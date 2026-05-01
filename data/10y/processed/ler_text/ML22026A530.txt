@@ -1,0 +1,245 @@
+Steven M. Snider
+(~ DUKE
+Vice President
+ENERGY® Oconee Nuclear Station
+Duke Energy
+ON01SC | 7800 Rochester Hwy
+Seneca, SC 29672
+o.864.873.3478
+f: 864.873.5791
+Steve.Snider@duke-energy.com
+RA-22-0049
+January 26, 2022 10 CFR 50.73
+Attn: Document Control Desk
+U. S. Nuclear Regulatory Commission
+11555 Rockville Pike
+Rockville, MD 20852-2746
+Duke Energy Carolinas, LLC
+Oconee Nuclear Station Unit 2
+Docket Number: 50-270
+Renewed Operating Licenses: DPR-49
+Subject: Licensee Event Report 270/2021-002, Revision 00 – Actuation of the Keowee
+Hydroelectric Station Due to Loss of AC Power to the Unit 2 Main Feeder Buses
+Licensee Event Report 270/2021-002, Revision 00, is being submitted pursuant to the
+requirements of 10 CFR 50.73 to provide notification of the subject event.
+There are no regulatory commitments associated with this LER.
+There are no unresolved corrective actions necessary to restore compliance with NRC
+requirements.
+If there are questions, or further information is needed, contact Sam Adams, Regulatory Affairs,
+at (864) 873-3348.
+Sincerely,
+Steven M. Snider
+Vice President
+Oconee Nuclear Station
+Enclosure: Licensee Event Report 270-2021-002 Rev.00
+RA-22-0049
+January 26, 2022
+Page 2
+cc (w/Enclosure):
+Ms. Laura Dudes, Administrator, Region II
+U.S. Nuclear Regulatory Commission
+Marquis One Tower
+245 Peachtree Center Ave., NE, Suite 1200
+Atlanta, GA 30303-1257
+Mr. Shawn Williams, Project Manager
+U.S. Nuclear Regulatory Commission
+11555 Rockville Pike
+Mail Stop O-08B1A
+Rockville, MD 20852-2738
+Mr. Jared Nadel
+NRC Senior Resident Inspector
+Oconee Nuclear Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~,;;J>f,, lilEcc,<..,_.. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+.. . '?,. Send comments regarding burden estimate to the Information Services Branch (T-6 A10M),
+~,~~" LICENSEE EVENT REPORT (LER) U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+;.q. . -~.1 1111t'·•.,, : < I > : Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and
+S (See Page 2 for required number of digits/characters for each block) Regulatory Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC
+",4')~--'7/fyO/f
+--~ ... «-- (See NUREG-1022, R.3 for instruction and guidance for completing this may not conduct or sponsor, and a person is not required to respond to, a collection of
+formhttp://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) information unless the document requesting or requiring the collection displays a currently
+valid OMB control number.
+1. Facility Name 2. Docket Number i3 . Page
+Oconee Nuclear Station Unit 2 0500000270 1 OF4
+4. Title
+Actuation of the Keowee Hydroelectric Station Due to Loss of AC Power to the Unit 2 Main Feeder Buses
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year Oconee Nuclear Station Unit 1
+Number No. 0500000269
+Facility Name Docket Number
+11 27 2021 2021 002 00 01 26 2022
+NA 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of10 CFR §: (Check all that apply)
+5 • 20.2201(b) • 20.2203(a)(3)(i) • 50.73(a)(2)(ii)(A) • 50.73(a)(2)(viii)(A)
+• 20.2201(d) • 20.2203(a)(3)(ii) • 50.73(a)(2)(ii)(B) • 50.73(a)(2)(viii)(B)
+• 20.2203(a)(1) • 20.2203(a)(4) • 50.73(a)(2)(iii) • 50.73(a)(2)(ix)(A)
+• 20.2203(a)(2)(i) • 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x)
+10. PowerLevel • 20.2203(a)(2)(ii) • 50.36(c)(1)(ii)(A) • 50.73(a)(2)(v)(A) • 73.71(a)(4)
+• 20.2203(a)(2)(iii) • 50.36(c)(2) • 50.73(a)(2)(v)(B) • 73.71(a)(5)
+000 • 20.2203(a)(2)(iv) • 50.46(a)(3)(ii) • 50.73(a)(2)(v)(C) • 73.77(a)(1)
+• 20.2203(a)(2)(v) • 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(D) • 73.77(a)(2)(ii)
+• 20.2203(a)(2)(vi) • 50.73(a)(2)(i)(B) • 50.73(a)(2)(vii) • 73.77(a)(2)(iii)
+• 50.73(a)(2)(i)(C) • Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact l Telephone Number (Include Area Code)
+I Sam Adams, Senior Nuclear Engineer, Oconee Regulatory Affairs I (864) 873-3348
+13. Complete One Line for each Component Failure Described in this Report
+Reportable To Reportable To
+Cause System Component Manufacturer Cause System Component Manufacturer
+IRIS IRIS
+N/A N/A
+14. Supplemental Report Expected Month Day Year
+• 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission
+X No
+Date)
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On November 27, 2021 at 0519 EST, with Unit 2 in MODE 5 with the Unit 2 Start-up transformer (CT-2) carrying the unit’s
+power loads, a CT-2 Lockout occurred. As a result, Unit 2 experienced a loss of alternating current (AC) power to the
+Main Feeder Buses (MFBs) resulting in the automatic start of both Keowee Hydroelectric Station (KHS) Units, initiated by
+the MFB Monitor Panel. Power was automatically restored to the Unit 2 MFBs from the CT-5 Transformer via the MFB
+Monitor Panel. During the power transfer, the operating Unit 2 Decay Heat Removal (DHR) pump stopped and then
+automatically restarted, as designed, with the restoration of power to the MFBs.
+The direct cause of this event was an inaccurate procedure step that resulted in Start-up Bus Differential Relay Control
+Switches being out of the required alignment. Because of the switch lineup that existed at the time, the Unit 1 Start-up
+Transformer (CT-1) also locked out at the same time as CT-2, however Unit 1 loads were being supplied by the Unit 1
+Auxiliary Transformer (1T) and not by CT-1, therefore Unit 1 did not experience a loss of AC power and did not initiate any
+actuation signal to the KHS Units.
+This event was reported to the NRC on November 27, 2021, in Event Notification (EN) number 55612, as an 8-hour
+notification under 10 CFR 50.72(b)(3)(iv)(A) – Emergency AC Electrical Power System Actuation. It is also reportable as a
+60-day written report under 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l¥~1'.11(,11~\. .. LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+\,, ~l CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB
+?.,. ...... reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk ail:
+oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection displays
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Oconee Nuclear Station Unit 2 0500000270 NUMBER NO.
+2021 002 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+BACKGROUND
+During start-ups, shutdowns, and outage periods where the Auxiliary Transformer (2T on Unit 2) [XFMR] is not available, offsite
+power [EA] is supplied to the Unit’s Main Feeder Busses (MFB) [EB] from the 230 kV Switchyard through the Start-up Transformer
+(CT-2 on Unit2)[XFMR] or from Central Switchyard through Transformer CT-5 [XFMR] via one or both Standby Buses[EB].
+Emergency power [EB] can be provided to any or all three Oconee Nuclear Station (ONS) Units MFB from the Keowee
+Hydroelectric Station (KHS) [EK] from either of two emergency power paths:
+1. The Overhead Path, that includes the Unit’s Start-up Transformer (CT-1, CT-2, or CT-3) [XFMR] on each ONS unit
+2. The Underground Path, through Transformer CT-4 [XFMR] and one or both Standby Buses.
+Emergency onsite power may also be provided to any or all three ONS Units MFB from a Lee Combustion Turbine (LCT) [EK] on
+a dedicated 100kV transmission line through Transformer CT-5 via one or both Standby Buses.
+The Main Feeder Bus Monitor Panel (MFBMP) [P] provides an automatic method of establishing safe and reliable power to the
+MFBs during non-Engineered Safeguards events. MFBMP detects low voltage on a Unit’s MFB and initiates load shed logic, an
+emergency start of both KHS units, and permissive signals to permit automatically aligning the Unit’s MFB to either the Unit’s
+Startup Transformer energized from the Overhead Path or the Standby Buses energized by either Transformer CT-4 or
+Transformer CT-5.
+EVENT DESCRIPTION
+On November 27, 2021, Unit 1 was in MODE 1 operating at 100% reactor power with its MFB powered from the Unit 1 Auxiliary
+Transformer (1T) [XFMR] . Unit 2 was in MODE 5 with the Unit 2 Start-up transformer (CT-2) powering the unit’s MFB. The Unit 2
+Low Pressure Injection (LPI)[BP] system was providing Decay Heat Removal (DHR). Standby Buses were energized from
+Central Switchyard via CT-5 to provide an additional offsite power source for Unit 2 for outage defense in depth.
+At 0519 EST, Unit 2 was starting the 2B2 Reactor Coolant [AB] Pump (RCP) Motor [MO] for an uncoupled run. When the 2B RCP
+switch was placed to the Start position, CT-1 and CT-2 lock out [86] occurred. Unit 1 was operating with the unit being powered
+from 1T and therefore did not lose power when CT-1 locked out. The CT-2 lockout, however, did result in a loss of AC power to
+the Unit 2 and MFBMP initiated an automatic start of both KHS Units. KHS emergency start completed and CT-4 was energized
+by KHS. However, since CT-5 was already energizing the Standby Buses, power was automatically restored to the Unit 2 MFBs
+from CT-5 by MFBMP. During the MFBMP power transfer, the operating Unit 2 DHR pump stopped and then automatically
+restarted, as designed, with the restoration of power to the Unit 2 MFBs.
+Reportability
+This event was reported to the NRC on November 27, 2021, in Event Notification (EN) number 55612, as an 8-hour notification
+under 10 CFR 50.72(b)(3)(iv)(A) – Emergency AC Electrical Power System Actuation. It is also reportable as a 60-day written
+report under 10 CFR 50.73(a)(2)(iv)(A).
+EN 55612 also reported a loss of safety function of the DHR system. After additional review, it has been determined that a loss of
+safety function did not occur as both DHR trains were capable of being powered via the automatic power switching logic and all the
+associated equipment to support cooling was available. Incoming power source swapping is part of the design of the system. As
+such, this event is not reportable per 10 CFR 50.72(b)(3)(v) or 10 CFR 50.73(a)(2)(v).
+NRC FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l¥~1'.11(,11~\. .. LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+\,, ~l CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB
+?.,. ...... reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk ail:
+oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection displays
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Oconee Nuclear Station Unit 2 0500000270 NUMBER NO.
+2021 002 00
+NARRATIVE
+CAUSAL FACTORS
+A Prompt Investigation Response Team (PIRT) was convened to determine why the procedure failed to ensure the transfer
+switches were in the correct positions. The PIRT identified the direct cause to be an inaccurate procedure step related to
+positioning/verifying Start-up Bus Differential Relay Control switches.
+The causes for the inaccurate procedure step are:
+1. Procedure revision generated with technical errors in the procedure.
+2. Procedure revision reviewed with technical errors in the procedure and not identified and corrected by the reviewers.
+CORRECTIVE ACTIONS
+Immediate:
+1. Units 1 and 2 were restored to the appropriate power alignment.
+2. The inaccurate procedure was revised.
+Planned:
+1. Revise all labeling associated with the Start-up Transformer Differential Relay transfer switches to improve human
+factors.
+2. Reinforce procedure change development requirements and expectations for use of human error reduction tools
+for procedure writers.
+3. Reinforce procedure review and validation requirements and expectations for use of job aids and human error
+reduction tools with procedure reviewers and validators.
+4. Conduct procedure review process training.
+SAFETY ANALYSIS
+A qualitative risk evaluation was performed to consider the potential impacts of this event on plant safety. The CT-1
+and CT-2 Lockout Event on 11/27/2021 affected Unit 1 and Unit 2 but did not have any impact on public health and
+safety.
+For Unit 1, the event did not cause a plant transient and remained online with internal electrical loads continuing to be
+supplied from the normal power source (Auxiliary Transformer 1T). If the normal power source had been lost,
+electrical loads would have transferred automatically to the alternate offsite power source fed from Transformer CT-
+5. Additionally, the Keowee Emergency Power System started automatically and was running in standby and was
+available to supply loads via the underground power path to Transformer CT-4. As a result, the lockout event had a
+negligible impact on Unit 1 core damage risk since there was no transient, the AC power support function was
+maintained, and there was no loss of mitigating equipment.
+Unit 2 was shut down in Mode 5 beginning the process of unit start-up following a refueling outage when the lockout
+occurred. The LPI System was running in decay heat removal mode when power from CT-2 was lost. However,
+power was restored automatically from the Standby Buses (via CT-5 offsite power) and the running pump
+automatically restarted and resumed decay heat removal circulation without operator action. Both Keowee units
+NRC FORM 366A (08-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l¥~1'.11(,11~\. .. LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+\,, ~l CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB
+?.,. ...... reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk ail:
+oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection displays
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Oconee Nuclear Station Unit 2 0500000270 NUMBER NO.
+2021 002 00
+automatically started and were running in standby and available to restore power if offsite power from Transformer CT-
+5 had failed. Given the low decay conditions present on Unit 2, significant time was also available for additional
+operator recovery actions if they had been needed. Therefore, given the significant defense-in-depth and time
+available for recovery actions, this event is judged to have a very low risk of core damage.
+With no loss of normal cooling, emergency power available from Keowee, and significant time available for additional
+recovery actions, the loss of CT-2 event had an insignificant impact on Unit 2 core damage risk.
+Thus, it is concluded that the impact of the CT-1/CT-2 lockout event on overall plant risk is insignificant and had no
+impact on public health and safety.
+ADDITIONAL INFORMATION
+A review of Duke Energy’s Corrective Action Program did not identify any Oconee LERs or events in the last 3
+years that involved the same underlying concerns or reasons as this event.
+This event is considered INPO IRIS Reportable. There were no releases of radioactive materials, radiation exposures or
+personnel injuries associated with this event.
+Page 4 of 4
+NRC FORM 366A (08-2020)

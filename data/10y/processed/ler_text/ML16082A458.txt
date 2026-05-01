@@ -1,0 +1,209 @@
+Keith J. Poison
+Site vice President
+D)TE Energy Company
+6400 N, Dixie Highway, Newport, MI 48166
+Te:a 734.586.4849 Fax: 734.586.4 172
+Email, polsonk dteenrgy.com
+10 CFR 50.73
+March 22, 2016
+NRC-16-0016
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2016-002
+Pursuant to 1OCFR50.73(a)(2)(v)(D) and 1OCFR50.73(a)(2)(vii), DTE Electric
+Company (DTE) is submitting LER No. 2016-002, Both Residual Heat Removal
+Low Pressure Coolant Injection Divisions Inoperable Due to Inoperable Injection
+Valve.
+Should you have any questions or require additional information, please contact
+Mr. Alan L Hassoun, Manager Nuclear Licensing of my staff at (734) 586-4287.
+Sincerely,
+Keith J. Polson
+Site Vice President
+Enclosure: LER 2016-002, Both Residual Heat Removal Low Pressure Coolant Injection
+Divisions Inoperable Due to Inoperable Injection Valve
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-16-0016
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+LER 2016-002, Both Residual Heat Removal Low Pressure Coolant
+Injection Divisions Inoperable Due to Inoperable Injection Valve
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT RPOR (LER) internet e-mail toi nfocollects.Resource@nrc.gov, andto the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+digits/characters for each block) OMB control number, the NRCm ay not conduct or sponsor, and a person is not required to
+respond to, the information collection,
+1. FACILITY NAME 2. DOCKET NUMBER 3 PAGE
+Fermi 2 05000 341 1 OF 4
+4. TITLE
+Both Residual Heat Removal Low Pressure Coolant Injection Divisions Inoperable Due to Inoperable Injection Valve
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR FACILITYNAME 05 D 0 O 0 C 0 KET NUMBER
+01 22 2016 2016 - 002 - 00 03 22 2016 FAC0LTYNAME 500C E
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+i
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+E] 20.2203(a)(1) 20.2203(a)(4) L 50.73(a)(2)(iii) [ 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) Fl 50.73(a)(2)(x)
+10. POWER LEVEL j 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) Q 50.73(a)(2)(v)(A) 73 71(a)(4)
+20.2203(a)(2)(iii) Q 50.36(c)(2) Q 50.73(a)(2)(v)(B) E 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 E] 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) / 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+LI
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) / 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+Q 50.73(a)(2)(i)(C) [j OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Alan 1. Hassoun, Manager Nuclear Licensing (734) 586-4287
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TOEI
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) / NO SUBMTION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 22, 2016, at 1923 EST, both divisions of the Residual Heat Removal (RHR) system were declared inoperable for the Low
+Pressure Coolant Injection (LPCI) mode of operation due to a failure of the division 1 LPCI outboard injection motor operated valve
+(MOV), El 150F017A. While performing the division 1 RHR pump and valve operability surveillance test, El 150F017A closed
+properly but failed to open during its required stroke time test. With this valve closed and unable to automatically open, LPCI injection
+into the Reactor Pressure Vessel (RPV) from both divisions of RHR would be prevented if the LPCI loop select logic selected the
+division 1 recirculation loop for injection; therefore, this failure rendered both divisions of RHR inoperable for the LPCI function.
+Technical Specification limiting condition for operation (LCO) 3.5.1, Condition K, was entered, which requires immediate entry into
+LCO 3.0.3. The cause of the failure was subsequently identified as a foreign material (screw) that affected the function of the MOV
+contactor. The root cause was determined to be less than adequate inspection procedures and susceptibility of the contactor to foreign
+material. Inspection of all other susceptible equipment is ongoing to tighten loose screws and a modification is planned to install
+Foreign Material Exclusion (FME) barriers.
+NRC FORM 366 (11-20151
+Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-201 5)
+LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 7
+341 2016 - 002 -
+Initial Plant Conditions:
+Mode 1
+Reactor Power 100 percent
+There were no inoperable Structures, Systems, or Components at the start of the event that contributed to the
+event.
+Description of the Event
+On January 22, 2016, at 1923 EST, both divisions of Residual Heat Removal (RHR) [BO] were declared
+inoperable for the Low Pressure Coolant Injection (LPCI) mode of operation due to a failure of the division 1
+LPCI outboard injection motor operated valve [ISV], El 150F017A. While performing the division 1 RHR pump
+and valve operability surveillance test, El 150F017A closed properly but failed to open during its required stroke
+time test.
+The Fermi 2 accident analysis takes credit for the proper operation of the LPCI loop select logic during a loss of
+coolant accident (LOCA). The loss of coolant event involves the postulation of a spectrum of piping breaks
+inside the primary containment, varying in size, type, and location. The most severe nuclear system effects and
+the greatest release of material to the primary containment result from a complete circumferential break of one of
+the two reactor recirculation loop [AD] pipe lines. This is the design basis accident (DBA). Since the LPCI
+system injects water into the reactor vessel [RPV] through the discharge piping of one of the recirculation loops,
+a loop selection logic is provided to ensure that the water is injected into an unbroken loop. The loop selection
+logic compares pressure on the two recirculation loops. A broken loop will indicate a lower pressure than an
+unbroken loop. The loop selection logic directs the LPCI injection into the high pressure (unbroken) loop. The
+loop selection is effected through the operation of the RHR injection valves.
+Valve El 150FOI 7A is a normally open RHR injection valve in series with the inboard E 1150F015A valve.
+These valves control the RHR LPCI flow into reactor recirculation loop A. Because the valve failed in the closed
+position, flow would be inhibited into the A recirculation loop for scenarios where a break is detected in loop B.
+Therefore, both divisions of RHR were declared inoperable for the LPCI function at 1923 EST on January 22,
+2016. Technical Specification 3.5.1, Condition K was invoked and limiting condition for operation (LCO) 3.0.3
+was immediately entered.
+Trouble shooting determined that the control power [JS] closing contactor did not have full freedom of
+movement because of foreign material. The contactor was removed from the Motor Control Center (MCC) and
+was manually cycled on a workbench. While manually cycling the contactor, a screw fell out of the contactor.
+The screw apparently fell into the contactor from a Control Relay (CR) located above the contactor in the MCC.
+At approximately 2143 EST, the E1150F017A valve was re-tested satisfactorily. The valve properly closed and
+opened, meeting required Inservice Inspection (ISI) stroke time acceptance criteria. At 2145 EST, both divisions
+of RHR were declared operable for the LPCI and LCO 3.5.1, Condition K and LCO 3.0.3 were exited.
+NRC FORM 366A (11-2015)
+Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-2015)
+LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL L3RE VOi-i
+05000- NUMBER NO.
+Ferm12 341 2016 002
+An 8 hour event notification number 51676 was made pursuant to 1OCFR50.72(b)(3)(v)(D) on
+January 23, 2016, 0020 EST, to the NRC Operations Center. Reactor Power was maintained at 100 percent
+throughout the event.
+This report is being made pursuant to 10 CFR50.73(a)(2)(v)(D) as a condition that could have prevented the
+fulfillment of a system safety function needed to mitigate the consequences of an accident. In addition, this
+report is being made pursuant to 1OCFR50.73(a)(2)(vii) as an event where a single cause or condition caused at
+least one independent train or channel to become inoperable in multiple systems or two independent trains or
+channels to become inoperable in a single system designed to mitigate the consequences of an accident.
+Significant Safety Consequences and Implications
+The safety function of the LPCI mode of the RHR system is to inject water from the suppression pool into the
+reactor vessel via injection lines connected to the reactor recirculation piping following a large break LOCA.
+Since a large break LOCA could occur in either one of the two reactor recirculation loops, the LPCI loop select
+logic function is designed to select the undamaged reactor recirculation loop for LPCI injection. Under the
+conditions of this event, with the Loop A outboard injection valve closed and unable to open, had a LOCA
+occurred in recirculation loop B or elsewhere in the reactor connected piping systems in containment, the
+automatic LPCI injection to the reactor vessel would have been prevented.
+Inoperability of the El 150FOI7A valve, for approximately one hour and 50 minutes, rendered both divisions of
+LPCI inoperable. However, during that period of time the core spray and standby feedwater systems were
+available to address large break LOCA events. The high pressure coolant injection, reactor core isolation
+cooling, and standby feedwater systems were also available to address any small break LOCA scenarios that
+could have occurred at that time. The event was of low safety significance considering the short duration;
+therefore, the health and safety of the general public were not adversely
+impacted.
+Cause of the Event
+A Root Cause Evaluation determined that the technical requirements to check all fasteners for looseness were not
+adequately implemented into Maintenance work instructions (procedures) for MCC inspections during
+Preventative Maintenance. Additionally, the General Electric (GE) CR305 contactor orientation inside the MCC
+created a susceptibility to foreign material. When the contactor is mounted horizontally, an opening is created
+where foreign material can fall into the contactor.
+The contributing cause was that previous Corrective Action Program documents/products did not
+adequately identify the cause of similar previous events and did not effectively implement corrective actions to
+minimize recurrence.
+NRC FORM 366A (11-2015)
+Page 4 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(11-2015)
+LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YrEA1R iL SEQUENTIAL REV
+Fermi 2 2 05000- 3 34 1 1 . 2016 ~ - NU 0 0 M 0 2 B 2 E ~ R ~ ~i - N 0 O 0 .
+Corrective Actions
+The foreign material was removed and the MCC bucket was restored and tested satisfactorily. The MCC was
+independently inspected for additional foreign material and all other screws on the relay were tightened. Four
+procedures will be revised to include instructions to check accessible spare terminal screws for tightness. The
+revisions will be complete by May 31, 2016.
+Additional corrective actions include personnel training and the inspection of Engineered Safety Feature (ESF)
+MCC positions with CR120B relays for loose or missing screws and for susceptible contactor orientation. All
+screws will be tightened during the inspections and a Design Change will be implemented to modify the
+susceptible MCC contactors with a permanent FME barrier. Initial visual inspections are complete. All
+corrective actions will be completed by the next refueling outage (RF1 8), scheduled for spring 2017.
+Additional Information:
+A. Failed Component Data:
+None.
+B. Previous Similar Events:
+LER 2005-004, "Both Residual Heat Removal Low Pressure Coolant Injection Divisions
+Inoperable Due to Valve Failure," was submitted when the El 150F01 7B, the Division 2
+LPCI outboard injection valve, failed to open. The cause of the failure was high resistance
+on the open contactor auxiliary interlock contact. Therefore, the corrective actions for LER
+2005-004 would not have prevented the current event.
+Actions taken in response to Condition Assessment Resolution Document 06-22311,
+which identified a foreign material that impacted the operation of a similar contactor were not
+effective to prevent the occurrence of this event.
+NRC FORM 366A (11-2015)

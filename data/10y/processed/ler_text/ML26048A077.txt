@@ -1,0 +1,497 @@
+Post Office Box 2000, Decatur, Alabama  35609-2000
+February 17, 2026
+10 CFR 50.73
+ATTN:  Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C.  20555-0001
+Browns Ferry Nuclear Plant, Units 1 and 2
+Subsequent Renewed Facility Operating License Nos. DPR-33 and DPR-52
+NRC Docket Nos. 50-259 and 50-260
+Subject:
+Licensee Event Report 50-259/2025-002-00 – Unit 1/2 480V Load Shed 
+Logic Division I/II Inoperable Longer Than Allowed by Technical 
+Specifications
+The enclosed Licensee Event Report provides details of a condition discovered that 
+rendered the Unit 1/2 480V Load Shed Logic Division I/II inoperable longer than allowed by 
+Technical Specifications on Browns Ferry Nuclear Plant, Units 1 and 2.  The Tennessee 
+Valley Authority is submitting this report in accordance with Title 10 of the Code of Federal 
+Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was prohibited 
+by Technical Specifications.  A supplement to this Licensee Event Report is planned to 
+allow additional time to complete the cause evaluation.
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact David J. Renn, Site Regulatory 
+Compliance Manager, at (256) 729-2636.
+Respectfully,
+Daniel A. Komm
+Site Vice President
+Enclosure:  Licensee Event Report 50-259/2025-002-00 – Unit 1/2 480V Load Shed Logic 
+Division I/II Inoperable Longer Than Allowed by Technical Specifications
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+
+ENCLOSURE
+ 
+Browns Ferry Nuclear Plant 
+Units 1 and 2 
+ 
+Licensee Event Report 50-259/2025-002-00 
+ 
+Unit 1/2 480V Load Shed Logic Division I/II Inoperable  
+Longer Than Allowed by Technical Specifications 
+See Enclosed 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024)
+APPROVED BY OMB:  NO. 3150-0104         
+EXPIRES: 04/30/2027
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+ 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. Facility Name 
+Browns Ferry Nuclear Plant, Units 1 and 2
+050
+052 
+52. Docket Number 
+00259
+3. Page 
+1 OF 4 
+4. Title 
+Unit 1/2 480V Load Shed Logic Division I/II Inoperable Longer Than Allowed by Technical Specifications 
+5. Event Date 
+6. LER Number 
+7. Report Date
+8. Other Facilities Involved 
+Month
+Day
+Year 
+Year 
+Sequential 
+Number
+Revision
+No.
+Month
+Day
+Year 
+Facility Name 
+ Browns Ferry Nuclear Plant, Unit 2 
+Docket Number 
+05000260 
+12 
+17 
+2025
+2025 - 
+002 
+-
+00 
+02 
+17 
+2026 
+Facility Name 
+N/A
+Docket Number 
+ 
+05000XXX 
+9. Operating Mode
+1 
+10. Power Level
+      100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply) 
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.1200(a) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  73.1200(b)
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  73.1200(c) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  73.1200(d) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  73.1200(e) 
+  20.2203(a)(2)(ii) 
+  21.2(c) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.77(a)(1) 
+  73.1200(f) 
+  20.2203(a)(2)(iii) 
+50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.77(a)(2)(i) 
+  73.1200(g) 
+  20.2203(a)(2)(iv) 
+50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(2)(ii) 
+  73.1200(h) 
+  20.2203(a)(2)(v) 
+50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+ 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Michael Oliver, Site Sr Nuclear Licensing Program Manager 
+Phone Number  (Include area code) 
+256-729-7874
+13. Complete One Line for each Component Failure Described in this Report
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS
+N/A 
+N/A 
+N/A 
+N/A 
+N/A
+N/A 
+N/A 
+N/A 
+N/A 
+N/A
+4. Supplemental Report Expected)      
+15. Expected Submission Date 
+Month
+Day 
+Year 
+No
+ Yes (If yes, complete 15. Expected Submission Date
+4
+16 
+2026
+16. Abstract  (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At Browns Ferry Nuclear Plant, Units 1 and 2, on November 5, 2025, at 1157 Central Daylight Time, the 
+performance of 480V Load Shedding Logic System Functional Test (Division I) and subsequent 
+troubleshooting discovered that the tripping circuit for the 480V Control Bay Vent Board (CBVB) A Normal 
+Feeder Breakers position switch was not closed.  From the past operability evaluation, it was concluded that, 
+in the event of there were a Unit 1 and/or Unit 2 loss of offsite power and an accident signal, the loads on the 
+480V CBVB A would not have shed, and the potential to overload Diesel Generator (DG) A existed.   
+Based on the results of the analysis and the overloading scenarios associated with this condition, it was 
+concluded that DG A would not have been overloaded and was capable to perform its intended safety 
+function for its mission time.  Because of this condition, the 480V Load Shed logic did not meet Technical 
+Specifications (TS) Limited Condition of Operation 3.8.1 multiple times in Modes 1, 2, and 3 from 
+November 5, 2022, to November 5, 2025.  Because it was determined that DG A was fully capable of 
+performing its safety functions with the additional load from 480V CBVB A, there is no safety significance 
+with this condition present. 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024)
+LICENSEE EVENT REPORT (LER)
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+050
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Units 1 
+and 2 
+00259 
+YEAR 
+SEQUENTIAL
+NUMBER
+REV 
+NO.
+ 
+052
+2025
+-
+002
+-
+00
+NARRATIVE 
+NRC FORM 366A (10-01-2023)
+ 
+Page    2
+  of     4
+I. 
+Plant Operating Conditions before the Event 
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Units 1 and 2, were both in Mode 1 at 
+approximately 100 percent power. 
+ 
+II. 
+Description of Event 
+A. Event Summary 
+On November 5, 2025, at 1157 Central Daylight Time, performance of Technical Specifications 
+(TS) Surveillance Requirement (SR) procedure 0-SR-3.8.1.8(I), 480V Load Shedding Logic 
+System Functional Test (Division I), and subsequent troubleshooting discovered that the tripping 
+circuit for the 480V Control Bay Vent Board (CBVB) A Normal Feeder Breakers position 
+switch [33] was not closed.  From the past operability evaluation, completed December 17, 2025, 
+it was concluded that, in the event of there were a Unit 1 and/or Unit 2 loss of offsite power and 
+an accident signal (reactor low level or reactor low pressure and drywell high pressure), loads on 
+the 480V CBVB A [EC] would not have shed, and the potential to overload Diesel Generator (DG) 
+A [EK] existed. 
+Based on the results of an engineering analysis and the overloading scenarios associated with 
+this condition, it was concluded that DG A would not have been overloaded and was capable to 
+perform its intended safety function for the 0 to 3 minute period of operation with the maximum 
+starting and running loads from Unit 1 or Unit 2 plus the loads on the 480V CBVB A through its 
+7-day mission time.  Because of this condition, the 480V Load Shed logic [JE] did not meet TS 
+Limited Condition of Operation (LCO) 3.8.1 multiple times in Modes 1, 2, and 3 from  
+November 5, 2022, to November 5, 2025.   
+Because it was determined that DG A was fully capable of performing its safety functions with the 
+additional load from 480V CBVB A, there is no safety significance with this condition present. 
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code 
+of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was prohibited by 
+TS. 
+B. Status of structures, components, or systems that were inoperable at the start of the 
+event and that contributed to the event 
+None. 
+C. Dates and approximate times of occurrences 
+DATE AND 
+APPROXIMATE TIMES 
+OCCURRENCE 
+November 5-7, 2025 
+Unsatisfactory results during testing.  Following position switch 
+adjustment, the test was reperformed satisfactorily. 
+December 17, 2025 
+Completion of engineering analysis and past operability 
+evaluation for CR 2048979. 
+D. Manufacturer and model number of each component that failed during the event 
+There was no component failure. 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024)
+LICENSEE EVENT REPORT (LER)
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+050
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Units 1 
+and 2 
+00259 
+YEAR 
+SEQUENTIAL
+NUMBER
+REV 
+NO.
+ 
+052
+2025
+-
+002
+-
+00
+NARRATIVE 
+NRC FORM 366A (10-01-2023)
+ 
+Page    3
+  of     4
+E. Other systems or secondary functions affected 
+No other systems or secondary functions were affected. 
+F. Method of discovery of each component or system failure or procedural error 
+There was no component failure or failure to follow a procedure. 
+G. The failure mode, mechanism, and effect of each failed component 
+There was no failed component. 
+H. Operator actions 
+None.  There were no operating impacts on BFN Units 1, 2, or 3. 
+I. 
+Automatically and manually initiated safety system responses 
+None.  There were no safety system expected or actual responses. 
+ 
+III. 
+Cause of the event 
+A. Cause of each component or system failure or personnel error 
+There was no component or system failure. 
+B. Cause(s) and circumstances for each human performance related root cause 
+The cause, suspected inadequate procedure/maladjustment of a position switch, from this 
+event is not finalized, and a supplement to this LER will be provided. 
+ 
+IV. 
+Analysis of the event 
+Due to a maladjustment of a position switch, an engineering evaluation concluded that, with the 
+breakers tripping circuit open, 480V Load Shed Logic for Divisions I and II would not have shed loads 
+on 480V CBVB A if an accident signal was received from Unit 1 and/or Unit 2.  Tripping of 
+nonessential loads is a required function for DG operability.  It also determined that with the loads on 
+the 480V CBVB A not shedding, DG A was capable to perform its specified safety functions in the 
+event an accident signal and loss of offsite power occurred between 0 minutes through its 7-day 
+mission time. 
+ 
+V. 
+Assessment of Safety Consequences 
+From the engineering evaluation, it was concluded that DG A remained capable of performing its 
+safety functions and carrying designated loads plus the additional load from the CBVB A from initial 
+start through its 7-day mission time.  Regarding Division I and II of 480V Load Shed Logic, because 
+the position switch for the tripping circuit was open, the Normal Feeder Breaker for the CBVB A would 
+not have tripped open to shed the load on an accident signal from Unit 1 and/or Unit 2, both divisions 
+of 480V load Shed Logic were inoperable. 
+A. Availability of systems or components that could have performed the same function as 
+the components and systems that failed during the event 
+There are no systems or components that could have performed the same function. 
+B. For events that occurred when the reactor was shut down, availability of systems or 
+components needed to shutdown the reactor and maintain safe shutdown conditions, 
+remove residual heat, control the release of radioactive material, or mitigate the 
+consequences of an accident 
+This event did not occur when the Units 1 and 2 reactors were shut down. 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024)
+LICENSEE EVENT REPORT (LER)
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+050
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Units 1 
+and 2 
+00259 
+YEAR 
+SEQUENTIAL
+NUMBER
+REV 
+NO.
+ 
+052
+2025
+-
+002
+-
+00
+NARRATIVE 
+NRC FORM 366A (10-01-2023)
+ 
+Page    4
+  of     4
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed 
+time from discovery of the failure until the train was returned to service 
+No train of a safety system was rendered inoperable. 
+ 
+VI. 
+Corrective Actions 
+Corrective Actions are being managed by TVA’s Corrective Action Program via CR 2048979. 
+A. Immediate Corrective Actions 
+An adjustment was made during troubleshooting of the breaker cradle, which then allowed the  
+position switch to be in the correct state.  The previously failed step of the SR was 
+reperformed and completed satisfactorily.  As a result, there are no potential adverse 
+aggregate/cumulative effects for 480V Load Shed Logic Division I or Division II or DG A. 
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events 
+occurring in the future 
+The cause of this event is not finalized, and a supplement to this LER will be provided. 
+ 
+VII. Previous Similar Events at the Same Site 
+There were no previous similar events at BFN within the last 5 years. 
+ 
+VIII. Additional Information 
+There is no additional information. 
+ 
+IX. 
+Commitments 
+There are no new commitments. 
+ 
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. 
+ 

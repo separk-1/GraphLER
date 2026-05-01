@@ -1,0 +1,178 @@
+10 CFR 50.73
+CCN: 24-45
+September 05, 2024
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2
+Subsequent Renewed Facility Operating License No. DPR-44
+NRC Docket No. 50-277
+Subject: Licensee Event Report (LER) 2024-003-00 Automatic Reactor Scram
+Following Main Turbine Trip due to Degraded Condenser Vacuum
+Reference: ENS 57221
+The subject report is being submitted in accordance with 50.73(a)(2)(iv)(A) for actuation of
+the Reactor Protection System and Containment Isolation signals.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Engineer, Ms. Amy Huber at (267) 533-7247.
+Respectfully,
+Stiltner, Ryan Digitally signed by
+Stiltner, Ryan C
+C Date: 2024.09.05 07:34:00
+-04'00'
+Ryan C. Stiltner
+Plant Manager
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W. DeHaas, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block) at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 2 00277 1 OF 3
+052
+4. Title
+Automatic Reactor Scram Following Main Turbine Trip due to Degraded Condenser Vacuum
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+07 10 2024 2024 - 003 - 00 09 05 2024 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 25.6
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Amy Huber, Regulatory Engineer (267) 533-7247
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X SG HX I075 Y X WF RV T095 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+While conducting power ascension following a maintenance outage, Peach Bottom Unit 2 began experiencing increasing
+condensate pump discharge chlorides because of a condenser tube leak. A condenser water box was isolated to facilitate
+repairs, but due to high river temperatures combined with elevated offgas inleakage, the water box isolation resulted in
+degrading condenser vacuum. Attempts to restore vacuum were unsuccessful and ultimately required a trip of the main turbine.
+Because the Reactor Protection System (RPS) input for Turbine Stop Valve (TSV) and Turbine Control Valve fast (TCV)
+closure was armed, the turbine valve closure generated a scram signal. Group II and III Primary Containment Isolation Valves
+isolated because reactor water level reached the isolation setpoint. Reactor water level was maintained with feedwater and
+pressure was maintained with bypass valves. The scram occurred without complication and all systems responded as
+expected. Unit 3 was not impacted by this event.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual or automatic isolation of systems listed in
+10CFR50.73(a)(2)(iv)(B) including RPS and containment isolation signals. An ENS notification was made within 4 hours of the
+event, reference ENS 57221.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station, Unit 2 00277
+
+052 2024 - 003 - 00
+NARRATIVE
+Plant Operating Conditions Before the Event
+Prior to the event, on July 10, 2024, Peach Bottom Unit 2 was in Mode 1 conducting power ascension following
+a maintenance outage. It was identified that condensate pump discharge chloride conductivity was increasing,
+indicative of a condenser (EIIS: SG) tube leak. To facilitate investigation and repair of leaking tubes, a
+condenser waterbox was isolated with the reactor at approximately 62% power. Waterbox isolation combined
+with seasonally high river temperatures and elevated offgas (EIIS: WF) inleakage from a degraded valve in the
+offgas system resulted in degrading condenser vacuum. Although the waterbox was returned to service,
+condenser vacuum continued to degrade. The operating crew reduced power per station procedures, but
+condenser vacuum reached the threshold requiring a manual trip of the main turbine (EIIS: TA).
+Event Description
+The turbine was manually tripped on July 10, 2024 at 07:28 with the reactor at 25.6% power, which is within
+the physical capability of bypass valves (EIIS: SO). This is below the power level at which the Reactor
+Protection System (RPS) input for Turbine Stop Valve (TSV) and Turbine Control Valve (TCV) fast closure
+(EIIS: TA) is required to be armed per Technical Specifications, but due to conservative instrument setpoints,
+the input was still armed and the closure of the valves generated a scram signal. The scram occurred without
+complication. The Reactor Pressure Vessel (RPV) low level setpoint was reached, resulting in isolation of
+Group II and III Primary Containment Isolation System (PCIS) (EIIS: JM) valves as expected. Water level in
+the RPV was restored and maintained with Feedwater (EIIS: SJ) and pressure was maintained with bypass
+valves.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual or automatic isolation of systems listed
+in 10CFR50.73(a)(2)(iv)(B) including RPS and containment isolation signals. An ENS notification was made
+within 4 hours of the event, reference ENS 57221.
+Safety Consequences
+The reactor Scram occurred as designed and resulted in no safety consequences. All safety systems
+responded as expected. Use of emergency core cooling systems for level and pressure control was not
+required. Unit 3 was not impacted by this event.
+Cause and Corrective Actions
+The cause of the scram was RPS input from TSV and TCV fast closure due to a manual trip of the Main
+turbine. Procedures directed tripping the turbine if steam flow was within bypass valve capability but did not
+warn that the RPS logic may be armed. Actions have been taken to revise procedures from tripping the turbine
+“if within bypass valve capability” to “if it is known that the Main TCV/TSV closure is bypassed on A or B RPS”.
+Additionally, the cause of the degraded condenser vacuum condition was investigated. The root cause of this
+condition is that the station did not recognize and evaluate the cumulative effect of increased offgas air
+inleakage and isolation of a condenser waterbox with high river temperatures, culminating in a rapid lowering
+of main condenser vacuum. As a contributor, station models were unable to accurately predict the impact of
+elevated offgas inleakage on condenser performance. The corrective actions focus on enhancing the station
+governance for isolating a waterbox.
+NRC FORM 366A (04-02-2024)
+Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station, Unit 2 00277
+
+052 2024 - 003 - 00
+NARRATIVE
+Previous Similar Events
+In February 2004, Peach Bottom manually scrammed due to decreasing condenser vacuum. The cause of the
+loss of vacuum was inleakage of non-condensable gases from a crack in a feed pump turbine expansion joint.
+Ref. LER 2004-002-00, dated 4/30/2004.
+In August 2022, Peach Bottom experienced condenser vacuum degradation during a load drop in support of
+condenser cleaning activities, after isolating condenser water boxes. In this case, conditions were stabilized
+without requiring a trip of the main turbine or a reactor scram. Increased offgas flow was not a factor in this
+event.
+NRC FORM 366A (04-02-2024)
+Page 3 of 3

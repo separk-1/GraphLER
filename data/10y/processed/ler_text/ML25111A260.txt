@@ -1,0 +1,500 @@
+Steven M. Snider
+Vice President 
+Oconee Nuclear Station 
+Duke Energy 
+ON01SC | 7800 Rochester Hwy 
+Seneca, SC  29672 
+o. 864.873.3478
+f:  864.873.5791
+Steve.Snider@duke-energy.com 
+RA-25-0116 
+April 21, 2025 
+10 CFR 50.73 
+Attn: Document Control Desk 
+U. S. Nuclear Regulatory Commission 
+11555 Rockville Pike 
+Rockville, MD 20852-2746 
+Duke Energy Carolinas, LLC 
+Oconee Nuclear Station Units 1, 2, and 3 
+Docket Numbers: 50-269, 50-270, and 50-287 
+Subsequent Renewed Operating Licenses: DPR-38, DPR-47, and DPR-55 
+Subject:
+Licensee Event Report 269/2025-001, Revision 00 – Inoperability of Keowee Hydroelectric 
+Unit Due to Legacy Deficiencies in Generator Exciter Speed Switch Calibration Procedure 
+Resulting in a Condition Prohibited by Technical Specifications 
+Licensee Event Report 269/2025-001, Revision 00, is being submitted pursuant to the 
+requirements of 10 CFR 50.73 to provide notification of the subject event. 
+There are no regulatory commitments associated with this LER.  
+There are no unresolved corrective actions necessary to restore compliance with NRC 
+requirements. 
+If there are questions, or further information is needed, contact David Wilson, Regulatory Affairs, 
+at (864) 873-3451. 
+Sincerely, 
+Steven M. Snider 
+Vice President 
+Oconee Nuclear Station 
+Enclosure:  Licensee Event Report 269/2025-001 Rev.00 
+
+RA-25-0116 
+April 21, 2025 
+Page 2 
+cc (w/Enclosure): 
+Mr. Julio Lara, Administrator (Acting), Region II 
+U.S. Nuclear Regulatory Commission 
+Marquis One Tower 
+245 Peachtree Center Ave., NE, Suite 1200 
+Atlanta, GA 30303-1257 
+Mr. Shawn Williams, Project Manager 
+U.S. Nuclear Regulatory Commission 
+11555 Rockville Pike 
+Mail Stop O-08B1A 
+Rockville, MD 20852-2738 
+Mr. Nick Smalley  
+NRC Senior Resident Inspector 
+Oconee Nuclear Station 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons learned 
+are incorporated into the licensing process and fed back to industry. Send comments regarding burden estimate to the 
+FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission, Washington, 
+DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information 
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to respond to, a collection 
+of information unless the document requesting or requiring the collection displays a currently valid OMB control number. 
+1. 
+Facility Name 
+Oconee Nuclear Station Unit 1 
+050 
+2. 
+Docket Number 
+ 
+0269 
+3. Page 
+1 OF 4 
+052 
+4. Title 
+Inoperability of Keowee Hydroelectric Unit Due to Legacy Deficiencies in Generator Exciter Speed Switch Calibration Procedure 
+Resulting in a Condition Prohibited by Technical Specifications 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Revision 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+Oconee Nuclear Station Unit 2 and 
+Oconee Nuclear Station Unit 3 
+          050 
+Docket Number 
+0270,  
+0287 
+02 
+20 
+2025 
+2025 
+- 001 - 
+00 
+04 
+21 
+2025 
+Facility Name 
+052 
+Docket Number 
+9. Operating Mode 
+1 
+10. Power Level 
+100 
+ 
+10 CFR Part 20 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+20.2203(a)(2)(vi) 
+10 CFR Part 50 
+50.73(a)(2)(ii)(A) 
+50.73(a)(2)(viii)(A) 
+ 
+ 
+ 
+73.1200(a) 
+20.2201(b) 
+20.2201(d) 
+20.2203(a)(1) 
+20.2203(a)(2)(i) 
+20.2203(a)(2)(ii) 
+20.2203(a)(2)(iii) 
+20.2203(a)(2)(iv) 
+20.2203(a)(2)(v) 
+20.2203(a)(3)(i) 
+50.36(c)(1)(i)(A) 
+50.73(a)(2)(ii)(B) 
+50.73(a)(2)(viii)(B) 
+20.2203(a)(3)(ii) 
+50.36(c)(1)(ii)(A) 
+50.73(a)(2)(iii) 
+50.73(a)(2)(ix)(A) 
+20.2203(a)(4) 
+50.36(c)(2) 
+50.73(a)(2)(iv)(A) 
+50.73(a)(2)(x) 
+10 CFR Part 21 
+50.46(a)(3)(ii) 
+50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+21.2(c) 
+50.69(g) 
+50.73(a)(2)(v)(B) 
+73.77(a)(1) 
+50.73(a)(2)(i)(A) 
+50.73(a)(2)(v)(C) 
+73.77(a)(2)(i) 
+50.73(a)(2)(i)(B) 
+50.73(a)(2)(v)(D) 
+73.77(a)(2)(ii) 
+50.73(a)(2)(i)(C) 
+50.73(a)(2)(vii) 
+ 
+ 
+73.1200(b) 
+73.1200(c) 
+73.1200(d) 
+73.1200(e) 
+73.1200(f) 
+73.1200(g) 
+73.1200(h) 
+OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+David Wilson, Oconee Regulatory Affairs 
+Phone Number (Include area code) 
+(864) 873-3451 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+D 
+EK 
+SIS 
+D283 
+Y 
+ 
+ 
+ 
+ 
+ 
+14. Supplemental Report Expected 
+ 
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+ 
+No 
+Yes (If yes, complete 15. Expected Submission Date) 
+ 
+ 
+ 
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On 2/20/2025, Keowee Hydroelectric Station Unit 1 (KHU-1) was determined to be inoperable based on observed generator 
+excitation time exceeding design basis values. Troubleshooting determined that speed switches responsible for automatically 
+initiating generator excitation during KHU startup were not fully calibrated following planned replacement on 2/18/2025 due to a 
+legacy procedure deficiency and the scope of post-maintenance testing (PMT) was inadequate to detect the incomplete 
+calibration. The switches removed on 2/18/2025 were reinstalled, correct excitation response timing verified, and KHU-1 was 
+restored to operable on 2/21/2025. Planned corrective actions include speed switch calibration procedure revisions to correct the 
+procedure deficiencies and PMT scope, reviews for similar deficiencies in other instrument procedures, and reviews for adequacy 
+of PMT scope for other complex hardware configurable electronic devices.  
+ 
+This event is reportable under 10 CFR 50.73(a)(2)(i)(B) as an Operation or Condition Prohibited by Technical Specifications.  
+ 
+ 
+ 
+
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. 
+Reported lessons learned are incorporated into the licensing process and fed back to 
+industry. Send comments regarding burden estimate to the FOIA, Library, and Information 
+Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission, Washington, DC 
+20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB 
+Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear 
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not 
+conduct or sponsor, and a person is not required to respond to, a collection of information 
+unless the document requesting or requiring the collection displays a currently valid OMB 
+control number. 
+1. FACILITY NAME 
+Oconee Nuclear Station Unit 1 
+050 
+2. DOCKET NUMBER 
+ 
+00269 
+ 
+3. LER NUMBER 
+YEAR 
+ 
+2025 
+SEQUENTIAL 
+NUMBER 
+- 
+001 
+REV NO. 
+- 
+00 
+052 
+NARRATIVE 
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. 
+ 
+BACKGROUND 
+At Oconee Nuclear Station (ONS), the Keowee Hydroelectric Station (KHS) [EK] serves the emergency power function 
+typically performed by diesel generators [DG] at other nuclear facilities. The KHS consists of two (2) hydroelectric 
+turbine/generator units (KHUs) and associated support equipment and auxiliaries. Each KHU is provided with its own 
+automatic start equipment and both KHUs undergo simultaneous automatic emergency starts during an emergency. 
+Emergency power can be provided to the main feeder buses (MFB)[EB] of any or all three ONS Units from the Keowee 
+Hydroelectric Station via either of two emergency power paths: 
+ 
+The Overhead Emergency Power Path, that includes the Unit¶s Start-up Transformer [XFMR] (CT-1, CT-2, or CT-3) on 
+each ONS Unit 
+ 
+The Underground Emergency Power Path, that includes Transformer CT-4 [XFMR] and both Standby Buses [EB]. 
+ 
+Emergency onsite power may also be provided to the MFB of any or all three ONS Units from a Lee Combustion Turbine (LCT) 
+[EK] on a dedicated 100kV transmission line through Transformer CT-5 [XFMR] via one or both Standby Buses. 
+ 
+For any ONS Unit in Modes 1-4, Technical Specification (TS) 3.8.1 specifies that two KHUs be operable with one capable of 
+automatically providing power through the Underground Emergency Power Path to both MFB via the Standby Bus and the 
+other capable of automatically providing power through the Overhead Emergency Power Path to both MFB. An operable KHU 
+and its required emergency power path are required to be able to provide sufficient power within specified limits of voltage and 
+frequency within 23 seconds after an emergency start initiate signal. 
+ 
+EVENT DESCRIPTION 
+All times are Eastern Standard Time. 
+ 
+On 2/18/2025, ONS Units 1, 2, and 3 were all in Mode 1 operating at approximately 100% full power, KHU-1 aligned as the 
+Overhead KHU, and KHU-2 aligned as the Underground KHU. At 08:14, KHU-1 was removed from service for a planned 
+maintenance outage. An item in the scope of the planned maintenance was planned replacement of speed switches in the 
+KHU-1 generator exciter control circuit. These switches initiate generator field energization during KHU startup once the KHU 
+reaches a preset speed. Following completion of maintenance and operational checks, KHU-1 was declared operable at 22:36. 
+An alignment swap of the KHUs was completed at 23:09, resulting in KHU-1 being aligned as the Underground KHU and KHU-
+2 being aligned as the Overhead KHU. 
+ 
+During the normal operational check of KHU-1 performed on 2/18/2025 following maintenance, operators noted that KHU-1 
+generator excitation seemed to take longer than usual. However, no unexpected alarms were received. Operators continued to 
+monitor performance of KHU-1 during normal commercial startups over the next few shifts. On 2/20/2025, Engineering was 
+contacted to evaluate the KHU-1 startup performance. Data review indicated that a delay KHU-1 generator excitation ranged 
+from approximately 50 seconds to as much as approximately 2 minutes during normal, non-emergency starts. Engineering 
+confirmed that the excitation logic was the same for normal and emergency start and that, while KHU-1 continued to be 
+capable of starting and supplying emergency power, the observed additional time delay challenged the ability of KHU-1 to 
+meet the requirement to provide emergency power within 23 seconds of receipt of an emergency start signal.  
+ 
+ 
+ 
+NRC FORM 366A (04-02-2024) 
+Page   2 
+of   4
+
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. 
+Reported lessons learned are incorporated into the licensing process and fed back to 
+industry. Send comments regarding burden estimate to the FOIA, Library, and Information 
+Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission, Washington, DC 
+20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB 
+Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear 
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not 
+conduct or sponsor, and a person is not required to respond to, a collection of information 
+unless the document requesting or requiring the collection displays a currently valid OMB 
+control number. 
+1. FACILITY NAME 
+Oconee Nuclear Station Unit 1 
+050 
+2. DOCKET NUMBER 
+ 
+00269 
+ 
+3. LER NUMBER 
+YEAR 
+ 
+2025 
+ 
+SEQUENTIAL 
+NUMBER 
+- 
+001 
+REV NO. 
+- 
+00 
+052 
+NARRATIVE 
+ 
+EVENT DESCRIPTION (continued) 
+Based on this determination, operations declared KHU-1 inoperable on 2/20/2025 at 21:34. Maintenance replaced the speed 
+switches with those originally installed and, following successful operational checks (including verification of excitation timing), 
+operations declared KHU-1 operable on 2/21/25 at 14:29. 
+ 
+There were no changes to status of ONS Units 1, 2, or 3, KHU-2 remained operable and both LCTs were available during this 
+event. Also, no significant structures, systems, or components were out of service that contributed to the event. 
+ 
+Reportability 
+Investigation determined that the direct cause of the KHU-1 excitation delay was associated with the speed switches installed 
+during the planned maintenance outage. All requirements were fully implemented for: TS 3.8.1 Condition C during the planned 
+maintenance outage (i.e., 2/18/25 08:14 ± 22:36) where KHU-1 was the Overhead KHU and TS 3.8.1 Condition D following 
+determination KHU-1 was inoperable due to the speed switch issue (i.e., 2/20/25 21:34 ± 2/21/25 14:29) where KHU-1 was the 
+Underground KHU. However, since KHU-1 was never in fact operable following completion of planned maintenance, TS 3.8.1 
+Condition D would have retroactively applied beginning 2/18/25 08:14, resulting in TS 3.8.1 required actions not being 
+completed within the TS specified completion times. Therefore, this issue is being reported under 10 CFR 50.73(a)(2)(i)(B) as 
+an Operation or Condition Prohibited by TS.  
+ 
+CAUSAL FACTORS  
+Maintenance technical procedures for performing speed switch replacement and calibration were inadequate. The procedure 
+contained a legacy issue in which a series of procedure revisions performed in 2010-2012 replaced procedure steps with 
+informational notes. This resulted in incomplete setup of the speed switches, which caused the observed delays in actuation. In 
+addition, the scope of post-maintenance testing guidance specified in the procedure was inadequate to identify a speed switch 
+with an incomplete setup. 
+ 
+CORRECTIVE ACTIONS 
+ 
+Completed 
+ 
+Reinstalled original speed switches and verified response time was as required. 
+ 
+Planned  
+ 
+Revise Dynalco speed switch procedures to ensure required actions are in steps and notes do not provide directive 
+actions. 
+ 
+Perform extent of condition review of other instrument calibration procedures to ensure informational notes do not provide 
+directive actions. 
+ 
+Review post-maintenance testing strategy for Dynalco speed switches to ensure specified testing will detect potential 
+speed switch setup issues. 
+ 
+Review post-maintenance testing strategy in instrument procedures for complex hardware configurable electronic devices 
+to ensure configured functions are adequately tested. 
+ 
+Communicate learnings to Engineering, Maintenance, and Procedures groups regarding ensuring all required scope is 
+included in the technical procedure steps and performed following component replacements. 
+ 
+Communicate learnings to Operations highlighting timely identification of unexpected issues using the Corrective Action 
+Program. 
+ 
+NRC FORM 366A (04-02-2024) 
+Page   3 
+of   4
+ 
+ 
+
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. 
+Reported lessons learned are incorporated into the licensing process and fed back to 
+industry. Send comments regarding burden estimate to the FOIA, Library, and Information 
+Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission, Washington, DC 
+20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB 
+Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear 
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not 
+conduct or sponsor, and a person is not required to respond to, a collection of information 
+unless the document requesting or requiring the collection displays a currently valid OMB 
+control number. 
+1. FACILITY NAME 
+Oconee Nuclear Station Unit 1 
+050 
+2. DOCKET NUMBER 
+ 
+00269 
+ 
+3. LER NUMBER 
+YEAR 
+ 
+2025 
+ 
+SEQUENTIAL 
+NUMBER 
+- 
+001 
+REV NO. 
+- 
+00 
+052 
+NARRATIVE 
+ 
+SAFETY ANALYSIS 
+A probabilistic risk assessment (PRA) evaluation was performed for the period the Keowee Hydro Unit 1 was inoperable to 
+determine the significance of this event. It was determined through a quantitative analysis that the event had a very low impact 
+on the incremental conditional core damage probability (ICCDP) and incremental conditional large early release probability 
+(ICLERP). Therefore, it has been determined the condition had an insignificant impact to public health and safety. This was 
+largely due to the sustained availability of the Keowee Hydro Unit 2, Lee Combustion Turbines, Standby Shutdown Facility, 
+and the Protected Service Water system. These systems provided adequate redundancy to ensure capabilities to mitigate 
+accident scenarios were maintained while the Keowee Hydro Unit 1 was inoperable. 
+ 
+ 
+ADDITIONAL INFORMATION 
+A review of Duke Energy¶s Corrective Action Program identified one related Oconee Licensee Event Report (LER) in the past 
+three years that involved similar underlying cause(s), failure(s), or sequence of events. LER 269/2024-001-00 reported an 
+inoperability of the ONS Unit 1 Standby Shutdown Facility (SSF) Reactor Coolant System (RCS)[AB] Pressurizer [PZR] 
+heaters [EHTR] due to miscalibration of a current switch [IS] in the control circuit. The SSF Pressurizer heater current switch, 
+like the KHU speed switch in the present LER, is a complex hardware configurable electronic device. In both issues, the 
+associated component replacement procedures contained setup information in informational notes rather than in procedure 
+steps, which lead to incomplete setups of the associated devices during planned component replacements. Also, there were 
+inadequacies with post-maintenance testing such that the incomplete component setups were not detected. These procedure 
+deficiencies were legacy in nature (the SSF issue involved procedure revisions in the late 1990s and the KHU issue involved 
+several procedure revisions from 2010-2012) and involved portions of the associated procedures that had not been performed 
+prior to the associated events. Extent of cause actions from the SSF Pressurizer heater issue were focused on component 
+procedures for similar current switches. Based on the similarities between the two events, corrective actions discussed above 
+were developed to perform a review of instrument calibration procedures for complex hardware configurable electronic devices 
+to ensure: 
+ 
+informational notes do not provide directive actions  
+ 
+post-maintenance testing scope ensures configured functions are adequately tested. 
+ 
+This event is INPO IRIS Reportable. There were no releases of radioactive materials, radiation exposures or personnel injuries 
+associated with this event. 
+NRC FORM 366A (04-02-2024) 
+Page   4 
+of   4
+ 

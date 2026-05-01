@@ -1,0 +1,315 @@
+ef-..DUKE William R. Gideon
+Vice President
+~'ENERGY® Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.457.3698
+10 CFR 50.73
+APR 0 6 2016
+Serial: BSEP 16-0021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2016-001
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, Inc., submits the enclosed Licensee Event Report (LEA). This report fulfills the
+requirement of 1O CFR 50.73(a)(1) for a written report within sixty (60) days of a reportable
+occurrence.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager - Regulatory
+Affairs, at (910) 457-2487.
+William R. Gideon
+SWR/swr
+Enclosure: Licensee Event Report 1-2016-001
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U.S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U.S. Nuclear Regulatory Commission
+ATTN: Ms. Michelle P. Catts, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U.S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission
+P.O. Box 29510
+Raleigh, NC 27626-0510
+NRC FOR.,M., ..3_6 6 U.S. NUCLEAR REGULATORY"COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(11-2015) •.
+Estimated burden per response to comply with this mandatory collection request: 80 hours .
+.
+.t.P Reported lessons learned are incorporated into the licensing process and fed back to industry.
+-~ Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+\.,...,•••••..,o,f LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+digits/characters for each block) DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP) Unit 1 05000325 1 OF 5
+4. TITLE
+Electrical Bus Fault Results in Lockout of Startup Auxiliary Transformer and Loss of Offsite Power
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL I REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR 05000
+- - FACILITY NAME DOCKET NUMBER
+02 07 2016 2016 001 00 04 06 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: {Check all that apply)
+D D D D
+20.2201 (b) 20.22os(a)(s)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.22os(a)(s)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D 20.22os(a)(1) D 20.22os(a)(4) D so.1s(a)(2J(iii) D 50.73(a)(2)(ix)(A)
+D 20.22os(a)(2)(i) D 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.22os(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 1s.11(a)(4l
+D D D D
+20.22os(a)(2)(iiil so.ss(c)(2J 50.73(a)(2)(v)(B) 1s.11(a)(s)
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(s)(iil 50.73(a)(2)(v)(C) 1s.11(a)(1J
+088 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 1s.11(a)(2J(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 1s.11(a)(2)(ii)
+D D
+I.'. '~"' '• ,; t;, .•.. 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT !TELEPHONE NUMBER {Include Area Code)
+Lee Grzeck, Manager - Regulatory Affairs (910) 457-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+-
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE , CAUSE SYSTEM COMPONENT MANU· REPORTABLE
+FACTURER TO EPIX I. FACTURER TO EPIX
+I'"
+)
+c
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 ~NO SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE)
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 sirig/e-spaced typewritten lines)
+On February 7, 2016, at 1312 Eastern Standard Time (EST), Unit 1 was in Mode 1 (i.e., Run) at 88 percent
+of rated power in end-of-cycle coastdown. At that time, an electrical fault occurred on a balance of plant
+4160-volt bus, resulting in a lockout of the Startup Auxiliary Transformer (SAT) and a loss of both Reactor
+Recirculation pumps. Licensed personnel inserted a manual scram per procedure. Emergency Diesel
+Generators supplied emergency electrical busses until offsite power was restored at 1628 EST. The loss of
+power and reactor water level changes resulted in automatic closures of various Primary Containment
+Isolation Valves (PCIVs). The electrical fault resulted in an electrical explosion; therefore, an Alert was
+declared at 1326 EDT. The immediate cause of this event was a fault in a non-segregated electrical bus
+connected to the SAT. The root causes were insufficient detail in applicable maintenance instructions for
+inspecting the non-segregated bus housing and inadequate instructions for terminating electrical cables in a
+circuit breaker cubicle. Corrective actions include repairing equipment damaged by the electrical fault and
+revising the procedures and work instructions.
+NRC FORM.366 (11-2015)
+Page2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2016 - 001 000
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+Background
+Initial conditions
+On February 7, 2016, at 1312 Eastern Standard Time (EST), Unit 1 was in Mode 1 (i.e., Run) at a power
+level of 88 percent of rated thermal power in end-of-cycle coastdown. No out-of-service equipment
+contributed to, or affected the course of, this event.
+Reportability Criteria
+This event is being reported in accordance with 1O CFR 50.73(a)(2)(iv)(A) because it involved actuations
+of systems listed in 1O CFR 50.73(a)(2)(iv)(B). Specific actuations included:
+• The Reactor Protection System (RPS) [JE] was manually actuated due to loss of both Reactor
+Recirculation [AD] system pumps.
+• Several Primary Containment Isolation Valves (PCIVs) [JM] automatically closed per design in
+response to either loss of control logic power or reactor water level changes that resulted from the
+reactor scram.
+• Emergency Diesel Generators (EDGs) [EK] started and provided power to emergency electrical
+busses E1 and E2 [EB] in response to a loss of offsite power (LOOP). '
+• The High Pressure Coolant Injection (HPCI) [BJ] system was manually started to control reactor
+pressure following the scram.
+• The Reactor Core Isolation Cooling (RCIC) [BN] system was manually started to control reactor
+water level following the scram.
+o
+The NRC was notified of the event, including the emergency declaration, per 1 CFR 50.72(a)(1 )(i),
+10 CFR 50.72(b)(2)(iv)(B), and 10 CFR 50.72(b)(3)(iv)(A) via Event Notification (EN) number 51715 at
+13:46 EST on February 7, 2016.
+Event Description
+On February 7, 2016, at 1312 EST, BSEP Unit 1 was in Mode 1 during end-of-cycle coastdown. Two arc
+flashes occurred in a 4160-volt electrical system which resulted in two phases of the system faulting to
+ground, which also constituted a phase-to-phase fault. The high differential current actuated the lockout
+on the Unit 1 Startup Auxiliary Transformer (SAT) [EA], which started all four emergency diesel
+generators. The loss of power to equipment fed from the SAT resulted in shutdown of both Reactor
+Recirculation system pumps. With both pumps not operating, station procedures require licensed
+personnel to insert a manual scram. This was performed immediately, and all control rods ,[AA] fully
+inserted into the core per design.
+The manual scram automatically shut down the main turbine [TA] and main generator [EL] per design.
+With the main generator offline, the power circuit breakers for the Unit Auxiliary Transformer (UAT) [EA]
+NRG FORM 366A (11-2015)
+Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2016 - 001 000
+NARRATIVE
+opened per design and deenergized the UAT. This interrupted power to emergency busses E1 and E2.
+Since the SAT was already locked out, the power source for busses E1 and E2 could not transfer to the
+SAT. Therefore, a LOOP condition existed on emergency electrical busses E1 and E2. EDG1 and EDG2
+were already running and automatically tied to their respective busses, E1 and E2. On Unit 2, EDG3 and
+EDG4 started per design, but did not connect to their busses because the LOOP condition did not exist on
+Unit 2.
+Following shutdown of the main turbine, reactor pressure was initially controlled by opening safety/relief
+valves [SB]. When pressure was stable, licensed personnel manually started the HPCI system and
+maintained control of reactor pressure, and they started the RCIC system for the purpose of maintaining
+reactor water level. After the manual scram, reactor water level decreased below Low Level 1 per the
+normal, expected water level shrinkage that follows a reactor scram. The low water level resulted in
+additional, redundant RPS actuation signals being received, and Group 2 and Group 6 PCIVs received an
+auto closure signal. The momentary loss of power that occurred between the LOOP and energizing the
+busses via the EDGs also resulted in Group 1, Group 3, and Group 1O PCIVs receiving a closure signal.
+All affected PCIVs closed per design.
+Standby Gas Treatment System (SBGT) [BH] fans started due to the LOOP condition. However,
+associated Secondary Containment dampers [VA] did not reposition because the relays in the damper
+control logic are not designed to seal in, and the duration of the transient when the bus was depowered
+was too brief for the dampers to physically complete their movement before the EDGs repowered the
+busses and the signal cleared.
+Operations personnel promptly performed a walkdown of plant equipment and noted evidence that an arc
+flash had occurred in a balance of plant 4160-volt circuit breaker cubicle which supplies the 18 Reactor
+Recirculation Pump Variable Frequency Drive (VFD) unit. The breaker cubicle showed evidence of an
+electrical· explosion; that is, the cubicle door was deformed. Per Emergency Action Level HA2.1, evidence
+of an explosion in an area affecting safe shutdown equipment requires entry into an Alert. Thus, the Alert
+was declared at 1326 EST.
+At 1628 EST on February 7, 2016, offsite power was restored to electrical busses E1 and E2 by
+connecting the UAT to the grid and supplying power to the busses from the UAT, which is their normal
+source. At 1751 EST, the emergency classification was downgraded to an Unusual Event (UE) because
+the plant no longer met the criteria for an Alert, since the source of the explosion was determined not to
+have affected safe shutdown equipment. The UE emergency declaration was terminated at 1814 EST.
+Event Causes
+The initiating event was two arc flashes that occurred in a non-segregated bus (i.e., a bus in which all
+three phases lie within a single housing) and in a circuit breaker cubicle which powers the 18 VFD for a
+Reactor Recirculation system pump. The first arc flash occurred in an area of the bus housing outdoors
+where water had accumulated. The fault created a voltage imbalance which led to the second arc flash
+which occurred in the breaker cubicle where cable insulation was found to be degraded.
+NRC FORM 366A (11-2015)
+Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+~ LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid. OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR NUMBER NO.
+05000-325
+Unit 1
+2016 - 001 000
+NARRATIVE
+Water entered the non-segregated bus housing through a degraded seal and an area that had previously
+been repaired. The water created the conditions conducive to an arc flash.
+In the breaker cubicle for the 1 B VFD, it was found that during installation in 201 O of electrical stress
+relieving insulation (i.e., "stress cones"), the dielectric insulation on a cable jacket had been damaged
+when a piece of semiconducting material was being removed. The arc flash occurred at the point where
+the cable insulation had been damaged.
+The root cause of the moisture intrusion into the non-segregated bus was inspection procedures did not
+contain sufficient specific detail based on highest risk locations (i.e., specifically, horizontal surfaces
+through which bars penetrate) to ensure that deficiencies that can lead to water intrusion are identified and
+corrected during its implementation. A contributing cause was that the design of the bus housing is not
+optimum for the application because it is susceptible to corrosion leading to water intrusion.
+The root cause of the damaged cable insulation was failure to specify and use a depth-limiting cutting tool
+for removing semiconducting material from cable insulation. When workers removed semiconducting
+material from the cable during initial installation of the cable termination stress cone, the underlying cable
+dielectric insulation was scored, reducing its insulating effectiveness. This contributed to conditions which
+led to an arc fault in the affected 4160-volt cable. A contributing cause was lack of a post-installation test
+method which would be adequate to detect insulation deficiencies. "
+Safety Assessment
+In this event, a LOOP occurred on Unit 1 emergency busses E1 and E2 due to lockout of the SAT and
+interruption of power to the UAT. The reactor was immediately and safely shut down by manual scram in
+accordance with station operating procedures. The RCIC system and HPCI system operated as designed
+and controlled reactor water level and pressure, respectively. All four station EDGs started as expected,
+and EDGs 1 and 2 supplied power to affected emergency busses E1 and E2. Unit 2 busses E3 and E4
+were not affected by the event, and they remained powered by their normal, offsite sources. In addition,
+the site's supplemental diesel generator was available and could have been used if necessary to mitigate
+the event. The SAT was not damaged by the event. The UAT remained available for backfeed, and
+backfeed was implemented per procedure during the event. All safety systems operated per design in
+response to the event.
+Based on the foregoing analysis, it's concluded that this event had no adverse impact on the health and
+safety of the public. · ·
+NRG FORM 366A (11-2015)
+Page 5 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led .back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), 'Office of Management and Budget, Washingfon, DC 20503. If a means
+used to impose an information collection does not display a. currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2016 - 001 000
+NARRATIVE
+Corrective Actions
+Any changes to the corrective actions and schedules noted below will be made in accordance with the
+site's corrective action program.
+• Affected equipment related to the event has been repaired, including the affected non-segregated
+bus housing, conductors and stress cones, and circuit breaker. These actions are completed.
+• The procedure for splicing and terminating wires and cables will be revised to include lessons
+learned from this event, including the use of depth-limiting cutting tools and inspections for damage
+after cutting operations are performed. This action is expected to be completed by June 30, 2016.
+• The procedure and work instructions for inspecting and cleaning the non-segregated busses will be
+revised to eliminate the root causes of the water intrusion. This action is expected to be completed
+by August 25, 2016. ·
+• An improved cable testing methodology will be specified in appropriate maintenance procedures.
+This action is expected to be completed by June 30, 2016.
+• The non-segregated bus housing design will be presented for action by the site's Modification
+Review and Prioritization Team (MRPT) for scheduling and design work. This action is expected to
+be completed by June 30, 2016.
+Previous Similar Events
+A review of LERs and the site's corrective action program for the past three years did not identify any
+previous similar occurrences involving significant electrical faults or LOOP conditions.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (11-2015)

@@ -1,0 +1,187 @@
+Constellation®
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604762 10 CFR 50.73
+March 31, 2023
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2023-001-00
+Enclosed is Licensee Event Report (LER) 2023-001-00: Grid Fault Results in Switchyard Breaker
+Trips and Reactor Scram. This report is being submitted in accordance with the requirements of
+10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. David Livingston,
+Regulatory Assurance Manager, at (217) 937-2800.
+_;:xJ
+Thomas D. Chalmers
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2023-001-00
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023)
+; ; . ............. ' .. . . ! . LICENSEE EVENT REPORT (LER) l e E e s s a t t r i i m n m e a a d t t e e d ar t e o b u in n th c le e O n ! ] F lo p O r e a r t I e i\ r d e s L in p ib t o o r n a s r t y e h , e to l a i c n e c d o n m s I i n n p f g l o y r p m w ro a il c h ti e o s n th s i s C a o n m d lle a c f n e t d i d o a n t b s o a ry c B k c r a o lo l n le c C i h n 1 d io u ( n f s - t 6 r r y e . q A u 1 S e 0 e s M t n d ), 8 0 c U o h m . o m u S r e . s n . l N s u R r c e e le g p a a o r r r d te l R n d g e 9 le b u s u la s n t o o le n r n y s
+Commission, Washinglon, DC 20555-0001, or by email to lnfocolJeclsResource@nrc.gov, and the 0MB reviewer
+....... ·" (See Page 2 for required number of digits/characters for each block) at 0MB Office of lnformaffon and Regulatory Affairs, (3150-0104), A!ln: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; ernait oira submission,'@omb.eop.gov. The NRC may
+htti:1:l/www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the coilecfion d',splays a currenlly valid 0MB cornrol number.
+1. Facility Name ~ 050 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 00461 1 OF3
+□ 052
+4. Title
+Grid Fault Results in Switchyard Breaker Trips and Reactor Scram
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Re N vi o s . i on Month Day Year Facility Name □ 050 Docket Number
+01 31 2023 2023 - 001 - 00 03 31 2023 Facility Name □ 052 Docket Number
+9. Operating Mode 10. Power Level
+Mode 1 100
+11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: (Check all that apply)
+D D D
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+D D
+□ 20.2201(b) 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) □ 73.1200(b)
+D D D D
+□ 20.2201(d) 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) 50.73(a)(2)(iil) 50.73(a)(2)(1x)(A) 73.1200(c)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) ~ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) □ 73.1200(d)
+D D D D
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200fe)
+D D D D
+20.2203(a)(2)(ii) 21.2(c) □ 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) □ 73.1200(f)
+D D D
+20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) □ 73.1200(g)
+D D D
+20.2203(a)(2)(iv) □ 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) □ 73.1200{h)
+D D
+20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+D
+OTHER (Specify here, in abstract, or NRG 366A).
+12. Licensee Contact for this LER
+Licensee Contact rhone Number (Include area code)
+David Livingston 217-937-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+E FK BRK GE y
+14. Supplemental Report Expected Month Day Year
+[8l No j D Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 1/31/23, at 2343 CST, while operating at approximately 100% power, a phase-to-phase fault occurred on a 345
+KV transmission line approximately 16 miles from Clinton Power Station (CPS). Gas Circuit Breaker Generator
+Output Breakers (GCBs) 4510 and 4514 tripped open to clear the fault. GCB 4510 failed to trip open properly,
+resulting in actuation of the GCB 451 O breaker failure protective relay, tripping open GCB 4506 and disconnecting
+the main generator from the grid. This resulted in a turbine trip and automatic reactor scram. The root cause of the
+failure of GCB 4510 to properly open, and subsequent trip open of GCB 4506, was due to corrosion of the GCB
+4510 air system charging valve. Corrective actions taken and planned include: repairs to the 345 KV transmission
+line involved in the event, developing and implementing an improved Preventive Maintenance (PM) strategy for
+switchyard breakers, working with the switchyard operator to perform twelve-year breaker overhaul/replacement on
+affected GCBs/345 KV switchyard breakers, and providing training on effective design attribute review performance.
+There was no impact to the health and safety of the public or plant personnel from this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED.BY 0MB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+( lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-mi/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currenlly valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 00461 NUMBER NO.
+□ 052 ' 2023 - 001 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Grid Fault Results in Switchyard Breaker Trips and Reactor Scram
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: January 31, 2023 Event Time: 2343 CST
+Mode: 1 Mode Name: Power Operation Reactor Power: 100
+B. Description of Event
+On January 31, 2023, at 2343 CST, while operating at approximately 100% power, a phase-to
+phase fault occurred on a 345 KV transmission line approximately 16 miles from Clinton Power
+Station (CPS). In response to the fault, Gas Circuit Breaker Generator Output Breakers (GCBs)
+4510 and 4514 [FK:BRK] tripped open to clear the fault. GCB 4510 failed to trip open properly,
+resulting in actuation of the GCB 451 O breaker failure protective relay, tripping open GCB 4506
+[FK:BRK] and disconnecting the main generator [EL:GEN] from the grid. This resulted in a turbine
+[TA:TRB] trip and automatic reactor [RCT] scram. Operators placed the reactor mode switch in
+shutdown and completed the scram response actions. All control rods fully inserted.
+As noted above, GCB 4514 tripped open successfully. However, breaker failure protective relaying
+was actuated due to detection of current flow through GCB 4510 after it received a trip open signal.
+This resulted in tripping open GCB 4506 to clear the fault.
+C. Cause of the Event
+When a GCB breaker opens, the breaker control circuits energize trip coils. Energizing the trip coils
+creates a magnetic force that releases a trip latch, allowing spring energy to open an air pilot valve.
+The pilot valve allows air from the associated air receiver to flow into the breaker's operating
+piston/operating cylinder. The compressed air forces the operating piston to stroke the operating rod,
+which is connected to the interrupter. In addition to opening the interrupter, the operating piston
+compresses the breaker's closing springs as it travels. The operating piston overtravels slightly
+allowing the breaker closing latch to cycle and capture the operating rod in the open position against
+closing spring pressure. The breaker will remain open until the closing latch is released by the
+associated closing coils. In this event, GCB 4510 failed to latch open.
+NRC FORM 366A (01-10-2023) Page_2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 12131/2023
+(01-10-2023)
+Estimated burden per response to comply wilh lhis mandatory collection request 80 hours. Reported
+;f<nCl)v<-..,, lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+/ .., LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022lr3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Clinton Power Station, Unit 1 00461
+□ 052 2023 - 001 - 00
+NARRATIVE
+The root cause of the failure of GCB 4510 to latch open and subsequent trip open of GCB 4506 was
+determined to be due to corrosion of the GCB 4510 air system charging valve due to expected
+moisture that was not mitigated because the manufacturer's recommended twelve-year breaker
+maintenance was not performed.
+D. Safety Consequences
+The condition described in this LER is reportable under 50.73(a)(2)(iv)(A), any event or condition
+that resulted in manual or automatic actuation of any of the systems listed in paragraph
+(a)(2)(iv)(B). All safety systems operated as designed during and following the scri:,m. As a result,
+there was no impact to the health and safety of the public or plant personnel from this event. In
+addition, this event does not meet the criteria for a Safety System Functional Failure.
+E. Corrective Actions
+Corrective actions taken and planned include:
+• Grid operator completed necessary repairs to the 345 KV transmission line involved in the
+event.
+• Develop and implement an improved Preventive Maintenance (PM) strategy for switchyard
+breakers considering failure history, vendor recommendations, industry operating experience,
+and engineering judgement.
+• Work with switchyard operator to perform twelve-year breaker overhaul or replacement on
+GCBs 4506. and 4510 as specified in vendor manual.
+• Work with switchyard operator to perform twelve-year breaker overhaul or replacement on
+applicable 345 KV switchyard breakers.
+• Provide training on effective design attribute review performance to the appropriate
+population. ·
+F. Previous Similar Occurrences
+A review of previous LERs did not identify any events that were similar to the condition described in
+this LER.
+G. Component Failure Data
+GCB 4510 is a GE-Hitachi High Voltage Breaker (HVB) SF6 GCBbreaker.
+NRC FORM 366A {01-10-2023) Page_3_ of _3_

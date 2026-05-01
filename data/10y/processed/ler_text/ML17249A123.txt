@@ -1,0 +1,177 @@
+f
+Exelon Generation®
+Oyster Creek
+Route 9 South
+P.O. Box388
+Forked River, NJ 08731
+10 CFR 50.73
+RA-17-053
+August 31, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRG Docket No. 50-219
+Subject: Licensee Event Report (LER) 2017-003-00, "Automatic Scram while
+Subcritical due to Low Reactor Level."
+Enclosed is LER 2017-003-00 reporting the automatic reactor scram while subcritical due
+to low reactor water level, which occurred on July 3, 2017.
+This event did not affect the health and safety of the public or plant personnel. This event
+did not result in a safety system functional failure. There are no regulatory commitments
+made in this LER submittal.
+'
+Should you have any questions concerning this report, please contact Gary Flesher,
+Regulatory Assurance Manager, at (609) 971-4232.
+Respectfully,
+Michael F. Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRG Form 366, LER 2017-003-00
+cc: Administrator, NRG Region I
+NRC Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRC Project Manager - Oyster Creek Nuclear Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request 80 hours.
+t>-'t.'RR£C(lt, Reported lessons learned are incorporated into the licensing process and fed back to industry.
++;:, \
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+... l ~ Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+......... (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek Nuclear Generating Station 05000219 1 OF 3
+4. TITLE
+Automatic Scram while Subcriticai due to low Reactor level
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR N/A 05000
+- FACILITY NAME DOCKET NUMBER
+07 03 2017 2017 - 003 00 08 31 2017 N/A 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 5o.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 1:8:1 50. 73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.11(a)(4l
+D D D D
+20.2203(a)(2)(iiil 5o.36(c)(2) 50.73(a)(2)(v)(B) 73.11(a)(5l
+D D D D
+20.2203(a)(2)(1v) oo.4a(a)(3)(n> 50.73(a)(2)(v)(C) · 1a.n(a)(1)
+D D D
+00 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) D 73.n(a)(2)(i)
+D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) D 73.n(a)(2)(ii)
+•~ti4.f'.~;;~fB!~¥:~'~.~;~.e:~:~;~.!1i~~~~ D 50. 73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Gary Flesher, Regulatory Assurance Manager {609) 971-4232
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE I'.'' CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+A N/A N/A N/A N I~ N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+SUBMISSION
+DYES (If yes, complete 15. EXPECTED SUBMISSION DATE) 1:8:1 NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 3, 2017 at approximately 10:30 hours with the reactor subcritical after a manual scram, an automatic reactor
+scram occurred due to low Reactor Pressure Vessel (RPV) water level. Prior to this event, Main Control Room (MGR)
+Operators established reactor water letdown, reset the manual scram and were placing RPV water level control in
+automatic using a Low Flow Feedwater Regulator Valve (LFRV). Reactor pressure control was automatically being
+maintained with turbine bypass valves. A low reactor water level occurred when a bypass valve opened as expected
+to lower reactor pressure.
+Operations personnel had reset the scram signal without fully evaluating other plant conditions. Upon resetting the
+scram with reactor water level not yet stabilized, an automatic scram was received on low reactor water level. The
+automatic scram initiation signal occurred with the plant in a shutdown mod~.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06·2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently vaiid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr10221r3D collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek Nuclear Generating Station 05000219 YEAR NUMBER NO.
+2017 - 003 - 00
+NARRATIVE
+Plant Conditions Prior To Event
+Event Date: July 3, 2017 Event Time: 10:30 hours ET
+Unit 1 Mode: Hot Shutdown Power Level: 0%
+Description of Event
+On July 3, 2017 at approximately 10:30 hours a subcritical automatic reactor scram was received while stabilizing
+plant parameters after a manual scram. The automatic scram was due to low RPV water level. Prior to this, MCR
+operators established reactor water letdown, reset the manual scram and were placing RPV water level control in
+automatic using a LFRV. Reactor pressure control was automatically being maintained with turbine bypass valves.
+A low reactor water level occurred when a bypass valve opened as expected to lower reactor pressure. Operators
+reset the scram signal without fully evaluating other plant conditions. By resetting the scram signal with water level
+not yet stabilized, an automatic scram was received on low reactor water level.
+Operator fundamentals and human performance tools were not properly utilized prior to resetting the scram.
+Operations personnel did not ensure plant parameters of pressure and level were stable prior to resetting the
+scram. An expected pressure transient resulted in an automatic scram due to RPV level dropping below the scram
+setpoint.
+Cause of Event
+MCR Operators did not confer with the Unit Supervisor their intended actions nor did they provide an update to
+other control room personnel prior to resetting the scram. Operations personnel did not perform a thorough review
+of all system conditions prior to peer checking the scram reset. Additionally, the procedure did not provide details
+of conditions to verify prior to resetting the scram.
+Analysis of the Event
+The personnel involved did not display distinct thought to understand the impact that the action would have with
+reactor water level control in its current state. The operators should have taken the time to understand that
+resetting the scram at that time was not the correct action. The operators were not fully engaged and did not think
+about the consequences of resetting the scram prior to reactor water level stabilization. Their behavior represents
+a gap as described in SOER 10-2, Engaged, Thinking Organizations.
+Assessment of Safety Consequences
+Following the automatic scram actuation all systems responded as expected; therefore, this event is of low safety
+significance.
+NRC FORM 366A (06-2016) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022lr31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek Nuclear Generating Station 05000219 YEAR NUMBER NO.
+2017 - 003 00
+NARRATIVE
+Corrective Actions
+1) The station revised the Abnormal Operating Procedures for MCR operators to verify plant conditions are stable
+prior to resetting the scram signal.
+2) Reinforcement of the requirements and proper use of operator human performance fundamental tools through
+training and evaluations.
+3) Reinforcement of teamwork in MCR operations during training scenarios.
+Previous Occurrences
+LER 2013-005-00 was submitted when Oyster Creek Nuclear Generating Station, while shut down, experienced an
+automatic reactor scram when operators placed the Mode Switch from Refuel to Shutdown. The actuation was a
+result of jumpers not installed as required by procedure to prevent a full scram for this Mode Switch change.
+Component Data
+Component IEEE 805 System ID IEEE 803A Component
+N/A N/A N/A
+NRC FORM 366A (06-2016) Page_3_ of _3_

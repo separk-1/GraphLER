@@ -1,0 +1,298 @@
+•
+Entergy Nuclear Northeast
+Entergy
+-===· Entergy Nuclear Operations, Inc.
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Brian R. Sullivan
+Site Vice President - JAF
+JAFP-17-0016
+March 13, 2017
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: LER: 2017-001, Vent Line Socket Weld Failure
+James A. FitzPatrick Nuclear Power Plant
+Docket No. 50-333
+License No. DPR-59
+Dear Sir or Madam:
+This report is submitted in accordance with 10 CFR 50.73(a)(2)(ii), as a condition of the nuclear
+plant, including its principle safety barriers, being seriously degraded.
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+Sincerely,
+B~ ~ _s~M)_,v._.._
+_f.,... \
+(_
+Site Vice President
+BRS/WD/ds
+Enclosure: LER: 2017-001, Vent Line Socket Weld Failure
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 5
+4. TITLE
+Vent Line Socket Weld Failure
+5. EVENT DATE 6. LER NUMBER 7.REPORTDATE 8.OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+FACILITY NAME DOCKET NUMBER
+1 14 2017 2017 - 001 - 00 3 13 2017 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTEDPURSUANTTOTHEREQUIREMENTSOF 10 CFR §: (Checkallthatapply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+2
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. POWER LEVEL  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+0  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACTFORTHISLER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mr. William Drews, Regulatory Assurance Manager 315-349-6562
+13. COMPLETE ONE LINE FOREACHCOMPONENTFAILUREDESCRIBEDINTHIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+B AD N
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+ YES (If yes, complete 15. EXPECTED SUBMISSION DATE)  NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+Refueling Outage 22 commenced on January 14, 2017 at James A. FitzPatrick Nuclear Power Plant (JAF). With
+the plant in Mode 2 at 0613, the initial Drywell inspection identified a through wall leak on the ¾ inch vent line off
+of the bonnet of the motor operated gate valve on the suction side of Reactor Water Recirculation Pump ‘A’. This
+condition was determined to constitute Reactor Coolant Pressure Boundary (RCPB) leakage, which is prohibited
+by Technical Specification (TS) Limiting Condition for Operation (LCO) 3.4.4. The average reactor coolant
+temperature decreased to less than 212 degrees F and the plant was in Mode 4 at 1530 of the same day, which
+is within the applicable TS LCO 3.4.4 required completion time.
+The condition of a through wall leak on the RCPB is reportable pursuant to 10 CFR 50.73(a)(2)(ii), as a condition
+of the nuclear plant, including its principle safety barriers, being seriously degraded.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2017 – 001 – 00
+NARRATIVE
+Background
+The Reactor Water Recirculation (RWR) System [EIIS identifier: AD] is designed to provide forced coolant flow
+through the core to remove heat from the fuel. The forced coolant flow removes more heat from the fuel than
+would be possible with just natural circulation. The forced flow, therefore, allows operation at significantly
+higher power than would otherwise be possible. The recirculation system also controls reactivity over a wide
+span of reactor power by varying the recirculation flow rate to control the void content of the moderator. The
+Reactor Water Recirculation System consists of two recirculation pump loops external to the reactor vessel.
+These loops provide the piping path for the driving flow of water to the reactor vessel jet pumps. Each external
+loop contains one variable speed motor driven recirculation pump, driven by a motor generator (MG) set to
+control pump speed, and associated piping, jet pumps, valves, and instrumentation.
+Motor operated gate valves on the suction and discharge sides of each recirculation pump serve as isolation
+valves for the pumps. A ¾” stainless steel line coming from the bonnet section of each valve provides a vent
+line for the valves. The recirculation loops are part of the Reactor Coolant Pressure Boundary (RCPB) and are
+located inside the drywell structure.
+The Reactor Coolant System (RCS) includes systems and components that contain or transport the coolant to
+or from the reactor core. The pressure containing components of the RCS and the portions of connecting
+systems out to and including the isolation valves define the RCPB. The joints of the RCPB components are
+primarily welded or bolted.
+During plant life, the joint and valve interfaces can produce varying amounts of reactor coolant leakage,
+through either normal operational wear or mechanical deterioration. Limits on RCS operational leakage are
+specified in Technical Specification (TS) Limiting Condition for Operation (LCO) 3.4.4, and are required to
+ensure appropriate action is taken before the integrity of the RCPB is impaired. TS LCO 3.4.4 is applicable in
+Modes 1, 2, and 3, and allows for no RCPB leakage. JAF is required to be in Mode 4 within thirty-six (36)
+hours if RCPB leakage exists.
+Event Description
+Drywell inspections are conducted at the discretion of the Operations Manager during shutdown to identify
+sources of Drywell leakage. During the initial Refueling Outage 22 (R22) Drywell inspection, personnel
+observed a three to four foot steam plume emanating from the vent line coming from the bonnet section of the
+motor operated gate valve on the suction side of RWR Pump ‘A’ (02-2MOV-43A). The steam plume was
+observed on the vertical run of 02-2-3/4”-WH-1504-35A where the line leaves the insulation.
+Investigation revealed that the leak originated from a weld on the downstream side of a 45 degree elbow which
+is the first fitting on the line coming from the bonnet of 02-2MOV-43A. Further analysis by the Welding
+Engineer determined that the crack originated at the toe of the socket weld on the 45 degree elbow, and then
+propagated out away from the point of origin and into the pipe wall.
+The RCPB leakage was discovered during the initial drywell inspection with the plant in Mode 2 at 0613 on
+January 14, 2017. The average reactor coolant temperature decreased to less than 212 degrees F and the
+plant was in Mode 4 at 1530 of the same day, which is within the applicable TS LCO 3.4.4 required completion
+time.
+Page 2 of 5
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2017 – 001 – 00
+Event Analysis
+The allowable RCS operational leakage limits are based on the predicted and experimentally observed
+behavior of pipe cracks. The normally expected background leakage due to equipment design and the
+detection capability of the instrumentation for determining system leakage were also considered. The evidence
+from experiments suggests that, for leakage even greater than the specified unidentified leakage limits, the
+probability is small that the imperfection or crack associated with such leakage would grow rapidly.
+The unidentified leakage flow limit allows time for corrective action before the RCPB could be significantly
+compromised. The 5 gpm limit is a small fraction of the calculated flow from a critical crack in the primary
+system piping. Crack behavior from experimental programs show that leakage rates much greater than 5 gpm
+precede crack instability.
+Sources of identified and unidentified leakage in the drywell are classified by the drain sump to which leakage
+is directed. Should the time to pumpdown exceed preset limits an abnormal amount of leakage from one of the
+sump services is indicated. Increased amounts of identified or unidentified leakage will be noted by pump out
+alarms in the control room. In addition, the drywell sump monitoring system for the floor drain sump and
+equipment drain sump uses flow integrators to monitor the leakage. The two flow integrators, one for the
+equipment drain sump and the other for the floor drain sump, comprise the basic instrument system for
+quantifying leakage inside the drywell. The control room operator has the capability of trending the daily
+volumes pumped from the drywell sumps by means of flow integrators located in the Control Room. The
+unidentified leakage trends were reviewed for Cycle 22. The review confirmed that the TS LCO 3.4.4 RCS
+operational leakage limits were met for the entire Operating Cycle 22.
+Cause
+An apparent cause evaluation was conducted in accordance with the JAF Corrective Action Program. The
+Apparent Cause of the event was determined to be high cycle fatigue (HCF) due to vibration stress. The
+design of the vent piping and resonance frequency of the RWR pumps at low flow contributed to the vibration
+stress.
+The subject vent piping was redesigned in 2002 to address cracking in the fittings caused by thermal
+movement (reference Similar Events section). A pipe support was modified by changing a U-bolt to a lateral
+restraint. This solution resolved the thermal movement issue, but created a new cantilever branch line.
+Cantilever branch lines are typically two inch diameter or less, and fixed to a larger pipe on one end with the
+opposite end unsupported. The connection to the larger pipe is usually to a ‘sockolet’ or half coupling fitting. All
+loads applied to a cantilever branch line are resisted by the connection of the branch to the larger pipe. The
+applied loads (e.g., deadweight, thermal, seismic) create bending moments in the pipe that increase to a
+maximum value at the connection to the larger pipe. If all welds are of equal quality, size, and profile, the
+socket weld at the connection to the sockolet is the most prone to failure since it resists the greatest load. For
+this reason, the welds at the sockolet are typically a more robust weld profile. The vent line did not have the
+enhanced 2:1 weld profile on the socket weld connections, which is desirable when the line may be subject to
+vibration. In addition, the smaller (standard) weld profiles have less resistance to vibration stress and HCF.
+Note that vibration is not a design basis load, and is not accounted for in the plant’s piping design. This piping
+was properly configured and supported such that it satisfied all applicable design loading conditions (ie.
+deadweight, pressure, thermal, seismic).
+Page 3 of 5
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2017 – 001 – 00
+JAF operated the RWR pumps at lower flow for an extended period of time during the previous operating
+cycle. This condition was determined to be a contributing factor because the vane pass frequency of the RWR
+pump coincides with the vent line resonance frequency with the RWR pump operating at lower pump speeds.
+Based on this condition, the 02-2MOV-43A vent line likely experienced an increased number of vibration
+cycles with vibration stress in the range of the piping endurance limit thus leading to high cycle fatigue failure
+of the socket weld.
+Similar Events
+Internal
+A condition report initiated on October 30, 2000 documented cracks in fittings on the 02-2MOV-43A vent
+piping. The cause was determined to be excessive thermal stress in the piping due to pipe support binding. A
+walkdown of common lines showed no bent pipes or support damage. Since the configuration of the common
+lines allowed for significantly more flexibility than the line with the cracked fittings, the absorbed thermal growth
+resulted in less stress in these lines. Corrective actions included replacement of a U-bolt with a lateral restraint
+pipe support.
+External
+Hope Creek Generating Station, Unit 1: LER 2013-003-1, Through-wall flaw discovered on Residual Heat
+Removal Shutdown Cooling Return Vent Line
+Three Mile Island Nuclear Station, Unit 1: LER 2014-002-0, Through-wall Leak on High Pressure Injection “A”
+Train Root Valve MU-V-1034 Socket Weld
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: N/A
+Manufacturer Model Number: N/A
+NPRDS Manufacturer Code: N/A
+NPRDS Component Code: N/A
+FitzPatrick Component ID: N/A
+Note that the leak originated from a failed socket weld, which is not assigned component identifiers.
+Corrective Actions
+Completed Actions and Extent of Condition (EOC)
+ Perform Code Case N-666 weld overlay repair on 02-2MOV-43A vent line leak location (45 degree
+elbow).
+ Install new Pre-fabricated Vent Line section (downstream of the repaired 45 elbow) with 2:1 weld
+reinforcements on 02-2MOV-43A.
+ Add new Tie-Back Support to Vent Line.
+ Perform 2:1 Socket Weld Buildups on 02-2MOV-43B, -53A, -53B Vent Lines, and -53A Drain Line
+(EOC).
+ Perform VT1 Line inspection of pipes/socket welds
+Future Actions
+ Investigate cost/benefit of a modification for eliminating the 02-2MOV-43A/B & -53A/B vent lines.
+Page 4 of 5
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2017 – 001 – 00
+Safety Significance
+Actual Consequences
+There were no actual consequences of this event relative to nuclear, industrial, or radiological safety.
+Potential Consequences
+Accidents that could result in the release of radioactive material directly into the primary containment are the
+result of postulated Reactor Coolant System pipe breaks inside the drywell. All possibilities for pipe break
+sizes and locations have been investigated including the severance of small lines, the main steam lines
+upstream and downstream of the flow restrictors, and the recirculation loop lines. The most severe Reactor
+Coolant System effects and the greatest release of radioactive material to the primary containment results
+from a complete circumferential break of one of the recirculation loop lines. The design basis accident
+analyses that have been performed for JAF demonstrate that all accident scenarios remain within the 10 CFR
+100 dose limits.
+The potential safety significance of this event is considered minor. The safety significance of RCS leakage
+from the RCPB varies widely depending on the source, rate, and duration. The event discussed herein
+resulted in TS LCO 3.4.4 not being met due to RCPB leakage; however, the unidentified leakage limits were
+not exceeded during the previous operating cycle. This ensures that all accident analyses radiation release
+assumptions remain bounding for this event. In addition, quantitative information is available in the control
+room to permit operators to take corrective action should the leak have worsened to the point of being
+detrimental to the safety of the facility or public.
+References
+ Condition Report: CR-JAF-2000-05520
+ Condition Report: CR-JAF-2017-00245 Equipment Apparent Cause Evaluation
+ JAF Technical Specification and Bases
+Page 5 of 5
+NRC FORM 366A (06-2016)

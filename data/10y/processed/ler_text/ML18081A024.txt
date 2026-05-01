@@ -1,0 +1,204 @@
+•
+Entergy Operations, Inc.
+Entergx River Bend Station
+.~ 5485 U.S. Highway 61 N
+SI. Francisville, LA 70775
+Tel 225-381-4374
+William F. Maguire
+Site Vice President
+RBG-47841
+March 15, 2018
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Licensee Event Report 50-458 / 2017-004-01
+River Bend Station - Unit 1
+Docket No. 50-458
+License No. NPF-47
+RBF1-18-0047
+Dear Sir or Madam:
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee ~vent Report. This
+document is a revision to Licensee Event Report 50-458 / 2017-004-00 dated May 22, 2017
+and contains no commitments. If you have any questions, please contact Mr. Tim Schenk at
+225-381-4177.
+Sincerely,
+WFM / djp
+Enclosure
+cc: U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Blvd.
+Arlington, TX 76011-4511
+NRC Sr. Resident Inspector
+P. O. Box 1050
+8t. Francisville, LA 70775
+INPO
+(via ICES reporting)
+Licensee Event Report 50-458 / 2017-004-01
+March 15, 2018
+RBG-47841
+Page 2 of 2
+Central Records Clerk
+Public Utility Commission of Texas
+1701 N. Congress Ave.
+Austin, TX 78711-3326
+Department of Environmental Quality
+Office of Environmental Compliance
+Radiological Emergency Planning and Response Section
+Ji Young Wiley
+P.O. Box 4312
+Baton Rouge, LA 70821-4312
+NRC FORM 366 U_S_ NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Eslimated burden per response to comply with this mandatory collection request: 80 hours.
+/'~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+• ! i LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information SelVices Branch (T-2 F43), U.S.
+~ .... ?) (See Page 2 for reqLired number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or bye-mail to Infocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-l0202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number,
+httQ:/Iwww.nrc.gov/reading-rm/doc-collectionslnuregslstaff/sr10221@ the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME b. DOCKET NUMBER . PAGE
+River Bend Station - Unit 1 05000-458 10F3
+4. TITLE
+Loss of HiQh Pressure Core Spray Safety Function Durinq Surveillance Due to Malfunction of Test Return Valve
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITY NAME DOCKET NUMBER
+03 23 2017 2017 004 01 03 15 2018
+05000
+9. OPERATlNG MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check al/ that applv)
+D 20.2201 (b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEYEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71( a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) 181 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+100 D 20.2203(a)(2)(iv) o 50.46(a)(3)(ii) 181 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+o 20.2203(a)(2).(vi) o 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+o
+50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT riLEPHONE NUMBER (Include Area Code)
+tTim Schenk, ManaQer - ReQulatory Assurance ~25-381-4177
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+(see text)
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+o
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8J NO SUBMISSION
+DATE
+IABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 23, 2017, at 0028 CDT, with the plant operating at 100 percent power, the high pressure core spray system (HPCS) was
+declared inoperable due to a malfunction of a motor-operated valve (MOV) in the system. During a scheduled test, the HPCS pump
+est return valve to the suppression pool was given a "close" signal after having been opened for the test. The valve position lights
+indicated that it fully closed, but system flow parameters did not respond as expected. An operator went to the valve and reported
+hat it appeared that the anti-rotation device on the valve actuator had failed, and that the valve was not fully closed. This valve is a
+primary containment isolation valve. An examination of the MOV found that a set screw on the actuator had loosened, allowing the
+anti-rotation device to slip down the valve stem. When the anti-rotation device slipped far enough, the retainer keys fell out, allowing
+the valve stem to disengage from the anti-rotation device. The maintenance history of the valve was investigated, and it was found
+that in 1996, the anti-rotation device was loosened during a scheduled maintenance task. A review of the work documentation
+package and the vendor manual found that no torque value was specified for the set screw. The Flowserve Vendor was contacted and
+recommended the set screw be torqued to 60 ft.-Ibs. lAW Entergy procedure EN-MA-14S, MAINTENANCE STANDARD FOR TORQUE
+f,PPLICATIONS. This condition is being reported in accordance with 10 CFR SO.72(b)(3)(v) as a potential loss of safety function of the
+HPCS system and the primary containment isolation function. An evaluation of the as-found condition has concluded that the HPCS
+system and primary containment isolation would have been able to perform their design safety function had an actual design basis
+event occurred during the test.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/ .......' 1\
+lessons learned are incorporated into Ihe licensing process and fed back to industry. Send
+I - LICENSEE EVENT REPORT (LER)
+• i comments regarding burden estimale to the Information Services Branch (T-2 F43), U.S. Nuclear
+~ ~ Regulatory Commission, Washington, DC 20555-0001, or bye-mail to
+CONTINUATION SHEET
+Infocoliects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-l 022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://WNW.nrc.gov/reading-rm/doc-collections/nureqs/staff/srl0221@O NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER MJMBER
+YEAR SEQUENTIAL REV
+River Bend Station - Unit 1 05000-458 NUMBER NO.
+2017 004 01
+NARRATIVE
+REPORTED CONDITION
+On March 23, 2017, at 0028 COT, with the plant operating at 100 percent power, the high pressure core spray system
+(HPCS) [BGlwas declared inoperable due to a malfunction of a motor-operated valve (MOV) in the system. During a
+scheduled test, the HPCS pump test return valve (**TV**)to the suppression pool was given a "close" signal after having
+been opened for the test. The valve position lights indicated that it fully closed, but system flow parameters did not
+respond as expected. An operator went to the valve and reported that it appeared that the anti-rotation device on the
+~alve actuator had failed, and that the valve was not fully closed. This valve is a primary containment isolation valve and
+has a design safety function to close automatically upon receipt of a system actuation signal.
+IThis condition is being reported in accordance with 10 CFR SO.73(a)(2)(v)(B) and 10 CFR SO.73(a)(2)(v)(C) as a potential
+loss of safety function of the HPCS system and the primary containment isolation function.
+INVESTIGATION
+Operators diagnosing the condition of the valve determined that the anti-rotation device had become dislocated. An
+examination of the MOV found that a set screw on the actuator had loosened, allowing the anti-rotation device to slip
+down the valve stem. When the anti-rotation device slipped far enough, the retainer keys fell out, allowing the valve
+stem to disengage from the anti-rotation device. The valve limit switches were also displaced by this action, resulting in
+an erroneous indication in the main control room that the valve was fully closed.
+In terminating the test, the MOV was given a "close" signal for at least five seconds in accordance with operations
+administrative guidelines. At this time, system flow parameter returned to normal, and the operator at the MOV
+reported that it was fully closed. This MOV is a throttle valve, and the extra amount oftime under a "close" signal
+resulted in the valve actually going fully closed.
+The maintenance history of the valve was investigated, and it was found that in 1996, the anti-rotation device was
+loosened during a scheduled maintenance task. A review of the work documentation package found that no torque
+value was specified for the set screw, whereas the Flowserve Vendor recommends the torque values in EN-MA-14S
+which requires the set screw to be torqued to 60 ft.-Ibs.
+An extent-of-condition was performed, and two other similar valves in the HPCS system test return line are susceptible to
+the same failure mechanism. During work in 2014, the anti-rotation devices for those valves were loosened_ The
+applicable work packages did not incorporate the EN-MA-14S specification to torque the set screw to 60 ft.-Ibs. The
+work instructions only directed that the set screw should be "snug tight."
+NRC FORM 366A (04-2017) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPfRES: 3/31/2020
+(04·2017) ,
+...... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+,.".
+! ~ i LICENSEE EVENT REPORT (LER) l c e o s m so m n e s n ts le a re rn g e a d rd in a g re bu in r c d o en rp o e r s a t t i e m d a te in t t o o t t h h e e In lic fo e r n m s a in ti g o n p S ro e c r e vi s c s e s a B nd ra n f c e h d (T b · a 2 c k F4 to 3 ). in U d . u S s . t ry N . u S c e le n a d r
+~ .....i ' Regulatory Commission, Washington, DC 20555·0001. or by e·mail to
+CONTINUATION SHEET
+Infocoliects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regutatory Affairs.
+NEOB·10202. (3150·0104). Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG·10 22, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number. the
+http://www.nrc.gov/reading·rm/doc-collections/nureaslslaff/sr1 022l@D NRC may not conduct or sponsor. and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+River Bend Station - Unit 1 05000-458 NUMBER NO.
+2017 004 01
+PREVIOUS OCCURRENCE EVALUATION
+River Bend has reported no events caused by a similar failure mechanism in the last three years.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+IThe test return valve was repaired, but the anti-rotation device was identified as slightly bent. A compensatory action
+was put in place for operators to observe valve motion locally until the anti-rotation device is replaced.
+An Operability Evaluation has since been performed for E22-MOVF023. RBS-CR-2017-02790 CA7 states "The failure
+mechanism of this condition was the loosening of the set screw, which ultimately allowed for the anti-rotation device to
+slide down. Once the anti-rotation device had slid further down, the keys fell out dislodging the shaft from the anti-
+rotation device. The condition was troubleshot per WO 00470632 which replaced the keys and reinstalled the anti-
+rotation device i'n the correct position/location on the stem. The set-screw was properly torqued to 60+ ft.-Ibs." The
+~alve is now considered Operable.
+~ maintenance Action Request (AR 00276966) was initiated and completed to incorporate into future work packages, the
+~endor recommended torque value lAW EN-MA-145 for installation ofthe set screw.
+Work Orders (WO 00476316 and WO 00476317) to verify the set screw torque on the other two susceptible valves for
+proper installation have been completed.
+SAFETY SIGNIFICANCE
+An evaluation of the as-found condition has concluded that the HPCS system and primary containment isolation would
+have been able to perform their design safety function had an actual design basis event occurred during the test. Upon
+an automatic system actuation signal, the automatic close signal locks in until the MOV torque switches actuate rather
+than relying on the limit switches. Even though the anti-rotation device was dislodged, the test return valve would have
+closed satisfactorily due to the stem packing friction. This event was thus of minimal significance with respect to the
+health and safety of the public.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or
+system referred to in the LER are annotated as (**XX**) and [XX], respectively.)
+Page 3 of 3
+NRC FORM 366A (06·2016)

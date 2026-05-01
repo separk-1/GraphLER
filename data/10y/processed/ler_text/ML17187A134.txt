@@ -1,0 +1,307 @@
+.. 1
+~ 7 Exelon Generation@
+Oyster Creek
+Route 9 South
+P.O. Box388
+Forked River, NJ 08731
+10 CFR 50.73
+RA-17-041
+June 23, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRC Docket No. 50-219
+Subject: Licensee Event Report (LER) 2016-002-01, "Control Rod Drive Cooling
+Water System Isolation Scram Time Testing Was Not Performed"
+Enclosed is LER 2016-002-01, ucontrol Rod Drive Cooling Water System Isolation Scram
+Time Testing Was Not Performed"
+This event did not affect the health and safety of the public or plant personnel. This event
+did not result in a safety system functional failure. There are no regulatory commitments
+made· in this LER submittal.
+Should you have any questions concerning this report, please contact Michael McKenna,
+Regulatory Assurance Manager, at (609} 971-4389.
+Respectfully,
+· Michael F. Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRC Form.366, LER 2016-002-01
+cc: Administrator, NRC Region I
+NRC Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRC Project Manager - Oyster Creek Nuclear Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~~~%
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+i~ ~! Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to lnfocollects.
+\Q..... ..... .I (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3[) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek, Unit 1 05000219 1 OF 5
+4. TITLE
+Control Rod Drive Cooling Water System Isolation Scram Time Testing Was Not Performed
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+- FACILITY NAME DOCKET NUMBER
+03 16 16 2016 - 002 01 06 23 17 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply}
+D 20.2201(b) D 20.22os(a)(s)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201 (d) D 20.22os(a)(s)(ii) D 50. 73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+N
+D 20.22os(a)(1 l D 20.22os(a)(4) D so.1s(a)(2)(m) D 50.73(a)(2)(ix)(A)
+D 20.22os(a)(2)(il D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.22os(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 1s.11(a)(4)
+D 20.22os(a)(2)(iiil D 50.sa(c)(2) D · 50.73(a)(2)(v)(B) D 1s.11(a)(s)
+D 20.2203(a)(2)(iv) D so.4a(a)(3)(ii) D 50.73(a)(2)(v)(C) D 1s.11(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 1s.11(a)(2)(i)
+D 20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 1s.11(a)(2)(ii)
+~ D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Gary Flesher, Regulatory Assurance Manager 609-971-4232
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX '.( CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+le,
+E AA SEAL G080 N h; NIA N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+SUBMISSION
+DYES (ff yes, complete 15. EXPECTED SUBMISSION DATE) ~NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 03/16/2016, it was identified that isolating or reducing cooling water to the Hydraulic Control Units
+(HCUs) for three control rods should have been considered a modification since it had the potential to
+impact the scram times of the control rods. Even though scram time penalties were applied for the three
+control rods where the cooling water flow was either isolated or reduced, the control rods should have been
+scram time tested, as directed by the Generic Electric (GE) Service Information Letter (SIL) 173,
+Supplement 1, Revision 1.
+By not completing scram time testing for the control rods whose cooling water was isolated or reduced, the
+station was in violation of the requirements of Technical Specifications Section 3.2, since the issue was not
+identified previously and the affected control rods were not declared inoperable and isolated.
+This event resulted in an Operation or Condition that was Prohibited by the Plant's Technical Specifications
+(TS) and is therefore being reported under 1O CFR50.73(a)(2)(i)(B).
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+{04-2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+f <>""'""'",. comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+·~~ LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+\ CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+"JI ......... used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/~r1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Oyster Creek, Unit 1 05000219 NUMBER NO.
+2016 - 002 - 01
+NARRATIVE
+Description of Event
+On 03/16/2016, the NRC identified that scram time testing had not been performed following the
+isolation of cooling water flow to control rods 18-47 and 42-27, and the reduction in cooling water flow to
+control rod 30-03 as a result of a failed isolation valve to fully open. The valves were isolated as a
+compensatory action to mitigate leakage from the Control Rod Drive Mechanism (CROM) seals that
+was being quantified as unidentified leakage within the drywell. The isolated, or reduced, cooling water
+results in a hot CROM condition that is expected to impact scram times as documented in Generic
+Electric (GE) Service Information Letter (SIL) 173, Supplement 1, Revision 1, "Control Rod Drive High
+Operating Temperature."
+Technical Specification (TS) Section 4.2.C.2. states that:
+"For specifically affected individual control rods following maintenance on or modification to the control
+rod or control rod drive system which could affect the scram insertion time of those specific control rods
+in accordance with either "a" or ''b" as follows:
+a. 1 Specifically affected individual control rods shall be scram time tested with the reactor
+depressurized and the scram insertion time from the fully withdrawn position to 90%
+insertion shall not exceed 2.2 seconds, and
+a.2 Specifically affected individual control rods shall be scram time tested at greater than 800
+psig reactor coolant pressure prior to exceeding 40% power.
+b. Specifically affected individual control rods shall be scram time tested at greater than 800
+psig reactor coolant pressure."
+The isolation of cooling water flow to a control rod, while it does not affect the operability or functionality,
+does reduce the flow to the CROM and can impact the scram time. Accordingly, scram time testing
+should have been performed per the TS due to a system modification that could impact the scram time.
+Since the testing was not performed, TS. 4.0.1 was also applicable as a surveillance requirement that
+was not met. In accordance with this TS section, if the surveillance requirements are not satisfied, this
+would require entry into the appropriate LCO as described under TS Section 3.2.B.4, which would have
+required the control rods be declared·inoperable, fully inserted, and isolated. Additionally, TS Sections
+3.2.A.2 and 3.2.A.3 are also applicable and would require a determination that adequate shutdown
+margin would be maintained within six hours of declaring the rods inoperable. Since this was not
+accomplished, this resulted in an Operation or Condition that was prohibited by the plant's TS.
+Equipment Description
+The control rod and drive mechanism provides control of reactor power, including the ability to provide a
+sufficiently rapid insertion of control rods (scram) so that no fuel damage results from any abnormal
+operating transient and limits fuel damage under accident conditions. The 137 control rods for the Oyster
+Creek reactor are located uniformly throughout the core. The control rods are operated by CRDMs. The
+hydraulic control units (HCUs) for the control rods supply and control the pressure and flow requirements
+to the Control Rod Drives (CRDs). The HCUs provide hvdraulic power to be able to position control rods
+NRC FORM 366A (04-2017) Page_2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nureos/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Oyster Creek, Unit 1 05000219
+2016 - 002 - 01
+NARRATIVE
+in the reactor core. HCU scram accumulators are designed with a limited nitrogen pressure and volume,
+which are sufficient to initiate control rod scram motion.
+The CRD System supplies water to the CRD HCUs for manual control rod movement, scram, control rod
+mechanism cooling, and to the head spray cooling system. The system provides the operators the ability
+to control core reactivity through control rod movement, both manually and by scram.
+On a control rod insertion, drive water flows up this riser to the under-piston area of the CROM at a
+pressure high enough to drive the CROM against reactor pressure. On a rod withdrawal, exhaust water at
+reactor pressure flows down this riser from the under-piston area of the CROM. During periods of no rod
+motion, a small amount of cooling water continuously flows up this riser at just over reactor pressure. On
+a reactor scram, the scram inlet valve opens a flow path from the accumulator to the under-piston area of
+the CROM via this header.
+A cooling water flow of 0.3 gpm to the CRD provides protection for the graphitar seals and elastomer 0-
+rings. The CRD will perform its design function without cooling water supplied, as described in the
+Updated Final Safety Analysis Report (UFSAR) Section 3.9.4.2.4.
+Analysis of Event
+When cooling water flow is isolated or reduced to an HCU, CRD Temp Hi (H-5-c) response to alarm
+procedure contains a step for Reactor Engineering to perform Surveillance Test (ST) 617.4.003, "Control
+Rod Insertion Time Test and Valve IST," to assess GE SIL 173, Supplement 1, Revision 1, scram time
+penalties.
+At the time of discovery, there were three control rods that had scram time penalties applied: 18-47, 42-
+27, and 30-03. The scram time testing of these control rods had not been completed as required since
+the isolation of cooling water was not deemed to be a "modification" to the system since it was
+considered bounded under the UFSAR description as not impacting the operability of the control rod.
+While this is true, isolating the cooling water to the control rod still has an impact on the scram time of the
+rod as described in the GE SIL.
+On 03/18/2016, control rods 18-47, 30-03 and 42-27 were scram time tested to evaluate their
+performance with elevated control rod drive temperature. GE SIL 173, Supplement 1, Revision 1, scram
+time penalties had previously been applied to the individual scram times for each of the three high
+temperature control rods. When the control rods were scram timed on 03/18/2016, both 30-03 and 42-27
+had scram times that were faster than the previous times with the high temperature penalties applied.
+The scram time for control rod 18-47 was longer than the previous time with penalties applied.
+Review of scram time data from the May 2015 reactor scram identified that the control rod 18-47 scram
+times wer.e longer than the average of the times for the other control rods. This issue was not identified or
+evaluated at the time of the scram. Also, GE SIL 173 recommends that high temperature control rods be
+scram time tested at the next available opportunity. Although the GE SIL 173 high temperature control
+NRC FORM 366A (04-2017) Page _3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)' Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Oyster Creek, Unit 1 05000219 NUMBER NO.
+2016 - 002 - 01
+NARRATIVE
+rod scram time penalties had been applied to the three high temperature rods, the scram time testing
+was not performed as recommended by the SIL. ·
+Assessment of Safety Consequences
+The isolation of the cooling water to a CRD does not directly affect the ability of a control rod to perform
+its design function; however, isolating or reducing cooling water will increase the control rod temperature.
+and has the potential to degrade the scram time of a control rod.
+U FSAR Section 4.6 states that rapid shutdown of the reactor is accomplished through actuation of the
+Reactor Protection System (or via manual scram) which opens the scram valves and permits water
+under pressure to be applied to the drive mechanism. The action exerts a pressure on the CRD piston
+mechanisms, and causes all rods to be fully inserted into the reactor core. Any control rod which is fully
+withdrawn will be fully inserted in approximately five seconds.
+A control rod shall also be considered operable if the Control Rod is valved in service, can be moved
+with normal CRD pressure, and its accumulator is valved in service, with a minimum nitrogen tank
+pressure of 940 psig, fulfilling TS Section 3.2.B.4 requirements. The control rod moves at a normal
+speed with normal CRD system parameters.
+Control rod 18-47 scram time testing was re-performed on 03/18/2016 and the times were slightly slower
+than the mean rod insertion times stated in the UFSAR, which is considered a degraded condition. The
+individual control rod scram time is an attribute of this component that is not controlled by TS. Control
+Rod 18-47 maintains its functionality since it is capable of performing its specified function of scramming
+and notching, as set forth in the Current Licensing Basis (CLB). The individual control rod scram feature
+of 18-47 remains functional since there is evidence that the possibility of a degrading scram time has
+increased, but not to the point of eroding confidence in the reasonable expectation that control rod 18-47
+will continue to scram and notch as required.
+A review of the TS Section 3.2 Bases was performed to ensure that the issue is not indicative of a
+common mode failure. In addition to this particular control rod being the only one that was exhibiting the
+behavior described above, collet housing/collet finger type failures were also researched. These types of
+failures would be demonstrated in either the control rod not inserting when the control rod is scrammed,
+or in the control rod not latching after movement. As control rod 18-47 was able to be scrammed, and
+able to being fully inserted to its 00 position, and stay at the 00 position, this was not indicative of failure
+of the collet housing.
+TS Section 3.2.B.3 states the specifications for a core average scram time and scram times of the
+fastest 3-out-of-4 control rods within a 2x2 array. Individual control rod scram times themselves do not
+have specifications. The control rod would have to substantially degrade in individual scram time before
+it could affect the core average scram time.
+Based on review of the recent data, previous performance data, equipment design, and a fleet technical
+call with Subject Matter Experts (SMEs) and GE representatives, reasonable assurance of future scram
+NRG FORM 366A (04-2017) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+{04-2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Jnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Oyster Creek, Unit 1 05000219
+2016 - 002 - 01
+NARRATIVE
+time continuing to support steady values could not be technically justified based on the observed
+condition. As result, control rod 18-47 was fully inserted and isolated.
+Cause of Event
+The apparent cause of the event was determined to be a lack of procedural guidance to perform CRO
+, SCRAM Time testing when cooling water is isolated to a CROM, as required per TS for any system
+modification that could impact SCRAM times.
+The contributing cause of the event was determined to be the lack of performance monitoring guidance
+for control rods that exhibit a high temperature condition.
+The following immediate actions were taken:
+• On 03/18/2016 control rod 18-47 was inserted to its 00 position, valved-out of service and
+isolated.
+• CROM for control rod 18-47 was replaced during the planned maintenance outage that
+occurred in April of 2016.
+Corrective Actions
+• Revised CRO operating procedure 302.1 to require the performance of CRO SCRAM time
+testing when cooling water is isolated to a CROM.
+• Added procedural requirement to perform SCRAM time testing, during the 18 month required
+Surveillance of CROs, that exhibit a high temperature condition
+• Revised Engineering CRO Performance Monitoring Plan to require a review of surveillance
+test data obtained at the end of a refueling outage, as well as during 180-day scram testing,
+and full core scram data. The data is now required to be compared to the previous CRO
+SCRAM Time data to document any discrepancies into the Corrective Action Program.
+Previous Occurrences
+There have been no similar, previous events resulting from the isolation of cooling water to a CRO or
+failing to perform scram time testing at Oyster Creek.
+Component Data
+Component IEEE 805 System ID IEEE 803A Function
+Control Rod Drive System AA SEAL
+NRG FORM 366A (04-2017) Page _5_ of _5_

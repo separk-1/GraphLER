@@ -1,0 +1,325 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+March 12, 2018
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRG Docket No. 50-296
+Subject: Licensee Event Report 50-296/2018-001-00
+The enclosed Licensee Event Report provides details of the Main Turbine Control Valve
+Pressure Switch mounting bracket breaking away from the mounting bolts causing the
+Electro-Hydraulic Control line to rupture and a subsequent unit trip. The Tennessee Valley
+Authority is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations 50.73(a)(2)(iv)(A), as any event or condition that resulted in manual or
+automatic actuation of the Reactor Protection System (RPS) including reactor scram or
+reactor trip.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+D. L. Hughes
+Site Vice President
+Enclosure: Licensee Event Report 50-296/2018-001-00 - Separated Pressure Switch
+Sensing Line Causes Unit 3 SCRAM
+cc (w/ Enclosure):
+NRG Regional Administrator - Region II NRG Senior Resident Inspector -
+Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 3
+Licensee Event Report 50-296/2018-001-00
+Separated Pressure Switch Sensing Line Causes Unit 3 SCRAM
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+,.. ..........1 1. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+! LICENSEE EVENT REPORT (LER)
+•• ~£ Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+~.. .. ....... l Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMS control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER .PAGE
+Browns Ferry Nuclear Plant, Unit 3 05000296 1 OF6
+4. TITLE
+Separated Pressure Switch Sensing Line Causes Unit 3 SCRAM
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR N/A
+NUMBER NO. N/A
+FACILITY NAME DOCKET NUMBER
+01 10 2018 2018 001 00 03 12 2018
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that aoolvJ
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1 D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) 181 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D so.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+074 D 20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+0 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMBER (lndude Area Code)
+Justin K. Garner, Licensing Engineer 256-729-7955
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TOEPIX
+B JI PS B070 y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE) cg) NO SUBMISSION N/A N/A N/A
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 10, 2018, at approximately 0926 Central Standard Time (CST), with Unit 3 at 74 percent
+power, Browns Ferry Nuclear Plant (BFN) received an automatic scram on Reactor Protection System
+(RPS) Turbine Control Valve (TCV) fast closure trip. The support bracket for Unit 3 TCV #2 Electro-
+Hydraulic Control (EHC) pressure switch separated from TCV #2 allowing the mass of the pressure switch
+to break the hydraulic sense line. As a result, the EHC pressure switch sensed low pressure and triggered
+a half scram. With a half-scram previously in place due to an unrelated issue from closure of TCV #3, the
+additional half-scram resulted in an automatic scram on Unit 3 which is a reportable condition. Safety
+systems responded as designed and the reactor scram was uncomplicated.
+The apparent cause of this event was determined to be high cycle fatigue failure of the Unit 3 TCV #2 EHC
+pressure switch support bracket.
+This failure was corrected by replacing the failed mounting bracket with a newly designed mounting
+bracket. The corrective action to reduce the probability of recurrence is to install viscoelastic dampeners on
+the steam piping to reduce the overall piping vibration on the area components. The dampeners are
+expected to reduce overall piping vibration and the probability of future vibration induced failures of various
+components in the moisture separator rooms.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2018 -001 -00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 3 was in Mode 1 at 74 percent power.
+II. Description of Event
+A. Event Summary
+On January 10, 2018, at approximately 0926 Central Standard Time (CST), with Unit 3 at 74
+percent power, BFN received an automatic scram on Reactor Protection System (RPS) Turbine
+Control Valve (TCV)[PCV] fast closure trip. Unit 3 was operating at reduced power because TCV
+#3 failed closed due to Linear Variable Differential Transformer (LVDT) failure resulting in a half
+scram condition on the A2 RPS channel. Subsequently, Unit 3 TCV #2 failed due to the
+Electro-Hydraulic Control (EHC)[JI] relay emergency trip supply (RETS) pressure dropping
+because of a high cycle fatigue failure of TCV #2's associated pressure switch (3-PS-047-0144).
+The pressure switch on the TCV #2 fast acting solenoid valve (FASV)[PSV] disconnected and
+tripped the 81 RPS channel. A Unit 3 automatic reactor scram was initiated, since the A2 RPS
+channel was already tripped. All safety systems functioned as expected.
+This event was reported by the Tennessee Valley Authority (TVA) in Event Notification (EN)
+53162 on January 10, 2018, at 1353 ET, under the four- and eight-hour non-emergency reporting
+requirements pursuant to Title 10 of the Code of Federal Regulations (10 CFR) 50.72(b)(2)(iv)(B)
+for an event that resulted in actuation of the RPS when the reactor is critical and
+10 CFR 50.7 2(b )(3)(iv)(A) for a valid actuation of RPS when the actuation results in a reactor
+scram or trip. This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), as an
+event that resulted in an automatic actuation of the RPS, including reactor scram or reactor trip.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+There were no structures, components, or systems that were inoperable at the start of the event that
+contributed to the event.
+NRG FORM 366A (04-2017) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+;""-~.'/\. lessons learned are incorporated into the licensing process and fed back to industry. Send
+[ ! LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+....
+\ ~ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2018 - 001 - 00
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+January 8, 2018, 1124 CST Operations personnel noted that gain adjustment
+factors (GAFs) and reactor power were erratic on
+Integrated Computer System (ICS)[JA]. TCV #3
+cycled between 30 percent to100 percent open.
+January 8, 2018, 1151 CST Operations personnel initiated a Recirculation Mid
+Power Runback in accordance with procedures for
+the purpose of maintaining Reactor Power at less
+than 82 percent reactor thermal power.
+January 8, 2018, 1152 CST Unit 3 Operations personnel received a half
+scram on channel A due to manual closure of TCV
+#3.
+January 10, 2018, 0926 CST BFN Unit 3 received an automatic scram on
+TCV position
+D. Manufacturer and model number of each component that failed during the event
+The failed component during this event was the support bracket on the Unit 3 TCV #2 EHC pressure
+switch. The support bracket is a part of the assembly for the pressure switch. The model number for the
+pressure switch is 184C4770P001, manufactured by General Electric.
+E. Other systems or secondary functions affected
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+On January 10, 2018, at approximately 0926 CST, with Unit 3 at 74 percent power, BFN received
+an automatic scram on RPS TCV fast closure trip. The support bracket for Unit 3 TCV #2 EHC
+pressure switch was discovered on camera to have broken away from TCV #2.
+G. The failure mode, mechanism, and effect of each failed component
+The failure mechanism was determined to be high cycle fatigue due to striations found on the fracture
+surfaces. The boundary between the bracket and the mounting bolt acted as a stress riser. Cyclic
+stresses applied to the bracket resulted in the formation and propagation of a crack in conjunction with
+a weak design of the bracket and lack of redundancy to resist initial breakage ultimately led to the failure
+of the support bracket.
+Once the bracket fractured, the pressure switch was supported by the EHC tubing, the electrical
+conduit, and partially by the rubbing of the broken bracket on the lower broken surface. This
+post-fracture change in the overall support of the pressure switch transferred a portion of the load to the
+NRC FORM 366A (04-2017) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017,). ,,.-..,.
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+; I ~!. LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\ ..... / CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2018 - 001 -00
+EHC tubing which ultimately failed at the weakest point. The mass of the pressure switch caused the
+EHC tubing to break resulting in loss of EHC fluid.
+H. Operator actions
+Upon receiving the automatic scram, Operation personnel responded per Abnormal Operating
+Instruction, 3-AOl-100-1 (Reactor Scram) and began to control reactor level in accordance with
+Emergency Operating Instruction, 3-EOI Appendix 5A (Injection Systems Lineup
+Condensate/Feedwater). Operation personnel controlled reactor pressure control in accordance with,
+3-EOI Appendix 88.
+I. Automatically and manually initiated safety system responses
+The pressure switch for the TCV #2 FASV disconnected and tripped the 81 RPS. A Unit 3
+automatic reactor scram resulted since the A2 RPS channel was already tripped. The automatic
+reactor scram occurred as designed.
+Ill. Cause of the event
+A. Cause of each component or system failure or personnel error
+The apparent cause of the TCV #2 EHC pressure switch support bracket failure is high cycle fatigue.
+The pressure switch support bracket consists of a band of carbon steel 0.0598 inches thick by 0.745
+inches wide bent in a "U" shape. The center fits smoothly around the neck of the pressure switch and
+the two ends of the bracket extend outward about 1-1/2 inches beyond the pressure switch, allowing for
+a "stand off distance" each making a 90 degree bend adjacent to the mounting bolt holes used to mount
+the bracket to the TCV. These 90 degree bends create stress risers and when combined with the light
+gauge of the material and the mass of the pressure switches resulted in vibration induced fatigue
+damage.
+B. Cause(s) and circumstances for each human performance related root cause
+There were no human performance root causes related to this event.
+IV. Analysis of the event
+TCV Fast Closure inputs to the RPS are from four pressure switches which sense loss of EHC trip
+fluid pressure. Loss of EHC trip fluid pressure initiates TCV fast closure. One switch is mounted on
+each of the four TCVs such that fast closure from either normal tripping or from hydraulic line failure
+is detected. Each pressure switch provides a signal to one of the two channels of RPS. The logic is
+arranged so that operation of any one switch, or two switches in the same channel, initiates a half
+scram; and a simultaneous trip in each channel initiates a full reactor scram. Thus, if EHC trip fluid
+pressure is lost at the TCVs, a TCV Closure reactor trip signal is initiated.
+NRG FORM 366A (04-2017) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+_,.,,. .......'! >.. lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+~ i comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\ .... ./ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2018 - 001 - 00
+Operations noted GAFs and reactor power were erratic on the ICS on January 8, 2018. Additionally, TCV
+#3 was cycling between 30 percent and 100 percent open. TCV #3 was closed, due to the FASV spool
+being stuck, until entry into the moisture separator room could be made. This resulted in a half scram.
+Subsequently TCV #2 failed due to EHC RETS pressure dropping because of a high cycle fatigue
+failure of TCV #2's associated pressure switch. Tripping the 81 RPS channel with the A2 RPS
+channel already tripped resulted in a Unit 3 reactor scram.
+The cause of this event was determined to be high cycle fatigue failure of the Unit 3 Main TCV #2
+EHC pressure switch support bracket. Upon the bracket breaking away, the mass of the pressure
+switch caused the hydraulic sense line to break resulting in a loss of EHC fluid pressure to the
+pressure switch.
+V. Assessment of Safety Consequences
+The automatic reactor trip occurred as designed. Plant equipment performed as designed during the
+transient. The safety consequences of this event were considered minimal, and there was no impact to
+radiological safety or the safety of the public.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+At the time of this event TVC #3 had failed closed which resulted in a half scram on
+January 8, 2018, leaving three available TCVs. The failure of the TCV #2 pressure switch
+resulted in a second half scram and an automatic reactor scram due to TCV fast closure. The
+remaining TCVs responded as designed by closing due to the reactor scram.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+This event did not result in a train of a subsystem becoming inoperable.
+VI. Corrective Actions
+Corrective Actions (CAs) are being managed by TVA's corrective action program under Condition Report
+(CR) 1376060.
+NRG FORM 366A (04-2017) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+,.,,. ......'/ <.._ lessons learned are incorporated into the licensing process and fed back to industry. Send
+! LICENSEE EVENT REPORT (LER)
+i comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+~ ..... / Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2018 - 001 - 00
+A. Immediate Corrective Actions
+The failure was corrected by replacing the mounting bracket with a new mounting bracket and pressure
+switch.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Viscoelastic dampeners are planned to be installed during the upcoming Unit 3 outage to reduce overall
+piping vibration and are expected to reduce the probability of future vibration induced failures of various
+components in the moisture separator rooms.
+VII. Previous Similar Events at the Same Site
+There have been no prior vibration-induced bracket failures that resulted in an automatic scram at BFN.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2017) Page 6 of 6

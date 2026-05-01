@@ -1,0 +1,203 @@
+E)entergy
+Kent Scott
+Site Vice President
+225-381-4374
+RBG-48194
+10 CFR 50.73
+September 01, 2022
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 / 2022-03-00, Division 1 Standby Diesel
+Generator Speed Sensor Power Supply Failure
+River Bend Station - Unit 1
+NRC Docket Nos. 50-458
+Renewed Facility Operating License No. NPF-47
+In accordance with 10 CFR 50. 73, enclosed is the subject Licensee Event Report.
+This document contains no commitments.
+Should you have any questions, please contact Mr. Tim Schenk, Regulatory Assurance
+Manager, at 225-381-4177.
+Enclosure: Licensee Event Report 50-458 / 2022-03-00, Division 1 Standby Diesel
+Generator Speed Sensor Power Supply Failure
+cc: NRC Region IV Regional Administrator - Region IV
+NRC Senior Resident Inspector - River Bend Station
+NRC Project Manager - River Bend Station
+Entergy Nuclear Operations, Inc., River Bend Station, 5485 U.S. Highway 61, St. Francisvil[e, LA 70775
+RBG-48194
+Enclosure
+Page 1 of 1
+Enclosure
+RBG-48194
+Licensee Event Report 50-458 / 2022-03-00, Division 1 Standby Diesel Generator Speed
+Sensor Power Supply Failure
+Entergy Nuclear Operations, Inc., River Bend Station, 5485 U.S. Highway 61, St. Francisville, LA 70775
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A1 O M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+(See Page 3 for required number of digits/characters for each block)
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+https://www.nrc.gov/reading-rrn/doc-collections/nuregs/staff/sr1022/r31) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3.Page
+River Bend Station, Unit 1 05000 458 1 OF3
+4. Title
+Division 1 Standby Diesel Generator Speed Sensor Power Supply Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year F N a A ci lity Name 05000 Docket N N u A m be
+Number No.
+07 04 2022 2022 003 00 09 01 2022 N Fa A ci lity Name 05000 Docket N N u A m be
+9. Operating Mode 10. Power Level
+100%
+11. This Re ortisSubmitted Pursuant to the R uirements of10CFR :
+D 50.36(c)(2) D 50.73(a)(2)(iv)(A)
+D 50.46(a)(3)(ii) ~ 50.73(a)(2)(v)(A)
+□ 20.2201 (d) □ 50.69(9) ~ 50.73(a)(2)(v)(B) O73.71(a)(4)
+D 20.2203(a)(1) □ 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(C) D 73.71 (a)(5)
+D 20.2203(a)(2)(i) 0 50.73(a)(2)(i)(B) ~ 50.73(a)(2)(v)(D) D 73.77(a)(1)(i)
+D 20.2203(a)(2)(ii) □ 50.73(a)(2)(i)(C) D 50.73(a)(2)(vii) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(iii) □ 50. 73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(iv) 0 50. 73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Tim Schenk, Manager-Regulatory Assurance 225-381-4177
+13. Com lete One Line for each Com onent Failure Described in this Re ort
+Cause System Component Manufacturer Reportable To IRIS Cause System • Component Manufacturer Reportable To IRIS
+X EK CNV D283 y X EK CNV D283 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□ No cg] Yes (If yes, complete 15. Expected Submission Date) 11 09 2022
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 04, 2022, at 2115 Central Time, while River Bend Station, Unit 1 was operating in Mode 1 at 100 percent power,
+the Division 1 Standby Diesel Generator was declared Inoperable due to failure of redundant power supplies in the speed
+control circuitry. This was discovered during monthly surveillance testing. The failedpower supplies provide power to the
+exciter flash circuitry and ramp governor control. This condition would have prevented the Division 1 Standby Diesel
+Generator from providing power to Division 1 Emergency Loads.
+The issue was determined to be reportable in accordance with 10 CFR 50.73(a)(2)(v)(A), (B), (C), and (D) as any event or
+condition that could have prevented the fulfillment of the safety function of structures or systems. This event was not
+reportable in accordance with 10 CFR 50. 72 because the Division 2 Standby Diesel Generator was operable and available at the
+time of discovery.
+The condition was corrected by replacing the power supplies on July 07, 2022.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 05000-458 NUMBER NO.
+2022 003 00
+NARRATIVE
+EVENT DESCRIPTION
+On July 04, 2022, at 2115 Central Time, River Bend Station, Unit 1 (RBS) was operating in Mode 1 at 100 percent power. There
+were no other structures, systems, or components (SSCs) that were inoperable that contributed to this event.
+A failure was identified in the speed control circuitry of the Division 1 Standby Diesel Generator (EGS-EG1A) [EK] [DG] during
+monthly surveillance testing per STP-309-0201, Division I Diesel Generator Operability Test. EGS-EG1A was,declared inoperable
+due to the speed control circuitry failure and documented in the RBS Corrective Action Program in CR-RBS-2022-03801.
+EGS-EG1A speed control circuit contains redundant Dynalco SDC-2000, 125 VDC to 24 VDC power supply converters
+(EGS-E/EX43A and EGS-E/EY4 3A) [CNV]. These components supply power to individual speed switches and tachometers.
+EGS-E/EY43A also supplies power to Emergency Response Information System (ERIS) [ID] computer point (EGSEY009) [SI]. The
+speed control circuit is designed such that either one of the power supplies is sufficient to allow field flash and loading of the diesel
+genetator. These power supplies were refurbished by Paragon and installed in December 2020. The failures occurred after
+approximately 1.5 years with an expected replacement frequency of 8 years.
+Timeline of events:
+06/01/22 - STP-309-0201, Division 1 Diesel Generator Operability Test completed. This was the last known successful operability
+run for EGS-EG1A. This verified that both EGS-E/EX43A and EGS-E/EY4 3A were functioning properly on 06/01/22
+because the local tachometers and EGSEY009 provided proper indication.
+06/08/22 - ERIS computer point, EGSEY009 "flatlined" starting on 06/08/22, which is most likely when EGS-E/EY43A lost power.
+This was not a normally monitored component and went undetected until troubleshooting identified the condition on
+07/05/22.
+06/12-13/22-Performed STP-309-0202, Division 2 Diesel Generator Operability Test.The normal requirements of this test resulted
+in 0.63 hours of Unavailability for the Division 2 Standby Diesel Generator (EGS-EG 1B ) [EK] [DG].
+07/04/22-EGS-EG1A, Division 1 Emergency Diesel Generator was declared inoperable.
+07/05/22 - Trouble shooting determined the failure of both power supplies EGS-E/EX43A and EGSE/EY43A.
+07 /05/22 - Trouble shooting determined that both power supplies had blown fuses.
+07 /05/22 - Common Mode Failure evaluation determined that EGS-EG 1B utilizes the same exact design and manufacturer for
+these components. However, voltage readings for EGS-E/EX43B and EGS-E/EY4 3B were satisfactory leading to the
+conclusion that the failure was not currently present in EGS-EG 1B .
+07 /05/22 - Common Mode Failure evaluation excluded the Division 3 High Pressure Core Spray Diesel Generator due to differing
+designs.
+07/06/22 - RBS function testing to determine the cause of the blown fuses was inconclusive.
+07/07/22-Completed installation of EGS-E/EX43A and EGS-E/EY43A power supplies per Engineering Change (EC-87792). The
+new Phoenix power supplies are designed with external lights to provide positive indication of power status.
+07/07/22 - Completed post maintenance testing and declared EGS-EG1A operable.
+08/04/22 - The failed Dynalco SDC-2000 power supplies were shipped to an outside vendor, Engine Systems Inc., to perform a
+detailed failure analysis. Preliminary results are expected in September 2022.
+As stated in the timeline above, monthly surveillance testing rendered EGS-EG1 B unavailable for a total of 0.63 hours during June
+12-13, 2022. The discovery of EGSEY009 "flatlined" starting on June 08, 2022, means that EGS-E/EY 43A most likely lost power at
+that time. Although either EGS-E/EY 43A or EGS-E/EX43A functioning properly would allow EGS-EG1A to load, the timing of EGS
+E/EX43A power loss is unknown. Therefore, this condition is being reported in accordance with 10 CFR 50.73(a)(2)(v) as "Any
+event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: (A)
+Shut down the reactor and maintain it in a safe shutdown condition; (B) Remove residual heat; (C) Control the release of radioactive
+material; or (D) Mitigate the consequences of an accident." This event was not an ENS notification because EGS-EG1 B was
+operable and available at the time of discovery.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail td
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+https ://www .nrc.gov/readi ng-rm/doc-col lections/nuregs/staff/ sr1 022/r3D sponsor, and a person is not .required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 05000- 458 NUMBER NO.
+2022 003 00
+SAFETY ASSESSMENT
+This assessment is being performed under the assumption that EGS-E/EX43A lost power on June 08, 2022, the same day that
+EGSEY009 "flatlined" which indicated that EGS-E/EY43A had lost power. This would have made EGS-EG1A unavailable from
+June 08, 2022, until July 07, 2022, when the new Phoenix power supplies were installed and EGS-EG1A was declared operable.
+On June 12-13, 2022, EGS-EG1B was placed in Maintenance Mode and made unavailable fora total of 0.63 hours to support
+normal surveillance testing. If an actual Loss of Offsite Power had occurred while EGS-E 1B was in Maintenance Mode, operators
+would have restored it back to Operational Mode in accordance with AOP-0050, STATION BLACKOUT and/or SOP-0053,
+STANDBY DIESEL GENERATOR AND AUXILIARIES. EGS-EG1B was available for most of time that EGS-EG1Awas
+unavailable. Additionally, no Loss of Offsite Power or Loss of Coolant Accident occurred during this time, therefore this event was of
+minimal significance to the health and safety of the public.
+EVENT CAUSE
+The direct cause of this event is currently unknown. The RBS troubleshooting plan identified blown fuses internally to both power
+supplies. The team understood that a blown fuse is not a cause but a symptom and continued to perform preliminary testing on the
+removed power supplies which produced inconclusive results.
+The inconclusive results of testing the faulty power supplies at RBS dictated that a failure analysis would be required by an outside
+vendor. Both failed power supplies were shipped to Engine Systems, Inc. on August 04, 2022. RBS is scheduled to receive
+preliminary results in September 2022. RBS plans to submit a supplemental report detailing the results of the vendor failure analysis.
+CORRECTIVE ACTIONS
+Completed:
+• Replaced EGS-EG1A power supplies, EGS-E/EX43A and EGS-E/EY43A. The new design by Phoenix has external
+indication of power status.
+• Replaced EGS-EG1 B power supplies, EGS-E/EX43B and EGS-E/EY 438. The new design by Phoenix has external
+indication of power status.
+• Revised OSP-0028 LOG REPORT -NORMAL SWITCHGEAR, CONTROL, AND DIESEL
+GENERATOR BUILDINGS to include local monitoring of EGS-E/EX43A, EGS-E/EY43A, EGS-E/EX438, and
+EGS-E/EY4 38 power supply lights once per shift.
+• Revised OSP-0027 LOG REPORT -MAIN CONTROL ROOM to include monitoring ERIS computer points associated with
+Division 1, 2, and 3 Diesel Generator tachometers from the Main Control Room once per shift.
+Planned actions tracked in the Corrective Action Program: ·
+• Revise the Adverse Condition Analysis product to incorporate findings and learnings from the vendor failure analysis. The
+intent is to present the updated document to station management.
+• Submit a supplement to this Licensee Event Report to incorporate the findings of the vendor failure analysis.
+PREVIOUS SIMILAR EVENTS
+None
+NOTE:
+Energy Industry Identification System (EIIS) codes and component codes are identified in the text of this report as [XX].
+NRC FORM 366A (08-2020) Page 3 of 3
+'

@@ -1,0 +1,432 @@
+Constellation. James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Alexander Sterio
+Site Vice President- JAF
+JAFP-23-0066
+December 1, 2023
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2023-004, Misaligned Spacer Prevented Tie Breaker Closing Coil
+Armature Operation on a Magne-Blast for EOG A Subsystem
+Dear Sir or Madam:
+This report is being submitted pursuant to 1O CFR 50.73(a)(2)(i)(B) and 10 CFR
+50. 73(a)(2)(v)(A).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Mark Hawes, Regulatory Assurance,
+at (315) 349-6659.
+Sincerely,
+Jt:::-
+~~~
+Alexander Sterio
+Site Vice President
+ADS/MH
+Enclosure: LER: 2023-004, Misaligned Spacer Prevented Tie Breaker Closing Coil
+Armature Operation on a Magne-Blast for EOG A Subsystem
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER)
+b
+le
+u
+a
+r
+r
+d
+n
+e
+e
+n
+d
+e
+a
+s
+r
+t
+e
+im a
+in
+t
+c
+e
+o
+t
+r
+o
+p o
+t
+r
+h
+a
+e
+t ed
+F O
+in
+I
+t
+A
+o
+,
+th
+L
+e
+ib r
+l
+a
+ic
+r
+e
+y
+n
+,
+s
+a
+i
+n
+n
+d
+g p
+In
+ro
+fo
+c
+r
+e
+m
+ss
+a ti
+a
+o
+n
+n
+d
+C
+fe
+o
+d
+ll e
+b
+c
+a
+ti
+c
+o
+k
+n s
+t o
+B
+in
+r
+d
+a
+u
+n
+s
+c
+t
+h
+ry .
+(T
+S
+-6
+e n
+A
+d
+1
+c
+0
+o
+M
+m
+)
+m
+, U
+e
+.
+n t
+S
+s
+.
+re
+N
+ga
+u
+r
+c
+d
+le
+in
+a
+g
+r
+Regulatory Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and
+(See Page 2 for required number of digits/characters for each block) the OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) t
+c
+o
+u r
+r
+r
+e
+e
+s
+n
+p
+tl
+o
+y
+n
+v
+d
+a l
+t
+i
+o
+d
+,
+O
+a
+M
+c
+B
+o ll
+c
+e
+o
+c
+n
+ti
+t
+o
+ro
+n
+l
+o
+n
+f
+u m
+inf
+b
+o
+e
+rm
+r.
+ation unless the document requesting or requiring the collection displays a
+1. Facility Name  050 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+ 052 05000333
+1 OF 4
+4. Title
+Misaligned Spacer Prevented Tie Breaker Closing Coil Armature Operation on a Magne-Blast for EDG A Subsystem
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Ye ar S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year F N ac / il A ity N ame  050 Do N ck / et A Nu mber
+Facility Name Docket Number
+04 12 2023 2023 - 004 - 00 12 01 2023 N/A  052 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.1200(a)
+ 20.2201(b)  20.2203(a)(3)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)  73.1200(b)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)  73.1200(c)
+ 20.2203(a)(1)  20.2203(a)(4)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)  73.1200(d)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73  73.1200(e)
+ 20.2203(a)(2)(ii)  21.2(c)  50.69(g)  50.73(a)(2)(v)(B)  73.77(a)(1)  73.1200(f)
+ 20.2203(a)(2)(iii)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.77(a)(2)(i)  73.1200(g)
+ 20.2203(a)(2)(iv)  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(2)(ii)  73.1200(h)
+ 20.2203(a)(2)(v)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)
+OTHER (Specify in Abstract below or in NRC Form 366A).
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Mark Hawes, Regulatory Assurance 315-349-6659
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D EK BKR G080 N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On April 12, 2023, with James FitzPatrick Nuclear Power Plant (JAF) was at 100% power the Emergency Diesel
+Generator (EDG) “A” and “C” tie breaker (71-10504) did not close during a performance of monthly full load surveillance
+test (ST-9BA). This was caused by binding of the closing coil armature of the breaker due to a misaligned spacer
+installed in June 2021. The cause of this condition is inadequate procedural guidance to ensure proper
+orientation/alignment of the close coil sleeve and spacers.
+Tie breaker failure to close rendered the “A” Emergency Diesel Generator (EDG) subsystem inoperable. It was
+determined that this deficiency began after the last successful test/actuation on March 13, 2023. This condition was
+prohibited by Technical Specifications (TS), which is reportable per 10 CFR 50.73(a)(2)(i)(B) and 10 CFR
+50.73(a)(2)(v)(A).
+The condition was corrected when the 71-10504 Tie Breaker was replaced on April 13, 2023. A corrective action was
+completed to revise MP-054.01 and MP-054.03 to improve spacer installation process and ensure proper breaker
+actuation.
+NRC FORM 366 (10-01-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library,
+and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 004 – 00
+NARRATIVE
+Background
+The Emergency Onsite Power Supply System [EIIS identifier: EK] consists of two redundant Emergency
+Diesel Generator (EDG) subsystems. Each EDG subsystem consists of two EDG units. The capability of the
+two units in the subsystem to start, force parallel, and attain rated voltage and frequency together within 10
+seconds, and run the necessary engineered safeguard loads, meets the requirements for the Emergency AC
+Power System.
+The EDG logic system utilizes a force parallel design. This allows two EDG units to parallel onto the respective
+Emergency AC bus together to provide a combined load. The “A” subsystem tie breaker (71-10504) force
+parallels the “A” and “C” EDG units.
+Event Description
+On April 12, 2023, with James FitzPatrick Nuclear Power Plant (JAF) at 100% power the EDG “A” and “C” tie
+breaker (71-10504) did not close during a performance of monthly full load surveillance test (ST-9BA). The “B”
+EDG subsystem was verified to be operable. Troubleshooting identified that the issue was internal to the
+breaker. On April 13, the 71-10504 Magne-Blast circuit breaker was replaced and at 23:00 the “A” EDG
+subsystem was restored to service. Total out of service time was approximately 43 hours.
+Event Analysis
+The removed Magne-Blast circuit breaker was sent to General Electric (GE) for evaluation. The GE
+investigation identified that intermittent binding of the close coil armature occurred, which prevented the full
+stroke required to close the circuit breaker. The binding was repeated multiple times during the investigation.
+Visual inspection confirmed the closing coil appeared to be askew in the assembly and the spacers were not
+aligned correctly.
+The misaligned spacer did not allow the closing coil sleeve to seat properly in the cutout of the support. This
+decreased the clearance required for the closing coil armature to move freely inside the full length of the
+assembly. The decreased clearance caused the armature to bind against the spacer and the inside of the
+sleeve. The armature does not experience binding in all positions of the armature. The armature was rotated
+and then it was identified that it only became bound in certain positions. A properly installed coil assembly will
+not become loose, and closing coil will be able to operate without binding.
+It was determined that the misaligned spacer was installed in June 2021 when 71-10504 was replaced. All
+subsequent surveillance tests were successful from June 2021 until the failure on April 12, 2023. On
+October 19, 2023, JAF performed tests of the removed breaker closing coil armature to demonstrate how the
+armature rotates during each breaker actuation. It rotates at a regular fix quantity during each actuation;
+therefore, the specific position which caused binding was rotated to that position during the last test on
+March 13, 2023. Based on this evaluation, the “A” EDG subsystem tie breaker 71-10504 would not have
+closed between March 13 and April 12, a condition which would have caused the “A” EDG subsystem to be
+inoperable.
+Page 2 of 4
+NRC FORM 366A (10-01-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library,
+and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 004 – 00
+When “A” EDG subsystem is inoperable, Technical Specifications (TS) 3.8.1, Condition B requires it be
+restored to operable status within 14 days. Condition F states that if the Completion Time of Condition B
+cannot be met, then the unit shall be in Mode 3 within 12 hours and Mode 4 within 36 hours. This condition
+was prohibited by TS, which is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B).
+Concurrent with this condition, as reported by LER-23-003, the 7-day fuel oil supply [DE] was not met between
+March 27, 2023, and April 25, 2023. In addition, ST-9BB testing of the “B” EDG subsystem on March 27, 2023,
+rendered the subsystem inoperable. TS 3.8.1 Condition E applies when two EDG subsystems are inoperable.
+When “A” and “B” subsystems were inoperable at the same time, between March 27 to April 13, this
+circumstance is reportable in accordance with 10 CFR 50.73(a)(2)(v)(A) as a condition which could have
+prevented the fulfillment of the EDG system safety function.
+Cause
+Emergency Diesel Generator “A” subsystem tie breaker 71-10504 failed to close due to binding of the closing
+coil armature due to a misaligned spacer. The cause of this event is inadequate procedural guidance, to
+ensure proper orientation/alignment of the close coil sleeve and spacers.
+Similar Events
+No previous similar events.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: General Electric
+Manufacturer Model Number: AMH-4.76-250-1D
+Manufacturer Code: G080
+Component Code: BKR
+FitzPatrick Component ID: 71-10504
+Corrective Actions
+Completed Actions
+Replaced 71-10504 Tie Breaker.
+Revised procedures MP-054.01, 4.16 KV Magne-Blast Breaker and MP-054.03, 4.16 KV Magne-Blast
+Breaker Overhaul, for improved guidance to ensure the proper alignment of the closing coil spacers and
+brass sleeve or post installation force measurement of the push button actuation to verify the closing
+assembly operated without binding.
+Planned Actions
+None.
+Page 3 of 4
+NRC FORM 366A (10-01-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library,
+and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 004 – 00
+Safety Significance
+Nuclear safety – There were no actual nuclear consequences. This tie breaker deficiency is limited to the
+“A” EDG subsystem and to the 30 day period between March 13 and April 13. The ability of the individual EDG
+units “A” and “C” to start automatically was not impacted. If the appropriate checks are not achieved, the units
+will not force parallel; however, the first EDG unit to reach 90% of rated voltage would close onto the
+emergency power bus while preventing the other unit from closing on the bus. Engineered safeguard loads are
+automatically connected to the emergency bus in a prescribed sequence. In the case, the load expected
+during a loss of offsite power (LOOP) event would not challenge a single EDG unit but the worst case Design
+Basis Accident load for the load sequence may result in stalling that unit.
+For a low fuel oil condition as reported by LER-23-003 concurrent with this tie breaker deficiency, it was
+concluded that there was sufficient fuel oil onsite in all four fuel oil storage tanks and that it could be
+transferred as needed to run all four EDGs for the required 7 day mission time. The calculation for a 7 day fuel
+supply assumes full load operation amongst other high standards for performance. This requirement, in
+conjunction with an ability to obtain replacement supplies within 7 days, supports the availability of EDGs
+required to shut down the reactor and to maintain it in a safe condition for an abnormal operational transient or
+a postulated Design Bases Accident with loss of power. The potential effect on nuclear safety related to this
+report is confined to the period March 27 and April 13, only for the “B” subsystem and only for postulated run
+times greater than 6 days.
+Offsite Power supply remained Operable during the affected period.
+References
+Issue Report – IR 04669409, ST-9BA Failed Level 1 Acceptance Criteria, dated April 12, 2023
+Issue Report – IR 04707644, NRC id’d evaluate potential failure to report, dated October 6, 2023
+Issue Report – IR 04711358, PI&R Inspection NRC identified late LER, dated October 20, 2023
+Issue Report – IR 04715939, Receipt of finding, dated November 7, 2023
+JAF LER – LER: 2023-003, Procedure Error in Emergency Diesel Generator Fuel Oil Supply “B” Subsystem,
+JAFP-23-0032, dated June 23, 2023
+Page 4 of 4
+NRC FORM 366A (10-01-2023)

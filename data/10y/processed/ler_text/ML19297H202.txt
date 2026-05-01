@@ -1,0 +1,160 @@
+Entergy Ope rations, Inc.
+P.O. Box 756
+Port Gibson, Mississippi 39150
+Eric A. Larson
+Site Vice President
+Grand Gulf Nuclear Station
+Tel: 601-437-7500
+10 CFR 50.73
+GNR0-2019/00046
+October 24, 2019
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT: Grand Gulf Nuclear Station, Unit 1 Licensee Event Report 2019-004-00,
+Loss of High Pressure Core Spray Due to Instrument Inverter Failure
+NRC Docket No. 50-416
+Renewed Facility Operating License No. NPF-29
+Attached is Licensee Event Report 2019-004-00, Loss of High Pressure Core Spray due to
+instrument inverter failure. This report is being submitted in accordance with 10 CFR
+50.73(a)(2)(v)(D) for an event or condition that at the time of discovery could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the
+consequences of an accident.
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Jim Shaw at 601-437-2103.
+Sincerely,
+Eric A. Larson
+EAL/fas
+Attachment: Licensee Event Report 2019-004-00
+GNR0-2019/00046
+Page 2 of 2
+cc: NRC Region IV - Regional Administrator
+NRC Senior Resident Inspector, Grand Gulf Nuclear Station
+NRR Project Manager
+GNR0-2019/00046
+Attachment
+Licensee Event Report 2019-004-00
+NRCFORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+°"'fl"~<. Reported lessons learned are incorporated into the licensing process and fed back to
+,.t " 0 LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+~
+~ (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+[ } (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+'-~,, · +'l Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+•1t•1e• (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://w,;vw.nrcqov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+display a currently valid OMB control number, the NRG may not conduct or sponsor, and a
+oerson is not reauired to resoond to the information collection.
+1. Facility Name ~-Docket Number ~.Page
+Grand Gulf Nuclear Station, Unit 1 05000 416 1 OF3
+4. Title
+Loss of Hiah Pressure Core Sorav Due to Instrument Inverter Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year F N a / c A il ity Name Docket Number
+Number No. 05000 NIA
+Facility Name Docket Number
+08 28 2019 2019 -004 -00 10 24 2019
+N/A 05000 N/A
+9. Operating Mode 11. This RePOrt is Submitted Pursuant to the Reauirements of 1O C FR §: (Check all that aoolv)
+1 0 20.2201(b) 0 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) 0 50. 73(a)(2)(viii)(A)
+0 20.2201 (d) 0 20.2203(a)(3)(ii) 0 50. 73(a)(2)(ii)(B) 0 50. 73(a)(2)(viii)(B)
+0 20.2203(a)(1) 0 20.2203(a)(4) 0 50.73(a)(2)(iii) 0 50. 73(a)(2)(ix)(A)
+0 20.2203(a)(2)(i) 0 50.36(c)(1 )(i)(A) 0 50. 73(a)(2)(iv)(A) 0 50. 73(a)(2)(x)
+10. Power Level 0 20.2203(a)(2)(ii) 0 50.36(c)(1 )(ii)(A) 0 50.73(a)(2)(v)(A) 0 73. 71(a)(4)
+0 20.2203(a)(2)(iii) 0 50.36(c)(2) 0 50.73(a)(2)(v)(B) 0 73. 71 (a)(5)
+100 0 20.2203(a)(2)(iv) 0 50.46(a)(3)(ii) 0 50.73(a)(2)(v)(C) 0 73. 77(a)(1)
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) 181 50. 73(a)(2)(v)(D) 0 73. 77(a)(2)(ii)
+0 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) 0 50.73(a)(2)(vii) 0 73. 77(a)(2)(iii)
+0 50. 73(a)(2)(i)(C) O Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact rilephone Number (Include Area Code)
+µim Shaw, Manager Regulatory Assurance !(601) 437-2103
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+8 BG IPWSUP Topaz y
+14. Supplemental Report Expected Month Day Year
+D IZJ 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+~bstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On August 28, 2019, at 13: 16, the Grand Gulf Nuclear Station Unit 1, Control Room received High Pressure Core Spray (HPCS)
+Out-of-Service annunciator, HPCS SYS OOSVC. HPCS was declared INOPERABLE and the following Technical Specification (TS)
+Action statements were entered: ECCS TS 3.5.1 Action 8.1 and Primary Containment Isolation Valves TS 3.6.1.3 Action A.1.
+The Direct Cause for the event is that the HPCS system instrument inverter lost inverter output that resulted in the inability to
+automatically initiate HPCS. Immediate corrective actions were taken to replace the instrument inverter restoring HPCS to an
+operable condition on August 28, 2019, at 23:15.
+This report is made pursuant to 1O CFR 50.73(a)(2)(v)(D) for an event or condition that at the time of discovery could have
+prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an
+accident.
+There were no consequences to the general safety of the public, nuclear safety, industrial safety and radiological safety for
+this event.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www. nrc.qov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2019 -004 -00
+NARRATIVE
+Plant Conditions:
+Grand Gulf Nuclear Station (GGNS) Unit 1 was operating at approximately 100 percent power in MODE 1. There were no
+structures, systems, or components that were inoperable that contributed to the event.
+Description:
+On August 28, 2019, at 13: 16 CDT, the Control Room received the following High Pressure Core Spray (HPCS)[BG] annunciator,
+HPCS SYS OOSVC. In addition to the HPCS Out-of-Service alarm, the TRIP UNIT OOFile/PWRLOSS and HPCS LOGIC
+POWER FAILURE status lights were illuminated.
+The Control Room operators responded to the alarm and declared HPCS (a single train system) INOPERABLE and entered
+Emergency Core Cooling Systems Technical Specification (TS) 3.5.1 Action statements for Condition B.
+Additionally, the HPCS suction minimum flow valve opened as designed due to loss of instrument inverter power and Primary
+Containment Isolation Valves (PCIV) TS 3.6.1.3 Action statement for Condition A was entered for the affected isolation valve. The
+associated breaker was opened, and the minimum flow valve was manually closed per the required action as stated in TS 3.6.1.3
+Condition A.1.
+Instrument and Control Maintenance was contacted to investigate the event and the cause was determined to be an issue with the
+HPCS instrument inverter. The instrument inverter converts 125 VDC to 120 VAC. The investigation identified that inverter output
+was approximately OV AC.
+Technical Specification LCO 3.5.1 was met with the replacement of the instrument inverter. TS LCO 3.6.1.3 was met when the
+HPCS minimum flow valve was restored to normal configuration. HP CS was declared operable on August 28, 2019, at 23: 15.
+Reportability:
+This event was reported as an event or condition that, at the time of discovery, could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an accident per 10 CFR 50.72(b)(3)(v)(D). The
+event notification is EN 54244.
+This event is also reportable per 10 CFR 50.73(a)(2)(v)(D).
+Direct Cause:
+The lost of instrument inverter VAC output power resulted in the inability to automatically initiate HPCS, resulting in a loss of safety
+function.
+Immediate Corrective Actions:
+The inverter was replaced and functionally tested satisfactory.
+Safety Significance:
+There were no actual consequences for this event. There was no radiological release from the Secondary Containment as a result
+of this event. There were no other actual consequences to safetv of the qeneral public, nuclear safetv, industrial safety and
+NRC FORM 3668 (02-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018,-) ....>
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l¥''-
+' LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+; ' comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\. ...... j CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO
+2019 -004 -00
+radiological safety.
+Previous Similar Event:
+A five-year review of similar events was conducted, and no similar events were revealed.
+NRC FORM 366A (06-2016) Page 3 of 3

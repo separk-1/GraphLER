@@ -1,0 +1,318 @@
+DUKE William R.Gkieon
+t$1f,_
+ENERG BrunswickNuclearPlant
+® RD. Box10429
+Southport, NC28461
+.
+0: 910.457.3698
+MAR 2 2 2017 10 CFR 50.73
+Serial: BSEP 17-0022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject: Brunswick Steam Electric Plant, Unit Nos. 1 and 2
+Renewed Facility Operating License Nos. DPR-71 and DPR-62
+Docket Nos. 50-325 and 50-324
+Licensee Event Report 1-2017-001
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report is being
+submitted in response to a Severity Level IV violation received in NRC Inspection Report
+2016-004, dated February 9, 2017 (ADAMS Accession Number ML17041AOl0), for failure to
+provide a written report to the NRC within 60 days of identifying a condition which was
+prohibited by plant Technical Specifications. Please refer any questions regarding this submittal
+to Mr. Lee Grzeck, Manager Regulatory Affairs, at (910) 457-2487.
+—
+Sincerely,
+William R. Gideon
+SWR/swr
+Enclosure: Licensee Event Report 1-2017-001
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Ms. Michelle P. Catts, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Andrew.Hon@nrc.gov
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP) Unit 1 05000325 1 OF 5
+4. TITLE
+Speed and Frequency Oscillations Result in Inoperable Emergency Diesel Generator
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR
+NUMBER NO.
+MONTH DAY YEAR Brunswick Unit 2 05000324
+FACILITY NAME DOCKET NUMBER
+02 07 2016 2017 - 001 - 00 03 22 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+
+088 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Lee Grzeck, Manager - Regulatory Affairs (910) 457-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+ SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On February 7, 2016, at 1312 Eastern Standard Time (EST), Unit 1 was in Mode 1 (i.e., Run) at 88 percent
+of rated power in end-of-cycle coastdown. At that time, an event occurred which resulted in a loss of offsite
+power (LOOP) on Unit 1. Emergency diesel generators EDG-1 and EDG-2 started and tied to their
+respective Unit 1 emergency buses. During diesel operation, EDG-1 exhibited oscillations in engine speed
+and bus frequency. These oscillations had no adverse effect on equipment supplied by the bus, and all
+supplied loads continued to perform their safety functions without interruption and without need for operator
+intervention. However, due to the speed and frequency oscillations, EDG-1 was deemed after the fact to
+have been inoperable. Following extensive testing and evaluation, the cause of the oscillations has not been
+determined. The governor system for EDG-1 was replaced on March 6, 2016, as part of a planned upgrade
+to EDG-1. Since that time, the oscillations have not recurred. Based on the fact that the governor
+replacement eliminated the oscillations, it’s concluded that the oscillations resulted from a deficiency in the
+governor system. Since the cause of the inoperability has been eliminated, no further corrective actions are
+planned.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2017 - 001 - 000
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+Background
+Inspection Report 2016-004, dated February 9, 2017 (ADAMS accession number ML17041A010), includes
+a Severity Level IV non-cited violation for failure to submit a Licensee Event Report (LER) due to
+inoperability of Emergency Diesel Generator 1 (EDG-1). This LER fulfills the requirement of
+10 CFR 50.73(a)(1) pertaining to that violation.
+On February 7, 2016, during a loss of offsite power (LOOP) event, oscillations of the EDG-1 fuel rack were
+observed. During the event, maximum bus frequency oscillations of +/- 0.4 Hz were observed. According
+to recorded electronic data, at the highest loading during the event, the load was oscillating by
+approximately +/-300 kW. Loads supplied by EDG-1 continued to perform their safety functions without
+interruption and without need for operator intervention.
+However, it was determined after the fact that the observed speed and frequency oscillations rendered
+EDG-1 inoperable, due to the uncertainty of the effect of the oscillations on EDG-1 at full load.
+Duration of EDG 1 Inoperability
+Based on data gathered by electronic monitoring, the oscillations commenced at approximately
+1404 Eastern Standard Time (EST) on February 7, 2016. Prior to this time, there was no indication of
+frequency, speed, or power oscillations on EDG-1. Without firm evidence to the contrary, this is assumed
+to be the start time for EDG-1 inoperability.
+On March 2, 2016, at 1458 EST, EDG-1 was removed from service for governor replacement. Work
+associated with this modification corrected the condition causing the oscillations. EDG-1 was declared
+operable following the governor replacement and associated testing on March 9, 2016, at 0151 EST.
+Based on the above, EDG-1 was inoperable from February 7, 2016, at 1404 EST until March 9, 2016, at
+0151 EST (i.e., approximately 30 days, 11 hours, 47 minutes).
+Concurrent Inoperability of EDG-2, EDG-3, and EDG-4
+EDG-2
+February 19 from 2025 EST to 2053 EST (i.e., 28 minutes) for barring.
+February 19 from 2104 EST to February 20 at 0014 EST (i.e., 3 hours, 10 minutes) for surveillance
+testing.
+NRC FORM 366A (06-2016) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2017 - 001 - 000
+NARRATIVE
+EDG-3
+February 7 at 2211 EST to March 4 at 1834 EST (i.e., approximately 25 days, 20 hours, 23 minutes).
+This inoperability was caused by a faulty fuse holder and was reported in LER 1-2016-02, Revision 1,
+dated August 8, 2016 (ADAMS accession number ML16230A236). During this event, EDG-3
+remained capable of being manually loaded.
+EDG-4
+February 15 from 1235 EST to 1434 EST (i.e., 1 hour, 59 minutes) for surveillance testing.
+February 18 from 2106 EST to 2140 EST (i.e., 34 minutes) for barring.
+February 18 from 2154 EST to February 19 at 0119 EST (i.e., 3 hours, 25 minutes) for surveillance
+testing.
+Reportability Criteria
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as operation prohibited by the plant's
+Technical Specifications (TSs) for both Unit 1 and 2. EDGs 1 and 3 were simultaneously inoperable from
+February 7, 2016, at 2211 EST to March 4, 2016, at 1834 EST. Required Action G.1 of TS 3.8.1, "AC
+Sources - Operating," requires restoration of all but one EDG to operable status within 2 hours. If this is
+not completed, then Required Action H.1 requires that an operating unit be in Mode 3 within 12 hours.
+Therefore, Unit 2 should have been in Mode 3 by 1211 EST on February 8, 2016, and failure to do so
+constituted entry into a condition prohibited by the TS. On February 12, 2016, at 2357 EST, Unit 1 entered
+Mode 2 from Mode 4. This constituted a violation of Limiting Condition for Operation (LCO) 3.0.4.
+This event is also reportable in accordance with 10 CFR 50.73(a)(2)(v)(D), as an event or condition that
+could have prevented the fulfillment of a safety function needed to mitigate the consequences of an
+accident. Brunswick EDG capacity is such that any three of the four diesels can supply the required loads
+for the safe shutdown of one unit and a design basis accident on the other unit without offsite power. Thus,
+with EDG-1 and EDG-3 inoperable, a loss of safety function also occurred. It has been determined that
+EDGs 2 and 4 were also inoperable, at various times, for surveillance testing and associated activities.
+These conditions are encompassed by the simultaneous inoperability of EDG-1 and EDG-3 and, as such,
+do not constitute separate conditions that could have prevented the fulfillment of a safety function.
+Event Description
+On February 7, 2016, at 1312 EST, BSEP Unit 1 was in Mode 1 during end-of-cycle coastdown. At that
+time, an event occurred, as reported in Brunswick LER 1-2016-001 (ADAMS accession number
+ML16104A391), which resulted in a loss of offsite power (LOOP) to Unit 1 and the start of all four
+emergency diesel generators (EDGs) [EK] on both units. Diesels EDG-1 and EDG-2 then tied to Unit 1
+emergency buses [EB] E1 and E2 as designed. The LOOP did not exist on Unit 2, so its EDGs did not tie
+NRC FORM 366A (06-2016) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2017 - 001 - 000
+NARRATIVE
+to Unit 2 emergency buses. Unit 1 loads supplied from E1 and E2 were powered successfully until normal
+power was restored at 1628 EST on February 7, 2016.
+During operation of EDG-1, oscillation in the fuel rack was noted. Maintenance and Engineering personnel
+observed the EDG and drew the preliminary conclusion that the oscillations were not out of the acceptable
+range for a partially loaded EDG operating in isochronous mode (i.e., operating independently of the grid
+such that engine speed and bus frequency are controlled solely by the engine governor system). Later, it
+was noted that the oscillations appeared to increase as load increased and stopped when EDG-1 was
+shifted into the droop mode (i.e., able to be operated in parallel with the electric power grid) just before
+being shut down.
+Following the event, operating data showed that EDG-1 had started and loaded within the required
+10 seconds. It successfully supplied the loads on its emergency bus throughout the LOOP event. The
+frequency oscillations on the E1 bus were found to be between 59.7 Hz and 60.5 Hz which is well within
+the TS limits of 58.8 Hz to 61.2 Hz. Loads supplied by EDG-1 had performed their safety function, and no
+intervention by operators was needed at any time. The oscillations were still considered to be within the
+range of acceptable behavior for a partially loaded EDG. Therefore, based on the actual performance of
+EDG-1 during the LOOP, it was initially concluded that the EDG had remained fully capable of fulfilling its
+safety function and was therefore operable. Consequently, no action was taken at that time to identify a
+problem and to correct the oscillations.
+On March 2, 2016, a surveillance was performed which tests the EDG-1 response to a simulated LOOP
+and a loss of coolant accident (LOCA). During this test, EDG-1 is operated in isochronous mode, and
+speed and frequency oscillations were again observed. The oscillations were of the same magnitude as
+before and stopped when control was shifted into the droop mode prior to shutting down the EDG. It was
+observed that bus voltage and frequency operated within parameters required by TS 3.8.1.
+On March 6, 2016, a newly installed governor system was tested on EDG-1, following installation as part of
+a preplanned upgrade of the EDG controls. With the new governor installed, speed and frequency
+oscillations were eliminated and have not recurred. The system was declared operable at 0151 EST on
+March 9, 2016.
+Due to the uncertainty of the postulated effect of the speed and frequency oscillations on EDG-1 at full
+load, EDG-1 has been determined to be inoperable.
+Event Cause
+The cause of this event has not been conclusively determined. Since the governor replacement
+eliminated the speed/frequency oscillations, it’s concluded that the cause was located within the governor
+system. However, examination by on-site personnel and extensive testing by the manufacturer of the
+governor have not been able to determine a failure within the governor that could account for the behavior
+of the system. The other three EDGs at BSEP have not exhibited similar speed and frequency
+oscillations.
+NRC FORM 366A (06-2016) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) 05000-325 YEAR NUMBER NO.
+Unit 1
+2017 - 001 - 000
+NARRATIVE
+Safety Assessment
+Speed and frequency oscillations in EDG-1 were first observed during a LOOP event on February 7, 2016,
+when emergency busses E1 and E2 were being powered by EDG-1 and EDG-2. Only EDG-1 exhibited
+oscillations. The two EDGs supply power to independent buses and therefore do not affect each other. The
+magnitude of the oscillations on EDG-1 was observed to be between 59.7 Hz and 60.5 Hz, which was well
+within the bounds of TS Surveillance Requirement 3.8.1.2 of greater than or equal to 58.8 Hz and less than
+or equal to 61.2 Hz. EDG-1 successfully powered all required loads during the actual LOOP event, up to a
+peak loading during the event of 2650 KW. No intervention by operators was needed at any time to control
+the oscillations or to protect any equipment powered by EDG-1. During the LOOP/LOCA test conducted
+on March 2, 2016, the loading on the bus was approximately the same as that experienced during the
+actual LOOP event of February 7, 2016. Nonetheless, the magnitude of the oscillations remained
+approximately +/-0.4 Hz and remained within a peak power value of approximately 2840 KW. By
+comparison, the EDG is designed for continuous operation at a maximum of 3500 KW, and for up to 2000
+hours of operation at 3850 KW. Consequently, safe operating limits for EDG-1 were never challenged, and
+EDG-1 was shown by both testing and an actual event response to be capable of powering loads expected
+in the event of an LOOP/LOCA event. In the event that an additional source of standby onsite alternating
+current (AC) power had been needed, the site’s supplemental emergency diesel generator was available
+throughout the entire event.
+Based on this analysis, this event had no adverse impact on the health and safety of the public.
+Corrective Actions
+The governor for EDG-1 was replaced on March 6, 2016, as part of a planned upgrade. The governor
+system replacement included in its scope all of the speed control components and connections which are
+suspected of being capable of producing the oscillations that were observed. Since the oscillations have
+not recurred since that time, it is concluded that the source of the control instability has been eliminated by
+the replacement and no further corrective actions are planned.
+Previous Similar Events
+No events have occurred in the past three years in which an emergency diesel generator was made
+inoperable because of a problem with its governor system.
+Commitments
+This report contains no new regulatory commitments.
+NRC FORM 366A (06-2016) Page 5 of 5

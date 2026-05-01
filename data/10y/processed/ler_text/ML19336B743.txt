@@ -1,0 +1,329 @@
+nm
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+December 2, 2019
+10 CFR 50.73
+10 CFR 50.4(a)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 2
+Renewed Facility Operating License No. DPR-52
+NRC Docket No. 50-260
+Subject: Licensee Event Report 50-260/2019-003-00
+The enclosed Licensee Event Report provides details of an automatic reactor scram due to
+Intermediate Range Monitor noise. The Tennessee Valley Authority is submitting this
+report in accordance with Title 10 of the Code of Federal Regulations 50.73(a)(2)(iv)(A), as
+an event that resulted in an automatic actuation of the Reactor Protection System.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-260/2019-003-00 - Automatic Reactor Scram during
+Startup due to Intermediate Range Monitor Noise.
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 2
+Licensee Event Report 50-260/2019-003-00
+Automatic Reactor Scram during Startup due to Intermediate Range Monitor Noise
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+{. ~#" ~ '"'£011(. .. .., . ~. LICENSEE EVENT REPORT (LER) i ( n T d -2 u s F tr 4 y 3 . ) S , U en .S d . c N o u m cl m ea e r n R ts e g re u g la a t r o d r i y n g C o b m ur m de is n s io e n st , i m W a a t s e h t in o g t t h o e n , I D nf C or 2 m 0 a 5 t 5 io 5 n - 0 S 0 e 0 r 1 v , i o c r e s b y B e r - a m nc a h il
+to Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+~.., ,.,..,, ....... y,#~ Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+05000260
+Browns Ferry Nuclear Plant, Unit 2 1 OF 6
+4. Title
+Automatic Reactor Scram during Startup due to Intermediate Range Monitor Noise.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year
+Number No.
+Month Day Year N/A N/A
+Facility Name Docket Number
+10 01 2019 2019 - 003 - 00 12 02 2019
+N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+2
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) □ 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10. Power Level □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(v)(A) □ 73.71(a)(4)
+□ 20.2203(a)(2)(iii) □ 50.36(c)(2) □ 50.73(a)(2)(v)(B) □ 73.71(a)(5)
+□ 20.2203(a)(2)(iv) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(C) □ 73.77(a)(1)
+0 □ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(vii) □ 73.77(a)(2)(ii)
+□ 50.73(a)(2)(i)(C) □ OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact ITe lephone Number (Include Area Code)
+Baruch Calkin, Licensing Engineer (256) 614-6713
+13. Complete One Line for each Component Failure Described in this Report
+Reportable to
+Cause System Component Manufacturer Cause System Component Manufacturer Reportable to ICES
+ICES
+E IG CBL GEH Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□ Yes (If yes, complete 15. Expected Submission Date) ~ No N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On October 1, 2019, at approximately 0307 Central Daylight Time (CDT), Browns Ferry Nuclear Plant (BFN)
+Unit 2 received a reactor scram signal from less than 1% power that originated from the Neutron Monitoring
+System. There were no complications associated with this scram. All required safety systems functioned as
+designed. The initiating condition was discovered to be a scram signal due to electrical noise induced when
+the pushbutton was depressed for driving Source Range Monitors (SRMs) C and D out concurrently.
+On October 1, 2019, at approximately 0605 CDT, Operations personnel completed Event Notification 54302
+to the NRC.
+The root cause of this event was that BFN engineering and leadership demonstrated weaknesses in risk
+perception related to the failure to advocate for and implement a permanent solution to the long standing
+Intermediate Range Monitor (IRM) noise susceptibility issue. Specifically, the IRM system design is not
+robust enough to mitigate the effects of noise intrusion. Corrective actions which will reduce or mitigate the
+probability of recurrence are to implement a process to manage the risk of identified equipment vulnerabilities;
+to implement time constant modifications to BFN Units 1, 2, and 3 which will make the system more robust
+against noise spiking; and to revise the Bridging and Mitigation Strategy Development procedure to explicitly
+require review of OE during bridging or mitigation strategy development.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2019 - 003 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 2, was in Mode 2 at approximately 0
+percent power.
+II. Description of Event
+A. Event Summary
+On October 1, 2019, at approximately 0307 Central Daylight Time (CDT), BFN Unit 2 received a
+reactor scram signal from less than 1% power that originated from the Neutron Monitoring System
+(NMS) [EIIS IG]. There were no complications associated with this scram. At approximately 0315
+CDT, Operations personnel ceased reactor start-up, and placed the reactor in MODE 4 at
+approximately 0606 CDT. BFN Unit 2 began complex troubleshooting, with Maintenance
+personnel performing cable [EIIS CBL] characterization (CHAR) testing of Intermediate Range
+Monitor (IRM) [EIIS RR] cables as well as Source Range Monitor (SRM) drive [EIIS DRIV] motor
+[EIIS MO] testing. The initiating condition was discovered to be an invalid scram signal due to
+electrical noise induced when the pushbutton was depressed for driving SRMs C and D out
+concurrently.
+On October 1, 2019, at approximately 0605 CDT, Operations personnel completed Event
+Notification (EN) 54302 to the NRC.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code of
+Federal Regulations 50.73(a)(2)(iv)(A), as an event that resulted in an automatic actuation of the
+Reactor Protection System (RPS).
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this
+event.
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+September 30, 2019, at 2356 CDT Unit 2 entered MODE 2.
+October 1, 2019, at 0255 CDT Unit 2 critical.
+October 1, 2019, at 0307 CDT Unit 2 received an automatic reactor scram.
+October 1, 2019, at 0605 CDT Completed EN# 54302 to the NRC.
+October 1, 2019, at 0606 CDT Unit 2 entered MODE 4.
+NRC FORM 366A (04-2018) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2019 - 003 - 00
+NARRATIVE
+D. Manufacturer and model number of each component that failed during the event
+The components found to be degraded during the event were under-vessel extension cables for
+IRMs D, E, G, and H. BFN replaced General Electric (GE) Reuter Stokes IRM cables, part
+number RS-E2-0067-002; and GE cable connectors, part number RS-E3-0048.
+E. Other systems or secondary functions affected
+This event was an uncomplicated scram, and did not affect any other systems or functions.
+F. Method of discovery of each component or system failure or procedural error
+Troubleshooting identified that the IRM had sent an invalid scram signal due to electrical noise
+induced when the pushbutton was depressed for driving SRMs C and D out concurrently.
+G. The failure mode, mechanism, and effect of each failed component
+The initiation of SRM drive motor movement created noise that was picked up by the IRMs under-
+vessel at degraded connectors.
+H. Operator actions
+Operations personnel ceased reactor start-up and placed the reactor in MODE 4.
+I. Automatically and manually initiated safety system responses
+Unit 2 RPS automatically actuated on a signal from the Neutron Monitoring System.
+III. Cause of the event
+The root cause of this event was that BFN engineering & leadership demonstrated weaknesses in
+risk perception related to the failure to advocate for and implement a permanent solution to the long
+standing IRM noise susceptibility issue.
+A. Cause of each component or system failure or personnel error
+1. The cause of the unexpected scram signal from the IRM system was that IRM system design
+is not robust enough to mitigate the effects of noise intrusion.
+2. The cause of the failure to advocate for and implement a permanent solution to the long
+standing IRM noise susceptibility issue was that internal and external operating experience
+(OE) which could have prevented this event was not recognized or implemented:
+NRC FORM 366A (04-2018) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2019 - 003 - 00
+NARRATIVE
+• Previous scrams due to IRM noise spiking in 2010, 2012, and 2017 were missed
+opportunities to evaluate the aggregate impact of the IRM noise susceptibility.
+• Significant Operating Experience Report (SOER) 10-2, 'Engaged, Thinking Organization',
+concluded that repetitive and long-standing issues in the industry were being tolerated,
+consequences of not addressing those issues were not being recognized, and significant
+OE was not being used effectively to prevent events.
+• Industry OE from Hatch Nuclear Plant and Industry Event Report L3-12-17, “Manual
+Reactor Scram Because of Erratic Intermediate Range Monitor Indications During Startup”
+discussed the time constant modification that, if implemented, could have prevented this
+event.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root cause was identified.
+IV. Analysis of the event
+The safety objective of the RPS is to provide timely protection against the onset and consequences of
+conditions that threaten the integrity of the fuel barrier. During this event, the RPS functioned as
+designed, initiating a scram upon receipt of HIGH-HIGH signals from IRMs D, F, G, and H.
+The safety objective of the NMS is to detect conditions in the core that threaten the overall integrity of
+the fuel barrier due to excessive power generation and to provide signals to the RPS, so that the
+release of radioactive material from the fuel barrier is limited.
+The IRM subsystem monitors neutron flux from the upper portion of the SRM range to the lower
+portion of the power range monitoring subsystems. The IRM subsystem has eight IRM channels,
+each of which includes one detector that can be physically positioned in the core by remote control.
+The detectors are inserted into the core for a reactor startup (MODE 2) and are withdrawn after the
+reactor mode selector switch is turned to RUN (MODE 1).
+During this event the IRM subsystem sent an unexpected scram signal after picking up electrical
+noise from the withdrawal of SRMs. The NMS system design introduces noise source paths under-
+vessel at the SRM/IRM detector and extension cable interface, at the inboard penetration where the
+extension cable connects, at the outboard penetration connector, in the junction boxes that house the
+preamplifier circuitry, and at the connectors at the SRM/IRM drawers in the main control room. The
+system is designed to amplify the small signals that are generated from neutron detection. The
+design of the system also has the effect of amplifying the electrical noise from these various sources.
+The combination of signal and noise during this event was higher than the HIGH-HIGH IRM trip set-
+point, which resulted in a trip of the IRMs and which generated a full scram signal in the RPS.
+NRC FORM 366A (04-2018) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2019 - 003 - 00
+NARRATIVE
+V. Assessment of Safety Consequences
+This event was an uncomplicated actuation of the RPS in which all systems other than the NMS
+functioned as designed to shut down the reactor and maintain safe shutdown conditions. This event
+did not result in the inoperability or unavailability of any system to provide their required safety
+functions. No Emergency Core Cooling Systems [EIIS BC] [EIIS BJ] [EIIS BO] or Reactor Core
+Isolation Cooling [EIIS BN] reactor water level initiation set points were reached. No impact to the
+health and safety of the public occurred from this event.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+There were no systems or components needed to shut down the reactor and maintain safe
+shutdown conditions that failed during the event.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shut down the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur while the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+This event did not result in the inoperability of any safety system train.
+VI. Corrective Actions
+Corrective actions for this event are being managed by the BFN Corrective Action Program under
+Condition Report 1553492.
+A. Immediate Corrective Actions
+1. Operations personnel ceased reactor start-up and placed the reactor in MODE 4.
+2. Entered Complex Troubleshooting.
+3. Vendor (AMS) performed CHAR testing of IRM cables.
+4. Performed SRM drive motor testing to validate the initiating condition.
+NRC FORM 366A (04-2018) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2019 - 003 - 00
+NARRATIVE
+B. Interim Corrective Actions
+1. Replaced D, E, G, and H under-vessel extension cables based on CHAR testing results.
+2. Implemented U2 IRM mean square analog module signal filter circuit change modification,
+to change the time constant in the IRM Mean Square Analog card [EIIS RM].
+3. Revised procedure for Unit Startup and Power Operation to note that SRM withdrawal has
+resulted in IRM spiking resulting in RPS actuations, and to recommend individual
+withdrawal of SRMs (rather than withdrawing multiple SRMs simultaneously).
+4. Initiated Work Orders (WOs) for CHAR testing of IRM cables at the next outages (WOs
+120834816, 120834817, and 120834819).
+C. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+1. Implement a process to manage the risk of identified equipment vulnerabilities.
+2. Implement U1 and U3 IRM mean square analog module signal filter circuit change
+modification, to change the time constant in the IRM Mean Square Analog card.
+3. Revise Bridging and Mitigation Strategy Development procedure to explicitly require
+review of OE during bridging or mitigation strategy development.
+VII. Previous Similar Events at the Same Site
+This event is an example of a repeat issue that was determined to have been OE preventable. A
+search of LERs and the BFN Corrective Action Program revealed multiple instances of reactor scram
+signals at BFN which were attributed to IRM noise. The most recent event, and the only one to have
+occurred in the past five years, was an IRM-related manual scram occurring on March 29, 2017. This
+event was reported as LER 260/2017-003-00. Identified events include the following:
+• LER 260/2017-003-00 – Manual Reactor Scram Initiated During Startup Due to Multiple Rods
+Inserting
+• LER 296/2012-004-01 – Manual Reactor Scram During Startup Due to Multiple Control Rod
+Insertion
+• LER 260/2010-003-00 – Reactor Scram Due to Closure of the Main Steam Isolation Valves and
+Subsequent Invalid RPS Scram From The Intermediate Range Monitoring System
+• LER 260/2004-002-00 – Automatic Reactor Scram During Startup Due To Spurious Upscale
+Trip On The Intermediate Range Monitors
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2018) Page 6 of 6

@@ -1,0 +1,181 @@
+Exelon Generation
+10CFR 50.73
+CCN: 18-60
+June 21, 2018
+U. S. Nuclear Regulatory Commission
+AT IN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 3
+Renewed Facility Operating License No. DPR-56
+NRC Docket No. 50-278
+Subject: Licensee Event Report (LER) 3-18-001
+Enclosed is a Licensee Event Report concerning a condition prohibited by Technical
+Specifications. In accordance with NEI 99-04, the regulatory commitment contained in this
+correspondence is to restore compliance with the regulations. The specific methods that
+have been planned to restore and maintain compliance are discussed in the LER. If you
+have any questions or require additional information, please do not hesitate to contact Jim
+Kovalchick at 717-456-3351.
+Patrick D. Navin
+Site Vice President
+Peach Bottom Atomic Power Station
+PDN/dnd/I R 4129583
+Enclosure
+cc: US NRC, Administrator, Region I
+US NRC, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+S. Gray, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Eslimaled burden per response lo comply wi1h lh~ mandalory cclleclion request 80 hours
+;,CJ"V" AEcul...,> LICENSEE EVENT REPORT (LEA) Repo~ed lessons learned are ilcorporaled inlo tie licensing process and led back lo
+induslry. Send comments regarding burden eslimale lo lhe lntonnalion Services Branch
+l~\ (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S Nuclear Regulalory Comnission, Washilglon, DC 20555-0001, or by e-mail lo
+. ~c . : , ~.... ... - ·· ~ :0 (See NUREG-1022, R.3 for instruction and guidance for completing this form D l A n f C f f o a c i 2 r c s 0 l , l 5 e 0 c N 3 ts . E R O e B s - I 1 o f 0 u 2 n a 0 :e 2 @ . m n ( e n 3 a : 1 n g 5 s o 0 v -0 , 1 u a 0 s n 4 e d ) d . l o O l l o h t e tic e D in e p s o o k l s O e M lfc a a e n n a r . g O e i m n tt l i o e c r e n m l o a f a li l n o n d n fo rm B c u a c d l li l o e g n c e t ! io a , n n d W R d a o e s e h g s n u l g a t l o o n n r o y t
+...;..,..-? +o~ httg://www.nrc.gov/reading-rm/doc·collections/nuregs/staff/sr1022/r3i) display a currenlly valid OMB ccntrol nunter. lhe NRC may not ccnduct or sponSOI, and a
+person~ not required to respond lo. the nformation coHectoo
+1. Facility Name 2. Docket Number 3.Page
+Peach Bottom Atomic Power Station Unit 3 05000278 1 OF 3
+4. Title
+Reactor Core Isolation Cooling System Pressure Switch Failure Results in Condition Prohibited by TS
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year 05000
+Number No.
+04 22 2018 2018 - 001 - 0 06 21 2018 Facility Name 05 D 0 o 0 c 0 ke t Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii){A) 50.73{a)(2)(viii)(A)
+D D D D
+20.2201{d) 20.2203(a)(3)(ii) 50.73{a)(2)(ii)(B) 50.7 3(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2){i) 50.36( c)( 1) (i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. Power Level 20.2203{a)(2)(ii) 50.36( c)( 1) (ii)(A) 50. 73(a)(2)(v)(A) 73.71{a)(4)
+D D D D
+20.2203(a){2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71{a){5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3){ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100% D 20.2203(a){2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D
+20.2203(a){2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73. 77(a)(2)(ii)
+D D
+50. 73{a)(2){i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact !Telephone Number (Include Area Code)
+James M. Kovalchick, Regulatory Assurance Manager 717-456-3351
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+D BN PS S382 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 4/22/18, during a routine surveillance test of the Reactor Core Isolation Cooling (RCIC) system, the RCIC
+pump turbine tripped shortly after startup. The trip was the result of an indication of high pressure in the
+RCIC turbine discharge line. Troubleshooting determined that a pressure switch that monitors turbine
+exhaust pressure had failed. Actual exhaust pressure during the test was at the expected pressure of
+approximately 12 psig.
+The pressure switch was replaced and the RCIC system was restored to an operable status on 4/23/18.
+There were no actual safety consequences as a result of this condition.
+NRG FORM 366 (04·2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Comnission, Washington, DC 20555·0001, or by e-mail to lnfocoflects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. II a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rmldoc-collections/nuregs/staff/sr1022/r3/l
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2018 - 001 0
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 3 was operating in Mode 1 at approximately 100% rated thermal power. There were no structures,
+systems or components out of service that contributed to this event.
+Description of Event
+On 4/22/18, during a routine surveillance test of the Reactor Core Isolation Cooling (RCIC) system
+[EllS:BN], the RCIC pump turbine [EllS:TRB] tripped approximately 28 seconds after startup, prior to the
+system reaching rated flow and pressure. Concurrent with the RCIC trip, an alarm was received for RCIC
+turbine high exhaust pressure. Local indication for the exhaust line pressure was at the expected pressure
+of approximately 12 psig, below the trip setpoint of 50 psig, which is active after a 15-second time delay.
+Operators verified proper system response following the RCIC turbine trip.
+The RCIC system was declared inoperable at approximately 9: 12 am on 4/22/18. Technical Specification
+(TS) 3.5.3 Condition A was entered, which requires the RCIC system to be restored to operable within 14
+days. Initial troubleshooting determined a RCIC turbine exhaust pressure switch [EllS:PS] had failed. At
+approximately 8:55 pm on 4/22/18, the pressure switch was electrically isolated, which made the RCIC
+system available to perform its function. After the switch was replaced, a surveillance test was successfully
+completed at 2:53 pm on 4/23/18, allowing the RCIC system to be returned to an operable status. The
+RCIC system was inoperable for approximately 29 hours and 19 minutes.
+Analysis of Event
+The RCIC system provides adequate core cooling and control of the Reactor Pressure Vessel (RPV) water
+level following an RPV isolation accompanied by a loss of coolant flow from the feedwater system. The
+High Pressure Coolant Injection (HPCI) system can also perform this function and was available during this
+event.
+The trip of the RCIC turbine on 4/22/18 was the result of an indication of high pressure in the RCIC turbine
+exhaust line. Two pressure switches monitor this pressure and are designed to shut down the turbine if
+discharge pressure reaches 50 psig. Actual exhaust pressure during the test was at the expected pressure
+of approximately 12 psig. Troubleshooting determined one of the two pressure switches had failed, which
+resulted in the trip of the RCIC pump turbine.
+The previous RCIC surveillance test was successfully completed on 1/16/18 which demonstrated
+operability. A degradation process, described in the Cause of the Event section of this report, had been
+occurring for a period of time. At some time between the successful test on 1/ 16/18 and the time at which
+the trip occurred during the surveillance test on 4/22/18, the degradation advanced to the point where an
+electrical short existed in the pressure switch. Although it is not known when this occurred, it is possible that
+NRG FORM 366A (04-2018) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Seivices Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555·0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Reguratory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2018 - 001 0
+NARRATIVE
+it occurred before 4/8/18, which would have resulted in the RCIC system being inoperable for a period of
+time exceeding the TS 3.5.3 allowed completion time of 14 days.
+As a result, this event is being reported in accordance with 1O CFR 50.73(a)(2)(i)(B), as a condition
+prohibited by Technical Specifications. If the RCIC system is inoperable, TS 3.5.3 Condition A requires the
+system to be restored to an operable status within 14 days. There is not firm evidence for when the failure
+occurred, however, for the purposes of conservative reporting per 1O CFR 50. 73, it is considered possible to
+have been greater than 14 days.
+Cause of the Event
+Further investigation determined the switch failed due to an electrical short within the switch. Water had
+entered the switch enclosure, which resulted in corrosion and degradation of the switch internals, causing
+the electrical short. A diaphragm normally isolates the switch from the instrument line that contains
+condensed steam from the RCIC turbine exhaust piping. A tear in the diaphragm resulted in a small amount
+of water entering the switch enclosure.
+Discoloration of the interior of the metal switch enclosure indicated the water had been in the switch for a
+period of time. The moisture caused corrosion and degradation of the switch, which resulted in a short
+circuit, causing the switch to fail.
+Maintenance practices for the switch were reviewed and were determined to be consistent with industry
+standards for this type of switch. In addition to the quarterly surveillance test, calibration of the switch is
+verified every 18 months. Calibration history was reviewed and the last time the switch was out of tolerance
+was in 2001. The switch was within normal tolerances with no adjustment necessary since that time. There
+were no adverse trends in the data reviewed.
+Corrective Actions
+The switch has been replaced. Maintenance performed for this type of switch is being evaluated to identify
+improvements that will identify this type of degradation. Additional corrective actions are documented in the
+corrective action program.
+Previous Similar Occurrences
+No previous similar occurrences have been identified.
+NRC FORM 366A (04-2018) Page _3_ of ....!_

@@ -1,0 +1,197 @@
+Exelon Generation
+10 CFR 50.73
+LG-17-155
+November 28, 2017
+U.S. Nuclear Regulatory Commission
+A TIN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 2
+Renewed Facility Operating License No. NPF-85
+NRC Docket No. 50-353
+Subject: LER 2017-007-00, Reactor Mode Change During RCIC Testing &
+Unit 2 LER Numbering
+Enclosed is a Licensee Event Report (LER) which addresses a Mode Change with Reactor
+Core Isolation Cooling (RCIC) Testing in progress at Limerick Generating Station (LGS) Unit 2.
+This LER is being submitted pursuant to the requirements of 1O CFR 50. 73(a)(2)(i)(B),
+Operation or Condition Prohibited by Technical Specifications.
+Additionally, this letter is informing the NRC per NUREG-1022, Revision 3, that LER numbers
+001, 002, and 003 for docket 05000353 will not be used.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Respectfully,
+~Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-/20¥17) \
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and led back to industry.
+~~ ... ... } LICENSEE EVENT REPORT (LER) N Se u n c d le a c r o m R m eg e u n l t a s t o r r e y g a C rd o i m ng m i b s u s r io d n e , n W es a ti s m h a in te g to to n , th D e C l n 2 lo 0 r 5 m 5 a 5 t - io 0 n 00 S 1, e rv o i r c e b s y B e ra -m nc a h il ( t T o - 2 ln F fo 4 c 3 o ), l le U c . t S s . .
+..~. ., .J> (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office al lnlormation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. II a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an inlormation collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 2 05000353 1 OF 3
+4. TITLE
+Reactor Mode Switch Change During RCIC Testing
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I SEQUENTIAL I REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO.
+- FACILITY NAME DOCKET NUMBER
+05 26 17 2017 - 007 00 11 28 17
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(aH3Hil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(aH3Hiil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4l so.13(a)(2)(iiil 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (aH4l
+D D D D
+20.2203(a)(2)(iiil so.3s(c)(2J 50.73(a)(2)(v)(B) 13.11 (a)(sJ
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(3)(iil 50.73(a)(2)(v)(C) 13.11(a)(1 l
+D D D D
+008 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.11(a)(2)(il
+D D D
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.11(a)(2)(iil
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT r ELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance (610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT {Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 26, 2017, during the Limerick Unit 2 reactor startup from a refueling outage, the reactor mode
+switch was placed in the RUN position (OPCON 1) with Reactor Core Isolation Cooling (RCIC) inoperable
+for required surveillance testing due to the Control Room Supervisor (CRS) failing to maintain adequate
+control of plant evolutions prior to placing the Mode switch to RUN. The station initially determined this
+operation was permitted based on TS 3.0.4.c. On September 29, 2017, it was subsequently determined TS
+3.0.4.c was inappropriately used for this evolution. Therefore, changing the Reactor Mode Switch from
+Startup to Run while RCIC was inoperable for testing was a TS violation and therefore reportable as an
+Operation or Condition Prohibited by TS under 10 CFR 50.73(a)(2)(i)(B). Operations will revise the 'Normal
+Plant Startup' procedure to incorporate lessons learned from this event. Additionally, a Shift Training
+Notification will be developed and distributed to ensure gaps and lessons learned are shared with the
+Operations organization.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+c."""""'ov,
+( t.., .:·. .. 1,, comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+!(·~ LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\f.~.~..~.;
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Attairs,
+NEOB-10202, (3150-0104), Office of Managemenl and Budget, Washington, DC 20503. If a means
+used to impose an Information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collectionslnuregslstafflsr10221r3/) collect1on.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2017 - 007 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 2 was in Startup and being placed in the Run (Operational
+Condition (OPCON) 1) position at the time of the event. Reactor Core Isolation Cooling (RCIC) was
+inoperable for testing. There were no other structures, systems, or components inoperable at the
+time of the event that contributed to the event. There were no component failures as part of the
+event.
+11. Description of the Event
+During the Reactor startup from the 2017 Refueling Outage, 2R14, the Reactor Mode Switch was
+placed iri the Run position while RCIC was inoperable for surveillance testing. The following is a
+timeline of events.
+On May 26, 2017 at 16: 10, Unit 2 RCIC was inoperable to perform the RCIC Comprehensive
+Surveillance Test, in accordance with Technical Specification (TS) 4.7.3.b.
+On May 26, 2017 at 16:37, Unit 2 Reactor Mode Switch was placed in the RUN position.
+Subsequently, the NRG questioned if TS allowed the station to change OPCONs while RCIC was
+inoperable. The station initially determined the condition was allowed based on TS 3.0.4.c, but that
+conclusion was later determined to be an inappropriate usage of the TS for the evolution.
+On September 29, 2017, the Station determined that changing the Reactor Mode Switch from Startup
+to Run while RCIC was inoperable was a TS violation.
+This evolution was determined to be an Operation or Condition Prohibited by TS and is reportable
+under 1O CFR 50.73(a)(2)(i)(B). This Licensee Event Report (LER) is being submitted within 60 days
+from the date of determination that this operation was prohibited by TS. Additionally, the NRG
+inspectors issued a Green Non-Cited Violation (NCV) as a result of this event. Specifically, a mode
+change from Startup to Run was made while TS 3.7.3 for RCIC was not met, and none of the
+allowances of TS 3.0.4 were met to allow the OPCON change. This NCV was issued as part of the
+third quarter integrated inspection, as documented in inspection report number 05000353/2017003.
+111. Analysis of the Event
+During the Unit 2 startup, RCIC was inoperable to perform the RCIC comprehensive test in
+accordance with TS 4.7.3.b. TS 4.7.3.b has an allowance that states the provisions of TS 4.0.4 are
+not applicable provided the surveillance is performed within 12 hours after reactor steam pressure is
+adequate to perform the test. TS 4.0.4 requires that the entry into an operating condition shall only
+be made when the TS LCO surveillance requirements have been met within their surveillance time
+interval. During the performance of the test, the plant OPCON was changed from Startup to Run.
+The Station initially determined that the change was permitted by applying TS 3.0.4.c, since the TS
+LCO for RCIC was not met solely to perform the surveillance testing. Subsequent review concluded
+NRC FORM 366A (04-2017) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Ott1cer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregslstaff/sr1022/r3/\ collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2017 - 007 - 00
+NARRATIVE
+that this determination was not correct. Specifically, TS 3.0.4 states that when an LCO is not met,
+entry into an operational condition shall only be made in accordance with TS 3.0.4.a, 3.0.4.b, or
+3.0.4.c. However, the conditions for TS 3.0.4.a, 3.0.4.b, and 3.0.4.c are not applicable to TS 3.7.3.
+IV. Safety Consequence
+There was no actual safety consequence associated with this event. The RCIC system is a high
+pressure coolant makeup system that is required for safe shutdown of the reactor whenever the
+reactor is isolated from its normal heat sink at elevated temperatures and pressures. TS Bases 3.7.3
+identify that there is an increased risk associated with entering a mode with an inoperable RCIC
+subsystem. However, with the RCIC system inoperable, adequate core cooling is assured by the
+High Pressure Coolant Injection (HPCI) system, which was operable at the time, and therefore
+minimizes the safety significance of changing modes with RCIC inoperable.
+V. Cause of the Event
+The cause of the event was the Control Room Supervisor (CRS) failed to maintain adequate control
+of plant evolutions prior to placing the Mode switch to RUN.
+Per TS Surveillance 4.7.3.b, the RCIC surveillance test must be completed within 12 hours of
+reaching adequate pressure. Based on past experiences, the Operations crew focused on ensuring
+the surveillance test was started as soon as possible after reaching adequate pressure to run the test.
+Concurrently, the plan for completing the final steps of the Operations Procedure for "Limerick Start
+Up Review'' changed, causing a delay in changing OPCONs, as the RCIC test was initiated. The
+CRS did not adequately coordinate the two activities.
+VI. Corrective Actions Completed/Planned
+Performance management actions were applied for those personnel directly involved with the event.
+Operations will revise the 'Normal Plant Startup' procedure to incorporate lessons learned from this
+event to ensure effective coordination during future plant startups.
+A Corrective Action Program (CAP) assignment was created to develop a Shift Training Notification to
+be distributed to ensure gaps and lessons learned are shared with the Operations organization.
+VII. Previous Similar Occurrences
+There have been no previous similar occurrences of changing OPCONs with RCIC or any Emergency
+Core Cooling System (ECCS) equipment inoperable at LGS in the last 5 years.
+NRC FORM 366A (04-2017) Page _3_ of _3_

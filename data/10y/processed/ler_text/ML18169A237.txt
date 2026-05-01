@@ -1,0 +1,289 @@
+Exelon
+Generation
+10 CFR 50.73
+LG-18-078
+June 18, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2018-003-00, High Pressure Coolant Injection (HPCI) lnoperability due to
+Main Pump Inboard Seal Leak
+Enclosed is a Licensee Event Report (LER) which addresses the inoperability of the High
+Pressure Coolant Injection (HPCI) system during surveillance testing at Limerick Generating
+Station (LGS), Unit 1.
+This LER is being submitted pursuant to the requirements of 1O CFR 50.73(a)(2)(v)(D), any
+event or condition that could have prevented the fulfillment of the safety function of structures or
+systems that are needed to mitigate the consequences of an accident.
+Additionally, this LER is being submitted pursuant to the requirements of 1O CFR
+50.73(a)(2)(i)(B), Operation or Condition Prohibited by Technical Specifications.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (61 O) 718-3400.
+Respectfully,
+~
+Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(02-2018)
+Estinated burden per response to comply with th~ mandatory collect~n request 80 hours
+~,.v""'c",. .
+>
+LICENSEE EVENT REPORT (LER)
+S
+R
+e
+e
+n
+p
+d
+o rte
+c
+d
+o
+l
+r
+e
+rr
+s
+n
+s
+e
+o
+n
+n
+t
+s
+s
+lea
+re
+rn
+g
+e
+a
+d
+td
+a
+in
+re
+g
+inc
+b
+o
+u
+lJ
+rd
+lO
+en
+ra led
+e s
+in
+ti
+t
+n
+o
+a
+t
+t
+h
+e
+e lic
+to
+e ns
+1
+in
+he
+g pr
+ln
+o
+f
+c
+o
+e
+rm
+ss
+a t
+a
+1
+n
+0
+d
+n
+fed
+S e
+b
+r
+a
+v
+c
+ic
+k
+e
+t
+s
+o in
+B
+d
+r
+u
+a
+s
+n
+l
+c
+ty
+h
+/~'~o~ (See Page 2 for required number of digitslcharacters for each block) (T-2 F43). U.S Nuclear Regulatory Comm~sion. Washiigton. DC 20555-0001, or by e-mai
+.. ~ .. ....... " ~. I V _. ! 0 e (See NUREG-1022, R.3 for instruction and guidance for completing this form t W R o e a g l s n u h l l o a ii c t g o o t r o l y le n c , t A s D f f R C ai e r 2 s s 0 o 5 u 0 n N 3 : E e @ OB t n t - n 1 a : 0 g 2 m o 0 v 2 e , , a n a s ( n 3 d 1 u 5 s 1 0 e 0 - d 0 1 t t i 0 o e 4 ) i r D r;x e O > s s k ff e ic e O a f n fi c o e i f n r f . o M rm O an l a fi a t c i g o e e n m o c e f o n n t J e n c l a t o o n r o m d a d ! o B iln e u s d g a n e n o d t t
+'-+,, ./' http://www. n re.gov/reading-rm/doc-coll ect1onsln u regslsta ff ls r 10 22 lr3/) d~play a currently valid OMB control number. the NRG may not conduct or sponsor. and a
+person is no! required to respond to. !he information coRectiln
+1. Facility Name 2. Docket Number 3.Page
+Limerick Generating Station, Unit 1 05000352 OF 3
+4. Title
+High Pressure Coolant Injection (HPCI) lnoperability due to Main Pump Inboard Seal Leak
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+- - Facility Name Docket Number
+04 17 2018 2018 003 00 06 18 2018
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1 i D 20.2203(a)(4l D so.13(a)(2)(iiil D 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. Power Level 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4)
+D D D D
+20.2203(a)(2)(iiil so.36(c)(2) 50.73(a)(2)(v)(B) 13.11 (a)(5l
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3Hiil 50.73(a)(2)(v)(G) 13.77(a)(1)
+012 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) [8] 50. 73(a)(2)(v)(D) D 13.77(a)(2)(iil
+D 20.2203(a)(2)(vi) [8J 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 13.77(a)(2)(iii)
+D D
+50.73(a)(2)(i)(G) Other (Specify in Abstract below or in NRG Form 366A)
+,1
+12. Licensee Contact for this LEA
+Licensee Contact !Telephone Number (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance (610) 718-3400
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+A BJ p A391 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) [8] No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On April 17, 2018, the Unit 1 High Pressure Coolant Injection (HPCI) system was secured during
+surveillance testing due to a leak from the main pump inboard seal. Unit 1 HPCI System was isolated and
+declared inoperable at 1030.
+A retaining collar setscrew was not properly secured during reassembly of the HPCI inboard pump seal.
+The retaining collar captures a split ring that secures the mechanical seal sleeve in position. During
+surveillance testing, the seal sleeve moved out of position resulting in the inboard seal leak.
+Technicians performed a less than adequate inspection and did not ensure that the split ring was secured
+by the retaining collar. The individuals were coached and the procedure for a HPCI full pump rebuild was
+revised to include additional technical detail with technical hold points for pump seal reinstallation.
+NRG FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: ea hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43). U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Aesource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Ottice of Managemenl and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently vahd OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NAG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collectionslnuregs/staff/srl022/r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+VEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 003 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 1 was operating in Operational Condition (OPCON) 1 at 12
+percent power at the time of the event. There were no other structures, systems, or components
+inoperable that contributed to the event.
+11. Description of the Event
+On March 26, 2018 Unit 1 was shutdown for the refuel outage. During the refuel outage work was
+performed to repair a small leak on the HPCI Main Pump Seal.
+On April 15, 2018 the Unit 1 entered OPCON 2, Startup.
+At 051 O on April 16, 2018 with reactor pressure at 200 psig, Unit 1 HPCI was declared operable
+following the HPCI Operability Verification Surveillance Testing when no seal leakage was evident.
+At 0804 on April 17, 2018, the Unit 1 entered OPCON 1, Run.
+On April 17, 2018, with reactor pressure at 960 psig, the Unit 1 High Pressure Coolant Injection (HPCI)
+system was secured during surveillance testing due to a leak from the main pump inboard seal. Unit 1
+HPCI System was isolated and declared inoperable at 1030.
+Troubleshooting identified that a retaining collar was not properly secured with its setscrew during
+reassembly of Unit 1 High Pressure Coolant Injection (HPCI) Main Pump inboard seal. The retaining
+collar captures a split ring that secures the mechanical seal sleeve in position. During surveillance
+testing, the seal sleeve moved out of position resulting in the pump inboard seal leak.
+This condition is reportable under 1O CFR 50.73(a)(2)(v)(D) as an event that could have prevented
+fulfillment of a safety function of a system that is needed to mitigate the consequences of an accident.
+An eight (8) hour Emergency Notification System (ENS) notification (#53341) was completed at 1629
+hours on April 17, 2018.
+Following repair of the pump inboard seal, satisfactory post-maintenance testing, and surveillance
+testing, the Unit 1 HPCI system was declared operable at 1938 hours on April 17, 2018.
+Ill. Analysis of the Event
+Technicians performed a less than adequate inspection and did not ensure that the split ring was
+secured by the retaining collar. The individuals were coached and the procedure for a HPCI full pump
+rebuild was revised to include additional technical detail with technical hold points on pump seal
+reinstallation.
+NRG FORM 366A (04-2017) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collecbon request: 80 hours. Reported
+lessons learned are incorporated inlo the licensing process and led back to induslry. Send
+comments regarding burden estimate to the lnlormalion Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washinglon, DC 20555·0001, or by e-mail to
+CONTINUATION SHEET lnlocollecls.Resource@nrc.gov, and to the Desk Olficer, Olfice ol Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rmldoc-collectionsinureqslstall/sr1 D22/r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 003 - 00
+NARRATIVE
+Based on the indeterminate condition of the seal, HPCI past operability between 200 psig and rated
+reactor pressure could not be ensured. Although HPCI was operable based on the 200 psig HPCI
+Operability Verification Surveillance Testing when no seal leakage was evident, the past operability
+evaluation could not justify operability at the time the reactor mode changed at 0804 on 4/17/18.
+Therefore, this LER is also being submitted pursuant to the requirements of 10CFR 50.73(a)(2)(i)(B),
+Operation or Condition Prohibited by Technical Specifications.
+IV. Safety Significance
+There was no actual safety consequence associated with this event. The reactor core isolation cooling
+(RCIC) system and low-pressure Emergency Core Cooling Systems (ECCS) were available during
+surveillance testing.
+V. Cause of the Event
+Technicians performed a less than adequate inspection and did not ensure that the split ring was
+secured by the retaining collar.
+VI. Corrective Actions Completed/Planned
+The individuals were coached and the maintenance procedure for the HPCI full pump rebuild was
+revised to include additional technical detail with technical hold points on pump seal reinstallation.
+VII. Previous Similar Occurrences
+There were no previous similar occurrences in the past 5 years.
+VI 11. Component Data
+System: BJ High Pressure Coolant Injection System
+Component: Pump
+Component number: 10-P204
+Man uf actu rer: Flowserve
+Model number: DVMX
+Serial number: 701-S-0833
+NRC FORM 366A (04-2017)
+Page _3_ of _3_

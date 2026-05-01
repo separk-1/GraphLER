@@ -1,0 +1,184 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, New Jersey 08038-0236
+0 PSEG
+Nuclear LLC
+10CFR50.73
+LR-N18-0128
+NOV 2 0 2'018
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Licensee Event Report 2018-004-00, High Pressure Coolant
+Injection System Inoperable due to Failed Fuse.
+In accordance with 10 CFR 50. 73(a)(2)(v)(D), PSEG Nuclear LLC is submitting
+Licensee Event Report (LER) Number 2018-004-00, "High Pressure Coolant Injection
+System Inoperable due to Failed Fuse."
+If you have any questions or require additional information, please contact
+Mr. Thomas MacEwen at (856) 339-1097.
+There are no regulatory commitments contained in this letter.
+~r
+Edward T. Casulli
+Plant Manager
+Hope Creek Generating Station
+ttm
+Attachment: Licensee Event Report 2018-004-00
+LR-N18-0128 10CFR50.73
+Page 2
+cc: Mr. Daniel Dorman, Regional Administrator- Region I, NRC
+Mr. Jim Kim, Project Manager - US NRC
+Mr. Justin Hawkins, NRC Senior Resident Inspector - Hope Creek (X24)
+Mr. Patrick Mulligan, Manager IV, NJBNE
+Mr. Thomas MacEwen, Hope Creek Commitment Tracking Coordinator (H02)
+Mr. Lee Marabella, Corporate Commitment Tracking Coordinator (N21)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+r;P'uro,,, Reported lessons learned are incorporated into the licensing process and fed back to
+~~ 1'~ LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+.:.:.! , > ~ .°. ' (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+~ " ~ ~ J ol " c (See ( S N e U e R P E a G g - e 1 0 2 2 fo 2 r , r R e . q 3 u f i o re r d in n st u r m uc b ti e o r n o a f n d d ig g its u / i c d h a a n r c a e c t f e o r r s c f o o m r p ea le c t h in g b l t o h c is k ) f orm t R o e g ln u f la o t c o o r l y le ct A s f . f R a e ir s s o , ur N ce E @ OB nr - c 1 . 0 g 2 o 0 v 2 , , an (3 d 1 5 t 0 o - 01 th 0 e 4 ), D e O sk ff ic O e ffic o e f r , M O a f n fi a ce g em of e n I t n fo a r n m d a tio B n u dg a e nd t,
+,,,.'l'i'i<"" Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/readinq-rm/doc-collections/nureas/staff/sr1022/r3D
+display a currently valid OMS control number, the NRC may not conduct or sponsor, and a
+oerson is not reouired to resoond to the information collection.
+1. Facility Name 12. Docket Number • Page
+Hope Creek Generating Station 05000-354 1 OF3
+4. Title
+Hiah Pressure Coolant lniection Svstem lnooerable Due to Failed Fuse
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+09 26 2018 2018 -004 -00 11 20 2018
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D 20.2201 (b} D 20.2203(a)(3}(i) 0 50.73(a}(2)(ii)(A) D 50.73(a)(2)(viii}(A)
+1
+D 20.2201 (d) D 20.2203(a)(3)(ii) 0 50.73(a}(2}(ii)(B) D 50.73(a}(2)(viii}(B)
+D 20.2203(a}(1) D 20.2203(a}(4) D 50.73(a}(2)(iii) D 50.73(a}(2)(ix}(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1 }(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a}(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) 0 50.36(c)(1)(ii)(A) D 50.73(a}(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii} D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+100% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a}(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a}(2)(i)(A) [8J 50. 73(a}(2)(v)(D} D 73.77(a)(2}(ii)
+D 20.2203(a)(2}(vi) 0 50.73(a)(2)(i}(B) D 50.73(a}(2)(vii) D 73.77(a}(2}(iii)
+D 50.73(a}(2)(i}(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact rtephone Number (Include Area Code)
+!Thomas MacEwen, Principal Nuclear Engineer ~56-339-1097
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+x BJ LS R369 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) 18] No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On September 26, 2018, at 1530 the High Pressure Coolant Injection (HPCI) system became inoperable due to a
+failed fuse in channel 'A' of the system initiating logic. At the time of the failure Hope Creek was in Operational
+Condition 1 at 100% power. The failed fuse also affected the 'A' channel of the Core Spray and Low Pressure
+Coolant Injection (LPCI) sub-systems. The HPCI system can be initiated by either of two channels, designated as 'A'
+channel and 'C' channel. The 'C' channel of the HPCI system remained functional. The fault was isolated to a single
+component associated with the HPCI system high water level trip (level 8). With the fault isolated, power was
+restored to the remaining effected portions of the 'A' channel EGGS systems at 2101 on September 26, 2018.
+With power restored to the other circuits, the 'A' Core Spray and 'A' LPCI subsystems were restored to operable. The
+HPCI system remained inoperable in accordance with plant Technical Specifications. HPCI was restored to operable
+status on September 27, 2018 at 1755, following replacement of the effected component, a trip unit, associated with
+the 'A' channel high water level switch.
+These conditions are being reported in accordance with 10 CFR 50.73(a)(2)(v)(D) as a condition that could have
+prevented the fulfillment of a safety function.
+NRG FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3{) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Hope Creek Generating Station 05000-354 NUMBER NO.
+2018 -004 -00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor (BWR/4)*
+High Pressure Coolant Injection (BJ ) - EllS Identifier {BJ}
+Core Spray (BM) - EllS Identifier {BM}
+Low Pressure Coolant Injection (BO) - EllS Identifier {BO}
+*Energy Industry Identification System {EllS} codes and component function identifier codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURRENCE
+Event Dates: September 26, 2018
+Discovery Dates: September 26, 2018
+CONDITIONS PRIOR TO OCCURRENCE
+Hope Creek was in Operational Condition (OPCON) 1 - Power Operation, at 100% power.
+DESCRIPTION OF OCCURRENCE
+On September 26, 2018, at 1530 the High Pressure Coolant Injection (HPCI) {BJ} system became inoperable due to
+a failed fuse in channel 'A' of the system initiating logic. At the time of the failure Hope Creek was in Operational
+Condition 1 at 100% power. The failed fuse also affected the 'A' channel of the Core Spray and Low Pressure
+Coolant Injection (LPCI) sub-systems. The HPCI system can be initiated by either of two channels, designated as 'A'
+channel and 'C' channel. The 'C' channel of the HPCI system remained functional. The fault was isolated to a single
+component associated with the HPCI system high water level trip (level 8). With the fault isolated, power was
+restored to the remaining effected portions of the 'A' channel EGGS systems at 2101 on September 26, 2018.
+With power restored to the other circuits, the 'A' Core Spray and 'A' LPCI subsystems were restored to operable.
+The HPCI system remained inoperable in accordance with plant Technical Specifications. HPCI was restored to
+operable status on September 27, 2018 at 1755, following replacement of the effected component, a trip unit
+associated with the 'A' channel high water level switch. The HPCI system was inoperable for 26 hours and 25
+minutes.
+These conditions are being reported in accordance with 1O CFR 50. 73(a)(2)(v)(D) as a condition that could have
+prevented the fulfillment of a safety function.
+CAUSE OF EVENT
+The failed fuse was removed and a short circuit to ground was identified on the load side of the fuse. The effected trip
+unit modules were then removed one at a time until the module containing the HPCI high water level trip, 1 BJLS
+N693A-B21, was removed and the resistance increased, indicating that the short circuit was removed. The fuse and trip
+unit module were replaced and the system functions were restored.
+Analysis of the failed module found it to be working correctly during subsequent testing. Review of operating experience
+found a Part 21 notice, 1999-31-0 containing information that capacitor C25, connected across the de input power to
+the trip unit, has a potential to short circuit. Measurements made on the C25 capacitor found it to be open and outside
+of tolerance, reading 0.13 nanofarads instead of 1 microfarad. The capacitor age was within the date range identified in
+the Part 21 notice. Based on this, the likely cause of failure is a short circuit of capacitor C25 on trip unit 1 BJLS-N693A
+B21, HPCI high water level trip.
+NRG FORM 3668 (02-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMS control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3Q NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Hope Creek Generating Station 05000-354 NUMBER NO.
+2018 -004 -00
+There was one similar failure identified at Hope Creek in 1996. A search of industry operating experience (OE)
+identified eight failures in the industry since 1998. Based on the relatively low number of industry failures and the time
+that has passed since the part 21 was issued, this is considered to be a random failure.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no safety consequences as a result of this event.
+The operating crew responded correctly to the event. The event was within the analysis of UFSAR chapter 15. There
+was no release of radioactivity associated with this event.
+During the event, the ADS system, the 'B' Core Spray system and the 'B', 'C' and 'D' LPCI systems remained
+operable. The combination of operable low pressure ECCS pumps and the ADS system was sufficient to provide the
+required safety functions needed to protect the health and safety of the public.
+PREVIOUS EVENTS
+A review of Licensee Event Reports and the corrective action program for the past three years identified no LERs
+issued for similar conditions.
+CORRECTIVE ACTIONS
+The failed fuse and trip unit module were replaced and the system functions were restored.
+COMMITMENTS
+This LER contains no regulatory commitments.
+NRG FORM 366A (06-2016) Page 3 of 3

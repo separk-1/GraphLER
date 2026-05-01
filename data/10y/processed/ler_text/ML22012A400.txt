@@ -1,0 +1,162 @@
+10 CFR 50.73
+CCN: 22-01
+January 12, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2
+Subsequent Renewed Facility Operating License No. DPR-44
+NRC Docket No. 50-277
+Subject: Licensee Event Report (LER) 2-2021-003-00 Manual Reactor Scram due to
+Degrading Condenser Vacuum
+References: ENS 55575
+This subject report is being submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A) for
+manual actuation of the Reactor Protection System and automatic actuation of the Primary
+Containment Isolation System which affected containment isolation valves in more than one
+system.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Manager, Siobhan O’Dwyer at (717) 456-3047.
+Respectfully,
+Matthew J. Herr
+Site Vice President
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W. DeHaas, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor,
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 2 05000 277 1 OF 3
+4. Title
+Manual Reactor Scram due to Degrading Condenser Vacuum
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year
+Number No.
+Month Day Year
+05000
+11 14 2021 2021 - 003 - 00 1 12 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 079
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Siobhan O’Dwyer, Regulatory Assurance Manager 7174563047
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B WF PCV F052 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 11/14/2021 at 05:25 EST, a manual reactor scram was inserted on Unit 2 from 79 percent power due to degrading
+Main Condenser (EIIS: SG) vacuum. The loss of vacuum occurred due to an isolation of the Offgas System (EIIS:
+WF) on high Steam Jet Air Ejector discharge pressure and high Jet Compressor suction pressure. The manual
+reactor scram occurred with no complications and plant systems responded as expected. Unit 3 was unaffected. The
+scram resulted in an automatic Primary Containment Isolation System (PCIS)(EIIS: JM) Group II/III isolation. Upon
+initial investigation, it was identified that the valve positioner for the Jet Compressor Bypass Valve (EIIS: PCV) had a
+significant air leak which prevented the valve from closing. The root cause of the positioner failure was determined to
+be the use of low temperature soft parts in a high temperature environment. The soft parts within the failed positioner
+were replaced with higher-temperature rated components. Actions are in place to replace other low temperature soft
+parts within the Offgas System.
+There were no safety consequences as a result of the event. This report is made pursuant to
+10CFR50.73(a)(2)(iv)(A) for manual actuation of the Reactor Protection System (scram) (EIIS: JC) and automatic
+actuation of the PCIS which affected containment isolation valves in more than one system.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Peach Bottom Atomic Power Station, Unit YEAR NUMBER NO.
+05000- 277
+2
+2021 - 003 - 00
+NARRATIVE
+Plant Operating Conditions Before the Event
+Peach Bottom Atomic Power Station Unit 2 (PB2) was operating at approximately 100 percent power in MODE 1 at
+the beginning of the event. Reactor power was reduced to 79 percent prior to inserting the manual scram. There
+were no structures, systems or components (SSC) that were inoperable at the start of the event that contributed to
+the event.
+Failed Component Information
+Model Number: Design ES Type
+Description: 2” Design ES control valve, 657 Actuator, 3582 Positioner
+Manufacturer: Fisher Controls International
+Type: Pressure Control Valve
+Event Description
+On 11/12/2021, an alarm was received in the Main Control Room for high pressure in the Unit 2 Offgas Jet
+Compressor suction. Adjustments to the pressure controller for the Jet Compressor Bypass Valve were made, but
+were unsuccessful in lowering pressure, and the pressure setpoint for Offgas System isolation was reached.
+Operator actions to restore the Offgas System were unsuccessful and reactor power was lowered to control Main
+Condenser vacuum. In response to continued degradation of Main Condenser vacuum, a manual Reactor scram
+was inserted from 79 percent power on 11/14/2021 at 05:25 EST. The manual scram occurred with no complications
+and plant systems responded as expected. The scram resulted in an automatic PCIS Group II/III isolation, reactor
+water level was maintained with the Feedwater system (EIIS: SJ), and reactor pressure was maintained with the
+Electrohydraulic Control system (EIIS: JJ), with the Main Condenser available as the primary heat sink. Unit 3 was
+unaffected.
+This event was reported by Notification EN 55575 in accordance with 10CFR50.72(b)(2)(iv)(B).
+Upon initial investigation, it was identified that the valve positioner for the ‘A’ train Jet Compressor Bypass Valve had
+a significant air leak which prevented the valve from closing. This air operated valve is designed to close with air
+pressure and to fail open. The purpose of the valve is to maintain Jet Compressor suction pressure by controlling
+bypass steam supply to the suction of the Jet Compressors. After the reactor scram, the valve positioner was
+replaced and post maintenance testing was completed satisfactorily. The plant entered start-up on 11/15/2021 and
+reached 100% power on 11/16/2021.
+The root cause of the failure of the positioner was determined to be the use of low temperature soft parts in a high
+temperature environment. Analysis identified that the positioner failure was due to a degraded bellows o-ring and
+subsequent air leakage. The elastomer became embrittled to the point of failure, likely caused by heat/temperature
+aging. A high temperature environment existed when a steam leak occurred near the failed part in 2019.
+NRC FORM 366A (08-2020) Page 2 of 3
+A contributing cause to this failure was a misclassification of the equipment as “non-critical” within the equipment
+reliability vulnerability reduction process, due to a perception that a redundant parallel Offgas train prevented this
+equipment from creating a single point vulnerability. This misclassification led to longer maintenance intervals and
+potential missed opportunities for further component failure risk analysis and mitigation. A second contributing
+cause was a failure to effectively identify and respond to the deteriorating trends of the Offgas system over time, as
+indicated by equipment maintenance history and system parameters.
+Safety Consequences
+The manual reactor scram was inserted without complication and resulted in no safety consequences. Plant SSC
+responded as expected. The reactor scram did not require Emergency Core Cooling System (ECCS) initiation and
+Main Steam Isolation Valves (MSIVs) remained open, preserving the Main Condenser as the primary heat sink.
+Corrective Actions
+The valve positioner was replaced at the time of the event, restoring full function to the Offgas system and
+supporting restart of Unit 2. The elastomers were replaced with higher-temperature rated components. Actions are
+in place to facilitate replacement of other low temperature soft parts within the system. Actions to address the
+contributing causes are to re-screen the Offgas system components for criticality to ensure appropriate
+maintenance, and to include this event as a case study within formal training for trend identification and risk
+assessment, given to plant leaders and technical staff.
+Previous Similar Events
+No scrams have occurred to due degrading condenser vacuum or similar valve failures within the last 10 years at
+Peach Bottom.
+NRC FORM 366A (08-2020) Page 3 of 3

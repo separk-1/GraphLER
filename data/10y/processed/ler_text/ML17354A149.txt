@@ -1,0 +1,302 @@
+H
+Nebraska Public Power District
+Always theTe when you need us
+. NLS2017099
+December 15, 2017
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2016-001-02
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2016-001-02.
+There are no new commitments contained in this letter.
+Sincerely,
+_Jr;;?-~ fP'"' 2/
+,v,.Dr .,,_ /.,, &,.,J 1 t '>/ z[I
+John Dent, Jr.
+Vice President Nuclear
+Chief Nuclear Officer
+/jo
+Attachment: Licensee Event Report 2016-001-02
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC -Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC -NRR Plant Licensing Branch IV via ICES entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+P.O. Box 98 / Brownville, NE 68321-0098
+Telephone: (402) 825-3811 / Fax: (402) 825-5211
+www.nppd.com
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+..¥ ..._ Estimated burden per response to comply with this mandatory collection request: 80
+/a. ... hours. Reported lessons learned are incorporated into the licensing process and fed back to
+a ii LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the lnfonmation Services Branch
+\., ..... ;-"' (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or bye-
+mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R 3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an infonmation collection does not dispiay
+http://www.nrc.gov/reading-rm/doc-co11ections/nuregs/staff/sr1022/r3/)
+a currently valid 0MB control number, the NRC may not conduct or sponsor, and a person is
+not required to respond to, the infonmation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Cooper Nuclear Station 05000298 1 of 5
+4. TITLE
+De-Energized High Pressure Coolant Injection Auxiliary Lube Oil Pump Caused by Relay Failure Results in Loss of
+Safety Function, a Condition Prohibited by Technical Specifications, and a 10 CFR Part 21 Report
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+REV FACILITY NAME DOCKET
+MONTH DAY YEAR YEAR !SEQUENTIAL' MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITY NAME DOCKET
+04 25 2016 2016 001 02 12 15 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+0 20.2201(b) 0 20.2203(a)(3)(i) 0 50. 73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) 0 50. 73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+1
+0 20.2203(a)(1) D 20.2203(a)(4) 0 50.73(a)(2)(ii) 0 50.73(a)(2)(ix)(A)
+0 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) 0 50.73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) 0 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50. 73(a)(2)(v)(B) D 73.71(a)(5)
+0 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) 0 50.73(a)(2)(v)(C) D 73.77(a)(1)
+.100 0 20.2203(a)(2)(v) 0 50. 73(a)(2)(i)(A) [81 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) [81 50.73(a)(2)(i)(B) 0 50.73(a)(2)(vii) D 73. 77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) [81 OTHER - 10 CFR Part 21
+I
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Jim Shaw, Licensing Manager (402) 825-2788
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+y
+B BJ RLY A160
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~ NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 25, 2016, while performing a walkdown of Control Room panels, it was noticed that the green indication light
+for High Pressure Coolant Injection (HPCI) auxiliary lube oil pump (ALOP) was not illuminated. A non-licensed
+operator was dispatched to the HPCI ALOP starter and reported that the local indication lights were not illuminated.
+HPCI was declared inoperable at 2117 Central Daylight Time (CDT) resulting in entry into Technical Specifications
+(TS) Limiting Condition of Operation 3.5.1, Condition C, HPCI System Inoperable.
+Investigation determined that the coil in the electrical relay for the ALOP, which had recently been replaced during a
+preventive maintenance window, had failed after 133 hours of service. The cause of the failure was determined to be
+the prior pre-installation checks performed by NuTherm on the relay were inadequate to prevent the type of infant
+mortality failure that occurred in this case. HPCI was declared operable at 1314 CDT on April 26, 2016, after the coil
+was replaced.
+This event is being reported as a loss of safety function due to HPCI being a single-train safety system, as a condition
+prohibited by TS and in accordance with 10 CFR Part 21.
+The potential safety consequences of this event were minimal due to both the limited duration the condition existed
+and the redundant/diverse core cooling systems which remained operable.
+l~. ---
+-NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-20.1,7,),,, .- Estimated burden per response to comply with this mandatory collection request: 80 hours,
+.... Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+\ ·~ ~.. ' . , .. , ) ~ LICENSEE EVENT REPORT (LER) c N o u m cl m ea e r n t R s e r g e u g l a a r to d r in y g C b o u m rd m e i n s si e o s n t , i m W at a e s h to in g t t h o e n , In D fo C r m 2 a 0 ti 5 o 5 n 5 - S 00 e 0 rv 1 i , c e o s r B b ra y n e c - h m a (T il - t 2 o F43), U.S.
+CONTINUATION SHEET lnfocollects,Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R 3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid 0MB control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection,
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2016 -001 -02
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operation, at 100 percent steady state power at the
+time the condition was identified. Service Water Pump "B" and Service Water Booster Pump "B" were
+inoperable when High Pressure Coolant Injection (HPCI) was inoperable. No other emergency core
+cooling systems were inoperable during the event.
+BACKGROUND
+The HPCI System (EIIS:BJ) provides protection to the core for the case of a small break in the reactor
+coolant pressure boundary which does not result in rapid depressurization of the reactor vessel
+(EIIS:RPV). The HPCI System permits the nuclear plant to be shutdown while maintaining sufficient
+reactor vessel water inventory until the reactor vessel is depressurized. The HPCI System continues to
+operate until reactor vessel pressure is below the pressure at which Low Pressure Coolant Injection
+(EIIS:BO) operation or Core Spray System (EIIS:BM) operation can be used to maintain core cooling.
+HPCI consists of a steam turbine assembly (EIIS:TRB) driving a multi-stage booster and main pump
+assembly (EIIS:P) and system piping, valves, controls and instrumentation. The HPCI turbine is driven
+by steam from the reactor which is generated by decay and residual heat.
+A control governor (EIIS:65) receives a HPCI flow signal and adjusts the turbine steam control valve
+(EIIS:SCV) so that HPCI design pump discharge flow rate is obtained. The flow signal used for
+automatic control of the HPCI turbine is derived from a differential pressure measurement across a flow
+element (EIIS:FE) in the HPCI pump discharge pipeline. The governor controls the pressure applied to
+the hydraulic operator of the turbine control valve, which, in turn, controls the steam flow to the HPCI
+turbine.
+Upon receipt of the actuation signal, the auxiliary oil pump starts, providing hydraulic pressure for the
+turbine stop valve and turbine control valve hydraulic operator. The flow signal will ramp the control
+governor until rated flow is achieved. As hydraulic oil pressure is developed, the turbine stop valve and
+the turbine control valve open simultaneously and the turbine accelerates toward the speed setting of the
+control governor. As HPCI flow increases, the flow signal adjusts the control governor setting so that
+design flow is maintained'.
+EVENT DESCRIPTION
+On April 25, 2016, while performing a walkdown of Control Room panels, a licensed operator noticed that
+the green indication light for the HPCI auxiliary lube oil pump (ALOP) was not illuminated. The bulb in the
+Control Room panel was replaced, but did not illuminate. A non-licensed station operator was
+subsequently sent to the HPCI ALOP starter to verify local indications and found the local indication lights
+were not illuminated on the starter rack, indicating that the ALOP starter had lost power. The ALOP is
+required to start in order to open the steam admission valves for the HPCI turbine. An attempt was made
+in the Control Room to start the ALOP, but it did not start.
+NRC FORM 366A (04-2017) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED BYOMB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION
+Estimated burden per response to comply with this mandatory collection request: 80
+(04-2017) hours. Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+CONTINUATION SHEET Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503.
+If a means used to impose an information collection does not display a currently valid 0MB
+(See NUREG-1022, R 3 for instruction and guidance for completing this form control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+htto://www.nrc.aov/readina-rm/doc-collections/nureas/staff/sr1022/r3/) the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2016 -001 -02
+NARRATIVE
+Operations then declared HPCI inoperable at 2117 Central Daylight Time (CDT), resulting in entry into
+Technical Specifications Limiting Condition of Operation 3.5.1, Condition C, HPCI System Inoperable.
+Investigation revealed that the electrical relay (27) [Allen Bradley 700DC Type P relay] for the ALOP had
+been replaced on April 19, 2016, during the recent three-year required preventive maintenance window.
+After various checks were made, it was discovered that the coil within the relay had failed after 133
+hours of service. The relay is expected to provide three years of reliable service between replacements.
+As such, it was concluded that the coil had sustained an infant mortality type failure.
+The dedication process used by the vendor of the relay, Nu Therm, at the time the relay w~s purchased
+by CNS, consisted of verifying the pickup antj dropout voltages, and verifying contact resistances. After
+purchase of the relay, but prior to installation, Nu Therm revised their dedication process to require
+additionally cycling the relay 30 times in addition to the previous voltage and resistance checks.
+The relay that failed was replaced with a new relay that was purchased in September 2013 from a
+different lot than the failed relay purchased in March 2011. After satisfactory completion of post work
+testing of the ALOP, HPCI was declared operable at 1314 CDT on April 26, 2016.
+BASIS FOR REPORT
+The HPCI System is a single train safety system. This condition is reportable in accordance with 10 CFR
+50.73(a)(2)(v) as "any event or condition that could have prevented the fulfillment of the safety function
+of structures or systems that are needed to ... (D) Mitigate the consequences of an accident." The
+condition is also reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS
+since, due to HPCI inoperability, the verification of the Reactor Core Isolation Cooling (RCIC) system
+operability exceeded the 1 hour required completion time plus the 12 hour completion time to be in Mode
+3 if this verification is not completed. RCIC was verified operable by administrative means concurrent
+with the HPCI inoperability declaration as reported in Event Notification Number 51882.
+10 CFR PART 21 REPORT
+Name and address of the individual (or individuals) informing the Nuclear Regulatory Commission:
+John Dent, Vice President-Nuclear and Chief Nuclear Officer
+Cooper Nuclear Station
+72676 648A Avenue
+Brownville, NE 68321
+The facility the dedication plan and basic component was supplied for which contained a defect:
+Cooper Nuclear Station
+72676 648A Avenue
+Brownville, NE 68321
+The basic component is: Allen-Bradley DC control relay, model number 700DC-P220Z2 and
+NuTherm Dedication Package 141-DD-01.
+NRC FORM 366A (04-2017) Page 3 of 5
+NRC FORM 366A u.s_ NUCLEAR REGULATORY APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION
+Estimated burden per response to comply with this mandatory collection request 80
+(04-2017)
+hours. Reported lessons learned are incorporated into lhe licensing process and fed back to
+industry. Send comments regarding burden estimate lo lhe Information Services Branch (T-
+2 F43), U.S. Nuclear Regulalory Commission, Washington, DC 20555-0001, or by e-mail lo
+LICENSEE EVENT REPORT {LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulalory
+CONTINUATION SHEET Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503.
+If a means used lo impose an information collection does not display a currenlly valid 0MB
+(See NUREG-1022, R 3 for instruction and guidance for completing this form control number, lhe NRG may not conduct or sponsor, and a person is not required to respond to,
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station osooo- 298 NUMBER NO .
+..,..__ ____________________ _._ __________. ....__2_0_16_ _.__ __-0 _0_1 ____. ._-_0_2----11
+NARRATIVE
+The firm supplying the dedication plan and basic component which contained a defect is:
+NuTherm International, Inc_
+501 South 11th Street
+Mount Vernon, IL 62864
+The cause of the condition is an inadequate pre-installation test plan and defect of an Allen-Bradley
+control relay in a Nu Therm starter_ The relay failure appeared to be a fault caused by a manufacturing
+flaw that likely occurred due to a tensioning issue at the start of the coil wire winding process_ The
+dedication plan for the Allen-Bradley control relay was inadequate to identify the defect in the relay. The
+failed starter was associated with the HPCI auxiliary lube oil pump causing the HPCI system to be
+inoperable. The relay model is used in numerous other HPCI starters and in the reactor recirculation
+pump discharge valve starters. The dedication plan is specific to the Allen-Bradley DC control relay,
+model number 700DC-P220Z2; therefore, the population affected is the same as that of the relay
+installation listed below_ A review of the adequacy of other NuTherm dedication plans to identify a
+similar condition has been completed. The results of this review revealed one other applicable relay
+purchased from Nu Therm. The dedication for this relay performed more thorough testing on the coil
+than the dedication for the relay that failed, and provides reasonable assurance that the relay will
+perform its intended safety function. In addition, the CNS material's purchase order requirements were
+revised to ensure future procurements include the enhancements of additional cycling of the relay and
+the performance of dielectric strength testing on the relay coil. The loss of HPCI as a single train system
+is considered a substantial safety hazard, as defined by 10 CFR Part 21.
+The date on which the information of a defect was obtained was August 28, 2017. A Part 21
+assessment was completed on this date that determined the deviation constituted a defect in accordance
+with regulatory definitions. The initial 10 CFR Part 21 report was completed on August 28, 2017, in
+Event Notification Number 52934.
+There were ten relays of that model installed in the plant, located in the following starters:
+CNS-2-EE-STR-250HPCI ALOP (HPCI Auxiliary Lube Oil Pump)
+CNS-2-EE-STR-250HPCI CP (HPCI Condensate Pump)
+CNS-2-EE-STR-250HPCI GSE (HPCI Gland Seal Exhauster)
+CNS-2-EE-STR-250HPCI M014 (HPCI Turbine Steam Inlet Valve)
+CNS-2-EE-STR-250HPCI M019 (HPCI Injection Valve)
+CNS-2-EE-STR-250HPCI M020 (HPCI Injection Valve)
+CNS-2-EE-STR-250HPCI M021 (HPCI Test Line Valve)
+CNS-2-EE-STR-250HPCI M025 (HPCI Minimum Flow Valve)
+CNS-1-EE-STR-250DIV1 M053A (Recirculation Pump "A" Discharge Valve)
+CNS-2-EE-STR-250DIV2 M053B (Recirculation Pump "B" Discharge Valve)
+NRC FORM 366A (04-2017) Page 4of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED BYOMB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION
+Estimated burden per response to comply with this mandatory collection request: 80
+(04-2017)
+hours. Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+CONTINUATION SHEET Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503.
+If a means used to impose an information collection does not display a currently valid 0MB
+(See NUREG-1022, R 3 for instruction and guidance for completing this form control number, the NRG may not conduct or sponsor, and a person is not required to respond to,
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/J the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2016 -001 -02
+NARRATIVE
+The failed relay was replaced with a relay from a different batch by CNS maintenance on April 26, 2016.
+NuTherm revised their dedication process such that this type of failure will be detected. This action was
+completed on May 13, 2016. In addition, current pre-installation checks were reviewed to determine
+what is necessary to reasonably ensure that infant mortality failures are minimized. This action was
+completed by the CNS Design Engineering Department on May 25, 2016.
+There is no advice related to the defect or failure to comply about the facility, activity or basic component
+that has been, is being, or will be given, to purchasers or licensees.
+This event does not involve an early site permit.
+SAFETY SIGNIFICANCE
+This is a Safety System Functional Failure. There were no actual safety consequences associated with
+this event. The potential safety consequences of this event were minimal due to the limited duration the
+condition existed and the redundant/diverse core cooling systemswhich remained operable throughout
+the event. The HPCI system is an emergency core cooling system designed to inject water into the
+reactor vessel to provide core cooling. The total duration of inoperability, including the time prior to
+discovery of the condition was less than the 14 day Technical Specification Completion Time. During the
+time period of inoperability, other core cooling systems (Automatic Depressurization System, Core
+Spray, and Low Pressure Coolant Injection) were operable and would have adequately responded to a
+design basis event. The Reactor Core Isolation Cooling system was also operable during this event.
+CAUSE
+The root cause of the event was determined to be that the prior pre-installation checks performed by
+Nu Therm on the relay were inadequate to prevent the infant mortality failure that occurred in this case.
+CORRECTIVE ACTIONS
+Nu Therm revised their dedication process such that this type of failure will be detected. In addition,
+there are no relays from this lot in storage at CNS; however a check of maintenance records found that
+some of the relays from this lot are installed in the plant. These installed relays are well beyond the
+infant mortality period and have performed as expected.
+PREVIOUS EVENTS
+There have been no events reported in the last three years related to the HPCI ALOP.
+NRC FORM 366A (04-2017) Page 5 of 5

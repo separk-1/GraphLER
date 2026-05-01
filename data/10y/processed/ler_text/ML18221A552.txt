@@ -1,0 +1,245 @@
+(-, DUKE William R. Gideon
+Vice President
+ENERGY~
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+August 9, 2018
+Serial: RA-18-0088
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2018-003
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager - Regulatory
+Affairs, at (910) 832-2487.
+Sincerely,
+) < ~ ~
+~r
+William R. Gideon
+MAT/mat
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 4
+4. Title
+Setpoint Drift in Main Steam Line Safety/Relief Valves Results in Two Valves Inoperable
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+06 11 2018 2018 - 003 - 00 08 09 2018 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Lee Grzeck, Manager – Regulatory Affairs (910) 832-2487
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+D SB RV T020 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On June 11, 2018, BSEP received the results of testing of eleven main steam line safety relief valves
+(SRVs) removed from Unit 1 during the spring 2018 refueling outage. Two of the eleven valves were
+found to have as-found lift setpoints of their pilot valves outside the +/-3 percent tolerance required by
+Technical Specification (TS) 3.4.3. TS 3.4.3 requires ten of the eleven installed SRVs to be operable.
+Since less than ten SRVs were operable, this event is being reported in accordance with
+10 CFR 50.73(a)(2)(i)(B) as operation prohibited by the plant’s TS. All 11 of the SRV pilot valves were
+replaced with certified spares before the startup of Unit 1.
+The direct cause of the out of tolerance as-found lift setpoints was corrosion bonding of the SRV pilot
+discs-to-the pilot seats. The root cause of the corrosion bonding was an inadequate procedure and work
+order instructions. Corrective actions include revising associated procedures to include sufficient detail to
+ensure consistent surface preparation and proper quality checks of surface condition are performed prior
+to platinum coating.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant YEAR
+05000325 NUMBER NO.
+(BSEP), Unit 1
+2018 - 003 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent of rated
+thermal power (RTP).
+Reportability Criteria
+Unit 1 Technical Specification (TS) 3.4.3 requires at least 10 of 11 main steam [SB] line safety/relief valves
+(SRVs) to be operable. Per Surveillance Requirement (SR) 3.4.3.1, each valve is required to open within
++/- 3 percent of its opening setpoint. As-found testing of the valves indicated that two of the valves had lift
+setpoints outside this tolerance. Consequently, the plant operated in a condition which is prohibited by the
+TS, that is, with fewer than the required number of SRVs having lift setpoints within the +/-3 percent
+tolerance. Therefore, the condition is being reported per 10 CFR 50.73(a)(2)(i)(B) as operation in a
+condition prohibited by the plant TSs.
+Event Description
+During the spring 2018 Unit 1 refueling outage, all 11 Model 7567F Target Rock Two-Stage pilot valve
+assemblies in the SRVs were replaced with certified spares. The removed SRV pilot valves were sent to
+National Technical Systems (NTS) to determine the as-found set pressure. On June 11, 2018, test results
+were reported to BSEP. The test results showed that two of the 11 valves actuated at pressures outside of
+the +/-3 percent tolerance allowed by TS 3.4.3. The test data for the valves found out of tolerance are shown
+below.
+As-Found Lift
+TS Setpoint Percent
+Valve ID Pressure
+(psig) Difference
+(psig)
+1-B21-F013B
+1,150 1,218 5.91
+S/N 1082
+1-B21-F013G
+1,130 1,225 8.41
+S/N 1081
+Event Cause
+The change in SRV lift setpoints resulted from corrosion bonding of the SRV pilot discs-to-the pilot seats.
+Corrosion bonding between the pilot disc and seat is an inherent problem with the two-stage SRV design
+used at BSEP. BSEP mitigates corrosion bonding of SRVs by coating each pilot disc surface with platinum.
+The integrity of the platinum coating is critical to mitigating corrosion bonding. The platinum coating of these
+SRVs was found to be degraded in large areas of the pilot disc, including the seating surface; which was
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant YEAR
+05000325 NUMBER NO.
+(BSEP), Unit 1
+2018 - 003 - 00
+NARRATIVE
+caused by circumferential machining marks in the substrate surface that led to increased circumferential
+cracking of the platinum coating.
+Based on the above, the root cause of the out of tolerance as-found lift setpoints was attributed to the lack of
+sufficient detail in a procedure and work order instructions to ensure consistent surface preparation and
+proper quality checks of surface condition prior to platinum coating.
+Safety Assessment
+The purpose of the safety/relief valves (SRVs) is to provide overpressure protection for the reactor coolant
+system. The as-found condition of the Unit 1 SRVs was compared to cases analyzed in the Brunswick Unit 1
+Cycle 21 Reload Safety Analysis Report (RSAR). Each as-found SRV was bounded by the opening
+pressures assumed in the analysis; therefore, the overall RSAR analysis bounds the overall as-found
+condition of the SRVs.
+The results from the RSAR analysis demonstrate that the pressure limits are not exceeded for the
+overpressurization events. Therefore, it is concluded that the Unit 1 Cycle 21 SRVs always remained
+capable of performing their safety function of preventing overpressurization of the reactor coolant system.
+Based on the foregoing analysis, it is concluded that this event had no adverse impact on nuclear safety.
+Corrective Actions
+The following corrective actions were completed.
+• The 11 Unit 1 SRV pilot assemblies were replaced with refurbished and certified spares during the 2018
+refueling outage.
+The following corrective actions are currently planned. Any changes to the corrective actions and
+schedules noted below will be made in accordance with the site's corrective action program.
+• Procedure 0CM-VSR509, “Main Steam Relief Valves Target Rock Model 7567 Air Operators and Pilot
+Assembly Disassembly, Inspection, and Reassembly,” will be revised to include additional guidance for
+pilot disc machining and preparation for platinum coating. The procedure revision is currently
+scheduled to be complete by October 22, 2018.
+Previous Similar Events
+A review of LERs for the past three years identified the following previous similar events associated with
+SRVs with as-found lift setpoints outside of TS allowable limits.
+• LER 2-2017-003, dated August 3, 2017, reported Unit 2 operation prohibited by TSs due to three of the
+eleven valves found with lift setpoints of their pilot valves outside the +/-3 percent tolerance required by
+TS 3.4.3.
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant YEAR
+05000325 NUMBER NO.
+(BSEP), Unit 1
+2018 - 003 - 00
+NARRATIVE
+• LER 2-2015-002, Revision 1, dated June 26, 2015, reported Unit 2 operation prohibited by TSs due to
+three of the eleven valves found with lift setpoints of their pilot valves outside the +/-3 percent tolerance
+required by TS 3.4.3.
+The direct cause of the events reported in these LERs was corrosion bonding. The disc preparation
+process continues to be refined to achieve optimal SRV performance. Previous corrective actions continue
+to be enhanced by industry best practices.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2017) Page 4 of 4

@@ -1,0 +1,214 @@
+Xcel Energy@ Prairie Island Nuclear Generating Plant
+1717 Wakonade Drive East
+Welch. MN 55089
+MAR 2 5 2016 L-PI-16-022
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Prairie Island Nuclear Generating Plant Units 1 and 2
+Dockets Nos. 50-282 and 50-306
+Renewed Facility Operating License Nos. DPR-42 and DPR-60
+Licensee Event Report 50-282/2016-002-00 Listed System Actuation- Motor-Driven
+Cooling Water Pump Auto-Start
+Licensee Event Report (LER) 50-282/2016-002-00 is enclosed. The LER describes an
+event in which the 121 Motor-Driven Cooling Water Pump (MDCLP) automatically
+started when stopping 22 Diesel-Driven Cooling Water Pump during overspeed trip
+post-maintenance testing (PMT). This condition is reported pursuant to 10 CFR
+50.73(a)(2)(iv)(A) as an event that resulted in manual or automatic actuation of an
+emergency service water system that does not normally run and that serves as ultimate
+heat sink. Plant procedures were since revised to preclude automatic start of a MDCLP
+during PMT.
+Summary of Commitments
+This letter contains no new commitment and no revision to an existing commitment.
+Thomas A Conboy
+Director of Site Operations
+Prairie Island Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure (1)
+cc: Administrator, Region Ill, USNRC
+Project Manager, Prairie Island, USNRC
+Resident Inspector, Prairie Island, USNRC
+State of Minnesota
+ENCLOSURE 1
+LICENSEE EVENT REPORT 50-282/2016-002-00
+4 Pages Follow
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+'t-4-.._>).. .t >.lf~"'4~'\. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~ ! \:_ ~ ., ~ ' ~ :. .< / t } LICENSEE EVENT REPORT (LER) B Se ra n n d c h c o ( m T- m 5 en F t 5 s 3) r , e g U a . r S d . i ng N u b c u le rd a e r n R e e s g t u im la a to te ry to C o t m he m is F s O io IA n, , W Pr a iv s a h c in y gt a o n n d , D In C fo r 2 m 0 a 5 t 5 io 5 n -0 0 C 0 o 1 l , le c o t r io n b s y
+... ,. ... 1'
+(See Page 2 for required number of internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of information and
+digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to respond
+to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Prairie Island Nuclear Generating Plant, Unit 1 05000 282 1 OF4
+4. TITLE
+Listed System Actuation - Motor-Driven Cooling Water Pump Auto-Start
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR IS E N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR F P A r C a I i L r I i T e Y I N s A la M n E d , Unit 2 0 DO 5 C 0 K 0 E 0 T 3 N 0 UM 6 B ER
+FACILITY NAME DOCKET NUMBER
+1 29 2016 2016 002 00 3 25 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §:(Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+MODE 1 (Unit 1) D 20.2201(d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+MODE 5 (Unit 2) D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) [2150.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) 0 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+100% (Unit 1)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+0% (Unit 2) D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+0 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMER (Include Area Code)
+Glenn A. Carlson 651-267-1755
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TOEPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) 1:8,] NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1110 Central Standard Time (CST) on 1/29/2016, the Prairie Island Nuclear Generating Plant (PINGP)
+performed a planned overspeed post-maintenance test (PMT) of 22 Diesel-Driven Cooling Water Pump
+(DDCLP) in accordance with plant maintenance procedure. During the overspeed trip test PMT, 22 DDCLP
+tripped as expected, and 121 Motor-Driven Cooling Water Pump (MDCLP) unexpectedly started automatically
+("auto-started") on low pressure in the cooling water pump discharge header. This event is reportable under 10
+CFR 50.73(a)(2)(iv)(A) as an event that resulted in automatic actuation of an emergency service water system
+that does not normally run and that serves as ultimate heat sink.
+The cause of the 121 MDCLP auto-start was a low-pressure transient in the cooling water pump discharge
+header resulting from the trip of 22 DDCLP. There was no safety injection signal from PINGP Unit 1 nor Unit 2
+when 121 MDCLP started. The health and safety of the public was not at risk.
+Corrective actions to be taken for this event include revising plant procedures to ensure 121 MDCLP is running
+prior to performing the overs peed trip test PMT and to ensure the pump is running or in pullout position to
+prevent auto-start of 121 MDCLP when stopping a DDCLP.
+NRC FORM 366 (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to Industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR I SEQUENTIAL I REV
+Prairie Island, Unit 1 05000-282 NUMBER NO.
+2016 -002 -00
+NARRATIVE
+Event Description
+At 1110 CST on 1/29/2016, PINGP performed a planned overs peed trip test PMT of 22 DDCLP (EllS
+Component Identifier P) in accordance with preventive maintenance procedure PM 3002-2-22, 22 DDCLP
+Diesel Minor Periodic Maintenance. During the overspeed trip test, 22 DDCLP tripped, and 121 MDCLP (EllS
+Component Identifier P) auto-started on low pressure in the cooling water pump discharge header. This event
+is reportable under 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in automatic actuation of an
+emergency service water system that does not normally run and that serves as ultimate heat sink.
+Event Analysis
+The PINGP Cooling Water (CL) System (EllS System Identifier Bl) is a shared system for Units 1 and 2 and
+provides a heat sink for the removal of process and operational heat from safety-related components during a
+Design Basis Accident or transient. During normal operation and shutdown, the CL System also provides this
+function for various safety-related and nonsafety-related components.
+Five CL pumps are connected to a common pump discharge header that directs CL flow into two separate
+headers: three motor-driven pumps and two diesel-driven pumps. 121 MDCLP can function as a safeguards
+replacement when a diesel driven pump is taken out of service. In this configuration, the pump is aligned
+manually to the appropriate train of safeguards power and motor-operated valves are administratively
+disabled in accordance with technical specifications.
+11 and 21 MDCLPs were running, and 121 MDCLP was not aligned as safeguards. Data from the
+Emergency Response Computer System (ERCS) showed that tripping 22 DDCLP resulted in a reduction of
+8 psig in Loop A CL header pressure, 10 psig in Loop B CL header pressure, and over 1000 gpm in Loop B
+CL flow. 22 DDCLP developed a greater than normal discharge pressure while running at higher than normal
+speed during the overs peed PMT, and tripping the pump the higher speed caused a higher than expected
+change in pressure compared to stopping the pump from normal speed.
+Operators correctly performed steps from plant operating and maintenance procedures intended to prevent an
+automatic start of 121 MDCLP. No inappropriate action was identified related to human performance. 121
+MDCLP has auto-started on low pressure on previous occasions.
+Pressure transients in the discharge header occur when stopping a DDCLP. Corrective actions taken since
+the last auto-start in April 2012 were effective in preventing auto-starts during monthly surveillance testing
+according to SP 11 06A and SP 11068, but they were not effective in this instance. Those corrective actions
+focused on running two MDCLPs and ensuring the pump discharge header was cross-connected to minimize
+the discharge header pressure transient when stopping a DDCLP. During this event, 22 DDCLP was running
+at an elevated speed, resulting in a larger transient when 22 DDCLP was stopped.
+Safety Significance
+121 MDCLP and other equipment operated as intended during the event. The low pressure transient was
+confined to the pump discharge header and did not result in below normal pressure in either cooling water
+NRC FORM 366A(11-2015)
+2
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+YEAR I SEQUENTIAL REV
+Prairie Island, Unit 1 05000-282 NUMBER NO.
+2016 -002 -00
+system header. Therefore, this event was of low safety significance since there was no loss of cooling water
+supply to safety-related or nonsafety-related system loads.
+There was no radiological, environmental, nor industrial impact associated with this event, and the health and
+safety of the public were not affected. This event did not challenge nuclear safety as all plant systems
+responded as designed; therefore, this event does not represent a safety system functional failure for Unit 1
+nor Unit 2.
+The likelihood of an automatic pump start during monthly surveillance tests (surveillance procedures
+SP 11 06A, 12 Diesel Cooling Water Pump Monthly Test, and SP 11068, 22 Diesel Cooling Water Pump
+Monthly Test) is low since no unexpected start has occurred on low pressure since April 2012 by requiring two
+MDCLPs are operating prior to stopping a DDCLP.
+Cause
+The cause of the 121 MDCLP auto-start was a low-pressure transient in the cooling water pump discharge
+header resulting from the trip of 22 DDCLP during planned overspeed PMT.
+Corrective Action
+To eliminate a 121 MDCLP auto-start during the overspeed trip test PMT, PM 3002-2-22 and PM 3002-2-12,
+12 DDCLP Diesel Minor Periodic Maintenance, were revised to ensure 121 MDCLP is running prior to
+performing PMT.
+To eliminate a 121 MDCLP auto-start during SP 1106A, SP 11068, and C35, these procedures will be revised
+to ensure 121 MDCLP is running or in pullout position when stopping a DDCLP.
+Previous Similar Events
+Previous instances of 121 MDCLP auto-start have occurred and determined to be caused by having only one
+MDCLP running prior to shutting down the DDCLP.
+LER 1-09-02, Unplanned Safetv Related Actuation of 121 Cooling Water Pump (Agencywide Documents
+Access and Management System (ADAMS) Accession Number ML091390396). On 3/19/2009, 121 MDCLP
+auto-started when 12 DDCLP was tripped in accordance with procedure resulting in a transient of the cooling
+water system pressure. The momentary drop in pressure was large enough to auto-start the 121 MDCLP
+while it was aligned for safeguards service.
+LER 50-282/2011-001-02, Unplanned Actuation of 121 Motor Driven Cooling Water Pump, Supplement 2
+(ADAMS Access Number ML 112840145). On 12/23/2010, 121 MDCLP was not aligned as a safeguards
+replacement pump and auto-started. The actuation of the 121 MDCLP was determined to be reportable
+under 10 CFR 50. 73(a)(2)(iv)(A). Corrective actions to resolve the issue included performing a Cooling Water
+System review to determine methods and any single point vulnerabilities that can be performed to minimize
+the potential for auto-starts of a cooling water pump. Operating procedures were evaluated to determine if
+procedural or operation period changes can be made to reduce the likelihood of auto-starting a Cooling Water
+Pump.
+NRC FORM 366A(11-2015) 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR I SEQUENTIAL I REV
+Prairie Island, Unit 1 NUMBER NO.
+05000-282
+2016 -002 -00
+LER 50-282/2012-002-00, Unplanned Actuation of 121 Motor Driven Cooling Water Pump (ADAMS
+Accession Number ML 12152A189). On 4/2/2012, while PINGP Unit 1 was operating at 100% power,
+121 MDCLP auto-started while shutting down 22 DDCLP. The corrective action was to revise operating
+procedure C35 to ensure two MDCLPs are running prior to stopping the DDCLP.
+NRC FORM 366A (11-2015)
+4

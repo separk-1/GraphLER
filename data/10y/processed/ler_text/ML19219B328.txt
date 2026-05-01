@@ -1,0 +1,176 @@
+• • •
+~Entergy.
+Entergy Operations, Inc.
+P. 0. Box756
+Port Gibson, MS 39150
+Eric A. Larson
+Site Vice Presid~nt
+Grand Gulf Nuclear Station
+Tel. (601) 437-7500
+10CFR50.73
+GNR0-2019/00035
+August 7, .2019
+U.S. Nuclear Regulatory Commiss.ion
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Supplemental Licensee Event Report 201'8-001-01, Reactor Manual
+Shutdown due to Turbine Pressure ControlValve Position Changes
+Grand Gulf. Nuclear Station, Unit 1
+Docket No .. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Supplemental Licensee E.vent Report 2018-001-01, Reactor Manual Shutdown
+due to Turbi'ne Pressure Control Valve Changes. This report is being: submitted in
+accordance with 10CFR50.73(a){2)(iv)(A) for any event or condition that resulted in a
+manual or automatic actuation of any of the systems listed in 1 OCFR50. 73(a)(2)(iv)(B).
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Jim Shaw at 601-437-2103.
+Sincerely,
+r 0 L
+Eric A. Larson
+EAL/rtw
+At~achment: Supplemental Licensee Event Report 2018-001-01
+cc:
+NRC Region IV - Regional Administrator
+NRC Senior Resident Inspector, Grand Gulf Nuclear Station
+NRR Project Manager
+GNR0-2019/00035
+Attachment
+Supplemental Licensee Event Report 2018-001-01
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+{04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3l)
+display a currently valid OMB control number, the NRG may not conduct or sponsor, and a
+person is not reauired to resoond to the information collection.
+1. Facility Name 2. Docket Number ~.Page
+Grand Gulf Nuclear Station, Unit 1 05000416 1 OF3
+4. Title
+Reactor Manual Shutdown Due to Turbine Pressure Control Valve Position Chanaes
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year F N a / c A il ity Name Docket Number
+Number No. 05000 N/A
+Facility Name Docket Number
+01 30 2018 2018 001 01 08 07 2019
+N/A 05000 N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O C FR §: (Check all that apply)
+MODE1 D 20.2201 (b} D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2}(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50. 73(g}(2)(iii) D 50. 73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) [8] 50.73(a)(2}(iv)(A) D 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2}(v)(B) D 73. 11 (a)(5)
+91 °k D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50. 73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73. 77(a)(2)(ii)
+D 20.2203(a}(2}(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+D 50.73(a)(2}(i)(C) D Other (Specify in Abstract below or in NRG Form 366A
+12. Licensee Contact for this LER
+Licensee Contact ~elephone Number (Include Area Code) I
+µim Shaw, Manager, Regulatory Assurance 11(601) 437-2103
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+1H 13P825
+B H13 JC05 Siemens Yes N/A N/A N/A N/A N/A
+C332
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date N/A N/A N/A
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On January 30, 2018, Grand Gulf Nuclear Station (GGNS) was operating in Mode 1 at 91 % power and was in
+the process of increasing power. At 1739 hours CST on January 30, 2018, GGNS experienc~d main turbine
+control valve (TCV) position changes of between 3 and 5 percent and main generator output lo~d:changes of
+approximately 20 megawatts with a periodicity of approximately 3 seconds. _: O,:/~'tk'>.: ..
+At 1822 on ·January 30, 2018, operators performed a manual shut down of the reactor by moving the reactor
+mode switch from RUN to SHUTDOWN to place the unit in Mode 3. Upon reactor shutdown all systems
+performed as designed and no subsequent safety system actuations occurred. The TCV position changes
+were caused by an inappropriately high gain setting in one channel of the TCVs resonance compensator
+circuit. Corrective actions include adjustments to the control circuit, and revision of work task documents for
+adjustment of the control circuits.
+There were no consequences to the general safety of the public, nuclear safety, industrial safety and
+radiological safety for this event. ·
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed · back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 2055.5-0001, or by e~mail to
+lnfocollects.Resource@nrc.gov, and to the Desk. Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently'valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D NRG may not conduct or sponsor, and a person is not required to respond to,· the information
+collection: ·
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2018 . -001 -001
+NARRATIVE
+A. PLANT CONDITIONS PRIOR TO THE EVENT
+Grand Gulf Nuclear Station (GGNS) .Unit 1 was operating at 91 % power in Mode 1 and increasing
+power. There were no Structures, Systems, or Components that were inoperable th~t contributed to
+the event.
+B. DESCRIPTION
+At 1739 hours CST on January 30, 2018, while the plant was operating at approximately 91 % reactor
+power/1322 megawatts electric power (mwe), operators observed a 20 mwe electrical oscillation
+(peak to peak) with a periodicity of approximately 3 seconds. Concurrent oscillations of between 3.
+and 5% were noted on all four turbine control valves.
+At 1822 hours on January 30.; 2018, operators performed a manual shutdown of the reactor by
+moving the reactor mode switch from RUN to SHUTDOWN. Upon reactor shutdown all systems
+performed as designed and no subsequent safety system actuations occurred.
+C. REPORTABILITY
+This report is 'made pursuant to 10CFR50.73(a)(2)(iv)(A) for any event or condition that resulted in a
+· manual or automatic actuation of any of the systems listed in 1O CFR50.73(a)(2)(iv)(B) .
+. This event was reported under 1O CFR50.72(b)(3)(iv)(B)(1) in ENS notification 53115.
+D. CAUSE
+The cause of the reactor scram was a manual shutdown of the reactor due to operator concerns
+about main generator output variations, caused by unanticipated turbine pressure control valve (TCV)
+motion.
+The turbine pressure control system controls turbine speed, operates the steam bypass system to
+. keep reactor pressure within limits and avoid transients, and controls mairi turbine inlet pressure.
+The unanticipated TCV motion was caused by an inappropriately high gain setting in the main steam
+line resonance compensator circuit. Investigation revealed that the high gain setting of the
+R.esonance Compensator circuitry occurred because the work order steps used to calibrate the card
+· when it was installed in June of 2016 were incorrect. The incorrect setting did not 1create an error of
+such magnitude as to be automatically excluded from the circuit internal diagnostics, but did create
+enough compensatory response from the TCV to be discernable by the operating crew.
+of
+NRG FORM 3668 (02-2018) Page 2 3
+NRC.FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LEA) lessons learned are incorporated into the licensing process and· fed back to industry. Send
+comments regarding _burden estimate to the Information Services Branch {T-2 F43), U.S. Nuclear
+-CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, {3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3l) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear_ Station, Unit 1 05000-416 NUMBER NO.
+2018 -001 001
+1 •
+NARRATIVE·
+E. CORRECTIVE ACTIONS
+The. following corrective actions are completed or planned.
+Completed:
+• The main .steam line resonance compensator circuit was recalibrated.
+• Work instructions to setup steam line compensator were revised to provide corrected work steps.
+F. SAFETY SIGNIFICANCE
+The safety significance of this event is low because·au systems operated as designed and the TCV changes did not
+challenge any safety parameters. The manual scram was performed as a conservative measure. There w'ere no actual
+nuclear safety consequences or radiological consequences during the event.
+G. PREVIOUS SIMILAR EVENTS
+Entergy conducted a three-year review of the relevant licensee event reports and determined that there was·one
+similar known event reported as GGNS Licensee Event Report 2016-05-00 "Automatic Reactor SCRAM." The
+failure in that event was a failed amplifier card, which is different from this event which was an incorrect
+potentiometer setting. Therefore, the corrective actions for the previous event would not have prevented this
+event.
+NRG FORM 366A (06-2016) Page 3 of 3

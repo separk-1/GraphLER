@@ -1,0 +1,318 @@
+10CFR50.73
+Virginia Electric and Power Company
+Surry Power Station
+5570 Hog Island Road
+Surry, Virginia 23883
+JAN O 8 2019
+U.S. Nuclear Regulatory Commission Serial No.: 19-001
+Attention: Document Control Desk SPS: TSC
+Washington, D. C. 20555-0001 Docket No.: 50-280
+50-281
+License No.: DPR-32
+DPR-37
+Dear Sir or Madam:
+Pursuant to 10CFR50.73, Virginia Electric and Power Company hereby submits the
+following Licensee Event Report applicable to Surry Power Station Unit 1 and Unit 2.
+Report No. 50-280, 50-281 / 2018-003-00
+This report has been reviewed by the Station Facility Safety Review Committee and will
+be forwarded to the Management Safety Review Committee.
+Very truly yours,
+F. Mladen
+Site Vice President
+Surry Power Station
+Enclosure
+Commitment contained in this letter: None
+cc: U.S. Nuclear Regulatory Commission, Region II
+Marquis One Tower, Suite 1200
+245 Peachtree Center Ave., NE
+Atlanta, GA 30303-1257 ·
+NRG Senior Resident Inspector
+Surry Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+;,#"'"o",,..,. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+{ ·: LICENSEE t=VENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+\, ..... ••f (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number,
+the NRG may not conduct or sponsor, and a person is not required to respond to, the information
+b1tQ://www.nrc.goy/rec1_ding-rm/doc-collections/nuregs/staff/sr1022/r3D
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Surry Power Station, Unit 1 05000 280 1 OF 3
+4. TITLE
+Auto-Start of Emergency Diesel Generators due to Pilot Wire Lockout on 'C' Reserve Station Service Transformer
+5. EVENT DATE 6. IL ER NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR S F u A r C r IL y IT Y P N o A w ME e r Station, Unit 2 05 D 0 O 0 C 0 K ET NU 2 M 8 B 1 ER
+. .
+FACILiTY NAME DOCKET NUMBER
+11 12 2018 2018 003 00 01 11 2019 05000.
+9. OPERA TING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+0 D O 0
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D O · D
+N o 20.2201(d) D 20.2203(a)(3)(ii) o 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) so.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+o
+D [Z] 0
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) o 50.73(a)(2)(x)
+D D 0
+10. POWER LEVEL o 2ci.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D 0 D
+20.2203(a)(2)(iii) so.36(c)(2) 50.73(a)(2)(v)(B) 13.11(a)(5)
+0 D 0 D
+20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) o 73.77(a)(1)
+0 D · 0
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D D .D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+[i~L.:iii~):,:·H{ .:,11: :· 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Barry Garber (757) 365-2725
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A TU N R U E - R RE T P O O R E T P A IX B LE 11,1 : ~ , CAUSE SYSTEM COMPONENT FA M C A T N U U R ER RE T P O OR E T P A IX B LE
+B EA CON 3M y
+11
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D [Z] SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e .. approximately 15 single-spaced typewritten lines)
+On November 12, 2018, at 16:36 hours, with Unit 1 at 100% power and Unit 2 defueled, 'C' Reserve Station Service
+Transformer (RSST) pilot wire lockout actuated while energizing the underground feeder cables to the 'C' RSST following
+transformer replacement. While 'C' RSST replacement activities were ongoing, the Surry 1 'H' and 2'J' emergency busses
+were supplied from the dependable alternate power supply, Unit 2 station service back-feed. The 'C' RSST lockout signal
+resulted in a partial loss of off-site power to the Unit 1 'H' emergency bus and to the Unit 2 'J' emergency bus. The #1 and
+#3 Emergency Diesel Generators (EOG) automatically started and loaded the 1 'H' and 2'J' emergency buses, respectively,
+as designed. The Unit 1 Main Steam Power Operated Relief Valves (PORV) momentarily opened, however the Unit 1
+power level was maintained at full power. No operational issues were experienced by Unit 2. Deficient workmanship in the
+surface preparation of the splice connection of an underground feeder cable caused the cable fault and lockout condition.
+Affected cable splices were replaced prior to returning the 'C' RSST to service.
+An eight-hour non-emergency event notification was made to the NRC pursuant to 10 CFR 50. 72(b )(3)(iv)(A) due to a valid
+actuation of the #1 EDG and the #3 EDG. This report is being made pursuant to 10 CFR 50.73(a)(2)(iv)(A) due to a valid
+actuation of the #1 EDG and the #3 EDG.
+NRC FORM 366 (04-2017) Page , 1 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+CONTINUATION SHEET Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to Impose an Information collection does not display a currently valid 0MB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+http://www.nrc.gov/reading-rm/doc-coUections/nuregs/staff/sr1022/r3Q
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTiAL REV
+YEAR NUMBER NO.
+Surry Power Station, Unit 1 05000- 280
+2018 • 003 00
+NARRATIVE
+1.0 DESCRIPTION OF THE EVENT
+During the Unit 2 fall 2018 refueling outage, the Surry electrical distribution system was in an off-normal alignment to
+support 'C' RSST [EIIS-EA-XFMR] replacement. 'C' RSST is the primary source which normally supplies power from
+the off-site transmission network to the 'F' transfer bus and the 1' H' and 2'J' emergency busses [EIIS-EK-BU]. During
+the 'C' RSST replacement activities, the 'F' transfer bus and the 1' H' and 2'J' emergency busses were supplied from the
+off-site transmission network by the dependable alternate power source, back-fel;!d via the Unit 2 'C' Station Service
+Transformer.
+On November 12, 2018, at 16:36 hours, 'C' RSST pilot wire lockout actuated while energizing the underground feeder
+cables to perform a phasing activity following 'C' RSST replacement. The lockout signal isolated both the primary and
+dependable alternate power sources to the 'F' transfer bus and to the 1 'H' and 2'J' emergency busses. #1 and #3
+Emergency Diesel Generators (EOG) [El IS-EK-DG] received automatic start signals and loaded onto the 1' H' and 2'J'
+emergency buses, respectively, as designed.
+At the time of the event, Unit 1 was operating at 100% power, and a brief, minor thermal power transient was
+experienced due to actuation of the three Unit 1 Main Steam (MS) line Power Operated Relief Valves (PORV) [EIIS
+SB-RV]. The PORVs actuated for approximately 10 seconds due a to momentary loss of normal power supply to the
+Unit 1 semi-vital bus [EIIS-EC-BU]. During that time, the MS line pressures reduced by approximately 7 psig before
+the PORVs re-closed, and pressures stabilized at pre-event.levels. Thermal power level also stabilized at pre-event
+conditions. This effluent pathway was evaluated, and it was determined that no radionuclides were released to the
+environment as a result of the PORVs 'actuating. At the time of the event, Unit 2 was defueled in Refueling Shutdown
+mode. No operational impacts were experienced on Unit 2.
+On November 12, 2018, at 18:23 hours, the dependable alternate off-site power circuitry to the 'F' transfer bus was
+reestablished by Unit 2 back-feed. At 18:45 hours and 19:06 hours, the Unit 2 back-feed circuitry was re-established to
+1' H' and 2'J' emergency busses, respectively. At 19:37 hours and 21 :39 hours, #1 EOG and #3 EOG, respectively,
+were returned to normal automatic standby alignment. All Unit 1 and Unit 2 Technical Specification action statements
+associated with emergency electrical systems were exited when the #1 and #3 EDGs were returned to normal
+alignment. ·
+Post event testing determined that the pilot wire lockout signal was caused by a cable fault due to poor workmanship in
+the surface preparation of the underground cable splice connection which reduced the cable's ability to withstand
+transient surges. All electrical cables supplying 'C' RSST were tested, and all deficient cable splices were replaced.
+An eight-hour non-emergency event notification was made to the NRC pursuant to 10 CFR 50.72(b)(3)(iv)(A) due to a
+valid actuation of the #1 and #3 EDGs. This report is being made pursuant to 1O CFR 50. 73(a)(2)(iv)(A) due to a valid
+actuation of the #1 and #3 EDGs.
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+During the event, the redundant 1'J' 4160 V emergency bus and redundant 2'H' 4160 Vemergency bus were supplied
+by the primary sources of off-site power, 'A' RSST and 'B' RSST, respectively. The #1, #2, and #3 Emergency Diesel
+Generators rem?ined available to supply power to emergency bus loads. The actuation of Unit 1 MS PORVs resulted
+in a momentary minor thermal power transient, and the plant remained within safety analysis limits. Normal equipment
+alignment was restored by the Operations team in a timely manner. There were no radiological effluents. Therefore
+this event is of minimal safety significance.
+NRC FORM 366A (04-2017) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+CONTINUATION SHEET Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form m
+nu
+e
+m
+an
+b
+s
+e r,
+u s
+th
+e
+e
+d
+N
+to
+R
+I
+C
+m p
+m
+o
+a
+s
+y
+e
+n
+a
+o
+n
+t
+i
+c
+n
+o
+fo
+n
+r
+d
+m
+u
+a
+c
+t
+t
+i o
+o
+n
+r s
+c
+p
+o
+o
+lle
+n
+c
+s
+t
+o
+io
+r,
+n
+a
+d
+n
+o
+d
+e s
+a
+n
+p
+o
+e
+t
+r s
+d
+o
+i
+n
+sp
+i
+l
+s
+a y
+n o
+a
+t
+c
+re
+u
+q
+rr
+u
+e
+i
+n
+re
+tl
+d
+y v
+to
+a li
+r
+d
+e s
+0
+p
+M
+on
+B
+d
+c
+to
+o
+,
+n t
+t
+r
+h
+o
+e
+l
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Surry Power Station, Unit 1 05000- 280
+2018 • 003 00
+NARRATIVE
+3. 0 CAUSE OF THE EVENT
+A fault on the underground primary feeder cable to 'C' RSST caused the pilot wire lockout actuation and subsequent
+isolation of power to the 1' H' and 2'J' emergency busses. The fault occurred at a cable splice location that was
+overstressed during switching operations. The splice was fully functional while energized at steady state, but was
+vulnerable when initially energized. A failure evaluation is ongoing, but the preliminary cause of failure is workmanship
+in the surface preparation of the splice connection which was made in 2009. The failed components were not
+associated with 'C' RSST replacement activities. 1
+4.0 IMMEDIATE CORRECTIVE ACTIONS
+Testing was performed on all 34.5 KV cables which supply the 'C' RSST. Faulty splice connectors were repaired prior
+to returning the 'C' RSST to service.
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+'A' and 'B' RSSTs supply the primary source of off-site power to the 1' J' and 2'H' emergency busses, respectively. The
+cables which feed the 'A' and 'B' RSSTs have shorter underground cable runs than 'C' RSST. Only 'C' and 'A' RSST
+feeders have underground cable splices. Cables associated with 'A' and 'B' RSSTs will be Tan Delta tested at their
+next transformer outage opportunity.
+6.0 ACTIONS TO PREVENT RECURRENCE
+Long term actions recommended by the cause evaluation will be tracked by the corrective action program.
+7.0 SIMILAR EVENTS
+Surry LER 1999-007-00, Undervoltage Actuation Due to a Loss of Reserve Station Service Transformer
+8.0 MANUFACTURER/MODEL NUMBER
+3M / silicon body cold shrink splice
+9.0 ADDITIONAL INFORMATION
+While #1 and #3 EDGs were loaded on the 1'H' and 2'J' 4160 V emergency busses, Technical Specification (TS) action
+statements associated with Unit 1 and Unit 2 emergency electrical systems were reviewed, and associated TS clocks
+were entered. The event did not cause any additional reportable condition.
+There were no other structures, systems, or components that were inoperable at the start of the event that contributed
+to the event.
+NRG FORM 366A (04-2017) Page 3 of 3

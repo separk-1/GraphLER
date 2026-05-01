@@ -1,0 +1,235 @@
+Charles R. Pierce Southern Nuclear
+Regulatory Affairs Director Operating Company, Inc.
+40 Inverness Center Parkway
+Post Office Box 1295
+Birmingham, AL 35242
+SOUTHERN «\
+Tel 205.992.7872
+Fax 205.992.7601 NUCLEAR
+A SOUTHERN COMPANY
+May 26,2016
+Docket Nos.: 50-321 NL-16-0772
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D. C. 20555-0001
+Edwin I. Hatch Nuclear Plant
+Licensee Event Report 2016-004-00
+Safety Relief Valves As Found Settings Resulted in Not Meeting Tech Spec
+Surveillance Criteria
+Ladies and Gentlemen:
+In accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B) Southern
+Nuclear Operating Company hereby submits the enclosed Licensee Event
+Report.
+This letter contains no NRC commitments. If you have any questions, please
+contact Greg Johnson at (912) 537-5874.
+Rtecflft;
+C. R. Pierce
+Regulatory Affairs Director
+CRP/cp/lac
+Enclosures: LER 2016-004-00
+U.S. Nuclear Regulatory Commission
+NL-16-0772
+Page2
+cc: Southern Nuclear Operating Company
+Mr. S. E. Kuczynski, Chairman, President & CEO
+Mr. D. G. Best, Executive Vice President & Chief Nuclear Officer
+Mr. D. R. Vineyard, Vice President- Hatch
+Mr. M. D. Meier, Vice President- Regulatory Affairs
+Mr. D. R. Madison, Vice President- Fleet Operations
+Mr. B. J. Adams, Vice President- Engineering
+Mr. G. L. Johnson, Regulatory Affairs Manager- Hatch
+RTYPE: CHA02.004
+U.S. Nuclear Regulatory Commission
+Ms. C. Haney, Regional Administrator
+Mr. M. D. Orenak, NRR Project Manager- Hatch
+Mr. D. H. Hardage, Senior Resident Inspector-Hatch
+Edwin I. Hatch Nuclear Plant Unit 1
+LER 2016-004-001
+Safety Relief Valves As Found Settings Resulted in Not Meeting Tech Spec
+Surveillance Criteria
+,..
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(11·2015) .....
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+.~ ~/ lessons learned are incorporated into the licensing process and led back to industry. Send
+~
+~ .... ) LICENSEE EVENT REPORT (LEA) comments regarding burden es~mate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e·mail to
+(See Page 2 for required number of
+lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office ollnlormation and Regulatory Affairs,
+digits/characters for each block) NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. II a means
+used to impose an information collec~on does not display a currently valid OMB control number, the
+NRC mav not conduct or sponsor and a oerson isj ·not reauired to resoond to the inlormation
+1. FACILITY NAME ~-DOCKET NUMBER PAGE
+Edwin I. Hatch Nuclear Plant Unit 1
+05000 321 1 OF4
+4. TITLE
+Safety Relief Valves As Found Settings Resulted in Not Meeting Tech Spec Surveillance Criteria
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+MONTH DAY YEAR YEAR SEQUENTIAL I REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+3 30 2016 2016 . 004 -00 5 26 2016
+9. OPERATING MODE 11. THIS REPORTIS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.22o1(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1 D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(il) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) 181S0.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 00THER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+JCENSEE CONTACT ~ELEPHONE NUMER (Include Area Code)
+Edwin I. Hatch I Carl James Collins - Licensina Supervisor 912-537-2342
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAIWRE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU· REPORTABLE CAUSE SYSTEM ~OMPONENT MANU- REPORTABLE TO
+FACTURER TOEPIX FACTURER EPIX
+B SB RV T020 y
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 30, 2016, Unit 1 was at 10 0 percent rated thermal power (RTP) when "as-found" testing results of the 3-stage
+main steam safety relief valves (SRVs) indicated two of the eleven Unit 1 SRVs had experienced a setpoint drift during the
+previous operating cycle which resulted in their failure to meet the Technical Specification (TS) opening setpoint pressure
+of 1150 +1-34.5 psig as required by TS Surveillance Requirement (SR) 3.4.3.1. The test results showed that two SRVs
+were slightly out of spec low due to setpoint drift.
+The SRV pilots were disassembled and inspected while investigating the reason for the drift. SNC has determined that the
+abutment gap closed pre-maturely. The pre-mature abutment gap closure is most likely due to loose manufacturing
+tolerances leading to SRV setpoint drift.
+NRC FORM 366 (11·2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMS: NO. 3150·0104 EXPIRES: 10/31/2018
+11-2015)
+,..,. ...... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+)\_ lessons learned are incorporated into the licensing process and fed back to industry. Send
+!~~ comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+\~) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555.0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to !he Desk Officer, Office of lnfomnation and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an infonmation collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the infonmation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Edwin I. Hatch Nuclear Plant Unit 1 NUMBER NO.
+05000-321
+2016 -004 -00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor
+Energy Industry Identification System codes appear in the text as (EllS Code XX).
+DESCRIPTION OF EVENT
+On March 30 2016, with Unit 1 at 100 percent rated thermal power (RTP), "as-found" testing of the 3-stage main steam
+safety relief valves (SRVs) (EllS Code RV) showed that two of the eleven main steam SRVs that were tested had
+experienced a drift in pressure lift setpoint during the previous operating cycle such that the allowable technical
+specification (TS) surveillance requirement (SR) 3.4.3.1 limit of 1150 +1-34.5 (+ 1- 3%) psig had been exceeded. Below is
+a table illustrating the Unit 1 SRVs that failed as found testing results after being removed from service during the Spring
+2016 refueling outage.
+MPL Lift Pressure Percent Drift
+1821-F013D 1113 psig -3.2%
+1B21-F013E 1106 psig -3.8%
+CAUSE OF EVENT
+The SRV pilots were disassembled and inspected while investigating the reason for the drift. SNC has determined that
+the linear variable differential transformer (LVDT) used to measure displacement confirmed the abutment gap closed pre-
+maturely. The pre-mature abutment gap closure is most likely due to loose manufacturing tolerances leading to SRV
+setpoint drift.
+REPORTA BILITY ANALYSIS AND SAFETY ASSESSMENT
+This event is reportable in accordance with 10 CFR 50.7 3(a)(2)(i)(B) because a condition occurred that is prohibited by TS
+3.4.3. Specifically, an example of multiple test failures is given in NUREG-10 22, Revision 3, "Event Reporting Guidelines
+10 CFR 50.72 and 50.73" which describes the sequential testing of safety valves. This example notes that "Sometimes
+multiple valves are found to lift with set points outside of technical specification limits." NUREG-1022 further states in the
+example that "discrepancies found in TS surveillance tests should be assumed to occur at the time of the test unless there
+is firm evidence, based on a review of relevant information (e.g., the equipment history and the cause of failure), to
+indicate that the discrepancy occurred earlier. However, the existence of similar discrepancies in multiple valves is an
+indication that the discrepancies may well have arisen over a period of time and the failure mode should be evaluated to
+make this determination." Based on this guidance, the determination was made that this "as found" condition is reportable
+under the reporting requirements of 10 CFR 50.73(a)(2)(i)(B).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+11-2015)_ ,. ...... Estimated burden per response to comply with this mandatory collection request: ao hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~~ comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+\~) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555.0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+I I
+YEAR SEQUENTIAL REV
+Edwin I. Hatch Nuclear Plant Unit 1 NUMBER NO.
+05000-321
+2016 -004 -00
+NARRATIVE
+There are eleven SRVs located on the four main steam lines within the drywell in between the reactor pressure vessel
+(RPV) (EllS Code RPV) and the inboard main steam isolation valves (MSIVs) (EllS Code ISV). These SRVs are required
+to be operable during Modes 1, 2, and 3 to limit the peak pressure in the nuclear system such that it will not exceed the
+applicable ASME Boiler and Pressure Vessel Code Limits for the reactor coolant pressure boundary. The SRVs are tested
+in accordance with TS Surveillance Requirement 3.4.3.1 in which the valves are tested as directed by the In-Service
+Testing Program to verify lift set points are within their specified limits to confirm they would perform their required safety
+function of overpressure protection. The SRVs must accommodate the most severe pressurization transient which, for the
+purposes of demonstrating compliance with the ASME Code Limit of 1375 psig peak vessel pressure, has been defined
+by an event involving the closure of all MSIVs with a failure of the direct reactor protection system trip from the MSIV
+position switches with the reactor ultimately shutting down as the result of a high neutron flux trip (a scenario designated
+as MSIVF).
+The two SRVs which failed to meet their Tech Spec required actuation pressure setpoint lifted early (3.2% low and 3.8% low).
+None of the eleven SRVs tested this cycle had as-found test results out of range high. Therefore, since the two identified SRVs
+lifted earlier than expected, the ASME Code Limit of 1375 psig peak vessel pressure would be maintained under normal and
+accident conditions. The opening of one or more SRVs at lower pressures would result in a less severe transient with reduced
+peak vessel pressure. Also, the slightly lower actuating pressure does not pose a significant LOCA initiator threat because the
+reactor steam dome would not experience > 11 00 psig during normal operation.
+Based on the observed setpoint drift slightly low, the overpressure protection system would have continued to perform its
+required safety function if called upon in its "as found" condition. Therefore, this event had no adverse impact on nuclear
+safety and was of very low safety significance.
+CORRECTIVE ACTIONS
+The vendor specifications will be revised to tighten as-left tolerances of abutment and pre-load gap, increase the minimum
+set for abutment pressure at the high end of specification, and tighten diametrical and face run-out tolerances for bellows
+assembly on pre-load spacer mounting end.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 60 hours. Reported
+.... .........
+~'\. lessons teamed are incorporated into the licensing process and led back to industry. Send
+.
+!~~ comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T·5
+\ ..... / LICENSEE EVENT REPORT (LER) F ln 5 lo 3 c ), o ll U ec .S ts . .R N e u s c o l u e r a c r e @ Re n g rc u . l g a o to v r , y a C nd o m to m t i h s e si o D n e , s W k a O s f h fic in e g r t , o O n, f fic D e C of 2 0 In 5 f 5 o 5 rm -0 a 0 t 0 io 1 n , a o n r d b R y e in g t u e l r a n t e o t r y e - A m ff a a il i rs to ,
+CONTINUATION SHEET NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+I
+YEAR SEQUENTIAL I REV
+Edwin I. Hatch Nuclear Plant Unit 1 NUMBER NO.
+05000-321
+2016 -004 -00
+NARRATIVE
+ADDITIONAL INFORMATION
+Other Systems Affected: None
+Failed Components Information:
+Master Parts List Number: 18 21-F013D, E
+Manufacturer: Target Rock
+Model Number: 0867F
+Type: Relief Valve
+Manufacturer Code: T020
+EllS System Code: SB
+Reportable to EPIX: Yes
+Root Cause Code: 8
+EllS Component Code: RV
+Commitment Information: This report does not create any licensing commitments.
+PREVIOUS SIMILAR EVENTS:
+LER 2-2015-004 identified multiple SRV setpoint drift for 2 of the 11 SRVs. Corrective actions included replacement of the
+2-stage SRVs with 3-stage SRVs which typically do not exhibit set point drift. The setpoint drift was out of spec high while
+the event discussed in LER 1-2016-004 have failed to meet acceptance criteria by drifting out of spec low.
+LER 1-2014-003 identified multiple SRV setpoint drift for 5 of the 11 SRVs. Corrective actions included replacement of the
+2-stage SRVs with 3-stage SRVs which typically do not exhibit set point drift. The setpoint drift was out of spec high while
+the event discussed in LER 1-2016-004 have failed to meet acceptance criteria by drifting out of spec low.
+LER 1-2012-004 identified multiple SRV setpoint drift for 8 of the 11 SRVs. Corrective actions included replacement of the
+2-stage SRVs with 2-stage SRVs whose pilot discs had undergone a platinum surface treatment which was considered at
+that time to be the long term fix for this corrosion bonding issue.

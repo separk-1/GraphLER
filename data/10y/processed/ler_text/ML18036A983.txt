@@ -1,0 +1,227 @@
+Exelon Generation .
+10 CFR 50.73
+LG-18-008
+February 5, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2018-001-00, D12 EDG Inoperable for Greater than 30 Days Resulting in a
+Condition Prohibited by TS
+Enclosed is a Licensee Event Report (LER) which addresses an Emergency Diesel Generator
+(EDG) being inoperable for greater than 30 days, resulting in a condition prohibited by Technical
+Specifications (TS) at Limerick Generating Station, Unit 1.
+This LER is being submitted pursuant to the requirements of 1O CFR 50.73(a)(2)(i)(B),
+Operation or Condition Prohibited by TS.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Respectfully,
+&- rs:~IOLO
+~
+Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 1 05000352 1 OF 4
+4. TITLE
+D12 EDG Inoperable for Greater than 30 Days Resulting in Condition Prohibited by TS
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+12 07 17 2018 - 001 - 00 02 05 18
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+001
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager – Regulatory Assurance (610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B EK PCV N174 Y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 7, 2017, during performance of the D12 Emergency Diesel Generator (EDG) Surveillance Test
+(ST), it was recognized that Scavenging Air temperatures were abnormally high. An investigation revealed a
+deficiency in the air pressure control valve. Because of this deficiency, the Air Cooler Temperature Indicating
+Controller was not performing correctly. The D12 EDG had run unloaded for approximately two hours, then
+fully loaded for approximately one hour when the condition was identified. This condition results in inoperability/
+unavailability of the affected EDG and entry into a 30-day shutdown Limiting Condition for Operation (LCO). On
+December 12, 2017, the D12 EDG was declared operable and the LCO was exited.
+A past operability review determined that the D12 EDG was inoperable since the last D12 EDG 24-hr
+endurance run, which was began on November 6, 2017. The D12 EDG was inoperable for a period of greater
+than 30 days and the LCO 3.8.1.1.a actions were not completed in the required time frames provided in
+Technical Specifications (TS). Therefore, an Operation or Condition Prohibited by TS existed and is reportable
+under 10 CFR 50.73(a)(2)(i)(B).
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 001 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS), Unit 1 was operating in Operational Condition (OPCON) 1 at 100
+percent power at the time of the event. There were no other structures, systems, or components
+inoperable that contributed to the event.
+II. Description of the Event
+On December 7, 2017, during the performance of the D12 Emergency Diesel Generator (EDG) [EIIS:
+EK] Loss of Coolant Accident (LOCA)/Load Reject Testing and Fast Start Operability Surveillance
+Test (ST) Run, it was recognized that Air Cooler Discharge Air temperatures were abnormally high
+(220°F), with an expected band of 115°F-145°F. The cooling water controller’s setpoint was found
+set at 200°F. The required setpoint is 130°F. The D12 EDG had run unloaded for about two hours,
+then fully loaded for about one hour when the condition occurred. D12 EDG was declared inoperable
+and Limiting Condition for Operation (LCO) 3.8.1.1 was entered.
+As part of troubleshooting, the Temperature Indicating Controller (TIC) was removed, bench tested
+satisfactorily, re-installed and recalibrated to a setpoint temperature of 130°F. On December 12,
+2017, the D12 EDG was declared operable and the LCO was exited.
+On December 11, 2017, a past operability review determined that the past functionality of the D12
+EDG had been impacted since performance of the 24-hour endurance run that began on November
+6, 2017, when an intermittent equipment deficiency caused incorrect indication and control resulting
+in subsequent high temperature conditions. Testing performed on January 10, 2018, during the
+monthly D12 EDG ST run, identified an equipment deficiency associated with the Pressure Control
+Valve (PCV). The air pressure control issue causes the TIC to not indicate or perform correctly.
+The D12 EDG was inoperable for a period of greater than 30 days and the LCO 3.8.1.1.a actions
+were not completed in the required time frames provided in Technical Specifications (TS). Therefore,
+an Operation or Condition Prohibited by TS existed. This LER is being submitted in accordance with
+10 CFR 50.73(a)(2)(i)(B).
+III. Analysis of the Event
+On November 6, 2017, while performing a routine running check of engine operation, an equipment
+operator identified that the air cooler temperature controller setpoint was not at 130°F and process
+temperatures were off-scale low (known condition with existing Issue Report (IR)). An adjustment was
+made to the temperature controller setpoint to control jacket water coolant engine discharge
+temperature, in accordance with procedure. However, intermittent malfunction of the PCV in the
+supply air line to the temperature controller would have prevented that adjustment from taking effect
+until the next engine run on December 7, 2017 (lower air pressure prevents the air cooler control loop
+from operating throughout its full span and results in a lower indicated setpoint and process
+temperature).
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 001 - 00
+NARRATIVE
+IV. Safety Significance
+The EDG and Auxiliary Systems are safety related standby emergency power systems and consist of
+four diesel generator sets per Unit. The operability of the A.C. power sources and associated
+distribution systems during operation ensures that sufficient power will be available to supply the
+safety-related equipment required for (1) the safe shutdown of the facility and (2) the mitigation and
+control of accident conditions within the facility. The TS action requirements specified for the levels of
+degradation of the power sources provide restriction upon continued facility operation commensurate
+with the level of degradation.
+The D12 EDG was determined to be inoperable from November 6, 2017 to December 12, 2017;
+therefore, the TS 3.8.1.1.a action to restore the diesel within 30 days was not met. There were no
+safety consequences associated with the condition since there were no events during this time period
+which required the D12 EDG. The remaining LGS Unit 1 EDGs were only inoperable for their
+monthly surveillance tests during this period.
+V. Cause of the Event
+A root cause investigation is ongoing. The preliminary results of the investigation indicate that the
+proximate cause is due to intermittent operation of the temperature control loop PCV. The lower than
+normal air pressure coming from the PCV causes the temperature controller output to be less, which
+results in a temperature control valve position that directs more water through the heat
+exchanger. This, in turn, provides cooler water to the air coolers. The control loop feeds back air
+cooler air outlet temperature to the controller. Additionally, low air pressure to the controller will lower
+the value of the set point controller, which could result in an adjustment of the controller setpoint
+higher than necessary. A contributing cause is related to the procedure step that governs operator
+manipulation of this controller. Procedure S92.9.N, for performing routine running checks of engine
+operation, allows adjustment of the controller when setpoint temperature is low without considering
+potential control loop causes for incorrect controller setpoint.
+VI. Corrective Actions Completed/Planned
+The PCV on D12 EDG was replaced and sent to Exelon’s Power Labs for further analysis. Changes
+have been made to the Operations procedure preventing manipulation of the temperature controller
+setpoint without prior shift supervision approval so that any control loop issues can be detected.
+Revisions will be made to the full/abbreviated run-in Routine Test (RT) prior to the respective EDG
+System Outage Windows (SOWs). A similar review was performed for I&C procedures that direct
+adjustment of the air cooler temperature controllers and no changes are required.
+Additional corrective actions may be identified as part of the ongoing investigation. This LER will be
+revised if significant additional corrective actions are identified due to the ongoing investigation.
+VII. Previous Similar Occurrences
+There has been one other instance of high combustion air temperature conditions on the D12
+EDG, in June 2017, following a D12 EDG SOW.
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 001 - 00
+NARRATIVE
+While performing the post-SOW Fast Start, D12 experienced high air cooler outlet air
+temperatures. An investigation revealed that the Air Cooler Temperature Indicating Controller
+was found with the set point higher than expected. The Controller was replaced, the
+surveillance test was completed successfully and the D12 EDG was declared operable.
+There have not been any instances of high combustion air temperature conditions on any of the
+other EDGs at LGS.
+VIII. Component data
+System: EK Emergency Onsite Power Supply System
+Component: PCV Pressure Control Valve
+Manufacturer: N174 NORGREN , CA CO
+Model Number: B72G-2AK-QD1-RFG
+NRC FORM 366A (04-2017) Page 4 of 4

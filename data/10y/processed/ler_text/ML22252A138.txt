@@ -1,0 +1,178 @@
+Constellation Energy Generation, LLC (CEG)
+Constellation. Byron Station
+4450 N. German Church Road
+Byron. IL 61010-9794
+www.constellationenergy.com
+September 9, 2022
+10CFR50.73
+LT R: BYRON 2022-0060
+File: 10.101
+5A.108
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Byron Station, Units 1 and 2
+Renewed Facility Operating License No. NPF-37 and NPF-66
+NRC Docket No. STN 50-454
+Subject: Licensee Event Report (LER) No. 454-2022-001-00 "OB Control Room Ventilation Supply
+Fan Failed to Start due to Erroneous Position Indication from the Closed Limit Switch for
+Charcoal Deluge Valve Interlock"
+Enclosed is Byron Station Licensee Event Report (LER) No. 454-2022-001-00 regarding failure of the
+OB Control Room Ventilation Supply fan to start due to an erroneous position indication from the closed
+limit switch for the charcoal deluge valve interlock. This condition is being submitted in accordance with
+10 CFR 50.73, "Licensee Event Report System."
+There are no regulatory commitments in this report.
+Should you have any questions concerning this submittal, please contact Ms. Zoe Cox, Regulatory
+Assurance Manager, at (815) 406-2800.
+Respectfully,
+~
+Harris Welt
+Site Vice President
+Byron Generating Station
+HW/ZC/hh
+Enclosure: LER 454-2022-001-00
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Byron Generating Station
+NRG FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate lo the FOIA, Library, and lnfonmalon Colleclons Branch (T-6 A1 0M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission. Washington DC 20555-0001, or by e-mail to
+.......... (See NUREG-1022, R3 for instruction and guidance for completing this form A ln f f f o a c ir o s l . l ec (3 ts 1 . 5 R 0 e -0 s 1 o 0 u 4 rc ), e @ At n tn r : c .go D v e , s k a n a d il : the o ir 0 a M s B u b r m ev is ie si w on e ( r a ) a o t: m 0 b. M eo B o .o O o f v fi . c e T o h f e I n N fo R rm C a t m io a n y a n n o d t c R o e n g d u u la ct t o o ry r
+http ://vvv1w n re. oov /reading-rm/ doc-co! iecti on s/ nu regs/ staff/ sr1 02 2/ r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number
+1, Facility Name 2. Docket Number 3.Page
+Byron Station, Unit 1 05000454 1 OF 3
+4. Title
+OB Control Room Ventilation Supply Fan Failed to Start due to Erroneous Position Indication from the Closed Limit
+Switch for Charcoal Deluge Valve Interlock
+5. Event Date 6. LER Number 7. Report Date 8, Other Facilities Involved
+Month Day Year Year Se N q u u m e b n e ti r a l Rev N i o s . i on Month Day Year B Fa y c r i o lit n y N S a t m at e i on, Unit 2 0500 D 0 oc 4 k 5 e 5 t Number
+07 12 2022 2022 - 001 - 00 09 09 2022 Facility Name Docket Number
+NIA NIA
+9. Operating Mode 110. Power Level
+Mode 1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.71(a)(4)
+□ 20.2203(a)(1) □ 20 .2203( a)( 4) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.71(a)(5)
+cg]
+□ 20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(1 )(i)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50, 73(a)(2)(i)(C) □ 50,73(a)(2)(vii) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50. 73( a)( 2)(vii i)(A) □ 73.77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50,36( c)(1 )(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36( c)(1 )(ii)(A) □ 50. 73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Zoe Cox, Regulatory Assurance Manager (815) 406-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B VI ZIS N007 y NIA NIA NIA NIA NIA
+14. Supplemental Report Expected Month Day Year
+I
+15, Expected Submission Date
+D
+~ No Yes (If yes, complete 15. Expected Submission Date) NA NA NA
+16, Abstract (Limit to 1560 spaces, ie., approximately 15 single-spaced typewritten lines)
+On July 12, 2022, the OB Control Room Ventilation (VC)[VI] supply fan (0VC01 CB) failed to start when commanded due
+to an erroneous position indication from the closed limit switch (0ZS-FP432B-A) for the OB VC recirculation charcoal
+deluge valve (0FP432B). The deluge valve was closed but the limit switch operating lever had rolled under the limit
+switch finger, causing the operating lever to be in the same position as if the deluge valve were in the "intermediate" or
+"open" position. This resulted in the OB train of VC not being operable for 48 days. Once identified, the actuator arm
+and limit switch were adjusted to properly make up the closed limit and the fan was started, restoring the OB train of VC
+to operable.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) for any operation or condition which was prohibited
+by the plant's Technical Specifications.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. nrc. gov/ read i nq-rm/d oc-collection sin u reg s/staff/sr1 0 2 2/ r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Byron Station, Unit 1 05000454 NUMBER NO.
+2022 - 001 00
+NARRATIVE
+A. Plant Operating Conditions Before the Event:
+Event Date: July 12, 2022
+Unit 1 - Mode 1 - Power Operations, Reactor Power 100 percent
+Unit 2 - Mode 1 - Power Operations, Reactor Power 100 percent
+Reactor Coolant System (RCS) [AB): Normal Operating Temperature and Pressure
+No structures, systems or components were inoperable at the start of this event that contributed to the event
+B. Description of Event:
+On July 12, 2022, at 03:24 CDT, the OB Control Room (VC)[VI) supply fan (0VC01 CB) failed to start when
+commanded due to an erroneous position indication from the closed limit switch (0ZS-FP432B-A) for the OB VC
+recirculation charcoal deluge valve (0FP432B). The deluge valve was in the closed position; however, the limit
+switch operating lever had rolled under the limit switch finger, resulting in the operating lever being in the same
+position as if the deluge valve was in the intermediate or open position. In accordance with the OB VC Supply Fan
+control logic drawing (6E-0-4030VC02), if the 0FP432B valve limit switch is in the intermediate or open position
+(i.e., not closed), the supply fan shunt trip coil is energized, preventing the supply fan breaker from remaining closed
+after a start command, causing the fan to trip immediately.
+A review was completed to determine the last time the 0FP432B valve was manipulated. On May 23, 2022, the
+OB VC System makeup filter and recirculation charcoal adsorber were placed in service for OB VC chiller
+performance verification testing. This was the last documented run of 0VC01 CB supply fan prior to July 12, 2022.
+On May 25, 2022, 0FP432B, recirculation charcoal deluge valve was manually cycled to support performance of
+a Fire Protection (FP) surveillance. On July 12, 2022, at 03:24 CDT, the attempted start of the 0VC01 CB supply fan
+resulted in it immediately tripping. The 0A VC train was restarted 1 hour and 13 minutes later in accordance with
+procedural guidance. On July 12, 2022, at 14:05 CDT, the OB VC train was started after the actuator arm and limit
+switch were adjusted to properly make up the closed limit interlock. On July 12, 2022, at 19:48, after completion of
+post-maintenance testing, Limiting Condition for Operation (LCO) Condition A for Technical Specifications 3. 7.10,
+"Control Room Ventilation (VC) Filtration System" and LCO Condition A for TS 3.7.11, "Control Room Ventilation
+(VC) Temperature Control System" were exited, and operability of the OB train of VC was restored.
+C. Cause of Event
+The cause of the OB VC supply fan to not start was the limit switch operating lever had rolled under the limit switch
+finger which made the 0FP432B valve appear to be in the intermediate or open position causing the supply fan
+shunt trip coil to remain energized, thereby preventing the fan breaker from remaining closed after the start
+command. There were inadequate margins in the length of the limit switch operating levers to be made up with the
+limit switch finger.
+D. Safety Consequences:
+This condition had no actual safety consequences impacting plant or public safety. This event is not considered an
+event or condition that could have prevented fulfillment of a safety function.
+The VC system has two full capacity, redundant equipment trains that perform the same function. The VC HVAC
+system is designed to ensure control of environmental conditions within specified maximum and minimum
+NRC FORM 366A (08-2020) Page_2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA Library. and Information Collections Branch (T-6 A1 O M), U S
+Nuclear Regulatory Commission, Washington, DC 20555-0001 or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov. and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn Desk Officer for the Nuclear Commission, 725 17th Street NW
+Washington, DC 20503; e-mail =-"""===-"'-"-""'-"-""' The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not a information unless the document
+http //www. n re q ov/rea ding-rm/doc-collections/nu regs/staffi s r1022ir3/) requesting or requiring the displays a currently valid 0MB control number
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Byron Station, Unit 1 05000454 NUMBER NO,
+2022 001 00
+NARRATIVE
+limits which are conducive to personnel habitability and prolonged service life of Safety Category I components under
+all normal and abnormal station operating conditions. The 0A Train of VC remained operable during this event
+(i.e., between May 23, 2022 and July 12, 2022).
+E. Corrective Actions:
+The immediate corrective action performed was to adjust the actuator arm and limit switch to properly make up the
+closed limit and the OB VC supply fan was started.
+A work order to replace the operating levers on the OB VC recirculation charcoal deluge valves using the same part
+number found on the 0A VC train, which are longer in length than the lever currently installed on the OB VC train is
+the long-term corrective action for this event.
+F. Previous Occurrences:
+No previous, similar Licensee Event Reports were identified at the Byron Station in the past three years.
+G. Component Failure Data:
+Manufacturer Nomenclature Model Mfg. Part Number
+NAMCO NAMCO EL Series Operating Series EA 170 EL010-53338
+Levers
+NRC FORM 366A (08-2020) Page_3_ of _3_

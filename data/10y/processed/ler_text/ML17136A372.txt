@@ -1,0 +1,316 @@
+•
+F=PL ..
+L-2017-094
+10 CFR § 50.73
+May 16, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D. C. 20555-0001
+Re: Turkey Point Unit 3
+Docket No. 50-250
+Reportable Event: 2017-001-00
+Date of Event: March 18, 2017
+Reactor Trip, Auxilia1y Feed Water and Emergency Diesel Generator 3A Actuations,
+Loss of Safety Injection Function, and Completion of Technical Specification Required
+Shutdown
+The attached Licensee Event Report 05000250/2017-001-00 is submitted pursuant to 10 CFR
+50.73(a)(2)(i)(A), 10 CFR 50.73(a)(2)(iv)(A), and 10 CFR 50.73(a)(2)(v)(D),
+If there are any questions, please call Mr. Mitch Guth, Licensing Manager, at 305-246-6698.
+Sincerely,
+z lL
+Thomas Summers
+Regional Vice President - Southern Region
+Florida Power & Light Company
+Attachment
+cc: Regional Administrator, USNRC, Region II
+Senior Resident Inspector, USNRC, Turkey Point Nuclear Plant
+Florida Power & Light Company
+9760 SW 344'" St., Homestead, FL 33035
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+(See Page 2 for required number of
+20503. If a means used to impose an information collection does not display a currently valid OMB
+digits/characters for each block) control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Turkey Point Unit 3 05000250 1 of 4
+4. TITLE
+Loss of 3A 4kV Vital Bus Results in Reactor Trip, Safety System Actuations and Loss of Safety Injection Function
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL Rev
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Turkey Point Unit 4 05000251
+FACILITY NAME DOCKET NUMBER
+3 18 2017 2017 001 00 5 16 2017
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+☐
+20.2201(b)
+☐
+20.2203(a)(3)(i)
+☐
+50.73(a)(2)(i)(C)
+☐
+50.73(a)(2)(vii)
+☐
+20.2201(d)
+☐
+20.2203(a)(3)(ii)
+☐
+50.73(a)(2)(ii)(A)
+☐
+50.73(a)(2)(viii)(A)
+1
+☐
+20.2203(a)(1)
+☐
+20.2203(a)(4)
+☐
+50.73(a)(2)(ii)(B)
+☐
+50.73(a)(2)(viii)(B)
+☐
+20.2203(a)(2)(i)
+☐
+50.36(c)(1)(i)(A)
+☐
+50.73(a)(2)(iii)
+☐
+50.73(a)(2)(ix)(A)
+10. POWER LEVEL
+☐
+20.2203(a)(2)(ii)
+☐
+50.36(c)(1)(ii)(A)
+☒
+50.73(a)(2)(iv)(A)
+☐
+50.73(a)(2)(x)
+☐
+20.2203(a)(2)(iii)
+☐
+50.36(c)(2)
+☐
+50.73(a)(2)(v)(A)
+☐
+73.71 (a)(4)
+☐
+20.2203(a)(2)(iv)
+☐
+50.46(a)(3)(ii)
+☐
+50.73(a)(2)(v)(B)
+☐
+73.71 (a)(5)
+100%
+☐
+20.2203(a)(2)(v)
+☒
+50.73(a)(2)(i)(A)
+☐
+50.73(a)(2)(v)(C)
+☐
+OTHER
+☐
+20.2203(a)(2)(vi)
+☐
+50.73(a)(2)(i)(B)
+☒
+50.73(a)(2)(v)(D)
+Specify in Abstract below or in
+NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+FACILITY NAME TELEPHONE NUMBER (Include Area Code)
+Paul F. Czaya 305-246-7150
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO X
+SUBM
+DA
+IS
+T
+S
+E
+S ION
+ABSTRACT (Limit to 1400 spaces i.e, approximately 15 single-spaced typewritten lines)
+On March 18, 2017 at approximately 1107 hours, the Turkey Point Unit 3 reactor tripped from 100% power as a result of
+an electrical fault on the 3A 4kV vital bus. The Auxiliary Feed Water System actuated as expected, and the 3A Emergency
+Diesel Generator started but did not load, as designed, due to the lockout of the 3A 4kV bus. The 3A 4kV bus remained
+de-energized and the reactor was stabilized in Mode 3. Both Unit 4 High Head Safety Injection (HHSI) pumps were out
+of service for maintenance. The 3A HHSI pump was unable to be powered from the 3A 4kV bus resulting in a loss of the
+Safety Injection safety function for approximately 2.5 hours on both Units 3 and 4. The safety function is achieved by
+operation of two of the four pumps which are shared by both units. The loss of the 3A 4kV bus was caused by an
+electrical fault created by a conductive foreign material that had entered the current-limiting reactor cubicle that bridged an
+air gap between an uninsulated bus bar and the cubicle wall. The foreign material was a carbon fiber mesh used to
+reinforce a Thermo-Lag installation taking place in the 3A 4kV switchgear room. Corrective actions include: 1) The
+Thermo-Lag installation procedure will be revised to incorporate additional precautions for handling Thermo-Lag
+materials, and 2) the Engineering product risk and consequence assessment process will be revised to ensure a review is
+conducted of Safety Data Sheets for material being considered in the design. This event had no effect on the health and
+safety of the public.
+NRC FORM 366 (02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET
+Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMER 3. PAGE
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Turkey Point Unit 3 05000250 2 of 4
+2017 001 00
+NARRATIVE
+DESCRIPTION OF THE EVENT
+On March 18, 2017 at approximately 1107 hours, the Turkey Point Unit 3 reactor [AC, RDT] tripped from
+100% power as a result of an electrical fault on the 3A 4kV vital bus [EB, BU]. The three reactor coolant
+pumps (RCP) [AB, P] tripped. The 3B RCP was later restarted for forced recirculation. The reactor was
+stabilized in Mode 3. The 3A 4kV bus remained de-energized. Unit 4 remained operating at 100% power.
+The loss of the 3A 4kV bus required a plant shutdown to Mode 5 (cold shutdown) in accordance with
+Technical Specification 3.8.3.1, Action ‘a’. The completion of the shutdown is reportable in accordance with
+10 CFR 50.73(a)(2)(i)(A).
+The electrical fault resulted in smoke in the 3A 4kV switchgear room which prompted the declaration of an
+alert (Event Notification 52621) that ended at 1420 hours.
+Auxiliary Feed Water (AFW) [BA] actuated as expected on low level in Steam Generator A [SB, SG] and was
+secured at approximately 1135 hours. The 3A Emergency Diesel Generator (EDG) [EK, DG] started but did
+not load, as designed, due to the lockout resulting from the 3A 4kV bus fault. The 3A EDG was stopped at
+approximately 1332 hours. The actuations of the Reactor Protection System [JC], AFW and the 3A EDG are
+reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+The Unit 4 4A and 4B High Head Safety Injection (HHSI) pumps [BQ, P] were out of service for
+maintenance. A loss of safety function affecting both Units 3 and 4 occurred upon the loss of the 3A 4kV
+bus because the 3A HHSI pump could not be powered. This caused three of the four HHSI pumps to be
+inoperable. The four HHSI pumps are shared by both Units 3 and 4. The safety function is achieved by two
+of the four HHSI pumps. Both Unit 4 HHSI pumps were restored to operable status at 1336 hours on
+3/18/17. The loss of safety function is reportable in accordance with 10 CFR 50.73(a)(2)(v)(D).
+The Unit 3 shutdown required by the TS and the equipment actuations were reported in accordance with 10
+CFR 50.72 in Event Notification 52623.
+CAUSE OF THE EVENT
+The direct cause of the reactor trip was loss of the 3A 4kV bus. The direct cause of the fault in the 3A 4kV
+bus is attributed to the introduction of foreign material (FM) into the Current-Limiting Reactor (CLR)
+cubicle.
+Root Cause: The Thermo-Lag installation procedure does not address control of FM nor provide guidance
+on precautions that should be taken to control airborne debris fibers generated during installation of Thermo-
+Lag.
+Contributing Causes:
+1. Workers performing Thermo-Lag installation did not recognize that airborne FM could enter closed
+switchgear cabinets and cause an adverse affect. Personnel and the FM exclusion program focus more on
+NRC FORM 366A (02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET
+Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMER 3. PAGE
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Turkey Point Unit 3 05000250 3 of 4
+2017 001 00
+prevention of FM intrusion when systems are opened. The Thermo-Lag installation did not require
+opening switchgear cubicles.
+2. The design process does not prompt review of Safety Data Sheets for material being considered in a
+design to determine if there are any hazards being introduced during installation and use of the material.
+ANALYSIS OF THE EVENT
+Thermo-Lag 770-1 material was being installed over existing Thermo-Lag 330-1 to increase power cable
+protection fire ratings to 3 hours in the 3A 4kV switchgear room. The process placed 770 material (hard
+panels) around the existing material. Sealant 770 is used on the seams to strengthen the enclosure. A black
+loosely-woven fabric (carbon fiber mesh) is placed onto the seam and covered with the 770 sealant.
+The 3A 4kV switchgear room was classified as a foreign material exclusion (FME) area and was being
+maintained “clean as you go” by the insulators during the work activity. To control cleanliness in the room,
+the carbon fiber mesh was being cut outside the room. The material occasionally needed trimming, which
+was done inside the switchgear room on a scaffold covered in griffolyn to prevent materials from dropping
+below. To maintain the FME area, a supervisor inspected the area at completion of work to verify the area
+was clean and free of debris.
+A CLR is a protective device used to limit fault current by introducing reactance between sections of a line or
+between line and ground. The CLR is centered in its cubicle. The bus bars in the CLR cubicle are
+uninsulated. The 3A 4kV switchgear bus grounded to the inside of the CLR cubicle when the air gap was
+bridged by the carbon fiber mesh material to the ‘C’ phase bus bar. This resulted in an electrical arc flash
+which potentially damaged the adjacent CLR. The carbon fiber mesh material entered the CLR cubicle
+through gaps in the enclosure.
+The internal bus fault caused the Unit 3 auxiliary transformer feeder breaker [EA, BKR] to open and a 3A 4
+kV switchgear lockout. The Unit 3 reactor tripped on an undervoltage condition to vital power. The pressure
+from the arc flash damaged a fire door to the adjacent redundant 3B 4kV vital switchgear room.
+All three RCPs tripped at the beginning of the event. In addition to the 3A RCP that is powered from the 3A
+4kV bus, the 3B and 3C RCPs which are powered from the 3B 4kV bus tripped on underfrequency. The 3B
+RCP was started approximately 57 minutes after the event began to restore forced circulation.
+ANALYSIS OF SAFETY SIGNIFICANCE
+When an arc flash occurs in a switchgear train, all equipment fed from it would be de-energized as a result of
+protection actuations creating a plant transient. The reactor shutdown and the opposite vital electrical train
+was relied on to maintain Unit 3 in a safe and stable shutdown condition.
+The Turkey Point units have alternate methods to provide power to the equipment necessary to maintain
+shutdown. For this reason, the potential to reach a condition in which one or more barriers fail, increasing
+the likelihood of radioactive release is very low.
+NRC FORM 366A (02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET
+Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMER 3. PAGE
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Turkey Point Unit 3 05000250 4 of 4
+2017 001 00
+All safety systems actuated as required in response to the bus failure and operators maintained adequate decay
+heat removal for a controlled cool down to Mode 5 (cold shutdown).
+The fire door that separates the 3A and 3B 4kV vital switchgear rooms was compromised during the event by
+a damaged latching mechanism. However, given the low combustible load in the CLR cubicle and proper
+operation of the auxiliary transformer feeder breaker, there was no fire scenario that required proper
+functioning of the fire door.
+In conclusion, based on the unique susceptibility of the CLR cubicle to FM induced arcing, the low internal
+combustible loading of the cubicle, proper actuation of the fault protection devices, and operator recovery
+actions, the safety significance of the 3A 4kV bus failure is considered to be low and there was no effect on
+the health and safety of the public.
+The Safety Injection function for both units was lost for approximately 2.5 hours. There was low safety
+significance associated with the HHSI unavailability as the success criterion is one HHSI pump for small and
+medium loss of coolant accidents (LOCA). In addition, the control switches for the Unit 4 HHSI pumps had
+been placed in the pull-to-lock position and the pumps could have been started manually to mitigate a large
+break LOCA if needed.
+CORRECTIVE ACTIONS
+Corrective actions are in accordance with Condition Report 2192198 and include:
+1. The CLR was removed from its cubicle, sent to a vendor for examination and testing, and then reinstalled
+and returned to service.
+2. The Thermo-Lag installation procedure will be revised to incorporate additional precautions for handling
+Thermo-Lag materials.
+3. A case study will be provided to targeted personnel concerning this event emphasizing that FME also
+applies to nearby equipment that is not opened and that can be affected by the work activity.
+4. Procedures governing FM and material control will be revised to enhance personnel awareness of the
+potential to introduce FM into nearby equipment that is not opened and that can be affected by the work
+activity.
+5. The Engineering product risk and consequence assessment process will be revised to ensure the
+Responsible Engineer includes a review of Safety Data Sheets for material being considered in the design.
+ADDITIONAL INFORMATION
+EIIS Codes are shown in the format [IEEE system identifier, component function identifier, second
+component function identifier (if appropriate)].
+FAILED COMPONENTS IDENTIFIED: None
+PREVIOUS SIMILAR EVENTS: None
+NRC FORM 366A (02-2014)

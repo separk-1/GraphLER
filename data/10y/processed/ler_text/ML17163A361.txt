@@ -1,0 +1,604 @@
+William R. Gideon
+Vice President
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.457.3698
+10 CFR 50.73
+June 9, 2017
+Serial: BSEP 17-0049
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject: Brunswick Steam Electric Plant, Unit No. 2
+Renewed Facility Operating License No. DPR-62
+Docket No. 50-324
+Licensee Event Report 2-2017-002
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement of 10 CFR 50.73(a)(1) for a written report within sixty (60) days of a reportable
+occurrence.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager – Regulatory
+Affairs, at (910) 457-2487.
+Sincerely,
+William R. Gideon
+SWR/swr
+Enclosure: Licensee Event Report 2-2017-002
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Ms. Michelle P. Catts, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Andrew.Hon@nrc.gov
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP) Unit 2 05000324 1 OF 4
+4. TITLE
+Plant Mode Change with Primary Containment Inoperable
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR 05000
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+04 13 2017 2017 - 002 - 00 06 09 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+2
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Lee Grzeck, Manager - Regulatory Affairs (910) 457-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+ SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 13, 2017, Unit 2 was in Mode 4 preparing to exit a refueling outage. The primary containment was
+being vented to ensure habitability of the Drywell. The valve alignment for Drywell ventilation makes the
+primary containment inoperable due to the Drywell and Suppression Chamber airspaces being in
+communication with each other. At 23:47 Eastern Daylight Time (EDT), the reactor mode was changed from
+Mode 4 to Mode 2 with ventilation still in progress. In Mode 2, the Primary Containment is required to be
+operable. Therefore, the plant entered a condition prohibited by the Technical Specifications, and the event
+is reportable per 10 CFR 50.73(a)(2)(i)(B). It is also reportable per 10 CFR 50.73(a)(2)(v)(D) because the
+primary containment safety function was lost. The condition was discovered 28 minutes later on April 14,
+2017, at 00:15 EDT and was corrected by closing the ventilation flowpaths at 00:30 EDT on April 14, 2017.
+This event resulted from Control Room personnel not initiating a tracking document while in Mode 4 with the
+primary containment inoperable. When preparing to change the plant mode from Mode 4 to Mode 2, the
+primary containment ventilation status was overlooked. Corrective actions for this event included closing the
+containment ventilation paths and remediating the Shift Manager and Control Room Supervisor.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000324 NUMBER NO.
+Unit 2
+2017 - 002 - 000
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+On April 13, 2017, at approximately 23:47 Eastern Daylight Time (EDT), Unit 2 was in Mode 4 (i.e. Cold
+Shutdown) in preparation for exiting a refueling outage. At that time, the ventilation valves for both the
+Drywell and Suppression Chamber were open to ensure the atmosphere in the containment was
+breathable for personnel performing maintenance in the Drywell.
+Reportability Criteria
+This event is reportable per 10 CFR 50.73(a)(2)(i)(B) because the plant entered a condition which is
+prohibited by the plant’s Technical Specifications (TS). Specifically, TS 3.6.1.1 requires the primary
+containment to be operable in Modes 1, 2, and 3. With the drywell and suppression chamber atmospheres
+communicating, the containment is inoperable. Additionally, TS Limiting Condition for Operation (LCO)
+3.0.4 requires all LCOs to be met for the plant condition to be entered, prior to entry. Primary containment
+operability is required in Mode 2 (i.e., Startup). Therefore, at 23:47 EDT on April 13, 2017, when the plant
+changed modes from Mode 4 to Mode 2 without meeting the LCO for primary containment, this failed to
+meet TS LCO 3.0.4.
+This event is reportable per 10 CFR 50.73(a)(2)(v)(D) because the plant experienced a loss of the safety
+function of a system designed to mitigate the consequences of an accident. Since the containment was
+rendered inoperable by having the Drywell and Suppression Chamber airspaces in communication with
+each other, the safety function was lost.
+This event is also reportable per 10 CFR 50.72(b)(3)(v)(D) via an 8-hour telephone report. The telephone
+report was completed as Event Number 52679 at 07:37 EDT on April 14, 2017.
+Event Description
+On April 13, 2017, Unit 2 was in Mode 4 preparing to exit a refueling outage. At 20:48 EDT, Control Room
+personnel began ventilating the primary containment in preparation for a personnel entry into the Drywell to
+perform minor maintenance. The ventilation procedure requires valves be opened from the Suppression
+Chamber atmosphere and the Drywell atmosphere into a shared ventilation line. With both atmospheres
+communicating, the Primary Containment is not operable. However, Primary Containment is not required
+to be operable with the unit in Mode 4.
+When the maintenance was completed in the Drywell, Control Room personnel resumed preparations for
+starting up the reactor. At 23:47 EDT, the reactor mode was changed from Mode 4 to Mode 2. In Mode 2,
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000324 NUMBER NO.
+Unit 2
+2017 - 002 - 000
+NARRATIVE
+the Primary Containment is required to be operable. Since it was still being ventilated as described above,
+it was not operable. Therefore, this mode change was not allowed per TS 3.0.4.
+On April 14, 2017, at 00:15 EDT (i.e., 28 minutes later), a licensed operator was performing a routine
+survey of Control Room panels to verify expected plant condition and valve alignments during reactor
+startup. He observed the Drywell and Suppression Chamber atmospheres being simultaneously vented.
+He immediately notified other shift personnel, and by 00:30 EDT on April 14, 2017, the ventilation paths
+were closed, terminating the event. The total time during which Primary Containment was inoperable while
+in Mode 2 was 43 minutes.
+Event Cause
+This event occurred because Control Room personnel did not issue an LCO for tracking (i.e., “tracking
+LCO”) primary containment inoperability in preparation for eventual plant mode change and startup.
+Procedure 0OI-01.01, “BNP Conduct of Operations Supplement,” provides instructions for initiating a
+tracking LCO when a structure, system, or component (SSC) is removed from service while the plant is in
+a mode where that SSC is not required. In this instance, Unit 2 was in Mode 4 when the Drywell and
+Suppression Chamber were simultaneously vented, rendering the primary containment inoperable. Since
+the primary containment is not required in Mode 4, a tracking LCO should have been initiated to ensure it
+was restored to operable status before entering Mode 2. This step was not performed, so the condition
+was not identified during preparations for changing the plant mode.
+Safety Assessment
+The function of the primary containment is to isolate and contain fission products released from the
+Reactor Primary System following a design basis Loss of Coolant Accident (LOCA) and to confine the
+postulated release of radioactive material. The primary containment consists of two volumes, a Drywell
+and a Suppression Chamber. Steam and water piping for the nuclear process is located within the
+Drywell. A large volume of water is located in the Suppression Chamber for the rapid suppression of
+steam. The atmospheres of these two volumes are normally isolated from each other. In the event of a
+LOCA, steam released into the Drywell passes through downcomers into the Suppression Chamber below
+the water level where it is quenched. Should a LOCA occur while the Drywell and Suppression Chamber
+atmospheres are communicating, released steam could bypass the downcomers, potentially pressurizing
+both volumes of the containment. The containment would be susceptible to being pressurized beyond its
+capability, potentially causing containment to fail.
+In this event, the two atmospheres of the primary containment were allowed to communicate via a shared
+ventilation line as described previously. During this time, the plant was emerging from a refueling outage,
+and the reactor coolant was still well below 212 degrees F as determined by the inlet temperature of the
+Residual Heat Removal [BO] heat exchanger and by the loop temperatures of the Reactor Recirculation
+[AD] system. If a LOCA had occurred during this time, the result would have been loss of cold water into
+the otherwise intact primary containment. No pressurization of the containment could have resulted. It
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000324 NUMBER NO.
+Unit 2
+2017 - 002 - 000
+NARRATIVE
+should be noted that the ventilation valve alignment was identified promptly by a routine inspection of
+Control Room panels and was corrected within 15 minutes of discovery (i.e., 43 minutes from changing
+from Mode 2 to Mode 4).
+This event did not result in any adverse impact on the health and safety of the public. This analysis
+applies to the plant condition that existed at the time with reactor coolant below 212 degrees F.
+Corrective Actions
+The primary containment was restored to operable status at 00:30 on April 14, 2017.
+A remediation plan was developed and implemented to assess the Shift Manager and Control Room
+Supervisor for watchstanding and being reinstated as appropriate. This action is complete.
+Previous Similar Events
+No events were identified in the past three years in which the primary containment was made inoperable
+when it was required to be operable.
+Commitments
+This report contains no new regulatory commitments.
+NRC FORM 366A (04-2017) Page 4 of 4

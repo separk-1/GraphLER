@@ -1,0 +1,284 @@
+Jon A. Franke Susquehanna Nuclear, LLC TALEN~
+Site Vice President 769 Salem Boulevard
+BerWick, PA 18603 ENERGY
+Tel. 570.542.2904 Fax 570.542.1504
+Jon.Franke@TalenEnergy.com
+MAY 0 3 2016
+U.S. Nuclear Regulatory Commission 10 CFR 50.73
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387/2016-007-00
+UNIT 1 LICENSE NO. NPF-14
+PLA-7465 Docket No. 50-387
+Attached is Licensee Event Report (LER) 50-387/2016-007-00. The LER reports an
+event involving in operability of a swing bus transfer switch. This event was determined
+to be repmiable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by
+Technical Specifications and 10 CFR 50.73(a)(2)(v)(D) as a condition that could have
+prevented fulfillment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of
+this event.
+This letter contains no new regulatory commitments.
+J. A. Franke
+Attachment: LER 50-3 87/2016-007-00
+Copy: NRC Region I
+Mr. J. E. Greives, NRC Sr. Resident Inspector
+Ms. T. E. Hood, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 1013112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+--~:~_
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+;' (, I
+\~.. ..... ' . 1 . _ .. ) LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+"'-' Branch (T·5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by
+(See Page 2 for required number of internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150·0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an inlormation collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to respond
+to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Susquehanna Steam Electric Station Unit 1 05000387 1 of 5
+4. TITLE
+lnoperability of Swing Bus Transfer Switch Due to Deformed Bolt on Linkage
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I S EQUENTIAL I REV MONTH DAY YEAR FACILITY NAME D 0 O 5 C 0 K 0 E 0 T 3 N 8 UM 8 B ER
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+03 05 2016 2016 -007 -00 05 103 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §:(Check all that apply)
+D 2o.22o1(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+087 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+ICENSEE CONTACT ~ELEPHONE NUMER (Include Area Code)
+C. E. Manges, Jr., Senior Engineer- Nuclear Regulatory Affairs (570) 542-3089
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRJBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM ~OMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TO EPIX
+E ED ASU R413 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8] NO
+DATE
+!ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 5, 2016 during surveillance testing, Automatic Transfer Switch (ATS), 1ATS229, failed to close in
+on the alternate supply resulting in a loss of the Division 2 Class 1 E Engineered Safeguards System (ESS)
+480V Motor Control Center (MCC) 1 B229 and entry into Technical Specifications 3.3.3.1, 3.5.1, and 3.6.1.3.
+Based on the cause of the failure, Susquehanna believes that there is firm evidence that the transfer switch
+would have failed on its next actuation following testing on February 5, 2016. Based on this conclusion, the
+condition existed for a period longer than allowed by Technical Specifications. As a result, this condition is
+being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical
+Specifications. Susquehanna also determined that work associated with the Division 1 transfer switch
+(1ATS219) was performed while the Division 2 switch was unknowingly inoperable resulting in simultaneous
+inoperability of both divisions. Since both divisions were inoperable for a period of time between February 5,
+2016 and March 5, 2016, this is also considered a condition that could have prevented fulfillment of a safety
+function and is reportable in accordance with 10 CFR (a)(2)(v)(D).
+The direct cause was determined to be a deformed bolt on the upper linkage. The apparent cause was the
+upper linkage rod being too long causing the deformation of the bolt. Corrective actions include revising the
+preventive maintenance activities for the transfer switch.
+There were no actual consequences to the health and safety of the public as a result of this event.
+NRC FORM 366 (11-2015)
+Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatol)' collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industl)'. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatol)' Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollecls.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatol)' Affairs,
+CONTINUATION SHEET NEOB-10202, (3150·0104), Office of Management and Budge!, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, Unit 1 NUMBER NO.
+05000387
+2016 -007 -00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 87 percent Rated Thermal Power
+Based upon the failure mode of the transfer switch, the switch is considered to have been inoperable since
+the last time it was tested on February 5, 2016.
+EVENT DESCRIPTION
+Background Information/System Description:
+Two redundant Class 1 E 480 V Isolation Swing Buses (1 B219 and 1 B229) [EllS System/Function Identifier:
+ED/BU] provide power for the Residual Heat Removal (RHR) Injection Valves [EllS System/Function
+Identifier: BO/INV], RHR Minimum Flow Valves [EllS System/Function Identifier: BOIV], Recirculation Loop
+Bypass Valves [EllS System/Function Identifier: AD/V], and Recirculation Discharge Valves [EllS
+System/Function Identifier: AD/V]. The preferred power source to the isolation swing bus is from the A and
+B 480 VAC ESS Bus Load Groups via motor-generator set [EllS Function Identifier: MG], and the alternate
+power is supplied directly from the C and D 480 VAC ESS Bus Load Groups, respectively. The transfer will
+occur automatically upon reduction or loss of voltage from the preferred source.
+Event Timeline:
+On March 5, 2016 during surveillance testing, Automatic Transfer Switch (ATS) [EllS Function Identifier:
+ASU], 1ATS229, failed to close in on the alternate supply resulting in a loss of the Division 2 Class 1 E ESS
+480V MCC 1 B229 and entry into Technical Specifications 3.3.3.1, 3.5.1, and 3.6.1.3.
+The detailed timeline is as follows:
+February 5, 2016
+12:00- 1ATS229 was successfully tested.
+February 8, 2016
+01:45- Technical Specification 3.5.1 was entered for a Division 1 RHR system outage window. Work
+associated with 1ATS219 was performed during this window.
+February 10,2016
+17:43-The RHR system outage window was completed and Technical Specification 3.5.1 was exited.
+March 5, 2016
+21:25- 1ATS229 failed to close in on the alternate supply. Testing was stopped and 1 B229 was
+de-energized.
+21:30-The Field Unit Supervisor (FUS) reported that the ATS transfer motor was very hot to the touch and
+had an acrid odor.
+NRC FORM 366 (11-2015)
+Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatmy collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, Unit 1 NUMBER NO.
+05000387
+2016 -007 -00
+NARRATIVE
+March 6, 2016
+00:45- Electrical Maintenance personnel arrived to assess the status of 1ATS229.
+04:05 - The MG set output breaker was closed and power was restored to 1B 229
+04:06- Operations exited Technical Specifications 3.3.3.1 and 3.6.1.3 with valve power and indication
+restored. Technical Specification 3.5.1 for RHR Low Pressure Coolant Injection (LPCI) mode was
+maintained due to 1ATS229 still being inoperable to transfer to alternate power.
+March 7, 2016
+03:33- Operations entered Technical Specifications 3.3.3.1 and 3.6.1.3 due to de-energizing 1B 229 for
+troubleshooting.
+15:27-Troubleshooting, repairs, and swing bus surveillance were satisfactorily completed.
+16:57- Operations exited Technical Specifications 3.3.3.1, 3.5.1, and 3.6.1.3.
+Troubleshooting/Investigation
+Engineering completed a troubleshooting plan and a Failure Mode Analysis. Prior to investigating the
+internals of the transfer switch, Electrical Maintenance attempted to swap the transfer switch in its alternate
+position and as expected the switch cycled continuously without swapping. All the hardware on the transfer
+switch was checked for tightness, but nothing abnormal was identified. The transfer switch linkage was
+observed while in the upward normal position, but no abnormalities were found. The transfer switch was
+then manually manipulated to the alternate (down) position and the linkage was observed again. It was
+determined that in this position the shaft of the motor had a great deal of downward force applied to it
+indicating that the upper linkage rod was too long. The bolt attaching the rod to the mounting plate was
+removed and it was discovered that the bolt was slightly deformed. The bolt was removed and the rod was
+pulled up to the proper position on the mounting plate, which revealed that the rod was approximately %
+inch too long resulting in the continuous cycling of the switch without latching in the alternate position. An
+adjustment was made to the rod to align it with the mounting plate. During adjustment it was noted that all
+nuts attaching the upper rod were tight eliminating the possible cause of a loose connection on the upper
+rod linkage. The rod was reinstalled with the deformed bolt and then the transfer switch was tested. It
+successfully transferred to the alternate position with the deformed bolt; however, since the bolt being
+deformed over time in addition to the rod being too long caused the failed transfer, the bolt was replaced to
+eliminate any concern. No other issues were found and all additional attempts to place the transfer switch
+in the alternate position were successful.
+NRC FORM 366 (11-2015)
+Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office ollnformation and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. II a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, Unit 1 NUMBER NO.
+05000387
+2016 -007 -00
+NARRATIVE
+Reportability
+Based on the cause of the failure, Susquehanna believes that there is firm evidence that the transfer switch
+would have failed on its next actuation following testing on February 5, 2016. Based on this conclusion, the
+condition existed for a period longer than allowed by Technical Specifications. As a result, this condition is
+being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical
+Specifications. Since Division 1 was inoperable from February 8, 2016 at 01 :45 through February 10, 2016
+at 17:43 and this timeframe is enveloped by the time that Division 2 was unknowingly inoperable, this is also
+considered a condition that could have prevented fulfillment of a safety function and is also reportable in
+accordance with 10 CFR (a)(2)(v)(D).
+CAUSE OF EVENT
+The direct cause was determined to be a deformed bolt on the upper linkage.
+The apparent cause was the upper linkage rod being too long causing the deformation of the bolt. The
+previous preventive maintenance (PM) activity inspected the linkage, but did not provide criteria for the
+inspection specifically with regard to linkage rod length.
+ANALYSIS/SAFETY SIGNIFICANCE
+Actual Consequence
+The actual consequence was failure of 1ATS229 to transfer to its alternate supply causing ESS Swing Bus
+1 B229 to de-energized and resulting in entry into Technical Specifications 3.3.3.1, 3.5.1, and 3.6.1.3.
+Potential Consequence
+In the event of a Unit 1 LOCA, LPCI would be required to inject to the Reactor Pressure Vessel (RPV). If
+this had occurred during the time that 1A TS229 was affected (2/5/16 to 3/5/16), and concurrent with a loss
+of power to the primary source for 1A TS229, then transfer to the alternate power supply would have failed
+and bus 1 B229 would have lost power. Since the LPCI injection valve HV151 F015B receives power from
+1 B229, it would not open and LPCI injection from Division 2 RHR would not have occurred as required.
+Recirculation Pump B discharge and discharge bypass valves HV143F031 Band HV143F032B also receive
+power from 1 B229 and are required to close on a LPCI injection signal to ensure the LPCI flow is directed
+into the RPV. Additionally, during the period when the Division 1 transfer switch (1ATS219) was out of
+service for scheduled maintenance, LPCI injection from Division 1 RHR would also not have occurred.
+Since HV151 F015B, HV151 F017B and HV151 F007B are powered from 1 B229 and are used to establish
+the necessary RHR system alignment for Shutdown Cooling (a non-safety mode of operation), this RHR
+mode of operation would have been prevented.
+The RHR minimum Flow valve HV151 F007B receives power from 1 B229 and would not have closed as
+required after a Division 2 RHR pump start when system flow is established. This would result in diversion
+of some RHR flow back to the suppression pool via the minimum flow line. While this would not prevent
+operation of Division 2 RHR in other modes, it could result in reduced flowrate due to the flow diversion.
+NRC FORM 366 (11-2015)
+Page 5 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnlocollects.Resource@nrc.gov, and to the Desk Oflicer, Oflice of Information and Regulatory Aflairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Oflice of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+j
+Susquehanna Steam Electric Station, Unit 1 NUMBER NO.
+05000387
+2016 -007 -00
+NARRATIVE
+CORRECTIVE ACTIONS
+Revise applicable PM activities associated with the transfer switch to include the following:
+1. Inspect the upper and lower linkage for any abnormalities such as deformed bolts that connect the upper
+and lower rods to the motor or mounting plates and replace any deformed or damaged equipment as
+necessary.
+2. Establish criteria for rod length and adjustment.
+COMPONENT FAILURE INFORMATION
+Automatic Transfer Switch Information
+• Manufacturer- RUSSELECTRIC
+• Model Number- RMT 4004CEF
+• Voltage Characteristics-480VAC, 400A, 30
+PREVIOUS SIMILAR EVENTS
+Condition Report 2013-03361: On November 10, 2013, 1A TS229 failed to close on the alternate supply. The
+cause was vibrations during monthly testing that caused the transfer switch motor mounting bolts to loosen.
+NRC FORM 366 (11-2015)

@@ -1,0 +1,314 @@
+Exelon Generation.,
+10 CFR 50.73
+CCN: 21-68
+July 16, 2021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2
+Subsequent Renewed Facility Operating License No. DPR-44
+NRC Docket No. 50-277
+Subject: Licensee Event Report (LER) 2-2021-002-00 Safety Relief Valve lnoperability
+Due to Nitrogen Leakage from Braided Hose Wear
+References: None
+This subject report is being submitted in accordance with 10 CFR 50.73(a)(2)(i)(B) for a
+condition prohibited by Technical Specifications, and 10 CFR 50.73(a)(2)(v)(D) for an event
+or condition that at the time of discovery could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an
+accident.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Manager, Matthew K. Rector at (717) 456-4351.
+Respectfully,
+M~L_
+Site Vice President
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W. DeHaas, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form I
+A
+n
+f
+f
+f
+o
+a
+c
+ir
+o
+s
+l
+,
+l e
+(
+c
+3
+t
+1
+s.
+5
+R
+0
+e
+-0
+s
+1
+o
+0
+u
+4
+rc
+),
+e @
+At
+n
+tn
+r
+:
+c . g
+D
+ov
+e
+,
+s k
+a n
+a
+d
+il :
+th e
+o ir
+O
+a_
+M
+s
+B
+u b
+r
+m
+ev
+is
+ie
+si
+w
+on
+e
+@
+r a
+o
+t
+m
+: O
+b.
+M
+eo
+B
+p .
+O
+go
+ff
+v
+ic
+.
+e
+T
+o
+h
+f
+e
+I n
+N
+fo
+R
+rm
+C
+a
+m
+tio
+a
+n
+y
+a
+n
+n
+o
+d
+t
+R
+co
+e
+n
+g
+d
+u
+u
+la
+c
+t
+t
+o
+o
+ry
+r
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 2 05000 277 1 OF 3
+4. Title
+Safety Relief Valve Inoperability Due to Nitrogen Leakage from Braided Hose Wear
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year
+Number No.
+Month Day Year
+05000
+05 18 2021 2021 - 002 - 00 07 16 2021 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 010
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Matthew K. Rector, Regulatory Assurance Manager 7174564351
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B SB RV T020 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 21, 2021 it was identified that the Unit 2 instrument nitrogen compressors were increasing in run hours, with
+all other related parameters steady. The condition was monitored and trended, and investigation determined the most
+likely cause to be nitrogen leakage within primary containment. In May, a second step increase in nitrogen leakage
+occurred, after which the decision was made to down power the unit to permit entry into primary containment and
+investigate the source of leakage. The plant reached a minimum of approximately 10% power to support this evolution.
+On May 18, 2021 it was discovered by visual observation that the nitrogen supply to a safety relief valve (RV-2-02-
+071K) was the source of the leak. Stainless steel braided hoses (1/2” Swagelok flexible hoses) which supply and return
+nitrogen from the actuating solenoid valve had rubbed together and worn such that both hoses had failed. The valve
+was declared inoperable for its Automatic Depressurization System (ADS) function on May 18, 2021 at 0117. The
+hoses were replaced, restoring operability on May 18, 2021 at 1225, and the unit was returned to full power. There
+were no other systems which were inoperable during this evolution that contributed to this event. This condition is
+reportable under 10 CFR 50.73(a)(2)(i)(B) for a condition not allowed by Technical Specifications and
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Peach Bottom Atomic Power Station, Unit 05000- 277 YEAR NUMBER NO.
+2
+2021 - 002 - 00
+NARRATIVE
+also reportable under 10 CFR 50.73(a)(2)(v)(D) for a loss of safety function for the ADS system, based on subsequent
+analysis of the leakage.
+There were no actual safety consequences as a result of this event.
+Unit Conditions Prior to the Event
+Peach Bottom Atomic Power Station Unit 2 (PB2) was operating at approximately 10 percent power in MODE 1. There
+were no structures, systems, or components that were inoperable at the start of the event and contributed to the
+identified condition.
+Description of Event
+On March 21, 2021 it was identified that the PB2 nitrogen compressors were increasing in run hours, with all other
+related parameters steady. In May, a second step increase in nitrogen leakage occurred. Further investigation
+determined the most likely cause to be leakage within primary containment, after which the decision was made to down
+power the unit to permit entry into primary containment and investigate the source of any possible leakage. PB2
+reached a minimum of approximately 10% power to support primary containment entry. On May 17, 2021 it was
+discovered by visual observation that the nitrogen supply to a safety relief valve (RV-2-02-071K) was the source of the
+leakage. The braided stainless steel hoses (i.e., 1/2” Swagelok flexible hoses) which supply and return nitrogen from
+the actuating solenoid valve for RV-2-02-071K had rubbed together and worn such that both hoses had failed. This
+valve which supports an Automatic Depressurization System (ADS) function was declared inoperable on May 18, 2021
+at 0117.
+Analysis of Event
+The ADS system is an Emergency Core Cooling System (ECCS) which is designed to provide depressurization of the
+reactor coolant system during a small break loss of coolant accident if high pressure injection fails or is unable to
+maintain required water level in the reactor vessel. It reduces the reactor pressure vessel pressure to within the
+operating pressure range of the low pressure ECCS subsystems so that these subsystems can provide coolant
+inventory makeup. To accomplish this function, pneumatic power is used to actuate the safety relief valves, which are
+manufactured by Target Rock.
+The effect of this condition is that one of five ADS valves was not considered operable as required by Technical
+Specifications (TS) Section 3.5.1. The remaining four valves were operable for this function. As such, the unit would
+have experienced reduced capacity for depressurization if an emergency depressurization was needed. No conditions
+requiring depressurization were encountered during the period of inoperability. Failure of the nitrogen supply system did
+not impact the safety relief valve’s overpressure relief function and, therefore the valve remained operable for this
+function.
+This event is reportable under 10CFR 50.73(a)(2)(i)(B) since the safety relief valve was considered inoperable for a
+period greater than permitted by TS. Peach Bottom TS Limiting Condition for Operation 3.5.1, Condition E for one ADS
+valve inoperable has a Completion Time of 14 days. Since this condition existed for longer than the LCO duration, this
+reporting criterion applies.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Peach Bottom Atomic Power Station, Unit 05000- 277 YEAR NUMBER NO.
+2
+2021 - 002 - 00
+NARRATIVE
+This event is also considered reportable under 10CFR 50.73(a)(2)(v)(D) since the ADS safety function, which is needed
+to mitigate the consequences of an accident, was impaired. The Bases for TS 3.5.1 states that five ADS valves are
+required to be operable to provide the ADS function. A single failure in the operable ADS valves results in a reduction in
+depressurization capability. The leak was identified by walkdown inside containment and was repaired within 12 hours
+of entering the LCO. Subsequent inspection of the hoses in conjunction with data analysis prior to and after the repair
+demonstrated a potential loss of safety function, because the leak was larger than the allowable leakage for the ADS
+accumulators. This failure only impacts the ‘K’ ADS valve for all sources of nitrogen except the backup bottle source.
+For the backup bottles, the ‘K’ and ‘G’ ADS valve are supplied by a common header, which would potentially be
+automatically isolated because of high flow through the header due to the leak.
+Cause of the Event
+Safety relief valve RV-2-02-071K is known to be subject to increased vibration levels, based on measured flow induced
+vibration within the ‘D’ main steam line. In November 2016, the actuating solenoid valve was relocated from the safety
+relief valve to nearby structural steel in an attempt to arrest vibration of the solenoid. The modification was only
+installed on this valve. This modification required that stainless steel braided hoses be added to and from the solenoid
+valve to carry nitrogen to the solenoid. Over the course of the current operating cycle, a retaining clip loosened which
+allowed the hoses to come in contact with each other. At the time of repair, the retaining clip was replaced and the
+hoses were reoriented to reduce the likelihood of future contact. It is estimated that this leak first began and exceeded
+allowable leakage rates on or near March 5, 2021.
+The identified cause of this event is a design that did not appropriately address known vibration within the system.
+Additionally, maintenance instructions were not adequate to ensure that the retaining clip was installed correctly and
+remained in place throughout the cycle.
+Corrective Actions
+The damaged hoses were replaced and the safety relief valve RV-2-02-071K was restored to operable status (including
+its ADS function) on May 18, 2021 at 0117 as part of the down power evolution. The investigative product which will
+determine if additional corrective actions are needed is in progress.
+Previous Similar Events
+Peach Bottom has submitted Licensee Event Reports in the past for nitrogen leakage to safety relief valves in 2006 (ref.
+LER 06-002-00) and 2011 (LER 11-003-00). Although each event was due to nitrogen leakage, the causes of the
+leakage are not similar.
+NRC FORM 366A (08-2020) Page 3 of 3

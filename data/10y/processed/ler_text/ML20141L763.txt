@@ -1,0 +1,169 @@
+#
+DUKE John A. Krakuszeski
+Vice President
+""' ENERGY®
+Brunswick Nuclear Plant
+8470 River Rd SE
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+May 20, 2020
+Serial: RA-20-0111
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2020-001
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, is submitting the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Ms. Sabrina Salazar, Manager - Nuclear
+Support Services, at (910) 832-3207.
+Sincerely,
+John A. Krakuszeski
+SBY/sby
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+Ms. Laura Dudes, NRC Regional Administrator, Region II
+Mr. Andrew Hon, NRC Project Manager
+Mr. Gale Smith, NRC Senior Resident Inspector
+Chair - North Carolina Utilities Commission
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to industry.
+.t. i~ .: ,V~ t >f\AEG(J{ " I>o .,, (See Page 2 for required number of digits/characters for each block) S U e .S n . d N co u m cl m ea e r n ts R e re g g u a la rd to in ry g b C u o r m de m n i s e s s io ti n m , a t W e a to s h t i h n e g t I o n n fo , rm D a C ti on 2 0 S 5 e 5 r 5 v - i 0 c 0 e 0 s 1 B , ra o n r ch b y (T - e 6 - m A a 1 i 0 l M t ) o ,
+\ . j . ; . , ( L 0 " "> (See NUREG-1022, R.3 for instruction and guidance for completing this form I R n e fo g c u o la lle to c r t y s . A R f e fa so irs u , r c ( e 3 @ 15 n 0 r - c 0 .g 1 o 0 v 4 , ) , a A n t d tn : t h D e e O sk M O B f fi r c e e v r i e f w or e r t h a e t : N O u M cle B a r O R ffi e c g e u l o a f t o I r n y f o C rm om at m io i n s s a io n n d ,
+~ ........ ! http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 725 17th Street NW, Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The
+<,..,,,l'J ~o~ NRC may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a currently
+valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 3
+4. Title
+Manual Reactor Scram During Startup due to all Bypass Valves Fully Opening
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+03 22 2020 2020 - 001 - 00 05 20 2020 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+2
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) □ 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10. Power Level □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(v)(A) □ 73.71(a)(4)
+□ 20.2203(a)(2)(iii) □ 50.36(c)(2) □ 50.73(a)(2)(v)(B) □ 73.71(a)(5)
+□ 20.2203(a)(2)(iv) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(C) □ 73.77(a)(1)
+002 □ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(vii) □ 73.77(a)(2)(ii)
+□ 50.73(a)(2)(i)(C) □ Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact ITe lephone Number (Include Area Code)
+Sabrina Salazar, Manager – Nuclear Support Services (910) 832-3207
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□ Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 12:55 Eastern Daylight Time (EDT) on March 22, 2020, with Unit 1 in Mode 2, stabilized at 2% power, during startup from a
+refueling outage, all four main turbine Bypass Valves (BPVs) fully opened unexpectedly. This created an unexpected reactor
+depressurization and cooldown which resulted in the operating crew inserting a manual reactor scram. The scram was uncomplicated
+and all control rods inserted as expected during the scram.
+All BPVs fully opened as a result of the Turbine Control System (TCS) pressure setpoint not being set correctly. This error went
+undetected until the low main condenser vacuum isolation signal to the BPVs cleared during the startup sequence, at which time the
+BPVs fully opened.
+There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) due to manual actuation of the Reactor Protection System (RPS).
+NRC FORM 366 (04-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000325 YEAR NUMBER NO.
+Unit 1
+2020 - 001 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 2 (i.e., Startup), at approximately 2 percent rated thermal power.
+Reportability Criteria
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) because it involved actuation of a system listed in
+10 CFR 50.73(a)(2)(iv)(B). Specifically, the Reactor Protection System [JC] actuated during this event.
+The NRC was notified of this event per 10 CFR 50.72(b)(2)(iv)(B) via Event Notification 54597 at 16:39 Eastern Daylight Time (EDT)
+on March 22, 2020.
+Event Description
+At 12:55 EDT on March 22, 2020, with Unit 1 in Mode 2, stabilized at 2% power, during startup from a refueling outage, all four main
+turbine Bypass Valves (BPVs) [JI] fully opened unexpectedly. This created an unexpected reactor depressurization and cooldown
+which resulted in the operating crew inserting a manual reactor scram. The scram was uncomplicated and all control rods inserted
+as expected during the scram.
+In accordance with plant procedures, the main control room closed all Main Steam Line Isolation Valves (MSIVs) [JM] to arrest the
+cooldown resulting from BPVs remaining open. The condensate system [SD] remained aligned for injection and pressure control
+was initially via main steam line drains [JM]. Residual Heat Removal (RHR) shutdown cooling [BO] was placed in operation for
+decay heat removal and pressure control once the MSIVs were closed. All systems responded as designed.
+Event Cause
+The direct cause of all Unit 1 BPVs fully opening during startup was the Turbine Control System (TCS) [JJ] pressure setpoint being
+set incorrectly. Procedure 0GP-01, “Prestartup Checklist,” requires the pressure setpoint be set to 100 psig at this point during
+startup. However, at the time of this event, the pressure setpoint was incorrectly set to 1 psig. This error went undetected until the
+low main condenser vacuum isolation signal to the BPVs cleared during the startup sequence, at which time the BPVs fully opened.
+This event resulted from a less than adequate technical review of procedure 0GP-01, “Prestartup Checklist,” during development for
+the TCS upgrade project. In addition, there was a lack of proficiency in adjusting pressure set.
+Safety Assessment
+There was no adverse impact on the health and safety of the public. The safety significance of this event is minimal. The manual
+reactor trip was not complicated and all safety related systems operated as designed.
+Corrective Actions
+Upon restart from this event, the Unit 1 TCS pressure setpoint was set to 100 psig in accordance with 0GP-01, “Prestartup
+Checklist,” utilizing the appropriate guidance from 1OP-25, “Main Steam System Operating Procedure,” for adjusting the pressure
+setpoint. In addition, remediation plans were developed for the operators involved with this event, and lessons learned from this
+event were disseminated to appropriate Operations Department personnel.
+On April 1, 2020, 0GP-01, “Prestartup Checklist,” was revised to have specific reference to 1OP-25, “Main Steam System Operating
+Procedure,” for adjusting the TCS pressure setpoint. In addition, the procedure step to set pressure was identified as a critical step.
+NRC FORM 366A (04-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000325 YEAR NUMBER NO.
+Unit 1
+2020 - 001 - 00
+NARRATIVE
+In addition to the aforementioned completed corrective actions, the following corrective action is currently planned.
+• TCS adjustment training will be provided to appropriate Operations Department personnel. This action is scheduled to be
+completed by July 2, 2020.
+Any changes to corrective actions or completion schedules will be made in accordance with the site’s corrective action program.
+Previous Similar Events
+No events have occurred within the past three years in which vague procedure guidance and a lack of proficiency resulted in a LER.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2020) Page 3 of 3

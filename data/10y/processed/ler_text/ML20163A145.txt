@@ -1,0 +1,240 @@
+=~Exelon
+Generation®
+SVP-20-042 10 CFR 50.73
+June 11, 2020
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1 and 2
+Renewed Facility Operating License No. DPR-29 and DPR-30
+NRC Docket No. 50-254 and 50-265
+Subject: Licensee Event Report 254/2020-001-00 "Control Room Emergency Ventilation Air
+Conditioning System Inoperable Due to Incorrect Breaker Setting"
+Enclosed is Licensee Event Report 254/2020-001-00 "Control Room Emergency Ventilation Air
+Conditioning System Inoperable Due to Incorrect Breaker Setting," for Quad Cities Nuclear Power
+Station, Unit 1.
+This report is submitted in accordance with 1O CFR 50.73(a)(2)(v)(D) which requires the
+reporting of any event or condition that could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Sherrie Grant at (309) 227-
+4833.
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply wnh this mandatory collection request: 80 hours.
+;,,v..P" ""''u<.,,. LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T·6 A10M),
+&J~'. o~ (See Page 2 for required number of digits/characters for each block) U.S. Nuclear Regulatory Commisskm, Washington, DC 20555-0001, or by e-mail to
+./.'! "0 lnfocollects.Resource@nrc.gov, and the OMS reviewer at: OMS Office of lnfonnation and
+';; Regulatory Affairs, (3150·0104). Attn: Desk Off~er for the Nuclear Regulatory Commission,
+~ f;; (See NUREG-1022, R.3 for instruction and guidance for completing this form 725 17th Street NW, Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The
+'/4'"Q ~o~ httQ://www.nrc.gov/reading-rm/doc-collections/nureas/staff/sr1022/r3i) NRG may not conduct or sponsor, and a person is not required to respond to, a collection of
+""***. inlonnation unless the document requesting or requiring the collection displays a currently
+valid OMS control number.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station, Unit 1 05000254 1 OF 4
+4. Title
+Control Room Emergency Ventilation Air Conditioning System Inoperable Due to Incorrect Breaker Setting
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year Quad Cities Nuclear Power Station Unit 2 05000265
+Number No.
+- - Facility Name Docket Number
+04 14 2020 2020 001 00 06 11 2020 n/a 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D D D D
+20.2201{b) 20.2203(a)(3){i) 50.73{a)(2)(ii)(A) 50.73(a){2)(viii)(A)
+D D D D
+20.2201{d) 20.2203(a)(3)(ii) 50. 73{a)(2)(ii)(B) 50.73(a){2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a){2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36( c)( 1) (i)(A) 50.73(a)(2)(iv)(A) 50.73(a){2)(x)
+1O . Power Level D 20.2203(a)(2)(ii) D 50.36( c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a){4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73{a)(2)(v)(B) 73.71(a){5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73{a){2)(v)(C) 73.77(a){1)
+-··-------~·
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) D 73.77(a){2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a){2)(i)(B) 50.73(a)(2)(vii) 73.77(a){2)(ii)
+D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRG Form 366A)
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+Rachel Luebbe - Regulatory Assurance 309-227-2813
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+x VI 52 C770 y n/a
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On April 14, 2020, at 1645 hours CDT, the Quad Cities Nuclear Power Station (QCNPS) Unit 1 and Unit 2 Control Room Emergency
+Ventilation (CREV) Air Conditioning (AC) system was declared inoperable due to a trip of the Refrigeration Condensing Unit (RCU)
+feed breaker. Technical Specification (TS) 3.7.5 Condition A was entered at that time. Control Room operators discovered that the
+indicating light for the RCU was not lit. An operator was dispatched and found that the feed breaker had tripped. At 1705 hours CDT
+the feed breaker was reset restoring RCU light indication in the control room. A full RCU feed breaker inspection, adjustment of the
+breaker trip setting, and post maintenance testing (PMT) of the breaker and system were completed on April 16, 2020 with TS 3.7.5
+Condition A exited at 0453 hours.
+The causes of the event were (1) failure to adequately update guidance documents in a timely manner and (2) maintenance not
+adequately documenting the difference between as-found and work instruction breaker setting values during the RCU feed breaker
+preventative maintenance (PM) in 2013.
+This is being reported in accordance with 10 CFR 50. 73(a)(2)(v)(D), any event or condition that could have prevented the fulfillment of
+the safety function of structures or systems that are needed to mitigate the consequences of an accident.
+NRC FORM 366 (04-2020) Page 1of4·
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 04/30/2020
+(04·2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Repartee
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T·6 A10M), U.S. Nuclear Regulator}
+CONTINUATION SHEET Commission, Washington, DC 20555·0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Office1
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person is not requirec
+http:iiwww.nrc.gov/reading-rmidoc-collectionsinuregsistaff/sr1022/r3i) to respond to, a collection of information unless the document requesting or requiring the collectior
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2020 - 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Control Room Emergency Ventilation Air Conditioning System Inoperable Due to Incorrect Breaker Setting
+A. CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: April 14, 2020 Event Time: 1645 hours CDT
+Power Level: 100%
+There were no other structures, systems or components (SSC) inoperable during this event time period that could
+have contributed to this event.
+8. DESCRIPTION OF EVENT
+On April 14, 2020 at 16:45, Operations noticed that there was no indicating light for the Control Room Emergency
+Ventilation (CREV)[VI] Refrigeration [RFU] Condensing Unit (RCU) 0-9400-102 on the Main Control Room
+(MCR)[NA] Panel 912-5. This was noted during the hourly general panel walk down. An operator was
+dispatched and found that local indications also showed the RCU to have no power and the breaker in a tripped
+condition. The breaker was reset, and light indication [IL] was restored. The Station entered Technical
+Specification (TS) 3.7.5 Condition A for an inoperable CREV Air Conditioning (AC) system. ENS Notification
+#54665 was made in accordance with 10 CFR 50.72(b)(3)(v)(D). Electrical Maintenance performed a breaker
+[52] and cubicle inspection on April 16, 2020 and found that the breaker trip setting was set at 8.8. A review of
+the breaker parameters showed that the trip setting should have been set at 10. No other issues with the function
+of the breaker or cubicle were found.
+In F'ebruary 2012, after a series of short duration nuisance CREV RCU breaker trips, additional troubleshooting and
+an investigation was performed on this breaker. The investigation concluded that breaker instantaneous thermal trip
+settings needed to be increased to the maximum manual setting (10) to avoid continued nuisance trips. The trip
+setting of 8.8 was acceptable, but due to the high importance of the system, the trip setting of 10 was recommended
+for additional margin to ensure continuity of service. The breaker setting was changed to the 10 and an engineering
+change was initiated to update the breaker trip setting in the Passport Database. Design Engineering incorrectly
+assumed that the breaker preventative maintenance (PM) would be credited to recently completed breaker
+troubleshooting and that the next PM occurrence would be in 8 years. However, maintenance did not credit the
+troubleshooting work to the PM and the normal PM schedule remained with the next PM due in 18 months. The
+Engineering Change to update the Passport Database breaker trip setting was not completed until four days after
+the breaker PM work order task instructions were completed.
+NRC FORM 366 {04-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Repartee
+lessons learned are incorporated into the licensing process and fed back to industry. Send comment~
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-6 A1 OM), U.S. Nuclear Regulator)
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150·0104), Attn: Desk Office
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person is not requirec
+http:!/www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to respond to, a collection of information unless the document requesting or requiring the collectior
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2020 - 001 00
+NARRATIVE
+When the breaker PM was completed in October 2013, the breaker trip setting was found to be a 10, which did
+not match the work instruction value. Maintenance changed the breaker trip setting back to 8.8 to match their
+work Instruction value and the calculations performed per the maintenance breaker trip setting procedure. No
+Issue Report was generated to document the difference between the as found breaker setting and work
+instruction breaker setting.
+Following the April 2020 breaker trip, a complete breaker and cubicle PM was performed in which the breaker
+thermal trip settings was correctly set at 10. The CREV RCU was successfully run and declared operable on
+April 16, 2020 at 0453. TS 3.7.5 Condition A was exited at that time.
+Given the impact on the CREV AC system, this report is submitted in accordance with the requirements of
+10 CFR 50.73(a)(2)(v)(D), which requires the reporting of an event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an
+accident.
+C. CAUSE OF EVENT ---
+The causes of the event were failure to adequately update guidance documents in a timely manner and
+maintenance not adequately documenting the difference between as-found and work instruction breaker setting
+value during the RCU feed breaker PM in 2013. The engineering change to update the Passport database with
+the new breaker trip setting of 10 following the 2012 event was not completed until four days after the breaker PM
+work instructions were completed. This caused a difference during the execution of the RCU breaker PM
+between the as-found breaker trip settings and the settings written in the PM work instructions. This difference
+was not discussed with station personnel outside the maintenance organization and therefore the breaker thermal
+trip setting was changed back to 8.8.
+D. SAFETY ANALYSIS
+System Design
+The purpose of the Control Room Emergency Ventilation system is to maintain the proper air environment for
+instrumentation and personnel in the Main Control Room. The CREV AC system is a single train safety-related
+system that is designed to maintain design temperature in the Control Room Envelope (CRE) under post-accident
+conditions. The loss of the CREV AC could impact the plant's ability to mitigate the consequences of an accident.
+The CREV RCU is a key component of the CREV AC system and is a Carrier reciprocating compressor with a
+capacity of 90 tons. The backup to the CREV system is the Train A Control Room HVAC system, which is a non
+safety-related system.
+Per Updated Final Safety Analysis Report (UFSAR) Section 6.4,"Habitability Systems," the Control Room Heating,
+Ventilation, and Air Conditioning (HVAC) systems are capable of maintaining the control room atmosphere
+suitable for occupancy throughout the duration of a DBA. The AFU provides filtration functions to support CREVs
+operation. The emergency operation of CREVs requires manual actions.
+NRC FORM 366 (04-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reporte
+lessons learned are incorporated into the licensing process and led back to industry. Send comment
+LICENSEE EVENT REPORT {LER)
+regarding burden estimate to the Information Services Branch (T-6 A 1O M), U.S. Nuclear Regulate
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and th
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150·0104), Attn: Desk Office
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person is not require
+http://www.nrc.gov/r eading-rm/doc-collections/nu regs/staff/sr1022/r3i) to respond to, a collection of information unless the document requesting or requiring the collectio
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2020 - 001 00
+NARRATIVE
+Safety Impact
+The safety significance of this event was minimal. The GREV system filtration capability was not lost, and the
+Control Room temperature was maintained during this event. In addition, the non-safety related Train A Control
+Room HVAC system was available throughout this event. Although the time that the breaker was tripped was
+short, GREV AC could not be relied upon to fully perform its safety function during an accident. This event is
+considered a safety system functional failure and a maintenance rule functional failure.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. Performed a full breaker PM and return the breaker trip setting to 2012 margin setting of 10.
+Follow-up:
+1. Update maintenance breaker PM procedure to require writing an issue report (IR) or Engineering Change
+Request (ECR) should a difference be found between as-found breaker trip settings and work instruction setting
+- -value. --- -----------------
+F. PREVIOUS OCCURRENCES
+The station events database, LERs and IRIS were reviewed for similar events at Quad Cities Nuclear Power
+Station. This event was a GREV RCU breaker trip, which was caused by insufficient breaker setting margin.
+LER (254/2012-001-00) Control Room Emergency Ventilation Air Conditioning System Inoperable, 03/23/2012.
+The GREV RCU was declared inoperable when the electrical feed breaker to the RCU was found in a tripped
+condition. This event was caused by insufficient margin in the breaker setting for the RCU feed breaker. The
+breaker setting was changed in 2012 as discussed in the description of this event, however in 2013 the breaker
+setting was returned to the acceptable but non-conservative value of 8.8.
+G. COMPONENT FAILURE DATA
+Failed Equipment: BREAKER, MCC; 480V S/N
+Component Manufacturer: Cutler-Hammer/Eaton
+Component Model Number: KD3250
+Component Part Number: N/A
+This event has been reported to IRIS.
+NRC FORM 366 (04-2020) Page 4 of 4

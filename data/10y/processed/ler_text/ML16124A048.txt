@@ -1,0 +1,238 @@
+ByronGeneratingStation
+Exe n Gene rat on 4450NorthGermanChurchRoad
+1.0
+i
+-
+May 3,2076
+LTR: BYRON 2076-0046
+File: 7.10.0101 (1D.101)
+2.07.0100 (5A.108)
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0007
+Byron Station, Units 1 and 2
+Renewed Facility Operating License Nos. NPF-37 and NPF-66
+NRC Docket Nos. STN 50-454 and STN 50-455
+Subject: Licensee Event Report (LER) No. 454-2016-001-00, Auxiliary Feedwater
+Diesel Intake Design Deficiency Related to Turbine Building High Energy Line
+Break Resulted in an Unanalyzed Condition Due to Insufficient Validation of
+Vendor Analysis Inputs
+Enclosed is Byron Station Licensee Event Report (LER) No. 454-2016-001-00 regarding an
+unanalyzed condition due to insufficient validation of vendor analysis inputs for the Auxiliary
+Feedwater diesel combustion air intake. This condition is being submitted in accordance
+with 10 CFR 50.73, ‘Licensee Event Report System.”
+There are no regulatory commitments in this report.
+Should you have any questions concerning this submittal, please contact Mr. Douglas Spitzer,
+Regulatory Assurance Manager, at (815) 406-2800.
+Respectfully,
+-
+Mark E. Kanavos
+Site Vice President
+Byron Generating Station
+MEK/GC/sg
+Enclosure: LER 454-2016-007-00
+cc: Regional Administrator NRC Region Ill
+—
+NRC Senior Resident Inspector Byron Generating Station
+—
+NRC FORM 366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this msndalory collection request: 80 hours.
+Reported lessons learned are incorporatedinto the licensing process and ted back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and lntormation Collections
+/ Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT ‘ ‘. LER’I internete-mailtolnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeotIntormationand
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+di its/characters for each block’ DC20503. Ifameans usedtoimposean information collection doesnotdisplayacurrentlyvalid
+“ 0MB control number, the NRC may not conduct or sponsor, and a person is not required to
+respondto,theinformationcollection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. PAGE
+Byron Station Unit 1 05000454 7 OF 4
+—
+4. TITLE
+Auxiliary Feedwater Diesel Intake Design Deficiency Related to Turbine Building High Energy Line Break Resulted in an
+Unanalyzed Condition Due to Insufficient Validation of Vendor Analysis Inputs
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+SEAL v FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR MONTH DAY YEAR Byron Station Unit 2 05000455
+—
+FACILITYNAME DOCKETNUMBER
+03 04 16 2016 001 00 05 03 16 N/A N/A
+- -
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANTTO THE REQUIREMENTSOF 10 CFR §: (Checkallthatapply)
+LI LI LI
+20.2201(b) LI 20.2203(a)(3)Ø) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+LI 20.2201(d) LI 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) LI 50.73(a)(2)(viii)(B)
+1 (both units)
+LI LI LI LI
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+LI LI LI LI
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL LI 2o.2203(a)f2)ti) [] 50.36(c)(1)(ii)(A) LI 50.73(a)f2)(v)(A) LI 73.71(a)(4)
+LI 20.2203(a)(2)(ii) LI 50.36(c)(2) 50.73(a)(2)(v)(B) LI 73.71(a)(5)
+LI LI LI LI
+20.2203(a)(2)(iv) 50.46(a)(3)Øi) 50.73(a)(2)(v)fC) 73.77(a)(1)
+100% (both units) LI 20.2203(a)(2)(v) LI 50.73(a)(2)(i)(A) LI 50.73(a)(2)(v)f0) LI 73.77(a)(2)(i)
+LI 20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) LI 50.73(a)(2)(vH) LI 73.77(a)(2)(ii)
+LI LI
+50.73(a)(2)(i)(C) OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEECONTACT TELEPHONENUMBER (IncludeAreaCode)
+Douglas Spitzer Manager, Byron Regulatory Assurance
+—
+CAUSE SYSTEM
+N/A N/A
+14. SUPPLEMENTALREPORTEXPECTED
+LI
+YES (Ifyes, complete 75. EXPECTEDSUBMISSIONDATE) NO
+ABSTRACT (Limitto 1400spaces, i.e.,approximately 15single-spacedtypewrittenlines)
+On March 4, 2016, during the Braidwood NRC Component Design Basis Inspection, a concern was raised regarding why
+it was acceptable forthe diesel driven Auxiliary Feedwater (AF) pump engine combustion air intake to be located in the
+turbine building, a non-safety related structure. On March 7, 2016, the additional evaluations that were completed for
+Byron determined that the existing configuration did not adequately support diesel engine operation with high energy line
+break (HELB) conditions in the turbine building, and at 0400 hours Operations entered Technical Specification Limiting
+Condition for Operation 3.7.5, “Auxiliary Feedwater (AF) System,” Condition A, “One AF train inoperable, for one train
+(B-train) of AF inoperable for both Units 1 and 2. The AF trains were declared operable following a corrective action to
+install a temporary configuration change to provide an engine combustion air intake from the auxiliary building.
+The cause of the event was insufficient validation of vendor analysis inputs in 1993 while reviewing the AF diesel engine’s
+abilityto function during a turbine building HELB event.
+The corrective actions planned are to develop and install a permanent modification to re-route the AF diesel engine
+intakes for Unit 1 and 2.
+NRCFORM366(11-2015)
+Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY0MB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+EstimatedburdenperresponsetocomplyWiththismandatorycollection request:80hours. Reported
+lessons learned are incorporated into the licensing process and led buck to industry. Send
+commentsregardingburden estimatetothe FOIA, Pdvacy and Intormation CollectionsBranch (T-5
+. LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by Internete-mail to
+lnfocuiects.Resource@nrc.gov, andtotheDeskOfficer,OfficeoftntormationandRegulatoryAffairs,
+:; CONTINUATION SHEET NEOB-10202,(3150-0104), OfficeofManagementandBudget, Washington, DC 20503. Ifsmeans
+usedtoimposeaninformation collection doesnotdisplay acurrentlyvalid0MB control number,the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Byron Stati;on Uni-t 1 05000454 YEAR NUMBER NO.
+—
+2016 001 00
+- -
+NARRATIVE
+A. Plant Operating Conditions Before the Event:
+Event Date: March 4, 2016
+Unit: 1 Mode: 1 Reactor Power: 100 percent
+Unit: 2 Mode: 1 Reactor Power: 100 percent
+Unit 1 Reactor Coolant System (RCS) [AB]: Normal operating temperature and pressure
+Unit 2 Reactor Coolant System: Normal operating temperature and pressure
+No structures, systems or components were inoperable at the start of this event that contributed to the event.
+B. Description of Event:
+On March 4, 2016, during the Braidwood NRC Component Design Basis Inspection, a concern was raised regarding
+why it was acceptable forthe diesel driven auxiliary feedwater (AF) [BA] pump engine combustion air intake to be
+located in the turbine building, a non-safety related structure. Combustion air intake draws air from the turbine building
+via an intake pipe that enters the safety-related auxiliary building to the AF diesel room.
+During the review of documentation related to the air intake for Byron Station, it was identified that the existing
+configuration did not adequately support diesel engine operation with high energy line break (HELB) environmental
+conditions in the turbine building. Prior evaluations did not fully account forthe combustion air being a steam-air
+mixture in a post-HELB environment that reduces the available air density during the event.
+This issue was determined to be applicable to Byron Station and on March 7, 2016 at 0400 hours, Byron Operations
+entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.7.5, “Auxiliary Feedwater (AF) System,”
+Condition A, “One AF train inoperable,” for one train (B-train) of AF inoperable for both Units 1 and 2. NRC Event
+Notification (ENS) 51772 was made on March 7, 2016 at 1118 hours.
+A temporary configuration change was implemented to provide engine combustion intake air from the auxiliary
+building. The change allowed airfrom the AF diesel-driven pump rooms to supply the Unit 1 and Unit 2 AF diesel
+engines and a wire mesh screen cap was installed to prevent incidental intrusion of debris that could be present in the
+proximity of the air intake. On March 8, 2016, following the installation of changes, the Byron AF trains were declared
+operable. Additionally, compensatory measures were implemented to 1) monitor for a potential radioactive material
+release from the engine exhaust to the atmosphere, and 2) institute a fire watch due to the configuration change
+disabling the C02 system and opening the doors for the AF diesel rooms.
+This condition is reportable in accordance with 1OCFR5O.73(a)(2)(ii)(B), any event or condition that results in the
+nuclear power plant being in an unanalyzed condition that significantly degrades plant safety. Additionally, TS LCO
+3.7.5 Condition A requires restoring the AF train to OPERABLE status within 72 hours. As the AF combustion air
+intake was installed per the original plant design, this condition existed for a longer period of time than is allowed by
+LCO 3.7.5 Condition A. Therefore, this event is also being reported pursuantto 10 CFR 50.73(a)(2)(i)(B), any
+operation or condition which was prohibited byTSs. Further, as there were multiple times during the past three years
+where the Unit 1 and Unit 2 A-train AF system were inoperable for surveillance testing, this event is also being
+reported pursuant to 10 CFR 50.73(a)(2)(v)(B) as a condition that could have prevented the fulfillment of a system’s
+safety function.
+NRCFORM366A(11-2015)
+Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY0MB: NO.3150-0704 EXPIRES: 10/31/2018
+(11-2015)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons teamed are incorporated into the ticensing process and ted back to industry. Send
+commentsregarding burdenestimatetothe FOIA, Pdvscyand Intormahon Collections Branch(1-5
+, ;. LICENSEE EVENT REP0RT fLER) F53), U.S. NuclearRegulatory Commission, Washington, DC 20555-000t, orby internet e-mail to
+;,... lntocollects.Resource@nrc.gov, andtotheDeskOtficer,Officeof InformationandRegulatoryAffairs,
+.
+‘ . CONTINUATION SHEET NEOB-10202,(3150-0104),OfficeofManagementandBudget, Washinglon, DC 20503. tameans
+usedtoimposean intormabon collection does notdisplay acurrendyvalid0MBcontrol number,the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Byron Stati.on Uni . t 1 05000454 YEAR NUMBER NO.
+—
+2016 - 001 - 00
+NARRATIVE
+C. Cause of Event:
+The cause of the condition of inadequate combustion air available for AF diesel engine operation during a FW HELB
+was insufficient validation of vendor analysis inputs in 1993 while reviewing the AF diesel engine’s ability to function
+during a turbine building HELB event. The technical error originated from the AF diesel engine manufacturer. An
+engineering product that was completed in 1993 utilized the vendor input as a fact and did not per(orm any
+independent reviews or analysis to verifythe vendor’s conclusion.
+D. Safety Consequences:
+This condition had no actual safety consequences impacting plant or public safety since Byron Station has not
+experienced a turbine building HELB event.
+During a postulated design basis Main Feedwater (FW) HELB event in the turbine building, the diesel-driven AF pump
+may not be functional due to the lack of oxygen available at the combustion air intake located the turbine building.
+in
+Included in the design basis event is a single active failure of the A-train AF pump which would result in the loss of
+safety function of the AF system. During this postulated event, the RCS would heat up and the resultant volume
+expansion would begin filling the pressurizer. Station procedures include steps to restore AF flow or a non-safety
+related water supply to the secondary-side of the steam generators. If all attempts to restore a secondary heat sink
+are unsuccessful, “feed and bleed” operations would be implemented to cool the RCS while secondary heat sink
+restoration efforts continued.
+The adverse turbine building conditions would be present for a limited duration based on the finite volume in the
+secondary water systems and the ability to manually isolate a postulated pipe break. As the turbine building conditions
+return to normal, air would become available at the diesel-driven AF pump combustion air intake and AF flow would be
+restored to the steam generators if required.
+This event has a low safety significance based on the historical availability of the A-train AF pump, the limited
+population of secondary pipe breaks (low probability of occurrence) which would adversely affect the B-train AF pump,
+and the ability to restart the B-train AF pump when the turbine building conditions return to normal.
+E. Corrective Actions:
+Corrective Actions Completed A temporary configuration change was completed to provide engine combustion air
+—
+intake from the auxiliary building, and install a wire mesh screen cap to prevent incidental intrusion of debris into the air
+intake. Additionally, compensatory measures were implemented to monitor for a potential radioactive material release
+from the engine exhaust to the atmosphere and to institute a fire watch due to the configuration change disabling the
+C02 system and opening the doors for the AF diesel rooms.
+Corrective Actions planned Develop and install a permanent modification to re-route the AF diesel engine intakes for
+—
+Unit 1 and 2.
+NRCFORM366A111-20151
+Page 4 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY0MB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+EstimatedburdenperresponsetoComplywiththismandatorycoltectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and ted back to industry. Send
+,
+commentsregardingburden estimate tothe FOIA, Privacyand information CollectionsBranch (T-5
+.‘ LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, orby internete-mail to
+lnfocollects.Resource@nrc.gov, andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+‘/ CONTINUATION SHEET NEOB-10202,(3150-0104),OfficeofManagementandBudget, Washington, DC 20503. itameans
+*** usedto imposeanintormation collection does notdisplayacurrentlyvalid0MB controt number,the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKETNUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Byron Stati.on Uni.t 1 05000454 YEAR NUMBER NO.
+—
+2016 001 00
+- -
+NARRATIVE
+F. Previous Occurrences:
+There have been no previous Licensee Event Reports at Byron on this issue.
+G. Component Failure Data:
+Manufacturer Nomenclature Model Mfg. Part Number
+N/A N/A N/A N/A
+NRCFORM366A(11-2015)

@@ -1,0 +1,428 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+August 5, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRC Docket No. 50-296
+Subject: Licensee Event Report 50-296/2016-006-00
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the
+Code of Federal Regulations 50. 73(a)(2)(v)(D), as an event or condition that could have
+prevented the fulfillment of the safety function of structures or systems which are needed to
+mitigate the consequences of an accident.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-296/2016-006-00 - High Pressure Coolant Injection
+System Found to be Inoperable During Testing.
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 3
+Licensee Event Report 50-296/2016-006-00
+High Pressure Coolant Injection System Found to be Inoperable During Testing
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+..,~..:J..~-REC<t.t.,> Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+f~ ~· 01!.~ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+... regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5 F53), U.S.
+\,~ !~i LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number. the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 3 05000296 1 OF8
+4. TITLE
+High Pressure Coolant Injection System Found to be Inoperable During Testing
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I SE N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR FACI N LIT / Y A N AME N/ D A O CKET NUMBER
+06 08 2016 2016 - 006 - 00 08 05 2016 FACI N LIT / Y A N AME N/ D A O CKET NUMBER
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 <b> 20.2203<a><3Hi> 50. 73(a)(2)(ii)(A) 50.7 3(a)(2)(viii)(A)
+D D D D
+20.2201 <d> 20.2203(a)(3)(ii) 50.7 3(a)(2)(ii)(B) 50.7 3(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 > 20.2203<a><4> 50. 73(a)(2)(iii) 50.7 3(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.7 3(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.7 3( a)(2)(v)(A) D 73.71 <a><4>
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.7 3(a)(2)(v)(B) 73. 71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 5o.4s(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.7 3(a)(2)(i)(A) [gl 50.7 3(a)(2)(v)(D) D 73.7 7(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.7 3( a)(2)(i)(B) 50.7 3(a)(2)(vii) 73.7 7(a)(2)(ii)
+D D
+50.7 3(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Ryan Coons, Licensing Engineer I 256-729-2070
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+x BJ xcv T147 y
+I I
+14.SUPPLEMENTALREPORTEXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) [8J NO SUBMISSION DATE N/A I N/A I N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+During a surveillance test on June 8, 2016, the BFN, Unit 3, High Pressure Coolant Injection (HPCI) Turbine
+Stop Valve Mechanical Trip Valve behaved erratically upon turbine start. Troubleshooting and maintenance on
+the valve led to discovery of a condition that could have resulted in the HPCI system being unable to perform its
+required safety function in a Mode where HPCI Operability was required.
+The inoperability was caused by the HPCI Turbine Stop Valve Mechanical Trip Valve's Reset Spring, which
+was deformed and weakened from years of continuous compression. The spring was replaced and the system
+was returned to service on June 10, 2016.
+Corrective actions to prevent recurrence include revising preventive maintenance procedures to specify
+replacement of the Trip Tappet, Piston, and Reset Spring on a defined periodicity. Additionally, procedures will
+be revised to require testing the as-left breakaway force a minimum of three times to ensure repeatability.
+Preventative maintenance procedures will also be revised to clarify that lift force checks after spring
+compression adjustments shall be conducted with the auxiliary oil pump running.
+NRC FORM 366A (11-2015)
+Page 2 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~..)c,..._'-"'\' Rl:C'lu'-1,..1')1> comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+(fiffl~} LICENSEE EVENT REPORT (LER)
+....... lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 006 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 3, was in Mode 1 at 100 percent
+power.
+II. Description of Events
+A. Event:
+On June 8, 2016 at 1037 Central Daylight Time (CDT), the BFN, Unit 3, High Pressure Coolant
+Injection (HPCI) system [BJ] was manually tripped following erratic operation upon turbine [TRB]
+start during a surveillance. In accordance with the surveillance procedures, the turbine steam
+supply valve (3-FCV-73-16) [FCV] was opened to supply steam to the turbine. Both the HPCI stop
+valve (3-FCV-73-18) [FCV] and control valve (3-FCV-73-19) [FCV] operated slowly and erratically.
+The HPCI turbine steam supply valve open signal, which also starts the auxiliary HPCI oil pump
+[P], was given at 1026 CDT. The expected system response was that the HPCI turbine stop valve
+would begin to open approximately 10 to 13 seconds later. However, the stop valve did not begin
+moving until 63 seconds after the start signal was given. The stop valve stayed open for 14
+seconds before spuriously closing. The stop valve then remained closed for 8 seconds, then
+reopened, and the system appeared to operate normally.
+Troubleshooting identified that the HPCI Turbine Stop Valve Mechanical Trip Valve (i.e. "HPCI
+mechanical trip valve," 3-XCV-73-18) [XCV] was operating erratically. The HPCI mechanical trip
+valve must remain in its normal "stand-by" position during HPCI operation to allow the HPCI stop
+valve to remain open. If the HPCI mechanical trip valve is re-positioned, either by manually lifting
+its reset knob, or by the overspeed (OS) trip weight striking the bottom of the tappet assembly,
+then the control oil to the HPCI stop valve is dumped, closing the HPCI stop valve under spring
+pressure. The failure of this reset spring resulted in erratic HPCI stop valve operation during the
+system start on June 8, 2016. Because of this degradation in system reliability, Operations
+declared the HPCI system inoperable.
+The Unit 3 HPCI system had been declared inoperable prior to the event, on June 8, 2016 at
+0925, to perform a routine surveillance. Operability was restored on June 10, 2016 at 0555 CDT,
+following a HPCI oil system check. The maintenance associated with the HPCI mechanical trip
+valve was not part of pre-planned maintenance activities. This event was determined to be
+reportable as a safety system functional failure in accordance with NUREG-1022, because the
+HPCI system, a single-train safety system, could have been prevented from performing its safety
+function in a Mode where HPCI Operability is required.
+NRG FORM 366A (11-2015)
+Page 3of8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~·:>"..,."-·"'" RE-ouc, >o'? comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+{ ~;;:innt/~} LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+'\;;::~~~~~ CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 006 00
+NARRATIVE
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event:
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this
+event.
+C. Dates and approximate times of occurrences:
+Dates and Approximate Times Occurrence
+June 8, 2016 at 0925 CDT Unit 3 HPCI was declared inoperable for a planned
+surveillance test.
+June 8, 2016 at 1013 CDT Pre-startup trip tests were completed.
+June 8, 2016 at 1026 CDT Unit 3 HPCI turbine was given an initiation signal in
+accordance with the surveillance procedure, but the
+system failed to start properly.
+June 8, 2016 at 1037 CDT HPCI turbine was manually tripped and returned to
+standby readiness following erratic operation upon turbine
+start.
+June 8, 2016 at 1500 CDT HPCI surveillance test completed with an unsatisfactory
+(UNSAT) result.
+June 9, 2016 at 0130 CDT Mechanical Maintenance Group performed a HPCI oil
+system check as a part of troubleshooting activities, which
+revealed that the failure of the Mechanical Trip Valve reset
+spring caused the event, and not air in the oil system.
+June 10, 2016 at 0555 CDT Unit 3 HPCI system is declared Operable.
+D. Manufacturer and model number (or other identification) of each component that failed
+during the event:
+The inoperable valve was a Terry Steam Turbine Company mechanical trip valve, model CCS.
+E. Other systems or secondary functions affected:
+No other systems or secondary functions were affected by this event.
+NRG FORM 366A (11-2015)
+Page 4 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 006 00
+NARRATIVE
+F. Method of discovery of each component or system failure or procedural error:
+Valve inoperability was discovered during the scheduled performance of 3-SR-3.5.1.7, HPCI Main
+and Booster Pump Set Developed Head and Flow Rate Test at Rated Reactor Pressure, when
+the turbine steam supply valve was opened to supply steam to the turbine. The control room
+observed erratic turbine operation, and the turbine was manually tripped shortly thereafter.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+The HPCI mechanical trip valve failed due to insufficient Reset Spring force, caused by end-of-life
+failure. The spring was permanently deformed by continual compression, and it was 3/16 inches
+shorter than its replacement. The failed spring also lacked resiliency when compressed; the
+specification for the trip force is 2-5 pounds (lbs), but post-event maintenance found that the trip
+force was less than 1 lb. There is no documented history of this spring having ever been replaced
+on Unit 3 HPCI; although the tappet had been damaged and replaced, the old spring was
+reinstalled.
+H. Operator actions:
+The event began when the Unit 3 HPCI system was manually tripped following erratic operation
+upon turbine start. In accordance with the surveillance procedure, the turbine steam supply valve
+was opened to supply steam to the turbine. Operators in the Unit 3 Control Room noted that the
+turbine showed no immediate response followed by a turbine tripped alarm, and that both the
+HPCI stop valve and the HPCI control valve operated slowly and erratically.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual safety system responses associated with this event.
+Ill. Cause of the event
+A. The cause of each component or system failure or personnel error, if known:
+The HPCI mechanical trip valve failed due to insufficient Reset Spring force, caused by end-of-life
+failure. The spring was permanently deformed by continual compression.
+B. The cause(s) and circumstances for each human performance related root cause:
+The preventive maintenance (PM) that implements procedure MCl-0-073-TRB001, HPCI Turbine
+- Terry Turbine CCS - Disassembly, Inspection, Rework and Reassembly, did not contain a
+requirement to specify that the trip tappet, spring, and piston require replacement as part of the
+valve's 10 year overhaul.
+NRG FORM 366A (11-2015)
+Page 5of8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 006 00
+NARRATIVE
+IV. Analysis of the event:
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations 50.7 3(a)(2)(v)(D), as an event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the
+consequences of an accident. It was determined that the HPCI mechanical trip valve was inoperable
+due to the end-of-life failure of the valve's reset spring, which caused it to generate insufficient force.
+The condition was discovered on June 8, 2016, during a planned surveillance. While the HPCI
+system was already declared inoperable to perform the surveillance, the discovery of a condition that
+could have led to the system being declared inoperable in a Mode where Operability is required is
+considered a reportable event, in accordance with NUREG-1022.
+System availability was impacted by this event, since HPCI is a single-train system. The HPCI
+Turbine Stop Valve Mechanical Trip Valve (i.e. "HPCI mechanical trip valve") functions as part of the
+HPCI OS trip sequence, to trip the turbine and allow it to automatically re-start. Final Safety Analysis
+Report (FSAR) Section 7.4, Emergency Core Cooling Control, states that the only protection devices
+that can act to interrupt planned Emergency Core Cooling System (ECCS) operation are those which
+must act to prevent complete component or system failure; the HPCI turbine OS trip is one such
+protection device. The HPCI mechanical trip valve may also be used locally to trip the turbine.
+Turbine OS protection and local manual trip capability are not specified safety functions of the HPCI
+system, since these functions do not contribute to the system's core cooling function. However, the
+HPCI mechanical trip valve must remain in its normal "stand-by" position during HPCI operation to
+allow the HPCI stop valve to remain open. If the HPCI mechanical trip valve is re-positioned, either by
+manually lifting its reset knob, or by the OS trip weight striking the bottom of the tappet assembly,
+then the control oil to the HPCI stop valve is dumped, closing the HPCI stop valve under spring
+pressure. The reset spring failure resulted in erratic HPCI stop valve operation during the system start
+on June 8, 2016. Because of this degradation in system reliability, Operations declared the HPCI
+system inoperable.
+V. Assessment of Safety Consequences
+This event resulted in inoperability of the single train of the BFN, Unit 3, HPCI system, resulting in the
+inability of the HPCI system to perform its required safety function to mitigate the consequences of an
+accident.
+Several alternate methods were available to Operations personnel in the event of an emergency to
+provide core cooling, safe and sustainable shutdown of the reactor, residual heat removal, and
+mitigation of accident consequences. For Design Basis Accidents, adequate core cooling was
+ensured by the operability of the other low pressure ECCS injection/spray subsystems in conjunction
+with the Automatic Depressurization System (ADS). All ADS valves were operable during the time
+period and ADS initiation capability was maintained during this time period. Additionally, two Core
+Spray [BM] subsystems and two Low Pressure Coolant Injection [BO] subsystems, all low pressure
+ECCS subsystems, and their initiation capability, remained operable. While this even caused a
+NRC FORM 366A (11-2015)
+Page 6of8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 006 00
+NARRATIVE
+Reactor Core Isolation Cooling (RCIC) suction pressure alarm, this transient was very brief and RCIC
+remained operable and able to perform its required function as an alternate high pressure injection
+system through the duration of this event.
+This event was resolved within the 14 day completion time required by TS LCO 3.5.1, Condition C.
+Therefore, BFN Unit 3 remained in an analyzed safe condition throughout this event.
+The initial system response on June 8, 2016, during the HPCI pre-startup trip checks, was that the
+HPCI stop valve operated normally. Therefore, it is reasonable to conclude that if a valid HPCI
+initiation signal was given prior to the performance of the HPCI pre-startup check, that the HPCI
+system would have started normally and provided the design flow rate to the reactor vessel. This
+operation would not have been challenged by the insufficient force on the Reset Spring unless the
+HPCI system was tripped by overspeed, by locally by manual operation of the HPCI stop valve.
+However, overspeed trip and manual trip functionality are not specified safety functions of the HPCI
+system.
+Based on the above, during the time period that the HPCI system was inoperable, TVA has
+concluded that sufficient systems were available to provide the required safety functions needed to
+protect the health and safety of the public.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+While this event caused the RCIC Turbine Suction Pressure Low alarm to annunciate, RCIC was
+verified to be operable by Operations personnel. During this event, all other Emergency Core
+Cooling Systems, including the Automatic Depressurization System, were available to mitigate
+abnormal and accident conditions.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shut down the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+Approximately two days elapsed between the time of discovery and returning the train to service.
+NRC FORM 366A (11-2015)
+Page 7 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 006 00
+NARRATIVE
+VI. Corrective Actions:
+Corrective Actions are being managed by TVA's corrective action program under Condition Report
+(CR) 1179483.
+A. Immediate Corrective Actions
+A troubleshooting work order was initiated, which found the HPCI Turbine Step Valve Mechanical
+Trip Valve Reset Spring was deformed and weakened from years of continuous compression.
+The spring was replaced and HPCI was returned to service.
+8. Corrective Actions to Prevent Recurrence
+Corrective actions to prevent recurrence include revising procedures to:
+• Specify replacement of the Trip Tappet, Piston, and Reset Spring on a defined periodicity.
+• Require recording the as-left breakaway force a minimum of three times, and selecting the
+lowest value as the most accurate. To ensure repeatability, additional tests shall be performed
+if the lowest two recorded values are not within 0.5 lb of each other.
+• Clarify that the performance of the lift force check after adjusting the spring compression shall
+be conducted with the aux oil pump running.
+VII. Additional Information:
+A. Previous Similar Events:
+A similar event occurred on February 11, 2012, when the HPCI Stop Valve failed to open
+following a simulated HPCI Turbine Overspeed (OS) Trip. During a BFN, Unit 3, HPCI System
+quarterly surveillance, personnel verified the proper operation of the HPCI Turbine Mechanical trip
+valve. During the event in question, when personnel lifted the trip tappet, it never fell to reset the
+system; the stop valve remained closed instead of opening again. During troubleshooting
+personnel mechanically agitated the trip tappet by stroking it up and down while rotating the
+assembly, with the auxiliary oil pump running, until the tappet began operating correctly. The
+tappet was then rotated to various positions and repeatedly pulled to verify its repeatability over
+all angles. The trip tappet was able to fall, reset, and fulfill surveillance conditions. Later
+investigations found metal shavings the area, and the event was attributed to debris blocking the
+piston port. The mechanical agitation removed the debris, correcting the problem. The duplex oil
+filters should prevent debris from traveling from the tank to the piston. Additionally, the oil tank
+was drained and cleaned.
+These conditions will also be addressed by the corrective actions (CAs) for the event described in
+this report, by making changes to the PM and the maintenance procedures to clean the HPCI
+NRC FORM 366A (11-2015)
+Page 8 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 006 00
+NARRATIVE
+Turbine Overspeed OS Trip valve internals every 10 years, as part of periodic tappet, piston, and
+spring replacement.
+B. Additional Information:
+There is no additional information.
+C. Safety System Functional Failure Consideration:
+In accordance with NUREG-1022, this event is considered a safety system functional failure.
+HPCI pre-startup trip checks on June 8, 2016 verified normal operation of the HPCI stop valve trip
+function. These checks included a manual trip of the HPCI stop valve, which demonstrated proper
+operation of the Reset Spring, at 0954 CDT. Operators declared HPCI inoperable due to erratic
+indications during surveillance testing at 1026 CDT. Valve troubleshooting and the replacement of
+the Reset Spring were not part of pre-planned maintenance, causing a period of unplanned
+operability which lasted until June 10, 2016 at 0555 CDT. HPCI was then inoperable for an
+unexpected condition that could have prevented HPCI from performing its safety function for
+approximately two days, while in a Mode where HPCI Operability was required.
+D. Scram with Complications Consideration:
+This event did not result in a reactor scram.
+VIII. COMMITMENTS
+There are no new commitments.
+NRC FORM 366A (11-2015)

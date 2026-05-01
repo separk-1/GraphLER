@@ -1,0 +1,296 @@
+--------- ---
+~r,·
+Exelon Generation®
+,J
+10 CFR 50.73
+NMP2L2741
+August31,2020
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-41 O
+Subject: NMP2 Licensee Event Report 2020-002, Revision 1, Failure to Meet Technical
+Specification MSIV Stroke Times
+The original NMP2 LER 2020-002 was submitted on May 5, 2020. Enclosed is NMP2 License
+Event Report (LER) 2020-002, Revision 1, Failure to Meet Technical Specification MSIV Stroke
+Times. This revision is to provide additional details on the cause of the event and the corrective
+actions following completion of the apparent cause analysis.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+J-1.d_,a.~
+Todd A. Tierney
+Plant Manager, Nine Mile Point Nuclear Station
+Exelon Generation Company, LLC ·
+TAT/DJW
+Enclosure: NMP2 Licensee Event Report 2020-002, Revision 1, Failure to Meet Technical
+Specification MSIV Stroke Times
+cc: NRC Regional Administrator, Region I
+NRC Resident Inspector
+NRC Project Manager
+Enclosure
+NMP2 Licensee Event Report 2020-002, Revision 1
+Failure to Meet Technical Specification MSIV Stroke Times
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+~~f,..,,.'RRtou<., Reported lessons learned are incorporated into the licensing process and fed back to industry.
+;~ LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information SeJVices Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+.......
+'•• (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+htti;1://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Nine Mile Point Unit.2 05000410 1 OF 5
+4. TITLE
+Failure to Meet Technical Specification MSIV Stroke Times
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR N/A N/A
+NUMBER NO.
+FACILITY NAME DOCKET ~UMBER
+03 06 2020 2020 - 002 - 01 08 31 2020 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+0 D 0 D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+0 D 0 D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+4
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D 0 D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71 (a)(4)
+·- -
+· D ...
+□ 20.22ci3(a)(2)(iii) - 50.36(c)(2) · · □ so.73(aj(2j(v)fs) □-73.7f(a.)(5)
+D '20.2203(a)(2)(iv) D 50.46(a)(3)(ii) [gj 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 0 D D
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) [gj 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+/' ; · ''• : .
+-..
+. ·:-. 0 50.73(a)(2)(i)(C) [gj OTHER Specify in Abstract below or in NRC Form 366A I
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER {Include Area Code)
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX I: FACTURER TO EPIX
+X SB VOP Hiller y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gj NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 6, 2020 while at 0% power and in Cold Shutdown (Mode 4), Nine Mile Point Unit 2 determined
+through surveillance testing that three Main Steam Isolation Valves did not to meet their Technical
+Specification (Tech Spec) closure time of less than 5 secs. Two of the three valves are in a common Main
+Steam Line.
+This event is reportable under 10 CFR 50. 73(a)(2)(v)(C) and 10 CFR 50. 73(a)(2)(vii) for the failure of two
+MSIVs in a common line not meeting Technical Specification MSIV Stroke Times.
+The cause of the MSIV failures has been determined to be delayed air pack response. The delay was caused
+by a buildup of corrosion product and waxy foreign material believed to be dried pipe thread sealant or O-ring
+assembly lube that accumulated on the internal surfaces of the air pack during refurbishment by the vendor
+Trillium (previously Hiller). This report also is intended to satisfy the reporting requirements of
+10 CFR Part 21.
+NRC FO.RM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a peison is not required to respond to, the information
+http:// www.nrc.gov/readi ng-rm/doc-collections/nu regs/staffl s r1 022/r3/l collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2020 - 002 01
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Prior to the event, Nine Mile Point Unit 2 (NMP2) was in the Cold Shutdown Condition
+conducting its scheduled refueling outage. On March 6th , surveillance procedure N2-OSP
+MSS-CS001 was begun to meet the requirements of Tech Spec Sections 3.6.1.3.7 and
+5.5.6 to verify the full closure time of the MSIVs is between 3.0 and 5.0 seconds.
+B. EVENT:
+On March 6, 2020 during the performance of the two-year surveillance procedure to verify
+.MS IV-stroke times, -it was determined that _three of eight MSIVs (2MSS* AOV6A,---
+2MSS* AOV6D and 2MSS*AOV7A) were "slow" in that they failed to meet their maximum
+Tech Spec required closure time of 5.0 seconds. As a result, Operations declared the three
+MSIVs inoperable.
+NMP2 is designed with four Main Steam Lines. Two of the three valves (2MSS*AOV6A and
+2 MSS* AOV7 A) are the inboard and outboard isolation valves on the common Main Steam
+Line A. Troubleshooting was conducted during the refueling outage that inspected for oil
+leaks from the dashpots, nitrogen check, checked for loose/broken speed control needle
+valves, and checked for loose/broken air fittings and SOVs. No adverse conditions were
+identified.
+The air packs for the valves were replaced and the MSIVs tested satisfactory in accordance
+with the maximum 5.0 second requirement of Tech Spec 3.6.1.3.7. The air packs were sent for 1·
+examination by the vendor for further casual determination.
+Nine Mile Point Unit 1 (NMP1) was unaffected by the three MSIVs being declared
+inoperable at NMP2.
+Since the plant was in Mode 4 when MSIVs are not required to be operable per the Tech
+Specs, no ENS notification was required ..
+This_event has been entered into the plant's corrective action program as IR 4324557.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO
+THE EVENT:
+No other systems, structures, or components contributed to this event.
+NRC FORM 366A (04-2017) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, OC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.qov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2020 - 002 01
+NARRATIVE
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERATOR
+ACTIONS:
+The dates, times, and major occurrences and operator actions for this event are as
+follows.
+March 4, 2020 at 12:05 - Unit 2 Operators insert a manual reactor scram. Subsequently
+the decision is made to enter the scheduled refueling out;age.
+March 5, 2020 at 08:40 - Unit 2 enters Mode 4.
+March 6, 2020 at 18:00 - MSIV Technical Specification Surveillance 3.6.1.3.7 and 5.5.6
+are completed concluding that MS IVs 2MSS*A OV6A,
+2MSS* AOV6D and 2MSS* AOV7A are slow and do not meet the
+--------------- ------ - ----~--- ----- ----- - ----- --
+maximum required Tech Spec stroke times. The three MSIVs
+are declared inoperable.
+Refueling Outage - The air packs replaced for MS IVs {2MSS* AOV6A, 2MSS*A OV6D and
+2MSS*AOV7A).
+March 24, 2020 at 00:05 - MSIVs test satisfactory in accordance with N2-OSP-MSS
+CS001
+E. METHOD OF DISCOVERY:
+This event was discovered by Operations during the performance of Tech Spec required
+surveillance testing.
+F. SAFETY SYSTEM RESPONSES:
+This LER concerns a failed Tech Spec surveillance test. No system responses were
+necessary.
+II. CAUSE OF EVENT:
+The cause of the MSIV failures has been determined to be delayed air pack response. The
+delay was caused by a buildup of corrosion product and a waxy foreign material, believed to
+be dried pipe thread sealant or O-ring assembly lube that accumulated on the internal
+surfaces of the air pack. The waxy foreign material was most likely introduced during the
+rebuild process conducted by the manufacturer, Trillium (previously Hiller).
+III. ANALYSIS OF THE EVENT:
+The inoperable MS IVs are reportable under 1O CFR 50.73{a)(2)(v)(C) and 1O CFR
+50.73(a)(2)(vii) for the failure of two MSIVs in a common line not meeting Technical
+NRC FORM 366A (04-2017) Page_3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2020 - 002 - 01
+NARRATIVE
+Specification MSIV stroke times for structures or systems that are needed to: (C) Control the
+release of radioactive material. Two of the three valves were in a common Main Steam Line. I
+Due to the vendor deficiency, this condition is also deemed reportable under 1O CFR Part 21.
+All design basis accident, transient criteria and regulatory limits remain satisfied with no overall
+impact to dose and EQ/HELB requirements. This conclusion is based on the following
+analyses.
+1. Design Basis Secondary Containment HELB Outside Containment Peak Sub
+Compartment Pressure and Temperature. The slow closure increases the steam tunnel
+wall differential pressure due to the extended blowdown. The maximum differential
+pressure remains within the steam tunnel design margins. Steam tunnel temperature
+reaches the maximum prior to assumed closure of the MSIVs; therefore, the delay in
+_____ the closure does not result in ct changB in_peakJ~mp_er?!_l!_re.
+----~----~
+2. Design Basis Secondary Containment HELB Piping Outside Containment- Dose rates
+are substantially below current USAR because the increased mass release attributable to
+the delayed MSIV closure is substantially offset by the actual iodine concentration.
+3. Equipment Qualification - The peak pressure envelope is extended from the assumed 9
+seconds to 11 seconds. The additional 2 second duration does not result in a significant
+change in the peak pressure since the rate of pressure increase is mitigated by the
+large primary relief path through the steam tunnel blowout panels. The peak ·
+temperature remains the same with the duration of the peak temperature extended from
+5.5 seconds to 11 seconds. The temperature envelope duration was drawn to start to
+decrease at 9 seconds, the 2 second shift in the peak duration does not represent a
+significant change that impacts equipment qualification.
+4. Primary containment Peak Pressure and Temperature: The impact on peak containment
+pressure is defined by the fast closure specification. The slow closure has no impact on the
+containment peak pressure and temperature since the slow closure results in less total mass
+energy inside containment.
+Based on the above discussion, it is concluded that the safety significance of this event is
+low, and the event did not pose a threat to the health and safety of the public or plant
+personnel.
+This event does affect the NRC Regulatory Oversight Process Indicator for safety system
+failures.
+IV. CORRECTIVE ACTIONS:
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL
+STATUS:
+The MSIV air packs were replaced and tested satisfactory in accordance with Tech
+Spec surveillance requirements sections 3.6.1.3.7 and 5.5.6.
+NRG FORM 366A (04-2017) Page~ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nu regs/staff/ s r1 022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2020 - 002 01
+NARRATIVE
+B. ACTION TAKEN OR PLANNED TO PREVENT RECURRENCE:
+A note will be added to the procurement requirement evaluation form and purchase
+order for MSIV air pack refurbishments to minimize use of 0-ring lubricant and thread
+sealant to limit likelihood of capturing foreign material on air pack valve internals.
+V. ADDITIONAL INFORMATION:
+A. FAILED COMPONENTS:
+MS IVs 2MSS* AOV6A, 2MSS* AOV6D and 2MSS*A OV7A , Air Packs
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+None
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION
+IDENTIFIER AND SYSTEM NAME OF EACH COMPONENT OR SYSTEM REFERRED TO
+IN THIS LER:
+IEEE 803 IEEE 805
+COMPONENT FUNCTION SYSTEM
+IDENTIFIER IDENTIFICATION
+Main Steam Isolation Valves, Air Pack VOP SB
+NRG FORM 366A (04-2017) Page _5_ of _5_

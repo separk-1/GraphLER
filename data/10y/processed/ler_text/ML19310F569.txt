@@ -1,0 +1,229 @@
+FENOC PerryNuclearPowerPlant
+P.O. Box97
+10CenterRoad
+Perry, Ohio44081
+FirstEnergyNuclearOperatingCompany
+FrankPayne 440-280-5382
+VicePresident
+November 6, 2019
+L-19-251 10 CFR 50.73(a)(2)(v)(A)
+10CFR50.73(a)(2)(v)(D)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2019-004-01, "Loss of Feedwater Heating
+Results in Loss of Safety Function". This supplement is being submitted to update the
+cause analysis and corrective actions associated with this event. There are no
+regulatory commitments contained in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager - Regulatory Compliance, at (440) 280-7538.
+Sincerely,
+Enclosure:
+LER 2019-004-01
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III Regional Administrator
+Enclosure
+L-19-251
+LER 2019-004-01
+NRCFORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest80hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry.Send commentsregardingburdenestimatetotheInformationServices Branch
+(SeePage2forrequirednumberofdigits/charactersforeachblock) (T-2F43),U.S.NuclearRegulatoryCommission,Washington,DC20555-0001,orbye-mail
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See NUREG-1022, R.3forinstructionandguidanceforcompletingthisform Regulatory Affairs, NEOB- 10202, (3150-0104), Office of Management and Budget
+http://www.nrc.gov/readinq-rm/cloc-collections/nureqs/staff/sr1022/r3/ Washington, DC 20503. Ifa means used to impose an informationcollection does not
+displayacurrentlyvalidOMBcontrolnumber,the NRCmaynotconductorsponsor, anda
+person isnotrequiredtorespondto,theinformationcollection.
+1.FacilityName 2. DocketNumber 3.Page
+Perry Nuclear Power Plant 05000-440 1 OF
+4.Title:
+Loss of Feedwater Heating Results in Loss ofSafety Function
+5.EventDate 6. LERNumber 7.ReportDate 8.OtherFacilitiesInvolved
+Sequential Rev FacilityName DocketNumber
+Month Day Year Year Month Day Year
+Number No. 05000
+FacilityName DocketNumber
+08 06 2019 2019 - 004 01 11 06 2019
+05000
+9.OperatingMode 11.ThisReportisSubmittedPursuanttotheRequirementsof10CFR§: (Checkallthatapply)
+20.2201(b) 20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) Q 50.73(a)(2)(viii)(A)
+D 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+20.2203(a)(1) □ 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) 50.36(c)(1)(i)(A) □ 50.73(a)(2)(iv)(A) . 50.73(a)(2)(x)
+10.PowerLevel □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) □ 50.73(a)(2)(v)(B) 73.71(a)(5)
+□ 20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+65 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) □ 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) □ Other(SpecifyinAbstractbeloworin NRC Form_366A)
+12. LicenseeContactforthisLER
+LicenseeContact TelephoneNumber(IncludeAreaCode)
+George Dujanovic- Regulatory Compliance 440-280-5200
+13.CompleteOneLineforEachComponentFailureDescribedinthisReport
+Cause System Component Manufacturer ReportabletoICES Cause System Component Manufacturer ReportabletoICES
+14.SupplementalReportExpected Month Day Year
+15. ExpectedSubmission Date
+Yes(Ifyes, complete 15. ExpectedSubmission Date) El No
+Abstract (Limitto1400spaces,i.e.,approximately14single-spacedtypewrittenlines) .
+On August6, 2019, at 1335 hours, while performing feedwater heateralignments, a partial loss offeedwater heating
+occurred due to the isolation ofthe 5Aand 6A feedwater heaters, resulting in lowering the temperature offeedwaterto
+the reactorvessel by approximately 38 degrees F. This caused the Turbine First-Stage pressure to be outside ofthe
+normal calibration value, thereby changing instrumentation setpoints, and resulting in the INOPERABILITY of Reactor
+Protection System (RPS) instrumentation functions forTurbine Stop Valve Closure and Turbine Control Valve Fast
+Closure, EndofCycle Recirculation Pump Trip (EOC-RPT) instrumentation, and Control Rod Block instrumentation.
+The Direct Cause is determined to be the continued rise ofwater level in the heater, afterthe emergency drain valve
+reached 100% demand, actuating the high-high isolation level switch.
+The apparentcause was determined to be inadequate organizational communication following a change in the
+feedwater heater level control tuning strategy. A contributing cause was determined to be a lack ofwritten guidance for
+Instrumentand Control (I&C) technicians to perform the feedwater heater mode transfer successfully..
+The increase in riskforthis event is considered very small in accordance with the Regulatory Guidance. This event is
+reported in accordance with 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an eventorcondition that could
+have prevented the fulfillmentofa safety function.
+NRCFORM366(04-2018)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Send comments
+LICENSEE EVENTREPORT(LER)
+regardingburdenestimatetotheInformationServices Branch(T-2F43), U.S. NuclearRegulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or bye-mailto lnfocollects.Resource@nrc.gov,andto
+theDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-10202, (3150-0104), Officeof
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(SeeNUREG-1022, R.3forinstruction andguidanceforcompletingthisform collectiondoes notdisplayacurrentlyvalid OMBcontrol number,the NRC may not conduct or
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2019 - 004 01
+NARRATIVE
+Energy Industry Identification System (EMS) codes are identified in the text as [XX].
+INTRODUCTION
+On August 6, 2019, with the plant in Mode 1 at approximately 65 percent rated thermal power, a partial loss
+of high pressure feedwater heating [SN] occurred when feedwater heaters 5A and 6A [HX] isolated on high-
+high level during the transfer ofthe 5A heater level control [LC] from startup to normal mode. In startup level
+control mode, the emergency drain controllers [LIC] are operating the normal drain valves [LCV] and the
+normal drain controllers are operating the emergency drain valves. The 5A and 6A heater isolations resulted
+in a lowerfeedwatertemperature which impacted certain Reactor Protection System (RPS) [JC], End of
+Cycle Recirculation Pump Trip (EOC-RPT), and Control Rod Block instrumentation setpoints that are derived
+from the main turbine [TG] first stage pressure.
+At 1729 hours, notification was made to the NRC Operations Center (Event Notification ENS 54203) in
+accordance with 10 CFR 50.72(b)(3)(v)(A) and 10 CFR 50.72(b)(3)(v)(D) as an event or condition that could
+have prevented the fulfillment ofthe safety function of structures or systems that are needed to shutdown the
+reactor and place it in a safe condition, and mitigate the consequences of an accident. This event is being
+reported in accordance with 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an event or condition
+that could have prevented the fulfillment of a safety function.
+EVENT DESCRIPTION
+On August 6, 2019 at 1335 hours, feedwater heaters 5A and 6A automatically isolated on high-high level
+during an attempt to transferfrom startup to normal mode on the 5A heater level controller. The transferfrom
+startup to normal mode forthe 5A heater occurred at 65 percent reactor power. The resultant isolation ofthe
+5A and 6A heaters lowered feedwatertemperature going to the reactor by approximately 38 degrees F.
+Setpoints forthe RPS Turbine Stop Valve [ISV] and Control Valve [FCV] fast closure scram bypass inputs,
+EOC-RPT instrumentation, and Control Rod Block Rod Withdrawal Limiter (RWL) come from pressure
+transmitters [PT] located on each ofthe turbine first-stage pressure taps. While in the power range ofthe
+reactor, turbine first stage pressure is essentially linearwith increasing power. When the main turbine first-
+stage pressure is below that equivalent to 38 percent of rated thermal power; trip units [PM] in each RPS
+channel actuate relays [RLY] to bypass the.Turbine Stop Valve and Control Valve closure scrams, the EOC-
+RPT function is enabled, and the Control Rod Block RWL is bypassed.
+With a lower than normal turbine first-stage pressure due to an abnormal feedwatertemperature, the relation
+ofthe main turbine first-stage pressure to reactor power is no longer in calibration; therefore, the setpoint for
+percent reactorthermal power at which the bypass functions occurwill not be correct.
+Operators entered into Limiting Conditions of Operation (LCO) forTechnical Specifications (TS) 3.3.1.1, RPS
+Instrumentation Channels A, B, C, D, E, F, G, and H for Turbine Stop Valve Closure; TS 3.3.1.1, RPS
+Page 2 of4
+NRCFORM366A (04-2018)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Send comments
+LICENSEE EVENTREPORT(LER)
+regardingburdenestimatetotheInformationServices Branch(T-2F43), U.S. NuclearRegulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, orbye-mailto lnfocollects.Resource@nrc.gov,andto
+theDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-10202, (3150-0104), Officeof
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform collectiondoesnotdisplayacurrentlyvalid OMBcontrol number, the NRC may not conduct or
+http://www.nrc.qov/readinq-nn/doc-collections/nureqs/staff/sr1022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2019 - 004 01
+NARRATIVE
+Instrumentation Channels A, B, C, and D forTurbine Control Valve Fast Closure, Trip Oil Pressure Low; TS
+3.3.4.1, End of Cycle Recirculation Pump Trip (EOC-RPT) Instrumentation; and TS 3.3.2.1, Control Rod
+Block Instrumentation for Rod Withdrawal Limiter (RWL).
+According to procedure ONI-N36, Loss of Feedwater Heating, Attachment 3 specifies that compliance with
+one ofthe following four actions is required for unplanned reductions in feedwater temperature:
+• Restore the feedwatertemperature within the TS action time(s)
+• Disable the bypass by removing the fourtrip units (C71-N652A, B, C, D) for RPS and EOC-RPT.
+• Implement setpoint changes forthe trip units within the TS action time(s)
+• Reduce power to </= 38 percent within the TS Action Time(s)
+At 1422 hours, the fourtrip units were removed to disable the bypass function and obtain compliance with
+the TS action time to restore Operability.
+At 1631 hours feedwater heaters 5A and 6Awere restored to service, and at 1915 hours the trip units were
+reinstalled to re-enable the bypass function.
+CAUSE OF EVENT
+The Direct Cause was determined to be the continued rise ofwater level in the heater, afterthe emergency
+drain valve reached 100% demand, actuating the high-high isolation level switch.
+The Apparent Cause was determined to be inadequate organizational communication. A change in the
+feedwater heater level control tuning strategy resulted in reduced operational flexibility fortransferring
+feedwater heater drain controls with no compensatory changes in procedures or practices. The 5A
+feedwater heater normal controller is tuned for steady state operations with the intent to dampen heater level
+oscillations at 100 percent reactor power. With this tuning strategy, the ability of Operations to perform the
+transferfrom emergency control to normal control at greaterthan 62 percent reactor power is restricted.
+Additionally, no mitigating action, such as lowering feedwater heaterwater level prior to performing the
+transfer, was identified.
+A contributing cause was determined to be a lack ofwritten guidance forthe Instrument and Control (I&C)
+technicians that provides guidelines for performing the feedwater heatertransfers successfully.
+EVENT ANALYSIS
+A Probabilistic RiskAssessment (PRA) evaluation was performed forthe August 6, 2019 loss offeedwater
+heating. A conservative analysis ofthis event results in delta Core Damage Frequency (CDF) and delta
+Large Early Release Frequency (LERF) values that are well below the acceptable thresholds discussed in
+Regulatory Guide 1.174. The increase in riskforthis event is therefore considered very small in accordance
+with the Regulatory Guidance. This event is being reported in accordance with 10 CFR 50.73(a)(2)(v)(A)
+Page 3 of4
+NRCFORM366A (04-2018)
+U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Send comments
+LICENSEE EVENTREPORT(LER)
+regardingburdenestimatetotheInformationServices Branch(T-2 F43), U.S. NuclearRegulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, orbye-mailto lnfocollects.Resource@nrc.gov,andto
+theDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-10202, (3150-0104), Officeof
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform collectiondoes notdisplayacurrentlyvalid OMBcontrol number, the NRC may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/ sponsor, and a person is not required to respond to, the information collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2019 - 004 01
+NARRATIVE
+and 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented the fulfillment ofa safety
+function.
+CORRECTIVE ACTIONS:
+Feedwater heater 5A was successfully returned to service on the normal level controller and functioned as
+expected.
+Operations will revise procedure IOI-0003, Power Changes, to move a current caution note that states, "Do
+not exceed 62% reactor power until Heaters 5A and 5Bj normal drain controllers are operating the normal
+drain valves and Heaters 5A and 5B emergency drain controllers are operating the emergency drain valves."
+The caution note will be moved to priorto the step directing the transferfrom the emergency to the normal
+drain controllers. Included in the caution note will be the following: transferring from emergency drain to
+normal drain can cause heater level oscillations and an isolation; lowering heater level setpoints is
+recommended priorto performing this task; and removal ofthe trip units specified in ONI-N36, Attachment 3,
+to preclude the loss of safety function in the event of a feedwater heater isolation.
+Additionally, I&C will develop a procedure to incorporate lessons learned from this event to aid the I&C
+technicians in performing feedwater heater mode transfer successfully. Lessons learned will include
+lowering heaterwater level priorto performing the transfer and ensuring reactor power level is acceptable
+priorto performing the task.
+PREVIOUS SIMILAR EVENTS
+A review of LERs and the corrective action database forthe past three years identified no similar events.
+Page 4 of4
+NRCFORM366A (04-2018)

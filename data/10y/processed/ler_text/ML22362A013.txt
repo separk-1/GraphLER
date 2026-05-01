@@ -1,0 +1,226 @@
+LaSalle County Station
+Constellation®
+2601 North 21" Road
+Marseilles, IL 61341
+815-415-2000 Telephone
+.! ,·.. . ' .
+10 CFR 50.73
+RA22-065
+December 28, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+LaSalle County Station, Units 1 and 2
+Renewed Facility Operating License No. NPF-11 and NPF-18
+NRC Docket Nos. 50-373 and 50-374
+Subject: Licensee Event Report 2022-003-02, Supplement to Main Control Room
+and Auxiliary Electric Room HVAC Declared Inoperable Due to Multiple
+Component Failures
+In accordance with 10 CFR 50.73(a)(2)(v)(D), Exelon Generation Company, LLC
+(EGC) is submitting Licensee Event Report (LER) Number 2022-003-02 for LaSalle
+County Station, Units 1 and 2.
+There are no regulatory commitments in this letter. Should you have any questions
+concerning this report, please contact Mr. Dan Mearhoff, Regulatory Assurance
+Manager, at (815) 415-2800.
+Respectfully,
+John Van Fleet Jr
+Plant Manager
+LaSalle County Station
+Enclosure: Licensee Event Report
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - LaSalle County Station
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo comply wilh lhis mandatory collection request: 80 hours. Reported
+~•"C01r, LICENSEE EVENT REPORT (LER) lessons learned are incorporated inlo lhe l<:ensing process and fed back lo induslJy. Send comments
+l~\ regarding burden estimate lo lhe FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+\... ..... ~ i (See Page 3 for required number of digits/characters for each block) l N n u fo c c le o a ll r e cls. R R e e g s u o l u a r l c o e ry @ nrc C . o g m ov m , i a s n si d o n lh . e 0 W M a B sh i r n e g vi t e o w n, e r at D : C 0 MB 2 0 O 5 f 5 fi 5 c - e 0 0 o 0 f 1 I . n form or a tion b y a nd e R -m eg a u il la to l r o y
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira submiss<m@omb.ooo.gov. The NRC may nol conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/)
+Sl)OOSOr, and a person is not required lo respond lo, a collection of information unless lhe document
+requesting or requiring lhe collection d~plays a currenUyv alid 0MB control number.
+1. Faclllty Name 2. Docket Number 3.Page
+LaSalle County Station, Unit 1 05000 -373 1 OF 4
+4. Title
+Main Control Room and Auxiliary Electric Room HVAC Declared Inoperable Due to Multiple Component Failures.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facllltles Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. LaSalle County Station, Unit 2 05000-374
+05 20 2022 2022 - 003 - 02 12 28 2022 Facility Name Docket Number
+NA NA
+9. Operating Mode 110. Power Level
+1 100 percent
+11. This Report Is Submitted Pursuant to the Requirements of 10 CFR §: {Check all that apply)
+D D D D
+(cid:143) 10 CFR Pa..r, t 20 20.2203(a)(2)(vl) 50.36(c)(2) 50.73(a)(2)(1v)(A) 50.73(a)(2)(x)
+D D D
+(cid:143) 20.2201(b} 20.2203(a)(3)(1) (cid:143) 50.46(a)(3)(11) 50.73(a)(2)(v)(A) 1'0,C l=II Pllrit 13
+D D D
+20.2201(d} 20.2203(a)(3)(11) (cid:143) 50.69(g) 50.73(a)(2}(v)(B) 73.71(a)(4)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) (cid:143) 50.73(a)(2)(1)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+D 20.2203(a)(2)(1) 10 CIFR Paii21 (cid:143) 50.73(a)(2)(1)(B) [8J 50.73(a)(2)(v)(D) D 73.77(a)(1)(1)
+D D D D
+20.2203(a)(2)(11) 21.2(c) (cid:143) 50.73(a)(2)(1)(C) 50.73(a)(2)(vll) 73.77(a)(2)(1)
+D CFR D D
+20.2203(a)(2)(111) (cid:143) 10 Pa~soi (cid:143) 50.73(a)(2)(11)(A) 50.73(a)(2)(vlll)(A) 73.77(a)(2)(11)
+D D
+20.2203(a)(2)(1v) (cid:143) 50.36(c)(1)(1)(A) 50.73(a)(2)(il)(B} 50.73(a)(2)(vlll}(B)
+D D D
+20.2203(a)(2)(v) 50.36(c)(1)(11)(A) 50.73(a)(2)(111) 50.73(a)(2)(1x)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact 'Phone Number (Include area code)
+CJ Smith, Operations Director (815) 415-2200
+13. Complete One Line for each Component Failure Described In this Report
+Cause System Component Manufacturer Reportable to IRIS . Cause System Component Manufacturer Reportable to IRIS
+D VI BKR E062 y
+14. Supplemental Report Expected Month Day Year
+I I 15. Expected Submission Date
+12:1 No D Yes (If yes, complete 15. Expected S4bmission Date) I
+6. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 20, 2022, both Units 1 and 2 were in Mode 1 and at 100% power. The B train of the Main Control Room
+Ventilation (VC) and Auxiliary Electric Room Ventilation (VE) was inoperable due to a planned maintenance
+window. The Main Control Room ventilation envelope consists of both the Main Control Room and the Auxiliary
+Electric Equipment Room. Both trains of VC and VE were required to be operable at the time of these events.
+On 5/20/22 at 0905 and again on 5/23/22 at 1256, various equipment on the A VCNE train tripped following train
+swaps to support ongoing maintenance activities. This resulted in the A VCNE train being declared inoperable.
+With both the A and B trains being simultaneously inoperable, the VCNE system was in a condition that could
+have prevented fulfillment of a safety function.
+The cause of the event is an inadequate breaker setting resulting in the breaker tripping prematurely on fan start.
+NRC FORM 366A (08-2020) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply wilh lhis mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nudear Regulatory Commission, Wastington, DC 20555-0001, or by e-maU to
+CONTINUATION SHEET lnlocollects.Resource@nrc.gov, and lhe 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 171h Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1O22, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of inlonnation unless lhe document
+http://www. n re.gov/reading-rm/ doc-col lections/nuregs/staff/sr1 022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 05000- 373 NUMBER NO.
+2022 • 003 02
+NARRATIVE
+Plant and System Identification
+LaSalle County Station Unit 1 and 2 is a General Electric Boiling Water Reactor with 3546 Megawatts Thermal
+Rated Core Power. The affected system was the Main Control Room Area Ventilation system (VC) and the
+Auxiliary Equipment Room Ventilation System (VE).
+Condition Prior to Event
+Unit(s): 1/2 Date: May 20, 2022 Time: 0905 CDT
+Reactor Mode(s): 1/1 Mode(s) Name: Power Operation Power Level: 100%/100%
+Description
+On May 20, 2022 the station was executing a 8 VCNE work window and in the following TS actions: 3. 7.4 A.1,
+restore 8 train to operable status (expires 5/23/22 at 0500) and 3.7.5 A.1, restore B train to operable (expires
+6/15/2022 at 0300). The station began procedures to swap to the A train to allow repairs identified during post
+maintenance testing on the 8 train. After swapping to A VCNE, the A VE return fan tripped and immediately
+tripped after a second attempt to start.
+At 0905, the A train was declared inoperable for both TS 3.7.4, (CRAF) and 3.7.5 (MCR ventilation). With both trains
+ofVCNE inoperable, the Station entered TS 3.7.4 RA E.1 be in mode 3 within 12 hours, TS 3.7.5 RA 8.1 to verify
+control room area temperature less than 90 degrees once per four hours, and RA 8.2 to restore one control room
+area ventilation air conditioning subsystem to operable status within 72 hours.
+The Electrical Maintenance department performed basic troubleshooting. The fan was restarted and following
+sufficient run time of the A VE return fan, the A VCNE train was declared operable at 1200. TS actions 3.7.5
+E.1 and 3.7.4 B.1 and 8.2 were exited.
+On 5/23/2022 the station began activities to swap to A VCNE to allow for system restoration on 8 VCNE. After
+swapping to A VCNE, the A VE return fan tripped at 1256. Operations reset the breaker and restarted the fan.
+The A VCNE train was declared inoperable for CRAF (3.7.4) and MCR ventilation (3.7.5). The station entered
+the following time clocks: 3.7.4 A.1, restore A train to operable status within 7 days, 3.7.5 RA 8.1 to verify
+control room area temperature less than 90 degrees once per four hours, and RA 12 to restore one control
+room area ventilation ~ir conditioning subsystem to operable status within 72 hours (Note: The 8 train was
+declared operable for CRAF on 5/20/22 at 1841 following repairs, but the 8 train re ained in the 3.7.5 MCR
+ventilation LCO for continued maintenance activities from the previous week that resulted in the condition
+discussed above on 5/23.)
+The B train was fully restored to operable status at 1755 on 5/23/22. TS action 3.7.5 B.1/8.2 were exited. The
+station declared the A train operable on 5/24/22 at 2230 after completion of an Operability evaluation and
+subsequent run time.
+Cause
+The cause of the event is an inadequate breaker setting resulting in the A VE Return Fan breaker tripping
+prematurely on fan start.
+I
+NRC FORM 366A (08-2020) Page_3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nudear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocoUects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnrormation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer fDf the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-maD: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of infonmation unless the document
+http://www.n re. gov/reading-rm/ doc-col lections/nuregs/staff/ sr1 022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+LaSalle County Station, Unit 1 05000- 373 NUMBER NO.
+2022 - 003 02
+NARRATIVE
+Reportablllty and Safety Analysis
+The simultaneous inoperability of the A and B VCNE trains is reportable under 10 CFR 50. 73(a)(2)(v)(D) as an event
+or condition that could have prevented the fulfillment of the safety function of the structures or systems that are
+needed to mitigate the consequences of an accident. Two ENS reports were made to the NRC at 1639 CDT on May
+20, 2022 (EN# 55905) and at 1815 CDT on May 23, 2022 (EN# 55908). Both reports were pursuant to 10 CFR
+50. 72(b)(3)(v)(D).
+The safety significance of this event was minimal. For approximately 3 hours on 5/20/22, both VCNE trains were
+inoperable for GRAF and HVAC (TS 3.7.4 and TS 3.7.5). For approximately 5 hours on 5/23/22, both trains were
+inoperable for HVAC only (TS 3.7.5). Main Control temperature did not exceed 90 degrees and online risk remained
+Green throughout the event.
+Corrective Actions
+Corrective actions taken in response to the conditions were:
+• Basic troubleshooting was performed.
+• Operability evaluation was performed prior to declaring VCNE operable after failure of the VC return fan.
+• Perform inspections and testing of the A and B VCNE trains. Based on testing results perform repairs and
+breaker adjustments.
+• Modify model work order for breaker receipt inspection to include trip testing.
+Previous Occurrences
+LER 373-2014-004
+On August 28, 2014, both Units 1 and 2 were in Mode 1 at 100% power. The 'B' train of Auxiliary Electric Equipment
+Room ventilation (VE) was inoperable due to a planned repair of an oil leak. At 1227 hours CDT, the A VE
+compressor was not found to be cycling on and off resulting in the 'A' train of VCNE being declared inoperable. With
+both trains of VCNE inoperable, this resulted in an event or condition that could have prevented the fulfillment of a
+safety fi.4nction. The cause of the event was a shorted wire on liquid I ne solenoid valve 0RG053A that caused the
+solenoid! valve to close, resulting in the compressor shutting down on low suction pressure. The corrective action
+was to repair the wiring problem and return the compressor to service.
+LER 373-2013-008
+On November 22, 2013, both Units 1 and 2 were in Mode 1 at 100% power. The 'A' train of Main Control Room
+ventilation (VC) was inoperable due to an emergent repair of a Freon leak. At 1920 hours CST, the 'B' AEER Cooler
+Condenser Fan tripped. An acrid smell was detected coming from the fan motor breaker compartment. The 'B' train
+of VC and VE was declared inoperable. With both trains of VCNE inoperable, this resulted in an event or condition
+that could have prevented the fulfillment of a safety function. The cause of the event was a winding failure of the 'B'
+AEER Cooler Condenser fan motor. Corrective actions included replacing the failed fan motor and performing a
+failure analysis to determine the cause of the winding failure.
+NRC FORM 366A (08-2020) Page_4_ of~
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply wilh lhis mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nudear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocoUects.Resource@nrc.gov, and lhe 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Alln: Desk Officer for the Nuclear Regulatory Commission, 725 17lh Street NW,
+Washington, DC 20503; e-mail: cira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required lo respond to, a collection of information unless the document
+http://www. n rc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) requesting or requiring the collection displays a currenUy valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 05000- 373 NUMBER NO.
+2022 - 003 02
+NARRATIVE
+Component Failure Data
+Manufacturer: Eaton
+Device: Breaker, A AEER HVAC Return Fan (Model: HFW3125JLY)
+Component ID: 1AP80E-B5
+NRC FORM 366A (08-2020) Page _5_ of _5_

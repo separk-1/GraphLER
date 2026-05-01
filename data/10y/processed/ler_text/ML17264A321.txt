@@ -1,0 +1,225 @@
+Xcel Energy®
+2807 West County Road 75
+Monticello, MN 55362
+RESPONSIBLE BY NATURE®
+800.895.4999
+xcelenergy.com
+September 20, 2017 L-MT-17-068
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Monticello Nuclear Generating Plant
+Docket No. 50-263
+Renewed Facility Operating License No. DPR-22
+LER 2017-005-00, "Diesel Generator Emergency Service Water System Automatic Transfer to
+Alternate Shutdown Panel"
+Enclosed is the Monticello Nuclear Generating Plant (MNGP) Licensee Event Report (LER)
+LER 2017-005-00, "Diesel Generator Emergency Service Water System Automatic Transfer to
+Alternate Shutdown Panel". This condition is reportable to the NRC in accordance with
+10 CFR 50.73(a)(2)(iv)(A), as a condition that resulted in the automatic actuation of the
+Emergency Service Water System.
+Summary of Commitments
+This letter makes no new commitments and no revisions to existing commitments.
+Christopher R. Church
+Site Vice President, Monticello Nuclear Generating Plant
+Northern States Power Company- Minnesota
+Enclosure
+cc: Administrator, Region Ill, USNRC
+Project Manager, Monticello Nuclear Generating Plant, USNRC
+Resident Inspector, Monticello Nuclear Generating Plant, USNRC
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+... ,... ...' >.. lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+{~i LICENSEE EVENT REPORT (LER) Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects. Resource@nrc.gov, and to the
+~.7 (See Page 2 for required number of digits/characters for each block) Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office o
+......- to Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+htt(!://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 0221r3D sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Monticello Nuclear Generating Plant 05000-263 1 OF4
+4. TITLE
+Diesel Generator Emergency Service Water System Automatic Transfer to Alternate Shutdown Panel
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR FACILITY NAME D 0 O 5 C 0 K 0 E 0 T NUMBER
+FACILITY NAME DOCKET NUMBER
+07 23 2017 2017 - 005 -00 09 20 2017 05000
+9. OPERATING MODE
+12
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1 D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) 1:8:1 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+10. POWER LEVEL
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+100% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50. 73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 00THER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMER (Include Area Code)
+Richard A Loeffler Senior Licensing Engineer 763-295-124 7
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TOEPIX
+B LA TS S345 y
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gj NO SUBMISSION
+DATE
+~BSTRACT (Limit to 1400spaces, i.e., approximately 15single-spacedtypewritten lines)
+On July 23, 2017, the Emergency Diesel Generator (EDG) lube oil cooler immersion heater
+temperature switch failed (in the on position) which together with residual heat from 12 EDG
+operation actuated the EDG engine temperature switch resulting in a valid start signal to the 12 EDG
+Emergency Service Water (ESW) System pump and transfer of pump control to the Alternate
+Shutdown System panel. In accordance with 10 CFR 50. 73(a)(2)(iv)(A) an automatic actuation of
+the ESW System is reportable. The apparent cause of the 12 EDG hot engine condition was a failed
+temperature switch for the immersion heater in concert with operating the 12 EDG. From the time of
+the problem identification through the 12 EDG surveillance test, lube oil temperature was monitored
+by Operations and never exceeded the normal operating band when the EDG was in the shutdown
+ready-to-start configuration and during the EDG monthly surveillance run. Therefore, the 12 EDG
+remained operable. The immediate corrective action was replacement of the failed temperature
+switch. A long-term corrective action is to evaluate the immersion heater and associated control
+circuit to determine if the temperature switch design and preventative maintenance frequency are
+appropriate. Corrective action will be taken based on the results of this evaluation.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+LICENSEE EVENT REPORT (LER) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+CONTINUATION SHEET comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, {3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/)
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3. L.ERNUMBER
+YEAR I SEQUENTIAL I REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2017 -005 -00
+NARRATIVE
+EVENT DESCRIPTION
+On July 19, 2017, at 1149 hours, it was identified that lube oil temperature for the 12 Emergency
+Diesel Generator (EDG) [EllS: DG] had made a step change stabilizing at approximately 150°F.
+The step change indicated that the immersion heater was either not operating properly or was
+cycling abnormally. On July 20, 2017, at 1634 hours, after troubleshooting, it was identified that the
+temperature switch controlling the 12 EDG immersion heater had failed, causing it to be
+continuously on. It was determined that since this condition did not result in temperatures outside
+the normal operating band, no compensatory measures were required but additional monitoring by
+Operations was implemented.
+On July 23, 2017, with the unit in Mode 1, at 100 percent rated thermal power, surveillance
+procedure 0187-02, "12 Emergency Diesel Generator /12 ESW [Emergency Service Water System]
+Quarterly Pump and Valve Test," was performed. After shutting down the 12 EDGin accordance
+with the surveillance procedure, at 1332 hours, Annunciator 8-C-21 (NO. 12 DIESEL ENG
+TROUBLE) was logged in the Control Room. An in-plant operator reported that Annunciator C94-A-
+13 (HOT ENGINE) was in alarm and could not be reset. This condition resulted in a valid start
+signal to the 12 EDG Emergency Service Water System [81] (EDG-ESW) pump (which was already
+running) and an automatic transfer of the pump control to the Alternate Shutdown System (ASDS)
+panel.
+EDG cooling water flows from the heat exchangers to a EDG lube oil system [LA] lube oil cooler.
+At the inlet to the lube oil cooler is a manifold containing an engine temperature switch and an
+immersion heater [EHTR] temperature switch (TS-7195) [TS]. If EDG engine water temperature
+reaches 190°F the engine temperature switch actuates the hot engine relay, which starts and
+transfers control of the 12 EDG-ESW pump to the ASDS panel. During EDG engine shutdown,
+water heated by a 15 KW immersion heater (controlled by TS-7195) circulates through the lube oil
+cooler by natural circulation to maintain oil temperature between 135°F and 165°F; 85°F is the
+required minimum temperature to ensure EDG fast start capability.
+Investigation identified that the switch contacts for the immersion heater temperature switch
+(Manufacturer: SquareD, Model No. GZW2-5102, Serial No. 40036996) had failed in the closed
+position, causing the immersion heater to be continuously on when the 12 EDG was shutdown in a
+standby state. While this condition did not raise temperature out of specification prior to EDG
+engine operation, it did add enough local heat to bring in the alarm after the engine was shutdown
+following a run due to the residual heat.
+Page 2 of4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017)
+LICENSEE EVENT REPORT (LER) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+CONTINUATION SHEET comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and Regulatory Affairs,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr10 22/r3/) used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR I SEQUENTIAL I REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2017 -005 -00
+This condition activated the engine temperature switch, in turn actuating the hot engine relay, which
+resulted in an auto start signal to the already running 12 EDG-ESW pump, and an automatic
+transfer of pump control to the ASDS panel. The immersion heater temperature switch was
+replaced on July 25, 2017.
+EVENT ANALYSIS
+This condition is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A), "Any event or
+condition that resulted in manual or automatic actuation of any of the systems listed in paragraph
+10 CFR 50. 73(a)(2)(iv)(B)". Specifically, criteria 10 CFR 50. 73(a)(2)(iv)(B)(9) for ESW "systems that
+do not normally run and that serve as ultimate heat sinks" applies. This event is not classified as a
+safety system functional failure.
+CAUSE
+The apparent cause of the 12 EDG hot engine condition was a failed temperature switch for the
+immersion heater in concert with operating the 12 EDG. Following completion of the surveillance
+test, the 12 EDG was shutdown and returned to the automatic standby mode. When the EDG is
+shutdown the immersion heater automatically cycles back on and controls lube oil temperature to
+between 135°F and 165°F. With the immersion heater failed in the on position along with the
+residual heat from engine operation a localized hot spot occurred that was sufficient to actuate the
+transfer of control of the 12 EDG-ESW pump to the ASDS panel.
+SAFETY SIGNIFICANCE
+The immersion heater (and control) is required to maintain EDG engine operability while in the
+standby state by maintaining EDG lube oil temperature greater than 85°F to ensure fast start
+capability. With the immersion heater continuously on, the 12 EDG lube oil temperature stabilized
+at 154°F, well above the minimum and within the required band. Prior to the monthly surveillance
+test, engine temperatures recorded on operator rounds were within the normal acceptance band.
+During the 12 EDG engine run, the coolant temperature was maintained at approximately 175°F,
+which is within the normal operating range, and below the hot engine alarm setpoint. From the time
+of problem identification through the 12 EDG surveillance test, lube oil temperature was monitored
+by operations and never exceeded the normal operating band. This includes when the EDG was in
+the shutdown ready-to-start configuration and during the EDG monthly surveillance run. Therefore,
+the 12 EDG remained operable.
+Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+LICENSEE EVENT REPORT (LER) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+CONTINUATION SHEET comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr10 221r3D used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR I SEQUENTIAL I REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2017 -005 - 00
+There was no safety significance to transmittal of the valid start signal to the 12 EDG-ESW pump.
+The start of the 12 EDG-ESW pump and transfer of control to the ASDS panel does not prevent the
+cooling of ttie 12 EDG or impact the ability of the 12 EDG to perform its safety function. This
+condition did not impact EDG, EDG-ESW System, or ASDS System operability since the lube oil
+temperatures never exceeded the normal EDG operating band, and the system logic operated as
+designed and engine cooling was always available.
+CORRECTIVE ACTIONS
+The immediate corrective action was to replace the failed immersion heater temperature switch,
+TS-7195.
+The long-term corrective actions are:
+1. Evaluate the immersion heater and associated control circuit to determine if the temperature
+switch design and preventative maintenance frequency are appropriate. Based on the
+results, take action to address identified deficiencies.
+2. Revise plant procedures to include discussion of component(s) not operating correctly or
+in configurations that are abnormal, so that the impact of the condition is properly
+understood and controlled.
+PREVIOUS SIMILAR EVENTS
+On April 29, 2014, it was identified that a similar issue occurred following shutdown from
+performance of the surveillance. The engine temperature switch and the immersion heater
+temperature switch setpoint bands were found to be out of adjustment resulting in the 12 EDG
+engine residual heat actuating the hot engine temperature switch. This resulted in an automatic
+start signal to the 12 EDG-ESW pump and transfer of pump control to the ASDS panel. Note, the
+immersion heater temperature switch did not fail during this occurrence. The condition was
+corrected by installation of new temperature switches with the proper operating parameters.
+Page 4 of 4

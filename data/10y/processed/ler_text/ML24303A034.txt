@@ -1,0 +1,801 @@
+  
+ 
+Post Office Box 2000, Decatur, Alabama  35609-2000 
+ 
+ 
+October 29, 2024 
+10 CFR 50.73 
+ 
+ 
+ATTN:  Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, D.C.  20555-0001 
+ 
+ 
+Browns Ferry Nuclear Plant, Units 1 and 2 
+Renewed Facility Operating License Nos. DPR-33 and DPR-52 
+NRC Docket Nos. 50-259 and 50-260 
+ 
+ 
+Subject: 
+Licensee Event Report 50-259/2024-003-00 
+ 
+The enclosed Licensee Event Report provides details of a breaker trip which automatically 
+started Emergency Diesel Generators on Browns Ferry Nuclear Plant, Units 1 and 2. The 
+Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code 
+of Federal Regulations (10 CFR) 50.73(a)(2)(iv)(A), as an event or condition that resulted 
+in the unplanned, valid, manual or automatic actuation of emergency AC electrical power 
+systems. 
+ 
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact David J. Renn, Nuclear Site Licensing 
+Manager, at (256) 729-2636. 
+ 
+Respectfully, 
+ 
+ 
+ 
+Daniel A. Komm 
+Site Vice President 
+ 
+Enclosure:  Licensee Event Report 50-259/2024-003-00 – Valid Specified System 
+Actuation Caused the Automatic Start of Emergency Diesel Generators 
+ 
+ 
+cc (w/ Enclosure): 
+ 
+NRC Regional Administrator - Region II  
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant 
+NRC Project Manager - Browns Ferry Nuclear Plant 
+ 
+ 
+1\14 
+TENNESSEE 
+VALLEY 
+AUTHORITY 
+
+U.S. Nuclear Regulatory Commission 
+Page 2 
+October 29, 2024 
+ 
+ 
+ 
+DJR:RWC 
+Enclosure 
+bcc (w/ Enclosure): 
+ 
+A. Aboulfaida  
+K. S. Adams 
+M. B. Bruce 
+D. M. Delk 
+R. C. Dreke 
+S. T. Earley 
+C. Edmondson 
+D. E. Ferrell 
+J. E. Gordon 
+K. D. Hulvey 
+J. T. Johnson 
+D. Komm 
+E. Q. Leonard 
+R. Medina 
+M. W. Oliver 
+J. L. Paul 
+M. Rasmussen 
+T. S. Rausch 
+D. J. Renn 
+C. L. Rice 
+D. K. Riggs  
+M. Sivaraman 
+J. A. Yarbrough 
+ECM 
+ 
+ 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024)
+APPROVED BY OMB:  NO. 3150-0104         
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number.
+ 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+ 
+1. Facility Name 
+    Browns Ferry Nuclear Plant, Unit 1 
+ 
+         050 
+ 
+         052 
+52. Docket Number 
+ 
+00259 
+3. Page 
+1   OF  6 
+4. Title 
+    Valid Specified System Actuation Caused the Automatic Start of Emergency Diesel Generators 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number
+Revision 
+No.
+Month 
+Day 
+Year 
+Facility Name 
+ 
+ Browns Ferry Nuclear Plant, Unit 2 
+Docket Number 
+ 
+05000260 
+08 
+30 
+2024
+2024 -
+003 
+-
+00 
+10 
+29 
+2024
+Facility Name 
+ 
+N/A 
+Docket Number 
+ 
+05000XXX 
+9. Operating Mode 
+     1 
+10. Power Level 
+      73 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply) 
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.1200(a) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  73.1200(b) 
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  73.1200(c) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  73.1200(d) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  73.1200(e) 
+  20.2203(a)(2)(ii) 
+  21.21(c) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.77(a)(1) 
+  73.1200(f) 
+  20.2203(a)(2)(iii) 
+ 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.77(a)(2)(i) 
+  73.1200(g) 
+  20.2203(a)(2)(iv) 
+  50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(2)(ii) 
+  73.1200(h) 
+  20.2203(a)(2)(v) 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+ 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Ryan Coons, Licensing Engineer 
+Phone Number  (Include area code) 
+256-729-2070 
+13. Complete One Line for each Component Failure Described in this Report
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS
+X 
+EK 
+BKR 
+G080 
+Y 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+4. Supplemental Report Expected)      
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+ No
+ Yes (If yes, complete 15. Expected Submission Date
+N/A 
+N/A 
+N/A 
+16. Abstract  (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On August 30, 2024, at 1051 Central Daylight Time Breaker 1622 failed to close during the transfer of 
+Shutdown Bus 1 from 4kV Unit Board 1A to 4kV Unit Board 2B. This failure resulted in deenergizing 4kV 
+Shutdown (SD) Boards A and B, and the A and B Emergency Diesel Generators started and tied to their 
+respective 4kV SD Boards in response.  
+ 
+The cause of the event was a loose LS-9 appliance lug which resulted in a loss of power on 4kV SD Boards A 
+and B. As corrective action, the lug was repaired. Additional actions to prevent recurrence will include, briefing 
+of operators and maintenance personnel on this event, as well as procedure enhancements to operating 
+instructions. 
+.::.¢1>""£au(.,> 
+f ¥.' 
+'!, 
+l 
+"'+., 
+,t,d" 
+.. ,.., .. 
+[8] 
+□ 
+I 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+[8] 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+I 
+I 
+I 
+I 
+I 
+I I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I I 
+I 
+I 
+I 
+[8] 
+ID 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 -
+003 
+-
+00 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    2     of     6    
+I. 
+Plant Operating Conditions before the Event 
+ 
+At the time of occurrence, Browns Ferry Nuclear Plant (BFN) Unit 1 was in Mode 1 at 
+approximately 73 percent power. Power decreased throughout this event as part of a planned 
+shutdown to support Unit 1 Refueling Outage 15 (U1R15). BFN Unit 2 was in Mode 1 at 
+approximately 100 percent power. 
+ 
+II. 
+Description of Event 
+ 
+A. Event Summary 
+ 
+On August 30, 2024, at 1051 Central Daylight Time (CDT) Breaker 1622 
+(BFN-0-BKR-211-000D/001) [BKR] failed to close during the planned transfer of Shutdown Bus 1 
+from 4kV Unit Board 1A to 4kV Unit Board 2B in preparation for U1R15. This failure resulted in 
+deenergizing 4kV Shutdown Boards (SD BDs) A and B, and the A and B Emergency Diesel 
+Generators (EDGs) [EK] automatically started and tied to their respective 4kV SD BDs in 
+response.  
+ 
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code 
+of Federal Regulations (10 CFR) 50.73(a)(2)(iv)(A), as an event or condition that resulted in the 
+manual or automatic actuation of emergency alternating current (AC) electrical power systems, 
+including: EDGs. 
+ 
+B. Status of structures, components, or systems that were inoperable at the start of the 
+event and that contributed to the event 
+ 
+There were no structures, systems, or components (SSCs) whose inoperability contributed to 
+this event.  
+ 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 -
+003 
+-
+00 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    3     of     6    
+C. Dates and approximate times of occurrences 
+ 
+DATES AND 
+APPROXIMATE 
+TIMES 
+OCCURRENCE 
+August 30, 2024 
+1051 CDT 
+4kV Shutdown Bus 1 failed to transfer. Breaker 1622 failed to close, 
+and BFN, Unit 1, lost power to the A and B 4kV SD BDs. EDGs A and 
+B started and tied to their respective boards. 
+August 30, 2024 
+1250 CDT 
+4kV SD BD A energized through the normal feeder breaker. 
+August 30, 2024 
+1336 CDT 
+4kV SD BD B energized through the normal feeder breaker. 
+August 30, 2024 
+1730 CDT 
+Ops personnel reported this event to the Nuclear Regulatory 
+Commission (NRC) as Event Notification 57298, in accordance with 
+10 CFR 50.72(b)(3)(iv)(A).  
+ 
+D. Manufacturer and model number of each component that failed during the event 
+ 
+BFN-0-BKR-211-000D/001 (Breaker 1622) is a General Electric circuit breaker, Part Number 
+317A7502P005. 
+ 
+E. Other systems or secondary functions affected 
+ 
+The equipment powered by the SD BD lost power until restarted following re-energization of 
+the board. 
+ 
+F. Method of discovery of each component or system failure or procedural error 
+ 
+The failure of the breaker was discovered to be a loose lug that was discovered during 
+troubleshooting of the breaker. 
+ 
+G. The failure mode, mechanism, and effect of each failed component 
+ 
+The breaker failed due to a loose LS-9 appliance lug. 
+ 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 -
+003 
+-
+00 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    4     of     6    
+H. Operator actions 
+ 
+The operators ensured the EDGs started and supplied power to the shutdown board and 
+shutdown the EDGs once the normal power supply was restored to the SD boards. 
+ 
+I. 
+Automatically and manually initiated safety system responses 
+ 
+The loss of power to the SD BDs is condition also caused a loss of the 1A and 2A reactor 
+protection system (RPS), resulting in the invalid actuation of Primary Containment Isolation 
+System Groups 2, 3, and 6 on BFN, Units 1 and 2.  
+ 
+The loss of the “A” RPS on BFN, Units 1 and 2 was not a specified system actuation, only the 
+actuation of the “A” and “B” EDGs were a specified system actuation.  
+ 
+III. 
+Cause of the event 
+ 
+The direct cause of the event was a loose LS-9 appliance lug which resulted in a loss of power on 
+4kV SD BDs A and B. There had been previous issues with this appliance lug coming loose which 
+had yet to be permanently corrected.  
+ 
+A. Cause of each component or system failure or personnel error 
+ 
+The LS-9 appliance lug is uniquely specific to this application. The LS-9 appliance lug inputs 
+into the charging spring indicating light. The LS-9 appliance lug required replacement, 
+however, the required tooling had not been permitted for use at TVA. 
+ 
+B.  Cause(s) and circumstances for each human performance related root cause 
+ 
+No human performance related root causes were identified. 
+ 
+IV. 
+Analysis of the event 
+ 
+The 4kV bus under-voltage condition was a valid EDG signal, which caused the EDG to fulfil its 
+designed safety function by automatically starting and tying to the board. 
+ 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 -
+003 
+-
+00 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    5     of     6    
+V. 
+Assessment of Safety Consequences 
+ 
+All safety systems and alarms performed as designed in response to the unplanned, valid, 
+automatic actuation signal. No actual safety consequences or radiological releases resulted from 
+this event. All Technical Specification and Technical Requirements Manual conditions were met 
+throughout this event. All mitigating systems remained functional and capable of fulfilling their 
+required safety functions throughout this event. No fission product barriers were challenged during 
+this event. 
+ 
+Based on the above, the TVA has concluded that sufficient systems were available to provide the 
+required safety functions needed to protect the health and safety of the public. 
+ 
+A. Availability of systems or components that could have performed the same function as 
+the components and systems that failed during the event 
+ 
+The breaker’s failure caused a valid actuation signal for the EDGs, which continued to 
+power the affected SD BDs. 
+ 
+B. For events that occurred when the reactor was shut down, availability of systems or 
+components needed to shutdown the reactor and maintain safe shutdown conditions, 
+remove residual heat, control the release of radioactive material, or mitigate the 
+consequences of an accident 
+ 
+This event did not occur when the reactor was shut down. 
+ 
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed 
+time from discovery of the failure until the train was returned to service 
+ 
+No safety systems were rendered inoperable during this event.  
+ 
+VI. 
+Corrective Actions 
+ 
+Corrective Actions are being managed by the TVA’s Corrective Action Program (CAP) under 
+Condition Report (CR) 1954797. 
+ 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 -
+003 
+-
+00 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    6     of     6    
+A. Immediate Corrective Actions 
+ 
+Troubleshooting on Breaker 1622 and identified a loose wire on the charging spring limit 
+switch. This wire was tightened and reattached. 
+ 
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events 
+occurring in the future 
+ 
+To prevent a recurrence of this event, BFN will perform the following corrective actions: 
+• 
+Verify the completion of Work Order (WO) 124788330, which replaces the LS-9 appliance 
+lug for BFN-0-BKR-211-000D/001. 
+• 
+Verify that WOs exist to inspect safety-related 4kV Siemens breakers identified in the 
+extent of condition and replaces their appliance lugs as required. 
+• 
+Conduct briefings to operations and maintenance personnel regarding this event. 
+• 
+Revise 0-OI-57A, Switchyard and 4160V AC Electrical System, to include the guidance on 
+precautions and limitations associated with the charging spring failure light. 
+ 
+VII. Previous Similar Events at the Same Site 
+ 
+A review of the BFN Licensee Event Reports (LERs) over the last five years revealed two 
+similar events at BFN: 
+ 
+LER 50-296/2024-002-00 describes a breaker trip which automatically started an EDG 
+on BFN, Unit 3. This event was believed to have been caused by an intermittent loose 
+connection, which was resolved during troubleshooting activities. 
+ 
+LER 50-296/2020-001-00 describes an offsite lightning strike which caused the loss of 
+the 4 kV SD BDs on BFN, Unit 3, and automatic actuated its EDGs. 
+ 
+VIII. Additional Information 
+ 
+There is no additional information. 
+ 
+IX. Commitments 
+ 
+There are no new commitments. 

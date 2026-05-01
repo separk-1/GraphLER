@@ -1,0 +1,350 @@
+TennesseeValleyAuthority,SequoyahNuclearPlant,P.O.Box2000,SoddyDaisy, Tennessee37384
+September 18, 2018
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report50-327 and 50-328/2018-001-00, Inadequate Post
+Maintenance Testing Results in Condition Prohibited byTechnical
+Specifications
+The enclosed licensee event report provides details concerning a situation inwhich inadequate
+post maintenance testing resulted in onetrain of the Emergency Gas Treatment System being
+inoperablefor longerthan allowed by Technical Specifications. This report is being submitted
+in accordance with 10 CFR 50.73(a)(2)(i)(B), as any operation orcondition which was
+prohibited by the plant'sTechnical Specifications and in accordance with
+10 CFR 50.73(a)(2)(v), as an event orcondition that could have prevented thefulfillment of a
+safetyfunction of structures or systems that are needed to: (C) control the release of
+radioactive material and (D) mitigate the consequences of an accident.
+There are no regulatory commitments contained inthis letter. Should you have any questions
+concerning this submittal, please contact Mr.Jonathan Johnson, Site Licensing Manager, at
+(423)843-8129.
+ibnyL. Williams
+Site Vice President
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2018-001-00
+cc: NRC Regional Administrator- Region II
+NRC Senior Resident Inspector-Sequoyah Nuclear Plant
+printedonrecycledpaper
+NRCFORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest 80hours.
+~~— ~~ — Reported lessonsteamedare incorporated intothe licensing processandfedbackto
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2F43),U.S.NuclearRegulatoryCommission,Washington,DC20555-0001,orbye-mail
+(SeePage2forrequirednumberofdigits/charactersforeachblock) to lnfocolIects.Resource@nrc.gov, and to the Desk Officer, Office ofInformation and
+(SeeNUr^G-1022,R3forins1ructionandguidanafor(»rnp!etingthisform K2„^^^
+rh%M.«/./»v.*..v...wnm.n«r»c...qrmW.n/rwe;andM.^,™/w~,~^i,JL«„o/„..,^ofe^^r.-in'v?/.o/\ dWisaps|haiyn»gtocnu,rreDnHCy2y05m03.QImfa^meansnumsebdefto^immposiea^n in^form^atio^n coolflescptocnnscdfoe^s nogt
+_personisnotrequiredtorespondto,theinformationcollection.
+1.FacilityName 2 DocketNumber 3.Page
+Sequoyah Nuclear Plant Unit 1 (35000327
+1 OF7
+4.Title
+Inadequate Post Maintenance Testing Results in Condition Prohibited bvTechnical Specifications
+S.EventDate 6.LERNumber 7. ReportDate 8.OtherFacilitiesInvolved
+FacilityName
+Month Day Year Year Sequential Rev Month Day Year Sequoyah Nuclear Plant Unit2 DocketNumber
+Number No. 05000328
+FacilityName DocketNumber
+06 26 2018 2018 -001 -00 09 18 2018
+N/A 05000
+aOperatingMode H.ThisReportisSubmittedPursuarrttotheRequirementsof1QCFR&(Checkallthatapply)
+• 20.2201(b) • 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) • 50.73(a)(2)(viii)(A)
+1
+• 20.2201(d) • 20.2203(a)(3)(H) • 50.73(a)(2)(ii)(B) • 50.73(a)(2)(viii)(B)
+• 20.2203(a)(1) • 20.2203(a)(4) • 50.73(a)(2)(iii) • 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) • 50.36(0(1)(i)(A) • 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x)
+10.PowerLevel D 20.2203(a)(2)(H) • 50.36(0(1)(ii)(A) • 50.73(a)(2)(v)(A) • 73.71(a)(4)
+• 20.2203(a)(2)(iii) D 50.36(c)(2) • 50.73(a)(2)(v)(B) • 73.71(a)(5)
+100 • 20.2203(a)(2)(iv) • 50.46(a)(3)(H) El 50.73(a)(2)(v)(C) • 73.77(a)(1)
+D 20.2203(a)(2)(v) • 50.73(a)(2)(i)(A) E 50.73(a)(2)(v)(D) • 73.77(a)(2)(H)
+• 20.2203(a)(2)(vi) B 50.73(a)(2)(i)(B) • 50.73(a)(2)(vii) • 73.77(a)(2)(iii)
+• 50.73(a)(2)(i)(C) • Other (SpecifyinAbstractbeloworinNRCForm366A)
+12.LicenseeContactforthisLER
+LicenseeContact TelephoneNumber(IncludeAreaCode)
+IScott Bowman |423-843-6910
+13.CompleteOneLineforeachComponentFailureDescribedinthisReport
+Cause System Component Manufacturer ReportableToICES Cause System Component Manufacturer ReportableToICES
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14.SupplementalReportExpected Month Day Year
+15. ExpectedSubmissionDate
+Q Yes(Ifyes,complete15.ExpectedSubmissionDate) |3 No N/A N/A N/A
+Abstract(Limitto1400spaces,i.e.,approximately14single-spacedtypewrittenlines)
+On June 26, 2018, at 0902 eastern daylight time, a flow switch electroniccircuit board associated with the B-
+trainEmergency Gas Treatment System (EGTS) AirCleanup Subsystem relative humidity heaterswas
+replaced due to the circuitboard approaching the end of itsenvironmentally qualified life. Following board
+replacement, the flowswitch was calibrated and the B-train of EGTS was returned to service inthe standby
+condition. The post maintenancetesting (PMT) didnot requireorrecommend operabilitytesting. On July22,
+2018, Operations personnel performed a surveillance instructionforSurveillance Requirement (SR) 3.6.10.1
+and identifiedthat the B-train relative humidity heaters did not energize as required by the SR. Operators
+declared LimitingCondition forOperation 3.6.10, EGTS AirCleanup Subsystem, not met and entered
+Condition A forone EGTS AirCleanup Subsystem train being inoperable. On July 23, 2018, the flow switch
+circuitboard forthe B-train EGTS relative humidity heaters, that had previously been removed on June 26,
+was reinstalled. Following reinstallation ofthe board, the B-train ofEGTS was able to meet SR 3.6.10.1 and
+was declared operable July 24, 2018, at 0115. The cause ofthe eventwas the lack offormalityin
+determining PMTs and return to operability (RTO) tests even though the procedure provides adequate
+guidance forthis determination. The corrective action isto conduct information sharing with each Operations
+Crew and theWork Planners to determine PMT and RTO requirements in accordance with the maintenance
+procedure.
+NRCFORM366 (04-2018)
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburden perresponsetocomplywith thismandatorycollectionrequest80hours. Reported
+LICENSEE EVENT REPORT (LER) lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+regarding burden estimate totheInformation Services Branch (T-2 F43), U. S.Nuclear Regulatory
+CONTINUATIONSHEET Commission, Washington, DC 20555-0001,or bye-mail tolnfocoiiects.Resource@nrc.gov, andto
+theDeskOfficer, Office ofInformation andRegulatory Affairs, NEOB-10202, (3150-0104), Officeof
+Management andBudgetWashington, X 20503. Ifa meansusedtoimpose aninformation
+collection doesnotdisplay acurrently valid OMB control number, theNRC may notconductor
+sponsor,andapersonisnotrequiredtorespondto,theinformationcollection.
+1. FACILITYNAME 2. DOCKETNUMBER a LERNUMBER
+YEAR SEQUENTIAL REV
+Sequoyah NuclearPlant Unit1 05000-327 NUMBER NO.
+2018 -001 -00
+NARRATIVE
+I. Plant Operating Conditions Beforethe Event
+Atthetime ofthe event, Sequoyah Nuclear Plant (SQN) Unit1 and Unit2 were inMode 1 at
+100 percent rated thermal power.
+II. Description of Event
+A. Event Summary:
+On June 26, 2018, a flowswitch [EIIS: FS] electroniccircuit board [EIIS: ECBD]associated with
+the B-train Emergency Gas Treatment System (EGTS) [EIIS:BH] AirCleanup Subsystem relative
+humidity heaters was replaced due tothe circuitboard approaching the end ofitsenvironmentally
+qualified life. Followingboard replacement, theflowswitch was calibrated and the B-train of
+EGTS was returned to service inthe standby condition. The post maintenance testing (PMT)did
+not require or recommend operabilitytesting.
+On July22, 2018, Operations personnel performed a Technical Specification (TS) 3.6.10, EGTS
+AirCleanup Subsystem, surveillance instruction (SI)for Surveillance Requirement (SR) 3.6.10.1
+(operate each EGTS AirCleanup Subsystem train forgreaterthan or equal to 15 continuous
+minuteswith heaters operating) and identified thatthe B-train relative humidity heaters did not
+energize as required bythe SR. Operators declared Limiting Condition for Operation
+(LCO)3.6.10 not met and entered TS 3.6.10 Condition Afor one EGTS AirCleanup Subsystem
+train being inoperable.
+On July 23, 2018, the flowswitch circuit boardforthe B-train EGTS relative humidity heaters, that
+had previously been removed on June 26, was reinstalled. Followingreinstallation ofthe board,
+the B-train of EGTS was able to meet SR 3.6.10.1 and was declared operable July 24, 2018, at
+0115 eastern daylighttime (EDT).
+A past operability evaluation (POE) determined thatthe B-train of the EGTS AirCleanup
+Subsystem had been inoperable from June 26, 2018, at 0902 untilJuly 24, 2018 at 0115.
+TS 3.6.10, Condition A allows 7 days to restore one train ofthe EGTS AirCleanup Subsystem to
+operable status. TS 3.6.10 Condition Brequires the unitto be inMode 3 within6 hours ifthe
+Required Action and associated Completion Time for Condition Aare not met. Because one train
+ofthe EGTS AirCleanup Subsystem was inoperablefor greaterthan 174 hours (7 days plus
+6 hours) without entering Mode 3, this event is reportable in accordancewith
+10 CFR 50.73(a)(2)(i)(B) as any operation or condition which was prohibited by the plant's
+Technical Specifications (TSs).
+Additionally, the POE identified thatthe A-train ofthe EGTS AirCleanup Subsystem had been
+tagged out ofservicefor planned maintenance activities and declared inoperable concurrentwith
+the B-train inoperability. Both trains of EGTS were inoperablefor approximately 20 hours. With
+| two trains of EGTS inoperable, LCO 3.0.3should have been entered and theunits should have
+NRCFORM366A (04-2018) PaQe 2 Of 7
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest80hours. Reported
+LICENSEE EVENT REPORT (LER) lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+regarding burdenestimatetotheInformation ServicesBranch(T-2F43),U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC20555-0001,or bye-mail tolnfocoIlects.Resource@nrc.gov, andto
+theDesk Officer, OfficeofInformation andRegulatory Affairs, NEOB-10202, (3150-0104), Officeoi
+ManagementandBudgetWashington, DC20503. Ifa meansusedtoimpose aninformation
+collection doesnotdisplay a currently valid OMB control number, the NRC maynotconductor
+sponsor,andapersonisnotrequiredtorespondto,theinformationcollection.
+1. FACILITYNAME 2 DOCKETNUMBER a LERNUMBER
+YEAR SEQUENTIAL REV
+Sequoyah NuclearPlant Unit 1 05000-327 NUMBER NO.
+2018 -001 -00
+transitioned to Mode 3 within7 hours. This constitutes anotherevent of an operation or condition
+which was prohibited bythe plant'sTSs. This event is also reportable inaccordancewith
+10 CFR 50.73(a)(2)(v) as an event or condition that could have prevented thefulfillmentof a
+safetyfunction ofstructures or systems that are needed to: (C) control the release of radioactive
+material and (D) mitigate the consequences of an accident.
+B. Status ofstructures, components, or systems thatwere inoperable atthe start ofthe event
+and contributed to the event:
+An operabilitytest ofthe EGTS AirCleanup Subsystem was not performed after
+maintenance. This allowedthe B-trainofEGTSto be inoperable longer than allowed byTSs
+without being detected.
+C. Dates and approximatetimes of occurrences:
+Date/Time (EDT) Description
+February 2018 The work orderfor replacing the flowswitch electronic circuit board was
+prepared and reviewed. The only post maintenance test (PMT)specified in
+the work orderwas to complete a calibration on the replaced board. The
+work plannerand seniorreactoroperatorwho reviewed the work order
+failedto identifythe need tofunctionally testthe B-trainEGTSAirCleanup
+Subsystem after board replacement.
+06/26/18, 0902 Both units enterTS 3.6.10 Condition Adue to removing B-train EGTS from
+servicefor relative humidity heaters flowswitch circuitboard replacement
+and calibration.
+06/26/18, 1443 Both units exitTS 3.6.10 ConditionAaftercircuitboard replacement and
+calibration. B-trainEGTSwas returned to service and placed ina standby
+condition. The B-train relative humidity heaters were not verified to be able
+to energize following circuit board replacement. The B-train of EGTS was
+still inoperable.
+07/10/18, 0211 Both units enterTS 3.6.10 Condition Adue to tagging the A-train of EGTS
+out of servicefor a maintenance outage.
+07/10/18,2200 Both units exitTS 3.6.10 Condition Adue to A-train of EGTS being
+restored to operable status.
+NRCFORM366A(06-2016) Page 3 of 7
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest80hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+regarding burden estimate totheInformation Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATIONSHEET Commission, Washington, DC 20555-0001,orbye-mail tolrtfocoilects.Resource@nnc.gov, andto
+theDesk Officer, Office ofInformation andRegulatoryAffairs, NEOB-10202, (3150-0104), Officeof
+ManagementandBudget, Washington, DC20503. Ifa means usedtoimposean information
+collection doesnotdisplay a currently valid OMB control number, theNRC may notconductor
+sponsor,andapersonisnotrequiredtorespondto,theinformationcollection.
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Sequoyah NuclearPlantUnit 1 05000-327 NUMBER NO.
+2018 001 -00
+Date/Time (EDT) Description
+07/22/18, 1008 Both units enterTS 3.6.10 Condition A due to removing B-train of EGTS
+from service to perform a B-train EGTS flow test associated with
+SR 3.6.10.1. Main Control Room operators discovered thatthe B-train
+relative humidity heaterswere not energized.
+07/24/18,0115 Following replacement ofthe B-train EGTS relative humidity heatersflow
+switch circuit board, with the board removed on June 26, the B-train of
+EGTS was able to pass the flowtest associated with SR 3.6.10.1. Both
+units exited TS 3.6.10 Condition Adue to the EGTS AirCleanup
+Subsystem being restored to operable status.
+D. Manufacturerand model numberofeach componentthatfailed during the event:
+There was no componentthatfailed during the event.
+E. Othersystems or secondaryfunctions affected:
+There were no othersystems or secondaryfunctions affected bythis event.
+F. Method ofdiscovery ofeach componentor system failure or procedural error:
+Operations personnel performed an SIforSR 3.6.10.1 (operate each EGTS AirCleanup
+Subsystem trainforgreaterthan orequal to 15continuous minutes withheaters operating) and
+identified thatthe B-train relative humidity heaters did not energize.
+G. Failure mode, mechanism, and effect ofeach failed component:
+There was no componentthatfailed during the event.
+H. Operatoractions:
+Uponfailureto meet SR 3.6.10.1, Operators declared LCO3.6.10, EGTSAirCleanup Subsystem,
+not met and entered TS 3.6.10 Condition Afor one EGTS AirCleanup Subsystem train being
+inoperable.
+I. Automatically and manually initiated safety system responses:
+Therewere no automatic or manually initiated safety system responses associated withthis
+event.
+NRCFORM366A(06-2016) Page 4 of7
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburden perresponsetocomplywith thismandatorycollectionrequest80hours. Reported
+LICENSEE EVENT REPORT (LER) lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+regarding burden estimate totheInformation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC20555-0001,or bye-mail tolnfocoilects.Resource@nrc.gov, andto
+theDeskOfficer, OfficeofInformation and Regulatory Affairs, NEOB-10202, (3150-0104), Officeof
+Management andBudgetWashington, DC 20503. Ifa meansusedtoimpose aninformation
+collection does notdisplaya currently valid OMB control number, the NRCmaynotconductor
+sponsor,andapersonisnotrequiredtorespondto,theinformationcoilection.
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Sequoyah NuclearPlant Unit 1 05000-327 NUMBER NO.
+2018 -001 -00
+III. Cause ofthe Event
+A. Cause of each component orsystem failure or personnel error:
+The cause ofthe eventwas the lack offormality in determining PMTs and return to
+operability (RTO) tests even though the procedure provides adequate guidance for this
+determination. PMTs may include RTOs and othermaintenancetests. Work planners
+assumed that ifno SRfor a maintenancetask could be found then no RTO test is required.
+Operations personnel did not provide enough vigor and challenge intheir reviews of PMTs
+for work orders associated with safety related equipment. The extent of required review of
+RTO testing by Operation personnel was not fully understood leading to assumptions, in
+which for PMTs, may not be adequate to verify operability of equipment being tested.
+B. Cause(s) and circumstancesfor each human performance related root cause:
+There was a lack offormality indetermining required testing following maintenance bythe
+Work Management and Operations organizations.
+The personnel involved were SQN employees. They were performing work associated with
+the replacement ofthe B-train EGTS AirCleanup Subsystem flow switch electroniccircuit
+card. There were no time orsituational pressures present.
+IV. Analysis ofthe Event:
+The design basesfor the EGTS are (1)to keep the air pressure withineach Shield Buildingannulus
+belowatmospheric at alltimes inwhich the integrity ofthat particularcontainment is required, and (2)
+to reduce the concentration ofradioactive nuclides in annulus airthat is released to the environs
+during a loss of coolant accident (LOCA)ineitherreactor unitto levels sufficiently lowto keep the
+exclusion area boundary dose rate belowthe 10 CFR 100 guideline values.
+The specified function ofthe relative humidity heaters isto reduce the relative humidity ofthe air
+stream to 70 percent relative humidityto prevent degradation ofcharcoal adsorber media efficiency.
+An engineering calculation determined the maximum relative humidity inthe annulus resulting from a
+loss of coolantaccidentor a high energy line breakwould conservatively not exceed 61 percent
+relative humidity. Therefore, the Updated Final SafetyAnalysis Report specified function ofthe
+relative humidity heaterswould be maintained with the heaters de-energized.
+Page 5 of 7
+NRCFORM366A(06-2016)
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimatedburden perresponsetocomplywiththismandatorycollectionrequest80hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+regarding burden estimatetotheInformation ServicesBranch (T-2 F43), U.S.Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC20555-0001,orbye-mail tolnfoco!lects.Resource@irc.gov, andto
+theDeskOfficer, OfficeofInformation andRegulatory Affairs, NEOB-10202, (3150-0104), Officeoi
+ManagementandBudgetWashington, DC 20503. Ifa meansusedtoimpose aninformation
+collection doesnotdisplay acurrently valid OMB control number, the NRC maynotconductor
+sponsor,andapersonisnotrequiredtorespondto,theinformationcollection.
+1. FACILITYNAME 2 DOCKETNUMBER a LERNUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2018 001 -00
+V. Assessment of Safety Consequences
+There were no actual safety consequences as a result ofthis event. The SQN probabilistic risk
+assessment model does not creditthe use ofthe EGTS when calculating the probability of core
+damage or large early release. Accordingly, the risk associated with this event is considered to
+be very small.
+A. Availability of systems or components that could have performed the samefunction as the
+components and systems thatfailed during the event:
+Although B-train relative humidity heatersfailed to energize, an engineering evaluation
+determined the B-train of EGTS was fully capable of meeting its specified function withthe
+heaters not energized. Additionally, the A-trainof EGTS was operableforthe majorityofthe
+timethe B-train was inoperable.
+B. For events that occurred when the reactorwas shutdown, availabilityofsystems or
+components needed to shutdown the reactorand maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences ofan accident:
+The event did not occurwhen the reactorwas shutdown.
+C. Forfailure that rendered a train ofa safety system inoperable, an estimate ofthe elapsed
+timefrom discovery of the failure untilthe train was returned to service:
+Operators identifieda failure ofB-trainEGTS to meet SR 3.6.10.1 on July 22 at 1008. B-train
+EGTS was declared operable approximately40 hours later on July 24 at 0115.
+VI. CorrectiveActions
+This eventwas entered intothe Tennessee ValleyAuthorityCorrective Action Program under
+Condition Reports 1433166 and 1436225.
+A. Immediate CorrectiveActions:
+None.
+NRCFORM366A(06-2016) Page 6 of7
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden perresponsetocomplywith this mandatorycollectionrequest:80hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry. Sendcomments
+regarding burdenestimatetothe Information ServicesBranch (T-2F43],U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001,orbye-mail tolnfocoilects.Resource@nrc.gov, andto
+theDeskOfficer, OfficeofInformation andRegulatory Affairs, NEOB-10202, (3150-0104), Officeof
+Management andBudget, Washington, DC 20503. Ifa meansusedtoimpose aninformation
+collection doesnotdisplay a currently valid OMB control number, theNRC maynotconductor
+sponsor,andapersonisnotrequiredtorespondto,theinfbrmatjoncoilectjon.
+1. FACILITYNAME Z DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Sequoyah NuclearPlant Unit 1 05000-327 NUMBER NO.
+2018 -001 -00
+B. Corrective Actions to Prevent Recurrence orto reduce probability of similarevents occurring
+in thefuture:
+The corrective action is to conduct information sharing with each Operations Crewand the
+Work Planners to determine PMT and RTO requirements in accordance with the
+maintenance procedure.
+Additionally, the preventive maintenance instruction associated with the work orderwas
+revised to ensure the requirements ofthe SI are metwhen performing future maintenance.
+VII. Previous Similar Events atthe Same Site:
+A review of SQN LERs identified two previous events associated with human errors.
+LER327/2016-005-00 reports a condition prohibited by TSs associated with the Hydrogen
+MitigationSystem caused most likelyby human error. LER327/2016-006-00 reports a condition
+prohibited byTSs associated with the impropercalibration of reactortrip instrumentation caused
+by Instrumentation &Controls Maintenance Personnel not being trained for operation ofa digital
+multi-meterwhich resulted inan incorrect impedance setting being used during calibration.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments:
+There are no commitments.
+Page 7 of7
+NRCFORM366A(06-2016)

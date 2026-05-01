@@ -1,0 +1,188 @@
+Constellation
+10 CFR 50.73
+LG-22-120
+December 13, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2022-001-00 Unit 1 HPCI Inoperable Due to Inadvertent Isolation Signal
+In accordance with the requirements of 10 CFR 50.73(a)(2)(v)(D), Limerick Generating Station
+hereby submits the enclosed Licensee Event Report.
+There are no commitments contained in this letter.
+If you have any questions, please contact Jordan Rajan at (610) 718-2513.
+Respectfully,
+Michael Gillin
+Vice President - Limerick Generating Station
+Constellation Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l¥\ LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+. . (See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+:., I it
+t-J.'1 "'••·· +0# (Se h e t t N p U :// R w E w G w - . 1 n 0 rc 2 . 2 g , o R v/ . r 3 e a fo d r i n in g s - t r r m uc /d ti o o c n - c a o n l d le c g t u io id n a s n /n c u e r e fo g r s c /s o t m af p f/ l s e r t 1 in 0 g 2 2 th /r is 3 / f ) orm I A n f f f o a c ir o s l , l e ( c 3 t 1 s 5 .R 0 e -0 s 1 o 0 u 4 rc ), e @ At n tn r : c . g D o e v s , k a n a d il: th o e i r O a_ M s B ub r m ev is ie s w io e n r @ a o t: m O b. M eo B p . O go ff v ic . e T o h f e In N fo R rm C a m tio a n y a n n o d t R co e n g d u u la c t t o o ry r
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000 352 1 OF 3
+Limerick Generating Station Unit 1
+4. Title
+Unit 1 HPCI Inoperable Due to Inadvertent Isolation Signal
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+10 14 22 2022 - 001 - 00 12 13 22 Facility Name Docket Number
+05000
+9. Operating Mode I10 . Power Level
+OPCON 1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+• • • •
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+• • • •
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+• • • • •
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+• • • • •
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+•
+20.2203(a)(2)(i) 10 CFR Part 21
+•
+50.73(a)(2)(i)(B)
+•✔
+50.73(a)(2)(v)(D)
+•
+73.77(a)(1)(i)
+• • • • •
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+• • • •
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+• • • •
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+• • • •
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+•
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Jordan Rajan 610-718-2513
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BJ CON I215 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+•✔ No ID Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 14, 2022, during planned testing of the High Pressure Coolant Injection (HPCI) System, a spurious HPCI Division 2
+isolation occurred due to a fault in an electrical connector associated with the HPCI Division 2 isolation reset circuit. The affected
+electrical connector carries signals for the control circuits of the outboard HPCI Turbine Exhaust Line Vacuum Breaker isolation
+valve and HPCI Test Line Flush isolation valve and the HPCI Division 2 isolation reset circuit. Closing the outboard HPCI
+Turbine Exhaust Line Vacuum Breaker isolation valve energized degraded pins within the electrical connector resulting in a fault
+that initiated the HPCI Division 2 isolation signal. The defective electrical connector was removed, and the affected cable spliced
+in accordance with an approved design change. This event is being reported as a condition that, at the time of discovery, could
+have prevented the fulfillment of the safety function of a system needed to mitigate the consequences of an accident. An eight
+(8) hour ENS notification was completed on October 14, 2022, at 18:03 hours.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~¥' LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; i CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+_, ~o' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+•YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Limerick Generating Station Unit 1 352 D
+2022 - I 001 - 00
+I I I I
+I
+NARRATIVE
+Unit Condition
+Prior to the Event Unit 1 was in Operational Condition (OPCON) 1 (Power Operation) at approximately 100% power.
+There were no structures, systems, or components out of service that contributed to this event.
+Description of the Event
+On October 14, 2022, a Unit 1 High Pressure Coolant Injection (HPCI) System [BJ] surveillance test was conducted on the
+HPCI Turbine Exhaust Vacuum Breakers. The purpose of this test is to ensure that the HPCI turbine exhaust line vacuum
+breakers function properly in both the forward and reverse flow directions. The HPCI turbine exhaust line vacuum breaker
+isolation valves, HV-055-1F093 and HV-055-1F095 must be closed to establish the required alignment to test the vacuum
+breaker check valves. The HPCI System is inoperable, but available in this test alignment. At 09:15 the HPCI turbine
+exhaust line vacuum breaker isolation valves were closed to establish the required alignment to perform the surveillance
+test. At 09:23, a Unit 1 Division 2 Safeguard Battery ground alarm was received, and all DC related testing was stopped to
+investigate the alarm. At 10:07, a HPCI Division 2 isolation signal was received accompanied by auto closure of the
+outboard HPCI Steam line isolation valve and the inboard HPCI Pump Suppression Pool suction valve. An eight (8) hour
+ENS notification (56163) was completed on October 14, 2022, at 18:03 hours.
+Troubleshooting and failure analysis of the removed electrical connector concluded that degradation of several of the pin
+connections within the affected electrical connector resulted in a fault that propagated to the HPCI Division 2 isolation
+reset circuit. The fault within the electrical connector was initiated when the degraded pin connections were energized by
+closure of the outboard HPCI turbine exhaust line vacuum breaker isolation valve, HV-055-1F093, for the planned
+surveillance test. The defective electrical connector was removed, and the affected cable spliced in accordance with an
+approved design change. The HPCI system was returned to service on October 17, 2022, at 21:15.
+(cid:3025)
+Analysis of the Event
+The inadvertent HPCI isolation that occurred during a planned surveillance test was attributed to a degraded electrical
+connector that was energized when closing one of the motor operated valves required to establish the alignment for the
+surveillance test.
+Failure analysis of the electrical connector identified that a fault propagated to the HPCI Division 2 isolation reset circuit
+when the outboard HPCI turbine exhaust vacuum breaker isolation valve, HV-055-1F093, was closed to establish the
+required alignment to perform the planned surveillance test. Additionally, due to the degradation on other pin connectors
+of the affected electrical connector, the failure analysis could not conclusively eliminate the possibility of a fault occurring
+through a different mechanism.
+With the unplanned loss of a single train system this condition is being reported per 10 CFR 50.73(a)(2)(v)(D), any
+condition that could have prevented the fulfillment of the safety function of structures or systems required to mitigate the
+consequences of an accident.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~¥' LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; i CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+_, ~o' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+•YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Limerick Generating Station Unit 1 352 D
+2022 - I 001 - 00
+I I I I
+I
+NARRATIVE
+Safety Consequences
+There were no actual safety consequences associated with this event. The potential safety consequences of this event
+were minimal. The HPCI System was removed from service in accordance with Technical Specifications prior to the
+isolation. The Reactor Core Isolation Cooling (RCIC) System, Automatic Depressurization System (ADS), Residual Heat
+Removal (RHR) System, and Core Spray (CS) System remained operable during the period that HPCI was inoperable.
+Corrective Actions Completed
+The degraded electrical connector was removed, and the affected cable spliced in accordance with an approved design
+change.
+Corrective Actions Planned
+Evaluate the need to inspect a representative sample of similar electrical connectors in the Auxiliary Equipment Room
+cabinets.
+Previous Similar Occurrences
+There have been two recent similar events at Limerick involving degraded electrical connectors. Both events involved
+electrical connectors that affected motor operated valve control circuits for RCIC System valves. In January 2016, a Unit 2
+RCIC Pump Minimum Flow Bypass Valve exhibited erratic performance during a RCIC pump surveillance test. The
+affected electrical connector was inspected, and several pins were cleaned to restore proper operation of the circuit. In
+November 2019, when cycling the RCIC Steam Line Warm-up Line isolation valve for in-service testing, a Unit 1 Division 1
+Safeguard Battery Ground alarm was received. Two shorted conductors in the affected electrical connector were spared
+and replaced with two good spare conductors to restore the circuits to the as-designed configuration
+Component Data
+System: BJ High Pressure Coolant Injection
+Component: CON (Connector)
+Manufacturer: I215 (Cannon ITT)
+NRC FORM 366A (08-2020) Page 3 of 3

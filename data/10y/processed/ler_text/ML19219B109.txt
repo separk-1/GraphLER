@@ -1,0 +1,194 @@
+•
+~~Entergy
+Entergy Operations, Inc.
+P. 0. Box756
+Port Gibson, MS 39150
+Eric A. Larson
+Site Vice President
+Grand Gulf Nuclear Station
+Tel. (601) 437-7500
+10CFR50.73
+GNR0-2019/00033
+August 7, 2019
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Supplemental Licensee Event Report 2018-009-01,
+Reactor Manual Shutdown Due to Feedwater Level Control Changes
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Supplemental Licensee Event Report 2018-009-01 Reactor Manual Shutdown Due
+to Feedwater Level Control Changes. This report is being submitted in accordance with
+10 CFR 50. 73(a)(2)(iv)(A) as an event or condition that resulted in an unplanned manual
+actuation of the reactor protection system.
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Jim Shaw at 601-437-2103.
+Sincerely,
+Eric A. Larson
+EAUrtw
+Attachment: Licensee Event Report 2018-009-01
+cc: see next page \
+NRC Region IV- Regional Administrator
+v
+NRC Senior Resident Inspector, Grand Gulf Nuclear Station
+NRR Project Manager
+GNR0-2019/00033
+Attachment
+Supplemental Licensee Event Report 2018-009-01
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~;;; r :;J>' l'le't;qt,' o Reported lessons learned are incorporated into the licensing process and fed back to
+!" ' LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+·~ (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+4~
+"' (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+\ Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+:,',}" (See NUREG-1022, R.3 for instruction and guidance for completing this form
+... ***!( ~{) http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3l) Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRG may not conduct or sponsor, and a
+oerson is not required to respond to the information collection.
+1. Facility Name Q. Docket Number 3.Page
+Grand Gulf Nuclear Station, Unit 1 05000416 1 OF3
+4. Title
+Reactor Manual Shutdown Due to Feedwater Le~el Control Chan2:es .
+5. Event Date 6. LER Number 7. Report .Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year F N a / c A il ity Name Docket Number
+Number No. 05000 N/A
+I
+Facility Name Docket Number
+09 14 2018 2018 009 01 08 07 2019 _,
+N/A 05000 N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O C FR §: {Check all that apply}
+MODE1 D 20.2201 (b) D 20.2203(a}(3)(i) D 50.73{a}{2}{ii)(A) D ·5 0. 73{a)(2)(viii)(A)
+D 20.2201 (d) D 20.2203(a}(3}(ii) D 50.73(a)(2)(ii)(B) D 50. 73(a}{2}{viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50. 73(a}{2}{iii) D 50.73(a)(2}(ix)(A)
+D 20.2203(a}(2}{i) 0 50.36(c)(1 )(i)(A) 181 50. 73(a)(2)(iv)(A) D 50. 73{a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36{c)(1 )(ii)(A) D 50. 73{a)(2)(v)(A) D 73.71 (a)(4) ·
+D 20.2203(a}{2)(iii) D 50.36(c)(2) D 50. 73(a}{2)(v)(B) D 73.71 (a)(5)
+100% D 20.2203(a}{2)(iv) D 50.46{a){3}{ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a}{2}{v) D 50.73(a){2}{i)(A) D 50.73{a)(2)(v)(D) D 73.77{a)(2}(ii)
+D 20.2203{a}{2}{vi) D 50.73{a)(2}{i)(B) D 5.0.73{a)(2)(vii) D 73.77{~)(2)(iii)
+D 50.73{a){2}{i)(C) D Other (Specify in Abstract below or in NR<;; Form 366A ·
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+µim Shaw, Manager, Regulatory Assurance 1(601) 437-2103
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+D N23 1 N23R053 Bailey Yes N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date N/A N/A N/A
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+~bstract (Limit tq 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On September 14, 2018, Grand Gulf Nuclear Station (GGNS) was operating in Mode 1 at 100
+percent power and performing a backfill of a 6A feedwater heater level transmitter. At 16~8 hours
+technicians began backfilling operations of the transmitter. During the activity, GGNS experienced
+the 6A feedwater heater drain valve going full open and subsequent heater drain tank level control
+valve oscillations, which resulted in automatic condensate booster pump and. feedwater pump trips
+on low suction pressure. The feedwater pump trip was followed by a reactor recirculation flow
+control valve. runback. At 1644 hours operators performed a manual reactor protection system shut
+down of the .reactor to place the unit in Mode 3. Upon reactor shutdown all systems performed as
+designed and no subsequent safety system actuations occurred. The root cause of the event was
+that test instructions did not include dynamic tuning of Air Operated Valves. The cause of the
+manual shutdown was operator response in anticipation of reactor water level lowering to the 11.4
+inch automatic scram setpoint. Corrective actions included adjustments to the heater drain tank
+level control circuit. There were no consequences to the general safety of the public, nuclear
+safety, industrial safety or radiological safety for this event.
+NRG FORM 366 {04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported ·
+lessons learned are incorporated into the licensing process and _fed back to industry. Send
+LICENSEE EVENT REPORT (LEA)
+comments regarding burden estimate to the Information Services Branch (T-2 F43}, U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (31~0-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does n9t display a currently valid OMB control number, the
+http://www.rirc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3L) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2018 -009 -01
+NARRATIVE
+A. PLANT CONDITIONS PRIOR TO THE EVENT
+Grand Gulf Nuclear Station (GGNS) Unh 1 was operating at approximately 100 percent
+power in Mode 1. The 6A feedwater heater level dump valve was in manual control. The
+6A feedwater heater drain valve was in automatic control.
+B. DESCRIPTION
+At 1638 hours CDT on September 14, 2018, while the plant was operating at
+approximately 100 percent reactor power, maintenance technicians were performing a
+backfill· of the 6A feedwater [SJ] heater level transmitter 1 N23N059A [JB]. The transmitter
+was taken out of service in the control logic, but it continued to provide backup input to the
+drain valve controller.
+When the backfill procedure was performed, the control system swapped controlling .level
+transmitters from normal to backup. This caused the 6A feedwater heater drain valve to
+open resulting in increased flow to the heater drain tank. This system transient, coupled
+with inadequate tuning of the heater drain tank level controller, resulted in oscillations of
+the heater drain tank level control valves.
+The above condition resulted in increased demand on the condensate system and
+eventually in low suction pressure for the condensate booster and reactor feedwater
+pumps. One condensate booster pump automatically tripped on low suction pressure
+followed by a trip ·of one reactor feedwater pump on low suction pressure.
+The feed pump trip initiated a reactor recirculation [AD] flow control valve runback signal.
+At 1644 hours on September 14, 2018, operators performed a manual reactor protection
+system shutdown of the reactor. Upon reactor shutdown all systems performed as
+designed and no subsequent safety system actuations occurred.
+C. · REPORTABILITY
+This report is made pursuant to 1O CFR50.73(a)(2)(iv)(A) for any event or condition that
+resulted in a manual or automatic actuation of the reactor protection system as li_sted in
+1O CFR50.73(a)(2)(iv)(B).
+This event was reported under 1O CFR50.72(b)(2)(iv)(B) for any event that results in the
+actuation of the reactor protection system while the reactor is critical in ENS notification
+53608.
+NRC FORM 3668 (02-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2018) Estimated burden per response to comply ~ith this mandatory collection ~equest: 80 hours. Reported
+lessons learned are incorporated into the licensing · process and fed back to. industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001; or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503: If a means
+(See NUREG-1022, R.3 for instruction and guidance· for completing this form used to impose an information collection· does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr·1022/r3L) NRG may not conduct or sponsor, and a perso·n is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+I
+----~~~~~~~~~~~~~~~~~~~~~~~~~~~-20_1_s~~---0_0_9~~---0_1
+___
+NARRATIVE
+D. CAUSE
+· The cause of the manual shutdown was operator response in anticipation of reactor
+water level lowering to the reactor vessel water level 11.4 inch scram setpoint, caused by
+a reduction in feedwater system flow to the reactor vessel.
+The root cause of the event was that test instructions· did not include dynamic tuning of
+Air Operated Valves. As a result, the heater drain tank level control system circuits were
+not ~dequately tuned to control level during system perturbations.
+E. CORRECTIVE ACTIONS
+The following corrective actions have been completed:
+• Control circuits for the heater drain tank level control system have been adjusted.
+• The guidance in EN-DC-117, Post Modification Testing and Special Instructions,
+has been revised to direct that tuning is required when modifications impact
+control function such as: air operated valves, positioners, valve actuators, valve
+controllers, and other control loop components.
+F. SAFETY SIGNIFICANCE
+The safety significance of this event is determined to be low. The manual scram was
+performed in accordance with plant procedures. There were no actual nuclear safety
+consequences or radiological consequences during the event.
+G. PREVIOUS SIMILAR EVENTS
+Entergy conducted a three-year review of the relevant licensee .event reports and
+determined that there was one similar known event reported as GGNS Licensee Event
+Report 2018-01-00 Reactor Manual Shutdown due to Turbine Pressure Control Valve
+Position Changes. The failure in that event was an incorrect setting in one element of a
+three element turbine control anti-resonance circuit, which is different from this event
+which was a control circuit tuning issue. Therefore, the corrective actions for the previous
+event would not have prevented this event.
+. NRG FORM 3668 (02-2018) Page 3 of 3

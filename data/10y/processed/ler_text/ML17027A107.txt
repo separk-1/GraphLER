@@ -1,0 +1,189 @@
+Exelon Generation
+10 CFR 50.73
+LG-17-009
+January 27, 2017
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Units 1 and 2
+Renewed Facility Operating License No. NPF-39 and NPF-85
+NRC Docket Nos. 50-352 and 50-353
+Subject: LEA 2017-001-00, Condition Prohibited by TS due to Parts Quality Issue
+This Licensee Event Report (LEA) addresses a condition prohibited by Technical Specifications
+(TS) at Limerick Generating Station (LGS) Units 1 and 2 when the Main Control Room (MCA)
+HVAC system return and supply fans failed to start on multiple occurrences, causing an
+unplanned TS entry and inoperability of the associated Control Room Emergency Fresh Air
+Supply (CREFAS) system. This LEA is being submitted pursuant to the requirements of
+50.73(a)(2}(i)(B) for an Operation or Condition Prohibited by TS.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Respectfully,
+1Z~~ID~ ~.L•
+..
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Units 1 and 2 05000352 & 05000353 1 OF 3
+4. TITLE
+Condition Prohibited by TS due to Parts Quality Issue
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR 05000
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+11 29 16 2017 - 001 - 00 01 27 17 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager – Regulatory Assurance (610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B VI RLY T351 Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+Over a period of approximately one month, the 0B Main Control Room (MCR) Heating, Ventilating and Air Conditioning
+(HVAC) system experienced four failures. Troubleshooting was completed for each of the failures and for three of the
+failures the cause was determined to be an intermittent dropout or chattering of the Loss of Offsite Power (LOOP) start
+relay for two fans (0B-V116 MCR Supply and 0B-V121 MCR Return Fans). The fourth failure was due to a contactor in the
+Motor Control Center (MCC) for the 0B-V116 MCR Supply Fan. On 11/29/16 the second failure occurred on the LOOP
+start relay for the 0B-V116 MCR Supply fan. The investigation identified a manufacturing defect of the Agastat/Tyco ETR
+Relays in the lot of relays used for the recent preventative maintenance (PM) relay replacements. The relays were
+determined to be unreliable since the initial PM replacement on 10/19/16 until 12/5/16, when the quality issue was
+identified and relays from a different lot were installed. The B train of MCR HVAC was determined to be inoperable due to
+the relay issue for a period of 47 days, which is greater than the allowable Limiting Condition for Operation (LCO) action
+window of 7 days (per TS 3.7.2.a.1) for an inoperable Control Room Emergency Fresh Air System (CREFAS) train.
+Therefore, this was a condition prohibited by Technical Specifications (TS).
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Limerick Generating Station, Units 1 and 2 05000352 & 05000353 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Units 1 and 2 were both operating in Operational Condition
+(OPCON) 1 at 100 percent power at the time of the event. There were no other structures,
+systems, or components inoperable at the time of the event that contributed to the event.
+II. Description of the Event
+Over a period of approximately one month, the Main Control Room (MCR) Heating, Ventilating
+and Air Conditioning (HVAC) system experienced four failures. Three of the failures were
+caused by an intermittent dropout, or chattering of the LOOP start relay for two fans (0B-V116
+MCR Supply and 0B-V121 MCR Return Fans). The fourth failure was due to a contactor in the
+MCC for the 0B-V116 MCR Supply Fan. Each of these events caused an unplanned Limiting
+Condition for Operation (LCO) entry and inoperability of the Control Room Emergency Fresh Air
+Supply (CREFAS) system. A timeline of events is as follows:
+10/19/16 - KS-078-326B and KS-078-359B relays replaced for Preventative Maintenance (PM).
+Post Maintenance Testing (PMT) was performed by running the 0B MCR HVAC train.
+11/13/2016 - To support chiller swaps the 0A MCR HVAC train was secured and Operations
+attempted to start the 0B train. This was the first start attempt since the PMT performance on
+10/19/16. When the supply fan handswitch was placed in RUN, the fan did not start. Relay
+replacements were performed for KS-078-026B, which was found failed, and KS-078-326B,
+which was found chattering. Following replacements, the supply fan was started successfully.
+When Operations attempted to start the 0B return fan by placing the handswitch in RUN, it did
+not start. The KS-078-359B relay was found chattering, thereby preventing the return fan from
+starting.
+11/20/16 - After running the 0B train of MCR HVAC for a period of one week, the supply fan
+tripped. The contactor was observed to be chattering. Breaker maintenance was performed and
+the contactors were replaced. Additionally, new wiring was installed internal to the breaker
+cubicle. During troubleshooting, the KS-078-326B and KS-078-026B relays were removed from
+the field and bench tested satisfactorily.
+11/29/16 - To support a MCR chiller swap, the 0A MCR fans were secured and Operations
+attempted to start the 0B train. When the supply fan handswitch was placed in RUN, the fan did
+not start. The cause was determined to be a failed KS-078-326B relay.
+12/5/16 - The 'B' MCR Return fan tripped and the 'A' MCR return fan auto-started.
+Troubleshooting efforts identified a chattering KS-078-359B relay in the field.
+On 11/29/16, the site believed that the relay failure was not an infantile failure and that there
+may be a common condition that was causing these failures. The relay was sent for testing and
+evaluation, and on 12/15/16, the station received the analysis which identified a manufacturing
+issue had caused the relay failures.
+NRC FORM 366A (06-2016) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Limerick Generating Station, Units 1 and 2 05000352 & 05000353 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+III. Analysis of the Event
+The identified relay failures were all determined to be attributed to intermittent drop out, or
+chattering of the installed Agastat/Tyco model ETR14I3D004 (ETR TDPU series) relay coil.
+These relays were all installed as normally energized, power monitoring/ Loss of Offsite Power
+(LOOP) start relays. They are installed to allow a 35-second time delay before the fan restarts
+on re-energization of the associated load center during a LOOP.
+The testing determined that the relays were not reliable and failure of the relays could not be
+predicted. The 0B MCR HVAC train was determined to be unreliable since the initial relay
+replacement on 10/19/16 until when the relays were replaced with relays from a different lot on
+12/05/16. The B train of MCR HVAC was conservatively determined to be inoperable for a
+period of 47 days, which is greater than the allowable LCO action window of 7 days (per TS
+3.7.2.a.1) for an inoperable CREFAS train, and therefore was deemed to be a condition
+prohibited by TS.
+IV. Cause of the Event
+Bench tests were performed on-site on the removed relays in addition to failure analysis by an
+offsite testing facility. This testing determined the cause of the relay chattering to be an
+incorrectly installed capacitor on the internal timing circuit board.
+V. Corrective Actions Completed/Planned
+Extent of condition actions were taken to replace all of the Agastat 2016 ETR relays installed at
+Limerick. A total of two additional relays, from the same lot, were identified to be installed in the
+plant and both these relays were proactively replaced.
+A Part 21 was generated by TE Connectivity for the manufacturing issue. (ML17006A011)
+VI. Previous Similar Occurrences
+There were no previous similar occurrences in the last five years of MCR Supply fan and Return
+fan trips due to defective relays.
+VII. Component data:
+System: V Central Control Complex Env. Ctrl. Sys.
+Component: RLY Relay, Time- Delay Starting or Closing
+Component number: KS-078-326B & KS-078-359B
+Manufacturer: T351 Tyco Instrument DIV
+Model number: ETR14I3D004
+NRC FORM 366A (06-2016) Page 3 of 3

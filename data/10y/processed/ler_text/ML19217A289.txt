@@ -1,0 +1,181 @@
+Exelon Generation
+10 CFR 50.73
+LG-19-086
+August 5, 2019
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 2
+Renewed Facility Operating License No. NPF-85
+NRC Docket No. 50-353
+Subject: LEA 2019-001-00, Valid Actuation of the Reactor Protection System due to a Trip of
+D214-24Load Center
+Enclosed is a Licensee Event Report (LEA) addresses a valid actuation of the reactor protection
+system (RPS) due to a trip of the D214-24 Load Center at Limerick Generating Station, Unit 2.
+The manual scram was due to lower condenser vacuum following a loss of power to the Otfgas
+System.
+This LEA is being submitted pursuant to the requirements of 10 CFR 50.73(a)(2)(iv)(A).
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Re~lly,
+F:bum:?°
+Acting Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018) Es".mlll:d bun!en Plf 1tsponse 1o comply yd<j\ lllis millld•lcry colodicn roqutot IO hcur1
+Reportad lossons IUMd mo lncorpata!od lnll> flo lcensng proc:au lllld ltd bad lo
+LICENSEE EVENT REPORT (LER) ~Uy Send commenll •"?ding bun!on ·~ 1o llMo lnlonn•tion s.Ma1 Bronch
+(f.2 F4l). US Nudo;w Re;ul<lory Comnnslcn Wull!ng:crl DC 20555-0001 er~ 1.fNil
+(See Page 2 for required number of digits/characters for each block) to ln1occleds RUClltl@m: p , Ind 10 1\1 De~ Oilar OCficl cl lnknnaloo ll1lf
+(See NUREG-1022, R 3 for Instruction and guidance for completing this form RagWUy Afla\'1, NEQB.102D2, (3150--011M~ 011'.c:• er Mon;gement and lludgt~
+Washinglor\ OC 20503 U 1 muns usad IO imJ>oso an ilfcrma~n ccledicn don nal
+http f/\Wtw nrc gov/reading-rm/doc col!ections/nuregs/staff/$r1022/r3/) d'*sf">l'a"y '•' aurtrlt'y void Ol.ll a>nl'cl llmlbtr, lh• NRC may ncl conduct .. llpCllSIW llld.
+nal raqui'lld ID nupand le, 1'11 lnltnnaticn c:cllt<1icn
+1. Facility Name 2. Docket Number 3.Page
+Limerick Generating Station, Unit 2 05000 353 1 OF 3
+4. Title
+Valid Actuation of the Reactor Protection System due to a Trip of 0214-24 Load Center
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Scquenlfal I Rev Flclflty Name Docket Number
+Month Day Year Year Number No. Month Day Year 05000
+. .
+Faclllty Name Docket Num!ler
+06 04 19 2019 001 00 08 05 19
+05000
+9. Operating Mode 11. This Report Is Submitted Pursuant to the Requirements of 1O C FR §: (Check all that apply)
+o
+D D D
+20.2201(b) 20 2203(a)(3)(i) 50 73(a)(2)01)(A) 50. 73(a)(2)(vlil)(A)
+D D D D
+20 2201(d) 20.2203(e)(3)(11) 50.73(e)(2){ii)(B) 50.73(a)(2)(viii)(B)
+1
+0
+D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(lil) 50.73(a)(2)(1x)(A)
+D D 0 0
+20.2203(a)(2)(i) 50 36(c)(1)(i)(A) 50,73(a)(2)(iv)(A) 50.73(a)(2)(x)
+o
+1 O. Power Level 0 20.2203(a)(2)(1i) 0 50 36(c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) n.11<a1<">
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 1J.11<a1<s1
+o
+D D D
+20.2203(a)(2)(1Y) 50 46(a)(3)(ii) 50.73(a)(2)(v)(C) 1J.11cax11
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(iJ(Al D 50. 73(a)(2)(v)(C) D 1J.11cax21(11i
+o
+D D 0
+20.220J<a112i<v11 50.73(a)(2)(1)[B) 50.73(a)(2){vli) 73.77(a)(2){111)
+- io
+-
+50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+L- -
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Robert 8. Dickinson 610-718-3400
+13. Complete One Line for each Component Failure Described In thisI R eport I
+C1usa Reportable to ICES ··1 Cause I s~t•m Component Manufacturer Roport•bte to ICES
+0 Yes
+14. Supplemental Report Expected Month Day Year
+0 IZJ 15. Expected Submission Date
+Yes (II yes, complele 15. Expected Submission Dale) No
+Abstract (Limit lo 1400 spaces, I.e., approximately 14 single-spaced typewritten lines)
+On June 3, 2019, with Limerick Unit 2 at approximately 100% power, the 0214-24 Load Center tripped due to an invalid
+undervoltage signal; resulting in de-energization of a 480 VAC Divisional Motor Control Center (MCC) 0214-G-O. The power
+failure impacted several components in the Offgas System resulting in water building up in the system and causing stalling of the
+Steam Jet Air Ejectors and a resultant degradation of Main Condenser vacuum. At 01 :45 June 4, Operators inserted a manual
+SCRAM due to Main Condenser vacuum approaching the Main Turbine trip setpoint. The cause of the event is the procedure
+used to stabilize the plant did not fully address the loss of power to the Offgas System. The corrective action is to revise the
+procedures used to stabilize the plant to address the loss of power to the Offgas System.
+NRC FORM 366 (02·2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response lo comply wilh !his mandatory collection request 80 hours Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated Into the licenslng process and fed back to industry. Send comments
+regarding burden estimate lo lhc Information Services Branch (T-2 F43), U S Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, ot by e·mail lo lnfocollecls Resourte@nn: gov, and to
+the Desk Officer, OfflC8 ol lnlotmation and Regulatory Atta.is, NEOB-10202, (3150-0104) Office of
+Management and Budget, Washington, DC 20503. H e means used to Impose an inlormation
+(See NUREG-1022, R 3 for Instruction and guidance for completing this form
+colleclion does nol display a currently valid OMS control number, Ille NRC may not conduct or
+hUp //\V\WI nrc gov/reading-rm/doc collect1ons/n!,Jregslslaff/sr1022/r3') sponsor, and a person is not required to respond to, the lnlormallOn colection
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+0YE AR SEQUENTIAL REV
+Limerick Generation Station, Unit 2 05000-1 353 Iu -1 NU ° MBER 1- NO 0 .
+01
+NARRATIVE
+Unit Condition Prior to the Event
+Unit 2 was in Operational Condition (OPCON) 1 (Run) at approximately 100 percent power. There were no structures,
+systems or components out of service that contributed to this event.
+Description of the Event
+On June 3, 2019, with Limerick Unit 2 at approximately 100% power, the 0214-24 Load Center tripped due to an invalid
+undervoltage signal; resulting in de-energization of a 480 VAC Divisional Motor Control Center (MCC) 0214-G-D [EC] .
+Operators took immediate actions to stabilize the plant in accordance with procedure E-0214-G-D for loss of the MCC.
+With the loss of control power, the 'A' After-Condenser Drain Valve failed closed. This prevented the automatic draining of
+the Unit 2 Offgas [WF] Recombiner After-Condenser. As a result, the After-Condenser and downstream piping slowly filled
+with water. At 22:36 water was entering the Offgas System pipes as indicated by After-Condenser outlet temperatures
+decreasing, and holdup pipe outlet temperature rising.
+The Unit 2 'B' After-Condenser Drain Valve Level Controller was placed in Auto which began draining the Offgas System
+of water. However, water already in the Offgas System blocked flow through the Offgas System, increasing backpressure
+at the second stage stream jet air ejectors. This backpressure stalled the stream jet air ejectors. At approximately 01 :22,
+Unit 2 began to lose Main Condenser vacuum. As Main Condenser vacuum was lost, Operations lowered reactor power.
+At 01 :45, Operations initiated a manual scram due to degrading condenser vacuum.
+Analysis of the Event
+Following the scram, troubleshooting was performed to identify the cause of the fuse failure. The troubleshooting
+identified that the upper lead on the undervoltage relay had degradation of the insulation and exposed the conductor. This
+resulted in a short of the 'A' phase to ground, causing the 'A' phase fuse to fail, which de-energized the MCC.
+The Offgas Recombiner After-Condenser system is designed with a redundant drain cooler drain valve to maintain level in
+the After-Condenser. The in service After-Condenser drain cooler valve was operating in the automatic mode and the
+redundant drain cooler valve was in the manual mode and closed, by design. With the loss of power to the in service
+After-Condenser drain cooler valve, the in-service valve closed. The controller for the in service After-Condenser drain
+cooler controller failed in the AS IS position.
+The procedure used to stabilize the plant contained immediate actions but did not fully address the Offgas System. With
+the redundant After-Condenser drain cooler valve controller in the manual mode the system required Operator action to
+return the system to service. The immediate actions in procedure E-D214-G-D did not instruct the Operator to place the
+redundant offgas controller train into service.
+Safety Consequences
+There was no actual safety consequence associated with this event. The potential safety consequences of this event were
+minimal. All control rods were verified to be fully inserted following the manual RPS actuation. Operators performed
+required safety actions in accordance with procedures and training. The trip was not complex with all systems responding
+normally.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC F,O.R M 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3160-0104 EXPIRES: 03/31/2020
+(04·2018)
+......
+, Estimated burden per response lo comply wilh !his mandatory collection requesl 80 hours Reported
+J '.:i.. LICENSEE EVENT REPORT (LER) lessons learned are incorporated ink! Ille IK:enslng process and led back 10 lnduslly Send commenls
+:. ~..::.. ~ regarting burden esUmale lo tile Information Seivices Branch (T-2 F43J, U S lludear Regulalary
+'; . . . .. .....'~4 I';: CONTINUATION SHEET Com1111SS10n, Washlng!Dn. DC 20555-0001, or by e-maU lo lnlcx:ollects Resource@nn: gov, and ID
+lhe Desk Officer, Olfa or Information and Regulatory Alla!rs, NEOB-10202. (315G-0104J. Office of
+Management and Budge~ WashinglOn, DC 20503. ti a means used ID Impose an infonnabon
+(See NUREG-1022. R.3 for Instruction and guidance for completing this form
+collection does not display a turrenUy valid OMS coolrot number. lhe NRC may not conduct or
+h.llP.;fl www J1[k,gQYlre~d ing-rm/doc-collections/nuregs/s ta ff /sr 10 22/r3/) sponsor alll a person is not require<! ID respond lo, lhe Information colletOOn
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+0YE AR SEQUENTIAL REV
+Limerick Generation Station, Unit 2 05000-1 353 L:J -I NUMBER I - 0N O.
+I
+001
+NARRATIVE
+Cause of the Event
+The root cause of the event is a lack of technical rigor in the development and subsequent revisions of E-D214-G-D which
+resulted in inadequate procedural direction for operators to stabilize the plant. The procedure was revised due to a similar
+event in 2009; however, the revision was overly reliant on the simulator response to the condition and did not use the
+electrical prints to verify the plant response.
+Corrective Actions
+The corrective action is to conduct a review of plant procedures for response to unexpected loss of electrical busses to
+ensure proper procedural guidance is contained in the procedure based on a review of the electrical prints.
+Previous Similar Occurrences
+On January 31, 2009, during performance of a drywell unit cooler surveillance test, an electrical fault occurred on the line
+side of a 480 VAC MCC feeder breaker which resulted in the de-energization of the entire MCC. This issue caused a loss
+of chilled water to the drywell chillers resulting in a power reduction to 70 percent power. This event identified inadequate
+procedural direction for operators to stabilize the plant. The procedures that address the loss of various MCCs were
+revised to improve the procedural direction.
+System: Offgas
+Component: Level Controller
+Component Number: LIC-069-235A
+Component Name: AFTCOND. DRAIN COOLER DRAIN VLV. 'A' CONTROL STATION (LV)
+Manufacturer: Bailey Controls
+Mode Number: 7040
+NRC FORM 365A (04·201 B) Page 3 of 3

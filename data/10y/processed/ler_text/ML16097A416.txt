@@ -1,0 +1,192 @@
+•
+Entergy Operations, Inc.
+~Entergy
+River Bend Station
+5485 U.S. Highway 61 N
+St. Francisville, LA 70775
+RBG-47669
+March 29, 2016
+U. S. Nuclear Regulatory Commission
+A TIN: Document Control Desk
+Washington, DC 20555
+Subject: Licensee Event Report 50-458 I 2016-004-00
+River Bend Station - Unit 1
+Docket No. 50-458
+License No. NPF-47
+RBF1-16-0037
+Dear Sir or Madam:
+In accordance with 10 CFR 50. 73, enclosed is the subject Licensee Event Report.
+This document contains no commitments. If you have any questions, please contact
+Mr. JosephClarkat 225-381-4177.
+Sincerely,
+~-~9~~
+Site Vice President
+Enclosure
+cc: U.S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Blvd.
+Arlington, TX 76011-4511
+Licensee Event Report 50-458 I 2016-004-00
+March 29, 2016
+RBG-47669
+Page 2 of 2
+NRC Sr. Resident Inspector
+P. 0. Box 1050
+St. Francisville, LA 70775
+INPO
+(via ICES reporting)
+Central Records Clerk
+Public Utility Commission of Texas
+1701 N. Congress Ave.
+Austin, TX 78711-3326
+Department of Environmental Quality
+Office of Environmental Compliance
+Radiological Emergency Planning and Response Section
+Ji Young Wiley
+P .0. Box 4312
+Baton Rouge, LA 70821-4312
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3160-0104 EXPIRES: 01/31/2017
+(02-2014) Estimated burden per response to comply with this mandatory collection request: 80 hours.
++i/l.c,"~f.RR'O(I<.,~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+;
+: Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+-; s Branch [T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+~+.., .......... -t-<t~ LICENSEE EVENT REPORT (LER)
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+20503. If a means used to impose an information collection does not display a currently valid OMB
+digits/characters for each block)
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+River Bend Station -Unit 1 05000 458 1 OF 3
+4. TITLE
+Actuation of the Division 1 Emergency Diesel Generator and Primary Containment Isolation Logic Due to Partial Loss of Offsite
+Power
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+- - FACILITY NAME DOCKET NUMBER
+01 29 2016 2016 004 00 03 29 2016
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 <b> 20.2203<a><3><i> 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+D D D D
+20.2201cd> 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+4
+D D D D
+20.2203<a><1> 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) so.13ca><2><m> 50.73(a)(2)(ix)(A)
+D D. D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) [{] 50. 73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+20.2203<a><2><m> so.36(c><2> 50.73(a)(2)(v)(A) 13.11ca><4>
+D D D D
+20.2203(a)(2}(iv) so.46(a)(3)(ii> 50.73(a)(2)(v)(B) 13.11<a><s>
+0
+D D D D
+20.2203(a)(2){v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+D D D Specify in Abstract below or in
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D)
+NRC Fann 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Joseph A. Clark, Manager -Regulatory Assurance (225) 381-4177
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE ,'• MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER . TOEPIX •; CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+;,,
+na cj
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [{] NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 29, 2016, at 1518 CST, with the plant in cold shutdown, power was lost on reserve station service (RSS) line no. I. This is
+one of two sources of offsite power required by Technical Specifications. The power loss de-energized the Division 1 onsite AC safety·-
+related switchgear, causing an automatic start of the Division 1 emergency diesel generator (EDG). The Division 1 reactor protection
+system (RPS) bus was also de-energized, causing a half-scram signal. Approximately 8 minutes later, a full actuation of the RPS
+occurred due to high water level in the control rod drive hydraulic system scram discharge volume header. All reactor control rods were
+already fully inserted. The loss of Division 1 RPS also caused the actuation of the Division 1 primary containment isolation logic. The
+Division 1 isolation valves in the balance-of-plant systems closed as designed. Both trains of the standby gas treatment system actuated.
+The loss ofRSS No. 1 was caused when company transmission department personnel working in the local 230kV switchyard executed a
+deficient work instruction while modifying relay settings. This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as
+the automatic actuation of the Division 1 EDG, the Division 1 primary containment logic, and the reactor protection system (while
+subcritical). At the time of the event, the shutdown cooling system was operating on the Division 2 subloop, which was unaffected.
+'fhe Division 1 EDG performed as designed. This event was, thus, of minimal significance to the health and safety of the public.
+NRG FORM 366. (02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+CONTINUATION SHEET and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER I 3. PAGE
+I
+SEQUENTIAL REV
+YEAR
+River Bend Station -Unit 1 NUMBER NO.
+05000 458 2 OF 3
+2016 - 004 00
+NARRATIVE
+REPORTED CONDITION
+On January 29, 2016, at 1518 CST, with the plant in cold shutdown, power was lost on reserve station service (RSS) line no. 1. This is
+one of two sources of offsite power required by Technical Specifications. The power loss de-energized the Division 1 onsite AC
+safety-related switchgear [EB], causing an automatic start of the Division 1 emergency diesel generator (EDG)(**DG**). The
+Division 1 reactor protection system (RPS)[JC] bus was also de-energized, causing a half-scram signal. Approximately 8 minutes
+later, a full actuation of the RPS occurred due to high water level in the control rod drive hydraulic system scram discharge volume
+header. All reactor control rods were already fully inserted. The loss of Division 1 RPS also caused the actuation of the Division 1
+primary containment isolation logic. The Division 1 isolation valves in the balance-of-plant systems closed as designed. Both trains of
+the standby gas treatment system actuated. This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A)° as the
+automatic actuation of the Division 1 EDG, the Division 1 primary containment logic, and the reactor protection system (while
+subcritical).
+INVESTIGATION AND IMMEDIATE CORRECTIVE ACTIONS
+At the time of the event, technicians from the company's transmission department were working in the local 230kV switchyard. A
+modification was being performed on relay setpoints to implement corrective actions stemming from a reactor scram that occurred on
+November 27, 2015, caused by a transient on a nearby 230kV transmission line. The investigation of that scram determined that one
+of two circuit breakers supplying RSS No. 1 tripped too soon during the transient. In developing the final corrective action, a change
+was made to the work package on the previous day regarding a specific relay setpoint. During the post-modification testing, a current
+signal was applied to the affected circuits without taking the necessary precautions to prevent an actuation of the protection logic,
+resulting in the unanticipated trip of the circuit breaker. This caused the loss of power to RSS No. 1.
+This investigation determined that the late change in the as-left relay setpoint caused the work to proceed without the development of
+step-by-step instructions that conformed to nuclear industry standards for such documents.
+As an interim measure, all work at the 230kV switchyard must be approved by the plant manager.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The following actions are planned in response to this event.
+1. Revise the operating agreement between the station and the transmission department to identify and communicate respective
+responsibilities with regard to all switchyard work and work package detail during outage and online activities.
+2. Based on the specific revisions to the nuclear operating agreement, revise transmission department procedure(s) to provide detailed
+step by step work instructions, evaluation ofrisk, and clarification ofownership.
+NRC FORM 366A (02-2014)
+NRC FORM 366A LICENSEE EVENT REPORT (LER) U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6I. L ER NUMBER I 3. PAGE
+YEAR SEQUENTIAL REV
+River Bend Station -Unit 1 NUMBER NO.
+05000 458 3 OF 3
+2016 - 004 - 00
+NARRATIVE
+PREVIOUS OCCURRENCE EVALUATION
+A similar event occurred at River Bend Station on March 7, 2015, when site electricians were working in the 230kV switchyard. The
+electricians were conducting post-modification testing inside a termination cabinet, when the RSS No. 2 was unexpectedly de
+energized. The investigation determined that the likely cause of that event was the inadvertent contact with an adjacent terminal with
+ineter probes, which initiated a trip of the circuit breakers supplying RSS No. 2. Contributing factors were a cramped work
+environment and poor lighting.
+That prior event, however, did not involve transmission department technicians implementing deficient work instructions. These
+factors differentiate the two events, such that the latter was not the result of inadequate corrective actions from the prior event.
+SAFETY SIGNIFICANCE
+Prior to the start of the work, the residual heat removal system had been aligned such that the operating shutdown cooling loop was in
+the division unaffected by the switchy ard work. The Division 1 EDG responded as designed to the loss of power on its switchgear.
+The reactor was already in cold shutdown, so the RPS safety function was already met. This event was, thus, of minimal significance
+to the health and safety of the public.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or system referred
+to in the LER are annotated as (**XX**) and [XX], respectively.)
+NRG FORM 366A (02-2014)

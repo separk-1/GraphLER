@@ -1,0 +1,315 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+January 29, 2026
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2025-001-01
+Reference: Letter from TVA to NRC, “Licensee Event Report 50-259/2025-001-00,”
+dated September 30, 2025 (ML25273A039)
+The enclosed Licensee Event Report provides details of a SCRAM due to low reactor
+water level on Browns Ferry Nuclear Plant, Unit 1. The Tennessee Valley Authority is
+submitting this report in accordance with Title 10 of the Code of Federal Regulations
+(10 CFR) 50.73(a)(2)(iv)(A), as any event or condition that resulted in a manual or
+automatic actuation of the Reactor Protection System and Primary Containment Isolation
+System. Revision 1 to this report includes information from the cause evaluation that was
+not previously reported.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David J. Renn, Site Regulatory
+Compliance Manager, at (256) 729-2636.
+Respectfully,
+Daniel A. Komm
+Site Vice President
+Enclosure: Licensee Event Report 50-259/2025-001-01 – Reactor SCRAM due to Low
+Reactor Water Level
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 1
+Licensee Event Report 50-259/2025-001-01
+Reactor SCRAM due to Low Reactor Water Level
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+(See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 52. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 1
+052
+00259 1 OF 6
+4. Title
+Reactor SCRAM due to Low Reactor Water Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000XXX
+08 01 2025 2025 - 001 - 01 01 29 2026 Facility Name Docket Number
+N/A 05000XXX
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Justin Garner, Site Compliance Engineer 256-729-7955
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+4. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On August 1, 2025, at 2350 Central Daylight Time, Browns Ferry Unit 1 experienced an automatic scram
+due to low reactor water level. A low reactor water level of +2 inches resulted in a valid actuation of the
+Reactor Protection System which caused all of the rods to insert. During the scram response, there was
+a valid actuation of the Primary Containment Isolation System groups 2, 3, 6, & 8. Upon receipt of these
+signals, all components actuated as required. Following the scram, reactor water level lowered below the
+-45 inch setpoint, actuating High Pressure Coolant Injection and Reactor Core Isolation Coolant and
+tripped both Reactor Recirculation pumps as required. Operations responded and stabilized the plant.
+The root cause was determined to be the installed Foxboro Feedwater Level Control system design and
+subsequent reviews failed to identify the single point vulnerability and inherit potential failure modes for
+the Foxboro System. The root cause will be addressed through elimination of the single point
+vulnerability in the Reactor Feed Pump speed control system.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations 50.73(a)(2)(iv)(A), as any event or condition that resulted in manual or automatic actuation of the
+Reactor Protection System and the Primary Containment Isolation System.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐
+052
+2025 - 001 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was in Mode 1 at 100 percent
+power. There were no impacts on Units 2 and 3.
+II. Description of Event
+A. Event Summary
+On August 1, 2025, at 2350 Central Daylight Time (CDT), Browns Ferry Unit 1 experienced an
+automatic scram due to low reactor water level. A low reactor water level of +2 inches resulted in
+a valid actuation of the Reactor Protection System (RPS)[JC] which caused all of the rods to
+insert. During the scram response, there was a valid actuation of the Primary Containment
+Isolation System (PCIS)[JM] groups 2, 3, 6, & 8. Upon receipt of these signals, all components
+actuated as required. Following the scram, reactor water level lowered below the -45 inch
+setpoint, actuating High Pressure Coolant Injection (HPCI)[BJ] and Reactor Core Isolation
+Coolant (RCIC)[BN] and tripped both Reactor Recirculation pumps as required. Operations
+responded and stabilized the plant. Event Notification 57847 was made to the NRC Operations
+Center on August 2, 2025, at 0429 EDT.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of the
+Code of Federal Regulations (10 CFR) 50.73(a)(2)(iv)(A), as any event or condition that resulted
+in manual or automatic actuation of the RPS and the PCIS.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+NRC FORM 366A (10-01-2023) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐
+052
+2025 - 001 - 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+DATE AND
+APPROXIMATE
+OCCURRENCE
+TIMES
+Foxboro Field Bus Module (FBM) BFN-1-XM-046-0097/52, Reactor
+August 1, 2025, at
+Feedwater Level Control System Reactor Feed Pump speed
+23:48:48.020
+demand, failed
+August 1, 2025, at
+BFN-1-XM-046-0097/52 Reinitialized
+23:50:13.030
+August 1, 2025, at
+RFWLCS PID output to Woodward Governor to 0 (zero)
+23:50:14.920
+August 1, 2025, at Unit 1 SCRAM (Event Notification report 57847 was reported
+23:50:24.450 to the NRC for this event.)
+D. Manufacturer and model number of each component that failed during the event
+The manufacturer and model number the component that failed was the Foxboro FBM204,
+Reactor Feedwater Level Control System (RFWLCS) Reactor Feed Pump speed demand,
+Part number P0914SY 0H (BFN-1-XM-046-0097/52).
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+The momentary reset of the Reactor Feedwater Pump speed demand to minimum speed resulted
+in an automatic Unit 1 SCRAM on low reactor water level.
+G. The failure mode, mechanism, and effect of each failed component
+The Unit 1 RFWLCS speed demand for all three Reactor Feed Pumps failed momentarily,
+resulting in an automatic Reactor SCRAM on low reactor water level. The analog output Fieldbus
+module launched a re-initialization process during normal plant operation and in accordance with
+the system programming lowered the RFP speed demand to 600 RPM.
+NRC FORM 366A (10-01-2023) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐
+052
+2025 - 001 - 01
+NARRATIVE
+H. Operator actions
+Operations responded and stabilized the plant following the reactor scram. Reactor water
+level was maintained via the condensate system. Decay heat was removed by bypass valves
+to the main condenser.
+I. Automatically and manually initiated safety system responses
+HPCI and RCIC automatically initiated at -45” reactor water level, as designed.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The root cause was determined to be the installed FWLCS design and subsequent reviews
+failed to identify the single point vulnerability and inherit potential failure modes for the
+Foxboro system.
+B. Cause(s) and circumstances for each human performance related root cause
+None. Analysis determined that there was no active error and that any potential human
+performance issues occurred more than twenty years prior.
+IV. Analysis of the event
+Review of Plant Engineering Data Satellite System showed that Reactor Feed Pump Turbine
+(RFPT) A speed (DFW061), RFPT C speed (DFW063), and LCV-3-53 B signal (DFW065) failed
+all on the same FBM (1FL502) at 23:48:48.020 (immediately prior to the event) and recovered at
+23:50:13.030. The scenario was reproduced on the FWLCS test bed and supports the cause
+determination.
+NRC FORM 366A (10-01-2023) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐
+052
+2025 - 001 - 01
+NARRATIVE
+V. Assessment of Safety Consequences
+The plant responded as designed, while maintaining defense-in-depth for nuclear safety. All
+nuclear safety systems functioned as designed. At no time was the health and safety of the
+public at risk.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+No other systems or components could have performed the same function, and the failure
+was determined to be an SPV. Following a reboot, the FWLCS reset and functioned as
+designed.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+This event did not render a train of a safety system inoperable.
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA’s Corrective Action Program under Condition
+Report (CR) 2029788.
+A. Immediate Corrective Actions
+The scenario was reproduced on the FWLCS test bed confirming the cause. The failed
+component was replaced.
+NRC FORM 366A (10-01-2023) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐
+052
+2025 - 001 - 01
+NARRATIVE
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The Root Cause will be addressed through Corrective Action to Prevent Recurrence Action
+2029788-002, which will eliminate the SPV in the Unit 1 Foxboro FWLCS. Additionally,
+Corrective Action 2029788-003 will update the Equipment Reliability classification for
+component BFN-1-XM-046-0097/52 based on the discovery of the SPV. Corrective Action
+2029788-004 will verify that Foxboro system vulnerabilities are included in the distributed
+control system hazard review per CR 2029991.
+VII. Previous Similar Events at the Same Site
+There were no previous similar events at BFN within the last 5 years.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+NRC FORM 366A (10-01-2023) Page 6 of 6

@@ -1,0 +1,351 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+October 28, 2024
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1, 2, and 3
+Renewed Facility Operating License Nos. DPR-33, -52, and -68
+NRC Docket Nos. 50-259, -260, and -296
+Subject: Licensee Event Report 50-260/2024-001-02
+References: 1. Letter from TVA to NRC, “Licensee Event Report 50-260/2024-001-00,”
+dated February 16, 2024 (ML24047A222)
+2. Letter from TVA to NRC, “Licensee Event Report 50-260/2024-001-01,”
+dated April 17, 2024 (ML24108A183)
+The enclosed Licensee Event Report provides details of a failed Secondary Containment
+Isolation Valve on Browns Ferry Nuclear Plant, Units 1, 2, and 3. The Tennessee Valley
+Authority is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was prohibited
+by the plant’s Technical Specifications. Revision 2 to this report includes applicability to
+BFN Units 1 and 3 which was not previously reported.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David J. Renn, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Respectfully,
+Daniel A. Komm
+Site Vice President
+Enclosure: Licensee Event Report 50-260/2024-001-02 – Secondary Containment
+Isolation Valve Inoperable due to Mechanical Failure
+U.S. Nuclear Regulatory Commission
+Page 2
+October 28, 2024
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Units 1, 2, and 3
+Licensee Event Report 50-260/2024-001-02
+Secondary Containment Isolation Valve Inoperable due to Mechanical Failure
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+(See Page 2 for required number of digits/characters for each block)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 52. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 2
+052
+00260 1 OF 7
+4. Title
+Secondary Containment Isolation Valve Inoperable due to Mechanical Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+Browns Ferry Nuclear Plant, Unit 1 05000259
+12 18 2023 2024 - 001 - 02 10 28 2024 Facility Name Docket Number
+Browns Ferry Nuclear Plant, Unit 3 05000296
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Baruch Calkin, Licensing Engineer 256-278-1031
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D 064 DMP A613 No N/A N/A N/A N/A N/A
+4. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On November 18, 2023, at approximately 2038 Central Standard Time, during performance of Surveillance
+Requirement 3.6.4.2.1, Secondary Containment Isolation Valve (SCIV) Stroke Timing, Reactor Zone Outboard
+Supply Damper 2-DMP-0064-0013 failed to close upon securing Reactor Zone Supply Fans. Operations personnel
+declared 2-DMP-064-0013 inoperable for SCIV function and entered Technical Specification Limiting Condition for
+Operation 3.6.4.2 Condition A. On November 22, 2023, 1515 CST, following corrective maintenance on the
+damper, Operations personnel declared damper 2-DMP-064-0013 operable for SCIV function and exited TS LCO
+3.6.4.2 Condition A. On December 18, 2023, a Past Operability Evaluation determined that the damper had been
+inoperable for longer than allowed by TS. This condition did not result in any loss of safety function.
+The apparent cause of this event was a lack of proper guidance in damper maintenance instructions. The
+corrective actions to reduce the possibility of recurrence for this condition are to replace broken and/or
+degraded components on the affected valve, and to revise maintenance procedures for the dampers to include
+an updated Preventative Maintenance plan with Electric Power Research Institute maintenance guidance.
+Revision 2 to this report includes applicability to BFN Units 1 and 3 which was not previously reported.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+(cid:1407) 052
+2024 - 001 - 02
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Units 1, 2, and 3 were each in Mode 1
+at approximately 100 percent power.
+II. Description of Event
+A. Event Summary
+On November 18, 2023, at approximately 2038 Central Standard Time (CST), during performance
+of Surveillance Requirement (SR) 3.6.4.2.1, Secondary Containment [JM] Isolation Valve (SCIV)
+[ISV] Stroke Timing, Reactor Zone Outboard Supply Damper [DMP] 2-DMP-064-0013 failed to
+close upon securing Reactor Zone Supply Fans [FAN]. Operations personnel declared 2-DMP-
+064-0013 inoperable for SCIV function and entered Technical Specification (TS) Limiting
+Condition for Operation (LCO) 3.6.4.2 Condition A. On November 22, 2023, 1515 CST, following
+implementation of a Temporary Modification (TMOD) to the damper, Operations personnel
+declared damper 2-DMP-064-0013 operable for SCIV function and exited TS LCO 3.6.4.2
+Condition A.
+On December 18, 2023, TVA completed a Past Operability Evaluation (POE) which determined
+that the damper had been inoperable for longer than allowed by TS.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant’s TS.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+NRC FORM 366A (10-01-2023) Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+(cid:1407) 052
+2024 - 001 - 02
+NARRATIVE
+C. Dates and approximate times of occurrences
+DATE AND
+APPROXIMATE
+OCCURRENCE
+TIMES
+August 20, 2023 Declared 2-DMP-064-0013 inoperable for SCIV function.
+0015 CST Declared operable following corrective maintenance.
+September 24, 2023 Declared 2-DMP-064-0013 inoperable for SCIV function.
+2230 CST Declared operable following corrective maintenance.
+While performing 0-SR-3.6.4.2.1, Reactor Zone Outboard Supply
+Damper 2-DMP-064-0013 failed to close upon securing Reactor
+November 18, 2023
+Zone Supply Fans.
+2038 CST
+Declared 2-DMP-064-0013 inoperable for SCIV function.
+Entered TS LCO 3.6.4.2 Condition A, Actions A.1 and A.2
+Declared 2-DMP-064-0013 operable for SCIV function following
+November 22, 2023
+completion of corrective maintenance and PMT.
+1515 CST
+Exited TS LCO 3.6.4.2 Condition A
+Upon completion of POE, determined that 2-DMP-064-0013 had
+December 18, 2023
+been inoperable longer than allowed by TS.
+D. Manufacturer and model number of each component that failed during the event
+The damper is part of a solenoid [SOL] controlled isolation valve made by Automatic Valve
+Corporation, part number U0203GBBR-AA.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+Subsequent troubleshooting determined that the mechanistic cause of failure was wear on the
+damper louver [LV] arm pin holes.
+NRC FORM 366A (10-01-2023) Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+(cid:1407) 052
+2024 - 001 - 02
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component
+Wear on the damper louver arm pin holes allowed the louver arm to become loose and ultimately
+jam on top of the louver bracket, preventing closure.
+H. Operator actions
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III. Cause of the event
+The apparent cause of this event was a lack of proper guidance in maintenance procedure
+MCI0000DMP001, Damper Maintenance Instructions.
+There is no guidance in this procedure which would have driven maintenance to look at the
+component which failed. The degraded pinholes are hidden inside the ductwork of the damper
+and are partly covered up by the pin itself on the brackets. The pin hole on the louver arm is
+completely hidden inside the bracket. Without guidance to specifically look at this location, the
+condition would never be noticed. Electric Power Research Institute (EPRI) provides guidance on
+maintenance for couplings and connections on dampers which addresses the issue, but this
+guidance was not included in the damper maintenance instructions.
+A. Cause of each component or system failure or personnel error
+The mechanistic cause of failure was determined to be wear on the damper louver arm pin
+holes which allowed the louver arm to become loose and ultimately jam on top of the louver
+bracket, preventing closure.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root cause was identified.
+NRC FORM 366A (10-01-2023) Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+(cid:1407) 052
+2024 - 001 - 02
+NARRATIVE
+IV. Analysis of the event
+The secondary containment isolation is initiated from any of three signals: low reactor water level,
+high drywell pressure or high activity in a ventilation exhaust duct [DUCT], or by manual alignment
+and operation from the Main Control Room. Each signal simultaneously isolates the secondary
+containment zone or zones, shuts down normal ventilation equipment, opens dampers to and
+from the Standby Gas Treatment System [BH] and starts the Standby Gas Treatment System
+blower.
+BFN Unit 2 TS LCO 3.6.4.2 states that each SCIV shall be Operable in Modes 1, 2, and 3. TS
+LCO 3.6.4.2 Actions A.1 and A.2 require, when one or more penetration [PEN] flow paths contain
+an Inoperable SCIV, that each affected penetration flow path be isolated by use of at least one
+closed and de-activated automatic valve, closed manual valve, or blind flange, within eight hours;
+and that isolation of each affected penetration flow path be verified every thirty-one days. A POE
+determined that the Reactor Zone Air Supply Outboard Isolation Valve 2-DMP-064-0013 was
+inoperable for longer than allowed by TS LCO 3.6.4.2.
+V. Assessment of Safety Consequences
+The redundant Inboard Isolation Valve 2-DMP-064-0014 remained operable during the period of
+time when the Outboard Isolation Valve 2-DMP-064-0013 was inoperable, maintaining secondary
+containment. Furthermore, Probabilistic Risk Assessment (PRA) conducted by TVA determined
+that the reactor zone air supply, including damper 2-DMP-064-0013, is not credited in the internal
+events/internal flooding, seismic, or Fire PRA Models.
+Based on the above, the TVA has concluded that sufficient systems were available to provide the
+required safety functions needed to protect the health and safety of the public.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+The redundant Inboard Isolation Valve 2-DMP-064-0014 remained operable during this event,
+and there was no known inoperability of this valve during the period where 2-DMP-064-0013
+was determined to be inoperable. Therefore, the secondary containment safety function was
+maintained during that time.
+NRC FORM 366A (10-01-2023) Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+(cid:1407) 052
+2024 - 001 - 02
+NARRATIVE
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+The Reactor Zone Air Supply Outboard Isolation Valve 2-DMP-064-0013 was inoperable from
+approximately 0015 CST on August 20, 2023 until approximately 1515 on November 22, 2023,
+approximately ninety-five days.
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA’s corrective action program under CR 1893273.
+A. Immediate Corrective Actions
+A temporary modification was implemented to pin the lower louvers closed until the valve was
+repaired.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The corrective actions to reduce the possibility of recurrence for this condition are as follows:
+1. Replace broken and/or degraded components on the affected valve.
+2. Revise maintenance procedures associated with 1/2/3-DMP-064-0005/6 Refuel Zone
+Air Supply Isolation Dampers and 1/2/3-DMP-0013/14 Reactor Zone Air Supply
+Isolation Dampers to include an updated Preventative Maintenance plan with EPRI
+maintenance guidance.
+NRC FORM 366A (10-01-2023) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+(cid:1407) 052
+2024 - 001 - 02
+NARRATIVE
+VII. Previous Similar Events at the Same Site
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (10-01-2023) Page 7 of 7

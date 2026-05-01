@@ -1,0 +1,508 @@
+=~Exelon
+Generation®
+SVP-20-066 10 CFR 50.73
+September 17, 2020
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-30
+NRC Docket No. 50-265
+Subject: Licensee Event Report 265/2020-003-00 "Oscillation Power Range Monitors (OPRMs)
+Count Setpoint Discrepancy Due to Inadequate Instructions"
+Enclosed is Licensee Event Report 265/2020-003-00 "Oscillation Power Range Monitors (OPRMs)
+Count Setpoint Discrepancy Due to Inadequate Instructions," for Quad Cities Nuclear Power Station,
+Unit 2.
+This report is submitted in accordance with 10 CFR 50. 73(a)(2)(v)(D), an event or condition that
+could have prevented the fulfillment of the safety function of structures or systems that are
+needed to mitigate the consequences of an accident; 10 CFR 50.73(a)(2)(i)(B), operation or
+condition which prohibited by the plant's Technical Specifications; and 10 CFR 50.73(a)(2)(vii),
+common cause inoperability of independent trains or channels.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Sherrie Grant at (309) 227-
+R2800. /%
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatOl'f collection request 80 hours. Reported
+\" .
+~ ~
++
+... 11
+~
+:••" ~ '
+\
+i " (S ( e S e h e t e t N p U P :/
+L
+/ R a w g E
+I
+w e
+C
+G w 3 - .
+E
+1 n f 0 o rc
+N
+2 r . 2 g r ,
+S
+e o R v q
+E
+/ u . r 3 e ir
+E
+a f e o d d r i n i
+E
+n n g s u - t r
+V
+m r m u b
+E
+c /d t e i o o r
+N
+c n o - c
+T
+f a o d n l l d i e g
+R
+c i g t t s u i
+E
+o / id c n
+P
+a h s n / a n
+O
+c r u e a r c e
+R
+fo t g e r s
+T
+r c / s s o t m a f
+(
+o f
+L
+f p r / s le e
+E
+r t 1 a in 0 c
+R
+g h 2 2
+)
+t b h / r l i o 3 s D c fo k r ) m
+l r
+A N l
+e
+n
+e
+f
+s
+u f
+g
+f o a
+s
+c
+a
+c
+o
+i l r
+r
+e o
+d
+s
+n
+a l ,
+i s
+l
+n
+e r
+g
+( c
+le
+3 ls 1
+a b
+. 5
+r
+R R
+u n
+0
+r
+e e
+e d
+- g 0 s
+d e
+o u 1
+n a
+l u 0 a
+r
+4 r
+e
+t
+e
+c o )
+s
+e , r
+i t
+y @
+n i
+A
+m c
+t
+o
+n t
+a
+n
+r
+r
+t
+:
+p e
+c C .
+o
+g o
+t r o
+D o m
+a
+v
+t
+e
+t
+m
+e
+,
+h
+s
+d e
+k i a s n s
+in F
+a i d o
+t
+i
+O
+l
+o
+: n t
+I
+. h
+A t h
+e o
+, e
+ir
+L
+O a W
+l i b
+M
+~ r
+s a
+e a
+B u s
+n r
+h b
+s y
+r
+i
+i m
+,
+n e
+n
+g v
+a
+i
+g
+s i t
+n
+e o s
+p d
+w i n o
+r o
+, e n
+ln c
+r @
+f e o
+a
+s
+o
+n
+D t
+s
+m
+n
+C O
+a a
+b
+n t
+M .
+i
+e
+o d
+o B
+n
+2
+f
+p
+e
+0
+C
+. O g
+d
+5
+o
+o f 5 f
+U
+v
+b
+i 5 . c
+e a
+- e 0
+c c t k
+0 T
+i
+o
+o
+0 h
+t
+f
+n o
+1 e
+s
+l , n
+i n
+N f
+B
+o
+d
+R m
+r u a
+o C n
+s n
+r a
+l c !
+m
+y
+t
+h
+io
+.
+a n
+(
+b y
+f S
+y
+-
+a
+e 6
+n n
+n
+o d
+d A
+t e
+1
+c R
+c
+-
+0
+o m
+o
+e
+M
+n
+m
+g a d
+)
+u i
+m ,
+u l la c
+e U
+t t O
+n .S
+o t
+l
+l
+s
+o '
+.
+r f
+sponsor, and a person is not required to respond to, a coilection of infonnation unless the document
+requesting or requinng the coilection displays ac urrently valid OMB control number.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station, Unit 2 05000 -265 1 OF 4
+4. Title
+Oscillation Power Range Monitors (OPRMs) Count Setpoint Discrepancy Due to Inadequate Instructions
+5. Event Date 6. LER Number 7: Report Date 8. Other Facilities Involved
+.Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No. 05000
+- - Facility Name ilocket Number
+07 22 2020 2020 003 00 09 15 2020
+05000
+9. Operating Mode 110. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+-
+D D D D
+20.2203(a)(2)(vi) 50.36(c)121 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+20.2201(b) 20.22oata)(3)(i) 50.46(a)(3)(1i) 50.73(a)(2)(v)(A)
+D D D D D
+20.2201(d) 20.22oata)(3)(ii) 50.69(9) 50.73(a)(2)(v)(B) 1a.111a>(4)
+D D D D D
+20.22oa1a)(11 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) n.111a)(5)
+D D
+20.22oa1a)(2)(i) ~ 50. 73(a)(2)(i)(B) ~ 50.73(a)(2)(v)(D) n.n(a)(1)(i)
+D D D D
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) ~ 50.73(a)(2)(vii) 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(iii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77ta>t211u1
+D D D D
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50. 73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Rachel Luebbe - Regulatory Assurance 309-227-2813
+I
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component M•oof<ciore• R•portobl• to IRIS Cause System Component Manufacturer Reportable to IRIS
+D IG MON A576 Y
+14. Supplemental Report Expected Month Day Year
+I 15. Expected Submission Date
+!ZI D
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 22, 2020 during the performance of an Oscillation Power Range Monitor (OPRM) time test it was identified that the as-
+found OPRM maximum confirmation count setpoint on the Unit 2 OPRMs did not match the values in the Quad Cities Unit 2
+Core Operating Limits Report (COLR). All Unit 2 OP RMS were declared inoperable at 1030 on July 22, 2020. Operations
+entered Technical Specification (TS) 3.3.1.3 Condition A for OPRMs 1-8 and Condition B for loss of trip capability. The setpoint
+discrepancy was corrected and all the Unit 2 OPRMs were declared operable on July 23, 2020 at 1210. TS 3.3.1.3 Condition A
+and Condition B were exited at that time.
+The cause of the incortect OPRM count setpoint was due to insufficient work package guidance and a lack of verification to
+ensure that the work instructions contained the proper setpoints.
+This is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B), operation or condition prohibited by Technical Specifications,
+1O CFR 50. 73(a)(2)(v)(D), event or condition that could have prevented fulfillment of a safety function, and 1 O CFR 50. 73(a)(2)(vii),
+common cause inoperability of independent trains or channels. No 10 CFR 50. 72 report was made for this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch {T-6A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission. 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. nrc.qov/reading-rm/doc-collections/nuregs/staff/sr1 022/r30 requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 2 05000- 265 NUMBER NO.
+2020 - 003 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Oscillation Power Range Monitors (OPRMs) Count Setpoint Discrepancy Due to Inadequate Instructions
+A. CONDITION PRIOR TO EVENT
+Unit: 2 Event Date: July 22, 2020 Event Time: 1030 hours CDT
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+There were no other structures, systems or components (SSC) inoperable during this event time period that could
+have contributed to this event.
+B. DESCRIPTION OF EVENT
+During the Q2R25 refueling outage (April 2020), all Unit 2 Oscillation Power Range Monitor (OPRM) Trip Amplitude
+Setpoints were updated per Quad Cities Unit 2 Core Operating Limits Report (COLR) Rev 13. The work order (WO)
+written to update the OPRM setpoints only directed an update to the amplitude setpoint. There were no instructions
+to update the confirmation count setpoint. During the refueling outage the Quad Cities Unit 2 COLR was emergently
+changed to Rev 14, however this revision did not change any OPRM setpoint values.
+On July 22,2020 at 1030 CDT, while performing an OPRM response time test, it was identified that the as-found
+OPRM maximum confirmation count setpoint on the Unit 2 OPRMs did not match the value in the Quad Cities Unit 2
+COLR. The setpoint was found to be set at 16 counts to trip but per the COLR it should have been set at 15 counts.
+All Unit 2 OPRMs were declared inoperable. Operations entered Technical Specification (TS) 3.3.1.3 Condition A for
+OPRMs 1 through 8 and Condition B for loss of trip capability. The setpoint discrepancy was entered into the
+corrective action program and corrected under a work order (WO). All the Unit 2 OPRMs were declared operable on
+July 23, 2020 at 1210 CDT. TS 3.3.1.3 Condition A and Condition B were exited at that time. There were no other
+safety systems or components inoperable at the time of this event.
+This is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B),operation or condition prohibited by Technical
+Specification for having incorrect confirmation count setpoint and 10 CFR 50.73(a)(2)(vii), common cause
+inoperability of independent trains or channels since the incorrect setpoint caused all Unit 2 OPRMs to be declared
+inoperable. During evaluation of the event, it was determined that 10 CFR 50. 73(a)(2)(v)(D), event or condition that
+could have prevented fulfillment of a safety function also applies.
+NRG FORM 366A (08-2020) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023.
+(08-2020)
+Estimated burden per resp<inse to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+g
++.:, ~,,J>f'.l!EGv<,.
+·
+_.0 '11
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+~ LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\. CONTINUATION SHEET lnfocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+...... Affairs, (3150-0104), Attn: Desk Offcer for the Nuclear Regulatory Commission, 72517th Street NW,
+~ Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. n rc.gov/rea.ding-rm/doc-collections/nuregs/staff/sr1 022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 2 05000- 265 NUMBER NO.
+2020 - 003 00
+NARRATIVE
+C. CAUSE OF EVENT
+The cause of the incorrect OPRM count setpoint was due to insufficient work package guidance and a lack of
+verification to ensure that the work instructions contained the proper setpoints.
+D. SAFETY ANALYSIS
+System Design
+The OPRM system consists of four (4) OPRM trip channels, each channel consisting of two OPRM modules.
+Each OPRM module receives input from Local Power Range Monitors (LPRMs). Each OPRM module also
+receives input from the Reactor Protection System (RPS) average power range monitor (APRM). Four channels
+of the OPRM system are required to be Operable to ensure that stability related oscillations are detected and
+suppressed prior to exceeding minimum critical power ratio (MCPR) safety limit. The nominal setpoints for the
+period based detection algorithm (PBDA) OPRM trip function are specified in the Core Operating Limits Report
+(COLR). The PBDA trip setpoints are the number of confirmation counts required to permit a trip signal and the
+peak to average amplitude required to generate a trip signal.
+UFSAR Section 15.4.11.1 describes that the OPRM system provides automatic protection from a Thermal
+Hydraulic Instability Transient. This transient is considered an event of moderate frequency as defined in
+Regulatory Guide 1. 70. When the OPRM is not fully functional, then the operators provide protection from this
+event by scramming the reactor upon recognition of an instability or upon entry into the scram region on the
+power to recirculation flow map.
+Safety Impact
+An Engineering evaluation reviewed Unit 2 Cycle 26 operating data from April 2020 to present. This review
+showed that the minimum Operating Limit minimum critical power ration (OLMCPR) experienced was greater
+than 1.60. The limiting OLMCPR for Unit 2 Cycle 26 across all events is 1.47. The evaluation concluded there
+was sufficient margin in the OLMCPR limit to ensure that the existing safety analysis would have supported a
+maximum confirmation count setpoint of 16 along with the as installed amplitude setpoint of 1.13.
+This event is a Maintenance Rule Functional Failure (MRFF) but is not considered a safety system functional
+failure (SSFF) because of the results of the engineering evaluation showed no safety significance.
+E. CORRECTIVE ACTIONS
+The immediate completed action was to adjust all the U2 OPRM set points per Quad Cities Unit 2 COLR.
+Follow-up actions will include revising the maintenance OPRM calibration procedure to include more detailed
+instructions and a verification of setpoints against the COLR.
+NRC FORM 366A (08-2020) Page _3_ of _4_
+NRC FORM 366A u:s. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-D001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required to respond to, a collection of information unless the document
+http://www. nrc.qov/readinq-rm/doc-collections/nuregs/staff/sr1 022/r3D requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 2 05000- 265 NUMBER NO.
+2020 003 00
+NARRATIVE
+E. PREVIOUS OCCURRENCES
+No similar events were identified where a common cause of inadequate instructions cause all the OPRMs or other
+safety system to become inoperable.
+F. COMPONENT FAILURE DATA
+Failed Equipment: Monitoring, In-core
+Component Manufacturer: ABB COMBUSTION ENG
+Component Model Number: 2001731-102
+Component Part Number: N/A
+This event has been reported to IRIS.
+NRC FORM 366A (08-2020) Page _4_ of _L

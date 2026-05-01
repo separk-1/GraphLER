@@ -1,0 +1,168 @@
+@ Xcel Energy
+2807 West County Road 75
+Monticello, MN 55362
+September 25, 2025 L-MT-25-029
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Monticello Nuclear Generating Plant
+Docket No. 50-263
+Subsequent Renewed Facility Operating License No. DPR-22
+Monticello Nuclear Generating Plant Licensee Event Report 2025-004-00
+Northern States Power Company, a Minnesota corporation, doing business as Xcel
+Energy (hereafter “NSPM”), hereby submits Licensee Event Report (LER) 50-263/2025-
+004-00 per 10 CFR 50.73(a)(2)(iv)(A), 10 CFR 50.73(a)(2)(v)(C), and 10 CFR
+50.73(a)(2)(v)(D).
+Summary of Commitments
+This letter makes no new commitments and no revisions to existing commitments.
+Michelle Neal
+Plant Manager, Monticello Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure
+cc: Administrator, Region III, USNRC
+Project Manager, Monticello, USNRC
+Resident Inspector, Monticello, USNRC
+State of Minnesota
+Connected • Committed • Trustworthy • Safe
+ENCLOSURE
+MONTICELLO NUCLEAR GENERATING PLANT
+LICENSEE EVENT REPORT 50-263/2025-004-00
+3 pages follow
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to lnfocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Monticello Nuclear Generating Plant
+-263 1 OF 3
+4. Title
+Rainwater Intrusion Caused Failure of Reactor Building Ventilation and Rise in Steam Chase Temperatures
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+07 28 2025 2025 004 00 25 2025 Facility Name Docket Number
+9. Operating Mode 10. Power Level
+Mode 1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 Q 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A) Q 73.1200(a)
+Q| 20.2201(b) □ 20.2203(a)(3)(f) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B) Q 73.1200(b)
+0 20.2201(d) 0 20.2203(a)(3)(ii) Q 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) 0 50.73(a)(2)(ix)(A) 0 73.1200(c)
+Q 20.2203(a)(1) 0 20.2203(a)(4) 0 50.36(c)(2) 0 50.73(a)(2)(iv)(A) 0 50.73(a)(2)(x) Q 73.1200(d)
+□ 20.2203(a)(2)(f) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 Q 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) Q 50.73(a)(2)(v)(B) 0 73.77(a)(1) 0 73.1200(f)
+Q 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) 0 50.73(a)(2)(v)(C) 0 73.77(a)(2)(f) Q 73.1200(g)
+Q 20.2203(a)(2)(iv) Q 50.73(a)(2)(i)(B) 0 50.73(a)(2)(v)(D) 0 73.77(a)(2)(H) Q 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) 0 50.73(a)(2)(vii)
+| | OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Nathan Fedora, Senior Nuclear Regulatory Engineer 612-342-8971
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X VL FAN R165
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+| | Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 22:00 on July 28, 2025, with Monticello Nuclear Generating Plant (MNGP) operating at 100 percent power,
+secondary containment was declared inoperable due to a Reactor Building Ventilation System failure which
+caused a degradation of Reactor Building differential pressure that exceeded the Technical Specification limits.
+This Ventilation System failure led to elevated temperatures in the Steam Chase. Operators began to lower
+Reactor power to attempt to slow the rising Steam Chase temperature level. At 23:24 on July 28, 2025, with
+MNGP now operating at 41 percent power, the Reactor was manually scrammed due to Steam Chase
+temperatures reaching the procedural limit. Operators responded to the trip and stabilized the plant in
+accordance with approved procedures and safely placed the plant in Mode 3. All systems responded normally
+post trip. The Ventilation System failure was caused by rainwater intrusion through a leak in the plenum room
+roof that made contact with and then tripped energized Ventilation System components. The entire plenum
+room roof is in the process of being replaced. Immediate actions were taken to prevent rainwater intrusion
+from impacting Ventilation System components while the roof is being replaced.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.qov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Monticello Nuclear Generating Plant -263
+2025
+□ 052 - 004 - 00
+NARRATIVE
+EVENT DESCRIPTION AND ANALYSIS
+On the evening of July 28, 2025, Monticello Nuclear Generating Plant (MNGP) was operating at 100 percent power when
+a thunderstorm passed over the area. As the storm passed, rainwater began dripping through the roofing material into
+the plenum room which is located between the Reactor Building and Turbine Building. The water ran down the wall above
+cabinet N1131, V-EF-24 LOCAL CONTACTOR. At about 20:58 on July 28, 2025, this leak in the plenum roof led to an
+electrical short of a contactor for motor V-EF-24, REACTOR BUILDING EXHAUST FAN (Reliance Electric, model BFC
+SO7827-1) [VL]. This short caused a fuse in a General Electric 7700 line breaker B1131, V-EF-24A,B, REACTOR
+BUILDING MAIN EXHAUST FANS 480 VAC, to open resulting in a loss of power to both Reactor Building main exhaust
+fans. Then, V-AC-10A and V-AC-10B, REACTOR BUILDING MAIN SUPPLY HVAC UNITS, [VA] tripped as designed with
+the V-EF-24 flow interlock.
+With the failure of Reactor Building Exhaust Ventilation and then the subsequent trip of the Reactor Building Supply
+Ventilation, this resulted in a degradation of the Reactor Building differential pressure. At 22:00, on July 28, 2025, with
+MNGP still operating at 100 percent power, the differential pressure exceeded the Technical Specifications limit resulting
+in Secondary Containment being declared as inoperable.
+With the failure of the Ventilation System, Steam Chase temperatures started to rise. Operators began to lower Reactor
+power to attempt to slow the rising Steam Chase temperature level.
+At 23:24 on July 28, 2025, with MNGP now operating at a reduced power of 41 percent, the Operators inserted a manual
+scram of the Reactor due to the Steam Chase temperatures reaching the procedural limit of 180 degrees Fahrenheit per
+the criteria in the Ventilation System procedure.
+This event is reportable per 10 CFR 50.73(a)(2)(v)(C) and 10 CFR 50.73(a)(2)(v)(D) for an event or condition that could
+have prevented the fulfillment of the safety function of structures or systems that are needed to control the release of
+radioactive material; and mitigate the consequences of an accident, and per 10 CFR 50.73(a)(2)(iv)(A) due to actuation of
+the Reactor Protection System.
+ASSESSMENT OF SAFETY CONSEQUENCES
+The scram was not complex, with all systems responding normally post scram. Reactor water level was maintained via
+the Feedwater System. Decay heat was removed by discharging steam to the main condenser using the turbine bypass
+valves.
+The health and safety of the public and site personnel were not impacted during this event.
+CAUSE OF THE EVENT
+The Ventilation System failure was caused by rainwater intrusion through a leak in the plenum room roof that then
+made contact with and tripped energized Ventilation System components
+NRC FORM 366A (04-02-2024) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/')
+displays a currently valid OMB control number.
+1. FACILITY NAME [W| 050 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Monticello Nuclear Generating Plant -263
+2025
+□ 052 - 004 - 00
+NARRATIVE
+CORRECTIVE ACTIONS
+Immediately after the event, sealant was applied to electrical cabinets in the plenum room to prevent rainwater intrusion
+from impacting the Ventilation System components.
+To reduce the likelihood of this event happening again, replacement of the entire plenum roof is currently in progress.
+MNGP was placed back online at 08:30 on August 2, 2025.
+PREVIOUS SIMILAR EVENTS
+There were no previous similar events in the past three years.
+ADDITIONAL INFORMATION
+All times are in Central Daylight Time.
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX],
+NRC FORM 366A (04-02-2024) Page 3 of 3

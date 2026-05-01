@@ -1,0 +1,361 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+July 3, 2024
+10 CFR 50.73
+10 CFR 50.4(a)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1, 2, and 3
+Renewed Facility Operating License Nos. DPR-33, DPR-52, and DPR-68
+NRC Docket Nos. 50-259, 50-260, and 50-296
+Subject: Licensee Event Report 50-259/2024-001-01
+Reference: Letter from TVA to NRC, “Licensee Event Report 50-259/2024-001-00,” dated
+April 11, 2024 (ML24102A279)
+The enclosed Licensee Event Report provides details of an inoperability of a Unit 3 Diesel
+Generator. The Tennessee Valley Authority (TVA) is submitting this report in accordance with
+Title 10 of the Code of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or
+condition which was prohibited by the plant’s Technical Specifications.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David Renn, Site Licensing Manager, at
+(256) 729-2636.
+Respectfully,
+By Delegation for
+Daniel A. Komm
+BFN Site Vice President
+Enclosure: Licensee Event Report 50-259/2024-001-01 – Inoperability of Unit 3 Diesel
+Generator due to Relay Failure
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+(See Page 2 for required number of digits/characters for each block)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 52. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 1
+052
+00259 1 OF 7
+4. Title
+Inoperability of Unit 3 Diesel Generator due to Relay Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+Browns Ferry Nuclear Plant, Unit 2 05000260
+12 14 2022 2024 - 001 - 01 07 03 2024 Facility Name Docket Number
+Browns Ferry Nuclear Plant, Unit 3 05000296
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Denzel Housley, Licensing Engineer 256-729-7643
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X EK RLY G080 Y N/A N/A N/A N/A N/A
+4. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On February 14, 2024, while performing Surveillance Procedure 3-SR-3.8.1.9(3D OL), “Diesel Generator 3D
+Emergency Load Acceptance Test with Unit 3 Operating,” the Unit 3 D Emergency Diesel Generator (DG) did
+not start on an undervoltage condition on its associated safety bus as expected. BFN-3-RLY-082-D/SUDR
+(Single Unit Defeat Relay) contacts 3 and 4 are designed as normally closed but were found electrically open
+in the normal state causing the Diesel fast start circuit to not be made up.
+The apparent cause of the misalignment of the SUDR relay contacts was the lack of effective Preventative
+Maintenance (PM). Improved PM Strategy to provide more detailed relay inspections /testing requirements
+for DG starting logic relays that have critical functions will be implemented.
+During this event, the 3D DG would have continued to support the safety function of starting on the receipt of
+an accident signal as designed. Although the 3D DG would not have automatically started during a loss of
+offsite power, operators are directed to immediately ensure DGs are started and tied to their respective
+safety busses.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐ 052
+2024 - 001 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of this event on December 14, 2022, Browns Ferry Nuclear Plant (BFN) Unit 1 was in
+Mode 1 at approximately 100 percent power, Unit 2 was in Mode 1 at approximately 100 percent
+power, and Unit 3 was in Mode 1 at approximately 96 percent power.
+II. Description of Event
+A. Event Summary
+On February 14, 2024, while performing Surveillance Procedure 3-SR-3.8.1.9(3D OL), “Diesel
+Generator 3D Emergency Load Acceptance Test with Unit 3 Operating,” the Unit 3 D Emergency
+Diesel Generator (DG) [EK] did not start on an undervoltage condition on its associated safety
+bus [EB] as expected. Troubleshooting identified that the DG did not start due to a failure (open
+circuit) of Single Unit Defeat Relay (SUDR) [RLY] normally closed contacts (3-4). The relay was
+repaired and the surveillance test was reperformed satisfactorily on February 15, 2024. A past
+operability evaluation was performed by engineering that determined that the relay had been
+inoperable since December 14, 2022 when the 3D EDG started slower than expected during the
+performance of Surveillance Procedure 3-SR-3.8.1.1(3D), “Diesel Generator 3D Monthly
+Operability Test.” It was not originally recognized that the slower than expected DG start time
+could be an indication of the inability of the DG to start on a loss of voltage signal.
+Unit 3 Technical Specifications (TS) 3.8.1, “AC Sources - Operating,” and 3.8.2, “AC Sources -
+Shutdown,” requires the Unit 3 DGs to be operable in MODES 1, 2, 3, 4 and 5, and during
+movement of irradiated fuel assemblies in the secondary containment. Units 1 and 2 TSs 3.8.1
+and 3.8.2 require the Unit 3 DGs associated with AC Boards needed to support equipment
+required for Units 1 and 2 to be Operable in Modes 1, 2, 3, 4, and 5, and during movement of
+irradiated fuel assemblies in the secondary containment. Because the 3D DG was inoperable
+from December 14, 2022, until February 15, 2024, the associated TS Actions were not complied
+with. Additionally, Mode changes were made with the 3D DG inoperable which is prohibited by TS
+3.0.4.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of the
+Code of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant’s TSs.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+NRC FORM 366A (10-01-2023) Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐ 052
+2024 - 001 - 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+DATE AND
+APPROXIMATE TIMES
+OCCURRENCE
+(times are
+Central Time)
+December 14, 2022, at Performance of 3-SR-3.8.1.1(3D) identified slower than
+09:30 expected start time for the 3D EDG. It was not recognized that
+this could be an indication of the inability of the DG to start on a
+loss of voltage signal.
+February 14, 2024, at During performance of 3-SR-3.8.1.9(3D OL), 3D DG did not
+11:49 start on an undervoltage condition on its associated safety
+bus as expected. Troubleshooting identified that the DG did
+not start due to a failure (open circuit) of SUDR normally
+closed contacts (3-4).
+February 15, 2024, at The SUDR relay was repaired and DG testing was reperformed
+07:00 satisfactorily. 3D DG declared operable.
+A past operability evaluation was completed by engineering
+March 7, 2024 that determined that the relay had been inoperable since
+December 14, 2022.
+D. Manufacturer and model number of each component that failed during the event
+The SUDR relay was a General Electric Part Number 12HFA151A2H.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+The relay failure was discovered during troubleshooting activities.
+G. The failure mode, mechanism, and effect of each failed component
+Relay BFN-3-RLY-082-D/SUDR contacts 3 and 4 are designed as normally closed but were
+found electrically open in the normal state causing the Diesel fast start circuit to not be made
+up.
+NRC FORM 366A (10-01-2023) Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐ 052
+2024 - 001 - 01
+NARRATIVE
+The component failure analysis report was minimally helpful since the removed SUDR relay
+was severely damaged while shipping for a failure analysis. The analysis did conclude the
+contacts had been burnished and were generally clean.
+H. Operator actions
+None.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+BFN-3-RLY-082-D/SUDR contacts 3 and 4 are designed as normally closed but were found
+electrically open in the normal state causing the Diesel fast start circuit to not be made up.
+The apparent cause of the misalignment of the SUDR relay contacts was the lack of effective
+Preventative Maintenance (PM). The PM did not have periodic “calibration” activities (e.g.,
+contact burnishing, finger binding checks, contact wipe and gap inspections, pickup voltage
+tests, contact resistance checks, and checks for no visual bends in contact arms) as
+recommended by EPRI and TVA Fleet guidance. Implementing the “calibration” activities
+would reduce the likelihood of the normally closed contacts becoming misaligned and open
+circuited.
+B. Cause(s) and circumstances for each human performance related root cause
+A contributing cause of extending the length of time the SUDR relay contacts were
+non-functional was the untimely action for reworking or replacing the relay. This was based on
+an incorrect mental model of the importance of the seal-in circuit which relies on the normally
+closed contacts of the SUDR relay. Engineers responsible for concluding that the failure of the
+seal-in did not affect operability of the DG were not prepared adequately for understanding the
+complex DG start logic.
+IV. Analysis of the event
+On December 14, 2022, during the performance of 3-SR-3.8.1.1(3D) a slower than expected start
+time (but within acceptance criteria) was experienced for the 3D DG. An assessment at the time
+did not identify any concerns with the operability of the DG. Following the failure of the 3D DG to
+start on bus undervoltage during the performance of 3-SR-3.8.1.9(3D OL) on February 14, 2024,
+NRC FORM 366A (10-01-2023) Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐ 052
+2024 - 001 - 01
+NARRATIVE
+engineering determined that the previously identified cause of the slower than expected starts
+(i.e., failure of the seal-in circuit from the SUDR relay and Fast Start Relay No. 1 (ASRD-1)
+contacts) would also explain the failure to start on undervoltage. Therefore, the failure of the
+SUDR relay is considered to have existed since December 14, 2022.
+The failure of the SUDR relay resulted in the failure of the 3D DG to start on loss of bus voltage
+but would not have resulted in the failure of the DG to start on an accident signal. Additionally, the
+SUDR relay failure would not have prevented the DG from being started manually by the control
+room operator. The first Immediate Action of 0-AOI-57-1A, “Loss of Offsite Power (161 and
+500 KV)/Station Blackout,” is to ensure the DGs have started and tied to their respective 4-kV
+Shutdown Boards.
+V. Assessment of Safety Consequences
+The safety objective of the Standby AC Power System is to provide a self-contained, highly
+reliable source of power, as required for the Engineered Safeguards System, so that no single
+credible event can disable the core standby cooling functions or their supporting auxiliaries.
+During this event, the 3D DG would have continued to support the safety function of starting on
+the receipt of an accident signal as designed. Although the 3D DG would not have automatically
+started during a loss of offsite power, operators are directed to immediately ensure DGs are
+started and tied to their respective safety busses. With the fast start circuit seal-in nonfunctional,
+the operator’s ability to select the mode of DG operation through use of the 3D Mode Select
+switches (for paralleling with other units, for paralleling to the offsite system, or for single unit
+operation) and the ability to manually raise or lower the DG’s voltage or frequency, would not
+have been defeated. This condition is of very low to no safety significance and would not have
+adversely affected the health and safety of the public.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+The Unit 3 standby AC supply and distribution system consists of four diesel generators (3A,
+3B, 3C, and 3D), four 4-kV shutdown boards, two 480-V shutdown boards, one 480-V heating,
+ventilation, and air conditioning board, five motor operated valve boards, two 480-V diesel
+auxiliary boards, one 480-V control bay vent board, and the Standby Gas Treatment system
+board. In addition to its other functions, the system serves as the alternate supply to one
+condensate demineralizer board. For flexibility of operation, provisions have been made for
+the interconnection of 4-kV shutdown board A (Units 1 and 2) with 4-kV shutdown board 3EA
+(Unit 3). Similar interconnections have been provided between boards B and 3EB, C and 3EC,
+and D and 3ED. The interconnections are through manually controlled circuit breakers.
+NRC FORM 366A (10-01-2023) Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐ 052
+2024 - 001 - 01
+NARRATIVE
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+During this period of inoperability when not out of service for planned maintenance or testing,
+the 3D DG would have started as designed for an accident signal and was otherwise available
+to be started manually by the control room operator.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+As assessed by the past operability evaluation, the SUDR relay was inoperable from
+December 14, 2022, until February 15, 2024.
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA’s corrective action program under Condition
+Report (CR) 1910087.
+A. Immediate Corrective Actions
+The failed SUDR relay was repaired and 3D DG was returned to Operable status on
+February 15, 2024.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Improved PM Strategy to provide more detailed relay inspections /testing requirements for DG
+starting logic relays that have critical functions will be implemented. Additionally, EDG start
+logic training will be provided to system engineers who can lead EDG start logic
+troubleshooting.
+VII. Previous Similar Events at the Same Site
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.
+VIII. Additional Information
+There is no additional information.
+NRC FORM 366A (10-01-2023) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+☐ 052
+2024 - 001 - 01
+NARRATIVE
+IX. Commitments
+There are no new commitments.
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+NRC FORM 366A (10-01-2023) Page 7 of 7

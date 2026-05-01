@@ -1,0 +1,186 @@
+Exelon Generation .
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Patrick D. Navin
+Site Vice President
+JAFP-20-0032
+April 14, 2020
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2020-002, Unanalyzed Condition Due to Unprotected Control
+Circuits Running Through Multiple Fire Areas
+Dear Sir or Madam:
+This report is being submitted pursuant to 1O CFR 50.73(a)(2)(ii)(B).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Richard Sullivan, Regulatory
+Assurance Manager, at (315) 349-6562.
+Patrick D. Navin
+Site Vice President
+PDN/RS/hm
+Enclosure: LEA: 2020-002, Unanalyzed Condition Due to Unprotected Control
+Circuits Running Through Multiple Fire Areas
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/29/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Collections Branch
+LICENSEE EVENT REPORT (LER) (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not display
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+a currently valid OMB control number, the NRC may not conduct or sponsor, and a person
+is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 3
+4. Title
+Unanalyzed Condition Due to Unprotected Control Circuits Running Through Multiple Fire Areas
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+2 20 2020 2020 - 002 - 00 04 14 2020 N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+1
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. Power Level  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+100  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Richard Sullivan, Regulatory Assurance Manager 315-349-6562
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ Yes (If yes, complete 15. Expected Submission date)  No
+Abstract (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+During a review of industry Operating Experience, James A. FitzPatrick Nuclear Power Plant (JAF) identified that
+unprotected control circuits for non-safety related oil pumps routed through different fire areas. The concern is that a
+postulated fire in one area can cause short circuits potentially resulting in secondary fires or cable failures in other fire
+areas where the cables are routed.
+The control circuits for the Turbine Generator Emergency Bearing Lube Oil Pump (94P-2), Emergency Seal Oil Pump
+(94P-13), and Reactor Feed Pump Turbine Emergency Oil Pumps (31P-7A and 31P-7B) are unfused and would not be
+protected. Cables for these control circuits are routed in safety-related trays with safety-related cables thru fire zones in
+Battery Charger Rooms, Battery Room Corridor, Cable Spreading Room, Relay Room, and Control Room.
+The cause of the condition is that the original plant design, prior to 10 CFR 50 Appendix R, did not include overcurrent
+protection for control circuits in all applicable Safe Shutdown Analysis circumstances. Compensatory actions were
+established for the affected Fire Zones until the affected circuits were modified.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+(S ee NUREG-1022, R.3 for instruction and guidance for completing this form person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2020 – 002 – 00
+-
+NARRATIVE
+Background
+The James A. FitzPatrick Nuclear Power Plant (JAF) 10 CFR 50 Appendix R Safe Shutdown Analysis is
+based on the occurrence of a single fire. The only failures that are considered are those directly attributable
+to the fire, and spurious operations that can be postulated to occur as a result of the fire. No other failures
+are assumed to occur (i.e., single failure). Fire areas are established to meet the separation requirements of
+Section III.G of Appendix R for safe shutdown systems.
+It is postulated that a fire in one fire area could cause a short-circuit resulting in an overcurrent condition that
+overheat cables, and then possibly produce secondary fires in other fire areas where the cables are routed.
+Secondary fires or cable failures are outside the assumptions of the 10 CFR 50 Appendix R Safe Shutdown
+Analysis. Fuses in electrical circuits prevent this type of fire propagation.
+Event Description
+On June 24, 2019, during a review of industry operating experience, Electrical Engineering identified similar
+conditions at JAF where non-safety related direct current (DC) control circuits lack adequate overcurrent
+protection. Specifically, the control circuits for the Turbine Generator Emergency Bearing Lube Oil (EBOP)
+Pump (94P-2), the Emergency Seal Oil Pump (ESOP) (94P-13), and the Reactor Feed Pump Turbine
+(RFPT) DC Emergency Oil Pumps (31P-7A and 31P-7B) are unfused. Circuit breakers associated with
+these control circuits are insufficient to prevent a postulated overcurrent event from damaging additional
+cables or propagating secondary fire because the circuit breakers are designed to protect the power supply
+to each pump and not the control circuit portion. Portions of these non-safety related control cables are
+routed in safety-related trays with safety-related cables thru some fire zones.
+This event was initially reported to the NRC on June 24, 2019 (ENS 54130) and letter JAFP-19-0080 dated
+August 23, 2019 (LER: 2019-002-00). An engineering analysis determined that no credible hot short
+scenario will result in damage to adjacent cables in other fire zones and the current configuration would not
+degrade plant safety. Based on this analysis, ENS 54130 and LER 2019-002-00 were withdrawn by letter
+JAFP-19-0095 dated September 30, 2019.
+The adequacy of the analysis was later challenged, and a conservative decision was made to implement
+actions per Technical Requirement Manual (TRM) 3.7.M Fire Barrier Penetrations. In February 2020, the
+site determined that the short circuit current would exceed the values assumed in the initial evaluation
+resulting in temperatures in excess of the cable insulation rating of 250C. As a result, the event was
+reported to the NRC on February 20, 2020 (ENS 54533) per 10 CFR 50.72(b)(3)(ii)(B). The required actions
+of the Technical Requirement Manual (TRM) 3.7.M remained in place.
+Event Analysis
+The failure mechanism is overheating of a faulted (inadequately protected) cable that causes damage to
+that cable and to other cables routed in common enclosures (cable trays, conduits, panels, etc.). This
+creates the potential for a fire in one fire area to damage cables located in a different fire area, which could
+impact the equipment credited for fire safe shutdown and possibly invalidate credited safe shutdown
+methods. Based on a review of the cables contained within common enclosures, additional failures resulting
+Page 2 of 3
+NRC FORM 366A (04-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+(S ee NUREG-1022, R.3 for instruction and guidance for completing this form person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2020 – 002 – 00
+from postulated secondary fires or cable failures were evaluated.
+For Fire Area 03, Automatic Depressurization System (ADS) [EIIS identifier: SB], Control Room Ventilation
+[VI], and High-Pressure Coolant Injection System (HPCI) [BJ] are impacted by the common enclosure
+concern as a result of the unprotected control cables.
+Since the degree of separation for redundant safe shutdown trains was lacking, the event is being submitted
+in accordance with 10 CFR 50.73(a)(2)(ii)(B).
+There were no actual consequences caused by this condition. A detailed risk evaluation (JF-SDP-001)
+determined that the unfused circuit condition had a very low safety significance.
+Cause
+The cause of this condition was overcurrent protection was not installed in all applicable control circuits
+which can impact the 10 CFR 50 Appendix R Safe Shutdown Analysis. This condition has existed since
+original plant design.
+Similar Events
+FitzPatrick, LER: 2013-003-00, Unfused DC Ammeter Circuits Result in Unanalyzed Condition,
+JAFP-13-0158, dated December 26, 2013.
+FitzPatrick, LER: 2019-002-00, Unanalyzed Condition due to Unprotected Control Circuits Running through
+Multiple Fire Areas
+Corrective Actions
+An operations department standing order was initiated to establish compensatory actions for the affected
+fire areas in accordance with TRM 3.7.M until the circuit protective devices were installed. The control
+circuits for the affected circuits were modified to add fuses.
+References
+JAF Issue Report IR 04319657, Feb. 20, 2020
+JAF Issue Report IR 04259118, June 26, 2019
+JAF-RPT-FPS-01975, Revision 5, 10CFR50 Appendix R Safe Shutdown Analysis Report (SSAR)
+Page 3 of 3
+NRC FORM 366A (04-2020)

@@ -1,0 +1,308 @@
+Keith J. Polson
+Senior Vice President and CNO
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.6515 Fax: 734.586.1431
+Email: keith.polson@dteenergy.com
+DTE Energy-
+June 12, 2018 10 CFR 50.73
+NRC-18-0030
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Fermi 2 Power Plant
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2018-002
+Pursuant to 10 CFR 50.73(a)(2)(iv)(A) and 10 CFR 50.73(a)(2)(v)(D), DTE Electric
+Company (DTE) is submitting LER No. 2018-002, "Loss of Division 1 Offsite Power
+Causes Partial Loss of Feedwater Leading to ECCS Injection and Reactor Scram."
+No new commitments are being made in this submittal.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager -Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Senior Vice President and CNO
+Enclosure: LER No. 2018-002, "Loss of Division 1 Offsite Power Causes Partial
+Loss of Feedwater Leading to ECCS Injection and Reactor Scram"
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-18-0030
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+LER No. 2018-002, "Loss of Division 1 Offsite Power Causes Partial Loss of Feedwater
+Leading to ECCS Injection and Reactor Scram"
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY MB: NO. 3160-0104 EXPIRES: 0313112020
+(04-2018) Estimatebdu rdenp err esponstoe complnyi th thism andatocryo llectiorenq ues8t 0 hours.
+Reporteldes sons learneda re incorporatIendto t he Icensinprgo cessan d fed backt o
+LICENSEE EVENT REPORT (LER) Industy. Sendco mmernetgsa rdibnugr deens timattoet h ei nformatSioenvi ceBsr anch
+* (r-2 F43),U .S.N ucleaRr egulatoCryo mmissioWna, shingtoDnC, 2 0555-000o1r, bye -mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@annrcdt.go o tvh,e D esko fficeor,f ficeo f Informataionnd
+NUE-02 R.eo ntuto n udnefrcmltn hsfr RegulatAofrfya irNsE, OB-10(230125,0 -01O04ff)i,c oef ManagemaenndBt udget,
+c (See NUREG--1022, R.3 for instruction and guidance for completing this form aairs EC0 e s(3 to po an nforation collectdioone sn ot
+http://www.nrc.gov/reading-rm/doc-collections/nureas/staff/srl022/r3/) displaya ourentlvya ld OMBco ntronlu mbetrh, eN RCm ayn otc onducotr s ponsoar,n da
+persoins n otrequirteodr e spontdo ,t hei nformaticoonl lection.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2 05000 341 1 OF 5
+4. Title
+Loss of Division 1 Offsite Power Causes Partial Loss of Feedwater Leading to ECCS Injection and Reactor Scram
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year IIF Year a Se N c q u u m e b n e ti r a i l lItR No ev . yMIonthN Day aYemar Facileity Name Do 0 c 5 k 0 et 0 N 0 umber
+Docket Number
+04 14 2018 2018 - 002 - 00 06 12 2018 Facilty Name e0e
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+Q 20.2201(b) Q 20.2203(a)(3)(i) Q 50.73(a)(2)(ii)(A) E] 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 1I 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+E
+20.2203(a)(1) 20.2203(a)(4) Q 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 13 50.36(c)(1)(i)(A) / 50.73(a)(2)(iv)(A) E 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+El 20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 E] 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) / 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)()(B) E3 50.73(a)(2)(vii) Q 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) [:] Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. Complete One Line for each Component Failure Described In this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+E EA JA G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) / No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On April 14, 2018 at approximately 1040 EDT, a reactor scram on low reactor water level occurred due to a partial loss of
+feedwater accompanied by a reactor recirculation system scoop tube lock. The High Pressure Coolant Injection (HPCI) and
+Reactor Core Isolation Cooling (RCIC) systems automatically started in order to restore reactor water level as designed. Reactor
+water level was subsequently maintained using RCIC. No Safety Relief Valves actuated and the Primary Containment Isolation
+System responded as expected. The partial loss of feedwater and scoop tube lock were caused by a loss of Division 1 electrical
+power which occurred following a trip of the normal feed to Transformer 64, the 13.8 kV Bus 11 Position D breaker. Division 1
+Emergency Diesel Generators (EDGs), EDG-11 and EDG-12, automatically started and energized Division 1 buses. In addition,
+both Low Pressure Coolant Injection (LPCI) subsystems were declared inoperable while aligned to their alternate power source
+following loss of their normal power source. The LPCI subsystems were declared operable following realignment to their normal
+source after EDG-11 and EDG-12 were started. Investigation has determined the direct cause of this event to be moisture
+intrusion into the A6 cubicle of the Bus 1-2B enclosure, which caused a ground fault that tripped the Bus 11 Position D breaker.
+Immediate corrective actions were completed to eliminate moisture intrusion into the Bus 1-2B enclosure. The root cause
+evaluation determined that the organization failed to recognize the degradation of the Bus 1-2B enclosure as a failure
+mechanism of the A6 switchgear. Corrective actions to prevent recurrence include developing and implementing a Preventive
+Maintenance strategy for outdoor metal clad switchgear.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10131/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+- Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+* ""NEOB-10202, (3150-0104), Office of Managemanedn Btu dget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose an Information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 002 - 00
+NARRATIVE
+NARRATIVE
+INITIAL PLANT CONDITIONS:
+Mode 1
+Reactor Power: 100 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+On April 14, 2018 at approximately 1040 EDT, an automatic reactor scram on low reactor water level (Level 3) occurred
+due to a partial loss of feedwater [SJ] accompanied by a reactor recirculation system [AD] scoop tube lock. All control rods
+[AC] fully inserted, and the lowest reactor water level reached was approximately 102 inches above top of active fuel.
+Division 1 Emergency Diesel Generators (EDGs) [EK], EDG-11 and EDG-12, automatically- started and energized Division
+1 buses. The High Pressure Coolant Injection (HPCI) [BJ] and Reactor Core Isolation Cooling (RCIC) [BN] systems
+automatically started as designed on low-low reactor water level (Level 2) and restored reactor water level. Reactor water
+level increased until it reached high water level (Level 8), resulting in the HPCI, RCIC, and north reactor feed pump
+automatically tripping as designed at approximately 1043 EDT on April 14, 2018. Reactor operators subsequently
+maintained reactor water level in the normal level band by restarting and using RCIC. Reactor pressure was controlled
+using the main turbine bypass system [JI] to the main condenser [SJ]. The maximum pressure measured was
+approximately 1030 psig and no Safety Relief Valves [RV] actuated. Primary Containment Isolation System (PCIS) [JM]
+Groups 2, 4, 10, 11, 12, 13, 14, 15, 16, 17, and 18 associated with reactor water Levels 3 and 2 isolated as expected.
+Reactor cool down was controlled within Technical Specification and administrative limits.
+The partial loss of feedwater and scoop tube lock were caused by a loss of Division 1 electrical power which occurred
+following a trip of the normal feed to Transformer 64, the 13.8 kV Bus 11 Position D breaker [FK]. The result of the bus trip
+was a loss of power to Transformer 64, which then caused a loss of power to Division 1 emergency safety system Buses
+64B and 64C [EB] and balance of plant (BOP) Bus 64A [EA]. The Division 1 Offsite Circuit was declared inoperable,
+requiring entry into Technical Specification (TS) Limiting Condition for Operation (LCO) 3.8.1 under Condition D. The loss
+of BOP Bus 64A led to a trip of the center condenser pump, center heater feed pump, and both north and center heater
+drains pumps. As a result, the operating south reactor feed pump [SJ] tripped. The north reactor feed pump continued to
+operate. As designed, Division 1 power loss also caused reactor recirculation scoop tube locks and an automatic start of
+EDG-11 and EDG-12. The plant is designed with an automatic runback of the recirculation system to allow continued
+operation following the loss of a single feed pump. However, the loss of Division 1 power also resulted in the locking of the
+reactor recirculation pump speeds (scoop tube lock), disabling the runback feature. The south reactor feed pump trip and
+the reactor recirculation scoop tube locks led to a reactor scram on reactor water Level 3 since a single feed pump is not
+able to maintain reactor water level at 100% power operation. In addition, the loss of Division 1 power caused a trip of the
+North Reactor Building Closed Cooling Water (RBCCW) pump, resulting in initiation of Divisions 1 and 2 of Emergency
+Equipment Cooling Water (EECW) and Emergency Equipment Service Water (EESW).
+During this event, at approximately 1050 EDT on April 14, 2018 it was discovered that the Division 2 EECW Temperature
+Control Valve (TCV) controller was found in Emergency Bypass instead of staying in Auto mode as expected. In the
+Emergency Bypass configuration, the TCV operates in the Full Open position, which provides the maximum level of
+NRC FORM 366A (06-2016) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY ;MNBO: . 3150-0104 EXPIRES: 101312018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons leamed are incorporated Intot he licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+'". NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+httpI//www nrc.gov/readinq-rm/doc-collections/nuregs/staff/srl022/r3) NRC may not conduct or sponsor, and a person Is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 - 002 - 00
+NARRATIVE
+cooling. With the valve full open, continuous cooling of the EECW system and its supported components was assured,
+with the exception of Division 2 Control Center Heating, Ventilation, and Air Conditioning (CCHVAC) [VI] which has
+minimum temperature requirements that cannot be assured with maximum cooling applied. This rendered Division 2
+CCHVAC inoperable and, as a result, TS LCO 3.7.4 was entered under Condition A with corresponding Required Action
+A.1 due to one control center air conditioning subsystem being inoperable which required Division 2 CCHVAC be restored
+to operable status within 30 days. Also, due to loss of Division 1 offsite power and Division 2 CCHVAC being inoperable,
+TS 3.8.1 Required Action D.2 required Division 1 CCHVAC to be declared inoperable within 24 hours. However, by
+approximately 1120 EDT on April 14, 2018 the controller was placed in auto and proceeded to control normally, resulting
+in Division 2 CCHVAC being declared operable and TS 3.7.4 Required Action A.1 and TS 3.8.1 Required Action D.2 being
+completed. This was well within the Completion Times of the associated Required Actions, and was therefore allowable by
+plant TS.
+In addition, the loss of the Division 1 electrical power resulted in the expected automatic transfer from the normal (Division
+1) to alternate (Division 2) power source for the Low Pressure Coolant Injection (LPCI) [BO] swing bus. Certain LPCI
+valves are powered from the LPCI swing bus such that it must remain energized to support operability of both LPCI
+subsystems. Fermi 2 Surveillance Requirement (SR) 3.5.1.1 requires verification that the swing bus is energized from its
+normal source. As a result of not meeting SR 3.5.1.1, both LPCI subsystems were declared inoperable and TS LCO 3.5.1
+was entered under Condition K at approximately 1040 EDT on April 14, 2018, which required immediate entry into LCO
+3.0.3. With the plant already in Mode 3, LCO 3.0.3 required placing the unit in Mode 4 within 37 hours. However, during
+this event, the alternate power source continued to energize the LPCI swing bus until the bus was realigned to its normal
+power source at approximately 1239 EDT on April 14, 2018. At this time, LCO 3.5.1 and LCO 3.0.3 were exited. This was
+well within the allowable TS Completion Time and the alternate power source alignment would have ensured LPCI was
+capable of performing its associated functions if required.
+At the time of the scram, all of the Emergency Core Cooling System (ECCS) and the Emergency Diesel Generators were
+operable. No safety related equipment was out of service. EDG-11 and EDG-12 performed all their functions and provided
+power to the Division 1 AC buses. Division 2 Offsite Power was available throughout the event.
+A non-emergency notification was made to the NRC Operations Center at 1434 EDT on April 14, 2018 (Event Notification
+53336) in accordance with 10 CFR 50.72(b)(2)(iv)(A) and 10 CFR 50.72(b)(2)(iv)(B). An update to this notification was
+made at 1838 EDT on April 14, 2018 to provide additional information and clarification of reportability under 10 CFR
+50.72(b)(3)(iv)(A). A second update to this notification was made at 1950 EDT on April 15, 2018 to provide further
+information and clarification of reportability under 10 CFR 50.72(b)(3)(v)(D).
+This Licensee Event Report (LER) is being made pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that
+resulted in manual or automatic actuation of any of the systems listed in 10 CFR 50.73(a)(2)(iv)(B). The event resulted in
+actuation of the reactor protection system including a reactor scram, general containment isolation signals affecting
+containment isolation valves in more than one system, HPCI, RCIC, EDG-11, EDG-12, and EESW. In addition, this report
+is being made pursuant to 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented the fulfillment of
+the safety function of structures or systems that are needed to mitigate the consequences of an accident due to the
+inoperability of both subsystems of LPCI.
+NRC FORM 366A (06-2016) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 1013112018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+%P4A R", lessons leamed are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+C C U O NTINUATION S SH F5 E 3) E , T U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Officoef I nformation and Regulatory Affairs,
+"..*NEOB-10202, (3150-0104), Office of ManagemaenndBt udgeWta,s hington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an Information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/srl 022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 - 002 - 00
+NARRATIVE
+SAFETY SIGNIFICANCE CONSEQUENCES AND IMPLICATIONS
+This event posed no significant safety implications since the reactor protection and safety related systems functioned as
+required following the automatic reactor trip. Important safety-related and non-safety related equipment performed as
+discussed in the description of the event and plant transient response was as expected and consistent with UFSAR
+Chapter 15 accident analysis. The reactor scrammed as designed from the reactor water Level 3 signal and HPCI and
+RCIC automatically started as designed from the reactor water Level 2 signal. Reactor water Level 3 and Level 2 PCIS
+isolations occurred as expected. There was no increase in reactor pressure, and the reactor core was adequately covered
+and cooled throughout the event. EDG-11 and EDG-12 automatically started and performed all their functions as designed
+following loss of Division 1 offsite power. After the unit trip, reactor pressure was adequately controlled using the main
+turbine bypass valves and reactor water level was controlled using RCIC. Therefore, the health and safety of the public
+were not affected by this event. There were no radiological releases associated with this event.
+The safety function of the LPCI mode of the RHR system is to inject water from the suppression pool into the reactor
+vessel via injection lines connected to the reactor recirculation piping following a large break Loss of Coolant Accident
+(LOCA). Since a large break LOCA could occur in either one of the two reactor recirculation loops, the LPCI loop select
+logic function is designed to select the undamaged reactor recirculation loop for LPCI injection. By design, the valves
+associated with LPCI loop select in both subsystems are powered by the LPCI swing bus. To ensure the LPCI swing bus
+remains energized during a loss of power, such as is postulated to occur during the Design Basis Accident (DBA) LOCA,
+an automatic throwover scheme is provided to transfer to the alternate power source if the normal power source is lost.
+Under the conditions of this event with the LPCI swing bus energized from the alternate power source after a successful
+automatic throwover, the automatic LPCI injection to the reactor vessel remained capable of performing its function. Also,
+due to the successful start of the Division 1 EDGs, had a subsequent loss of Division 2 power occurred, the LPCI swing
+bus was capable of being automatically realigned to be energized by Division 1 power by the automatic throwover
+scheme. Therefore, LPCI injection, including loop select, would have been capable of performing its function had a large
+break LOCA and loss of all offsite power occurred during the time period of this event.
+CAUSE OF EVENT
+Investigation has determined the direct cause of this event to be moisture intrusion into the A6 cubicle of the Bus 1-2B
+enclosure, which caused a ground fault that tripped the 13.8 kV Bus 11 Position D breaker. The Bus 11 Position D breaker
+is the normal feed to Transformer 64. The result of the bus trip was a loss of power to Transformer 64, which resulted in
+loss of power to Division 1 emergency safety system Buses 64B and 64C and BOP Bus 64A.
+The root cause evaluation determined that the organization failed to recognize the degradation of the Bus 1-2B enclosure
+as a failure mechanism of the A6 switchgear. The 13.8 kV outdoor metalclad switchgear material condition had degraded
+over time and there were missing floor penetration seals. In addition, the Preventive Maintenance Program, the
+Maintenance Rule Program, and the Aging Management Program did not consider outdoor metalclad switchgear
+enclosures.
+The cause of the inoperability of both LPCI subsystems was the LPCI swing bus being energized from the alternate power
+source (Division 2) as a result of the loss of the normal power source (Division 1) described above.
+NRC FORM 366A (06-2016) Page 4 Of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+1 -4 i LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CCOI NTINUATION S S H In E fo E c T o llects.ResoF5u3),r cUe.S.@ Nuncleracr . R g eg o ula v to , r y Commission, Washington, DC 20555-0001, or by e-mail to
+and to the Desk Officer, Office of Information and Regulatory Affairs,
+°" "NEOB-10202, (3150.0104), Office of Management andB udget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an Information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 - 002 - 00
+NARRATIVE
+CORRECTIVE ACTIONS
+This event has been entered into the Corrective Action Program. Immediate corrective actions were completed to
+eliminate moisture intrusion into the A6 cubicle of the Bus 1-26 enclosure.
+Other corrective actions include: establish a Preventive Maintenance Strategy for all outdoor metal clad switchgear
+enclosures including appropriate Maintenance Rule functions; add an inspection requirement to the Metal Enclosed Bus
+Aging Management Program (AMP) and implementing documents; create and implement a monthly Operations walkdown
+checklist for outdoor metal clad switchgear; revise the System Engineering 120 kV Switchyard walkdown checklist to
+include outdoor metal clad switchgear; replace conduit seals for Bus 11, breaker D termination cabinet; and install conduit
+seals in the Bus 1-2B breaker A6 termination cabinet. Additional corrective actions were identified and entered into the
+Corrective Action Program to address contributing causes for this event.
+No corrective actions were necessary for the inoperability of both LPCI subsystems because the LPCI loop select
+functioned as designed. The operators realigned the LPCI swing bus to the normal power source (Division 1) following
+successful start of the Division 1 EDGs.
+ADDITIONAL INFORMATION
+A. Failed Component:
+Component: Outdoor Metal Clad Switchgear Enclosure
+Function: Protect the switchgear components from the environment
+Manufacturer: General Electric
+Model Number: M-26,36
+Failure Cause: Moisture Intrusion
+B. Previous Licensee Event Reports (LERs) on Similar Problems:
+LER 2012-005, "Reactor Scram Due to Loss of 120 kV Power," was submitted when the loss of Transformer 1 caused a
+loss of power to Transformer 64. The transient is similar to this event; however, the cause was determined to be animal
+intrusion that caused a phase to ground fault. Therefore, the corrective actions associated with this LER would not have
+prevented the current event.
+LER 2015-002, "Loss of both Divisions of the Residual Heat Removal Low Pressure Coolant Injection Functions due to
+480 Volt Swing Bus Inoperable," was submitted when the loss of the LPCI swing bus caused inoperability of LPCI loop
+select and both subsystems of LPCI. This is similar to the loss of the LPCI subsystems in this event; however, in the
+current event the LPCI swing bus functioned as designed under the event conditions. Therefore, the corrective actions
+associated with this LER would not have prevented the current event.
+NRC FORM 366A (06-2016) Page 5 of 5

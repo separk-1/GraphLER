@@ -1,0 +1,259 @@
+fl
+2807 West County Road 75
+Xcel Energy·
+Monticello, MN 55362
+RESPONSIBLE B V NATURE•
+800.895.4999
+xcelenergy.com
+April 18, 2018 L-MT-18-025
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Monticello Nuclear Generating Plant
+Docket 50-263
+Renewed Facility Operating License No. DPR-22
+LER 2017-006-01, Loss of Reactor Protection System Scram Function During Main Steam Isolation
+Valve and Turbine Stop Valve Channel Functional Tests due to Use of a Test Fixture
+Pursuant to 10 CFR 50. 73(a)(2)(v)(A) and 10 CFR 50. 73(a)(2)(v)(D), Northern States Power
+Company, a Minnesota Corporation (NSPM), doing business as Xcel Energy, hereby submits the
+Monticello Nuclear Generating Plant (MNGP) Licensee Event Report (LER) 2017-006-01.
+This LER is being supplemented to include the results of an Engineering Evaluation that concluded
+this condition does not constitute a safety system functional failure as defined by NEI 99-02
+Revision 7, "Regulatory Assessment Performance Indicator Guideline."
+TSumma/ry o4f Comm itments
+~/4ts and no revisions to existing commitments.
+Christophe~urch
+Site Vice President, Monticello Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure
+cc: · Administrator, Region 111, USNRC
+Project Manager, Monticello, USNRC
+Resident Inspector, Monticello, USNRC
+Minnesota Department of Commerce
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collecllon request: 60 hours.
+/''"'-..
+Reported lessons learned are incorporated Into the licensing process and fed back to Industry.
+'¥,'- LICENSEE EVENT REPORT (LER)
+• . i Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+~ .... ./ (See Page 2 for required number of digils/characlers for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose an information collection does not display a currenUy valid 0MB control number,
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D the NRG may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2.DOCKET NUMBER .PAGE
+Monticello Nuclear Generating Plant 05000263 1 OF4
+4. TITLE
+Loss of Reactor Protection System Scram Function During Main Steam Isolation Valve and Turbine Stop Valve
+Channel Functional Tests due to Use of a Test Fixture
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITY NAME DOCKET NUMBER
+11 14 2017 2017 -006 -01 04 18 2018
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: 1Check all that apply)
+0 20.2201 (b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1
+0 20.2201 (d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(8)(2)(x)
+10. POWER LEVEL D 20.2203(8)(2)(ii) 0 50.36(c)(1)(ii)(A) [8J 50.73(a)(2)(v)(A) D 73.71(8)(4)
+D 20.2203(8)(2)(iii) D 50.36(c)(2) D 50.73(8)(2)(v)(B) D 73.71(8)(5)
+100 D 20.2203(a)(2)(iv) D so.46(8)(3)(ii) D 50.73(8)(2)(v)(C) D 73.77(8)(1)
+D 20.2203(8)(2)(v) 0 50.73(8)(2)(i)(A) [8J 50.73(8)(2)(v)(D) D 73.77(8)(2)(i)
+D 20.2203(8)(2)(vi) D 50.73(8)(2)(i)(B) D 50.73(8)(2)(vii) D 73.77(8)(2)(ii)
+D so.73(8)(2)(i)(C) 0 OTHER Specify In Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT IIELEPHONE NUMBER (Include Area Code)
+!Andrew Kouba, Regulatorv Affairs Engineer 1(612) 342-8971
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (ff yes, complete 15. EXPECTED SUBMISSION DATE) ~ NO SUBMISSION N/A N/A N/A
+DATE
+V\BSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 14, 2017, it was identified that the use of the Reactor Protection System (RPS) test fixture described in some
+operations procedures would result in the loss of an RPS reactor Scram function. Technical Specification 3.3.1.1 requires
+lthat RPS Instrumentation for Table 3.3.1.1-1 Function 5, Main Steam Isolation Valve-Closure and Function 8, Turbine Stop
+rvalve-Closure, remain operable. It was concluded that a closure of three of four Main Steam Lines or Turbine Stop Valves
+would not necessarily have resulted in a full Scram during testing depending on the combination of closed valves occurring
+during the bypass condition. Operations procedures were revised to incorporate the use of the test fixture in December,
+2008 for the Turbine Stop Valve Closure Scram Test Procedure and February, 2009 for the Main Steam Isolation Valve
+Closure Scram Test Procedure. The operations procedures were inappropriately revised due to an inaccurate mental model
+lthat it was acceptable to use the test fixture on all RPS functions to prevent a half Scram.
+The operations procedures were quarantined until revisions were issued in December, 2017 that removed use of the test
+ixture.
+NRG FORM 366 (04-2017)
+NRC F , O . RM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+....... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated Into the licensing process and fed back to Industry. Send
+(:b.l'.\ LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the ln[ormation Services Branch (T-2 F43), U.S. Nuclear
+\'.Y...I. '/ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocoliects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office or Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose an Information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person Is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2017 -006 -01
+EVENT DESCRIPTION
+On November 14, 2017, the Monticello Nuclear Generating Plant (MNGP) was operating in Mode 1 at 100% Power. It was
+identified that the use of the Reactor Protection System (RPS) test fixture described in some operations procedures would result in
+the loss of an RPS reactor Scram function. The test fixture used in surveillance procedures 0008, Main Steam Isolation Valve
+Closure Scram Test Procedure and 0009, Turbine Stop Valve Closure Scram Test Procedure, unintentionally resulted in the loss
+ofTe chnical Specification (TS) Table 3.3.1.1 Function 5, Main Steam Isolation Valve-Closure and Function 8, Turbine Stop Valve-
+Closure. It was concluded that closure of three of four Main Steam Lines (MSLs) or Turbine Stop Valves (TSVs) would not
+necessarily have resulted in a full Scram during testing depending on the combination of closed valves during the bypass
+condition.
+Operations procedures were revised to incorporate the use of the test fixture on December 29, 2008 for the TSV Closure
+Scram Test Procedure and February 4, 2009 for the Main Steam Isolation Valve (MSIV) Closure Scram Test Procedure.
+Use of the test fixture was intended to eliminate the need to initiate half Scrams during calibration or functional testing of
+the RPS instrumentation.
+On March 7, 2009, the test fixture was first applied during the TSV functional test and during MSIV functional testing on
+July 11, 2009. The test fixture was applied during quarterly surveillances through September 16, 2017.
+On November 14, 2017, a condition report was generated after performance of an operating experience evaluation of a
+similar event at another station. The event was determined to be applicable to the MNGP and concluded that MNGP's
+method of using the test fixture for channel functional testing of the MSIV and TSV RPS functions makes the required
+number of operable instrument channels insufficient to meet the TS Bases B 3.3.1.1 description for Action C.1. The
+operations procedures utilizing the RPS test fixture were subsequently quarantined.
+On December 8, 2017 and December 11, 2017, the 0009 and 0008 surveillance procedures were revised to remove the
+use of the RPS test fixture.
+EVENT ANALYSIS
+The unintended loss of RPS trip functions during performance of RPS surveillance procedures 0008 and 0009 resulted in
+a NRC reportable condition under 10CFR 50.73(a)(2)(v) as, any event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to: 10 CFR 50(a)(2)(v)(A) shutdown the reactor
+and maintain it in a safe shutdown condition, and 10CFR 50(a)(2)(v)(D) mitigate the consequences of an accident.
+The RPS is arranged as two separately powered trip systems, trip system A and trip system B. The automatic trip logics
+of trip system A are trip logics A1 and A2. Similarly, the trip logics for trip system Bare trip logics B1 and B2. Each of the
+two trip logics used for automatic trip signals receives input signals from at least one trip channel for each monitored
+variable. Thus, two trip channels are required for each monitored variable to provide independent inputs to the trip logics
+of one trip system. At least four trip channels for each monitored variable are required for the trip logics of both trip
+systems.
+For Function 5, Main Steam Isolation Valve-Closure, the logic arrangement within the automatic Scram trip logic is
+arranged as such that a reactor trip occurs for the condition where three or more MSLs are less than 90% open. This
+means that one of two, or both, MSIVs in a MSL are less than 90% open. This occurs as the logic uses valves A and B
+for the A 1 trip logic, C and D for the A2 trip logic, A and C for the 81 trip logic, and B and D for the 82 trip logic. By
+varying the order in which the auxiliary relay contacts are paralleled within each RPS trip logic it can be assured that a
+half Scram will occur in each trip system even if a failure of all the MSL switches occurs on a MSL. In total, the MSIV
+closure function contains eight trip channels and four auxiliary relays per trip system.
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+,. ........... Estimated burden per response to comply with this mandatory collecUon request: 80 hours. Reported
+)\_ lessons learned are incorporated Into the licensing process and fed back to industry. Send
+,¥) LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the information Services Branch (T-2 F43), U.S. Nuclear
+...... Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocoilects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this fonn used to impose an information collection does not display a currently valid 0MB control number, the
+http:/NN1W.nrc.gov/reading-nn/doc-colleclions/nuregs/staff/sr1022/r3/l NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2017 -006 -01
+For Function 8, Turbine Stop Valve-Closure, the logic arrangement within the automatic Scram trip logics is arranged as
+such that a reactor trip occurs for the condition where three or more TSVs are less than 90% open. This occurs as the
+logic uses TSV-1 and TSV-2 for the A1 trip logic, TSV-3 and TSV-4 for the A2 trip logic, TSV-1 and TSV-3 for the B1 trip
+logic, and TSV-2 and TSV-4 for the B2 trip logic. By varying the order in which the auxiliary relay contacts are paralleled
+within each RPS trip logic it can be assured that a half Scram will occur in each trip system provided both contacts on a
+TSV fail. In total, the TSV closure function contains four trip channels and four auxiliary relays per trip system.
+When the test fixture is applied while testing Function 5, Main Steam Isolation Valve-Closure, in the A1 trip logic, the test
+fixture is applied over two different auxiliary relay contacts, which are arranged in parallel. The MSIV function contains
+two trip channel sensors (inboard and outboard MSIV limit switches) in series with the trip auxiliary relay. When the test
+fixture is applied, four trip channels or two MSL channels are placed in an inoperable status within a trip logic due to its
+parallel configuration. Similarly, when testing is performed on Function 8, Turbine Stop Valve-Closure, the test fixture is
+applied over two different auxiliary relay contacts, which are arranged in parallel. Each auxiliary relay receives input from
+a TSV trip channel sensor within a trip channel. When the test fixture is applied, two trip channels or TSVs are placed in
+an inoperable status within a trip logic due to its parallel configuration.
+While a valid Group 1 Isolation (closure of all four MSLs) would still have resulted in a full Scram, the TS Bases statement
+for operability of the MSIV logic was not met. Similarly, when the test fixture is applied for TSV testing two of the four
+channels are bypassed. A turbine trip resulting in a hydraulic trip signal to all four of the TSVs would still have resulted in
+a full Scram, however, the TS Bases statement for operability of the TSV logic was not met. Certain combinations of three
+of four MSLs and TSVs would not have resulted in a Scram. It is therefore concluded that MNGP's method of using the
+test fixture for channel functional testing of the MSIV and TSV RPS functions makes the required number of operable
+instrument channels insufficient to meet the TS Bases B 3.3.1.1 description for Action C.1. However, an Engineering
+Evaluation determined the MSIV and TSV RPS safety functions, to shut down the reactor and maintain it in a safe
+shutdown condition and mitigate the consequences of an accident as described by the Updated Safety Analysis Report,
+were maintained during functional testing. Therefore, the identified condition does not constitute a safety system
+functional failure as defined by NEI 99-02 Revision 7, "Regulatory Assessment Performance Indicator Guideline."
+TS 3.3.1.1 Condition C requires restoring RPS trip capability. For Function 5, Main Steam Isolation Valve-Closure, this
+would require both trip systems to have each channel associated with the MSIVs in three MSLs (not necessarily the same
+MSLs for both trip systems) OPERABLE or in trip (or the associated trip system in trip). For Function 8, Turbine Stop
+Valve-Closure, this would require both trip systems to have three channels, each OPERABLE or in trip (or the associated
+trip system in trip).
+The required action and completion time for TS 3.3.1.1 CONDITION C:
+C. REQUIRED ACTION -Restore RPS trip capability, COMPLETION TIME - 1 hour
+Condition C was applicable to both the MSIV and TSV RPS logic functional testing.
+The longest time the test fixture was applied during the last three years was 37 minutes for the MSIV surveillance and 62
+minutes for the TSV surveillance. TS 3.3.1.1 Required Action C.1 was not entered during the performance of the
+surveillance and in one case the test fixture was applied longer than the one hour allowance for restoring the inoperable
+RPS channel to service (62 minutes on January 6, 2017 for TSV testing). However, the channel functional test completion
+time of 62 minutes was within required four hours to reduce thermal power to less than or equal to 40% RTP per TS
+3.1.1.1 Required Action E.1.
+Page 3 of 4
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3160-0104 EXPIRES: 3/31/2020
+(04-2017). ... .... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(.~.. ~ . . ,J lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+.., ' CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office or Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office or Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currenUy valid 0MB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3D NRG may not conduct or sponsor, and a person Is not required to respond to, the information
+collection.
+1. FACtLITYNAME 2. DOCKETNUMBER 3. LERNUMBl:R
+YEAR SEQUENTIAL REV
+Monticello Nuclear Generating Plant 05000-263 NUMBER NO.
+2017 -006 -01
+SAFETY SIGNIFICANCE
+The RPS initiates a reactor Scram when at least one MSIV in three of four MSLs close (Function 5) or when three of four
+TSVs close (Function 8). The automatic MSIV and TSV closure reactor Scrams preserve the integrity of the fuel cladding
+and the Reactor Coolant System (RCS) in anticipation of the transients caused by closure of these valves.
+With the test fixture applied, certain combinations of three of four MSL or TSV closure signals would not necessarily have
+resulted in a full Scram. This condition would require a single failure, or multiple failures, within a RPS trip system that is
+being functionally tested. A single failure of an inboard or an outboard MSIV position indication switch associated with
+either MSL channel not bypassed by the test fixture will not prevent a half scram from occurring. Only the simultaneous
+failure of both the inboard and outboard valves to close, failure of both the inboard and outboard position indicating
+switches to open, or an auxiliary relay failure which causes an auxiliary relay to not drop out (armature binding) would
+defeat a scram. Similarly for TSV testing, a failure of a TSV to close, failure of a position indicating switch, or a failure of
+the auxiliary relay to drop out would need to occur to prevent a Scram. Each of these MSIV and TSV events would be
+highly unlikely to occur and would need to occur within the same trip system that is being functionally tested but on the
+opposite trip logic. As a result, the safety significance of this condition is low.
+While a valid Group 1 Isolation (closure of all four MSLs) would still have resulted in a full Scram, the Technical
+Specification Bases action statement for operability of the MSIV logic was not met. Similarly, a turbine trip resulting in a
+hydraulic trip signal to all four of the TSVs would still have resulted in a full Scram, however, the Technical Specification
+Bases action statement for operability of the TSV logic was not met.
+CAUSE
+Operations procedures were revised to incorporate the use of the test fixture to reduce the number of half Scrams
+received during surveillance testing in December, 2008 for the TSV Closure Scram Test Procedure and February, 2009
+for the MSIV Closure Scram Test Procedure, which unintentionally resulted in the loss of TS Table 3.3.1.1 Function 5,
+Main Steam Isolation Valve-Closure and Function 8, Turbine Stop Valve-Closure. The preparer and reviewers of the
+screenings and procedure changes did not recognize the installation of the test fixture disabled trip Function 5, Main
+Steam Isolation Valve-Closure and Function 8, Turbine Stop Valve-Closure. The preparer and reviewer had an inaccurate
+mental model that it was acceptable to use the test fixture on all RPS functions to prevent a half Scram. Due to the
+inaccurate mental model, the potential impact of the parallel auxiliary relay was not evaluated. This allowed the number of
+operable channels of both MSIV and TSV RPS functions to be reduced such that the RPS trip capability was not
+maintained as described by the TS 3.3.1.1 Bases B 3.3.1.1 description for Action C.1.
+CORRECTIVE ACTION
+The operations procedures were quarantined until December 8, 2017 and December 11, 2017 when the 0009 and 0008
+surveillance procedures were revised to remove the use of the RPS test fixture.
+PREVIOUS SIMILAR EVENTS
+There were no similar MNGP Licensee Event Reports during the past three years.
+Page 4 of 4
+NRG FORM 366A (06-2016)

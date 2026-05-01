@@ -1,0 +1,412 @@
+Exelon
+GenerationT.
+Clinton Power Station
+8401 Power Road
+Clinton. IL 61727
+U-604608 10 CFR 50.73
+SRRS 5A.108
+February 22, 2021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2020-003-00
+Enclosed is Licensee Event Report (LER) 2020-003-00: Reactor Core Isolation Cooling System
+Card Fuse Failure Results in a Condition Prohibited by Technical Specifications and That Could
+Have Prevented Fulfillment of a Safety Function Needed to Control the Release of Radioactive
+Material. This report is being submitted in accordance with the requirements of 10 CFR 50.7 3.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~
+Thom••D.~r
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2020-003-00
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to co~ly with this mandatory collection request 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch [T-6 AtOM), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Comrrission, Washington, CC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocollects.Resource@nrc.gov, and the OMB reviewer at OMB Ollice of Information and Regulatory
+http:/twww.nrc.gov/reading-rm/doc~llections/nureas/staff/sr1022/r3/l A sp ff o a n ir s s o . < , ( 3 a 1 n 5 d 0 . a 01 p 0 e 4 i ) s , o A n ttn is : no D t e r s e k q u a i i r l: e d o lo ira r e < s u p b on rr d i sl lo io , o a @ c o ol o le t c o 1 o io p n q o o v f . i nf T or h m e a N tio R n C u m nle a s y s n t o h t e co d n oc d u u m ct e o n r t
+requesting or requiring the oolection displays a currenly valid OMB con~ol number.
+1. Facility Name 2. Docket Number 3. Page
+Clinton Power Station, Unit 1 05000461 1 OF 3
+4. Title
+Reactor Core Isolation Cooling System Card Fuse Failure Results in a Condition Prohibited by Technical Specifications
+and That Could Have Prevented Fulfillment of a Safetv Function Needed to Control the Release of Radioactive Material
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Monlh Day Year Year Sequenllal Revision Month Day Year Facility Name Dockel Number
+Number No.
+05000
+12 26 2020 2020 - 003 - 00 02 22 2021 Facility Name Docket Number
+05000
+9. Operating Mode 110. Power Level
+1 098
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+10 CFR Part 20 20.2203(a)(2)(vl) so.as(c1121 50.73(a)(2)(1v)(A) 50.73(a)(2)(x)
+D D D D
+20.2201(b) 20.22oa(a)(a)(11 so.4s(a11a11u1 50.73(a)(2)(v)(A) 1·0 CFR Part 73
+D D D D D
+20.2201(d) 20.2203(a)(a)(111 so.ss(g) 50.73(a)(2)(v)(B) 1J.111a)(4)
+D D D D
+20.2203(a)(11 20.2203(a)(4) 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(C) 73.71(a)(s)
+D 20.2203(a)(2)(i) 10 C::FR Part 21 ~ 50.73(a)(2)(1)(B) D 50.73(a)(2)(v)(D) D 1a.11(a11111•1
+D D D D D
+20.2203(a)(2)(111 21.2(c1 50.73(a)(2)(i)(C) 50.73(a)(2)(vll) 73.77(a)(2)(1)
+D D D D
+20.22031a1(2)(1111 1'0 CFR Part 50 50.73(a)(2)(111(A) 50.73(a)(2)(vlli)(A) 1a.111a112)(111
+D D D D
+20.2203(ai(2)(1v) 50.36(c)(1)(1)(A) 50.73(a)(2)(11)(B) 50.73(a)(2)(vlll)(B)
+D D D D
+20.2203(a)(2)(v) 50.36(c)(1 )(ll)(A) so.1a(a112)(1111 50.73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRG 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+xx BN FU GE y
+14. Supplemental Report Expected Month Day Year
+[8I I D 15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 12/26/20, at 0205 CST, during performance of Reactor Core Isolation Cooling (RCIC) surveillance procedures, the
+Division 2 RCIC indication response was not as expected. Troubleshooting determined the indication response was
+due to failure of the Div. 2 RCIC-5 card, which provides an isolation signal. Technical Specification (TS) 3.3.6.1,
+Primary Containment and Drywell Isolation Instrumentation, was entered. Past operability review found that the
+condition existed from 12/21 /20, through 12/26/20, exceeding the TS 3.3.6.1, Action D.1, 24-hour action statement.
+The Div. 2 RCIC-5 card failed due to an internal blown fuse. The cause of the missed opportunity to identify the
+failure on 12/21/20 was Operations did not properly recognize the risk associated with the condition and initiate timely
+actions to evaluate the impact on operability. The card was replaced and tested on 12/26/20, at 1506 CST. Refresher
+training will be conducted for appropriate Operations personnel regarding the need to perform manual self tests or
+use alternate indications when anomalous indications or alarms occur. This condition is reportable under 10 CFR
+50. 73(a)(2)(i)(B) and 10 CFR 50. 73(a)(2)(v)(C). There was no impact to the health and safety of the public or plant
+personnel from this condition as the isolation safety function was maintained throughout the event. This event does
+not meet the criteria for a Safety System Functional Failure.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2C
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+(::·~-~'"'.'.'\ LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections
+Branch (T-6A10M), U. S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+\: ..'.!.'../ .l CONTINUATION SHEET e-mail to lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 725 17th Street NW, Washington, DC 20503; e-mail: oira submission@omb.eoo.oov. The NRC
+http :/lwww .nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) i
+m
+nf
+a
+o
+y
+r m
+n
+a
+o
+t
+t
+io n
+c o
+u
+n
+n
+d
+l
+u
+e
+c
+s
+t
+s
+o
+th
+r
+e
+s
+d
+p
+o
+o
+c
+n
+u
+s
+m
+or
+e
+,
+n t
+a n
+re
+d
+q u
+a
+e s
+p
+t
+e
+in
+r
+g
+s o
+o
+n
+r r
+i
+e
+s
+q u
+n
+i
+o
+ri
+t
+n g
+re q
+th
+u
+e
+i re
+c
+d
+o lle
+to
+c tio
+re
+n
+s p
+d
+o
+is
+n
+p
+d
+l ay
+to
+s
+,
+a
+a
+c u
+c
+r
+o
+re
+lle
+n
+c
+tl
+t
+y
+io
+v
+n
+a l
+o
+id
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2020 • 003 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Reactor Core Isolation Cooling System Card Fuse Failure Results a Condition Prohibited by Technical
+Specifications and That Could Have Prevented Fulfillment of a Safety Function Needed to Control the
+Release of Radioactive Material
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: December 26, 2020 Event Time: 0205
+Mode: 1 Mode Name: Power Operation Reactor Power: 098
+B. Description of Event
+On December 26, 2020, at approximately 0205 CST, during performance of Reactor Core Isolation
+Cooling (RCIC) system [BN] steam line flow and supply pressure surveillance procedures
+9030.01C034 and 9030.01C035, the Division 2 RCIC indication response was not as expected.
+Technical Specification (TS) 3.3.6.1, Primary Containment and Drywell Isolation Instrumentation,
+Action D.1, place affected channel in trip within 24 hours, was entered. Troubleshooting determined
+the indication response was due to a failure of the Division 2 RCIC-5 card, D-A 14-A 112, which was
+not sending an isolation signal during the surveillance. The failed Division 2 RCIC-5 card was
+replaced and successfully tested on December 26, 2020, at 1506 CST and TS 3.3.6.1, Action D.1,
+was exited.
+The failed Division 2 RCIC-5 card provides an isolation signal that automatically initiates closure of
+appropriate Primary Containment Isolation Valves (PCIVs) and drywell isolation valves.
+A review for past operability found that the condition could have been identified during performance
+of procedure 9030.01C041, RCIC Turbine Exhaust Diaphragm Pressure, on December 21, 2020, at
+1515 CST, when an alarm did not occur as expected. Although the alarm was not required in order
+to meet TS surveillance requirements based on the procedure acceptance criteria, further
+investigation determined the failure was an indication the Division 2 RCIC-5 card was not providing
+an output isolation signal. Therefore, there is firm evidence that the condition existed from
+December 21, 2020, through December 26, 2020, which exceeded the TS 3.3.6.1, Action D.1, 24-
+hour action statement.
+NRC FORM 3E6A (08-2020)
+Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2(
+(08·2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections
+Branch (T·6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+CONTINUATION SHEET e-mail to lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 725 17th Street NW, Washington, DC 20503; e-mail: oira sullmiSsioo@omb.ego.ooy. The NRC
+http:/fwww.nrc.gov/readina-rm/doc-collections/nuregs/stafflsr10221r3/l
+i
+m
+nf
+a
+o
+y
+r m
+n
+a
+o
+ti
+t
+o n
+c o
+u
+n
+n
+d
+le
+u
+s
+ct
+s t
+o
+h
+r
+e
+s
+d
+p
+o
+o
+c
+n
+u
+s
+m
+or
+e
+,
+n t
+a n
+re
+d
+q u
+a
+e s
+p
+ti
+e
+n
+r
+g
+s o
+o
+n
+r r
+is
+e qu
+n
+i
+o
+ri
+t
+n g
+re
+t
+q
+h
+u
+e
+ir e
+c
+d
+o lle
+to
+ct io
+re
+n
+s p
+d
+o
+is
+n
+p
+d
+l ay
+to
+s
+,
+a
+a
+c u
+c
+r
+o
+re
+lle
+n
+c
+tl
+t
+y
+io
+v
+n
+a t
+o
+ic
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2020 • 003 00
+NARRATIVE
+C. Cause of the Event
+An analysis of the failed Division 2 RCIC-5 card, D-A 14-A 112, identified a blown fuse [FU] internal to
+the card.
+The cause of the failure to identify the failed card on December 21, 2020, was Operations did not
+recognize the risk associated with the condition and did not initiate actions to evaluate the operability.
+D. Safety Consequences
+The condition described in this LER is reportable under 10 CFR 50. 73(a)(2)(i)(B), any operation or
+condition which was prohibited by the plant's Technical Specifications. Because this condition
+affected one division of RCIC logic, the safety function to automatically initiate closure of appropriate
+PCIVs and drywell isolation valves was maintained and would have initiated if required. However,
+during performance of surveillance procedures 9030.01 C034 and 9030.01 C035 on December 26,
+2020, the redundant automatic isolation capability was removed from service, creating a short
+duration loss of containment isolation function. This condition is reportable under 10 CFR
+50.73(a)(2)(v)(C) as a condition that could have prevented the fulfillment of the safety function of a
+system needed to control the release of radioactive material. Evaluation of the impact of this leakage
+pathway determined that the containment function would be met by Operations personnel using
+existing procedures to perform manual isolations if automatic isolations did not occur as expected, if
+an event had occurred. Therefore, there was no impact to the health and safety of the public or plant
+personnel from this condition. This event does not meet the criteria for a Safety System Functional
+Failure.
+E. Corrective Actions
+The failed Division 2 RCIC-5 card was replaced and successfully tested on December 26, 2020, at
+1506 CST.
+Refresher training will be conducted for appropriate Operations personnel regarding the Nuclear
+System Protection System (NSPS) self-test system, how it is used to meet surveillance requirements,
+and the need to perform manual self tests or use alternate indications to verify channel operability
+when anomalous indications or alarms occur.
+F. Previous Similar Occurrences
+A review of previous LERs did not identify any events that were similar to the condition described in
+this LER.
+G. Component Failure Data
+The Division 2 RCIC card that failed is a NSPS (Essential Logic) RCIC-5 made by GE.
+NRC FORM 366A (08-2020)
+Page _ 3 _ of _ 3_

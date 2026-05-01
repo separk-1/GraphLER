@@ -1,0 +1,177 @@
+Jack McCoy
+Manager
+Regulatory and Emergency Planning
+River Bend Station
+225-381-3310
+RBG-48377
+10 CFR 50.73
+October 20, 2025
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 / 2025-006-00, Potential Loss of Safety
+Function of Control Building Chillers Due to a Valve Mispositioned
+River Bend Station – Unit 1
+NRC Docket Nos. 50-458
+Renewed Facility Operating License No. NPF-47
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report.
+This document contains no commitments.
+Should you have any questions, please contact Mr. Jack McCoy, Regulatory and Emergency
+Planning Manager, at 225-381-3310.
+Respectfully,
+Jack Digitally signed by Jack McCoy
+DN: cn=Jack McCoy, o=Manager
+Regulatory and Emergency Preparedness,
+McCoy o e u m = a E il n = t j e m r c g c y o / y R 1 iv @ e e r n B t e e n rg d y , .com
+Date: 2025.10.20 10:46:56 -05'00'
+JM/hpk
+Enclosure: Licensee Event Report 50-458 / 2025-006-00
+cc: NRC Region IV Regional Administrator - Region IV
+NRC Senior Resident Inspector - River Bend Station
+NRC Office of Nuclear Security and Incident Response
+Entergy Operations, Inc., 5485 U.S. Highway 61N. St. Francisville, LA 70775
+Enclosure
+RBG-48377
+Licensee Event Report
+50-458/2025-006-00
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-204) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See Page 2 for required number of digits/characters for each block)
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+River Bend Station, Unit 1 00458 1 of 3
+052
+4. Title
+Potential Loss of Safety Function of Control Building Chillers Due to a Valve Mispositioned
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year S N eq u u m e b n e ti r al R N e o v . Month Day Year N/A 050
+Facility Name Docket Number
+8 23 2025 2025 006 00 10 20 2025 052
+N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1)(i) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+Other (Specify here, in abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Jack McCoy (225) 381-3310
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+A VI CHU W120 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes(If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On August 23, 2025, at 1433 CDT, River Bend Station, Unit 1 (RBS) was operating in Mode 1 at 100% reactor power,
+a post maintenance test was being performed on Division II Control Building Chilled Water System Chiller B (HVK-
+CHL1B). During this test, Division I Control Building Chilled Water System (HVK) was declared Inoperable as a result
+of HVK Chiller A (HVK-CHL1A) failing to start.
+HVK-CHL1A failed to start due to the HVK Low Side Isolation Valve, HVK-FTY5B-V2L, being in the closed position.
+The closed isolation valve prevented a “low flow” signal from the transmitter and render Division I of the HVK Chillers,
+HVK-CHL1A and HVK-CHL1C, inoperable. Operations immediately alternated back to HVK-CH1B, with HVK-CH1C in
+standby.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an event that
+could have prevented the fulfillment of the safety function of structures or systems that are needed to shut down the
+reactor and maintain it in a safe shutdown condition and mitigate the consequences of an accident.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to respond
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to, a collection of information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 NUMBER NO.
+00458
+052 2025 006 00
+NARRATIVE
+Event Description
+On August 23, 2025, at 1433 CDT, River Bend Station, Unit 1 (RBS) was operating in Mode 1 at 100% reactor power, a post
+maintenance test was being performed on Division II Control Building Chilled Water System Chiller B (HVK-CHL1B) [VI:CHU].
+During this test, while transferring operation from HVK Chiller B (HVK-CHL1B) to HVK Chiller A (HVK-CHL1A), HVK-CHL1A failed
+to start. Division I Control Building Chilled Water System (HVK) was declared Inoperable. The inoperability of Division I and II
+Control Building Chilled Water Systems could have prevented the fulfillment of a safety function.
+HVK-CHL1A failed to start due to the HVK Low Side Isolation Valve, HVK-FTY5B-V2L, being in the closed position. The closed
+isolation valve prevented a “low flow” signal from the transmitter and render Division I of the HVK Chillers, HVK-CHL1A and HVK-
+CHL1C, inoperable. Operations immediately alternated back to HVK-CH1B, with HVK-CH1C in standby.
+Limiting Conditions for Operation (LCO) 3.7.3, Control Room Air Conditioning System Condition A (One control room AC subsystem
+inoperable) and 3.7.7, Control Building Air Conditioning System Condition A (one control building air conditioning subsystem
+inoperable) was entered.
+After further investigation, it was determined that Instrument and Control (I&C) Technicians manipulated HVK-FTY5B-V2L to the
+closed position earlier that day during performance of a work order to fill and vent transmitters on the Control Building Chiller 1B. The
+I&C Technicians failed to document the change of valve position as required by EN-MA-157, Maintenance Configuration Control,
+therefore the valve was not returned to its proper position (i.e., open).
+Event Cause
+The direct cause of this event was due to the misposition of HVK-FTY5B-V2L that resulted in the valve being left in the closed
+position by I&C Technicians.
+The causal factor was determined to be that the workers failed to stop work and notify supervision when a potential issue was
+encountered. The workers did not utilize EN-MA-157, Maintenance Configuration Control, before manipulating a valve. The workers
+failed to identify potential error traps and failed to utilize human performance tools as required by EN-HU-102, Human Performance
+Traps & Tools.
+Safety Assessment
+Dedicated operator actions had been established to maintain the safety function for the HVK system in the event that the standby
+chiller doesn’t start and the previously running chiller doesn’t start when alternating divisions of control building chilled water as a
+planned evolution. Safety function is maintained if a chiller is started within 23 minutes, which is the Environmental Design Criteria
+limitation. The safety significance of this event is low based on temperatures in the areas cooled by the HVK systems remained
+below maximum environmental design criteria and actions taken by Operations.
+Corrective Actions
+Completed:
+- Maintenance Department held a stand-down for a standards reset.
+- Maintenance Department maintained 100% Supervisor job oversight for 2 weeks following the event.
+NRC FORM 366A (04-02-2024) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to respond
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to, a collection of information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 NUMBER NO.
+00458
+052 2025 006 00
+In Progress:
+- Performance management actions will be used to reinforce the behaviors with the individuals to prevent recurrence.
+- Performance of observations to ensure human performance standards for procedure use and adherence are being observed and
+coached.
+Previous Occurrences
+One similar event was reported in LER 050/458-2020-001-00. The plant operating at 100 percent power, a post modification test
+was performed on Division I Control Building Chilled Water System Chiller A (HVK-CHL1A). During the test, both Division I and
+Division II Control Building Chilled Water Systems (HVK) were declared Inoperable resulting in a condition that could have prevented
+fulfillment of a safety function. The event occurred while transferring from operation of HVK-CHL1B to HVK-CHL1A as part of the
+test. The failure of HVK-CHL1A was attributed to a trip on a Phase Reversal alarm within the digital control logic, during post
+modification testing.
+NOTE: Energy Industry Identification System component function identifier and system name of each component or system referred
+to in the LER are annotated as (**XX**) and [XX], respectively.
+NRC FORM 366A (08-2020) Page 3 of 3

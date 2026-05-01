@@ -1,0 +1,251 @@
+Constellation,.,
+SVP-22-030 10 CFR 50.73
+May 20, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-30
+NRC Docket No. 50-265
+Subject: Licensee Event Report 265/2022-001-00 "Electromatic Relief Valve 3B Did Not
+Actuate Due to Incorrectly Oriented Plunger Well Plastic Guides"
+Enclosed is Licensee Event Report 265/2022-001-00 "Electromatic Relief Valve 3B Did Not Actuate
+Due to Incorrectly Oriented Plunger Well Plastic Guides," for Quad Cities Nuclear Power Station,
+Unit 2.
+This report is submitted in accordance with 10 CFR 50. 73(a)(2)(i)(B) for an operation or
+condition which was prohibited by the plant's Technical Specification.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Sherrie Grant at (309) 227-
+2800. ·
+Respectfully,
+Brian Wake
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+{See Page 3 for required number of digits/characters for each block) A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+{See NUREG-1022. R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eoo.gov. The.NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregslstaffisr1022/r3/) sponsor, and a person is not required to respond to, a collection of infomnation unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station Unit 2 05000 -026.5 1 OF 4
+4. Title
+Electromatic Relief Valve 38 Did Not Actuate Due to Incorrectly Oriented Plunger Well Plastic Guides
+5. Event Date 6. LER Number 7. Report Date 8, Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year F n a / c a il ity Name N D u o m c b k e e r t
+1----+---+-----1----+------+----il----+----t----'-1 05000
+03 21 2022 2022 - 001 - 00 05 20 2022 Facility Name Docket
+Number
+n/a
+05000
+9. Operating 10. Power
+Mode 4- Cold Shutdown Level 0%
+11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: (Check all that apply)
+(cid:143) (cid:143) (cid:143) 0
+20.2203(a)(2)(vi) 50.36(c)(2) 50. 73(al(2)(iv)(A) 50.73(a)(2)(x)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(b) 20.2203(a)(3)(i) 50.46(al(3)(ii) 50. 73(a)(2)(v)(A) .
+(cid:143) (cid:143) (cid:143) (cid:143) 0
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50. 73(a)(2)(v)(B) 73.71(a)(4)
+(cid:143) (cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+(cid:143) IZl (cid:143) (cid:143)
+20.2203(a)(2)(i) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1 )(i)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(ii) 50.73(a)(2)(i)(C) 50. 73(a)(2)(vii) 73. 77(a)(2)(i)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iv) 50.36( c )( 1) (i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(v) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(iii) 50. 73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+309-227-2813
+Rachel Luebbe
+13. Complete One Line for each Component Failure Described in this Report
+Reportable Reportable
+Cause System Component Manufacturer Cause System Component Manufacturer
+to IRIS to IRIS
+D SB RV G080 y
+14. Supplemental Report Expected Month Day Year
+[SI No D Yes (If yes, complete 15. Expected Submission 15. Expected Submission Date
+Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 21, 2022, with Unit 2 in shutdown, Electromatic Relief Valve (ERV) 2-O2O3-3B, 2B Main Steam Line Relief Valve, did
+not stroke in accordance with work package instructions. The valve was being tested to satisfy Technical Specification
+Surveillance Requirement (TS SR) 3.5.1.10, verify each Automatic Depressurizing System (ADS) valve actuator strokes when
+manually actuated. All other Unit 2 ADS valves were found to stroke satisfactorily.
+The cause of the failure was unclear vendor guidance and insufficient procedural guidance regarding the orientation for the
+installation of the internal plunger well plastic guides. The guides were incorrectly installed during rebuild which caused actuator
+binding. The failure will be prevented by revising the site maintenance rebuild procedure with input from the manufacturer.
+This event is being reported in accordance with 10 CFR 50. 73(a)(2)(i)(B), an operation or condition which was prohibited by the
+plant's Technical Specification. TS 3.5.1 Condition Hallows one ADS valve to be inoperable for a period of 14 days. This ADS
+valve was found to be inoperable for the entire cycle.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EX.PIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-cbllections/nureqs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station 05000- 254 YEAR NUMBER NO.
+2022 - 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Electromatic Relief Valve 38 Did Not Actuate Due to Incorrectly Orientated Plunger Well Plastic Guides
+CONDITION PRIOR TO EVENT
+Unit: 2 Event Date: March 21, 2022 Event Time: 1030 CDT
+Reactor Mode: 4 Mode Name: Cold Shutdown Power Level: 0%
+No structures, systems or components were inoperable at the start of this event that contributed to the
+event.
+A. DESCRIPTION OF EVENT
+On March 21, 2022, with Unit 2 in shutdown for refueling outage Q2R26, and during performance of the
+Technical Specification (TS) Surveillance Requirement (SR) 3.5.1.10, the 2-0203-38 Electromatic Relief
+Valve (ERV)[SB] failed to actuate. TS SR 3.5.1.1 O requires each Automatic Depressurizing System
+(ADS)[SB] valve actuator stroke when manually actuated. All other Unit 2 ADS valves were found to
+stroke successfully. The 2-0203-38 actuator was replaced and stroked successfully prior to completion
+of refueling outage Q2R26, restoring the system to operable.
+The 2-0203-38 ERV failed actuator was originally installed in March 2020 after having been rebuilt earlier
+in the month in preparation for refue.ling outage Q2R25. The actuator had been rebuilt in accordance
+with revision 10 of site maintenance rebuild procedure. In the April 2020, all the Unit 2 ADS ERVs were
+successfully stroked multiple times prior to unit startup from Q2R25, confirming no actuator binding was
+observed on any of the Unit 2 ERVs. Revision 11 of the site maintenance rebuild procedure, which
+included corrective actions from the 2-0203-3D ERV failure, was implemented in August 2020 after
+startup from the Q2R25 refuel outage.
+Initial assessment of the removed 2-0203-38 ERV was that solenoid actuator was burnt out and there
+was significant binding of the actuator. The actuator was sent to Constellation Powerlabs for further
+evaluation and cause determination, which was completed prior to startup from the Q2R26 refueling
+outage. An extent of condition review, including inspection of the other Unit 2 ERVs was performed as
+well as a review of the rebuild work instructions for the Unit 1 ERVs. No significant or similar issues with
+either unit's ERVs were found during the extent of condition review.
+NRC FORM 366A (08-2020) Page_2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EX.PIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+f'i!. §;.,V',._ ni:ou(.,~o"V regarding burden estimate to the FOIA, Library, and Information Collections Branch {T-6 A10M), U.S.
+i LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+"\ ' CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+•:tt:-•"'
+Washington, DC 20503: e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. nrc. g av/reading-rm/doc-collections/nu regs/staff/sr1 022/r3/l requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER N.UMBER
+YEAR SEQUENTIAL REV
+Quad Cities Nuclear Power Station 05000- 254 NUMBER NO.
+2022 - 001 00
+NARRATIVE
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B), an operation or condition which
+was prohibited by the plant's Technical Specification. TS 3.5.1 Condition H allows one ADS valve to be
+inoperable for a period of 14 days. The 2-0203-38 ERV was found to be inoperable for the entire cycle.
+B. CAUSE OF EVENT
+The cause of the failure was unclear vendor guidance and insufficient procedural guidance regarding
+orientation for the installation of the internal plunger well plastic guides. The internal plunger well plastic
+guides were found to be incorrectly installed in the 2-0203-38 ERV actuator, which caused actuator
+binding. Contributing to the failure was that the upper guide bracket did not have proper straightness and
+was found warped. This resulted in the plunger legs being out-of-squareness and increased friction with
+the plunger well.
+C. SAFETY ANALYSIS
+System Design
+The 2-0203-38 ERV is part of the ADS. The ADS consist of five valves (4 relief valves (ERVs) and one
+safety/relief valve (Target Rock valve)).
+Per the Updated Final Safety Analysis Report (UFSAR) 6.3.3.1.4, "The ADS is designed to depressurize
+the reactor to permit either the Low Pressure Coolant Injection (LPCI) or Core Spray subsystem to cool
+the reactor core during a small break Loss of Coolant Accident (LOCA)." Pressure relief of the reactor
+vessel may be accomplished manually by the operator or without operator action by the automatic
+depressurization circuitry.
+Safety Impact
+Per TS Bases 3.5.1 Condition H.1, with one ADS valve out of service, the overall reliability of the ADS is
+reduced, because a single failure in the OPERABLE ADS valves could result in a reduction in
+depressurization capability. In addition, TS Bases for SR 3.5.1.10 states the actuator of each of the ADS
+ERVs and the dual function safety/relief valves (S/RVs) is stroked to verify that the pilot valve strokes
+when manually actuated. The SR, together with the valve testing performed as required by American
+Society of Mechanical Engineers (ASME) code for pressure relieving devices, verify the capability of each
+relief valve to perform its function.
+Per UFSAR 6.3.3.1.4, Automatic Depressurization Subsystem, "All five available ADS valves were
+assumed operable in the LOCA analysis. One ADS valve from the five valves modeled in the LOCA
+analysis was assumed to fail for the single failure evaluation resulting in the operation of four valves
+being credited." Based on the ADS system design and accident/transient analysis, four of the five ADS
+valves are needed to perform the required safety function.
+An engineering evaluation concluded that the plant design/licensing bases are met with one failed ERV.
+Therefore, this is not a Safety System Functional Failure (SSFF). The extent of condition inspection on
+the other Unit 2 ERVs showed no actuator binding and the review performed on the Unit 1 ERVs found
+NRC FORM 366A (08-2020) Page_3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+l ~f>,Rl!'.;t,,. ,\
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+;,. CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+,,.,,_.1Hril•
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. nrc. gov/reading-rm/doc-collections/nuregs/stafflsr1 022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Quad Cities Nuclear Power Station 05000- 254 NUMBER NO.
+2022 - 001 00
+NARRATIVE
+no reason for potential actuator binding. The Target Rock valve design is significantly different from the
+ERVs. As a result, the rebuild procedure is different and the plastic guide orientation issue does not
+apply to the Target Rock valve. -
+This event is a Maintenance Rule Functional Failure (MRFF).
+D. CORRECTIVE ACTIONS
+Immediate:
+1. The site maintenance rebuild procedure was revised to address straightness of the upper guide
+bracket, using plunger and upper guide bracket as a single matched assembly, and information
+regarding the orientation of the plastic guides in August 2020.
+2. The 38 ERV and actuator were replaced and successfully tested during Q2R26.
+3. All other Unit 2 ERVs were inspected for a similar condition and successfully tested during
+Q2R26.
+Follow up:
+1. Review and enhance the site maintenance ERV rebuild procedure to ensure clear guidance on
+the installation of the plunger well plastic guides along with other procedure enhancements
+identified during the investigation. This procedure revision will be reviewed by the manufacturer
+to ensure correct positioning of various sub-components within the actuator.
+E. PREVIOUS OCCURENCES
+A review of previous QCNPS events revealed a similar event in 2020 in which the 3D ERV actuator was
+found to not actuate due to an out of specification plunger received from the vendor. The cause was
+different between the 3D ERV in 2020 and the 38 ERV in 2022.
+LER (265/2020-002-00) Electromatic Relief Valve 3D Did Not Actuate Due to Out of Specification Plunger
+- The cause of this 3D ERV failure was determined to be an out of specification plunger provided by the
+a
+manufacturer. The contributing cause was bent upper guide bracket. The out of specification plunger
+combined with the bent upper guide bracket caused excessive binding in the actuator. In the current 38
+ERV failure event, the actuator binding was caused by the internal plunger well plastic guides being
+incorrectly installed due to unclear vendor guidance regarding the orientation of the guides.
+F. COMPONENT FAILURE DATA
+Failed Equipment: Relief Valve Actuator
+Component Manufacturer: General Electric
+Component Model Number: 36282632G001
+Component Part Number: N/A
+This event will be reported to IRIS.
+NRCFORM 366A (08-2020) Page_4_ of _4_

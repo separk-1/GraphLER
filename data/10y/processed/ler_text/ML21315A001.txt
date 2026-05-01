@@ -1,0 +1,180 @@
+10CFR50.73
+Virginia Electric and Power Company
+Surry Power Station
+5570 Hog Island Road
+Surry, Virginia 23883
+November 11, 2021
+U. S. Nuclear Regulatory Commission Serial No.: 21-343
+Attention: Document Control Desk SPS: MMT
+Washington, D. C. 20555-0001 Docket No.: 50-280
+50-281
+License No.: DPR-32
+DPR-37
+Dear Sir or Madam:
+Pursuant to 10CFR50.73, Virginia Electric and Power Company hereby submits the
+following Licensee Event Report applicable to Surry Power Station Unit 1 and Unit 2.
+Report No. 50-280 / 2021-001-00
+This report has been reviewed by the Station Facility Safety Review Committee and will
+be forwarded to the Management Safety Review Committee.
+Douglas
+Site Vice esident
+Surry Power Station
+Enclosure
+Commitment contained in the LER: None
+cc: U.S. Nuclear Regulatory Commission, Region II
+Marquis One Tower, Suite 1200
+245 Peachtree Center Ave., NE
+Atlanta, GA 30303-1257
+NRC Senior Resident Inspector
+Surry Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Surry Power Station, Unit 1
+05000 280 1 OF 3
+4. Title
+Unanalyzed Condition Due to Appendix R Concern Identified With Cable Separation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+Surry Power Station, Unit 2 05000 281
+09 13 2021 2021 - 001 - 00 11 11 2021 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+N 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Douglas C. Lawrence, Site Vice President (757)365-2001
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 13, 2021, at 1822 EDT, an apparent non-compliance with 10 CFR 50, Appendix R, Section III.G.2 (separation
+of redundant fire safe shutdown equipment) was identified based on Operating Experience (OE) from North Anna Power
+Station (LER 2021-002-00). A review of the affected control circuits for the Unit 1 and Unit 2 Emergency Diesel Generator
+(EDG) output breakers and Emergency Bus feeder breakers identified a concern that damage to the control power circuits
+during a fire may affect the ability to provide emergency power on both units. An 8-hour non-emergency report was made per
+10 CFR 50.72(b)(3)(ii)(B) for an unanalyzed condition. Fire watches were established in the affected areas.
+The cause of this condition is the station’s original post-fire safe shutdown analysis did not accurately assess the impact on the
+equipment from associated cable damage due to fire for the select cables. Risk mitigating actions have been developed,
+implemented, and will continue to be performed until appropriate permanent corrective actions are in place to mitigate this
+condition.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(ii)(B) for “Any event or condition that resulted in the nuclear
+power plant being in an unanalyzed condition that significantly degraded plant safety.”
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Surry Power Station, Unit 1 280
+2021
+- 001 - 00
+NARRATIVE
+Plant Operating Conditions Prior to the Event
+Unit 1 - 100 Percent Power
+Unit 2 - 100 Percent Power
+1.0 Description of Event
+On September 13, 2021, at 1822 EDT, an apparent non-compliance with 10 CFR 50, Appendix R, Section III.G.2
+(separation of redundant fire safe shutdown equipment) was identified based on Operating Experience (OE) from North
+Anna Power Station (LER 2021-002-00). A review of the affected control circuits for the Unit 1 and Unit 2 Emergency
+Diesel Generator (EDG) output breakers (EIIS Component BKR, System EK) and Emergency Bus feeder breakers
+(EIIS Component BKR, System EK) identified a concern that damage to the control power circuits during a fire may
+affect the ability to provide emergency power on both units. An 8-hour non-emergency report was made per 10 CFR
+50.72(b)(3)(ii)(B) for an unanalyzed condition (EN #55459). This event is reportable in accordance with 10 CFR
+50.73(a)(2)(ii)(B) for “Any event or condition that resulted in the nuclear power plant being in an unanalyzed condition
+that significantly degraded plant safety.”
+Several control cables were identified within common fire areas that, if fire damaged, could prevent the availability of
+both trains of Emergency Diesel Generators (EDGs) (EIIS Component DG, System EK) to start and power their
+respective emergency buses (EIIS Component BU, System EB) required by the station's current Appendix R analysis.
+The following issues were found:
+1. Fire damage to control power cables for normal supply breakers may result in loss of control power and inability
+to power the emergency bus without manual operator actions outside of the main control room.
+2. Hot shorts on the normal supply breakers (EIIS Component BKR, System EK) could result in spurious breaker
+operations that may prevent EDGs and/or emergency buses from performing its Appendix R function.
+2.0 Significant Safety Consequences and Implications
+No significant safety consequences resulted from this event. Surry Appendix R analysis assumes all equipment within the
+fire area or zone is damaged; however, it is expected that damage would be minimized due to the defense in depth
+strategy for fire protection. Installed fire protection features are provided within the areas of concern to ensure fire damage
+to the impacted control cabling is minimized. All affected fire areas have installed area-wide fire detection and installed
+suppression systems. During this timeframe, Surry Units 1 and 2 operated at 100% power. The health and safety of the
+public were not affected by this event.
+3.0 Cause of the Event
+The cause of this condition is the station's original post-fire safe shutdown analysis did not accurately assess the impact on
+the equipment from associated cable damage due to fire for the select cables. In addition, the original Multiple Spurious
+Operations review effort failed to recognize applicability of EDG/Emergency Power scenarios for some areas for the plant.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Surry Power Station, Unit 1 280
+2021
+- 001 - 00
+NARRATIVE
+4.0 Immediate Corrective Action
+Fire watches were established in the Unit 1 Normal Switchgear Room, Unit 1 Cable Tray Room, Unit 1 Emergency
+Switchgear Room, and Unit 2 Cable Vault and Tunnel to mitigate the risk of fire and aid in early detection of fire. Risk
+mitigating actions have been developed, implemented, and will continue to be performed until appropriate permanent
+corrective actions are in place to mitigate this condition.
+5.0 Additional Corrective Actions
+A Reasonable Assurance of Safety (RAS) was developed with risk mitigating actions implemented until final resolution is
+completed. Procedures ECA-0.0 (Loss of All AC Power) and Flex Support Guidelines (FSGs) were reviewed to mitigate
+the results of a loss of all AC power conditions. Periodic reviews of applicable procedures and Fire Fighting Strategies for
+fires in areas of concern have been established. Prior to any unavailability of the Turbine Driven Auxiliary Feedwater
+(TDAFW) pump (EIIS Component P, System BA), guidance has been provided to pre-stage the Beyond Design Basis
+(BDB) Auxiliary Feedwater Pump.
+The station is currently evaluating design changes to eliminate the vulnerability.
+6.0 Actions to Prevent Recurrence
+The applicable control cables associated with the EDG output breakers and Emergency Bus normal feeder breakers are
+planned to be modified or manual actions are planned to be established, where applicable, to regain compliance as
+required by Appendix R Safe Shutdown Analysis.
+7.0 Similar Events
+A review of internal operating experience was performed, and no similar events were identified that were previously
+reported to the Nuclear Regulatory Commission.
+8.0 Additional Information
+Units 1 and 2 continued to operate at 100% power.
+NRC FORM 366A (08-2020) Page 3 of 3

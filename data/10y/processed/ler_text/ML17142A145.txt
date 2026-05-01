@@ -1,0 +1,234 @@
+Exelon
+Generation
+10 CFR 50.73
+LG-17-070
+May 22, 2017
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket Nos. 50-352
+Subject: LER 2017-003-00, Condition Prohibited by TS Due to Inoperable RPIS
+Enclosed is a Licensee Event Report (LER) which addresses a condition prohibited by
+Technical Specifications (TS) at Limerick Generating Station (LGS) Unit 1. The condition
+occurred when a Rod Position Indication System (RPIS) power supply failed. The alternate
+indication used to satisfy the TS action was subsequently determined to be invalid, given the
+failed power supply.
+The failure to meet the TS Action constituted a condition prohibited by TS. Therefore, this LER
+is being submitted pursuant to the requirements of 50.73(a)(2)(i)(B) for an Operation or
+Condition Prohibited by TS.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert 8. Dickinson at (610) 718-3400.
+Respectf~ly,
+fZJl-~
+Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017)
+Es11mated burden per response lo comply wilh lhis mandalory collechon request: 80 hours .
+....• ••iii.(., .. Repcrted lessons learned are incorpmaled into lhe licensing process and fed back lo induslry.
+• · ·~ (J :· • LICENSEE EVENT REPORT (LER) Send commenls regarding burden eslimale lo lhe lnformalion SeNices Branch (T-2 F43), U.S.
+~ .....~. } Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail lo lnfocollecls.
+..'\ ._, .,# (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to lhe Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collechon does not display a currenlly valid OMB control number, the
+htt12://www.nrc.gov/reading-rm/doc-coll?Q..tions/nurfil)s/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required lo respond to, lhe information
+colleclion.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 1 05000352 1 OF 4
+4. TITLE
+Condition Prohibited by TS Due to Inoperable RPIS
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAV YEAR
+NUMBER NO
+- FACILITY NAME DOCKET NUMBER
+03 22 17 2017 - 003 00 05 22 17
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3Hil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4) so.13(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4)
+D D D D
+20.2203(a)(2)(iiil so.36(c)(2l 50.73(a)(2)(v)(B) 73.71 (a)(S)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3)(iil 50.73(a)(2)(v)(C) 13.11(a)(1 i
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.77(a)(2)(il
+D 20.2203(a)(2)(vi) [8J 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 13.11(a)(2)(iil
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT r ELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance (610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU· REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A NA N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8J NO SUB D M A IS TE S ION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+A power supply in the Rod Position Indication System (RPIS) failed causing a Main Control Room (MGR)
+alarm and loss of several control rod position indications. Using the Four Rod Display, the control room
+operators determined the affected control rods and found approximately half of the control rods had no
+indication. Although the Four Rod Display did not show control rod position for these rods, the staff
+concluded that the Full Core Display indication satisfied control rod position indication requirements for a
+majority of the control rods that were either full-in or full-out. It was later determined that the Full Core
+Display indicates the last known position in memory which is not replaced until new data is received. In this
+case, no data would have been received for the control rods due to the power supply failure. The failure to
+identify loss of control rod position indication for the control rods caused a failure to meet the plant's
+Technical Specifications (TS) and is reportable under 1O CFR 50.73(a)(2)(i)(B). This condition existed for
+approximately 19.5 hours prior to the power supply replacement, which was greater than the TS required
+actions to determine rod position within 1 hour or be in hot shutdown within the following 12 hours.
+NRG FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office ol Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-colfections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2017 - 003 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 1 was operating in Operational Condition (OPCON) 1 at 100
+percent power at the time of the event. There were no other structures, systems, or components
+inoperable at the time of the event that contributed to the event.
+11. Description of the Event
+On 3/16/17 at 1724, the Unit 1 Main Control Room (MCR) received a Rod Position Indication System
+(RPIS) Inoperable alarm and identified that multiple control rod position indications were inoperable
+due to a failed power supply. The crew entered Technical Specification (TS) Limiting Condition for
+Operation (LCO) 3.1.3.7 Action a.1 which directs, "with one or more control rod position indicators
+inoperable, within 1 hour, determine the position of the control rod by using an alternate method." Of
+the 83 control rods with no indication on the four rod display, 81 control rods indicated the expected
+position of full-in or full-out on the full core display. A method of alternate control rod position
+determination was initiated for the remaining two control rods that were mid-position and thus had no
+indication.
+On 3/16/17 at 1819, to satisfy the TS LCO Action, the crew determined control rod position of the two
+control rods by using the RPIS test box. Therefore, the TS LCO 3.1.3.7 Action was documented as
+being satisfied.
+On 3/17/17 at 1251, the power supply was replaced and RPIS position indication was restored to
+operable. LCO 3.1.3.7 action was exited for all control rods.
+On 3/22/17, it was identified that the power supply failure rendered the full core display incapable of
+updating in response to a position change for the affected control rods. Subsequently, it was
+determined to not be a valid means that could be used to verify control rod position indication.
+The condition existed for approximately 19.5 hours prior to the power supply replacement, which is
+greater than the TS required actions to determine rod position within 1 hour or be in hot shutdown
+within the following 12 hours. Therefore, the failure to identify loss of control rod position indication
+and thus take the required TS actions is a condition prohibited by TS and is reportable under 1 O CFR
+50. 73(a)(2)(i)(B).
+Ill. Analysis of the Event
+On 3/16/17, Limerick Unit 1 MCR received an alarm for "RPIS INOPERATIVE" due to a power supply
+failure. Review of indicators by the control room staff found that several indicators were impacted
+and did not show control rod position for some of the control rods.
+The operating crew discussed the observed indications and impacts of the power supply failure.
+Since the majority of the impacted control rods were either full-in or full-out, it was concluded that the
+red or green indicator on the Full Core Display satisfied the RPIS rod position TS action for those
+control rods. This left two control rods without position indication. Rod position was obtained using
+an alternate method, which met the TS required action.
+NRG FORM 366A (04·2017) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons teamed are incorporated into !he licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43). U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2017 - 003 - 00
+NARRATIVE
+Following restoration of operability, it was identified that the failure of the power supply rendered the
+full core display incapable of updating in response to a position change for the affected control rods.
+An additional 81 control rods had no position indication while the power supply was failed.
+Therefore, it was determined that the TS required actions for the control rods had not been met
+following the power supply failure. TS 3.1.3.7 provides several options to either determine control rod
+position or insert the control rod within 1 hour after discovery. If one of these options cannot be met
+within 1 hour, an action is entered to be in hot shutdown within the following 12 hours. The time
+between the initial power supply failure and replacement of the power supply was approximately 19.5
+hours and exceeded the total 13 hours to complete the TS required shutdown.
+Following restoration of RPIS indication it was confirmed that the control rods had remained at their
+original positions. Per TS Bases, the RPIS system must be operable in order to ensure that the
+control rod pattern can be followed and therefore other parameters maintained within their limits. Per
+the Updated Final Safety Analysis Report (UFSAR) Section 7.7.1.2, the Reactor Manual Control
+System and RPIS Subsystem are power generation systems and not safety related, nor required to
+fulfill a plant safety function associated with any design basis events or transients. The RPIS system
+is not included in the Probabilistic Risk Analysis (PRA) program. There was no control rod
+movement that occurred and none was required during the time that rod position was inoperable.
+There was no safety consequence for this event.
+IV. Cause of the Event
+A Corrective Action Program Evaluation (CAPE) was performed to determine the cause of the failure
+to identify a loss of control rod position. The evaluation concluded that procedural guidance was
+inadequate in identifying what indicators are available given failure of the power supply.
+The lack of proceduralized guidance on which RPIS indicators are available to be used for RPIS
+operability and limitations on their use is the primary cause of this event. The procedures provide an
+incomplete list of indicators and no cautions or limitations on the "memory" within RPIS that could
+cause false indication. During this event, the procedure provided options to perform this via the
+Control Rod Position Report (preferred) or the Four Rod Display. The other potential indicators that
+provide control rod position were not addressed.
+Based on this evaluation, it was determined that the cause of this event is inadequate procedural
+guidance regarding control rod position indicators available and limitations on their use. This includes
+which indicators can be used to satisfy surveillance requirements and how to confirm that the
+indicated position is updating with current data. A contributor to this event is that Operations
+personnel were not aware that some RPIS indicators are based on system memory.
+NRC FORM 366A (04-2017) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the lnformatiOn Services Branch (T-2 F43). U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformabon and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31} collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2017 - 003 00
+NARRATIVE
+V. Corrective Actions Completed/Planned
+The Operations procedures for RPIS indication will be revised to address all available indicators and
+methods to verify the indicators are accurate. The training program will be updated with information
+on the memory used for control rod position indication.
+VI. Previous Similar Occurrences
+On 5/27/2006, a Unit 2 power supply failed causing a loss of rod position indication on the Plant
+Monitoring System, the Four Rod Display, and the Rod Worth Minimizer (RWM). The Full Core
+Display was initially used to verify all rods full-in or full-out. Following review of the vendor manual, it
+was determined that the Full Core Display was showing position from memory and not current
+position based on the failure. The power supply was replaced within the LCO action window. This
+event had similar action taken by the operators in use of the Full Core Display. This was a lost
+opportunity to revise procedures to document the findings regarding the Full Core Display indication.
+NRC FORM 366A (04-2017) Page _4_ of _4_

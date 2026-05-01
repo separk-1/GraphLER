@@ -1,0 +1,417 @@
+Kevin Cimorelli 
+Site Vice President 
+Susquehanna Nuclear, LLC 
+769 Salem Boulevard 
+Berwick, PA 18603 
+Tel. 570.542.3795 Fax 570.542.1504 
+Kevin.Cimorelli@TalenEnergy.com 
+TALEN~ 
+November 23, 2022 
+Attn: Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, DC 20555-0001 
+SUSQUEHANNA STEAM ELECTRIC STATION 
+LICENSEE EVENT REPORT 50-388/2022-001-00 
+UNIT 2 LICENSE NO. NPF-22 
+PLA-8033 
+ENERGY 
+10 CPR 50.73 
+Docket No. 50-388 
+Attached is Licensee Event Report (LER) 50-388/2022-001-00. The LER reports an event in 
+which both divisions of the Core Spray system were concurrently inoperable. This condition is 
+being reported in accordance with 10 CPR 50.73(a)(2)(v)(D) as an event or condition that could 
+have prevented fulfillment of a safety function. 
+There were no actual consequences to the health and safety of the public as a result of this event. 
+This letter contains no new or revised regulatory commitments. 
+~ 
+~ 
+ts LIi, ""-t._1, .. U, \'-oL 
+11... Cl.~\\..~\...'-\ 
+K. Cimorelli 
+Attachment: LER 50-388/2022-001-00 
+Copy: 
+NRC Region I 
+Mr. C. Highley, NRC Senior Resident Inspector 
+Ms. A. Klett, NRC Project Manager 
+Mr. M. Shields, PA DEP/BRP 
+
+ 
+ 
+NRC FORM 366 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION  APPROVED BY OMB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+(See Page 3 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this 
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+ 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send 
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+ 
+1. Facility Name 
+2. Docket Number 
+3. Page 
+Susquehanna Steam Electric Station, Unit 2 
+05000388 
+1 of 3 
+4. Title 
+ 
+Inadequate Performance of Loss of Safety Determination Resulting in Both Divisions of Core Spray Being Inoperable 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Rev 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+Docket Number 
+ 
+05000 
+09 
+26 
+2022 
+2022 -  001 - 
+00 
+11 
+23  
+2022 
+Facility Name 
+Docket Number 
+ 
+05000 
+9. Operating Mode 
+10. Power Level 
+1 
+100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: 
+(Check all that apply) 
+10 CFR Part 20 
+☐ 20.2203(a)(2)(vi) 
+☐ 50.36(c)(2) 
+☐ 50.73(a)(2)(iv)(A) 
+☐ 50.73(a)(2)(x) 
+☐ 20.2201(b) 
+☐ 20.2203(a)(3)(i) 
+☐ 50.46(a)(3)(ii) 
+☐ 50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+☐ 20.2201(d) 
+☐ 20.2203(a)(3)(ii) 
+☐ 50.69(g) 
+☐ 50.73(a)(2)(v)(B) 
+☐ 73.71(a)(4) 
+☐ 20.2203(a)(1) 
+☐ 20.2203(a)(4) 
+☐ 50.73(a)(2)(i)(A) 
+☐ 50.73(a)(2)(v)(C) 
+☐ 73.71(a)(5) 
+☐ 20.2203(a)(2)(i) 
+10 CFR Part 21 
+☐ 50.73(a)(2)(i)(B) 
+☒ 50.73(a)(2)(v)(D) 
+☐ 73.77(a)(1)(i) 
+☐ 20.2203(a)(2)(ii) 
+☐ 21.2(c) 
+☐ 50.73(a)(2)(i)(C) 
+☐ 50.73(a)(2)(vii) 
+☐ 73.77(a)(2)(i) 
+☐ 20.2203(a)(2)(iii) 
+10 CFR Part 50 
+☐ 50.73(a)(2)(ii)(A) 
+☐ 50.73(a)(2)(viii)(A) 
+☐ 73.77(a)(2)(ii) 
+☐ 20.2203(a)(2)(iv) 
+☐ 50.36(c)(1)(i)(A) 
+☐ 50.73(a)(2)(ii)(B) 
+☐ 50.73(a)(2)(viii)(B) 
+ 
+☐ 20.2203(a)(2)(v) 
+☐ 50.36(c)(1)(ii)(A) 
+☐ 50.73(a)(2)(iii) 
+☐ 50.73(a)(2)(ix)(A) 
+☐ Other (Specify here, in Abstract, or in NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include Area Code) 
+Derek R. Smith, Senior Engineer – Nuclear Regulatory Affairs  
+(570) 542-1377 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14. Supplemental Report Expected 
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+☒  No 
+☐  Yes (If yes, complete 15. Expected Submission Date) 
+ 
+ 
+ 
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+ On September 26, 2022, operators at the Susquehanna Steam Electric Station performed quarterly stroke time 
+testing of Unit 2 Emergency Service Water (ESW) to Turbine Building Closed Cooling Water and ESW to 
+Reactor Building Closed Cooling Water isolation valves. Performance of this surveillance results in the 
+inoperability of Unit 2, Division 2 of the Core Spray system. This surveillance was performed while Unit 2, 
+Division 1 of the Core Spray system was out of service for planned maintenance, resulting in both divisions of the 
+Core Spray system being inoperable and a loss of safety function. The condition was identified during the 
+subsequent shift while performing routine review of operator logs. The condition is being reported in 
+accordance with 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented fulfillment of a safety 
+function. 
+ 
+The cause of the event was determined to be inadequate performance of a loss of safety function determination, 
+which failed to identify a loss of safety function resulting from concurrent inoperability of both divisions of Core 
+Spray. This cause was attributed to human performance. There were no actual consequences to the health and 
+safety of the public as a result of this event. 
+ 
+ 
+ 
+<)P~ REc11~ 
+/~ {Ko~ 
+:; 
+_2l_ 
+i 
+~~~-Ir', ; 
+~,.,-:;-•'71 +01 
+•it-•~· 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+
+ 
+NRC FORM 366A   (08-2020) 
+ 
+Page  2  of  3 . 
+NRC FORM 366A 
+(08-2020) 
+ 
+U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104      
+EXPIRES: 08/31/2023 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+2.  DOCKET NUMBER 
+3.  LER NUMBER 
+Susquehanna Steam Electric Station, 
+Unit 2 
+05000-388 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+- 
+001 
+- 
+00 
+ NARRATIVE 
+ 
+ CONDITIONS PRIOR TO EVENT 
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power (RTP) 
+Unit 2 – Mode 1, approximately 100 percent RTP 
+ 
+EVENT DESCRIPTION 
+On September 26, 2022, operators at the Susquehanna Steam Electric Station performed quarterly stroke 
+time testing of the Unit 2 Emergency Service Water (ESW) [EIIS System Code: BI] to Turbine Building 
+Closed Cooling Water (TBCCW) [EIIS System Code: CC] and ESW to Reactor Building Closed Cooling 
+Water (RBCCW) [EIIS System Code: CC] isolation valves [EIIS Component Code: ISV]. Performance of this 
+surveillance results in the inoperability of Unit 2, Division 2 of the Core Spray system [EIIS System Code: 
+BG]. This surveillance was performed while Unit 2, Division 1 of the Core Spray system was out of service for 
+planned maintenance, resulting in both divisions of the Core Spray system being inoperable and a loss of 
+safety function. The condition was identified during the subsequent shift while performing routine review of 
+operator logs.  
+ 
+The following timeline demonstrates the sequence of events: 
+09/25/2022 ~ 09:00: The quarterly surveillance original start time is postponed due to conflicting work on the 
+Unit 2 RBCCW heat exchangers [EIIS Component Code: HX]. A condition report is generated for the 
+surveillance to be rescheduled after the completion of the Unit 2, Division 1 Core Spray planned 
+maintenance. 
+09/25/2022 ~ 19:45: Unit 2, Division 1 Core Spray planned maintenance begins. Limited Condition of 
+Operation (LCO) 3.5.1, “Emergency Core Cooling Systems (ECCS), Reactor Pressure Vessel (RPV) Water 
+Inventory Control, and Reactor Core Isolation Cooling (RCIC) System,” Condition A is entered to support this 
+work.  
+09/26/2022 ~ 05:00: During operations shift turnover, the need to track the postponed surveillance was 
+discussed. However, the oncoming Unit Supervisor completed turnover with the misunderstanding that the 
+surveillance needed to be completed during the Unit 2 RBCCW heat exchanger restoration. 
+09/26/2022 ~ 09:00: The surveillance is rescheduled for 09/27/2022, after the Unit 2, Division 1 Core Spray 
+planned maintenance was scheduled to be complete. 
+09/26/2022 ~ 14:00: Unit 2 RBCCW heat exchanger work is reported completed. Operations begins 
+preparation for performance of the quarterly surveillance. During this process, operations inadequately 
+performed a loss of safety function determination using a previously completed copy of the station procedure, 
+which did not identify the Unit 2, Division 1 Core Spray ongoing planned maintenance. 
+09/26/2022 ~ 14:08: Operations entered Condition C of LCO 3.7.2, “Emergency Service Water (ESW) 
+System,” due to Division 2 ESW being inoperable for performance of the surveillance. A peer check for entry 
+into the LCO condition was not received as required by station procedures. Investigation identified this as the 
+time the loss of safety function occurred. 
+09/26/2022 ~ 14:17: The surveillance on Division 2 ESW is completed. Operations exited Condition C of LCO 
+3.7.2. 
+ 
+
+ 
+NRC FORM 366A   (08-2020) 
+ 
+Page  3  of  3 . 
+NRC FORM 366A 
+(08-2020) 
+ 
+U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104      
+EXPIRES: 08/31/2023 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+2.  DOCKET NUMBER 
+3.  LER NUMBER 
+Susquehanna Steam Electric Station, 
+Unit 2 
+05000-388 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+- 
+001 
+- 
+00 
+ NARRATIVE 
+ 
+09/26/2022 ~ 19:00: The subsequent Operating crew on the next shift identified the loss of safety function 
+during routine review of operator logs; this review determined the condition existed for approximately 9 
+minutes. The condition was entered into the corrective action program.  
+ 
+This condition is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D) as a condition that could have 
+prevented fulfillment of a safety function. 
+ 
+CAUSE OF EVENT 
+The cause of the event was determined to be inadequate performance of a loss of safety function 
+determination by the Operator. The review failed to identify a loss of safety function resulting from concurrent 
+inoperability of both divisions of Core Spray, Division 1 of Core Spray for planned maintenance and Division 
+2 of Core Spray due to performance of a surveillance. This cause was attributed to human performance. 
+ 
+ANALYSIS/SAFETY SIGNIFICANCE 
+Based on engineering analysis of the event, Unit 2, Division 2 Core Spray could have performed its safety 
+function for this condition.  The Unit 2, Division 2 core spray room temperatures were evaluated with two core 
+spray pumps in operation without room coolers. Assuming the worst case, bounding scenario of complete 
+rupture of the TBCCW/RBCCW piping with the ESW isolation valves open, the resulting Core Spray room 
+temperatures would not have exceeded functionality limits. Therefore, Core Spray could have fulfilled its 
+safety function.  
+ 
+This event will not be counted as a safety system functional failure for the NRC performance indicator based 
+on the engineering analysis supporting the system’s ability to fulfill the safety function. There were no actual 
+consequences to the health and safety of the public as a result of this event. 
+ 
+CORRECTIVE ACTIONS 
+1. Coaching was performed with applicable operators per the station accountability and engagement 
+process procedure.  
+2. Revoked licensed operator qualifications for applicable operators pending remediation. 
+3. Perform focused observations of performance of loss of safety function determinations to assess Senior 
+Reactor Operators proficiency levels in the task.  
+ 
+COMPONENT FAILURE INFORMATION 
+Not applicable. 
+ 
+PREVIOUS OCCURRENCES 
+None. 
+ 

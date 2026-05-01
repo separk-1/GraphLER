@@ -1,0 +1,228 @@
+Constellation James A. FitzPatrick NPP
+P.O Box 110
+Lycoming, NY 13093
+Timothy C. Peter
+Site Vice President-JAF
+JAFP-23-0006
+January 31, 2023
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2022-002-01, Mode Switch Failed to Bypass Low Main Steam Line
+in Mode 2 Resulting in MSIV and RPS System Actuation
+Reference: FitzPatrick letter, LER: 2022-002, Mode Switch Failed to Bypass Low
+Main Steam Line in Mode 2 Resulting in MSIV and RPS System
+Actuation, JAFP-22-0048, dated November 22, 2022
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50. 73(a)(2)(iv)(A).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Mark Hawes, Regulatory Assurance
+Manager (Acting), at (315) 349-6659.
+TCP/mh
+Enclosure: LER: 2022-002-01, Mode Switch Failed to Bypass Low Main Steam Line
+in Mode 2 Resulting in MSIV and RPS System Actuation
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-
+(See Page 3 for required number of digits/characters for each block) 6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 4
+4. Title
+Mode Switch Failed to Bypass Low Main Steam Line in Mode 2 Resulting in MSIV and RPS System Actuation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+09 26 2022 2022 - 002 - 01 01 31 2023 N/A N/A
+9. Operating Mode 10. Power Level
+2 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+ 20.2201(b)  20.2203(a)(3)(i)  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73
+ 20.2201(d)  20.2203(a)(3)(ii)  50.69(g)  50.73(a)(2)(v)(B)  73.71(a)(4)
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.71(a)(5)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(1)
+ 20.2203(a)(2)(ii)  21.2(c)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)  73.77(a)(2)(i)
+ 20.2203(a)(2)(iii) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.77(a)(2)(ii)
+ 20.2203(a)(2)(iv)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+ 20.2203(a)(2)(v)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+OTHER (Specify in Abstract below or in NRC Form 366A).
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Mark Hawes, Regulatory Assurance Manager (Acting) 315-349-6659
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D JC HS G080 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 26, 2022, at 0306 EDT, while the reactor was sub-critical and inserting control rods for a
+planned refueling outage, James A. FitzPatrick Nuclear Power Plant (JAF) experienced a reactor scram and
+Group 1 isolation on low steam line pressure logic. As a result of Group 1 isolation signal seven out of eight
+Main Steam Isolation Valves (MSIV) isolated. ‘A’ outboard MSIV (29AOV-86A) failed to isolate on the initial
+signal. The Reactor Protection System (RPS) actuated, resulting in all control rods being fully inserted, and
+manual actuation of RCIC. This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+The RPS actuation was determined to be a failure of the reactor mode switch (05A-S1) to enact the logic
+required to bypass MSIV isolation on low main steam line pressure and RPS actuation on MSIV closed
+position. Operating Procedure OP-65 was revised to ensure proper switch contact logic is validated by
+redundant indications.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2022 – 002 – 01
+NARRATIVE
+Background
+The Reactor Mode Switch (05A-S1) controls the operating Plant
+Mode of the Reactor. It has four positions, Shutdown, Refuel, Start &
+Hot Stby, and Run. The pistol grip locking handle assembly drives 4
+banks of contacts with a total of 64 contacts.
+The Mode Switch contacts enact the plant parameter logic required
+by the Plant Mode for Reactor Protection System (RPS) [EIIS
+identifier: JE], Reactor Manual Control System [JD], Primary
+Containment Isolation System (PCIS) [JM], Refuel Interlocks [DF],
+Neutron Monitoring Systems [IG], and Plant Process Computer [ID] to
+ensure the correct setpoints and circuits are active.
+Event Description
+On September 26, 2022, James A. FitzPatrick Nuclear Power Plant
+(JAF) was reducing power for a planned plant shutdown for a refuel
+outage. At the time of the Scram, no structures, components, or
+systems were inoperable at the start of the event and contributed to the event. Control rods [AA] were being
+inserted and reactor power and pressure was decreasing.
+At 0230, operators placed the mode switch (05A-S1) in Startup/Hot Standby (Mode 2).
+At 0306, an unplanned Scram signal was received due to a Group 1 isolation on low main steam line [SB]
+pressure.
+All control rods were fully inserted. Main Steam Isolation Valves (MSIV) isolated except ‘A’ outboard MSIV
+(29AOV-86A) failed to close. PCIS isolated valves in multiple systems according to group 1 isolation. When
+the PCIS was reset, 29AOV-86A was then manually isolated.
+At 0530, Operators made the decision to place Reactor Core Isolation Cooling (RCIC) system [BN] in service
+to augment pressure and level to assist in transition to feedwater [SJ] and condensate [SD] systems. At 0751,
+RCIC was shut down and in a standby lineup.
+The NRC was notified of this event at 0541 by ENS 56119 in accordance with 10 CFR 50.72(b)(2)(iv)(B) RPS
+actuation while critical and 10 CFR 50.72(b)(3)(iv)(A) for systems actuation. A reactor engineering analysis of
+reactor criticality was performed for the period of time prior to the event, and it was determined that the reactor
+was sub-critical. On October 4, 2022, ENS 56119 was updated to retract 10 CFR 50.72(b)(2)(iv)(B).
+The ‘A’ outboard MSIV (29AOV-86A) failed to close, but the safety function for ‘A’ main steam line isolation
+was successful because the inboard MSIV isolated successfully. Failure of the MSIV to close was documented
+and evaluated under IR 04524581.
+Page 2 of 4
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2022 – 002 – 01
+Event Analysis
+The Scram was initiated by an RPS actuation, which was initiated by MSIV closure, and MSIV isolation
+actuation was initiated by low main steam line pressure. The RPS actuation on MSIV closed position, and
+MSIV isolation on low main steam line pressure are not required to actuate in Mode 2 and should have been
+bypassed by mode switch position contacts. Mode 2 supports conditions at low reactor power, such as startup
+and shutdown, where the analyzed plant transient events for these required system actuations are not
+applicable.
+The investigation confirmed the Mode Switch (05A-S1) was changed to Start & Hot Stby (Mode 2) by the
+Operator; however, some trip bypasses were not engaged. Moving the switch to Start & Hot Stby should have
+bypassed the low Main Steam Line Pressure MSIV closure and inhibit the scram on MSIV closure. However,
+as the plant reduced power for the planned refuel outage, the un-bypassed trip setpoints actuated Group 1
+isolation valves in multiple systems, including RPS, and MSIV system actuation. The automatic actuation of
+these systems and manual actuation of RCIC is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+The Failure Modes Causal Team (FMCT) identified the most likely cause of failure of proper switch contacts
+make-up as the mode switch was operated slowly to perform detailed inspection of switch components and
+gearing per scheduled preventative maintenance activity. This style of operation resulted in all contacts not
+making up properly when the switch was operated. Contributing, the operations procedural guidance did not
+include validation by multiple methods, that the Mode 2 logic was properly made up following mode switch
+manipulation.
+During Mode Switch troubleshooting the condition was not able to be repeated and no mechanical component
+degradation was identified. It is unlikely for multiple mechanistic failures to occur, on multiple channels, across
+two separate systems; therefore, the causal analysis focused on switch operation, logic validation, and
+corrective actions including Organizational and Programmatic changes.
+Cause
+The RPS and MSIV system actuation was caused by the Mode Switch 05A-S1 failing to enact the logic
+required to bypass the Group 1 isolation on Main Steam Line Low Pressure (PCIS) and the MSIV Closure
+RPS Trip when taken to the Start & Hot STBY position.
+Similar Events
+No similar events were identified at JAF.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: General Electric
+Manufacturer Model Number: SB-9
+Manufacturer Code: G080
+Component Code: HS
+FitzPatrick Component ID: 05A-S1
+Page 3 of 4
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2022 – 002 – 01
+Corrective Actions
+Completed Actions
+A Failure Mode Causal Team (FMCT) was formed to identify most likely causes and assist in completion of
+troubleshooting actions prior to plant start-up. During troubleshooting, no abnormal component degradation
+was identified when 05A-S1 was inspected. Prior to startup, 05A-S1 was tested satisfactorily.
+Operating procedure OP-65 revision was completed prior to reactor start-up adding requirements to ensure
+when the mode switch position is changed, the proper method of operation and switch contact logic is
+validated by redundant indications.
+‘A’ outboard MSIV (29AOV-86A) was repaired prior to startup with a new air pack and solenoid valve cluster
+assembly. The replaced items were sent to PowerLabs for failure analysis.
+Planned Actions
+Review risk analysis for worst case maintenance impacts in operational risk systems will be completed prior to
+next refuel outage.
+Case study on event reviewed with operations during training cycle.
+Safety Significance
+There were no actual or potential nuclear or radiological consequences during this event.
+Plant systems operated in response to this event as expected with the exception that a single component
+(29AOV-86A) of the MSIV system did not isolate. The redundant in inboard component fulfilled the safety
+function of the MSIV system. In addition, Safety/relief valves were not required to control pressure.
+References
+Issue Report, IR 04524574, Reactor Scram from Mode 2 During Plant Shutdown, dated September 26, 2022
+Issue Report, IR 04524581, ‘A’ Outboard MSIV Failed to Close on GP 1 Isolation, dated September 26, 2022
+Page 4 of 4
+NRC FORM 366A (08-2020)

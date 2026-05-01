@@ -1,0 +1,278 @@
+Indiana Michigan Power
+INDIANA Cook Nuclear Plant
+MICHIGAN One Cook Place
+POWER. Bridgman, Ml 49106
+indianamichiganpower.com
+An MP Company
+BOUNDLESS ENERGY-
+March 27, 2025
+AEP-NRC-2025-10
+10 CFR 50.73
+Docket No.: 50-316
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+11555 Rockville Pike
+Rockville, MD 20852
+Donald C. Cook Nuclear Plant Unit 2
+LICENSEE EVENT REPORT 316/2024-004-01
+2AB Emergency Diesel Generator Inoperable for longer than allowed by Technical Specifications
+In accordance with 10 CFR 50.73, Licensee Event Report (LER) System, Indiana Michigan Power
+Company, the licensee for Donald C. Cook Nuclear Plant Unit 2, is submitting as an enclosure to
+this letter the following report:
+LER 316/2024-004-01: 2AB Emergency Diesel Generator Inoperable for longer than allowed
+by Technical Specifications
+This LER is a supplement to LER 316/2024-004-00 (ML24316A006), which was previously
+submitted by letter dated November 11, 2024. The enclosed LER has been revised to update the
+Apparent and Root causes of the event and the associated corrective actions.
+There are no commitments contained in this submittal.
+Should you have any questions, please contact Mr. Michael K. Scarpello, Regulatory Affairs
+Director, at (269) 466-2649.
+;cA.~·
+~
+Scott A. Dailey
+Site Vice President
+MPH/sjh
+Enclosure: Licensee Event Report 316/2024-004-01 : 2AB Emergency Diesel Generator
+Inoperable for longer than allowed by Technical Specifications
+U. S. Nuclear Regulatory Commission AEP-NRC-2025-10
+Page 2
+c: EGLE - RMD/RPS
+J. B. Giessner -- NRC Region Ill
+NRC Resident Inspector
+N. Quilico -- MPSC
+R. M. Sistevaris --AEP Ft. Wayne
+S. P. Wall, NRC Washington D.C.
+A. J. Williamson -- AEP Ft. Wayne
+Enclosure to AEP-NRC-2025-10
+Licensee Event Report 316/2024-004-01: 2AB Emergency Diesel Generator Inoperable for
+longer than allowed by Technical Specifications
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04.()2-2024) Estimated burden per response mc omply with this mandatory collection request: 80 hours. Repor1ed I8SS011S
+.•¥·""'"'•,.\ LICENSEE EVENT REPORT (LER) l e e s a t r im ne a d te ar t e o in th c e o rp F o O ra IA te , d L i i n b t r o a r t y h , e a li n c d e ns In in fo g r m pr a o t c io e n s s C a o n ll d e c f t e io d n s b ac B k r a m nch in d ( u T s - t 6 r y. A S 10 e M nd ) , co U m . m S e . n t N s u r c e le g a a r n li R ng e g b u u la n t l o e r n y
+{ ..... "/! (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by emaH to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+--~,.. at: 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+b.UQ;llwww ari. ggm<ll1ilJg-1IDld12i;:s;gll11!.li1m!ilaYr£!gs/smlfl~cl QZZLQL) not required to respond to, a collection of information unless the doa,ment requesting or requiring the collection
+displays a currentiy valid 0MB control number.
+1. Facility Name [!] 050 2. Docket Number 3. Page
+Donald C. Cook Nuclear Plant Unit 2 00316 1 OF 3
+□ 052
+4. Title
+2AB Emergency Diesel Generator Inoperable for longer than allowed by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Faclllty Name Docket Number
+Month Day Year Year Number No. Month Day Year Cook Nuclear Plant Unit 1 ~ 050 315
+- -
+09 12 2024 2024 004 01 03 27 2025 Faclllty Name □ 052 Docket Number
+9. Operating Mode 110. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: {Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1 )(i)(A) □ 50.73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1 )(ll)(A) □ 50.73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50. 73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) ~ 50. 73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(8)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(9) ~ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(C) □ 73. 77(a)(2)(i) □ 73.1200(9)
+□ 20.2203(a)(2)(iv) ~ 50.73(a)(2)(i)(B) 0 50.73(a)(2)(v)(D) □ 73. 77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50. 73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Michael K. Scarpello, Regulatory Affairs Director (269) 466-2649
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+y
+X DG DRU WW
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[L] No □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 21, 2024, with Cook Nuclear Plant (CNP) Units 1 and 2 in Mode 1 at 100% power, the 2AB EDG failed to reach the required
+frequency during the slow speed start surveillance, per the required acceptance criteria range of 59.5 to 60.4 Hz. The failure to reach the
+required frequency was originally attributed to corroded connections on the Minimum Speed Threshold and Slow Start control relays.
+On July 23, 2024, the 2AB EOG, once again, failed to reach the required frequency during a surveillance run. The cause of the failure was
+determined to be an intermittent failure of the Digital Reference Unit (DRU). Due to the similar symptoms between the two failures of the 2AB
+EOG, it was determined that the 2AB EDG failure on May 21, 2024, was also due to a failure of the DRU. Due to the discovery that both EOG
+failures were a result of a failure of the DRU, the 2AB EOG was determined to be inoperable from the time the original condition was
+discovered on 05/21/2024 at 2115, until the time it successfully passed a surveillance after the DRU was replaced on 7/24/2024 at 2300.
+Therefore, the identified condition is reportable, for both units, in accordance with 10 CFR 50.73(a)(2)(i)(B) as a Condition prohibited by
+Technical Specifications. Furthermore, during this period of time, there were instances on Unit 2 where concurrent with the 2AB EOG, the 2CD
+EOG was inoperable, which results in being reportable per 10 CFR 50. 73(a)(2)(v) as an Event or Condition which could have prevented the
+fulfillment of a Safety Function. The Root Cause for the failure to properly identify and correct the May 21, 2024 EOG surveillance failure was I
+a lack of proper oversight and proper use of knowledge worker human performance tools during the Failure Investigation Process (FIP).
+Corrective Actions include formalization and improvements in qualifying FIP team management sponsors and team leaders.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nudear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nudear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nu regs/staff/ sr1 022/r3/)
+displays a currently valid 0MB control number.
+■
+1.
+.
+FA
+-
+CIL
+-
+ITY
+-
+NA
+-
+ME
+- ----------,
+r
+~
+-,
+050
+I2. DOCKET NUMBER
+YEAR
+3
+S
+.
+E
+L
+Q
+E
+U
+R
+E
+N
+N
+U
+T
+M
+IA
+B
+L
+E R
+REV
+Donald C. Cook Nuclear Plant Unit 2 00316 I □ NUMBER NO.
+~-I 1-0
+□ 052
+004
+NARRATIVE
+EVENT DESCRIPTION
+On May 21, 2024, with Cook Nuclear Plant (CNP) Units 1 and 2 in Mode 1 at 100% power, the 2AB Emergency Diesel
+Generator (EOG) [DG] failed to reach the required frequency during the slow speed start surveillance, per the required
+acceptance criteria range of 59.5 to 60.4 Hz. The failure to reach the required frequency was originally attributed to
+corroded connections on the Minimum Speed Threshold and Slow Start control relays.
+On July 23, 2024, the 2AB EOG, once again, failed to reach the required frequency during a surveillance run. The cause of
+the failure was determined to be an intermittent failure of the Digital Reference Unit (DRU). Due to the similar symptoms
+between the two failures of the 2AB EOG, it was determined that the 2AB EDG failure on May 21, 2024, was also due to the
+failure of the DRU.
+Unit 2 Limiting Condition of Operation (LCO) 3.8.1 requires two diesel generators (DGs) capable of supplying the onsite
+Class 1E power distribution subsystem(s) to be OPERABLE in MODE 1. Additionally, Unit 1 LCO 3.8.1 requires the Unit 2
+EDG(s) to be capable of supporting the associated equipment required to be OPERABLE by LCO 3.7.8, Essential Service
+Water (ESW) System [Bl]. If both Unit 1 ESW trains are cross-tied to Unit 2, then the two Unit 2 EDGs are required to be
+OPERABLE. The maximum COMPLETION TIME allowed to restore an inoperable EOG to OPERABLE status in MODE 1 is
+14 days. With this COMPLETION TIME not met, then the affected Unit is required to be in MODE 3 in 6 hours and MODE 5
+in 36 hours.
+Due to the discovery that both EOG failures were a result of a failure of the DRU, the 2AB EOG was determined to be
+inoperable from the time the original condition was discovered on 05/21/2024 at 2115, until the time it successfully passed a
+surveillance after the DRU was replaced on 7/24/2024 at 2300. The period of time that the 2AB EOG was determined to be
+INOPERABLE exceeds the time allowed by LCO 3.8.1. Therefore, the identified condition is reportable in accordance with
+10 CFR 50.73(a)(2)(i)(B) as a Condition prohibited by Technical Specifications, for Units 1 and 2.
+Additionally, during this period of time, it was determined that the redundant EOG (2CD) was INOPERABLE for surveillance
+and maintenance activities during the following times:
+05/22/2024 21 :08 -05/22/2024 22:33 U2 CD INOPERABLE for U1 ESW surveillance
+05/30/2024 07:05 - 05/30/2024 14:50 U2 CD INOPERABLE for maintenance
+06/03/2024 20: 15 -06/04/2024 01 :25 U2 CD INOPERABLE for surveillance activities
+07/09/2024 19:34 - 07/10/2024 00:15 U2 CD INOPERABLE for surveillance activities
+07/10/2024 20:52 - 07/10/2024 21:46 U2 CD INOPERABLE for U2 ESW surveillance
+Additionally, LCO 3.8.1 contains a Prescribed Action to declare supported systems inoperable upon discovery of the
+inoperability of redundant required features concurrent with DG inoperability, with a Completion Time of 4 hours. During the
+time that the 2AB EOG was determined to be inoperable, there were instances where supported systems should have been
+declared inoperable. Therefore, during these instances, as well as the 5 instances that 2CD EOG was INOPERABLE for
+surveillance and maintenance activities, the identified condition is reportable per 10 CFR 50.73(a)(2)(v) as an Event or
+Condition which could have prevented the fulfillment of a Safety Function for Unit 2.
+COMPONENT
+2-DGAB-DRU - 2AB EOG DRU
+NRC FORM 366A (04-02-2024) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04--02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back lo industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required lo
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currenUy valid 0MB control number.
+■
+1.
+.
+FAC
+-
+ILIT
+-
+Y N
+-
+AME
+- --------~ ~ 050
+I2. DOCKET NUMBER
+YEAR
+3
+S
+.
+E
+L
+Q
+E
+U
+R
+E
+N
+N
+U
+T
+M
+IA
+B
+L
+E R
+REV
+Donald C. Cook Nuclear Plant Unit 2 00316 I □ NUMBER NO.
+~-I 1-0
+□ 052
+004
+NARRATIVE
+CAUSE OF THE EVENT
+An Apparant Cause Evaluation (ACE) was performed to determine the cause of the 2AB EDG failures, and determined that
+Engineers and Technical Staff did not ensure assumptions and judgement were fully documented and conservative, clearly
+communicated to decision makers, or validated when investigating and evaluating irreproducible failure modes on the EDG
+Digital Reference Units (DRUs).
+Additionally, a Root Cause Evaluation (RCE) was performed to determine why the station failed to properly identify the
+correct cause of the May 2024 2AB Emergency Diesel Generator failure, and determined that the May 2024 Failure
+Investigation Process (FIP) lacked proper oversight to ensure the appropriate and proper use of knowledge worker human
+performance tools.
+CORRECTIVE ACTIONS
+Corrective Actions to Prevent Recurrence (CAPR) include:
+Develop qualifications for Duty Station Managers to serve as FIP Management Sponsors and FIP Designated Challengers,
+and for personnel to serve as FIP Team Leaders.
+Add a reference in the FIP Procedures to use PMP-4010-HUT-002, Human Performance Tools for Knowledge Workers, to
+validate assumptions.
+ASSESSMENT OF SAFETY CONSEQUENCES
+NUCLEAR SAFETY
+A probabilistic risk assessment (PRA) was performed to estimate the impact of the 2AB EDG inoperability on Core Damage
+Frequency (CDF) and Large Early Release Frequency (LERF). Further review of the condition was performed to identify
+appropriate PRA mapping for this assessment. This review concluded that for the frequencies observed during the failed
+surveillances, the 2AB EDG would have been able to meet its PRA success criteria. However, this review was unable to
+eliminate the potential for the failed DRU to result in an EDG failure during its mission time. To capture these insights, this
+assessment was performed by assuming a higher failure probability for the 2AB EDG.
+The evaluation used the average test/maintenance internal events and fire PRAs to estimate an increase in CDF and LERF
+over an assumed 63-day exposure time. These results are within the bounds for "Very Low Safety Significance" as
+described within NRC Inspection Manual Chapter 0609.
+INDUSTRIAL SAFETY
+There was no actual or potential industrial safety hazard resulting from the 2AB EDG lnoperability.
+RADIOLOGICAL SAFETY
+There was no actual or potential radiological safety hazard resulting from the 2AB EDG lnoperability.
+PREVIOUS SIMILAR EVENTS
+A review of Licensee Event Reports for the past five years found no similar events.
+NRC FORM 366A (04--02-2024) Page 3 of 3

@@ -1,0 +1,258 @@
+7
+Exelon Generation®
+~y
+Oyster Creek
+Route 9 South
+P.O. Box388
+Forked River, NJ 08731
+10 CFR 50.73
+RA-17-004
+January 24, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRC Docket No. 50-219
+Subject: Licensee Event Report (LER) 2016-001-01, "Failure of the #1 Emergency
+Diesel Generator During Surveillance Testing due to a Cooling Water
+System Leak."
+Enclosed is LER 2016-001-01, reporting the failure of the #1 Emergency Diesel
+Generator during surveillance testing due to a cooling water system leak which occurred
+on January 4, 2016.
+This event did not affect the health and safety of the public or plant personnel. This event
+did not result in a safety system functional failure. There are no regulatory commitments
+made in this LER submittal.
+Should you have any questions concerning this report, please contact Michael McKenna,
+Regulatory Assurance Manager, at (609) 971-4389.
+Respectfully,
+/Yl~el~~
+Michael F. Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRC Form 366, LER 2016-001-01
+cc: Administrator, NRC Region I
+NRC Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRC Project Manager - Oyster Creek Nuclear Generating Station
+NRCFOR.M 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) .,,,,. .......,
+Estimated burden per response to comply with this mandatory collection request 80 hours .
+l' ~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+\ 't ~ 4 .. ...... ,.o . " LICENSEE EVENT REPORT (LER) S B e ra n n d c h c o ( m T- m 5 e F n 5 ts 3 ) r , eg U a .S rd . in N g u c b l u e r a d r e n R e e g s u ti l m ato a r te y C to o m th m e is F s O io I n A , , W Pr a iv s a h c in y g t a o n n d , D In C fo r 2 m 0 a 5 t 5 io 5 n ·0 0 C 0 o 1 l , le c o t r i on b s y
+internet e:mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+digits/characters for each block) DC 20503. If a means used to impose an information collection does not display a currenHy valid
+OMB control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek, Unit 1 05000219 1 OF !
+4. TITLE
+Failure of the #1 Emergency Diesel Generator During Surveillance Testing due to a Cooling Water System Leak
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+)
+FACILITY NAME DOCKET NUMBER
+I SEQUENTIAL I REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A NIA
+- FACILITY NAME DOCKET NUMBER
+01 04 2016 2016 - 001 01 01 24 201z N/A NIA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 <d> 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50:73(a)(2)(viii)(B)
+N
+D D D D
+20.2203(a><1> 20.2203(a><4> 5o.73(a><2><m> 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50. 73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203<a><2l(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D D D D
+20.2203<a><2><m> 5o.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.22os{a.){2){1v) so.4a{a.){3){11) 50. 73(a)(2)(v)(C) rs.rr(a.)(1)
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D D 0
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+-· ·. D D
+_:/ ., _>.,:_-·, 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+··'· ' ''·
+12. LICENSEE CONTACT FOR THIS LER
+'
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Michael McKenna, Regulatory Assurance Manager (609)971-4389
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+E EK DG E147 y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 .t8J. SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 4, 2016, during the biweekly load test surveillance, the Emergency Diesel Generator (EDG) #1 tripped after g6
+minutes of operation and an unexpected Main Control Room alarm was received.
+Locally, at the EOG enclosure, it was discovered that the rubber pipe coupling that connects the coolant surge tank to the
+right bank cooling water pump inlet tee had ruptured and that the EOG #1 control circuitry processed the trip on low coolant
+pressure.
+EOG #1 was declared inoperable and in accordance with Technical Specification (TS) 3.7.C.2 Limiting Condition for
+Operation (LCO), the unit entered a seven day action period. The EDG #1 was returned to service on January 5, 2016, at
+0130 hours, following successful hose replacement and completion of the load test surveillance.
+The Root Cause investigation determined that an activity to reQlace the rubber QiQe couQling on a 12-year freguency was not
+established durinrfu;the initial imQlementation of Exelon's Electro-Motive Division Diesel Generator Performance Centered
+Maintenance (PC ) temQlate. .
+Ihis event resulted in an ~eration or Condition that was Prohibited by the Plant's Technical Specifications and is therefore
+being reported under 10C R50.73(a)(2)(i)(B). · ·
+NRG FORM 366 (11-2015)
+Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-219 YEAR NUMBER NO.
+2016 - 001 - 01
+NARRATIVE
+Description of Event
+On January 4, 2016, at approximately 0412 hours, the Oyster Creek Nuclear Generating Station (OCNGS)
+Emergency Diesel Generator (EDG) #1 was started for the normal biweekly load test surveillance in accordance
+with Procedure 636.4.003 (Diesel Generator 1 Load Test). At 0414 hours, the EDG #1 came up to rated load and
+at 0440 hours an unexpected alarm (T-4-b EDG 1 DISABLED), was received in the Main Control Room (MCR)
+when the EDG #1 controls processed a trip on low coolant pressure. MCR Operators noted the EDG #1 output
+breaker opened, the UNIT START light was not lit, and the UNIT IDLING light was briefly lit, then extinguished.
+Operators discovered locally at the EDG enclosure that the rubber pipe coupling that connects the coolant surge
+. tank to the right bank cooling water pump inlet tee had ruptured. The following local alarms were annunciated in
+the EDG #1 cubicle: ENG TRIP; GEN BKR TRIP, and LOW COOLANT PRESS. These indications were expected
+based on the "as found" condition of the hose and the mode of engine operation.
+Following the trip, the EDG #1 was declared inoperable in accordance with the Technical Specification 3.7.C.2
+LCO, which placed the plant in a 7-day action and resulted in an unplanned risk change from GREEN to
+YELLOW.
+EDG #1 was declared operable at 0130 hours on January 5, 2016, and plant risk was returned to Green, following
+the replacement of the rubber pipe coupling and successful post maintenance testing.
+'
+Equipment Description
+OCNGS is equipped with two identical EDG units. The function of the EDGs is to provide AC power to the Class
+1 E buses upon a loss of off-site power. The EDGs must be able to provide this power rapidly, within 1O seconds,
+upon demand. This condition is referred to as a fast start signal. If started with a fast start signal, a high jacket
+water temperature condition will not trip the EDG.
+The EDG units are General Motors Corporation, Electromotive Division (EMD) Model EMD 20-645E4, 20-cylinder,
+2-cycle, turbo-intercooled diesel engines, which drive their respective EMO A20C AC generators. Each unit is
+normally operated bi-weekly to demonstrate the ability to carry rated loading upon loss of offsite power to their
+respective buses. The EOG units are self-contained in enclosures inside the EOG vaults and are provided with air
+cooled radiators to remove waste heat.
+Each engine is equipped with two engine-driven cooling water pumps to provide jacket water coolant flow to the
+power assemblies in each cylinder bank and the turbocharger after coolers. The cooling water, which is
+demineralized water treated with Nalcool 2000 corrosion inhibitor, is maintained in a closed loop with a surge tank
+connected to a tee in the suction side of the pumps. The tank is equipped to accommodate the volume of coolant
+that drains from the radiators in the standby condition and provides adequate coolant level for pump net positive
+suction head during operation. The rubber pipe coupling which failed on EOG #1 was one of two on that engine,
+which provided a flexible connection between the tee and the bottom of the tank.
+To minimize the stress of a fast start, each engine is provided with an immersion heater in the coolant system and
+auxiliary oil pumps to circulate warm oil. The coolant system is designed for reverse natural circulation flow to
+provide for oil heating in standby conditions. In standby, the water level in the tank is approximately 14 inches
+higher thari during operation, where the water is displaced into the piping above the radiator.
+NRG FORM 366A (11-2015)
+Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-219 YEAR NUMBER NO.
+2016 - 001 - 01
+NARRATIVE
+Analysis of Event
+The failed rubber pipe coupling was sent to Exelon's PowerLabs for functional testing and analysis. PowerLabs'
+Failure Analysis Report (OYS-34217) concluded that the observations and data from the EDG #1 ruptured rubber
+pipe coupling and the EDG #2 non-failed rubber provided support that the progression of degradation took place
+from the inner diameter of the rubber coupling to the outer diameter. The most likely failure scenario of the EDG #1
+rubber coupling began with thermal degradation of the inner nitrile layer which caused it to harden and crack. This
+cracking allowed the coolant to come in contact with the rayon fabric reinforcement which degraded and weakened
+it. With the inner nitrile layer and the reinforcing layers compromised, the nitrile outer layer eventually became
+thermally degraded to a point that it could no longer withstand the pressure of the coolant during operation and the
+hose ruptured.
+Assessment of Safety Consequences
+Two EDG units serve as the Standby Power Supply for OCNGS by providing an emergency source of power to the
+4.16 kV buses 1C and 1 D in the event of a loss of normal power. The EDG units are designed to start·and load
+automatically, if required. Non-essential loads are automatically shed by undervoltage sensing devices on loss of
+offsite power to ensure that the units are not overloaded. The capacity of the EDG units is sufficient to sequentially
+energize for starting all safety-related pumps and auxiliaries required for a safe shutdown of the reactor in the
+event of a Design Basis Accident. The EDG units are independent of each other, with the exception of a common
+bulk fuel storage supply, and are provided with auxiliary systems to ensure reliable starting and continuous
+operation with no Operator attention. Power to start the EDG units is self-contained and is not dependent on the
+availability of any other source of normal plant power at the moment of initiation.
+· There are two types of automatic start signals to the EDG units. The first signal will cause the
+EDGs to start and idle. The second signal is considered the Fast Start Signal. The EDG allowable time response to
+a Loss of Offsite Power (LOOP) event is 20 seconds as a basis for Core Spray System response to accident
+conditions. The time response period includes undervoltage (UV) sensor pick-up time, Emergency Bus logic to
+isolate and actuate the EDGs and the period to bring the Emergency Buses to normal voltage level.
+The failure of the rubber pipe coupling on the cooling water system could have precluded EDG #1 from being able
+to start, load, and operate without interruption in the event of a degraded or loss of voltage condition. EDG #2
+would have continued to operate and would have supplied the 1 D 4160V bus as required to ensure power to the
+components required to achieve cold shutdown. Since the common cause for EDG #2 operability could not be
+clearly demonstrated based on available data, EDG #2 load test was successfully completed per TS Section
+3.7.C., for common mode applicability requirements, and was maintained in an operable condition in accordance
+with station procedures.
+Cause of Event
+The Root Cause investigation determined that an activity to replace the rubber pipe coupling on a 12-year
+frequency was not established during the initial implementation of Exelon's Electro-Motive Division Diesel Generator
+Performance Centered Maintenance CPCM) template.
+Additionally subsequent reviews following the implementation of the PCM templated missed the opportunity to identify
+that the cooling water expansion tank inner tee hoses were not captured as part of the Preventive Maintenance (PM)
+program.
+NRC FORM 366A (11-2015)
+Page 4 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budge~ Washington, DC 20503. II a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Oyster Creek, Unit 1 05000-219
+2016 001 01
+NARRATIVE
+The following immediate actions were taken:
+• Complex Troubleshooting was commenced.
+• The #2 EOG was placed in service to eliminate the potential for a common cause failure.
+• The failed rubber pipe coupling was replaced on EOG #1. (The opposite coupling was replaced in 2014)
+Corrective Actions
+_•_ Replaced both of the similar couplings on EOG #2.
+• Reviewed PM program for EOGs to ensure preventive maintenance is consistent with PCM template
+and vendors recommendations. ·
+Previous Occurrences
+There have been no similar, previous events resulting from a failure of a flexible fluid coupling on an EOG at
+Oyster Creek.
+Component Data
+Component IEEE 805 System ID IEEE 803A Function
+Emergency Diesel Generator EK OG
+N.RC FORM 366A (11-2015)

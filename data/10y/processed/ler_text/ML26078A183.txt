@@ -1,0 +1,155 @@
+Constellation
+Clinton Power Station
+8401 Power Road
+Clinton. IL 61727
+U-604869 10 CFR 50.73
+March 3, 2026
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Renewed Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Supplemental Licensee Event Report 2025-002-01
+Enclosed is Supplemental Licensee Event Report (LER) 2025-002-01: Automatic SCRAM on
+High Reactor Water Level. This report is being submitted in accordance with the requirements of
+10 CFR 50. 73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Derek Hillinger,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respeclf~
+FrankP~n;J rr-
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2025-002-01
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Clinton Power Station 00461 1 OF 2
+052
+4. Title
+Automatic SCRAM on High Reactor Water Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year n/a 050 n/a
+10 06 2025 2025 - 002 - 01 12 06 2025 Facility Name Docket Number
+n/a 052 n/a
+9. Operating Mode 10. Power Level
+Mode 1 23
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Derek Hillinger, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B SJ P G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 6, 2025, during reactor startup, the Clinton Unit 1 reactor automatically scrammed due to high reactor
+water level.
+The cause of the high reactor water level was a failure of a Turbine Driven Reactor Feed Pump (TDRFP) servo valve
+that resulted in excessive feedwater flow to the reactor vessel.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) for “Any event or condition that resulted in
+manual or automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of this section.” The specific
+system listed in that paragraph that actuated was the “Reactor protection system (RPS) including: reactor scram or
+reactor trip.”
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Clinton Power Station 00461
+ 052 2025 - 002 - 00
+NARRATIVE
+CONDITION PRIOR TO THE EVENT
+Unit: 1 Event Date: October 6, 2025 Event Time: 03:21 CST
+Mode: 1 Mode Name: Power Operation Reactor Power: 23%
+EVENT DESCRIPTION
+On October 6, 2025, during reactor startup from the Clinton Unit 1 refueling outage, Turbine Driven Reactor Feed
+Pump (TDRFP) ‘A ‘was placed in service. While manually raising the speed of the TDRFP, the operator noticed that there
+was no rise in speed initially. The operator attempted again to raise pump speed. Speed then rose rapidly to 1300 rpm and
+went above the target setpoint of 1000 rpm. The operator placed the pump speed control mode in automatic to lower
+speed. TDRFP speed stabilized for about a minute before speed unexpectedly began rising rapidly to 4300 rpm. The
+operator then tripped the TDRFP. At the time of the trip, reactor water level was approximately 47 inches and rising.
+Reactor water level continued to rise, and when it reached 52 inches, an automatic reactor scram occurred.
+CAUSE OF THE EVENT
+A Root Cause investigation determined the event was caused by scoring on the A-port side of the servo valve body,
+confirming abrasive interaction. The scoring, caused by lodged debris, increased friction or temporarily locked the servo
+swing plate. The servo motor had to overcome additional drag, which it could not do effectively. As a result, the valve did
+not respond to a decreasing demand signal, causing failure to control the operating cylinder responsible for closing the low-
+pressure steam control valve resulting in a Reactor Protective System (RPS) SCRAM on level 8.
+SAFETY CONSEQUENCES
+There were no safety consequences impacting plant or public safety as a result of this event. The reactor trip system
+responded automatically due to the trip signal received. Additionally, the TDRFP was tripped prior to the scram, so no
+additional feedwater would have been injected. There was no loss of any function that would have prevented
+fulfillment of actions necessary to 1) shutdown the reactor and maintain it in a safe shutdown condition, 2) remove
+residual heat, 3) control the release of radioactive material, or 4) mitigate the consequences of an accident
+There was no loss of safety function for this event.
+CORRECTIVE ACTIONS
+TDRFP B has the same control loop as TDRFP A and would be susceptible to the same failures under the conditions that
+occurred during start-up. To mitigate the same failures, the TDRFP B servo valve SV-2 was replaced before operation.
+To reduce risk during future startups, operating procedures will be changed to exclusively utilize a “rolling standby” mode
+before feeding the Reactor Pressure Vessel. Servo tested at power labs and final report of findings issued back to CPS.
+Prior data of historical start-ups that included perturbations of the feed pump show evidence of starting up and having
+potential material or air in the oil that works through the system during initial start-up.
+PREVIOUS OCCURRENCES
+A review of Licensee Event Reports for the past five years identified no previous similar occurrences at Clinton Power
+Station.
+NRC FORM 366A (04-02-2024) Page 2 of 2
+U-604869
+SUBJECT: Supplemental Licensee Event Report 2025-002-01
+bee:
+NRC Project Manager, NRR -Clinton Power Station
+Director - Licensing, Clinton Power Station Cantera
+Manager - Licensing, Clinton Power Station Cantera
+Constellation Document Control Desk Licensing
+F. Payne
+C Smith
+D. Hillinger
+C. Miller
+N. Lien
+Maintenance Rule Coordinator, V-130E
+Plant Fatigue Coordinator, V-130E
+Simulator Coordinator, V-922
+TREQ Coordinator, V-922
+D. Morton
+Licensing Vault Copy (SAAS SA.1 OB)

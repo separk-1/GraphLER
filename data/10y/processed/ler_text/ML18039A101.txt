@@ -1,0 +1,612 @@
+Entergy Operations, Inc.
+Entergx River Bend Station
+5485 U.S. Highway 61 N
+St. Francisville. LA 70775
+Tel 225-381-4157
+William F. Maguire
+Site Vice President
+RBG-47791
+October 12, 2017
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Licensee Event Report 50-458 / 2017-008-00
+River Bend Station - Unit 1
+Docket No. 50-458
+License No. NPF-47
+RBF1-17-0119
+Dear Sir or Madam:
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Mr. Tim
+Schenk at 225-381-4177.
+-
+Sincerely,
+WFM /dhw
+Enclosure
+cc: U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Blvd.
+Arlington, TX 76011-4511
+NRC Sr. Resident Inspector
+P. O. Box 1050
+St. Francisville, LA 70775
+INPO
+(via ICES reporting)
+Licensee Event Report 50-458 12017-008-00
+October 12, 2017
+RBG-47791
+Page 2 of 2
+Central Records Clerk
+Public Utility Commission of Texas
+1701 N. Congress Ave.
+Austin, TX 78711-3326
+Department of Environmental Quality
+Office of Environmental Compliance
+Radiological Emergency Planning and Response Section
+Ji Young Wiley
+P.O. Box 4312
+Baton Rouge, LA 70821-4312
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to compty with this mandatory collection request: 80 hours .
+• '>. .. .y• •" l't,~'\ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+!~'t Send comments regarding burden estimate to the Information Services Branch (T·2 F43). U.S.
+\. ....r.t.. .i (See Page 2 for required number of digijs/characters for each btock) Nuclear Regulatory Commission. Washington. DC 20555·0001, or by e·mail to Infocollects.
+' Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB·10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1 022. R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number,
+httQ:IIW'WW.nrc.gov/reading-rm/doc-colleclions/nur§gs/slaff/sr1 0221r3/) the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+t,
+1, FACILITY NAME " DOCKET NUMBER PAGE
+River Bend Station - Unit 1 05000-458 10F3
+4, TITLE
+Automatic Reactor Scram due to Failure of Main Feedwater Reaulator Transfer Relav
+5. EVENT DATE 6, LER NUMBER I 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH I DAY YEAR YEAR SE N Q U U M E B N E T R IA LI R N E O V . MONTH I DAY I YEAR I FACILITY NAME ; 1 D 0 O 50 CK 0 E 0 T NUMBER
+I FACILITY NAME I D OCKET NUMBER
+08 18 2017 2017 008 00 10 I 12 2017
+'05000
+1
+9. OPERAl lNG MODE 11, THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+o o o o
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+o
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+o o
+20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+o o
+20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) 12150.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+o o o
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+o o
+100 D 20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) D 73.77(a)(1)
+o o
+D 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+o o
+D 20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or In NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+rTim Schenk, Manager - Regulatory Assurance I 225-381-4177
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+I
+CAUSE SYSTEM COMPONENT I FA M C A T N UR U E · R I RE T P O O R E T P A IX B LE CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER REP TO O R E T P A IX B LE
+I
+0 SJ 83 Agastat I yes
+I
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+o
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~ NO I
+DATE
+1 1
+fA.BSTRACT (Limit to 1400 spaces, i.e., approximately 15 single·spaced typewritten lines)
+On August 18, 2017, at 8:55 p.m. CDT, an automatic reactor scram occurred while the plant was operating at 100 percent
+power. The operators promptly established control of reactor water level and pressure, and a controlled plant cooldown
+~as commenced. The initial scram signal was a flow-biased thermal power trip on the average power range monitors,
+rrhis action closely followed a planned shift of the master feedwater controller from channel"B" to channel "A."
+rrroubieshooting discovered that the feedwater level channel select relay had failed such that no signal was present on
+he "A" channel. When that channel was selected, the feedwater system erroneously sensed that reactor water level was
+low, and caused all three feedwater regulating valves to move fully open. At the same time, the false low water level
+signal was sensed in the control circuitry for the reactor recirculation system, resulting in an automatic shift of the
+recirculation pumps to slow speed. The resultant decrease in core flow caused the flow-biased thermal power trip in the
+average power range monitors, actuating the reactor scram. The failed feedwater system relay was replaced with an
+updated model with gold contacts. This condition is being reported in accordance with 10 CFR 50.73(a)(2)(iv) as an event
+resulting in the automatic actuation of the reactor protection system,
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04·2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T·2 F43). U.S. Nuclear
+Regulatory Commission, Washington, OC 20555·0001, or by e·mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB·10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1 022, R.3 for instruction and guidance for completing this fomn used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-mn/doc-collections/nuregs/staff/sr1 0221r3/) NRC may not conduct or sponsor, and a person is not required to respond to, Ihe information
+collection.
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER
+I YEAR SEQUENTIAL I REV
+River Bend Station - Unit 1 05000-458 NUMBER NO.
+2017 008 00
+I I
+NARRATIVE
+REPORTED CONDITION
+On August 18, 2017, at 8:55 p.m. COT, an automatic reactor scram occurred while the plant was operating at 100 percent
+power. The operators promptly established control of reactor water level and pressure, and a controlled plant cool down
+was commenced. No safety-related equipment was out of service at the time of the scram.
+!he initial scram signal was a flow-biased thermal trip on the average power range monitors (APRMs). This action closely
+ollowed a planned shift of the master feedwater [SJ) controller from channel"B" to channel "A." When the shift was
+made, all three main feedwater regulating valves unexpectedly moved fully open. At the same time, the reactor
+recirculation pumps shifted to slow speed.
+~his condition is being reported in accordance with 10 CFR 50.73{a){2){iv) as an event reSUlting in the automatic
+actuation of the reactor protection system.
+INVESTIGATION and CAUSAL ANALYSIS
+~t the time of the event, operators were performing a planned shift of the controlling channel of the master feedwater
+regulation system as part a scheduled surveillance test on the system.
+~roubleshooting discovered that the feedwater level channel select relay (**83**) had failed, such that no signal was
+present on the "A" channel. When that channel was selected, the feedwater control system erroneously sensed that
+reactor water level was low, and caused all three feedwater regulating valves to move fully open. The operator took
+manual control of the system to restore the feedwater regulating valves to their original positions.
+The false low water level signal was also sensed in the control circuitry for the reactor recirculation system. This initiated
+he automatic downshift of the recirculation pumps to slow speed, as designed. The decrease in core flow resulted in the
+low-biased thermal trip in the APRMs.
+The failure in the channel select relay was traced to degradation in the electrical contacts on the relay that caused a high
+resistance condition. This condition also masked an alarm that could have potentially alerted the operator to the fact
+hat the "A" channel was inoperative.
+The high resistance condition on the contacts was caused by the use of a relay model with silver contacts instead of gold
+contacts. Industry operating experience had shown that the Agastat GPI (silver contact) relay, when used in low-current
+applications, had a tendency to develop contact point oxidation that increased electrical resistance. A parts
+interchangeability evaluation had been performed in the past at River Bend to approve the Agastat GPIA with gold
+contacts as a replacement part. However, when that evaluation was performed, the part number for the model GPIA
+~as added to the appropriate design documentation, but the part number for the GPI was not deleted.
+NRC FORM 366A (04-2017) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED SY OMS: NO. 3150-0104 EXPIRES: 313112020
+(04·2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/ o ~ . . L~ ~ . · " r ~ ·l LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T·2 F43), U.S. Nuclear
+- .... "#'
+.~"., ~" Regulatory Commission, Washington, DC 20555·0001, or by e·mail to
+CONTINUATION SHEET
+Infocoliects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB·10202, (3150·0104). Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://WWN.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUVlBER
+YEAR SEQUENTIAL REV
+River Bend Station - Unit 1 05000-458 NUMBER NO.
+2017 008 00
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The failed GPI relay was replaced with a GPIA with gold contacts.
+Design documentation for the feedwater regulation system will be updated to reflect the model GPIA as the required
+replacement part. This is being tracked in the corrective action program.
+PREVIOUS OCCURRENCE EVALUATION
+No events with a common root cause have been reported by River Bend Station in the last three years.
+SAFETY SIGNIFICANCE
+ifhe plant response was bounded by the event described in the Updated Safety Analysis Report as a loss of the in-service
+Ifeedwater level transmitter signal. This event was thus of minimal significance to the health and safety of the public.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or
+system referred to in the LER are annotated as (**XX**) and [XX], respectively.)
+Page 3 of 3
+NRC FORM 366A (06·2016)
+ATTACHMENT 9.4 NRC SUBMITTAL REVIEW FORM
+Sheet 1 of 2
+Letter#: RBF1-17-0119 Response Due: 10/17/2017
+Subject: LER 2017-008-00 (Automatic Reactor Date Issued for Review: 9/26/2017
+Scram due to Failure of Main Feedwater Control
+Transfer Relay)
+Correspondence Preparer I Phone #: Danny Williamson x4279
+Section I Letter Concurrence and Agreement to Perform Actions
+POSITION I NAME Action Signature
+(concurrence, certification, etc.) (sign, interoffice memo, e-mail, or telecom)
+Bill Maguire (comment / concur)
+Marvin Chase (comment / concur)
+(comm~oncur))
+Tim Schenk (see attached email)
+(comm~~rv
+Steve Vercelli (see attached email)
+(comme~oncur0
+Tim Venable (see attached email)
+I 1...'-:::::-
+Sergio Vazquez (commen~oncurJ) (see attached email)
+(commen~ c~)
+James Henderson
+Section II Correspondence Screening
+Does this letter contain commitments? If "yes," identify the commitments with due Yes 0
+dates in the submittal and in Section III. When fleet letters contain commitments, a No I2l
+PCRS LO (e.g., LO-LAR, LO-WT) should be initiated with a CA assigned to each
+applicable site to enter the commitments into the site's commitment management
+system.
+Does this letter contain any information or analyses of new safety issues performed at Yes 0
+NRC request or to satisfy a regulatory requirement? If "yes," reflect requirement to No I2l
+update the UFSAR in Section III.
+0
+Does this letter require any document changes (e.g., procedures, OBOs, FSAR, TS Yes
+Bases, etc.), if approved? If "yes," indicate in Section III an action for the No I2l
+responsible department to determine the affected documents. (The
+Correspondence Preparer may indicate the specific documents requiring revision,
+if known or may initiate an action for review.)
+Does this letter contain information certified accurate? If "yes," identify the information Yes I2l
+0
+and document certification in an attachment. (Attachment 9.5 must be used.) No
+EN-LI-106 Rev. 9
+ATTACHMENT 9,4 NRC SUBMITTAL REVIEW FORM
+Sheet 2 of 2
+Section III Actions and Commitments
+Required Actions Due Date Responsible Dept.
+Note: Actions needed upon approval should be captured in the
+appropriate action tracking system
+none
+Commitments Due Date Responsible Dept.
+Note: When fleet letters contain commitments, a PCRS LO
+should be initiated with a CA assigned to each applicable
+site to enter the commitments into the site's commitment
+management system.
+none
+S eCfl on IV F'm a 10o cumen t S'I gno ff f or S u b ml' tta I .....
+Correspondence Preparer Williamson~
+Danny
+Final Submittal Review (optional) na
+Responsible Department Head na
+EN-U-106 Rev, 9
+WILLIAMSON, DANNY H
+From: WILLIAMSON, DANNY H
+Sent: Tuesday, October 10, 2017 10:11 AM
+To: WILLIAMSON, DANNY H
+Subject: FW: *********FINAL DRAFT LER**************
+From: SCHENK, TIMOTHY A
+Sent: Tuesday, October 10, 2017 10:04 AM
+To: WILLIAMSON, DANNY H
+Subject: RE: *********FINAL DRAFT LER**************
+I concur
+7imScnenk
+Regulatory Assurance Manager
+River Bend Station
+Cell 225-405-4793
+Office 225-381-4177
+REPORTED CONDITION
+On August 18, 2017, at 8:55 p.m. COT, an automatic reactor scram occurred while the plant was operating at 100
+percent power. The operators promptly established control of reactor water level and pressure, and a controlled plant
+cooldown was commenced. No safety-related equipment was out of service at the time of the scram.
+The initial scram signal was a flow-biased thermal trip on the average power range monitors (APRMs). This action
+closely followed a planned shift of the master feedwater controller from channell/S" to channel"A." When the shift
+was made, all three main feedwater regulating valves unexpectedly moved fully open. At the same time, the reactor
+recirculation pumps shifted to slow speed.
+This condition is being reported in accordance with 10 CFR 50.73(a)(2)(iv) as an event reSUlting in the automatic
+actuation of the reactor protection system.
+INVESTIGATION and CAUSAL ANALYSIS
+At the time of the event, operators were performing a planned shift of the controlling channel of the master feedwater
+regulation system as part a scheduled surveillance test on the system.
+Troubleshooting discovered that the feedwater level channel select relay had failed, such that no signal was present on
+the "A" channel. When that channel was selected, the feedwater control system erroneously sensed that reactor water
+level was low, and caused all three feedwater regulating valves to move fully open. The operator took manual control of
+the system to restore the feedwater regulating valves to their original positions.
+1
+The false low water level signal was alsu sensed in the control circuitry for the reactor recirculation system. This
+initiated the automatic downshift of the recirculation pumps to slow speed, as designed. The decrease in core flow
+resulted in the flow-biased thermal trip in the APR Ms.
+The failure in the channel select relay was traced to degradation in the electrical contacts on the relay that caused a high
+resistance condition. This condition also masked an alarm that could have potentially alerted the operator to the fact
+that the A" channel was inoperative.
+/I
+The high resistance condition on the contacts was caused by the use of a relay model with silver contacts instead of gold
+contacts. Industry operating experience had shown that the Agastat GPI (silver contact) relay, when used in low-current
+applications, had a tendency to develop contact point oxidation that increased electrical resistance. A parts
+interchangeability evaluation had been performed in the past at River Bend to approve the Agastat GPIA with gold
+contacts as a replacement part. However, when that evaluation was performed, the part number for the model GPIA
+was added to the appropriate design documentation, but the part number for the GPI was not deleted.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The failed GPI relay was replaced with a GPIA with gold contacts.
+Design documentation for the feedwater regulation system will be updated to reflect the model GPIA as the required
+replacement part. This is being tracked in the corrective action program.
+PREVIOUS OCCURRENCE EVALUATION
+No events with a common root cause have been reported by River Bend Station in the last three years.
+SAFETY SIGNIFICANCE
+The plant response was bounded by the event described in the Updated Safety Analysis Report as a loss of the in-service
+feedwater level transmitter signal. This event was thus of minimal significance to the health and safety of the public.
+2
+WILLIAMSON, DANNY H
+From: WILLIAMSON, DANNY H
+Sent: Wednesday, October 11, 2017 5:04 AM
+To: WILLIAMSON, DANNY H
+Subject: FW: *********FINAL DRAFT LER**************
+From: Vercelli, Steven
+Sent: Tuesday, October 10, 20174: 18 PM
+To: WILLIAMSON, DANNY H
+Subject: RE: *********FINAL DRAFT LER**************
+approve
+Steven Vercelli
+General Manager Plant Operations
+River Bend Station
+2253814200
+Cell 6018268454
+REPORTED CONDITION
+On August 18, 2017, at 8:55 p.m. CDT, an automatic reactor scram occurred while the plant was operating at 100
+percent power. The operators promptly established control of reactor water level and pressure, and a controlled plant
+cooldown was commenced. No safety-related equipment was out of service at the time of the scram.
+The initial scram signal was a flow-biased thermal trip on the average power range monitors (APRMs). This action
+closely followed a planned shift of the master feedwater controller from channel"B" to channel "A." When the shift
+was made, all three main feedwater regulating valves unexpectedly moved fully open. At the same time, the reactor
+recirculation pumps shifted to slow speed.
+This condition is being reported in accordance with 10 CFR SO.73{a){2){iv) as an event resulting in the automatic
+actuation of the reactor protection system.
+INVESTIGATION and CAUSAL ANALYSIS
+At the time of the event, operators were performing a planned shift of the controlling channel of the master feedwater
+regulation system as part a scheduled surveillance test on the system.
+Troubleshooting discovered that the feedwater level channel select relay had failed, such that no signal was present on
+the "A" channel. When that channel was selected, the feedwater control system erroneously sensed that reactor water
+level was low, and caused all three feedwater regulating valves to move fully open. The operator took manual control of
+the system to restore the feedwater regulating valves to their original positions.
+1
+The false low water level signal was also sensed in the control circuitry for the reactor recirculation system. This
+initiated the automatic downshift of the recirculation pumps to slow speed, as designed. The decrease in core flow
+resulted in the flow-biased thermal trip in the APRMs.
+The failure in the channel select relay was traced to degradation in the electrical contacts on the relay that caused a high
+resistance condition. This condition also masked an alarm that could have potentially alerted the operator to the fact
+that the "A" channel was inoperative.
+The high resistance condition on the contacts was caused by the use of a relay model with silver contacts instead of gold
+contacts. Industry operating experience had shown that the Agastat GPI (silver contact) relay, when used in low-current
+applications, had a tendency to develop contact point oxidation that increased electrical resistance. A parts
+interchangeability evaluation had been performed in the past at River Bend to approve the Agastat GPIA with gold
+contacts as a replacement part. However, when that evaluation was performed, the part number for the model GPIA
+was added to the appropriate design documentation, but the part number for the GPI was not deleted.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The failed GPI relay was replaced with a GPIA with gold contacts.
+Design documentation for the feedwater regulation system will be updated to reflect the model GPIA as the required
+replacement part. This is being tracked in the corrective action program.
+PREVIOUS OCCURRENCE EVALUATION
+No events with a common root cause have been reported by River Bend Station in the last three years.
+SAFETY SIGNIFICANCE
+The plant response was bounded by the event described in the Updated Safety Analysis Report as a loss of the in-service
+feedwater level transmitter signal. This event was thus of minimal significance to the health and safety of the public.
+2
+WILLIAMSON, DANNY H
+From: WILLIAMSON, DANNY H
+Sent: Wednesday, October 11, 2017 10:19 AM
+To: WILLIAMSON, DANNY H
+Subject: FW: *********FINAL DRAFT LER**************
+From: VENABLE, TIMOTHY J
+Sent: Wednesday, October 11, 2017 10:16 AM
+To: SCHENK, TIMOTHY A; WILLIAMSON, DANNY H
+Subject: RE: *********FINAL DRAFT LER**************
+I have reviewed the LER, and it looks sound and accurate.
+TV
+From: SCHENK, TIMOTHY A
+Sent: Wednesday, October 11, 20177:50 AM
+To: VENABLE, TIMOTHY J
+Subject: Fwd: *********FINAL DRAFT LER**************
+Importance: High
+REPORTED CONDITION
+On August 18, 2017, at 8:55 p.m. CDT, an automatic reactor scram occurred while the plant was operating at 100
+percent power. The operators promptly established control of reactor water level and pressure, and a controlled plant
+cooldown was commenced. No safety-related equipment was out of service at the time of the scram.
+The initial scram signal was a flow-biased thermal trip on the average power range monitors (APRMs). This action
+closely followed a planned shift of the master feedwater controller from channel"B" to channel "A." When the shift
+was made, all three main feedwater regulating valves unexpectedly moved fully open. At the same time, the reactor
+recirculation pumps shifted to slow speed.
+This condition is being reported in accordance with 10 CFR 50.73(a)(2)(iv) as an event resulting in the automatic
+actuation of the reactor protection system.
+INVESTIGATION and CAUSAL ANALYSIS
+At the time of the event, operators were performing a planned shift of the controlling channel of the master feedwater
+regulation system as part a scheduled surveillance test on the system.
+1
+Troubleshooting discovered that the f~cdwater level channel select relay had faileo, such that no signal was present on
+the "A" channel. When that channel was selected, the feedwater control system erroneously sensed that reactor water
+level was low, and caused all three feedwater regulating valves to move fully open. The operator took manual control of
+the system to restore the feedwater regulating valves to their original positions.
+The false low water level signal was also sensed in the control circuitry for the reactor recirculation system. This
+initiated the automatic downshift of the recirculation pumps to slow speed, as designed. The decrease in core flow
+resulted in the flow-biased thermal trip in the APRMs.
+The failure in the channel select relay was traced to degradation in the electrical contacts on the relay that caused a high
+resistance condition. This condition also masked an alarm that could have potentially alerted the operator to the fact
+that the "A" channel was inoperative.
+The high resistance condition on the contacts was caused by the use of a relay model with silver contacts instead of gold
+contacts. Industry operating experience had shown that the Agastat GPI (silver contact) relay, when used in low-current
+applications, had a tendency to develop contact point oxidation that increased electrical resistance. A parts
+interchangeability evaluation had been performed in the past at River Bend to approve the Agastat GPIA with gold
+contacts as a replacement part. However, when that evaluation was performed, the part number for the model GPIA
+was added to the appropriate design documentation, but the part number for the GPI was not deleted.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The failed GPI relay was replaced with a GPIA with gold contacts.
+Design documentation for the feedwater regulation system will be updated to reflect the model GPIA as the required
+replacement part. This is being tracked in the corrective action program.
+PREVIOUS OCCURRENCE EVALUATION
+No events with a common root cause have been reported by River Bend Station in the last three years.
+SAFETY SIGNIFICANCE
+The plant response was bounded by the event described in the Updated Safety Analysis Report as a loss of the in-service
+feedwater level transmitter signal. This event was thus of minimal significance to the health and safety of the public.
+2
+WILLIAMSON, DANNY H
+From: WILLIAMSON, DANNY H
+Sent: Tuesday, October 10, 2017 9:25 AM
+To: WILLIAMSON, DANNY H
+Subject: FW: *********FINAL DRAFT LER**************
+From: Vazquez, Sergio
+Sent: Tuesday, October 10, 2017 9:22 AM
+To: WILLIAMSON, DANNY H; Vercelli, Steven; CHASE, MARVIN L; REYNOLDS, JEFFREY W; VENABLE, TIMOTHY J;
+SCHENK, TIMOTHY A; HENDERSON, JAMES
+Subject: RE: *********FINAL DRAFT LER**************
+I concur
+REPORTED CONDITION
+On August 18, 2017, at 8:55 p.m. COT, an automatic reactor scram occurred while the plant was operating at 100
+percent power. The operators promptly established control of reactor water level and pressure, and a controlled plant
+cooldown was commenced. No safety-related equipment was out of service at the time of the scram.
+The initial scram signal was a flow-biased thermal trip on the average power range monitors (APRMs). This action
+closely followed a planned shift of the master feedwater controller from channel liB" to channel"A." When the shift
+was made, all three main feedwater regulating valves unexpectedly moved fully open. At the same time, the reactor
+recirculation pumps shifted to slow speed.
+This condition is being reported in acco,rdance with 10 CFR 50.73(a)(2)(iv) as an event resulting in the automatic
+actuation ofthe reactor protection system.
+INVESTIGATION and CAUSAL ANALYSIS
+At the time of the event, operators were performing a planned shift of the controlling channel of the master feedwater
+regulation system as part a scheduled surveillance test on the system.
+Troubleshooting discovered that the feedwater level channel select relay had failed, such that no signal was present on
+the "A" channel. When that channel was selected, the feedwater control system erroneously sensed that reactor water
+level was low, and caused all three feedwater regulating valves to move fully open. The operator took manual control of
+the system to restore the feedwater regulating valves to their original positions.
+The false low water level signal was also sensed in the control circuitry for the reactor recirculation system. This
+initiated the automatic downshift of the recirculation pumps to slow speed, as designed. The decrease in core flow
+resulted in the flow-biased thermal trip in the APRMs.
+1
+The failure in the channel select relay WdS traced to degradation in the electrical COlltacts on the relay that caused a high
+resistance condition. This condition also masked an alarm that could have potentially alerted the operator to the fact
+that the "A" channel was inoperative.
+The high resistance condition on the contacts was caused by the use of a relay model with silver contacts instead of gold
+contacts. Industry operating experience had shown that the Agastat GPI (silver contact) relay, when used in low-current
+applications, had a tendency to develop contact point oxidation that increased electrical resistance. A parts
+interchangeability evaluation had been performed in the past at River Bend to approve the Agastat GPIA with gold
+contacts as a replacement part. However, when that evaluation was performed, the part number for the model GPIA
+was added to the appropriate design documentation, but the part number for the GPI was not deleted.
+CORRECTIVE ACTIONS TO PREVENT RECURRENCE
+The failed GPI relay was replaced with a GPIA with gold contacts.
+Design documentation for the feedwater regulation system will be updated to reflect the model GPIA as the required
+replacement part. This is being tracked in the corrective action program.
+PREVIOUS OCCURRENCE EVALUATION
+No events with a common root cause have been reported by River Bend Station in the last three years.
+SAFETY SIGNIFICANCE
+The plant response was bounded by the event described in the Updated Safety Analysis Report as a loss of the in-service
+feedwater level transmitter signal. This event was thus of minimal significance to the health and safety of the public.
+2
+I
+e
+NUCLEAR QUALITY RELATED EN-Ll-106 REV. 16
+Entergy MANAGEMENT
+MANUAL INFORMATIONAL USE PAGE 1 OF 1
+NRC Correspondence
+ATTACHMENT 9.5 CERTIFICATION REFERENCE FORM
+Letter Number: R_B_F_1_-1_7_-0_1_1_9_ ___ _ _____ ______________
+,-I ----J
+Subject: LER 2017 -ooa-oo (Automatic reactor scram due to failure of feedwater controller transfer
+relay)
+Certifiable Statement(s): Use one of the following methods to identify certifiable statements in the table
+below:
+1 Identify location in submittal (e.g., page 3, para 2, sentence 1) OR,
+2 Paste in the exact words of the statement(s) OR,
+3 State "see attachment" and attach a copy of the correspondence with the certifiable statements
+indicated (e.g., by redlining, highlighting, or underlining, etc.).
+Each statement or section of information being certified should be uniquely numbered to correspond with
+the supporting documentation listed below.
+Objective Evidence or Basis of Peer Review: List the supporting documents in the table below and
+attach a copy of the documents OR give basis of peer review. Large documents need not be attached.
+Certifiable Statement(s) Objective Evidence or Basis of Peer Review
+1. " ... no safety-related equipment out of 1. See excerpt from GOP-0003.
+service."
+2. "The failed GPI relay was replaced with a 2. See excerpts from Work Order 482739 ..
+GPIA with gold contacts."
+3. "The plant response was bounded by the 3. See excerpt from GOP-0003
+event described in the Updated Safety
+Analysis Report as a loss of the in-service
+feedwater level transmitter signal. ."
+Individual certifying the statement(s): Certification may be documented using e-mail, telecom, "sign off"
+sheet, or inter-office memorandu The form of documentation should specifically identify the information
+being certified.
+Dann Williamson Regulatory Assurance
+Department
+Peer Review: Prior to signing for certification, determine if a Peer Review is required per section 5.4[2](c).
+Indicate "N/A" if not required.
+na
+Name Department Date
+EN-Ll-106 REV 16
+REFERENCE USE ATTACHMENT 2
+PAGE 2 OF 12
+POST TRIP REVIEW CHECKLIST
+Select Glem:0 single element
+G
+Master Manual
+A
+FW Reg Valve A Manual Isolated
+G
+FW Reg Valve B Manual Isolated
+G
+FW Reg Valve C Manual Isolated
+Startup FW Reg Valve Auto Isolated
+~~.ircle)
+Record any off-normal status of any of the trains/portions of the following safety systems prior
+to the scram. .
+Details
+Reactor Protection System
+ECCS
+RCIC
+Standby Gas Treatment
+Emergency Busses/Diesels
+DC Distribution
+Test Procedure/Work order Status/Step/Description
+~f}f· ooOq ~~to< WW/l~V ~)ft~ ~Jj"" 5~ 1 AI f..,NJiIWa tud"""lv Lwt I
+Uokrol S~ dAb
+GOP-0003 REV - 031 PAGE 13 OF 29
+o
+REFERENCE USE ATTACHMENT 1
+a
+PAGE 1 OF4
+DATA SHEET
+COMPONENT NO. C.3 3,q - K I ~
+6.2 Applicable Relay Setpoint Data Sheet#.
+6.3 Elementary Diagram number(s).
+6.4
+PARAMETER AS-FOUND AS-LEFT
+Delay setting
+6.5.2 Time Dial setting
+6.5.3 Type of Delay
+0
+6.6/6.8 Calculated Time Delay
+MIN
+7.2.6.4.4 MAX
+7.6.1 On Time Delay
+7.2.6.5.5
+7.6.1 Off Time Delay
+DATA INIIIALS
+7.2.2 Relay Date Code '>~'1q
+<lii2Unsat
+7.2.7.6 Results of relay operation.
+~nsat
+7.2.9 Contact arrangement.
+a
+MCP-1130 BEv-010 PAGE 20 OF25
+EN-WM-105 RIVE 1
+C
+Work Order # I Sub pa 482739-02 LEVEL 2
+Work Entity I Component C33A-K12
+DIscipline ELECTRICAL
+--.....-- . NSTALL the new replacement C33A-K12 (5C01) relay.
+~
+JiEJ
+<tv IQ~/'7
+Initial Date
+~ ,<g...(Q"(7
+Initial Date
+~VE
+all Installed temporary robusl barriers
+~~'\~-17
+~-lJ~~~~UL~IWLlQ.-1~~~~4.U~?:,:i",~",~""i;a....4i~ Initial Date
+panellA~ /~.:oz
+PERFORM end document an FME Close-out Inspection of the __ "11117
+~- EN-MA-118. Foreign Material Exclusion. ~re
+'""M:r ,
+~{f-(7
+, InW~ D~e
+~
+VERIFY housekeeping items are addressed at the completion of the worK activity.
+~ ~ .MJ ~.('J.-(
+7
+:l.t~\1. of'if3 fJC -Iv rerforrn r.(.-f~st po rtR"'(~
+Initial Date
+~RE IJ-I~'17
+f TORATION '. t>f
+'Ill h til eI4/c
+Post Maintenance Testing performed on bench testing.
+TemRev 0 AddCounter 25 Att Ene DS Rev KWN OFF
+ffemovetl rel"c) -furn~d b FHA 1~WJ.
+tJlJq!:..
+~. g/let//7
+15/ e,/ll
+o -f 1
+Date Printed: 8/19117 11 :38:23 AM Page ~ of ~
+WO Pkg 00482739 02 Pg 15 of 16

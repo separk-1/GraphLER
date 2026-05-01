@@ -1,0 +1,308 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+October 27, 2025
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 2
+Renewed Facility Operating License No. DPR-52
+NRC Docket No. 50-260
+Subject: Licensee Event Report 50-260/2025-003-01
+Reference: Letter from TVA to NRC, “License Event Report 50-260/2025-003-00,” dated
+July 29, 2025 (ML25210A472)
+The enclosed Licensee Event Report provides details of a Primary Containment Isolation and
+Manual Reactor Trip Due to Dual Recirculation Pump Trips. The Tennessee Valley Authority is
+submitting this report in accordance with Title 10 of the Code of Federal Regulations (10 CFR)
+50.73(a)(2)(iv)(A), as a manual actuation of the Reactor Protection System and the Primary
+Containment Isolation System.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David J. Renn, Site Regulatory Compliance
+Manager, at (256) 729-2636.
+Respectfully,
+Daniel A. Komm
+Site Vice President
+Enclosure: Licensee Event Report 50-260/2025-003-01 – Primary Containment Isolation and
+Manual Reactor Trip Due to Dual Recirculation Pump Trips
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+Browns Ferry Nuclear Plant
+Unit 2
+Licensee Event Report 50-260/2025-003-01
+Primary Containment Isolation and Manual Reactor Trip Due to Dual Recirculation Pump
+Trips
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+(See Page 2 for required number of digits/characters for each block) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+(See NUREG-1022, R.3 for instruction and guidance for completing this Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+form http://www.nrc.gov/reading-rm/doc- Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to respond
+to, a collection of information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. Facility Name 52. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 2
+052
+00260 1 OF 6
+4. Title
+Primary Containment Isolation and Manual Reactor Trip Due to Dual Recirculation Pump Trips
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000XXX
+05 30 2025 2025 - 003 - 01 10 27 2025 Facility Name Docket Number
+N/A 05000XXX
+9. Operating Mode 10. Power Level
+1 039
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+M. W. Oliver, Sr. Nuclear Licensing Program Manager 256-729-7874
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X AD CNTR GE Y N/A N/A N/A N/A N/A
+4. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 30, 2025, Recirculation (Recirc) Pump Variable Frequency Drive (VFD) 2A and 2B 120VAC Auxiliary
+Power Distribution had a contactor fail to transmit power from the normal source and fail to transfer to the
+alternate source resulting in the loss of Normal and Alternate power to the VFD Cooling Fans. Subsequently,
+excessive temperatures in VFD cabinets caused multiple VFD cells to auto bypass which caused automatic
+trips of both Recirc Pumps and, ultimately, an insertion of a manual reactor scram in accordance with 2-AOI-
+68-1, Recirc Pump Trip/Core Flow Decrease.
+The power loss was caused by an incorrect risk evaluation/preventative maintenance strategy for a
+contactor. Corrective actions included contactor replacement, which allowed the reactor to restart and
+sync to the electrical grid on June 6, 2025. Preventative actions include similar contactor replacements,
+evaluations, and maintenance strategies as well as the future addition of power supply redundancies.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations (10 CFR) 50.73(a)(2)(iv)(A), as any event or condition that resulted in manual or automatic
+actuation of the Reactor Protection System and the Primary Containment Isolation System.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+☐ 052
+2025 - 003 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of this event, Browns Ferry Nuclear Plant (BFN) Unit 2 was in Mode 1 at approximately
+39 percent Rated Thermal Power (RTP).
+II. Description of Event
+A. Event Summary
+On May 30, 2025, at 2247 hours CST with Unit 2 operating in Mode 1 at 39% Reactor Power due
+to the trip of the Reactor Recirculation [AD] Pump (2A), the reactor was manually tripped due to a
+trip of the only operating Reactor Recirculation Pump (2B).
+The reactor shutdown was uncomplicated with all systems responding as designed. Operations
+responded and stabilized the plant. The Primary Containment Isolation System (PCIS) [JM]
+received an actuation signal for Groups 2, 3, 6, and 8 on reactor water level at +2 inches. All
+primary containment systems that received an actuation signal performed as designed. Reactor
+water level control was via Condensate [SD] and Feedwater [SJ] and reactor cooldown was
+completed using turbine bypass valves to the main condenser [SG].
+Due to manual actuation of the Reactor Protection System (RPS) [JC] while critical, this event
+was reported as a four-hour non-emergency notification per Title 10 of the Code of Federal
+Regulations (10 CFR) 50.72(b)(2)(iv)(B). The actuation of RPS and PCIS also required an eight-
+hour non-emergency report per 10 CFR 50.72(b)(3)(iv)(A). Refer to Event Notification report
+57737.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with
+10 CFR 50.73(a)(2)(iv)(A), as an automatic actuation of the RPS and the PCIS.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+No structures, components, or systems were identified as inoperable at the start of the event
+or that contributed to the event.
+NRC FORM 366A (04-02-2024) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+☐ 052
+2025 - 003 - 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+DATE AND
+APPROXIMATE TIMES OCCURRENCE
+(Central Time)
+Unit 2 Reactor Operators inserted a manual reactor scram
+May 30, 2025, at 2247 following a trip of the second Recirc Pump. (Event Notification
+report 57737 was reported to the NRC for this event.)
+Following replacement of the failed contactor, Unit 2 was
+June 6, 2025, at 0745
+synced to the grid.
+D. Manufacturer and model number of each component that failed during the event
+The component that failed was identified as 2-CONT-068-0002, contactor [CNTR] for
+VFD [DRIV] 2A and 2B 120VAC Aux Power Distribution (GE CL08AB00MJ).
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+The cause of the 2A Recirc Pump trip was being investigated when the 2B Recirc Pump tripped,
+which, by procedure, required insertion of a manual reactor scram. Subsequent troubleshooting
+determined that a contactor had failed.
+G. The failure mode, mechanism, and effect of each failed component
+2-CONT-068-0002, contactor for VFD 2A and 2B 120VAC Aux Power Distribution
+(GE CL08AB00MJ), failed due to a loss of continuity. This failure resulted in a loss of
+automatic transfer capability of the Normal and Alternate power to the VFD Cooling Fans,
+which caused excessive temperatures in VFD cabinets. Subsequently, multiple VFD cells
+failed to auto-bypass, which caused automatic trips of both Recirc Pumps and, ultimately, an
+insertion of a manual reactor scram in accordance with plant procedure 2-AOI-68-1, Recirc
+Pump Trip/Core Flow Decrease.
+NRC FORM 366A (04-02-2024) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+☐ 052
+2025 - 003 - 01
+NARRATIVE
+H. Operator actions
+Operations personnel stabilized the plant following the reactor scram and subsequently
+initiated a plant cooldown to Mode 4.
+I. Automatically and manually initiated safety system responses
+The automatic trips of both Recirc Pumps prompted an insertion of a manual reactor scram in
+accordance with 2-AOI-68-1, Recirc Pump Trip/Core Flow Decrease.
+PCIS Groups 2, 3, 6, and 8 isolation signals were received on reactor water level at +2 inches.
+All primary containment systems that received an actuation signal performed as designed. All
+other systems functioned as designed. Reactor water level control was via condensate and
+feedwater, and the reactor cooldown was performed using turbine bypass valves to the main
+condenser.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+Complex troubleshooting found that one of the contacts within a normally energized relay had
+failed, causing both trains of cooling to be lost to two trains of VFDs. In this case, both trains
+of cooling were supplied power from a common power supply. The function of the relay was
+to swap the power supply to an alternate board if the normal supply was lost.
+The power supply loss was caused by an incorrect risk evaluation/preventative maintenance
+strategy for a contactor. The contactor failure was determined to be most likely age-related
+and directly related to incorrect component classification resulting in an inadequate
+preventative maintenance strategy.
+B. Cause(s) and circumstances for each human performance related root cause
+None. Analysis determined that there was no active error and that any potential human
+performance issues occurred more than twenty years prior.
+IV. Analysis of the event
+At 1921 hours on May 30, 2025, BFN experienced 2A and 2B VFD internal heat exchanger fan
+power alarms followed by multiple cell bypasses that later tripped both drives and both Recirc
+Pumps and required operators to insert a manual reactor scram.
+NRC FORM 366A (04-02-2024) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+☐ 052
+2025 - 003 - 01
+NARRATIVE
+V. Assessment of Safety Consequences
+The plant responded as designed, while maintaining defense-in-depth for nuclear safety. All
+nuclear safety systems functioned as designed. This event was of very low nuclear safety
+significance. At no time was the health and safety of the public at risk.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+N/A
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+There was no safety system rendered inoperable.
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA corrective action program under condition
+report 2017005.
+A. Immediate Corrective Actions
+Following replacement of the failed contactor (WO#125365629), the reactor was restarted and
+synced to the electrical grid on June 6, 2025.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Preventative actions include similar contactor replacements, evaluations, and maintenance
+strategies as well as the future addition of power supply redundancies.
+NRC FORM 366A (04-02-2024) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 00260 NUMBER NO.
+☐ 052
+2025 - 003 - 01
+NARRATIVE
+VII. Previous Similar Events at the Same Site
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+NRC FORM 366A (04-02-2024) Page 6 of 6

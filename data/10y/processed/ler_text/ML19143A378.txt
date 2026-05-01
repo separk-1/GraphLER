@@ -1,0 +1,206 @@
+(_~ DUKE William R. Gideon
+Vice President
+ENERGY®
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+May 23, 2019
+Serial: RA-19-0244
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit Nos 1 and 2
+Renewed Facility Operating License Nos. DPR-71 and DPR-62
+Docket No. 50-325 and 50-324
+Licensee Event Report 1-2019-001
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Jerry Pierce, Manager - Nuclear
+Support Services, at (910) 832-7931.
+s;:;J;D
+William R. Gideon
+TMS/tms
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 3
+4. Title
+Unplanned Automatic Start of Emergency Diesel Generators
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Number No. Month Day Year Brunswick Unit 2 05000324
+Facility Name Docket Number
+03 25 2019 2019 - 001 - 00 05 23 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Jerry Pierce, Manager – Nuclear Support Services (910) 832-7931
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 04:02 Eastern Daylight Time (EDT) on March 25, 2019, an actuation of the four Emergency Diesel Generators
+(EDGs) occurred. Unit 1 was in Mode 1 at approximately 100 percent power and Unit 2 was in Mode 4 at 0 percent
+power. Unit 2 was in the process of aligning the electrical distribution system to power the emergency buses via the Unit
+Auxiliary Transformer (UAT) when a main generator differential lockout relay actuated; thereby starting the EDGs. The
+emergency buses remained energized from offsite power via the Startup Auxiliary Transformer (SAT) and, therefore, the
+EDGs did not tie to their respective buses. The EDGs responded per design to this event.
+The cause of event was a historical design change error. During replacement of the original Main Power Transformers
+(MPTs), the fact that the new transformers have lower second order harmonic in-rush current was not identified and, as
+a result, appropriate protective relay settings were not implemented.
+Corrective actions include revising operating procedures to preclude EDG automatic starts on Main Generator primary
+lockout when restoring the UAT backfeed.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR
+05000325 NUMBER NO.
+Unit 1
+2019 - 001 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent rated
+thermal power (RTP). Unit 2 was in Mode 4 (i.e. Cold Shutdown), at 0 percent RTP. There was no
+inoperable equipment that contributed to the event.
+Reportability Criteria
+This event is reportable per 10 CFR 50.73(a)(2)(iv)(A) because the plant experienced a valid start of its four
+Emergency Diesel Generators (EDGs) [EK]. The event was initially reported to the NRC on March 25, 2019
+(i.e., Event Number 53955).
+Event Description
+At 04:02 Eastern Daylight Time (EDT) on March 25, 2019, an actuation of the EDGs occurred. Unit 2 was in
+the process of aligning the electrical distribution system to power the emergency buses via the Unit Auxiliary
+Transformer (UAT) [EA] when a main generator differential lockout relay actuated; thereby starting the
+EDGs. The emergency buses remained energized from offsite power via the Startup Auxiliary Transformer
+(SAT) and, therefore, the EDGs did not tie to their respective buses. The EDGs responded per design to this
+event. Troubleshooting and testing confirmed that the lockout was not a result of an actual fault condition or
+degraded equipment.
+Event Cause
+The direct cause of this event was a Main Generator primary lockout that occurred when generator breaker
+Power Circuit Breaker (PCB) 29A was closed during the alignment of the Unit 2 electrical distribution system
+to power the emergency buses via the UAT. The lockout occurred due to a trip of differential relay
+2-GEN-87GT-2-A. The cause of event was a historical design change error.
+The function of the differential relay is to identify a fault inside the zone of protection by comparing the
+currents flowing into the zone with the currents flowing out of the zone. If the difference is greater than a set
+percentage, the relay will actuate. The 87GT-2 relay compares the sum of the currents through PCBs 29A
+and 29B with the sum of the currents through the main generator and UAT. It is primarily designed to detect
+a fault in the main power transformer but the zone of protection also includes portions of the isophase bus
+and 230kV system. A difference in these currents indicates a fault. In the event, PCB 29B and the no-load
+disconnect switch were open, so the relay was comparing the current flow through PCB 29A with the current
+flow into the UAT.
+When system voltage is applied to a transformer at a time when normal steady-state flux is at a different
+value from that existing in the transformer, a current transient occurs, known as magnetizing in-rush current.
+BSEP uses HU-1 relays for the differential protection. These relays have a differential unit, a harmonic
+restraint unit, and an indicating instantaneous trip unit. The differential unit and harmonic restraint unit
+contacts are in series. Per the vendor manual, the differential unit may or may not close its contact during
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR
+05000325 NUMBER NO.
+Unit 1
+2019 - 001 - 00
+NARRATIVE
+in-rush, depending on magnitude. The harmonic restraint contact will not close unless the second harmonic
+current is at least 15 percent of the fundamental component. Thus, prevention of spurious trips on in-rush is
+reliant on the in-rush current containing at least 15 percent second harmonics, which may not be the case
+with the relatively new main transformers. The original Main Power Transformers (MPTs) [EL] were
+replaced in 2004 for Unit 1 and 2005 for Unit 2. The harmonic restraint settings for the differential relays
+were not reduced to account for the lower second order harmonic in-rush current associated with new
+transformers.
+The actual second harmonics of the event were at the point where the harmonic restraint on the differential
+relay could have actuated and blocked the trip (i.e., approximately 15 percent). Given the various
+tolerances inherently associated with electromechanical relays and sensing devices, it was concluded that
+the harmonics were not high enough to actuate the harmonic restraint and block the trip. This conclusion is
+supported by the relative age of the MPTs and the UATs. Had the harmonic restraint settings for the
+differential relays been reduced when the new transformers were installed, this event would not have
+occurred.
+Safety Assessment
+The safety significance of this event is minimal. The emergency buses remained energized from offsite
+power during the event and the EDGs responded per design to this event.
+Corrective Actions
+The corrective actions below are currently planned. Any changes to the corrective actions and schedules
+noted below will be made in accordance with the site’s corrective action program.
+• Revise procedures 1(2)OP-50, "Plant Electrical System Operating Procedure," to disable the EDG
+automatic start on Main Generator primary lockout prior to restoring UAT backfeed. This action is
+currently scheduled to be completed by October 3, 2019.
+Previous Similar Events
+A review of events for the past three years identified the following previous similar event where re-alignment
+of the electrical distribution systems resulted in actuation of the EDGs.
+• Event Notification (EN) 52778, completed on May 31, 2017, reported an invalid actuation of the EDGs
+occurred when powering the 2C balance-of-plant (BOP) bus from the SAT. The event was a result of
+failure to install flexible links between the SAT and the 2D BOP bus. The corrective actions associated
+with EN 52778 could not have reasonably been expected to prevent the condition reported in
+LER 1-2019-001.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2018) Page 3 of 3

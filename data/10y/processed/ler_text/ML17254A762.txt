@@ -1,0 +1,402 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+September 11,2017
+10 cFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and 2
+Facility Operating License Nos. NPF-90 and NPF-96
+NRC Docket Nos. 50-390 and 50-391
+Subject:
+Licensee Event Report 39012017-009-00, Unanalyzed Condition Related to
+Dual Unit Operation of the Essential Raw Cooling Water System During a
+Design Basis Accident
+This submittal provides Licensee Event Report (LER) 39012017-009-00. This LER
+provides details concerning a condition where the design and operating procedures for the
+Essential Raw Cooling Water System may not have supported an accident on one unit with
+safe shutdown on the other unit. This condition is being reported as an unanalyzed
+condition in accordance with 10 CFR 50.73(a)(2)(ii) and as a loss of safety function in
+accordance with 10 CFR 50.73(a)(2)(v)(B) and 10 CFR 50.73(aX2XvXD).
+There are no regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Kim Hulvey, wBN Licensing Manager, at (423) 36s-7720.
+cRe;spectfully,
+Paul Simmons
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc: See Page 2
+U.S. Nuclear Regulatory Commission
+Page 2
+September 11, 2017
+cc (Enclosure):
+NRC Regional Administrator - Region ll
+NRC Senior Resident lnspector - Watts Bar Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 ExPtRESt 0tB1na2o
+p4-2417)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+_*- - .otttfi Ffc"r, G, LTCENSEE EVENT REPORT (LER) S R e e n p d o rt c e o d m l m es e s n o ts n s re le g a a r r n d e in d g a b r u e r d in e c n o r e p s o t r im at a e t d e i t n o t o t h th e e l n li f c o e rm ns a in ti g o n pr S o e c r e v s ic s e s a n B d ra fe n d ch b a (T ck -2 t o F 4 in 3 d ) u , s U tr . y S . .
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+Resource@nrc.gov, and to the Desk fficer, Office of lnformation and Regulatory Affairs,
+NE0B-1 0202, (315G01M), ffice of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Watts Bar Nuclear Plant, Unit 1 05000390 10F7
+4. TITLE
+Unanalyzed Condition Related to Dual Unit operation of the Essential Raw Cooling water System During a Design
+Basis Accident
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTHI OeV I yenn YEAR I t=rt'rt#Jfl R N E O V . MONTH I DAY YEAR W FA a c tt t s ltr y B a N r A N M uc E le ar Plant, Unit 2 I 1 05 o 0 o 0 c 0 x 3 e 9 r 1 rlunaaER
+07 12 I 2017 2017 - 009 00 09 11 2017 FACILITY NAME ! DoCKET NUMBER
+9. OPERATING MODE 11' THIS REPORT lS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR g: (Cfiec k all that appty)
+tr 20 zzo1 (b) tr zo 2zo3(aX3Xi) tr 50 73(aX2XiiXA) tr 50.73(a)(2)(viiiXA)
+tr 20 zzo1(d) tr 20 2203(aX3)(ii) X 50 73(ax2)(ii)(B) tr 50 73(aX2XviiiXB)
+1 tr 20 2203(aX1) tr 20 zzoz(aX4) tr 50 73(ax2xiii) n 50 73(aX2XixXA)
+I 20 zzo3(a)(2)(i) tr 50 36(c)(1)(iXA) tr 50 73(a)(2)(.vXA) t] 50 73(aX2)(x)
+10. POWER LEVEL tr zo 2zo3(aX2Xii) tr 50 36(c)(1)(iiXA) tr 50 73(a)(2)(v)(A) tl rc T1(a)(4)
+tr 20 2zo3(aX2Xii.) tr 50 36(cX2) X 50 73(aX2Xv)(B) n n t1 (aXs)
+tr 20 2zo3(aX2)(iv) tl 50 46(a)(3)(ii) tr 50 73(a)(2)(vXC) X rczr(a)(1)
+100 tr 20 2zo3(a)(2)(v) tr 50 73(a)(2)(iXA) X 50 73(aX2Xv)(D) tl B 7z(ax2)(i)
+tr 20 zlo3(aX2Xvi) tr 50 73(a)(2)(i)(B) tr 50 73(aX2Xvii) tr fi tr(ax2xii)
+I
+50 73(a)(2)(iXC) tr OTHER Specify in Abstract betow or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (lnclude Area Code)
+Dean Baker, Licensing Engineer 423-452-4589
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+cAUSE I svsrena lcor'aeoNENr I ,^t+U[;- l*t?S?'j..:t' CAUSE SYSTEM I COMPONENT FA M C A TU N R U E - R I I NEP ro OR E T p A t B x LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY I yrnn
+E Vf S (ff yes, complete 15. EXPECTED SUBMTSS/ON DATE) tr NO SUB D M A IS T S E ION
+ABSTRACT (Linit to 1400 spaces, ,.e., approximately 15 singte-spaced typewritten tines)
+On July 12,2017, at 1238 Eastern Daylight Time (EDT), Watts Bar Nuclear Plant (WBN) determined that a pretiminary
+analysis shows adequate Essential Raw Cooling Water (ERCW) flow may not be available during dual unit limiting
+design basis conditions of one unit in Hot Shutdown on Residual Heat Removal (RHR) cooling when the other unit
+experiences a Loss of Coolant Accident (LOCA). Based on preliminary analysis, during a Unit 1 LOCA, Unit 1 receives
+adequate flow when following existing procedural guidance. However, Unit 2 may not receive adequate flow to meet
+cool-down requirements with design basis maximum temperatures. During a Unit 2 LOCA, however, current procedural
+guidance is not adequate to ensure the proper system alignment to establish correct ERCW Component Cooling Water
+(CCS) Heat Exchanger A and B flow rates for either unit's cool down requirements.
+At the time of the event, Unit 2 had been shutdown for an extended period of time such that the flow delivered by
+ERCW was adequate to serve both Unit 1 in a LOCA and Unit 2 in Mode 4 or 5. lmmediate corrective actions included
+procedure changes to ensure adequate ERCW flow for all possible plant situations in both units. The causes of this
+issue are a failure to address cross train elements of the ERCW system in the design analysis and a failure to address
+procedural impacts when the plant transitioned to dual unit operation. The procedure errors were corrected.
+NRC FORM 366 (O4-2O17)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 ExptRES: 0il11t2020
+(0/-2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons leamed are incorprated into the licensing process and fed back to industry. Send
+LTGENSEE EVENT REPORT (LER) c R o e m g m u e l n a b to re ry ga r C di o n m g m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o l n n , fo r D ma C tion 2 S 0 e s rv s ic s e - s 0 0 Br 0 a 1 nc , h o ( r T -2 b F4 y 3) , U e . - S m . N a u i c t l ea to r
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, ffice of lnformation and Regulatory Afiairs,
+NE0&10202, (315G0104), Office of Management and Budget, Washington, DC 20503. lf a nreans
+used to impose an information collection does not display a cunenfly valid OMB contol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+r -00
+2017 009
+NARRATIVE
+I. PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Watts Bar Nuclear Plant (WBN) Unit 1 was at 100 percent rated thermal power (RTP) . WBN Unit 2 was in
+Mode 5.
+II. DESCRIPTION OF EVENT
+A.
+Event Summary
+On July 12,2017, at 1238 Eastern Daylight Time (EDT), Watts Bar Nuclear Plant (WBN)
+determined that a preliminary analysis shows adequate Essential Raw Cooling Water (ERCW)
+{EllS:Bl} flow may not be available during dual unit limiting design basis conditions of one unit in
+Hot Shutdown on Residual Heat Removal (RHR) cooling when the other unit experiences a Loss
+of Coolant Accident (LOCA). Based on preliminary analysis, during a Unit 1 LOCA, Unit 1 receives
+adequate flow when following existing procedural guidance. However, Unit 2 may not receive
+adequate flow to meet cool-down requirements with design basis maximum temperatures. During
+a Unit 2 LOCA, however, current procedural guidance was found not adequate to ensure the
+proper system alignment to establish correct ERCW Component Cooling Water (CCS) {EllS:CC}
+Heat Exchanger {EllS:HX} A and B flow rates for either unit's cool down requirements.
+This event is being reported to the Nuclear Regulatory Commission (NRC) under
+10 CFR 50.73(a)(2)(ii)(B) as an unanalyzed condition that significantly degraded plant safety and
+under 10 CFR 50.73 (a)(2)(v)(B) and (D) as an event or condition that could have prevented
+fulfillment of a safety function.
+B.
+lnoperable Structures, Components, or Systems that Contributed to the Event
+No inoperable equipment contributed to this event.
+C.
+Dates and Approximate Times of Occurrences
+Date Event
+10t20t15 WBN Unit 1 receives license Amendment 104 to revise the Technical
+Specifications (TS) for CCS and ERCW to support Dual Unit Operation.
+10t22t15 WBN Unit 2 receives operating license
+11t19t15 Post lssuance Change (PlC) 65699 revises Design Change Notice (DCN)
+62151to address ERCW alignment for Dual Unit Operation. Emergency
+procedure impacts not properly addressed.
+5t23116 WBN Unit 2 is critical for the first time
+7112t17 condition Report (GR) 1316395 is generated to document ERCW design issue.
+7114t17 Procedures 1-E-0 and 2-E-0, Reactor Trip or Safety lnjection, are revised to
+address proper position of ERCW outlet valves from the CCS heat exchangers.
+D.
+Manufacturer and Model Number of Components that Failed During the Event
+There were no failed components that contributed to this event.
+NRC FORM 366A (04-2017) Page 2 of
+7
+NRG FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY oMB: NO.3{50-0104 EXPIRES: 0il3it2020
+(04-20171)
+Estimated burden per response to comply with firis mandatory collection rEuest: 80 hours. Reported
+lessons learned are incorporated into the limnsing process and fed back to industry. Send
+LTGENSEE EVENT REPORT (LER) c R o e m g m u en la b t o re ry ga r C di o n m g m bu i r s d s e i n o n es , tim W a m te h to in t g h t e o n ln , fo r D ma C tion 2 S 0 e 5 rv 5 ic S es 0 0 B 0 ra 1 nc , h o ( r T -2 b F4 y 3) , U e . - S m , N a uc il le a to r
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformation and Regulatory Afiairs,
+NE0B-10202, (315G0104), ffice of Managernent and Budget, Washington, DC 20503. lf a rneans
+used to impose an information collection does not display a cunenfly valid OMB confol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 05000390 NUIiJlBER NO.
+1 - -00
+2017 009
+NARRATIVE
+E.
+Other Systems or Secondary Functions Affected
+No other systems or secondary functions were affected
+.
+F.
+Method of discovery of each Component or System Failure or Procedural Error
+The issues described in this LER were discovered during the development of a revised ERCW
+flow model.
+G. Failure Mode and Effect of Each Failed Component
+No actual equipment failures occurred during this event.
+H. Operator Actions
+No actual event was ongoing related to this report.
+l.
+Automatically and Manually lnitiated Safety System Responses
+Not applicable.
+III.
+CAUSE OF THE EVENT
+A.
+The cause of each component or system failure or personnel error, if known.
+The ERCW and CCS systems were designed originally for maximum flexibility, not complete train
+separation and independence. Once train independence was established as a standard for the
+Nuclear lndustry, a decision was made to preserve the physical configuration of the system and
+still maintain a design that provided safe reliable operation. This design contained an error that
+was not discovered until recently when the condition documented in CR 1316395 was brought to
+light.
+The decision to preserve the ERCW original cross tied design was made under the
+assumption that the design basis was met with existing structures, systems, and components
+(SSCs). However, the design basis was not met due to a single failure in another system, and
+therefore, an HU knowledge based error caused the ERCW system to not be in conformance with
+the design basis.
+B.
+The cause(s) and circumstances for each human performance related root cause.
+Station procedure preparers assumed the emergency procedures affected by the design change
+for dual unit ERCW operation would be captured by a separate license amendment request for
+dual unit operation and did not list them on the DCN impact sheet. As a result, emergency
+procedures were not properly revised.
+NRC FORM 366A (04-2017) Page 3 of
+7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMTI'IISSION APPROVEDBYOMB: NO.3150-0{04 EXPW
+(04-2017\)
+Estimated burden per response to comply with his mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the limnsing process and fed back to industry. Send
+UCENSEE EVENT REPORT (LER) c R o e m g m u en la B t o re ry ga r C di o n m g m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o n ln , fo r D ma C tion 2 S 0 e s rv s ic s e 0 s 0 B 0 r 1 an , c h o ( r T -2 b F4 y 3) , U e .S m . N a u i c l l ea to r
+CONTINUATION SHEET lnfocollecb.Resource@nrc.gov, and to the Desk fficer, ffice of lnformation and Regulatory Affains,
+NE0&10202, (315G0104), Office of Management and Budget, Washlngton, DC 20503. tf i means
+used to impose an information collection does not display a cunently valid OMB oontrol number, the
+NRC may not conduct or sponsor, and a person is not rEuired to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+- -00
+2017 009
+TNARRATIVE
+I ,,.
+ANALYSIS oF THE EVENT
+I
+I The WBN plant is provided with a common ERCW system serving both units. Eight ERCW pumps are
+I provided, with two pumps aligned to each 6.9 kV Shutdown Board (SDBD) and atigned to two ERCW
+I trg!! 4 and B. The ERCW system supplies cooling water to the Component Cooting Water System
+I (CCS) heat exchangers, the containment spray heat exchangers, the emergency dielel generitors,
+I
+containment coolers, and various other system loads.
+I
+I Ih9 CC_S is an intermediate cooling loop cooled by the ERCW system. Three CCS heat exchangers serve
+I both units aligned into two trains. CCS heat exchangers A and B serve Train A for Units 1 and2,
+! l"spectively, and CCS heat exchanger C serves Train B for both units. The CCS heat exchangers provide
+I heat removal for the Residual Heat Removal (RHR) heat exchangers, the Spent Fuel pool heai
+I exchanger, the Chemicaland Volume Control System (CVCS), various pump coolers, and various other
+I loads. ERCW flow to the CCS heat exchangers is controlled using the discharge flow control valves,
+I
+which can be either set to operating conditions or can be positioned to one of two preset opening
+I
+positions.
+!
+I Ihe.limiting design for both the ERCW and CCS systems is a normal shutdown on one unit with a design
+I basis Loss of Coolant Accident (LOCA) on the other unit. The operation of the RHR system on the uniiin
+I shutdown and the transition to cold leg recirculation heat load on the RHR heat exchanger(s) for the LOCA
+I unit represent the maximum heat load that is applied to the CCS system.
+I
+I During normal operation, ERCW flow is modulated to the CCS heat exchangers to allow the CCS
+I t"mperature to be maintained in an optimal operating band. Because heat loads during normal operation
+I are low, ERCW flow would be maintained at flows lower than during an accident to allow for optimal CCS
+I system operation. Two separate, but related issues are identified in this event.
+II f.n" O9tlgn of the ERCWCCS heat exchanger interface is shown in the Figure below. White the suppty
+I side of_ERCW to the CCS heat exchanger is in a classic Train A and Train B configuration, the discharle
+I of the CCS heat exchangers has a cross train alignment. CCS heat exchanger B [Train A for Unit 2) ii
+| ?ligned to the ERCW Train A discharge. The ERCW discharge for CCS heat exchanger A (Train A ior
+I lnit 1) and the ERCW discharge for CCS heat exchanger C (Train B for both units) discharge to ERCW
+]rajn !. This results in Train B CCg Heat exchanger C and Train A CCS heat exchanger A discharging to
+Train B. The design concern identified is if a non-iimiting failure, such as failure of CCS flow to CCS heat
+exchanger C were to occur, Train B for CCS would be non-functional. With ERCW flow still being provided
+to CCS heat exchanger C, the back pressure would be high enough to prevent sufficient ERCW flow
+through CCS heat exchanger A. The discharge isolation valves for the CCS heat exchanger A were not
+set sufficiently open to account for this backpressure concern.
+A closely related issue identified during the ERCW model review was that for an accident on Unit 2, no
+provisions existed in the Emergency Operating lnstructions (EOls) for adjusting ERCW flows to the Train A
+CCS heat exchangers by opening the ERCW to the CCS heat exchanger discharge control valves to one
+of the desired pre-set opening positions to support accident operation (minimum analysis required ERCW
+flow of 3500 gpm). These valve position adjustments should have been performed inprocedure 2-E-0,
+Reactor Trip of Safety lnjection. Without repositioning these valves in advance of switchover to
+recirculation, unacceptably high temperature in the CCS system may occur following transfer to
+recirculation post LOCA. The required valve repositioning steps were also incorrecf in t-g-O for Un1 1, but
+supported an alignment vielding adequate flow for Unit 1. The failure to properly revise the emerqencv
+NRC FORM 366A (04-2017) Page 4 of
+7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRES: 01/Bil2020
+(04-2017)l
+Estimate.d burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+UCENSEE EVENT REPORT (LER} c R o e m g m u en la ts t o re ry ga r C di o ng m m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o n ln , fo r D ma C tion 2 S 0 e 5 rv 5 ic 5 e - s 0 0 B 0 ra 1 n , c h o ( r T -2 b F4 y 3) , U + .S m . N a u i c l le a to r
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, ffice of lnformation and Regulatory Afiairs,
+NE0B-10202, (315G0104), Offce of Managernent and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a cunently valid OMB oontrol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+-
+2017 009 r00
+NARRAT!VE
+procedures for Unit 2 is related to a failure to properly document impacts in the design change associated
+with configuring WBN to dual unit operation.
+A detailed engineering review of the positions of the ERCW discharge valves from the CCS heat
+exchangers was performed from the time period that Unit 2 initially went critical on May 23, 2016 until
+correction of this issue via EOI revisions. This review documented in a past operability evaluation
+determined that in all cases, ERCW flow through Train B (CCS heat exchanger C) would have been
+adequate for accident conditions on either Unit 1 or Unit 2.
+This same review for Train A (CCS heat exchangers A and B) was also performed. This review
+determined that inadequate ERCW flow would have been present without operator diagnosis for
+approximately 0.252 years for a large break LOCA on Unit 2.
+A secondary issue is that for this event, the non-accident unit would be assumed to be operating on RHR
+shortly after a plant shutdown. Operations personnel on the non accident unit would see rising RCS
+Temperature. The normal action for this observation would be to raise the RCS flow through the RHR heat
+exchanger and lower the flow that is bypassing the heat exchanger. This would continue until the RHR
+heat exchanger outlet is full open and the bypass is full closed. At this point, there would be maximum
+RCS flow through the RHR heat exchanger. With maximum heat input from the RCS through the RHR
+heat exchanger and inadequate ERCW cooling to the A CCS heat exchanger, CCS temperature will begin
+to rise. Alarms would be received on CCS heat exchanger outlet temperature and would be expected to
+result in ERCW realignment to provide higher flow. Therefore, alarms would result in operator action to
+manage system temperatures by procedure.
+V.
+ASSESSMENT OF SAFETY CONSEQUENCES
+As described in the previous section, the ERCW system Train A was not able to perform its safety function
+for a design basis accident on Unit 2 for about 0.252 years. A probabilistic risk assessment (PRA)
+performed determined that the increase in core damage frequency (CDF) for a large break LOCA over the
+period of interest for Unit 2 with Train A out of service tor 0.252 years and Train B out of service for
+maintenance only to be less than 1E-7, which is low.
+A.
+Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+Train A ERCW was not able to perform its safety function for a design basis accident on Unit 2 for
+about 0.252 years. During this time, Train B ERCW remained able to perform its safety function
+for a design basis accident except for a period of less than 14 hours based on operator logs.
+B.
+For events that occurred when the reactor was shut down, availability of systems or components
+needed to shutdown the reactor and maintain safe shutdown conditions, remove residual heat,
+control the release of radioactive material, or mitigate the consequences of an accident
+At the time this issue was identified, Unit 2 was in Mode 5. Unit 1 remained capable of safe
+shutdown at the time of identification.
+C.
+For failure that rendered a train of a safety system inoperable, an estimate of the elapsed time
+from the discoverv of the failure until the train was returned to service
+NRC FORM 366A (04-2017) Page 5 of
+7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVEDBYOMB: NO.3150-0104 M
+(04-2017),).
+Estimated burden per response to comply with this mandatory collection rEuest 80 hours. Reported
+REGu({}o^ lessons leamed are incorporated into the lioensing process and fed back to industry. Send
+fi J " o r t , c" h " f +f;f#i'r LICENSEE EVENT REPORT (LER) c R o e m g m u en la b t o re ry ga r C di o ng m m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o n ln , fo r D ma C tion 2 S 0 e s rv s ic s e - s 0 0 Br 0 a 1 nc , h o ( r T -2 b F4 y 3) , U e . - S m . N a uc il le a to r
+coNrrNUArroN sHEEr Infocollects.Resource@!ry.gov, and to the Desk Officer, Office of lnformation and Regulatory Affairs,
+NE0&10202, (315G0104), Office of Manragement and Budget, Washington, DC 20503. lf i means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Watts Bar Nuclear Plant, Unit 05000390
+1
+NARRATIVE
+From the time of issue identification until corrective actions were in place was less than three days.
+vt. CORRECTIVE ACTIONS
+This event was entered into the Tennessee Va]ley Authority (TVA) Corrective Action program and is being
+tracked under Condition Reports (CRs) 1316395 and 1319469.
+A.
+lmmediate Corrective Actions
+Upon identification of the issue, plant emergency operating instructions were prompfly revised to
+require proper positioning of the ERCW discharge control valves from the CCS heat exchangers in
+the event of an accident. These actions addressed both the design issue and the procedural error
+issue.
+B.
+Corrective Actions to Prevent Recurrence or to Reduce Probability of Similar Events Occurring in
+the Future
+Plant design standards will be revised to specify any new design for safety related systems shall
+not be cross trained (cross tied).
+vil. PREVIOUS SIMILAR EVENTS AT THE SAME SITE
+LER 390/2016-004 reported an unanalyzed condition where the Unit 1 Fire Protection Report (FpR)
+analysis for '10 CFR 50, Appendix R contained a non-conservative time for isolation of the Volume Control
+Tank (VCT) following a postulated fire in room 737.0-A'lA. Multiple fire-induced failures were postulated
+to result in a loss of suction to the Centrifugal Charging Pumps (CCPs), which could cause RCi, seal
+damage and loss of RCS inventory. Fire modeling subsequently determined that for any credible
+combination of failures or equipment spurious operation that the CCPs would remain operable. This issue
+was determined to be the result of a latent engineering error associated with the original Appendix R
+analysis performed for Unit 1.
+vilt. ADDITIONAL NFORMATION
+I
+None.
+tx. COMMITMENTS
+None.
+NRC FORM 366A (04-2017) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 ExptRES: 03t31t2020
+(0/,-2017)\
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re ry ga r C di o ng m m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o n ln , fo r D ma c tio n 2 S 0 e 5 rv 5 ic s e - s 0 0 B 0 ra 1 n , c h o ( r T -2 b F4 y 3) , U e .S m . N d uc l l ea to r
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, ffice of lnformation and Regulatory Afiairs,
+NE0B-10202, (315G0104), Offce of Management and Budget, Washington, DC 20503. !f a means
+used to impose an information collection does not display a cunenty valid OMB contol number, the
+NRC may not conduct or sponsor, and a person is not rEuired to respond to, the information
+collection.
+1. FAGILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTlAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 05000390 NU]I[BER NO.
+1
+-
+2017 009 00
+NARRATIVE
+ERCW Train A ERCW Train B
+Supply Header Supply Header
+CCS Hx CCS Hx
+c A
+(Train 1B/28) (Train 1A)
+ERCW Train A ERCW Train B
+Discharge Header Discharge Header
+Figure
+NRC FORM 366A (04-2017l, Page 7 of
+7

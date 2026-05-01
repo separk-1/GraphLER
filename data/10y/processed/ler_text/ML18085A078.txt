@@ -1,0 +1,220 @@
+• •
+·~Entergy
+•
+Entergy Operations, Inc.
+P. 0. Box756
+Port Gibson, MS 39150
+Eric A. Larson
+Site Vice President
+Grand Gulf Nuclear Station
+Tel. (601) 437-7500
+10CFR50.73
+GNR0~2018-00001
+March 26, 201.8 ·
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001 ·
+SUBJECT: Licensee Event Report 2017-009-00., Reactor Core Isolation Cooling
+System lnoperability Due to Lockout Circuit Settings
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Licensee Event Report 2017-009-00, Reactor Core Isolation Cooling Syster;n
+lnoperability Due to Lockout Circuit Settings. This report is being submitted in accordance with
+1O CFR50. 73(a)(2)(i)(B) for any event or condition that could have prevented the fulfillment of
+the safety function.
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Douglas Neve at 601-437-2103.
+-Sincerely,
+z:al~
+Eric A. Larson
+Site Vice President
+Grand Gulf Nuclear Station
+·EA Uram
+Attachment: Licensee Event Report 2017-009-00
+cc: see next page
+GNR0-2018-00001
+Page 2 of 2
+U.S. Nuclear Regulatory Commission
+ATIN: Mr. Siva Lingam
+Mail Stop OWFN 8 81
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U. S. Nuclear Regulatory Commission
+ATIN: Mr. Kriss Kennedy, NRR/DORL (w/2)
+Mail Stop OWFN 8 81
+Washington, DC 20555-0001
+NRC FORM 366.
+u:s.
+NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the FOIA, Privacy and Information
+Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC
+(See reverse for required number of 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office
+digits/characters for each block) · of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management
+and -Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Grand Gulf NuclearStation, Unit 1 05000 416 1 OF 3
+1
+4. TITLE
+Reactor Core Isolation Cooling System lnoperability Due to Lockout Circuit Settings
+5. EVENT DATE 6
+I
+. LER NUMBER
+I
+7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR NIA 05000 N/A
+. .
+FACILITY NAME DOCKET NUMBER
+12 12 2017 2017-009-00 03 26 2018 NIA 05000 NIA
+9. OPERAT ING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+0 0 0 0
+20.2201 (b) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(ix)(A)
+MODE1 D D D D
+20.2201(d) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(x)
+D D D D
+20.2203(a)(1) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 73.71(a)(4)
+11-----------1 D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(5)
+10. POWER LEVEL .D 2022.0_3(a)(2)(ii) D .50.3.6(c)(2) D .5.0..73(a)(2)(v)(B) .D .7.3.77(a)(1.)
+D D D ·D
+20.2203(a)(2)(iii) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73. 77(a)(2)(i)
+16% D D D D
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73. 77(a)(2)(ii)
+D 20.2203(a)(2)(v) [gl 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D OTHER
+D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(C) 50.73(a)(2)(viii)(A) Specify in Abstract below
+0 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(B) or in NRC Form 366 A
+12. LICENSEE CONTACT FOR THIS LER I
+FACILITY NAME TELEPHONE NUMBER (Include Area Code)
+Douglas Neve I Manager, Regulatory Assurance (601) 437-2103
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TOEPIX
+NIA NIA NIA NIA NIA NIA NIA NIA NIA
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+_ 0
+YES (If yes, complete 15. EXPECTED SUBMISSION D~ TE) cgi NO DATE NIA NIA NIA
+ABSTRACT (Limit to 1400 spaces, i.e., approximately.15 single-spaced typewritten lines)
+On December 12, 2017, at approximately 0918 hours, Grand Gulf Nuclear Station (GGNS) was in_ ,
+MODE 1 and increasing. power when the unit experienced an essential transformer (ESF-11) lockout.
+Concurrent with the lockout the Reactor Core Isolation Cooling (RCIC) system received a Division I
+isolation signal.
+The cause-of the-RC IC -isolation -is -determined -to -be -installation -of-temperature -switches in -the-RC IC
+isolation initiation circuits with unrecognized response times.
+The power bus monitor time delay relays were adjusted from a one second delay to a 10-second delay to
+account for the response of the terr:1perature switches. Additionally, a review of engineering change
+testing involving applicable temperature switch installations was performed to verify the post modification
+testing requirements of the Entergy testing philosophies are met.
+There was no ·increase to any accident consequences, and no ·impact on plant safety or the sa·fety of the
+public,
+Page 1 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(6-2016} Estimated burden per response to comply with this mandatory collection request: 80 hours.''
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or bye
+LICENSEE EVENT REPORT (LER}
+mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+CONTINUATION SHEET Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection.. ·
+1. FACILITY NAME 2. DOCKET 3. LER NUMBER
+YEAR I SEQUENTIAL I REV.
+Grand Gulf Nuclear Station, Unit 1 05000 416 NUMBER NO.
+2017-009-00
+NARRATIVE
+DESCRIPTION
+On December 12, 2017, at approximately 0918 hours, Grand Gulf Nuclear Station (GGNS)
+experienced an essential transformer (ESF-11) lockout. Concurrent with the ESF-11 transformer
+lockout, the Reactor Core Isolation Cooling (RCIC) [BN] system received a Division I isolation
+signal. Leak detection NUS [NUS] temperature switches (NUS switches) for the main steam line
+tunnel installed in 2007 were discovered to actuate and de-actuate instantaneously upon both
+loss of power and upon restoration of power. The initialization sequence which occurs upon
+restoration of power resulted in a RCIC isolation signal. Because the condition persisted for a
+period of time greater than the existing logic time delay, RCIC isolation occurred.
+The RCIC isolation circuits have a one second time delay to prevent spurious isolation of RCIC.
+Because the sequence duration of 1.58 seconds exceeded the existing logic time delay of one
+second, RCIC isolation occurred. RCIC was placed back in standby at 1440 hours on December
+12, 2017.
+Analysis of the RCIC isolation initiation circuits has determined that RCIC received the isolation
+signal only upon restoration of power. The direct cause of RCIC isolation was the response of
+temperature switches to power restoration. The response, which testing has confirmed, is that the
+NUS temperature switches remain in the tripped state for a brief period of time when their power
+is restored. Because of this response the leak detection circuit begins a one second time delay to
+prevent spurious isolation of RCIC. Because the described condition persists for approximately
+1.58 seconds, the existing one second time delay setpoint is exceeded, thereby permitting RCIC
+isolation.
+Although the event occurred in December 2017, the final reportability was not determined until
+February 20, 2018, due to the time required to analyze the condition.
+REPORTABILITY STATEMENT
+This event is reportable as a licensee event report in accordance with 1O CFR50.73(a)(2)(i)(B) as
+an operation or condition which was prohibited by the plant Technical Specifications. The plant
+configuration that could have prevented the RCIC system from being available under all expected
+plant conditions existed for a time longer than allowed by Technical Specification Completion
+Time for the system. This event was included in ENS notification 53115.
+CAUSE
+In 2007 the subject RCIC temperature switches were changed from a Riley brand to a NUS
+brand. Discussion with the vendor determined that the observed response to loss and restoration
+of power to NUS switches is a design feature.
+Page2of3 '
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(6-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections ,
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or bye
+LICENSEE EVENT REPORT (LER)
+mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer; Office of Information and
+CONTINUATION SHEET Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMS control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection ..
+1. FACILITY NAME 2. DOCKET 3. LER NUMB.ER
+YEAR I SEQUENTIAL I REV.
+Grand Gulf Nuclear Station, Unit 1 05000 416 NUMBER NO.
+2017-009-00
+NARRATIVE
+Testing confirmed that the NUS switches remain in the tripped state for approximately 1.58
+seconds after their power is restored. The power bus monitor time delay relay de-energizes while
+the NUS switch is tripped resulting in the completion of the leak detection circuits. The
+· completion of the leak detection circuit begins a 1-second time delay to prevent spurious isolation
+of RCIC. Because the tripped condition persists for approximately 1.58 seconds and exceeds the
+existing 1-second time delay setpoint of power bus monitor time delay relay, a RCIC isolation
+signal is generated. ·
+Discussion with the vendor has determined that the NUS switches cannot be modified in such a
+way that would prevent the observed response to loss and restoration of power from occurring
+In order to resolve this condition, power bus monitor time delay relays were adjusted from a 1-
+second delay to a 10-second delay. The relays are capable of a time delay range of 0.55 to 15
+seconds, and the total time delay for the main steam tunnel RCIC isolation circuits remains below
+the analytical value of 30 minutes. A time delay of greater than approximately 1.58 seconds is
+required to prevent a RCIC isolation signal on loss and restoration of power. The increased time
+delay was selected to provide sufficient margin.
+The cause of this event as determined to be a lack of a rigorous post modification testing plan
+that included all possible scenarios with the RCIC isolation initiation circuits.
+CORRECTIVE ACTIONS
+The power bus monitor time delay relays were adjusted from a 1-second delay to a 1a -second
+delay. (Completed)
+Perform a review of engineering change testing involving NUS switch installations to verify the
+post modification testing requirements of the Entergy testing philosophies are met. (Scheduled
+Completion March 2018)
+SAFETY SIGNIFICANCE
+While the latent design condition could have prevented the RCIC system from responding as
+designed, Grand Gulf analyses do not credit RCIC for mitigation of any transient or accident. In
+addition, using off normal procedures the operators were able to identify the cause of the isolation
+and restore RCIC functionality within two and a half hours. Therefore, there was no potential
+increase to any accident consequences, and no impact on plant safety or the safety of the public.
+PREVIOUS SIMILAR EVENTS
+Entergy conducted a three-year review of the relevant licensee event reports and determined that
+there were no similar known events.
+Page 3 of 3

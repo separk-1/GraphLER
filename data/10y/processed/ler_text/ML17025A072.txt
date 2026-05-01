@@ -1,0 +1,201 @@
+H
+Nebraska Public Power District
+Alwa)'s there when )'OU need us
+NLS2017001
+January 5, 2017
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2016-008-00
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2016-008-00.
+There are no new commitments contained in this letter.
+Sincerely,
+K6~bofuam
+Vice President Nuclear
+Chief Nuclear Officer
+/jo
+Attachment: Licensee Event Report 2016-008-00
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC -Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC - NRR Plant Licensing Branch IV via ICES entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+P.O. Box 98 /Brownville, NE 68321-0098
+Telephone: (402) 825-3811 /Fax: (402) 825-5211
+www.nppd.com
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80
+;,ltfCf,>~ ..j ,. hours. Reported lessons learned are incorporated into the licensing process and fed back to
+= i \ i ..... I - ~ LICENSEE EVENT REPORT (LER) i I n n d fo u r s m tr a y t . i o S n e n C d o l c le o c m tio m n e s n B ts r a r n e c g h a rd (T in -5 g F b 5 u 3 r ) d , en U .S e . s t N im u a cl t e e a r t o R t e h g e u l F at O o I r A y , C P o r m iva m c i y s si a o n n d ,
+(See Page 2 for required number of digits/characters for each block)
+Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to the
+Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office
+(See NUREG-1022, R 3 for instruction and guidance for completing this form
+of Management and Budget, Washington, DC 20503. If a means used to impose an
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+information collection does not display a currently valid OMB control number, the NRG may
+not conduct or sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Cooper Nuclear Station 05000298 1of3
+4. TITLE
+Purchase and Installation of Incorrect Actuator Results in a Condition Prohibited by Technical Specifications
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+REV FACILITY NAME DOCKET
+MONTH DAY YEAR YEAR 'SEQUENTIAL' MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITY NAME DOCKET
+11 08 2016 2016 - 008 - 00 01 05 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50. 73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D, 20.2203(a)(4) D 50.73(a)(2)(ii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50. 73(a)(2)(iv)(A) D 50. 73(a)(2)(x)
+D 20.2203(a)(2)(ii) 0 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+010 D 20.2203(a)(2)(v) 0 50. 73(a)(2)(i)(A) D 50. 73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) ~ 50. 73(a)(2)(i)(B) D 50. 73(a)(2)(vii) D 73. 77(a)(2)(ii)
+0 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+I
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Jim Shaw, Licensing Manager (402) 825-2788
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU-
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) rgj NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 8, 2016 at 11 :27 hours, Cooper Nuclear Station (CNS) declared Reactor Core Isolation Cooling
+(RCIC) inoperable for surveillance testing and entered Technical Specification (TS) Limiting Condition for Operation
+(LCO) 3.5.3, Condition A. Subsequently at 11 :41 hours, RCIC was declared inoperable due to a water leak from the
+lube oiler cooler lower flange.
+During investigation it was determined that valve RCIC-AOV-PCV23, which was replaced during Refueling Outage
+29, was full open causing excessive cooling water pressure to the lube oil cooler. This valve regulates cooling water
+to the lube oil cooler. Initial examination revealed that the actuator was purchased with a closed travel stop instead
+of the required open travel stop. The work order was revised to fabricate and install an open travel stop. On
+November 10, 2016, following valve modification, RCIC passed surveillance testing, was declared operable, and TS
+LCO 3.5.3, Condition A, exited .
+.T he root cause evaluation determined that the correct air operated valve was not purchased because the material
+master purchase order text and associated drawing didn't detail the requirement of an open travel stop.
+I
+To prevent recurrence, CNS will revise the material master purchase order text to state that the valve includes a
+travel stop in the open direction to limit valve travel. In addition, the drawing will be modified to show the correct
+travel stop with a note emphasizing the design function of the travel stop.
+NRC FORM ~66 !06-2016)
+Page 2 of 3
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+(~~\
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch
+\~...!..,.:. .) (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 2 for required number of digits/characters for each block)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfomnation and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R 3 for instruction and guidance for completing this form
+means used to impose an information collection does not display a currently valid OMB control
+http:/fwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+infomnation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Cooper Nuclear Station 05000- 298
+2016 -008 -00
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operation, at approximately 10 percent power, at
+the time of the event.
+BACKGROUND
+The Reactor Core Isolation Cooling (RCIC) [EllS:BN] system provides makeup water to the reactor
+pressure vessel (RPV) [EllS:RPV] following an RPV isolation in order to prevent the release of
+radioactive materials to the environs as a result of inadequate core cooling.
+The RCIC system consists of a steam driven turbine-pump unit [EllS:TRB, P], piping, and valves [EllS:V]
+to provide steam to the turbine, as well as piping and valves to transfer water from the suction sources to
+the core via the Feedwater [EllS:SJ] system line, where the coolant is distributed within the RPV. The
+RCIC system pump supply is normally aligned to the Emergency Condensate Storage Tanks. The pump
+discharge is normally isolated and valve operation is required to align in either RPV injection mode or
+test return mode. Upon receipt of an initiation signal, the RCIC turbine accelerates to provide a specified
+pump flow. As the RCIC flow increases, the turbine control valve (EllS:FCV] is automatically adjusted to
+maintain the required design flow.
+RCIC is required to be operable during Modes 1, 2 and 3 with reactor steam dome pressure > 150 psig,
+since RCIC is the primary non-emergency core cooling system water source for core cooling when the
+RPV is isolated and pressurized.
+RCIC-AOV-PCV23 is a 1" pressure controlled globe valve located on the RCIC pump discharge line to
+the RCIC lube oil cooler. This valve has an air operated actuator which regulates the pressure of the
+cooling water based on the output of its controller, RCIC-PC-23. The valve works as a pressure
+reducing orifice to maintain the pressure in the lube oil cooling line below 60 psig to prevent over
+pressurizing the cooling circuit. Upon a loss of air to the valve operator a spring within the actuator will
+force the valve open. The actuator includes a travel stop, which is designed to prevent over
+pressurization of the cooling circuit by limiting the distance the valve can open.
+EVENT DESCRIPTION
+On November 8, 2016, at 11 :27 hours, CNS Operators declared RCIC inoperable for surveillance testing
+and entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.5.3, Condition A.
+Subsequently at 11 :41 hours, Operations declared RCIC inoperable due to a water leak from the lube oiler
+cooler lower flange.
+During investigation it was determined that valve RCIC-AOV-PCV23, which was replaced during Refueling
+Outage 29, was full open causing excessive cooling water pressure to the lube oil cooler. Initial
+examination revealed that the actuator was supplied with a_ closed travel stop instead of the required open
+travel stop. This travel stop prevents over-pressurization of the cooling circuit by limiting the opening
+stroke distance of RCIC-AOV-PCV23. The purchase order for the replacement valve and actuator did not
+contain a part description stating a travel stop was required.
+NRG FORM 366 (06-2016)
+Page 3of3
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch
+(T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 2 for required number of digits/characters for each block)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R 3 for instruction and guidance for completing this form
+means used to impose an infonmation collection does not display a currently valid OMB control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Cooper Nuclear Station 05000- 298
+2016 -008 -00
+NARRATIVE
+The work order was revised to fabricate and install an open travel stop. On November 10, 2016, following
+valve modification, RCIC passed surveillance testing, was declared operable, and TS LCO 3.5.3, Condition
+A, was exited.
+BASIS FOR REPORT
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as any operation or condition which
+was prohibited by Technical Specifications, because RCIC was inoperable during the entry into the
+Mode of Applicability.
+SAFETY SIGNIFICANCE
+There were no actual safety consequences associated with this event. The potential safety consequences
+of this event were minimal due to the limited duration the condition existed and all Emergency Core
+Cooling Systems remained operable or available throughout the event. The RGIC system is designed to
+inject water into the reactor vessel during isolated conditions and is not considered an Emergency Core
+Cooling System. The total duration of inoperability, including the time prior to discovery of the condition
+was less than the 14 day Technical Specification Completion Time. During the time period of inoperability,
+Emergency Core Cooling Systems (High Pressure Coolant Injection, Automatic Depressurization System,
+Core Spray, and Low Pressure Coolant Injection) were operable or available and would have adequately
+responded to reactor vessel isolation and design basis events.
+CAUSE
+The root cause evaluation determined that the correct air operated valve was not purchased because the
+material master purchase order text and associated drawing didn't detail the requirement of an open
+travel stop.
+CORRECTIVE ACTIONS
+To prevent recurrence, CNS will revise the material master purchase order text to state that the valve
+includes a travel stop in the open direction to limit valve travel. In addition, the drawing will be modified
+to show the correct travel stop with a note emphasizing the design function of the travel stop.
+PREVIOUS EVENTS
+There have been no events reported in the past three years related to RCIC being declared inoperable.
+NRC FORM 366 (06-2016)

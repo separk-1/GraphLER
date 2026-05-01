@@ -1,0 +1,368 @@
+Keith J. Poison
+Site Vice President
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.4849 Fax: 734.586.4172
+Email: keith.polson adteenergy.com
+.2 DTE Energy-
+10 CFR 50.73
+December 20, 2016
+NRC-16-0046
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2016-009
+Pursuant to 10 CFR 50.73(a)(2)(i)(B) and 50.73(a)(2)(v)(B) and (D), DTE Electric
+Company (DTE) is submitting LER No. 2016-009, Emergency Diesel Generator
+Inoperable Due to Open Circuit on Loss of Power Instrumentation.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Site Vice President
+Enclosure: Licensee Event Report No. 2016-009
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl1michigan.gov)
+Enclosure to
+NRC-16-0046
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2016-009
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LL IC ENSEE EE VEENN T REPORT (LER) Send comments regarding burden estimatteo the FOIA,P rivacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC2 0555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management andB udgeWt,a shington, DC 20503, If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currenvtalyli dOM B control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Fermi 2 05000 341 1 OF 6
+4. TITLE
+Emergency Diesel Generator Inoperable Due to Open Circuit on Loss of Power Instrumentation
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL MONTH D DA A Y Y B E Y YE E A A R R N/ F A AC LITYN AME 05 D 0 O 00 CKENTU MBER
+FACILITYN AME DOcKETN UMBER
+04 24 2016 2016 - 009 - 00 12 20 2016 N/A 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+[ E
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+[ E
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+J E
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) El 50.73(a)(2)(x)
+10. POWER LEVEL Q 20.2203(a)(2)(ii) Q 50.36(c)(1)(ii)(A) ] 50.73(a)(2)(v)(A) 73.71(a)(4)
+[ ] [
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+El 20.2203(a)(2)(iv) [ 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) E 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) E 50.73(a)(2)(v)(D) E 73.77(a)(2)(i)
+S 20.2203(a)(2)(vi) Z 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+E
+50.73(a)(2)(i)(C) OTHER Specify inA bstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE CAS SYYSTTEMM COOMPPONNENN T AMCTAUNRUE-R RETPOO RETPAIXB LE CAUSE SYSTEM COMPONENT FAC AN T T U U R - E E R R R E E PO P R T T B B L LE
+X EK XPT G080 Y N/A N/A N/A N/A -N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+IDT
+Q Y ES (If yes, complete 15. EXPECTED SUBM/SS/ON DATE) Z NO SUBMISION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1644 EDT on April 24, 2016, while operating at 100 percent Reactor Thermal Power, the potential transformer (PT) primary fuses
+on Bus 64C were found blown, resulting in half of the Loss of Power (LOP) instrumentation relays tripping on Bus 64C. Initially, the
+LOP instrumentation was incorrectly considered OPERABLE; however, later reviews of the condition determined that the LOP
+instrumentation was inoperable. Later reviews also concluded that the Division 1 Alternating Current (AC) Source was inoperable from
+1644 to 1920 on April 24, 2016, and the Division 1 Emergency Diesel Generator (EDG) 12 was inoperable starting at 1644 on April 24,
+2016, until it was restored at 1818 on May 8, 2016, during a Forced Outage following replacement of the blown PT fuses. On six
+occasions from April 26-30, 2016, Division 2 EDGs 13 and/or 14 were inoperable for planned surveillances. Therefore, this is an event
+or condition that could have prevented the fulfillment of a safety function to remove residual heat and mitigate the consequences of an
+accident. Furthermore, failure to enter applicable Limiting Conditions for Operation resulted in a condition prohibited by Technical
+Specifications. The cause of the event was concluded to be a low energy transient event resulting in the blown PT primary fuses. The
+incorrect initial operability determination was caused by Operators being unfamiliar with this equipment condition. Operators
+completed a Department Event Free Day Reset and Event Review and will receive additional training on this condition.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10131/2018
+(00-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy andI nformation Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management andB udget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose ani nformation collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+~Fermi 2 0 0 5 5 0 0 0 -3 0- 4 1 2016 NU 0 MB 9 E R N 0 O.
+--01 009 -- 00
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode-1
+Reactor Power - 100 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+At 1644 EDT on April 24, 2016, while operating in Mode 1 at 100 percent Reactor Thermal Power, Operators received
+alarm 9D8, Transformer [[XFMR]] 64 (SS64) Trouble. An initial investigation revealed that the Potential Transformer (PT)
+[[XPT]] for Buses [[BU]] 64A and 64C was not providing an output voltage signal to the relaying and instrumentation
+downstream of the PTs. Half of the loss of voltage (LOV) relays [[27]] and half of the degraded voltage relays (DVRs) for
+the 4.16 kiloVolt (kV) Emergency Bus 64C undervoltage were tripped while the other half of both of those relays were not
+tripped. Therefore, the LOP instrumentation trip logic was in a half-tripped state. The LOV relays and DVRs together
+constitute the Technical Specification (TS) 3.3.8.1 Loss of Power (LOP) instrumentation to detect and respond to a loss of
+offsite power (LOOP) event.
+Licensed Operators initially incorrectly considered SS64 OPERABLE based on the proper voltage being maintained on
+Engineered Safety Feature (ESF) Buses 64B and 64C. Initially, the Division 1 Bus 64C LOP instrumentation was also
+incorrectly considered OPERABLE by Licensed Operators because the relays failed in their fail safe condition and the
+logic was capable of performing the safety function. The failure resulted in the LOP instrumentation going from a one out
+of two, taken twice, logic to a one out of two logic, which would have properly detected and responded to a loss of offsite
+power or degraded voltage event.
+At 1920 EDT on April 24, 2016, Operators restored the SS64 output voltage to above 121.3 meter Volts (V) by manual
+operation of the Load Tap Changer (LTC) [[TTC]] as required by System Operating Procedure 23.320, "Balance of Plant
+Auxiliary Electrical Distribution System" (Revision 63). Restoration of the voltage to 121.3 meter V ensured that adequate
+voltage was available to reset the LOV relays and DVRs during a LOCA coincident with a degraded grid.
+Division 2 offsite power and Combustion Turbine Generator (CTG) [[88]] 11-1 were OPERABLE at all times during the
+event.
+Although the equipment was initially determined to be OPERABLE, repairs were still required. Fermi 2 entered Mode 3 at
+2301 EDT on May 3, 2016, and subsequently, entered Mode 4 at 1525 EDT on May 4, 2016, for Forced Outage (FO)
+16-01 to trouble-shoot and repair the LOP instrumentation.
+Subsequent analysis of this event by Engineering determined that:
+A. Starting at 1644 on April 24, 2016, with the LTC automatic function disabled and voltage below 121.3 meter V, per
+Design Calculation (DC) 6447 Volume I, "Auxiliary Power System Analysis," (Revision C) the DVRs may not have reset
+upon a Loss of Coolant Accident (LOCA) auto-start of ESF equipment in order to stay connected to the preferred offsite
+power source. Manual operation of the SS64 LTC by Operations boosted the output voltage of SS64 and ensured
+adequate voltage to reset the DVRs at 1920 on April 24, 2016.
+NRC FORM 366A (06-2016) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mailt o
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+~*
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used toi mpose ani nformation collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Ferm i 2 341 2 1 2 0-1. 00 - 9 0 -] - - [ L 7 00 -
+NARRATIVE
+TS Limiting Condition for Operation (LCO) 3.3.8.1 requires the LOP instrumentation to have four functional channels
+[[CHA]] for each Division. Resetting of the LOV relays and DVRs is not an explicit TS 3.3.8.1 Surveillance Requirement
+(SR) although the reset of the LOV relays and DVRs is credited in the electrical analysis. With both the LOV relays and
+DVRs (connected across phase-to-neutral of the line side PTs) remaining tripped, there was no way to reset these tripped
+relays in situ to return to initial conditions or to apply the existing test procedure to test the LOP instrumentation channels
+for compliance with TS SRs 3.3.8.1.1 and 3.3.8.1.3. Therefore, the LOP instrumentation was inoperable from 1644 on
+April 24, 2016, until 1818 on May 8, 2016.
+B. Between 1644 and 1920 on April 24, 2016, Division 1 Alternating Current (AC) Source lost its functionality due to the
+inability of SS64 to deliver three phase AC power at the required voltage range stemming from its loss of voltage
+reference required for LTC automatic operation. SS64 output voltage was restored at 1920 to above 121.3 meter V by
+manual operation of the LTC in accordance with System Operating Procedure 23.320. Therefore, Division 1 AC Source
+was inoperable from 1644 to 1920 on April 24, 2016.
+C. At 1644 on April 24, 2016, Emergency Diesel Generator (EDG) [[DG]] 12 lost its voltage reference required for
+synchronization across Breaker [[BKR]] C6 upon restoration of offsite power source. EDG 12 would not have been able to
+pass TS SR 3.8.1.15, which requires each EDG to synchronize with offsite power while loaded with emergency loads
+upon a simulated restoration of offsite power, transfer loads to offsite power, and return to standby status. The loss of
+synchronization capability lasted until the primary fuses for the ESF Bus 64C line side PTs were replaced on May 7, 2016,
+during FO 16-01. The loss of voltage reference did not affect the ability of EDG 12 to start and load in an accident
+scenario, but EDG 12 could not be manually synchronized with offsite power to allow loads to be transferred back to
+offsite power. Therefore, EDG 12 was inoperable from 1644 on April 24, 2016, until 1818 on May 8, 2016, when it was
+returned to service.
+Based on the Engineering analysis, multiple LCOs should have been entered by Operations based on inoperability of
+plant equipment as a result of this event. Because these LCOs were not entered, a number of LCO Conditions were not
+met. Specifically:
+1. Due to the Division 1 AC Source being inoperable, LCO 3.8.1, Condition D for one inoperable offsite circuit should have
+been entered from 1644 to 1920 on April 24, 2016. Required Action D.1, which requires performing TS SR 3.8.1.1 for the
+OPERABLE offsite circuit, has a Completion Time of 1 hour, which was not met. TS SR 3.8.1.1 verifies correct breaker
+alignment and indicated power availability for each offsite circuit. Although TS SR 3.8.1.1 was not performed, Division 2
+offsite power was available. All other Required Actions for this Condition have Completion Times that are longer than the
+duration of this condition.
+2. Due to the LOP instrumentation being inoperable, LCO 3.3.8.1 Condition A for one or more buses with one or more
+channels inoperable should have been entered at 1644 on April 24, 2016. LCO 3.3.8.1 Condition A Required Action A.1
+requires that the channel be restored to OPERABLE status within 72 hours. The LOP channels were not restored in 72
+hours and therefore, LCO 3.3.8.1 Condition B should have been entered at 1644 on April 27, 2016. LCO 3.3.8.1
+Condition B Required Action B.1 requires that the associated EDG be declared inoperable immediately when Condition A
+could not be met. Therefore, both of these Required Action Completion Times were not met.
+NRC FORM 366A (06-2016) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy andI nformation Collections Branch (T-5
+1 f/, CONTINUATION SHEET F In 5 f 3 o ) c , ol U le . c S t . s .R N es u o c u le rc a e r @ R n e rc g . u g l o a v to , ry a nd C o to m t m h i e ss D io e n s , k O W ff a ic s e h r i , n O gt f o fi n c , e o D f I C nf o 2 rm 05 a 5 ti 5 o - n 0 0 a 0 n 1 d , R o e r gu b la y t o e ry - m A a ff i a l irs to ,
+NEOB-10202, (3150-0104), Office of Management andB udget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose ani nformation collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregas/staff/srl022/r3/1) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341 21
+009 - 00
+NARRATIVE
+3. Due to EDG 12 being inoperable starting at 1644 on April 24, 2016, LCO 3.8.1 Condition A for one EDG inoperable
+should have been entered until Mode 4 was entered at 1525 on May 4, 2016. LCO 3.8.1 Condition A Required Action A.1
+requires that TS SR 3.8.1.1 be performed for operable offsite power circuit(s) within one hour and once per 8 hours
+thereafter. Although TS SR 3.8.1.1 was not performed at the required times, Division 2 offsite power was available
+throughout this event. LCO 3.8.1 Condition A Required Action A.2 states that required feature(s), supported by the
+inoperable EDGs, must be declared inoperable within 4 hours when the redundant required feature(s) are inoperable.
+This Required Action was not performed and during the timeframe EDG 12 was inoperable work was performed on
+required redundant features in Division 2. Some of this work exceeded four hours; therefore, this Required Action was not
+met. LCO 3.8.1 Condition A Required Action A.3 requires verifying the status of CTG 11-1 once per 8 hours, and
+Required Action A.5 requires restoration of CTG 11-1 within 72 hours of discovery of this condition concurrent with CTG
+11-1 not being available. Required Action A.3 was not performed; however, CTG 11-1 was available throughout this time.
+Therefore, Required Action A.5 would not have applied. LCO 3.8.1 Condition A also has a 24 hour Completion Time to
+either determine operable EDGs are not inoperable due to common cause failure (Required Action A.4.1) or perform TS
+SR 3.8.1.2 for operable EDGs (Required Action A.4.2). Neither Required Action A.4.1 nor Required Action A.4.2 was
+performed at the time they were applicable; however, no EDGs were inoperable due to common cause failure as no other
+EDGs were affected by this condition. LCO 3.8.1 Condition A Required Action A.6 requires restoring the EDG to
+OPERABLE status within 14 days. As previously noted, Mode 3 was entered on May 3, 2016, and Mode 4 was entered
+on May 4, 2016 (approximately 10 days later). Finally, LCO 3.8.1 Condition G requires the reactor to be in Mode 3 in 12
+hours if the Required Actions and associated Completion Times of Condition A are not met. Based on the shortest LCO
+3.8.1 Condition A Completion Time (1 hour for Required Action A.1), the LCO 3.8.1 Condition G Completion Time was not
+met.
+4. During the timeframe when Division 1 EDG 12 was inoperable, planned surveillances (SRs) were performed on the
+Division 2 EDGs (13 and 14). The following list delineates when the Division 2 EDGs were inoperable.
+-EDGs 13 and 14 were both inoperable during the following timeframes:
+a) 1455 to 2215 on April 27, 2016, and
+b) 0033 to 0446 on April 30, 2016.
+-EDG 13 was inoperable on April 26, 2016, during the following timeframes:
+c) 1706 to 1806, and
+d) 1957 to 2207.
+-EDG 14 was inoperable on April 30, 2016, during the following timeframes:
+e) 0909 to 1033, and
+f) 1535 to 1611.
+LCO 3.8.1 Condition C Required Action C.1 requires that if one or both EDGs in both divisions are inoperable, both EDGs
+in one division be restored to OPERABLE status within two hours. This LCO Condition was not entered. Timeframes a,
+b, and d exceeded two hours; however, timeframes c, e, and f were less than two hours. As previously noted, LCO 3.8.1
+Condition G requires the reactor to be in Mode 3 in 12 hours if the Required Action and associated Completion Time of
+Condition C are not met. LCO 3.8.1 Condition G was not entered; however, none of the timeframes (a through f) when
+EDGs 13 and/or 14 were inoperable exceeded 12 hours. Therefore, this LCO Completion Time is longer than the duration
+of this condition.
+As noted in Example 3 above, LCO 3.8.1 Condition A Required Action A.2 and an identical LCO (3.8.1 Condition B
+Required Action B.2 for two EDGs in one division inoperable) state that required feature(s), supported by the inoperable
+EDGs, must be declared inoperable within four hours when the redundant required feature(s) are inoperable. These
+NRC FORM 366A (06-2016) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10131/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LIC ENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the FOIA, Privacy andI nformation Collections Branch (T-5
+i /1 CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/1 NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Fermi 2 05000- NUMBER NO.
+341206_ 2016 - 00099 0 - 00i~
+NARRATIVE
+Required Actions were performed during the timeframes a through f as required; however, Operators did not know at the
+time that EDG 12 was inoperable. If Operators had known that EDG 12 was inoperable, the SRs on Division 2 EDGs 13
+and/or 14 in timeframes a through f would not have been performed.
+Both EDGs in one division are required to provide AC power. The six timeframes (a through f) noted above when one or
+both of EDGs 13 and 14 were inoperable while EDG 12 was inoperable are reportable based on meeting the criteria of
+Title 10 Code of Federal Regulations (10 CFR) 50.73(a)(2)(v) (B) and (D) for an event or condition that could have
+prevented the fulfillment of the safety function of structures or systems that are needed to remove residual heat and
+mitigate the consequences of an accident, respectively.
+Because the instances described in this LER occurred in the past and there was no loss of safety function at the time of
+discovery, no Event Notification was made under the corresponding requirement in 10 CFR 50.72(b)(3)(v)(B) and (D).
+Furthermore, examples 1 through 4 where LCOs were not entered and thus, multiple Completion Times were not met are
+Conditions Prohibited by TS and are reportable under 10 CFR 50.73(a)(2)(i)(B).
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no safety consequences or radiological releases associated with these events.
+The EDGs provide backup power if a loss of offsite power occurs. There are two fully redundant divisions, each having
+two EDGs. Therefore, there was no actual loss of safety function during the times when the Division 2 EDGs (13 and 14)
+were both OPERABLE while a Division 1 EDG (EDG 12) was inoperable.
+The LOP instrumentation is implemented by two undervoltage functions, LOV relays and DVRs. Both the LOV relays and
+DVRs connected across phase-to-neutral of the Bus 64C PTs correctly responded to the blown PT fuses. The 130 V
+Direct Current (DC) supply for control of the undervoltage relays remained functional. The other relays (two for LOV and
+two for DVR scheme) connected across phase-to-phase of the Bus 64C PTs were not tripped. Therefore, the LOP
+instrumentation went from a one out of two, taken twice, logic to a one out of two logic and remained capable of fulfilling its
+design functions.
+During a LOCA coincident with a degraded grid condition, the LOV relays and DVRs may not have reset starting at 1644
+on April 24, 2016, until Operations increased the voltage above 121.3 meter V by manually using the SS64 LTC at 1920
+on April 24; 2016. With the LOV relays and DVRs remaining in half-tripped position, the first occurrence of a degraded
+grid voltage may have led to premature separation of the Class 1E buses from the preferred offsite source, starting EDGs
+11 and 12, and re-sequencing the safety loads. In this event, safety loads would have been powered by EDGs 11 and 12
+to maintain the reactor in a safe condition. Although EDG 12 could not be manually synchronized with offsite power to
+allow loads to be transferred back to offsite power as a result of this condition, the EDGs have a seven day fuel supply, as
+required by TS 3.8.3. This would provide time for a temporary modification and procedure change to transfer the loads
+back to offsite power.
+Therefore, although Division 1 EDG 12 should have been declared inoperable starting at 1644 on April 24, 2016, the
+inoperable LOP relays would not impact the capability of EDG 12 to start and assume loads during a design basis event.
+The LOP logic in the half tripped condition remained capable of starting the EDG upon a sensed loss of grid or degraded
+grid condition. Therefore, during the six timeframes when EDGs in both divisions were inoperable due to surveillances
+being performed on the Division 2 EDGs 13 and/or 14, both Division 1 EDGs remained capable of performing their safety-
+related functions to start and assume loads during a design basis event.
+NRC FORM 366A (06-2016) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31120:18
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons teamed are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIAP, rivacy andI nformation Collections Branch (T-5
+CONTINUATION SHEET F53),U .S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management andB udget, Washington, DC2 0503. Ifa means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose anin formation collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rn/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Ferm i2
+34120 260016 - 0099 -L - 0 0
+NARRATIVE
+Furthermore, Division 2 offsite power remained functional throughout the event. There was no report of inoperability or
+malfunction with Class 1E equipment or onsite generation systems with Division 2. Therefore, reactor cooling and safety
+was always supported with at least one division of fully functional offsite power source and onsite generation.
+CAUSE OF THE EVENT
+The Direct Cause of the LOP instrumentation being inoperable was an open circuit. The phase-to-neutral PT high side
+fuses were blown on non-safety Bus 64A and safety-related Bus 64C, resulting in a loss of output from the PTs. A failure
+analysis performed by a third-party laboratory confirmed that the fuses had opened on a low energy transient event. The
+source of the low energy transient event could not be determined, but it appears to have been intermittent from either the
+4160 V secondary side of SS64 or a transient on the 120 kV grid.
+The cause of Operators not entering the required LCOs was unfamiliarity with this equipment condition and a failure to
+recognize the impacts of the condition.
+CORRECTIVE ACTIONS
+Transformer 64 Buses 64A, 64B, 64C, and 64V were inspected and the fuses were replaced during FO 16-01, which
+restored compliance with the TS requirements. A Temporary Modification was installed to monitor Bus 64A to detect
+future transients.
+Operations completed a Department Event Free Day Reset and Event Review.
+Other Corrective Actions include additional training for Operators on the issues described in this LER.
+PREVIOUS OCCURRENCES
+There are no previous LERs for similar events for a low energy transient event resulting in blown phase-to-neutral fuses
+on the PT relays.
+LER 2015-009 documented an event on July 28, 2015, where Operators failed to enter an LCO during planned work on
+the UHS. In this event, the missed LCO entries were an inadvertent deletion by the Operators during preparation of the
+LCO log entries. Therefore, the Corrective Actions associated with LER 2015-009 would not have prevented the incorrect
+Operability determination and missed LCO entries discussed in this LER.
+On January 6, 2016, an LCO entry was not made when the East and West Turbine Bypass Valves opened during High
+Pressure Stop Valve 1 drifted closed to 25%. This missed LCO entry was due to a non-conservative decision by the
+Operators. Contributing to this decision was a misinterpretation of an overly conservative statement in the TS Bases.
+This event was reported in LER 2016-001. Therefore, the Corrective Actions associated with this event would not have
+prevented the incorrect Operability determination and missed LCO entries discussed in this LER.
+ADDITIONAL INFORMATION
+Failed Component: Phase-to-neutral PT fuses
+Manufacturer: General Electric
+Model Number: EJ-1 1E
+NRC FORM 366A (06-2016) Page 6 Of 6

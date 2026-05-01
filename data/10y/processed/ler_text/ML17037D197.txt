@@ -1,0 +1,228 @@
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604333 10CFR50.73
+February 1, 2017 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+··Clinton.Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2016-012-00
+Enclosed is Licensee Event Report (LER) 2016-012-00: Residual Heat Removal (RHR) "C"
+Pump Failure During Suiveillance Testing as a Result of Breaker Latch Check Switch
+Adjustment Results in a Condition Prohibited by Technical Specifications. This report is
+being submitted in accordance with the requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale A. Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: Licensee Event Report 2016-012-00
+cc:
+Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+u_s.
+NRC FORM 366 NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+{06-2016)
+Estimated burden per response to comply with this mandatory collection request 80 hours.
+~.::.r>"'""rou<,>c. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+{ ) LICENSEE EVENT REPORT {LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+~• ••••••••• (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budge~ Washington, DC 20503. If a
+means used to impose an information collection does not display a currently valid OMB control
+number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information coliection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. TITLE
+Residual Heat Removal (RHR) "C" Pump Failure During Surveillance Testing as a Result of Breaker Latch Check Switch
+Adjustment Results in a Condition Prohibited by Technical Specification
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR 05000
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+12 05 2016 2016 - 012 - 00 02 01 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 Cd> 20.220sca)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.22osca><1> 20.22os(a)(4) so.1sca>(2)(no 50.73(a)(2)(ix)(A)
+D D D D
+20.22osca><2><i> 50.36(c)(1)(i){A) 50.73{a)(2){iv)(A) 50.73(a)(2)(x)
+1 O. POWER LEVEL D 20.22osca><2><ii) D 50.36(c)(1){ii){A) D 50.73(a)(2){v)(A) D 1s.11(a)(4l
+D D D D
+20.2203<a><2><rn> so.s6(c)(2) 50.73(a)(2)(v)(B) 13.11(a){s)
+D D D D
+20.2203(a)(2)(iv) so.46{a)(3){ii) 50.73(a){2)(v)(C) 13.11(a)(1)
+D D D D
+099 20.2203(a)(2)(v) 50.73{a){2)(i){A) 50.7~(a){2)(v){D) 1s.11(a){2){il
+D D D
+20.2203(a)(2)(vi) ~ 50.73{a){2){i){B) 50.73(a){2){vii) 73.77{a){2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT !TELEPHONE NUMBER (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217-937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU· REPORTABLE ·MANU REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+w
+D BO BKR N
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (ff yes, complete 15. EXPECTED SUBMISSION DATE) ~ NO DATE
+ABSTRACT (Limit io 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 5, 2016 at 2011 hours during a surveillance test of the Residual Heat Removal (RHR) "C" pump, a
+Westinghouse DHP Breaker for the RHR "C" pump failed to close. This occurrence resulted in a failure of RHR "C"
+pump to start. The pump was declared INOPERABLE and Technical Specification (TS) Limiting Condition of
+Operation (LCO) 3.5.1, "Emergency Core Cooling System -Operating," Required Action A.1 was entered to restore the
+pump to OPERABLE status in seven days. Performance records indicate the breaker was installed on March 11, 2016
+in the RHR "C" pump cubicle and successfully operated on March 11, June 9, and September 6, 2016, prior to failure.
+An investigation determined that the breaker latch check switch contacts were not closed and that the latch check
+switch setting was out of procedural limits. The most likely time that the switch would have become out of adjustment
+would have been during transport of the breaker to the RHR "C" pump breaker cubicle on March 11, 2016. The
+apparent cause of the failure was an inadequate verification of the latch check switch setting performed prior to
+installation of the breaker in the cubicle. Corrective measures have been initiated that include revising plant
+procedures to record latch check switch adjustment value. The condition described in this report is reportable under
+1OCFR50.73(a)(2)(i)(B) as an "operation or condition which was prohibited by the plant's Technical Specifications."
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 012 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX]
+EVENT IDENTIFICATION
+Residual Heat Removal (RHR) "C" Pump Failure During Surveillance Testing as a Result of
+Breaker Latch Check Switch Adjustment Results in a Condition Prohibited by Technical
+Specifications
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 12/05/16 Event Time: 2011
+Mode: 1 Mode Name: Power Operation Reactor Power: 99 percent
+B. DESCRIPTION OF EVENT
+On December 5, 2016 at 2011 hours, Westinghouse DHP Breaker 1AP09EF for the Residual Heat
+Removal (RHR) "C" pump failed to close during the operability surveillance. During the test, the
+pump control switch was held in the start position for approximately 3 seconds with no indication of a
+pump start. When the control switch was released to the auto position, the pump trip indication
+illuminated. The RHR "C" pump was declared INOPERABLE and Technical Specification (TS)
+Limiting Condition of Operation (LCO) 3.5.1, "Emergency Core Cooling System-Operating", Required
+Action A.1 was entered to restore RHR "C" to OPERABLE status within seven days.
+During the event investigation, the breaker charging springs were found to be charged and the latch
+check switch contacts open with the breaker installed in the cubicle. The function of the latch check
+switch is to indicate when the circuit breaker is "ready to close,'' providing a permissive for the breaker
+closure. In restoring the RHR "C" pump to OPERABLE status, the latch check switch was measured
+to be zero inches overtravel. The setting was adjusted to an overtravel value of 3/16 inch past the
+point that the contacts are closed as specified in plant procedures. Technicians that adjusted the
+latch check switch during the post event investigation indicated that the contact resistance was
+acceptable and the switch operated mechanically as expected. The mounting screws were
+subsequently verified to be tight following the failure. The breaker was placed back in service and
+post maintenance testing of RHR pump "C" was concluded satisfactorily. The RHR "C" pump was
+declared OPERABLE on December 6, 2016 at 0822 hours.
+NRC FORM 366A (06-2016) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an infonmation collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 012 - 00
+NARRATIVE
+Breaker performance records indicate that the breaker was prepared for installation in the RHR "C"
+pump cubicle on January 19, 2016. The latch check switch setting was measured and recorded at
+3/16 inch overtravel at that time. The breaker was installed in the RHR "C" pump cubical on March
+11, 2016. On this date, the latch check switch setting before the installation was verified to be
+within specification but the value was not recorded. The most likely time that the switch would have
+become out of adjustment would have been during transport to the RHR "C" pump breaker cubicle
+on March 11, 2016. The latch check switch verification was not sufficient to identify an out of
+adjustment condition.
+Following installation on March 11, 2016, the breaker operated satisfactorily on March 11, 2016,
+June 9, 2016, and September 6, 2016 prior to the failure. Since it is unlikely that the switch
+adjustment would change without breaker operation, it's assumed that switch contacts failed to
+close following the last successful surveillance test on September 6, 2016. Consequently, since the
+RHR "C'' pump breaker would likely not closed since its last satisfactory surveillance on
+September 6, 2016 until the failed RHR pump operability surveillance on December 5, 2016, this
+constitutes a condition prohibited by Technical Specifications.
+C. CAUSE OF EVENT
+The cause of this event is that an inadequate latch check switch verification was performed prior to
+installation of the breaker into the cubicle. The required switch adjustment value of 1/8 to 3/16 inch
+past the point that the contacts are closed was verified but not recorded. As a result, a supervisory
+review of the switch adjustment value could not be performed and the out adjustment condition
+went undetected.
+D. SAFETY ANALYSIS
+There were no safety consequences associated with the event described in this report. The event is
+reportable under 1OCFR50.73(a)(2)(i)(B) as an "operation or condition which was prohibited by the
+plant's Technical Specifications." Failure of the RHR pump "C" to start during the surveillance test
+was a condition prohibited by the TS; however, this surveillance failure did not adversely affect the
+ability the plant to safely shutdown in the event of an accident. When the pump was declared
+INOPERABLE, TS 3.5.1, Required Action A.1 was entered to restore it to OPERABLE status. RHR
+"C" was restored in approximately 12 hours. The RHR system safety function to transfer fission
+product decay heat and other residual heat from the reactor core at a rate such that specified
+acceptable fuel design limits and the design conditions of the reactor coolant pressure boundary was
+not jeopardized. Since RHR "A", "B" and low pressure core spray pumps remained OPERABLE
+during this event, a redundancy of plant components and features remained available to assure that
+operation the RHR system safety function could be accomplished.
+NRG FORM 366A (06-2016) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budge~ Washington, DC 20503. If a means
+used to impose an information collection does not display a currenHy valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 012 00
+NARRATIVE
+E. CORRECTIVE ACTIONS
+Actions have been initiated to revise plant procedures to ensure the tightness of the mounting
+screws of the latch check switch prior to measuring the adjustment value and record the latch
+check switch setting prior to breaker installation. A sample of completed latch check switch
+settings will be reviewed for similar inadequacies.
+F. PREVIOUS SIMILAR OCCURENCES
+No previous Event Reports were identified which detail an occurrence similar to the event
+described in this report.
+G. COMPONENT FAILURE DATA
+Manufacturer: Westinghouse
+Component Type: DHP 6900, 4160 Volt Power Circuit Breaker
+NRC FORM 366A (06-?016) Page _4_ of _4_

@@ -1,0 +1,211 @@
+-
+·==~ Entergy
+Entergy Operations, Inc.
+P.O. Box 756
+Port Gibson, Mississippi 39150
+Robert Franssen
+Site Vice President
+Grand Gulf Nuclear Station
+Tel: 601-437-7500
+10 CFR 50.73
+GNRO-2021 /00029
+August16,2021
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Grand Gulf Nuclear Station, Unit 1 Licensee Event Report 2021-002-00,
+Core Monitoring System Software Error Resulted in Conditions Prohibited
+by Technical Specification
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+Renewed License No. NPF-29
+Attached is Licensee Event Report 2021-002-00, Core Monitoring System Software Error
+Resulted in Conditions Prohibited by Technical Specification. This report is being submitted in
+accordance with 10 CFR 50. 73(a)(2)(i)(B), as an operation or condition which was prohibited by
+the plant's Technical Specifications.
+This letter contains no new Regulatory Commitments. Should you have any questions
+concerning the content of this letter, please contact Jeff Hardy, Regulatory Assurance Manager
+at 269-764-2011.
+Sincerely,
+Robert Franssen
+RF/fas
+Attachments: Licensee Event Report 2021-002-00
+GNRO-2021/00029
+Page 2 of 3
+cc: NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U.S Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+GNRO-2021 /00029
+Page 3 of 3
+Attachment
+Licensee Event Report 2021-002-00
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See Page 3 for required number of digits/characters for each block)
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Grand Gulf Nuclear Station, Unit 1 05000 - 416 1 of 3
+4. Title
+Core Monitoring System Software Modeling Error Resulted in Conditions Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A 05000 N/A
+Facility Name Docket Number
+06 17 2021 2021 -002 - 00 08 16 2021
+N/A 05000 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Jeff Hardy, Manager Regulatory Assurance (269)-764-2011
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 17, 2021, with Grand Gulf Nuclear Station (GGNS) operating at 100 percent power, Entergy received a letter
+from GE Hitachi issuing SC 21-04, Revision1, “Fuel Support Side Entry Orifice Meta-Stable Flow for 2 Beam Locations
+in the BWR/6 Reactors,” identifying that the Global Nuclear Fuels (GNF) model for fuel affected by the Side Entry
+Orifices did not accurately account for the loss coefficients at those core locations causing a local overprediction in
+Minimum Critical Power Ratio (MCPR) margin. This resulted in the determination by Entergy that a condition prohibited
+by Technical Specifications (TSs) had existed at GGNS and this report being made in accordance with 10 CFR
+50.73(a)(2)(i)(B).
+The cause of the event was GNF had not accurately accounted for the loss coefficients at applicable core locations
+causing a local overprediction in MCPR margin resulting in exceeding the MCPR TS limit.
+Corrective actions include implementing a penalty to Operating Limit MCPR (OLMCPR) in the core monitoring system
+via an update to the databank to include all penalties associated with GEH letter SC 21-04, Revision 1, and an update to
+the current Core Operating Limits Report (COLR).
+There were no consequences to the general safety of the public, nuclear safety, industrial safety, nor radiological
+safety.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000 - 416 NUMBER NO.
+2021 - 002 - 00
+NARRATIVE
+Plant Conditions:
+Grand Gulf Nuclear Station (GGNS) Unit 1 was operating at 100 percent power in MODE 1. There were no
+Structures, Systems, or Components that were inoperable that contributed to this event.
+Event Description:
+On June 17, 2021, with GGNS operating at 100 percent power, Entergy received a letter from GE Hitachi (GEH)
+concerning a Part 21 Report. This Part 21 Report was transmitted to Entergy and the NRC documenting an update
+on the issue related to an underprediction of the Side Entry Orifice (SEO) loss coefficients in core analyses, resulting
+in a local overprediction in MCPR margin.
+Specifically, Global Nuclear Fuels (GNF) identified the SEO loss coefficients for fuel bundle locations adjacent to
+2-beam (corner) locations may potentially be higher than the current design basis value that is applied. The MCPR
+impact on potentially affected bundles that are near limits can potentially reduce this margin by greater than 0.01 in
+Critical Power Ratio. GEH has completed the evaluation of the condition to determine reportability under
+10 CFR Part 21 and is a reportable condition under 10 CFR Part 21.21(a)(2) and a transfer of information under
+10 CFR 21.21(b). The basis for reportability is that the change in MCPR associated with this issue could contribute to
+the exceeding of a Safety Limit, as defined in the GGNS TSs.
+The history of variable Maximum Fraction of Limiting Core Power Ratio (MFLCPR) for the last 3 years was reviewed.
+The objective was to identify any period where the MFLCPR (corrected for SC 21-04) exceeded 1.0 for more than 6
+hours. During Cycle 22 (August 2018 through January 2020) and Cycle 23 (2020 – Present) there were multiple
+periods where MFLCPR was greater than 1.0 for longer than 6 hours. During these instances, the requirements of TS
+3.2.2 were not met; however, during this time period there were no limiting transients that would be a challenge to the
+Safety Limit and there were no Safety Limit violations.
+GGNS previously performed an Op Eval for SC 21-04 Revision 0 in CR-GGN-2021-3024 CA-01, which resulted in the
+implementation of a compensatory measure for tracking CR-GGN-2021-04909. To ensure compliance until the new
+COLR is approved, the site issued a standing order for reduced administrative MFLCPR as the compensatory
+measure. The site’s review of SC 21-04 Revision 1 was performed and based on that review; the standing order was
+updated to add additional conservatism.
+The BWR/6 plant design is that it has supporting cross beams that form a grid structure underneath the core plate.
+The orientation of SEO’s relative to the beams produces the different losses due to difference in upstream flow areas.
+These variations influence the SEO flow patterns and the potential for a meta-stable pressure loss. Because the
+frequency at which meta-stable losses may occur has not been determined, GGNS was evaluated using a bounding
+loss coefficient (1.9 times the current loss value) at the 2-beam location. Results show the potential MCPR impact at
+limiting locations can be greater than 0.01 and will vary by plant and power/flow condition. The MCPR impact is
+greater than the 0.01 criterion that GEH has historically applied for reporting that a TS Safety Limit (as found in TS
+2.1) could have been exceeded as defined under 10 CFR Part 21. If the MCPR impact is greater than 0.01 due to
+possible meta-stable losses at the 2-beam locations, and if not addressed, the condition could occur at a limiting
+bundle location and reduce transient margin. This could have resulted in exceeding the Safety Limit Minimum Critical
+Power Ratio (SLMCPR) if a limiting transient were to have occurred.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+CONTINUATION SHEET
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000 - 416 NUMBER NO.
+2021 - 002 - 00
+Safety Assessment:
+There were no actual consequences for this event. The GGNS Operating Limit MCPR (OLMCPR) is set such that if the
+plant is operating at this limit, the most limiting operational transient for the cycle will not result in violation of the
+SLMCPR. The site reviewed the unit operating history for limiting transients and other analyzed transients that are
+close to being limiting in the Supplemental Reload Licensing Reports. This review concluded that, for the period
+reviewed, the limiting transients were turbine trip without bypass, feedwater controller failure, generator load reject
+without bypass, rod withdrawal error, and loss of feedwater heating.
+Because these limiting transients were not identified in the period reviewed, the margin between the SLMCPR and
+OLMCPR was adequate for continued SLMCPR protection. The SLMCPR was not exceeded in previous analyzed
+cycles and the margin between SLMCPR and OLMCPR was sufficient to accommodate the penalty evaluated in SC
+21-04, Revision 1. As a result, there was no impact to the health and safety of the public or plant personnel from this
+condition. In addition, this event does not meet the criteria for a Safety System Functional Failure.
+Event Cause(s):
+Based on the Entergy internal review, it was determined that the cause of this event was: GNF did not accurately
+account for the loss coefficients at those core locations causing a local overprediction in MCPR margin resulting in
+exceeding the MCPR TS limit.
+These occurrences of exceeding the MCPR TS limit were beyond the control of Entergy to predict or prevent because
+it is a legacy design calculation error. Entergy does not have the capability to check these calculations, nor does
+Entergy have the resources to perform an independent review of all GNF calculations. The methodology used in the
+reload process has been accepted by Entergy and we do not check underlying calculations that have existed
+unchanged for multiple cycles. Entergy will credit actions taken by GNF as part of the Part 21 notification, including
+actions they are taking for extent of condition in their calculations. This would include the results of any technical
+audit they are performing. Entergy Supplier Quality Assurance was notified of this Part 21 for follow-up on the GNF
+corrective action.
+Corrective Actions:
+To ensure compliance with the MCPR TS, GGNS issued the standard order as described above. Complete.
+GGNS has implemented a penalty to OLMCPR in the core monitoring system through an update to the databank to
+include all penalties associated with GEH letter SC 21-04, Revision 1. Complete.
+GGNS will update the current COLR and associated documents to account for all penalties associated with GEH letter
+SC 21-04, Revision 1. Completion tracked by Corrective Action Program.
+Entergy’s Supplier QA has added CR-HQN-2021-01048 and SC 21-04 R1 to the Qualified Supplier List comments
+sections for GEH/GNF Fuels for follow-up in the next audit. Complete.
+Previous Similar Events:
+None.
+NRC FORM 366A (08-2020) Page 3 of 3

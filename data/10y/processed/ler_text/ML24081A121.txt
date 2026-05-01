@@ -1,0 +1,155 @@
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 2 00277 1 OF 3
+052
+4. Title
+Automatic Reactor Scram due to an Invalid Generator Lockout
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+01 29 2024 2024 - 001 - 00 03 21 2024 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Wade Scott, Regulatory Assurance Manager 7174563047
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X TB RLY K080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 01/29/2024 at 1202 hours, Unit 2 experienced a Generator lockout, Turbine trip and automatic Reactor Scram. All control
+rods inserted, and all safety systems responded as designed. Reactor level was initially maintained by Feedwater and
+pressure controlled with bypass valves. During the scram response, condenser vacuum degraded due to the loss of Turbine
+steam seals, resulting in level and pressure control being transferred to Reactor Core Isolation Cooling (RCIC) and High
+Pressure Coolant Injection (HPCI), respectively.
+The cause of the Generator lockout is under investigation, with the suspected cause being a spurious trip of the Audio Tone
+system. The system has been removed from service with a redundant system providing the protective function. The Audio
+Tone system is scheduled for replacement in the 2024 refueling outage.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual or automatic actuation of systems listed in
+10CFR50.73(a)(2)(iv)(B) including the Reactor Protection System, containment isolation signals, actuation of an emergency
+core cooling system and Reactor Core Isolation Cooling. An ENS notification was made within 4 hours of the event and was
+updated within 8 hours, reference ENS 56936.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station, Unit 2 00277
+ 052 2024 - 001 - 00
+NARRATIVE
+Plant Operating Conditions Before the Event
+Prior to the event, Peach Bottom Atomic Power Station, Unit 2 was operating at approximately 100% power in
+MODE 1. There were no structures, systems or components (SSC) that were inoperable at the start of the
+event that contributed to the event.
+Event Description
+On 01/29/2024 at 1140 hours, the Main Control Room (MCR) received a Generator Tone Trouble Alarm, which
+immediately reset once acknowledged. A second Generator Tone Trouble Alarm was received, which
+remained locked in for a short period of time (approximately 15 seconds) before resetting.
+At 1202 hours, Unit 2 experienced a Generator lockout, Turbine trip and automatic Reactor Scram. Turbine
+control valves (EIIS: TA) closed as expected. Safety relief valves (EIIS: SB) were used to control the expected
+pressure increase and were not reopened after the initial transient. Primary Containment Group II and III
+Isolations (EIIS: JM) occurred as expected. Reactor vessel level was initially controlled by Feedwater (EIIS:
+SJ). Condenser vacuum slowly degraded due to an issue with the turbine steam seal system (EIIS: TC) and,
+therefore, after approximately 20 minutes level control was transferred to the Reactor Core Isolation Cooling
+(RCIC) system (EIIS: BN). Pressure control was maintained by turbine bypass valves (EIIS: SO) and the High
+Pressure Coolant Injection (HPCI) system (EIIS: BJ), which was only used for pressure control and not
+injection. Steam seals were restored and condenser vacuum was re-established. Vessel level control was
+transferred to Condensate (EIIS: SD) and the unit was safely transitioned to a cold shutdown condition.
+A review of the plant event logs confirmed that a generator lockout and power-load unbalance occurred. The
+2-50F-386A, Main Transformer Over Head Line Protection Lock Out Relay was the first actuating device. The
+‘TTR-1’ Audio Tone drawers indicated that a trip signal was transmitted from the Audio Tone drawers in the
+Cable Spreading Room to the drawers in the substation. The substation drawers opened the CB-225 and CB-
+215 breakers (EIIS: EL) upon receipt of the trip signal.
+At this time, the cause of the Generator lockout is still under investigation by a Root Cause analysis. The most
+probable cause is a failure of the Audio Tone trip system cables which are planned for abandonment in the
+upcoming 2024 refueling outage as part of a planned system upgrade. Currently, there is no plan to
+supplement this LER; however, this LER will be supplemented if the conclusions of the Root Cause analysis
+substantially change the information presented in this LER.
+An investigation was performed and the cause of the loss of condenser vacuum is attributed to the setting of
+the sealing steam header pressure control valve. This resulted in the valve not opening to admit steam to the
+sealing steam header following the trip of the main turbine, which provided a path for air in-leakage and
+degraded condenser vacuum.
+Unit 3 was unaffected by this event. Unit 2 start up was commenced at 2028 hours on 01/30/2024 and the unit
+was synchronized to the grid at 1427 hours on 01/31/2024.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual or automatic actuation of systems listed
+in 10CFR50.73(a)(2)(iv)(B) including RPS, containment isolation signals, actuation of an emergency core
+NRC FORM 366A (10-01-2023) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station, Unit 2 00277
+ 052 2024 - 001 - 00
+NARRATIVE
+cooling system and RCIC. An ENS notification was made within 4 hours of the event and was updated within 8
+hours, reference ENS 56936.
+Safety Consequences
+The reactor Scram occurred as designed and resulted in no safety consequences. All safety systems
+responded as expected. As described above, the temporary degradation in condenser vacuum resulted in use
+of the RCIC system to control level for a portion of the response, but this did not challenge the ability to safely
+shutdown and cool down the unit.
+Corrective Actions
+Immediate corrective actions were taken to remove the affected Audio Tone system (‘TTR-1’) from service and
+utilize the fully redundant ‘TTR-2’ system. The ‘TTR-1’ Audio Tone drawer has been replaced and a new set of
+cables has been identified and tested. After the completion of additional testing, this system will be maintained
+in a standby condition as a spare. The Audio Tone system is scheduled for a complete replacement in the
+upcoming 2024 refueling outage.
+The corrective action to address the condenser vacuum degradation is to revise the procedure which sets the
+sealing steam pressure control valve to ensure it will receive the appropriate demand signal when needed.
+Previous Similar Events
+Peach Bottom has not experienced a Scram due to a Generator lockout in at least 10 years. The station
+experienced a trip of the Audio Tone system for an offsite source due to cable degradation in 2001 (Ref. EN
+38241).
+NRC FORM 366A (10-01-2023) Page 3 of 3

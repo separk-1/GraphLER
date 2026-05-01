@@ -1,0 +1,177 @@
+=~ Constellation.
+10 CFR 50.73
+LG-25-081
+April 21, 2025
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2025-001-00 Bypass Leakage on the B Train of Standby Gas Treatment System
+HEPA Filters Exceeded Technical Specification Value
+In accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B), Limerick Generating Station
+hereby submits the enclosed Licensee Event Report.
+There are no commitments contained in this letter.
+If you have any questions, please contact Jordan Rajan at (610) 718-3400.
+Respectfully,
+Digitally signed by Gillin, Michael
+Gillin, Michael F.
+F.
+Date: 2025.04.21 17:39:22 -04'00'
+Michael F. Gillin
+Vice President – Limerick Generating Station
+Constellation Energy Generation, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+l~•"'""••,.\ LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+; ; (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+..-.i,,,, ........ T<o{- at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name □ ■ 050 2. Docket Number 3. Page
+Limerick Generating Station Unit 1
+352 1 OF 3
+□ 052
+4. Title
+Bypass Leakage on the B Train of Standby Gas Treatment System HEPA Filters Exceeded Technical Specification Value
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year □ ■ 050
+Limerick Unit 2 353
+02 19 2025 2025 - 001 - 00 04 21 2025 Facility Name Docket Number
+□ 052
+9. Operating Mode I10 . Power Level
+OPCON 1 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(g)
+□ 20.2203(a)(2)(iv) □✔ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Jordan Rajan 610-718-3400
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A BH FLT A220 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□✔ No □ Yes (If yes, complete 15. Expected Submission Date)
+16.(cid:3)Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On February 19, 2025, at 08:40 the B (cid:85)(cid:83)ain of Standby Gas Treatment System (SGTS) was removed from service to test the
+charcoal adsorber and High-Efficiency Particulate Air (HEPA) filter banks. The test identified the as-found leakage for the
+upstream and downstream HEPA filter banks exceeded the Technical Specification (TS) leakage allowance. The HEPA filters
+were replaced, and the system was satisfactor(cid:74)(cid:77)y retested. This condition was reportable per 10 CFR 50.73(a)(2)(i)(B).
+The B(cid:1)(cid:85)(cid:83)(cid:66)(cid:74)(cid:79)(cid:1)(cid:80)(cid:71) SGTS was previously tested on March 19, 2020, and the as-found leakage was elevated. Since the leakage was
+close to the TS acceptance criteria, the issue was entered into the corrective action process. The HEPA filters exceeded the
+leakage criteria (cid:67)(cid:70)(cid:68)(cid:66)(cid:86)(cid:84)(cid:70)(cid:1)(cid:38)(cid:79)(cid:72)(cid:74)(cid:79)(cid:70)(cid:70)(cid:83)(cid:74)(cid:79)(cid:72)(cid:1)(cid:69)(cid:74)(cid:69)(cid:1)(cid:79)(cid:80)(cid:85)(cid:1)(cid:70)(cid:79)(cid:84)(cid:86)(cid:83)(cid:70)(cid:1)(cid:78)(cid:66)(cid:74)(cid:79)(cid:85)(cid:70)(cid:79)(cid:66)(cid:79)(cid:68)(cid:70)(cid:1)(cid:88)(cid:66)(cid:84)(cid:1)(cid:84)(cid:68)(cid:73)(cid:70)(cid:69)(cid:86)(cid:77)(cid:70)(cid:69)(cid:1)(cid:66)(cid:79)(cid:69)(cid:1)(cid:70)(cid:89)(cid:70)(cid:68)(cid:86)(cid:85)(cid:70)(cid:69)(cid:1)(cid:81)(cid:83)(cid:74)(cid:80)(cid:83)(cid:1)(cid:85)(cid:80)(cid:1)(cid:70)(cid:89)(cid:68)(cid:70)(cid:70)(cid:69)(cid:74)(cid:79)(cid:72)(cid:1)(cid:85)(cid:73)(cid:70)(cid:1)(cid:53)(cid:52)(cid:1)
+(cid:77)(cid:74)(cid:78)(cid:74)(cid:85). An action to perform post trending analysis will be added to the Surveillance Test package to ensure the filters do not
+exceed the TS leakage criteria before the next scheduled performance.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/¥,...,..,.., .,,. ... lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+\ ~ . .i g CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+....... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+......+. . 0~
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+I I~ I I □ NUMBER NO.
+Limerick Generating Station Unit 1 352 D
+052 2025 - I 001 - 00
+I
+NARRATIVE
+Unit Condition Prior to the Event
+Unit 1 was in Operational Condition (OPCON) 1 (Power Operation) at approximately 100% power. Unit 2 was in
+Operational Condition (OPCON) 1 (Power Operation) at approximately 100% power. There were no other structures,
+systems or components out of service that contributed to this event.
+Description of the Event
+On February 19, 2025, at 08:40 the B (cid:87)rain of Standby Gas Treatment System (SGTS) [EIIS:BH] was removed from
+service to test the charcoal adsorber and High-Efficiency Particulate Air (HEPA) filter banks. Each SGTS train has two
+HEPA filter banks and a charcoal adsorber. The upstream HEPA filter bank removes radioactive particulates, while the
+charcoal adsorber removes gaseous iodine that may be present in the air stream. The downstream HEPA filter bank
+removes any carbon fines that may become entrained in the air stream after leaving the charcoal adsorber and providing
+redundant protection against failure of the upstream HEPA filter.
+(cid:47)(cid:72)(cid:68)(cid:78)(cid:68)(cid:74)(cid:72)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:79)(cid:72)(cid:86)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:19)(cid:17)(cid:19)(cid:24)(cid:3)(cid:83)(cid:72)(cid:85)(cid:70)(cid:72)(cid:81)(cid:87)(cid:3)(cid:87)(cid:82)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:55)(cid:72)(cid:70)(cid:75)(cid:81)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:54)(cid:83)(cid:72)(cid:70)(cid:76)(cid:73)(cid:76)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:11)(cid:55)(cid:54)(cid:12)(cid:3)(cid:79)(cid:76)(cid:80)(cid:76)(cid:87)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:76)(cid:81)(cid:3)(cid:83)(cid:79)(cid:68)(cid:70)(cid:72)(cid:3)(cid:83)(cid:72)(cid:81)(cid:72)(cid:87)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)
+(cid:79)(cid:72)(cid:68)(cid:78)(cid:68)(cid:74)(cid:72)(cid:3)(cid:87)(cid:72)(cid:86)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:43)(cid:40)(cid:51)(cid:36)(cid:3)(cid:73)(cid:76)(cid:79)(cid:87)(cid:72)(cid:85)(cid:3)(cid:69)(cid:68)(cid:81)(cid:78)(cid:86)(cid:17)(cid:3) The test identified the as-found leakage for the upstream HEPA filter bank was
+0.11 percent and the as-found downstream HEPA filter bank leakage was 0.16 percent. The HEPA filters were replaced,
+and the system was retested. The system was declared operable on February 20, 2025, at 11:44.
+The B (cid:87)rain of SGTS was last tested on March 19, 2020. The as-found leakage of the upstream filter bank was 0.044
+percent, and the as-found downstream HEPA filter bank was 0.046 percent. Since the leakage was close to the TS
+acceptance criteria, the issue was entered into the corrective action process. A note was added to the Issue Report (IR
+4328138) stating the HEPA filters should be replaced prior to the next performance of the test.
+The exact time the B (cid:87)rain of SGTS was inoperable cannot be determined. (cid:37)(cid:68)(cid:86)(cid:72)(cid:71)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:72)(cid:68)(cid:78)(cid:68)(cid:74)(cid:72)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:21)(cid:19)(cid:21)(cid:19)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)
+(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:86)(cid:16)(cid:73)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:79)(cid:72)(cid:68)(cid:78)(cid:68)(cid:74)(cid:72)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:21)(cid:19)(cid:21)(cid:24)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:72)(cid:68)(cid:78)(cid:68)(cid:74)(cid:72)(cid:3)(cid:79)(cid:76)(cid:78)(cid:72)(cid:79)(cid:92)(cid:3)(cid:72)(cid:91)(cid:76)(cid:86)(cid:87)(cid:72)(cid:71)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:74)(cid:85)(cid:72)(cid:68)(cid:87)(cid:72)(cid:85)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:55)(cid:54)(cid:3)(cid:68)(cid:70)(cid:70)(cid:72)(cid:83)(cid:87)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:70)(cid:85)(cid:76)(cid:87)(cid:72)(cid:85)(cid:76)(cid:68)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:74)(cid:85)(cid:72)(cid:68)(cid:87)(cid:72)(cid:85)(cid:3)
+(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:86)(cid:72)(cid:89)(cid:72)(cid:81)(cid:3)(cid:71)(cid:68)(cid:92)(cid:86)(cid:17) Additionally, since the exact date the B (cid:87)rain of SGTS became inoperable cannot be determined, there
+were times that the A (cid:87)(cid:85)(cid:68)(cid:76)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)SGTS was (cid:79)(cid:76)(cid:78)(cid:72)(cid:79)(cid:92)(cid:3)inoperable while the B(cid:3)(cid:87)(cid:85)(cid:68)(cid:76)(cid:81)(cid:3)(cid:82)(cid:73) SGTS was also inoperable. The action for
+both SGTS trains being inoperable was not entered. This condition is reportable per 10 CFR 50.73(a)(2)(i)(B).
+Analysis of the Event
+The HEPA filters failed (cid:69)(cid:72)(cid:70)(cid:68)(cid:88)(cid:86)(cid:72)(cid:3)(cid:40)(cid:81)(cid:74)(cid:76)(cid:81)(cid:72)(cid:72)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:71)(cid:76)(cid:71)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:72)(cid:81)(cid:86)(cid:88)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:76)(cid:81)(cid:87)(cid:72)(cid:81)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:68)(cid:86)(cid:3)(cid:86)(cid:70)(cid:75)(cid:72)(cid:71)(cid:88)(cid:79)(cid:72)(cid:71)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:91)(cid:72)(cid:70)(cid:88)(cid:87)(cid:72)(cid:71)(cid:3)(cid:83)(cid:85)(cid:76)(cid:82)(cid:85)(cid:3)(cid:87)(cid:82)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:72)(cid:71)(cid:76)(cid:81)(cid:74)(cid:3)
+(cid:87)(cid:75)(cid:72)(cid:3)(cid:55)(cid:54)(cid:3)(cid:79)(cid:76)(cid:80)(cid:76)(cid:87)(cid:17) (cid:3)The issue report for the degraded high HEPA filter bank leakage was not flagged as system health issue
+and the subsequent reviews did not identify the challenge to the TS limit.
+NRC FORM 366A (04-02-2024) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/¥,...,..,.., .,,. ... lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+\ ~ . .i g CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+....... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+......+. . 0~
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+I I~ I I □ NUMBER NO.
+Limerick Generating Station Unit 1 352 D
+052 2025 - I 001 - 00
+I
+NARRATIVE
+Safety Consequence
+There was no actual safety consequence associated with this event. The HEPA filter banks are conservatively credited
+with an efficiency of 99.0 percent. The as-found bypass leakage is bounded by the Alternate Source Term (AST)
+assumed SGTS HEPA filter bank efficiency. The B train of SGTS filter train was available to perform its design basis
+functions during the period where the upstream and downstream HEPA filter bypass leakage percentages exceeded the
+Technical Specification limits. This event is not a safety system functional failure.
+Cause of the Event
+The HEPA filters failed because Engineering did not ensure maintenance was scheduled and executed prior to exceeding
+the TS limit.
+Corrective Actions Completed
+The HEPA filters were replaced on the B train of SGTS, and the test was re-performed verifying the in-place penetration
+and leakage testing of the HEPA filter banks met the TS surveillance requirements.
+Corrective Actions Planned
+(cid:118) Review open deficiencies on TS equipment that could result in equipment inoperability to ensure the actions to
+address(cid:3)equipment deficiencies are properly scheduled.
+(cid:118) Add a task to the Surveillance Test work packages that perform Charcoal/HEPA testing for TS trains to perform
+post(cid:3)testing trending analysis to ensure that the Charcoal/HEPA filters are projected not to exceed the TS leakage
+criteria(cid:3)before the next scheduled performance.
+Previous Similar Occurrences
+There have been no previous similar licensee event reports in the past ten years.
+Component Data
+System: BH (Emergency/Standby Gas Treatment System)
+Component: FLT (Filter)
+Component Number:
+(cid:118) (cid:19)(cid:37)(cid:16)(cid:41)(cid:20)(cid:27)(cid:22)(cid:3)(cid:56)(cid:83)(cid:86)(cid:87)(cid:85)(cid:72)(cid:68)(cid:80)(cid:3)(cid:43)(cid:40)(cid:51)(cid:36)(cid:3)(cid:73)(cid:76)(cid:79)(cid:87)(cid:72)(cid:85)(cid:3)(cid:69)(cid:68)(cid:81)(cid:78)
+(cid:118) (cid:19)(cid:37)(cid:16)(cid:41)(cid:20)(cid:26)(cid:19)(cid:3)(cid:39)(cid:82)(cid:90)(cid:81)(cid:86)(cid:87)(cid:85)(cid:72)(cid:68)(cid:80)(cid:3)(cid:43)(cid:40)(cid:51)(cid:36)(cid:3)(cid:73)(cid:76)(cid:79)(cid:87)(cid:72)(cid:85)(cid:3)(cid:69)(cid:68)(cid:81)(cid:78)
+(cid:48)(cid:68)(cid:81)(cid:88)(cid:73)(cid:68)(cid:70)(cid:87)(cid:88)(cid:85)(cid:72)(cid:85)(cid:29)(cid:3)(cid:36)(cid:21)(cid:21)(cid:19)(cid:3)(cid:11)(cid:36)(cid:36)(cid:41)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:81)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:12)
+NRC FORM 366A (04-02-2024) Page 3 of 3

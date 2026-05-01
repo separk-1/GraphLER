@@ -1,0 +1,223 @@
+Keith J. Poison
+Senior Vice President and CNO
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.6515 Fax: 734.586.4172
+Email: keith.polson@dteenergy.com
+DTE Energy-
+February 23, 2018 10 CFR 50.73
+NRC-18-0013
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Fermi 2 Power Plant
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2018-001
+Pursuant to 10 CFR 50.73(a)(2)(v)(C), DTE Electric Company (DTE) is submitting
+LER No. 2018-001, Secondary Containment Pressure Exceeded Technical
+Specification Due to Reactor Building HVAC System Manipulation
+No new commitments are being made in this submittal.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Senior Vice President and CNO
+Enclosure: LER No. 2018-001, Secondary Containment Pressure Exceeded
+Technical Specification Due to Reactor Building HVAC System
+Manipulation
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+USNRC
+NRC-18-0013
+Page 2
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-18-0013
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2018-001, Secondary Containment Pressure Exceeded
+Technical Specification Due to Reactor Building HVAC System Manipulation
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 31o0-0104 EXPIRES: 0313112020
+(04-2017) Estimatebdu rdenpe r responstoe comply with this mandatory collection request: 80 hours.
+,.a Reported lessons learneadr e incorporatiendto t hel icensinpgr ocesasn df ed back to industry.
+Send commentrse gardinbgu rdene stimatteo theI nformatioSenrv ices Branch (T-2 F43), U.S.
+gL L N ER O LNuclear Regulatory Commission, WashingtDoCn2 ,0 555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and RegulatorAyff airs,
+***"' NEOB-10202, (3150-0104), Office of Managemeanntd B udgeWt,a shington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used toi mposaeni nformatcioonlle ctdiooens notd isplaay c urrenvtalyli dOM B control number,
+tt p://www nrcqov/rhetatdnilnlwg-wrr~nn/dco~cg-vcolrlaledcitnio-nrms/nduorcecqos/lsetcatfof/nsrs1lu02re2/srl3s/a) ffsrlcoll t e h c e t N io RC n . may notc onduct or sponsor, anda persoins notr equiretod respond to,t hei nformation
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Fermi 2 05000 341 1 OF 4
+4. TITLE
+Secondary Containment Pressure Exceeded Technical Specification Due to Reactor Building HVAC System Manipulation
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+SEUNTA RvFACiITY NAME DOCKETN UMBER
+MONTH DAY YEAR YEAR SENUENTIAL REV MONTH DAY YEAR F5A00
+NUMBER NO. 05000
+FACILITYN AME DOCKETN UMBER
+01 11 2018 2018 - 001 - 00 02 23 2018 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+E [ E
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) Q 50.73(a)(2)(viii)(A)
+1 20.2201(d) Q 20.2203(a)(3)(ii) Q 50.73(a)(2)(ii)(B) Q 50.73(a)(2)(viii)(B)
+E [
+20.2203(a)(1) Q 20.2203(a)(4) Q 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+E [ ]
+_ 20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+[
+10. POWER LEVEL 20.2203(a)(2)(ii) Q 50.36(c)(1)(ii)(A) ] 50.73(a)(2)(v)(A) 73.71(a)(4)
+E E
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) [ 73.71(a)(5)
+E
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) / 50.73(a)(2)(v)(C) 73.77(a)(1)
+E E E E
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+E E E
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+E
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below orin NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+X VA PCV R411 No
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+YES (If yes, complete E15.l EXPECTED SUBMISSION DATE) 7/ 1DNO ATE SUBMISSION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spacedt ypewritten lines)
+On January 11, 2018, at 1041 EST, a planned train swap of the Reactor Building Heating Ventilation and Air Conditioning (RBHVAC)
+system resulted in the Technical Specification (TS) for secondary containment (SC) pressure boundary not being met for less than one
+minute. The maximum secondary containment pressure recorded during that time was approximately 0.116 inches of vacuum water
+gauge. Secondary containment pressure was restored to within TS limits by starting Division 1 of the Standby Gas Treatment System
+(SGTS). There were no safety consequences or radiological releases associated with this event.
+The cause of this momentary loss of SC was determined to be the effect of the RBHVAC West Exhaust Fan Modulating Damper failing
+to fully open. For corrective actions, Fermi 2 has repaired the damper.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/3112020
+(04-2017
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learneda re incorporated intot he licensinpgr ocesasn df ed back to industry. Send
+I LICENSEE EVENT REPORT (LER) comments regardinbugr den estimate to theI nformation Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, andto t heD esk Officer, Office of InformaatinodnR e gulatory Affairs,
+" *. NEOB-10202, (3150-0104), Office of Managemeanntd B udgeWt,a shington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose ani nformatcioolnle ction does not display a currently valid OMB control number, the
+http://www.nrc.govlreading-rm/doc-collections/nureas/staff/sr1022/r3) NRC may not conduct or sponsor, anda persoins not required to respond to, thei nformation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2
+341 2018 - 0 1 - 00
+NARRATIVE
+INITIAL PLANT CONDITIONS:
+Mode -1
+Reactor Power - 100 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT:
+On January 11, 2018, while in Mode 1 at 100 percent power, a planned train swap of the Reactor Building Heating
+Ventilation and Air Conditioning (RBHVAC) [[VA]] system in support of troubleshooting vibrations on the East Supply Fan
+was initiated. Following shutdown of the Center Supply and East Exhaust Fans [[FAN]], secondary containment (SC)
+[[NH]] pressure began to rise. At 1041 EST, the Technical Specification (TS) for SC pressure boundary was exceeded.
+Division 1 of the Standby Gas Treatment System (SGTS) [[BH]] was started and restored SC vacuum to within the TS
+operability limit of greater than or equal to 0.125 inches of vacuum water gauge per TS Surveillance Requirement (SR)
+3.6.4.1.1. The duration of the TS not being met was less than one minute and the maximum SC pressure observed within
+the Control Room during the event was 0.117 inches of vacuum water gauge. SC was declared OPERABLE at 1045 EST.
+There are two recorder divisions to monitor SC pressure. Review of the pressure recorder [[PR]], following January 11,
+identified the highest pressure was 0.116 inches of vacuum water gauge. During the transient, the Division 1 recorder
+indicated that the TS operability limit had been exceeded for less than one minute. The Division 2 recorder indicated that
+the TS operability limit was maintained throughout the transient, with the lowest observed vacuum of 0.164 inches of
+vacuum water gauge. Recorder data deltas were reviewed with no notable trend.
+An 8-hour event notification (EN 53165) was made to the NRC based on meeting the reporting criteria of Title 10 Code of
+Federal Regulations (10 CFR) 50.72(b)(3)(v)(C) as an event or condition that could have prevented the fulfillment of a
+safety function needed to control the release of radioactive material. This Licensee Event Report (LER) is being made
+under the corresponding requirement in 10 CFR 50.73(a)(2)(v)(C).
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS:
+There were no safety consequences or radiological releases associated with this event. At no time during this event was
+there a potential for endangering the public health and safety.
+The specified safety function of the SC is to contain, dilute, and hold up fission products that may leak from primary
+containment following a Design Basis Accident (DBA). In conjunction with operation of the SGTS and closure of certain
+valves [[V]] whose lines penetrate the SC, the SC is designed to reduce the activity level of the fission products prior to
+release to the environment and to isolate and contain fission products that are released during certain operations that take
+place inside primary containment, when primary containment is not required to be OPERABLE, or that take place outside
+primary containment. It is possible for the pressure in the control volume to rise relative to the environmental pressure
+(e.g., due to pump [[P]] and motor [[MO]] heat load additions). To prevent ground level exfiltration while allowing the SC to
+be designed as a conventional structure, the SC requires support systems to maintain the control volume pressure at less
+than the external pressure. For the SC to be considered OPERABLE, it must have adequate leak tightness to ensure that
+the required vacuum can be established and maintained.
+NRC FORM 366A (04-2017) Page 2 Of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+, '!, CONTINUATION SHEET R In e fo g c u o la ll to ec ry ts .Res C ou o r m ce m @ is n s r io c n .g , ov, a W nd a s t h o i n th g e to D n, e sk O D ff C ic er, O 2 f 0 fi 5 c 5 e 5 o -0 f 0 In 0 f 1 o , r matio o n r and b R y egula e t - o m ry a il A ffairs to ,
+***.. NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.cov/reading-rm/doc-collections/nuregs/staff/sr0221r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 0 341 | 0
+NARRATIVE
+During this event, a higher indicated SC pressure was recorded for less than one minute. In Chapter 15 of the Updated
+Final Safety Analysis Report (UFSAR), RBHVAC is assumed lost at the onset of a Loss of Coolant Accident (LOCA)
+concurrent with a Loss of Offsite Power. As a result, calculations show that the SC would be pressurized until the SGTS
+restores vacuum. The structural integrity (i.e., leak tightness) of the SC was re-confirmed on January 11 when SC
+vacuum was restored to greater than 0.125 inches of vacuum water gauge by starting Division 1 SGTS.
+If the DBA LOCA for SC concurrent with a Loss of Offsite Power had occurred during the time when the SC pressure TS
+limit was exceeded, the SC was sufficiently leak tight such that the SGTS would still have established and maintained
+vacuum greater than the TS required value.
+The radiological consequences of the DBA LOCA for SC contained in Chapter 15 of the Fermi 2 UFSAR result in doses
+that are below 10 CFR 50.67. The SC is assumed to be at a pressure of 0.0 inches of vacuum water gauge at the onset
+of the LOCA. For this particular event, had the DBA LOCA for SC actually occurred there would be no increase in
+magnitude of radiological dose because the recorded pressure of 0.116 inches of vacuum water gauge was bounded by
+the assumed SC pressure of 0.0 inches of vacuum water gauge.
+CAUSE OF THE EVENT:
+The direct cause of the event was due to a degraded bolt and pivot linkage on the West Exhaust Fan Modulating Damper.
+The bolt had eroded, causing a loose-fitting connection, which prevented the damper from fully opening and exhausting
+the excess air from the building. This resulted in increased pressure within the Reactor Building.
+CORRECTIVE ACTIONS:
+Immediate corrective actions included starting SGTS and restoring the RBHVAC system configuration that was in service
+prior to the troubleshooting.
+The degraded bolt and pivot linkages in the West Exhaust Fan Modulating Damper [[CDMP]] were identified and replaced.
+PREVIOUS OCCURRENCES:
+Six events involving loss of SC due to the issues with the RBHVAC system have been reported in the following LERs:
+LER 2013-001 involved a loss of SC function due to an RBHVAC system equipment malfunction. The cause of that event
+was related to improper damper sequencing.
+LER 2013-003 involved a loss of SC function due to an RBHVAC system equipment malfunction. The cause of that event
+was related to a RBHVAC system trip caused by the lack of steam flow through a heating coil due to inadequate draining
+of the downstream steam trap.
+LER 2015-001 involved the loss of SC function due to an RBHVAC system trip caused by a valid actuation of a freeze
+protection device.
+LER 2015-004 involved the loss of SC function due to reverse rotation of the RBHVAC center exhaust fan during post-
+maintenance testing caused by reversed electrical leads.
+NRC FORM 366A (04-2017) Page 3 of 4
+N (0 R 4- C 20 1 F 7) ORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LE R) lessons learned are incorporated into the licensing process and fed back to industry. Send
+S comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form N us E e O d B t - o 1 i 0 m 2 p 0 o 2 s , e ( 3 a 1 n 5 0 in - f 0 o 1 rm 04 a ) t , i o O n f f c ic o e ll e o c f ti M on a n d a o g e e s m n e o n t t d a is n p d la B y u a d g c e u t r , r e W n a tl s y h v in a g li t d o n O , M D B C co 2 n 0 t 5 ro 0 l 3 n . u If m a b e m r, e a t n he s
+http://www.nrc.cov/reading-rm/doc-collections/nureas/staff/sr1022/r3) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Fermi 2 05000- NUMBER NO.
+341208
+_E1- F
+NARRATIVE
+LER 2015-005-01 involved the loss of SC function due to set point drift of the RBHVAC supply damper time delay relay
+resulting in the dampers moving out of sequence.
+LER 2016-005 involved the loss of SC function due to the combined effect of high winds during the RBHVAC startup
+sequence.
+NRC FORM 366A (04-2017)
+Page 4 Of 4

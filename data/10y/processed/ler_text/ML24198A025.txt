@@ -1,0 +1,235 @@
+Perry Nuclear Power Plant
+Rod Penfield
+Site Vice President
+10 Center Road
+Perry, OH 44081
+440-280-5382
+724-462-0816 ( cell)
+L-24-168
+July 15, 2024 10 CFR 50.73(a)(2)(i)(A)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Perry Nuclear Power Plant, Unit 1
+Docket Number 50-440, License Number NPF-58
+Licensee Event Report 2024-003-00
+Enclosed is Licensee Event Report (LER) 2024-003-00, "Technical Specification Required Shutdown
+Due to Increase in RCS Unidentified Leakage." This event is being reported pursuant to 10 CFR
+50. 73( a)(2) (i)(A ).
+There are no regulatory commitments contained in this letter or its enclosure. If there are any
+questions or if additional information is required, please contact Mr. Robert W. Oesterle,
+Manager, Regulatory Compliance, at (419) 321-7462.
+Sincerely,
+'
+,_ L
+Rod L. Penfield
+Enclosure: LER 2024-003-00
+cc: NRC Region III Administrator
+NRC Resident Inspector
+NRR Project Manager
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned we incorporated into the foensing process and fed back to industry. Send comments regarding burden
+estimate to !he F0IA, Libra,y, and Information Services Branch (T-6 A10M), U. S. Nuck,ar RegulatO!)'
+(See Page 2 for required number of digits/characters for each block) Commission, Washington. DC 20555-0001, or by e-mail to lnfocollects.Resoorce@nrc.gov, and the 0MB
+reviewer at 0MB Office of Information and Regulatory Affairs, (3150--0104), Attn: Desk Offcerfor the Nuc~ar
+..... (See NUREG-1022, R.3 for instruction and guidance for completing this form RegulatO!)' Commission, 725171h Street NW, Washington, DC 20503. The NRC may not conduct or sponsor,
+httQ ://www.nrc.gov/reading-rm/doc-collections/n uregs/staff/sr1 022/r3D. and a person ~ not requred to respond to, a col~on of ~fonnation unk,ss the document requesting or
+requhing !he col~on displays a currantly valid 0MB control number.
+1. Facility Name l'8I 050 2. Docket Number 3. Page
+Perry Nuclear Power Plant, Unit 1 □ 052 440 1 OF 4
+4. Title:
+Technical Specification Required Shutdown Due to Increase in RCS Unidentified Leakage
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l R N e o v . Month Day Year Facility Name □ 050 Docket Number
+Facility Name Docket Number
+05 23 2024 2024 003 - 00 07 15 2024 □ 052
+9. Operating Mode 10. Power Level
+1 40
+11. This Report is Submitted Pursuant to the Requirements of 1 O CFR §: (Check alt that apply)
+□ 20.2203(a)(2)(vi) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1 )(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) □ 73.1200(e)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) l'8I 50.73(a)(2)(i)(A) □ 50. 73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(9)
+□ 20.2203(a)(2)(iv) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or in NRC Form 366A).
+12. Licensee Contact for this LER I
+Licensee Contact Phone Number (Include area code)
+Chad D. Atkinson, Regulatory Compliance (419) 321-7844
+13. Complete One Line for Each Component Failure Described in this Report
+Cause I System Component I Manufacturer I Reportable to IRIS Cause I System Component f Manufacturer I Reportable to IRIS
+I I I I I I
+14. Supplemental Report Expected Month Day Year
+I
+D 15. Expected Submission Date
+l'8) No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+While operating in MODE 1 at 100% power on May 23, 2024 at 0000, Perry Nuclear Power Plant (PNPP) operators
+entered Technical Specification (TS) 3.4.5 due to the unidentified reactor coolant system (RCS) leak rate exceeding 5
+gpm. PNPP operators commenced a manual reactor shutdown in accordance with site procedures at 0053 on May 23,
+2024. Unable to reduce the unidentified RCS leakage, the shutdown transitioned to a TS required shutdown at 0400
+and reported as Event Number 57136. The required safety systems and shutdown equipment performed as expected,
+resulting in an uncomplicated shutdown. The source of the unidentified RCS leakage was the reactor recirculation
+loop 'A' suction valve packing leak-off line via a failed sight glass flange. The leak-off line was isolated and sight glass
+repaired.
+The root causes were failing to maintain and operate the leak detection system leak-off lines as designed because of
+unrecognized potential consequences from a failure in inaccessible areas and not prioritizing permanent repairs for
+long standing equipment degradation during outage scoping.
+This event is being reported pursuant to 10 CFR 50.73(a)(2)(i)(A) as completion of a plant shutdown required by the
+Technical Specifications.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150--0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+,.r)P·'w.fl~5Gul.t \ . LICENSEE EVENT REPORT (LER) l r e e s g s a o rd n i s n g le a b r u n r e d d e n a r e e s i t n im co a r te p o t r o a t t e h d e in F t O o IA th , e L l i i b ce ra n r s y i , n g a n p d r o In ce fo s r s m a a n ti d o n fe S d e b r a vi c c k e s to B in ra d n u c s h tr y ( . T S -6 e n A d 1 0 c M om ), m U e . n S ts .
+; • \ ;. 'I i CONTINUATION SHEET N ln u fo c q le o a ll r e cts R .R e e g s u o la u t r o c r e y @ nr C c o .g m o m v, is a s n io d n t , h e 0 W M a B s h r i e n v g i t e o w n, e r at D : C 0 MB 2 0 O 5 f 5 fic 5 e -0 o 0 f 0 1 In , form o a r tion b y a nd e R - e m g a u il l ator to y
+··~·41 Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17'" Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rrn/doc-collections/nureqs/staff/sr1022/r3D
+displays a curren~y valid 0MB control number.
+2. DOCKET NUMBER 3. LER NUMBER
+1. FACILITY NAME
+181 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Perry Nuclear Power Plant Unit 1
+440
+□ 052 2024 003 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background:
+The Perry Nuclear Power Plant (PNPP) reactor coolant recirculation system [AD] is designed to provide a forced
+coolant flow through the core to remove heat from the fuel. The pressure containing components of the reactor
+coolant system (RCS) and the portions of connecting systems out to and including the isolation valves define the
+reactor coolant pressure boundary (RCPB). During plant life, the joint and valve interfaces can produce varying
+amounts of reactor coolant leakage through either normal operational wear or mechanical deterioration. Limits on
+RCS operational leakage are required to ensure appropriate action is taken before the integrity of the RCPB is
+impaired. The safety significance of leaks from the RCPB varies widely depending on the source, rate, and
+duration; therefore, detection of leakage in the drywell is necessary. Methods for quickly separating the identified
+LEAKAGE from the unidentified LEAKAGE are necessary to provide the operators quantitative information to
+permit them to take corrective action should a leak occur detrimental to the safety of the facility or the public. A
+limited amount of leakage inside the drywell is expected from auxiliary systems that cannot be made 100% leak
+tight. Leakage from these systems should be detected and isolated from the drywell atmosphere, if possible, so as
+not to mask RCS operational LEAKAGE detection. Twenty-one drywell valves, including the reactor coolant
+recirculation pump suction valves [AD-V], have packing leak-off lines routed to the drywell equipment drain
+sump [WK]. Leakage directed to the drywell equipment drain sump is considered identified leakage while leakage
+collected through the floor drains to the floor drain sump is unidentified. Both leakage rates display and alarm in
+the Control Room. Each valve packing leak-off line has a temperature transmitter [AD-TT] that provides an alarm
+in the Control Room on high temperature in the line. A manually operated solenoid valve [AD-TSV] can then be
+closed from the Control Room to isolate the line. Located in the drywell and inaccessible while at power, the leak-
+off lines have a manual isolation valve [AD-ISV] upstream and a sight glass [AD-FG] downstream of the solenoid
+valves.
+Technical Specifications:
+PNPP Technical Specification (TS) Limiting Condition for Operation (LCO) 3.4.5, "RCS Operational LEAKAGE"
+applies in MODES 1, 2, and 3 and requires: no pressure boundary LEAKAGE; less than or equal to 5 gpm
+unidentified LEAKAGE; less than or equal to 30 gpm total LEAKAGE over the previous 24 hour period; and less
+than or equal to 2 gpm increase in unidentified LEAKAGE within the previous 24 hour period in MODE 1. When
+unidentified or total leakage is not within the limits, TS 3.4.5 Action B.1 requires the leakage to be within limits in 4
+hours, and Action C.1 requires verification that the unidentified LEAKAGE increase is not service sensitive
+austenitic material within 4 hours. If the required actions and associated completion times are not met, TS 3.4.5
+Action D.1 requires the plant to be placed in MODE 3 within 12 hours, and Action D.2 requires the plant to be
+placed in MODE 4 within 36 hours.
+DESCRIPTION OF EVENT:
+With PNPP operating in MODE 1 and 100 percent power, the drywell unidentified rate of change high alarm was
+received at 0000 on May 23, 2024. The drywell floor drain sump rate indicated 7.7 gpm. Condition B of TS 3.4.5
+was entered to reduce the unidentified leakage to less than or equal to 5 gpm within 4 hours and lowering reactor
+power to achieve MODE 3 was started, in accordance with site procedures. Subsequently, the operations crew
+received the valve stem leak-off temperature alarm, indicating at least one of the 21 drywell valve leak-off line
+temperatures were greater than or equal to180 degrees F. Four lines were identified as potential sources.
+Simple troubleshooting found none of the four manually operated solenoid valves functioned. At 0400 on
+Page iof !
+NRC FORM 366A (04-02-2024)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+,.r;P·'l.ft~lor,¼ \ lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S.
+• i
+& • CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+'~ I lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonnation and Regulatory
+··-·· Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17• Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D respond to, a collection of infonnation unless the document requesting or requiring the collection
+displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+181 050 SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant Unit 1 NUMBER NO.
+440
+□ 052 2024 003 00
+NARRATIVE
+May 23, 2024, the drywell floor drain sump rate of 5.6 gpm was still above the TS operational limit; therefore, TS
+3.4.5 Condition D was entered with required actions to place the plant in MODE 3 in 12 hours and MODE 4 in 36
+hours. On May 23, 2024, PNPP entered MODE 3 at 1338 hours and MODE 4 at 2134 hours. During the initial
+drywell entry at 1124 hours on May 23, 2024, no RCPB leakage was identified; however, the reactor recirculation
+loop 'A' suction valve packing leak-off line sight glass flange was found failed. The failed flange allowed the
+reactor recirculation loop 'A' suction valve packing leakage to enter the drywell floor drain sump instead of the
+drywell equipment drain sump and increase the unidentified leakage.
+CAUSE OF EVENT:
+Reactor recirculation loop 'A' suction valve packing degradation was initially identified because of high stem leak-
+off line temperature during the 2013 refueling outage start-up. The direct cause of the unidentified leakage
+increase was failure to close the reactor recirculation loop 'A' suction valve packing leak-off line solenoid valve in
+2013 through 2024 resulting in challenging downstream piping performance, causing sight glass flange leakage,
+and immediately exceeding unidentified RCS leakage TS limits.
+The root causes of this event were:
+1) Failing to maintain and operate the leak detection system leak-off lines as designed because of unrecognized
+potential consequences from a failure in inaccessible areas.
+2) Inadequate risk recognition and consequence-bias during the Outage Scope Review Board and Engineering
+Review process led to not prioritizing permanent repairs for long standing equipment degradation.
+ANALYSIS OF EVENT:
+The operating crew responded correctly to the event. The applicable abnormal response procedure was properly
+entered, and performance met expectations. There were no safety systems inoperable, and no safety system
+failures related to this event. Since no RCPB leakage was identified, there were no actual safety consequences
+from this event. The leakage from the reactor recirculation loop 'A' suction valve packing leak-off line sight glass
+flange was contained within the drywell, and the plant reached a safe shutdown condition. There were no system
+failures that prevented the safe shutdown of the plant. It is therefore concluded that even if a design basis
+accident had occurred concurrent with this event, all safety systems would have operated to safely mitigate the
+event. Based on the above considerations, the safety significance of this event is very low, and the event did not
+pose a threat to the health and safety of the public or plant personnel.
+Reportability Discussion:
+The initiation of any nuclear plant shutdown required by the plant's Technical Specifications is reportable within
+four hours of the event in accordance with 10 CFR 50.72(b)(2)(i). Since a manual shutdown transitioned to a TS
+3.4.5 required shutdown on May 23, 2024, at 0400 hours, the event was reported to the NRC Operations Center
+at 0425 hours as Event Number 57136.
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(i)(A) as a plant shutdown required by the
+Technical Specifications.
+NRC FORM 366A (04-02-2024) Page Ao f~
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+#""Eat,'-, lessons learned are incorporated into the licensing process and fed back to industiy. Send comments
+~ ~ ~ / . ~ 1 \ . \l LICEN C S O E N E T I E N V U E A N T T IO R N E S P H O E R E T T (L ER) N re u g c a l r e d a in r g b R u e rd g e u n la t e o s r t y im at C e o t m o m th i e s s F io O n, I A, L W ib a ra s r h y in , g a t n o d n , Info D rm C a tio 2 n 0 S 55 e 5 rv -0 ic 0 e 0 s 1 B , ran o c r h (T b - y 6 A1 e 0 -m M) a , il U. S to .
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+·••*. . Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17• Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+181 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Perry Nuclear Power Plant Unit 1
+440
+□ 052 2024 003 00
+NARRATIVE
+CORRECTIVE ACTIONS:
+Completed Actions:
+The increased unidentified RCS leakage was stopped by closing the recirculation pump 'A' suction valve packing
+leak-off line manual isolation valve on May 23, 2024 at approximately 1600 hours. Additionally, the manual
+solenoid valve was closed on May 24, 2024 at approximately 0200 hours, the sight glass was repaired on
+May 24, 2024 at approximately 0500 hours, and the recirculation pump 'A' suction valve was back seated.
+Scheduled Actions:
+Future corrective actions include: developing and implementing a site valve packing preventive maintenance
+program for inaccessible locations while online, modifying the leak detection system design and updating the
+drywell valve packing designs, and revising outage scoping documents with specific guidance for leaks in
+inaccessible areas while online.
+PREVIOUS SIMILAR EVENTS:
+There have been no PNPP Licensee Event Reports related to a plant shutdown required by Technical
+Specifications in the past three years.
+NRC FORM 366A (04-02-2024) Page!of!

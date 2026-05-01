@@ -1,0 +1,482 @@
+Constellation® 
+SVP-22-053 
+September 1, 2022 
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, D.C. 20555 
+Quad Cities Nuclear Power Station, Unit 1 and 2 
+Renewed Facility Operating License No. DPR-29 and DPR-30 
+NRC Docket No. 50-254 and 50-265 
+10 CFR 50.73 
+Subject: 
+Licensee Event Report 254/2022-003-00 "Both Trains of Standby Gas Treatment 
+Inoperable due to Blockage in the Common Discharge Line" 
+Enclosed is Ucensee Event Report 254/2022-003-00 "Both Trains of Standby Gas Treatment 
+Inoperable Due to Blockage in the Common Discharge Line," for Quad Cities Nuclear Power Station, 
+Unit 1 and 2. 
+This report is submitted in accordance with 10 CFR 50.73(a)(2)(v)(C) and (D) for an event or 
+condition that could have prevented the fulfillment of a safety function needed to control the 
+release of radioactive material and mitigate the consequences of an accident. This report is 
+also being submitted in accordance with 10 CFR 50.73(a)(2)(i)(B) for an operation or condition 
+which was prohibited by the plant's Technical Specifications. 
+There are no regulatory commitments contained in this letter. 
+Should you have any questions concerning this report, please contact Mark Humphrey at 
+(309) 227-2800. 
+Brian Wake 
+Site Vice President 
+Quad Cities Nuclear Power Station 
+cc: 
+Regional Administrator - NRC Region Ill 
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station 
+
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+1. Facility Name 
+LICENSEE EVENT REPORT (LER) 
+(See Page 3 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D 
+Quad Cities Nuclear Power Station Unit 1 
+4. Title 
+Estimated burden per response to comply with this mandatory conecoori request 80 hours. Repor1e<f 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollec1s.Resource@nrc.gov, and 1he 0MB reviewer at 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currentiy valid 0MB control number. 
+2. Docket Number· 
+3. Page . 
+05000 - 254 
+1 OF 5 
+Both Trains of Standby Gas Treatment Inoperable Due to Blockage in the Common Discharge Line 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Revision 
+Month 
+Day 
+Year 
+Facility Name 
+Docket Number 
+Number 
+No. 
+QCNPS Unit2 
+05000-265 
+07 
+04 
+2022 
+2022 
+003 
+00 
+09 
+01 
+2022 
+Facility Name 
+Docket Number 
+-
+-
+n/a 
+05000 
+9. Operating Mode 
+10. Power Level 
+1 - Power Operation 
+100% 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+D 20.2203(a)(2)(vi) 
+• 20.2201(b) 
+D 20.2203(a)(3)(i) 
+• 20.2201(d) 
+D 20.2203(a)(3)(ii) 
+0 20.2203(a)(1) 
+D 20.2203(a)(4) 
+0 20.2203(a)(2)(i) 
+0 20.2203(a)(2)(ii) 
+0 20.2203(a)(2)(iii) 
+0 20.2203(a)(2)(iv) 
+• 50.36{c)(~)(i)(A) 
+0 20.2203(a)(2)(v) 
+• 50.36(c)(1)(ii)(A) 
+0 OTHER (Specify here, in abstract, or NRG 366A). 
+Licensee Contact 
+Rachel Luebbe 
+D 50.36(c)(2) 
+D 50.73(a)(2)(iv)(A) 
+D 50.46(a)(3)(ii) 
+D 50.73(a)(2)(v)(A) 
+• 50.69(g) 
+D 50.73(a)(2)(v)(B) 
+• 50.73(a)(2)(i)(A) 
+cgj 50.73(a)(2)(v)(C) 
+cgj 50.73(a)(2)(i)(B) 
+cgj 50.73(a)(2)(v)(D) 
+• 50.73(a)(2)(i)(C) 
+D 50.73(a)(2)(vii) 
+• 50.73(a)(2)(ii)(A) 
+D 50.73(a)(2)(viii)(A) 
+• 50.73(a)(2)(ii)(B) 
+D 50.73(a)(2)(viii)(B) 
+D 50.73(a)(2)(iii) 
+D 50.73(a)(2)(ix)(A) 
+12. Licensee Contact for this LER 
+13. Complete One Line for each Component Failure Described in this Report 
+D 73.71(a)(4) 
+D 73.71(a)(5) 
+D 73.77(a)(1)(i) 
+D 73.77(a)(2)(i) 
+D 73.77(a)(2)(ii) 
+Phone Number (Include area code) 
+309-227 -2813 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+B 
+BH 
+PSX 
+N/A 
+y 
+n/a 
+14. Supplemental Report Expected 
+Month 
+Day 
+Year 
+[8l No 
+D Yes (If yes, complete 15. Expected Submission Date) 
+15. Expected Submission Date 
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 singl!:l-spaced typewritten lines) 
+On 7/4/22 at 0104, Unit 2 experienced a reactor scram. As a result, the 1/2 B Standby Gas Treatment (SGT) train.auto started and 
+was found to have lower than Technical Specification (TS) required flow. The 1/2 B SGT train was secured and the 1/2 A SGT train 
+was manually started and found to have the same low flow condition. On 7/4/22 at 0130, both units entered TS 3.6.4.3 Condition D 
+for having both SGT trains inoperable. On 7/4/22 at 0230 TS 3.6.4.3 Condition E was entered. SGT flow slowly increased with the 
+running of the train and on 7/4/22 at 1122 the 1/2 B SGT train was declared operable, and TS 3.6.4.3 Condition E was exited. 
+The cause of the SGT low flow condition was water in the common SGT discharge line. 
+This event is being reported under 10 CFR 50.73(a)(2)(v)(C) and (D) - "Any event or condition that could have prevented the 
+fulfillment of the safety function of structures or systems that are n_eeded to: (C) control the release of radioactive material, and (D) 
+mitigate the consequences of an accident." This event is also reportable under 10 CFR 50.73(a)(2)(i)(B) - "Any operation or condition 
+which was prohibited by the plant's Technical Specifications." 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+(;-•'" """,,,o\ 
+'l, 
+.,,'41 *"'*•"" .,.o' 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. nrc. g ov/readi ng-rm/d oc-col lections/nu reqs/staff/sr1 022/r3/) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER· 
+Quad Cities Nuclear Power Station Unit 1 
+05000-
+254 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 -
+NARRATIVE 
+PLANT AND SYSTEM IDENTIFICATION 
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power 
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. 
+EVENT IDENTIFICATION 
+003 
+Both Trains of Standby Gas Treatment Inoperable Due to Blockage in the Common Discharge line 
+CONDITION PRIOR TO EVENT 
+Unit: 1 
+Event Date: July 4, 2022 
+Reactor Mode: 1 Mode Name: Power Operation 
+Event Time: 0130 CST 
+Power Level: 100% 
+No structures, systems or components were inoperable at the start of this event that contributed to the 
+event. 
+A. DESCRIPTION OF EVENT 
+00 
+On July 4, 2022, at 0104, Unit 2 experienced a manual scram. As a result of the reactor scram, the 1/2 B 
+train of Standby Gas Treatment (SGT)[BH] auto started; however, the train was running with degraded 
+and oscillating flow between 2400-2600 scfm. Technical Specification 5.5.7 requires a SGT flow of 
+4000 cfm +/- 10%. TS 3.6.4.3 Condition A was entered on July 4, 2022, at 0127 for one SGT subsystem 
+being inoperable. TS 3.6.4.1 Condition A was also entered for inoperable Secondary Containment 
+because Secondary Containment vacuum was found to be less than 0.25 inches water gauge vacuum 
+required by TS surveillance requirement (SR) 3.6.4.1.3. 
+On July 4, 2022, at 0130, Operations manually secured the 1/2 B SGT train and started the 1/2 A SGT 
+train and it also indicated degraded and oscillating flow of a similar flowrate and signature to the 1/2 B 
+SGT train. TS 3.6.4.3 Condition D was entered on July 4, 2022, at 0130 for two SGT subsystems being 
+inoperable. Operations initiated troubleshooting efforts that identified a partial blockage in the 24 inch 
+common discharge line [PSX] from both trains of SGT to the main chimney. The SGT flow control 
+valves (FCV)[FCV] were also observed as being fully open, when during normal operation the FCV is 
+partially open and controlling the flow through the train. As the SGT system continued to operate, the 
+flowrate through the train slowly increased. On July 4, 2022, at 0230, TS 3.6.4.3 Condition E was 
+entered for not having restored one SGT subsystem within 1 hour. · Condition E requires both Unit 1 and 
+Unit 2 to be in Mode 3 within 12 hours. Unit 2 was already in Mode 3 due to the earlier manual scram. 
+On July 4, 2022, at 0853 (CT), Event Notification System (ENS) notification #55976 was completed for 
+the immediate reportability required under 10 CFR 50.72(b)(3)(v)(C) and (D) - "Any event or condition 
+NRC FORM 366A (08-2020) 
+Page _2_ of _5_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022. R.3 for instruction and guidance for completing this form 
+http://www. nrc. gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Quad Cities Nuclear Power Station Unit 1 
+05000-
+254 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 -
+003 
+00 
+NARRATIVE 
+that could have prevented the fulfillment of the safety function of structures or systems that are needed 
+to: (C) control the release of radioactive material; and (D) Mitigate the consequences of an accident." 
+On July 4, 2022, at 1122, the 1/2 B SGT train met the required flow rate and the 1/2 B SGT train was 
+declared operable. TS 3.6.4.3 Condition E was exited. 
+On July 4, 2022, at 1212, Operations confirmed that Secondary Containment vacuum met the TS 
+SR 3.6.4.1.3 requirement with SGT operating and Reactor Building ventilation was secured and 
+isolated. TS 3.6.4.1 Condition A was exited. 
+On July 4, 2022, .at 1330, the 1/2 A SGT train met the TS required flow rate and the 1/2 A SGT train was 
+declared operable. TS 3.6.4.3 Condition A was exited. SGT continued to operate until July 8, 2022, with 
+continued improvement in flow rates and the normal use of the SGT system's FCV. 
+· 
+This event is being reported under 10 CFR 50. 73(a)(2)(v)(C) and (D) - "Any event or condition that could 
+have prevented the fulfillment of the safety function of structures or systems that are needed to: 
+(C) control the release of radioactive material, and (D) mitigate the consequences of an accident." This 
+event is also reportable under 10 CFR 50.73(a)(2)(i)(B)- "Any operation or condition which was prohibited 
+by the plant's Technical Specifications." TS 3.6.4.3 Condition D allows for both trains of SGT to be 
+inoperable for 1 hour. Since the water in the common discharge line did not accumulate during a one-time 
+event but rather resulted from a slow accumulation over time, it is assumed that both trains of SGT were 
+inoperable since the last initiation of the system on May 26, 2022. This is greater than the 1-hour TS 
+allowable time. 
+B. CAUSE OF EVENT 
+The cause of low flow condition bn both trains of SGT was due to partial water blockage in the SGT 
+24 inch common discharge line. Portions of the SGT common discharge line run underground before 
+entering the main chimney. The design of the SGT common discharge line does not currently have 
+method of assessing or removing any accumulated water in the line itself. The source of the water 
+intrusion into the SGT common discharge line can come from two potential sources: (1) condensation 
+from the Main Chimney exhausts or (2) groundwater intrusion from a flaw in the wall of the buried 
+common discharge line pipe section. Either of the identified potential sources of water would have 
+caused a gradual buildup of water in the common discharge line. 
+SAFETY ANALYSIS 
+System Design. 
+The SGT system consists of two fully redundant subsystems that are shared between Units 1 and 2, 
+each with its own set of ductwork, dampers, charcoal filter train and controls. Each SGT subsystem is 
+capable of processing the secondary containment volume, which includes both Units 1 and 2. The 
+SGT is designed to maintain the reactor building [NH] (common to both Units 1 and 2) at a negative 
+NRC FORM 366A (08-2020) 
+Page_3_ of _5_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. nrc.qov/readinq-rm/doc-collections/nuregs/staff/sr1 022/r3/) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing proc~ss and fed back to industry. Send comments 
+regarding burden estimate to the·FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington; DC 20503; e-mail: oira submission@omb.eop.gov. The_ NRG may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Quad Cities Nuclear Power Station Unit 1 
+05000-
+254 
+YEAR 
+2022 -
+NARRATIVE 
+SEQUENTIAL -
+NUMBER 
+003 
+REV 
+NO. 
+00 
+pressure and to filter the exhaust of radioactive matter from reactor building spaces to the environment 
+in the unlikely event of a Design Basis Accident (DBA), including the Loss of Coolant Accident (LOCA) 
+or a refueling accident. It is also instrumental in maintaining the integrity of secondary containment by 
+producing greater than 0.25 inches water negative pressure in the reactor building while processing 
+4000 cfm of exhaust air. The exhaust of the SGT travels to the Main Chimney for an elevat~d release 
+point, to reduce the offsite radiation doses from a postulated DBA. 
+The function of the secondary containment (reactor building) is to contain, dilute and hold up fission 
+products that may leak from primary containment following a DBA. In conjunction with operation of the 
+SGT and closure of certain valves whose lines penetrate the secondary containment, the secondary 
+containment is designed to reduce the·activity level of the fission products prior to release to the 
+environment, and to isolate and contain fission products released during certain operations that take 
+place inside primary containment, when primary containment is not required to be operable, or that take 
+place outside primary containment. 
+Safety Impact 
+Since both trains of SGT had reduced flow, had a DBA of LOCNLOOP or refueling accident occurred, 
+the SGT would have had reduced capacity to perform its safety function to control the release of 
+radioactive material and mitigate the consequences of an accident. During this event, the SGT system 
+filtration capability was not lost, just reduced due to the lower flow conditions. 
+Secondary Containment vacuum was reduced below 0.25 inches water gauge but remained positive 
+throughout this event. Because of this, there was no risk of a ground level release of airborne radioactive 
+materials. 
+This event is considered a safety system functional failure. 
+C. -CORRECTIVE ACTIONS 
+Immediate: 
+1. Run the SGT train until water in the common discharge line is dissipated to the point where SGT 
+flow and fl.ow control returns to normal. - Complete 
+2. Change the frequency of the SGT TS SR 3.6.4.3.1 surveillance from 184 days to 31 days. -
+Complete 
+Follow up: 
+1. Develop and implement a plan for locating, characterizing and resolving the source of water 
+intrusion. 
+2. Create and implement Work Order's for cleaning out the chimney drains until a permanent 
+preventive maintenance task can be implemented. 
+D. PREVIOUS OCCURENCES 
+NRC FORM 366A (08-2020) 
+Page_4_ of _5_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. n re.gov/reading-rm/doc-collections/nu regs/staff/s r1 022/r3/) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Quad Cities Nuclear Power Station Unit 1 
+05000-
+254 
+YEAR 
+2022 
+-
+NARRATIVE 
+SEQUENTIAL 
+NUMBER 
+003 
+REV 
+NO. 
+00 
+The station events database, LERs and INPO Industry Reporting Information System (ISIS) were 
+reviewed for similar events at Quad Cities Nuclear Power Station. This event was caused by water in 
+the SGT common discharge line. Based on the condition of this event, cause and associated corrective 
+actions, two events described below has been found to have a similar condition. 
+• 
+LER 254-2019-003-00 (12/20/2019) Water Found in Control Room Emergency Ventilation Air 
+Filtration Unit. This LER also involved water found in a safety-related air system rendering the 
+system inoperable. The source of the water was a leaking fire protection valve into the air 
+filtration unit. The cause of this event was determined to be inadequate technical human 
+performance in the preparation and review of work instructions which is different than the cause 
+of SGT low flow event; however, the condition is similar. 
+• 
+Issue Report (IR) 1016562 (1/14/2010) Actions Recommended to Address the Water in the 
+Chimney. This issue report identifies chimney drains that are clogged and that the chimney 
+water depth is estimated to be above the SGT common discharge line and may cause water 
+intrusion into that line. The work order generated from this issue report is still incomplete. 
+E. COMPONENT FAILURE DATA 
+Failed Equipment: 0-7509A-24" common discharge line 
+Component Manufacturer: unknown 
+Component Model Number: unknown 
+Component Part Number: unknown 
+This event will be reported to IRIS. 
+NRC FORM 366A (08-2020) 
+Page_5_ of _5_ 

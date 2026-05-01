@@ -1,0 +1,782 @@
+ 
+ 
+Post Office Box 2000, Decatur, Alabama 35609-2000 
+ 
+ 
+December 19, 2022 
+10 CFR 50.73 
+10 CFR 50.4(a) 
+ 
+ 
+ATTN:  Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, D.C.  20555-0001 
+ 
+ 
+Browns Ferry Nuclear Plant, Unit 3 
+Renewed Facility Operating License No. DPR-68 
+NRC Docket No. 50-296 
+ 
+ 
+Subject: 
+Licensee Event Report 50-296/2022-002-00 – Both Standby Liquid Control 
+Subsystems Inoperable Due to an Insufficient Boron Injection Rate 
+ 
+The enclosed Licensee Event Report provides details of the inoperability of both Standby Liquid 
+Control subsystems due to an insufficient boron injection rate. Tennessee Valley Authority is 
+submitting this report in accordance with Title 10 of the Code of Federal Regulations (10 CFR) 
+50.73(a)(2)(vii) as an event where a single cause or condition caused two independent trains or 
+channels to become inoperable in a single system designed to shut down the reactor and 
+maintain it in a safe shutdown condition. 
+ 
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact Chris L. Vaughn, Site Licensing Manager, at 
+(256) 729-2636. 
+ 
+Respectfully, 
+ 
+ 
+ 
+Manu Sivaraman 
+Site Vice President 
+ 
+ 
+Enclosure: Licensee Event Report 50-296/2022-002-00 – Both Standby Liquid Control 
+Subsystems Inoperable Due to an Insufficient Boron Injection Rate 
+ 
+ 
+
+U.S. Nuclear Regulatory Commission 
+Page 2 
+December 19, 2022 
+ 
+ 
+ 
+cc (w/ Enclosure): 
+ 
+NRC Regional Administrator - Region II 
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant 
+NRC Project Manager - Browns Ferry Nuclear Plant 
+ 
+ 
+ 
+
+ 
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+       LICENSEE EVENT REPORT (LER) 
+APPROVED BY OMB:  NO. 3150-0104         
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. Facility Name 
+    Browns Ferry Nuclear Plant, Unit 3 
+2. Docket Number 
+05000296 
+3. Page 
+1   OF  7 
+4. Title 
+ Both Standby Liquid Control Subsystems Inoperable Due to an Insufficient Boron Injection Rate 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Revision 
+ No. 
+Month 
+Day 
+Year 
+Facility Name 
+ 
+   N/A 
+Docket Number 
+ 
+05000   N/A 
+10 
+18 
+2022 2022 - 
+002 
+- 00 
+12 
+19 
+2022 
+Facility Name 
+ 
+ N/A 
+Docket Number 
+ 
+05000   N/A 
+9. Operating Mode 
+     1 
+10. Power Level 
+    100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply) 
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.71(a)(4) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.71(a)(5) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(1) 
+  20.2203(a)(2)(ii) 
+  21.2(c) 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+  73.77(a)(2)(i) 
+  20.2203(a)(2)(iii) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.77(a)(2)(ii) 
+  20.2203(a)(2)(iv) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+ 
+  20.2203(a)(2)(v) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Ryan Coons, Licensing Engineer 
+Phone Number  (Include area code) 
+256-729-2070 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+E 
+BR 
+N/A 
+N/A 
+N 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+14. Supplemental Report Expected)      
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+ No 
+ Yes (If yes, complete 15. Expected Submission Date 
+N/A 
+N/A 
+N/A 
+16. Abstract  (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+On October 18, 2022 at 1440 Central Daylight Time (CDT), following a routine surveillance test, Browns Ferry 
+Nuclear Plant, (BFN), Unit 3 declared both trains of the Standby Liquid Control (SLC) system inoperable for failing 
+to meet boron injection rate acceptance criteria. 
+ 
+This resulted in a single cause or condition that caused two independent trains or channels to become inoperable 
+in a single system designed to shut down the reactor and maintain it in a safe shutdown condition. At the time, it 
+was believed that this could have prevented the SLC system from fulfilling its safety function to shut down the 
+reactor and maintain it in a safe shutdown condition. However, an engineering evaluation later determined that the 
+SLC system remained capable of fulfilling its required safety function throughout this event. 
+ 
+Upon investigation, it was discovered that this event resulted from an ineffective corrective action for the issue 
+identified in Condition Report (CR) 1439832, where all of parameters used in the Anticipated Transient Without 
+Scram (ATWS) equivalency equation could individually meet Technical Specifications (TS), yet still fail the 
+acceptance criteria. SLC system operability was restored on October 18, 2022 at 2053 CDT, after an additional 80 
+kg of sodium pentaborate was added to the BFN, Unit 3 SLC tank. This increased the boron concentration of the 
+SLC solution, which raised the boron injection rate to an acceptable level. As a corrective action to prevent or 
+reduce the probability of recurrence, BFN will develop and implement an improved method for determining SLC 
+pump flow rates. This will include benchmarking other plants to incorporate their best practices to improve the 
+accuracy and repeatability of SLC pump flow rate measurements. 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+05000-296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 - 
+002 
+- 
+00 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    2     of     7    
+I. 
+Plant Operating Conditions before the Event 
+ 
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 3 was in Mode 1 at approximately 
+100 percent power. 
+ 
+II. 
+Description of Event 
+ 
+A. Event Summary 
+ 
+On October 18, 2022 at 1440 Central Daylight Time (CDT), BFN, Unit 3 declared both trains of 
+Standby Liquid Control (SLC) [BR] inoperable for failure to meet the acceptance criteria in           
+3-SI-3.1.7.6, “Standby Liquid Control System ATWS Equivalency Calculation for Newly 
+Established Pump Flow Rate.” This surveillance ensures the Anticipated Transient without Scram 
+(ATWS) calculation criteria is met after each pump flow test. Following Operations’ performance 
+of 3-SI-4.4.A.1, “Standby Liquid Control Pump Functional Test,” which is used to determine the 
+SLC pump flow rates, Chemistry personnel entered the new pump flow rates into the ATWS 
+equivalency calculation of 3-SI-3.1.7.6. Due to the change in pump flow rates, the new result of 
+the ATWS equivalency calculation was less than 1. This caused both trains of SLC to fail their 
+Technical Specification (TS) Surveillance Requirements (SR) of being greater than or equal to 1. 
+As a result, both SLC trains were declared inoperable, causing BFN Unit 3 to enter an Unplanned 
+Shutdown Limiting Condition of Operability (LCO).  
+ 
+In accordance with 0-TI-18, “Sodium Pentaborate Concentration and Level Adjustment of the 
+Standby Liquid Control System”, an additional 80 kg of sodium pentaborate (SPB) was added to 
+the BFN, Unit 3 SLC tank [TK]. Chemistry personnel performed 3-SR-3.1.7.3, “Standby Liquid 
+Control System Enriched Sodium Pentaborate (SPB) Solution, Concentration, Quantity 
+Calculation, and ATWS Equivalency Calculation,” and confirmed that the result of the ATWS 
+equivalency calculation was greater than or equal to 1.  
+ 
+Upon investigation, it was discovered that this event resulted from an ineffective corrective 
+action for the issue identified in Condition Report (CR) 1439832, where all of the parameters 
+used in the ATWS equivalency equation could individually meet TS requirements, yet still fail 
+the acceptance criteria. Procedures 1/2/3-SR-3.1.7.3 and 1/2/3-SI-3.1.7.6 were only revised to 
+add calculating the ATWS equivalency equation for both SLC pumps without considering how 
+the methodology used to calculate flow rate variations could impact the ATWS calculation.  
+ 
+However, an engineering evaluation later determined that SLC remained capable of 
+performing its required safety function throughout this event. Based on the pump design, the 
+minimal time of operation, the methods used to calculate pump flowrate, and the variation in 
+pump flow rates observed during quarterly functional tests, the calculated flow rate which was 
+determined on October 18, 2022 was acceptable. There is no evidence to suggest that the 
+capacity of the Unit 3 SLC Pumps had changed due to pump degradation or wear. In addition, 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+05000-296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 - 
+002 
+- 
+00 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    3     of     7    
+there was no evidence that the concentration of the SLC SPB solution had changed because 
+there were no recent dilution events or chemical additions performed which would have 
+affected the validity of that input into the ATWS Equivalency calculation. The BFN, Unit 3 SLC 
+System was capable of performing its design functions and was operable throughout this 
+event. All surveillance tests were in periodicity and were completed satisfactory prior to the 
+time of discovery. 
+ 
+Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code of 
+Federal Regulations (10 CFR) 50.73(a)(2)(vii) as an event where a single cause or condition 
+caused two independent trains or channels to become inoperable in a single system designed to 
+shut down the reactor and maintain it in a safe shutdown condition. 
+ 
+B. Status of structures, components, or systems that were inoperable at the start of the 
+event and that contributed to the event 
+ 
+There were no structures, systems, or components (SSCs) whose inoperability contributed to 
+this event.  
+ 
+C. Dates and approximate times of occurrences 
+ 
+DATE AND 
+APPROXIMATE TIMES 
+OCCURENCE 
+October 18, 2022,  
+1440 CDT 
+Ops declares both BFN, Unit 3 SLC subsystems inoperable, 
+following the unsatisfactory performance of 3-SI-3.1.7.6.  
+TS LCO 3.1.7, Conditions A and B were entered, requiring 
+one SLC subsystem to be restored to operability within 8 
+hours, and restoring both SLC subsystems to operability 
+within 7 days. 
+October 18, 2022,  
+1627 CDT 
+Chemistry personnel commenced 3-SR-1.7.3, to add boron 
+to the BFN, Unit 3 SLC tank. 
+October 18, 2022,  
+2050 CDT 
+Chemistry personnel complete the satisfactory performance 
+of 3-SR-1.7.3. 
+October 18, 2022,  
+2053 CDT 
+Ops declares both BFN, Unit 3 SLC subsystems operable, 
+following the satisfactory performance of 3-SI-1.7.3, and 
+exited TS LCO 3.1.7, Conditions A and B within their 
+required completion times. 
+ 
+D. Manufacturer and model number of each component that failed during the event 
+ 
+No components failed during this event. 
+ 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+05000-296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 - 
+002 
+- 
+00 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    4     of     7    
+E. Other systems or secondary functions affected 
+ 
+No other systems or secondary functions were affected. 
+ 
+F. Method of discovery of each component or system failure or procedural error 
+ 
+SLC inoperability was discovered when Chemistry personnel entered the pump flow rates 
+measured during the performance of 3-SI-4.4.A.1 into the ATWS equivalency calculation of 
+3-SI-3.1.7.6. 
+ 
+G. The failure mode, mechanism, and effect of each failed component 
+ 
+No components failed during this event. 
+ 
+H. Operator actions 
+ 
+There were no operator actions associated with this event. 
+ 
+I. 
+Automatically and manually initiated safety system responses 
+ 
+There were no automatic or manual safety system responses associated with this event.   
+ 
+III. 
+Cause of the event 
+ 
+A. Cause of each component or system failure or personnel error 
+ 
+The apparent cause of this event was an ineffective corrective action for a previously identified 
+issue where all of the ATWS equivalency equation parameters could individually meet TS 
+requirements, yet when combined, still fail the acceptance criteria.  
+ 
+Additional contributing causes of this event include: 
+ 
+A lack of precision in the ruler-and-stopwatch methods used to measure SLC pump flow rates 
+can result in fluctuating surveillance results without an actual change in pump performance. 
+ 
+There was a lack of communication between performing groups, related to knowing how the 
+individual pump flow rates correlate to the concentration level and operability, resulted in a 
+failure by both groups to understand the other group’s impact to the functioning of the system.  
+ 
+The percent concentration of sodium pentaborate within the SLC tank was at the lower end of 
+the TS-allowable band.  
+ 
+B. Cause(s) and circumstances for each human performance related root cause 
+ 
+No human performance related root causes were identified.  
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+05000-296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 - 
+002 
+- 
+00 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    5     of     7    
+ 
+IV. 
+Analysis of the event 
+ 
+The SLC System provides a means to assure, and maintain, reactor shutdown from the most reactive 
+steady-state operating condition at any time in the core life, independent of control rod movement. 
+Additionally, the SLC system is used to control suppression pool pH in the event of a design basis 
+accident (DBA) loss of coolant accident (LOCA) by injecting sodium pentaborate into the reactor 
+vessel. 
+ 
+FSAR Chapter 3.8, Standby Liquid Control System, states that each positive displacement pump is 
+sized to inject the SLC solution into the reactor within 50 to 125 minutes (at approximately 50 gpm), 
+depending on the amount of solution in the tank, at the reactor vessel maximum operating pressure. 
+The pump and system design pressure is 1500 psig. The two relief valves are set at approximately 
+1425 psig to exceed the reactor operating pressure by a sufficient margin to avoid valve leakage. To 
+prevent bypass flow from one pump, in case of relief valve failure in the line from the other pump, a 
+check valve is installed downstream of each relief valve line in the pump discharge pipe. Each 
+positive displacement pump is sized to inject enough neutron-absorbing poison solution into the 
+reactor vessel to: 
+1. shut down the reactor from full power with no control rod motion, and 
+2. maintain the reactor in a subcritical condition as the plant operators cool the plant down. 
+ 
+In addition to its shutdown capabilities, the SLC system may be used as a high pressure injection 
+source during low water level conditions in the emergency operating procedures. 
+According to EWR 09-MEB-999-023, Revision 4, the mission time of the SLC system is 2 hours. This 
+is the time necessary to empty the SLC storage tank into the reactor at a rate of 39 gpm. 
+ 
+The pump flow rates recorded during the performance of 3-SI-4.4.A.1 did not meet the required 
+boron injection rate, as determined by the ATWS equivalence calculation of TS Surveillance 
+Requirement (SR) 3.1.7.6. The addition of SPB to the SLC tank increased the amount of boron 
+being injected into the core, which restored the boron injection rate to an acceptable level.  
+ 
+Based on the pump design, the minimal time of the pump’s operation, the methods used to calculate 
+pump flowrate, and the variation in pump flow rates observed during quarterly functional tests, the 
+flow rate observed during the surveillance test prior to the event were acceptable and not 
+unexpected. There is no evidence to suggest that the capacity of the Unit 3 SLC pumps has recently 
+changed due to pump degradation or wear. In addition, there is no evidence that the SLC system 
+SPB solution concentration had changed because there were no recent dilution events or chemical 
+additions performed that would have affected the validity of that input into the ATWS equivalency 
+calculation which revealed the event. Therefore, since the surveillance tests were in periodicity, it was 
+concluded that both SLC subsystems became inoperable at the time of its discovery because there 
+was no firm evidence indicating otherwise.  
+ 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+05000-296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 - 
+002 
+- 
+00 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    6     of     7    
+V. 
+Assessment of Safety Consequences 
+ 
+This event resulted in a single cause or condition which caused both independent trains of the SLC 
+system to become inoperable. SLC is a single system designed to shut down the reactor and 
+maintain it in a safe shutdown condition. BFN, Unit 3 remained capable of shutting down in the event 
+of an emergency because the Reactor Protection System (RPS) [JD] remained operable throughout 
+the duration of this event. An analysis performed by GE Hitachi Nuclear Energy determined that the 
+reduced flow rates had a small impact on overall system performance, and concluded that SLC was 
+expected to continue to meet all applicable ATWS acceptance criteria. Based on the above, during 
+the time period that the SLC system was inoperable, sufficient safety systems were available to 
+provide the required safety functions to protect the health and safety of the public. There was no 
+significant reduction to the health and safety of the public or plant personnel for this event. This event 
+was resolved within the TS-required completion time. 
+ 
+A. Availability of systems or components that could have performed the same function as 
+the components and systems that failed during the event 
+ 
+RPS remained operable throughout this event. 
+ 
+B. For events that occurred when the reactor was shut down, availability of systems or 
+components needed to shutdown the reactor and maintain safe shutdown conditions, 
+remove residual heat, control the release of radioactive material, or mitigate the 
+consequences of an accident 
+ 
+This event did not occur when the reactor was shutdown. 
+ 
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed 
+time from discovery of the failure until the train was returned to service 
+ 
+TVA determined that SLC was inoperable from the time of discovery on October 18, 2022, at 
+1440 CDT. Once the additional SPB was added the SLC tank, and Chemistry re-performed the 
+ATWS equivalence calculation, the system returned to Operable status on October 18, 2022, at 
+2053 CDT. Both trains of the BFN, Unit 3, SLC system were inoperable for approximately six (6) 
+hours. 
+ 
+VI. 
+Corrective Actions 
+ 
+Corrective Actions are being managed by the TVA’s corrective action program under 
+CR 1810303. 
+ 
+
+ 
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(08-2020) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+ 
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+05000-296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 - 
+002 
+- 
+00 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    7     of     7    
+A. Immediate Corrective Actions 
+ 
+The addition of SPB into the BFN, Unit 3 SLC tank restored the boron injection rate to an 
+acceptable level, as indicated by the re-calculated value of the ATWS equivalence calculation 
+performed as part of 3-SR-3.1.7.3 
+ 
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events 
+occurring in the future 
+ 
+As a corrective action to prevent or reduce the probability of event recurrence, BFN will 
+develop and implement an improved method for determining SLC pump flow rates. This will 
+include benchmarking other plants to incorporate their best practices to improve the accuracy 
+and repeatability of SLC pump flow rates measurements. 
+ 
+VII. Previous Similar Events at the Same Site 
+ 
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.   
+ 
+VIII. Additional Information 
+ 
+There is no additional information. 
+ 
+IX. 
+Commitments 
+ 
+There are no new commitments. 

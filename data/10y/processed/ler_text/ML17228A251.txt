@@ -1,0 +1,508 @@
+Ala
+=;YEnfergy
+EntergyOperations,Inc.
+P.O.Box756
+PortGibson,MS 39150
+DouglasNeve
+Manager, RegulatoryAssurance
+GrandGulfNuclearStation
+Tel. (601)437-2103
+GNRO-2017/00022
+August 16, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report (LER) 2016-004-01, Automatic Reactor SCRAM
+During Turbine Stop and Control Valve Surveillance Due to Reactor
+Pressure and Power Oscillations
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Supplemental LER 2016-004-01, Automatic Reactor SCRAM During Turbine Stop
+and Control Valve Surveillance Due to Reactor Pressure and Power Oscillations.
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Douglas Neve at (601) 437-2103.
+Sincerely,
+Douglas Neve
+Manager Regulatory Assurance
+Grand Gulf Nuclear Station
+DAN/ram
+Attachment: Licensee Event Report (LER) 2016-004-01
+cc: (See Next Page)
+GNRO-2017/00022
+Pag~ 2 of 2
+cc: U.S. Nuclear Regulatory Commission
+ATTN: Mr. Siva Lingam, NRR/DORL (w/2)
+Mail Stop OWFN 8 B1
+11555 Rockville Pike
+Rockville, MD 20852-2738
+U.S. Nuclear Regulatory Commission
+ATTN: Kriss M. Kennedy (w/2)
+Regional Administrator, Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+NRC FORM 366 U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB:NO.3150-0104 EXPIRES:03/31/2020
+(04-2017)
+Estimated burden per response to complywith this mandatory collection request:80
+hours. Reported lessons learned are incorporated intothe licensing processandfed
+LICENSEE EVENT REPORT (LER) backtoindustry.SendcommentsregardingburdenestimatetotheInformationServices
+Branch(T-2F43),U.S.NuclearRegulatoryCommission,Washington, DC20555-0001,
+(SeePage2forrequirednumberofdigits/charactersforeachblock) or bye-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of
+Information and Regulatory Affairs, NEOB-10202, (3150-0104), OfficeofManagement
+andBudget,Washington,DC20503.Ifameansusedtoimposeaninformationcollection
+does notdisplay acurrently validOMBcontrol number,the NRCmaynotconductor
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthis
+sponsor,andapersonisnotrequiredtorespondto,theinformationcollection.
+form
+http://www.nrc.gov/reading-rm/doc-collectionslnuregs/staff/sr1022/r3/)
+1.FACILITYNAME 2.DOCKETNUMBER 3.PAGE·
+Grand GulfNuclearStation, Unit 1 05000416 1OF 3
+1
+4.TITLE
+Automatic Reactor scram DuringTurbine Stop and Control Valve Surveillance Dueto Reactor Pressure and Power Oscillations
+5.EVENTDATE 6.LERNUMBER 7.REPORTDATE 8.OTHERFACILITIESINVOLVED
+I
+SEQUENTIAL REV FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR I NUMBER NO. MONTH DAY YEAR N/A 05000 N/A
+FACILITYNAME DOCKETNUMBER
+06 17 2016 2016-004-01 8 16 2017 N/A 05000 N/A
+11.THISREPORTISSUBMITTEDPURSUANTTOTHEREQUIREMENTSOF10CFR§:(Checkallthatapply)
+9.OPERATINGMODE D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10.POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+65 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) D OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFOR THIS LER
+I
+FACILITYNAME TELEPHONENUMBER(Inc/udeAreaCode)
+DouglasNeve /Manager, RegulatoryAssurance (601) 437-2103
+13. COMPLETEONELINEFOR EACHCOMPONENTFAILUREDESCRIBEDINTHIS REPORT
+I
+MANU- REPORTABLE I MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TOEPIX CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+I
+I
+Utility
+D JJ FSV N/A N/A N/A N/A
+PowerCorp Y N/A
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+D IZI
+YES (Ifyes, complete 15.EXPECTEDSUBMISSIONDATE) NO DATE
+ABSTRACT(Limitto1400spaces,i.e.,approximately15single-spacedtypewrittenlines)
+On June 17, 2016, at 0256 Central Daylight Time, Grand Gulf Nuclear Station experienced an
+automatic reactor scram. Prior to the scram, Grand Gulf Nuclear Station was operating in Mode
+1at approximately 65% rated thermal power and performing the Turbine Stop and Control
+Valve Operability Surveillance. During the surveillance, after the 'B' Turbine Stop valve was
+closed per procedure, the '0' Turbine Stop Valve unexpectedly closed. The lA' and 'C' Turbine
+Control Valves were then challenged to control Turbine and Reactor pressure resulting in
+Reactor pressure and power oscillations. The causes of this event were inadequate procedural
+guidance and the failure to use conservative decision making strategy. Corrective actions
+included replacement ofthe defective solenoid valves, and the revision of the applicable testing
+and Operations performance standards procedures.
+Page 1of4
+NRCFORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(4-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollection request:80hours.
+Reportedlessonslearnedareincorporatedintothelicensingprocessandfedbackto
+industry.SendcommentsregardingburdenestimatetotheInformation ServicesBranch(T-2
+LICENSEEEVENTREPORT(LER) F43),U.S.NuclearRegulatoryCommission,Washington,DC20555-0001,orbye-mailto
+CONTINUATION SHEET Infocoliects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationand
+RegulatoryAffairs,NEOB-10202,(3150-0104),OfficeofManagementandBudget,
+Washington,DC20503.Ifameansusedtoimposeaninformationcollectiondoesnot
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthisform displayacurrentlyvalidOMBcontrolnumber,theNRCmaynotconductorsponsor,anda
+http://www.nrc.gov/reading-rm/doc-collectionslnuregslstaff/sr1022/r3[) personisnotrequiredtorespondto,theinformationcollection.
+1.FACILITYNAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL REV.
+I I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016-004-01
+NARRATIVE
+PLANT CONDITIONS PRIOR TO THE EVENT
+Atthe time ofthe event, Grand Gulf Nuclear Station (GGNS) Unit 1was inMODE 1at approximately 65%
+ratedthermal power due to a planned power reduction to complete a Control Rod sequence exchange,
+Steam JetAir Ejector (SJAE) swap, Cooling Tower acid flush, and Main Turbine Stop and Control Valve
+Operability Surveillance. All systems, structures and components that were necessaryto mitigate the
+consequences of, or limit the safety implications of an event were available. No safety significant
+components were out of service.
+DESCRIPTION
+OnJune 17,2016, GGNS was inMode 1at approximately 65% rated thermal power performing the main
+I
+turbine stop (MTSV) [SHV] and control valve (MTCV) [XCV] operability surveillance. During the
+surveillance, the IB'Turbine Stop Valve was closed, as directed bythe surveillance procedure. While the
+IB'Turbine Stop Valve was closed, the ID'Turbine Stop Valve unexpectedly closed, resulting ina Division
+IIReactor Protection System (RPS) half scram signal.
+With the IB'and ID'Turbine Stop Valves closed, the remaining lA' and IC'Turbine Control Valves were
+challenged to precisely control Turbine and Reactor pressure. This resulted in Reactor pressure and
+poweroscillations. Although oscillations were occurring, Reactor pressure and water level maintained
+margin to scram setpoints.
+Multiple attempts were made to reset the IB'Turbine Stop Valve followed by power reduction. While
+driving rods to reduce power, the Reactor received an automatic scram at 0257 on a Neutron Monitoring
+System Oscillation Power Range Monitor(OPRM) trip.
+REPORTABILITY
+This Licensee Event Report (LER) isbeing submitted pursuant to Title 10Code ofFederal Regulations
+(10CFR) 50.73(a)(2)(iv)(A) for an automatic actuation ofthe RPS. Telephonic notification was made to
+the U.S. Nuclear Regulatory Commission (NRC) Emergency Notification System on June 17,2016, within
+4 hours ofthe event pursuant to 10CFR 50.72(b)(2)(iv)(B) and 10CFR 50.72 (b)(3)(iv)(A) for avalid RPS
+actuation while the reactor was critical.
+CAUSE
+Two separate rootcause evaluations were used to analyze this event; one evaluated the equipmentand
+components that initiated reactor pressure and power oscillations during turbine stop and control valve
+testing, and the other, evaluated the operations shift crew performance following the onset ofthe reactor
+pressure control instability period.
+Equipment Direct Cause: The direct cause of this event was reset solenoid valve [FSV] stuck ina position
+that opened adrain pathallowing depressurizing ofthe trip fluid supply header.
+Page2of4
+NRCFORM . 366AU.S.NUCLEAR REGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES:3/31/2020
+(6-2016)
+Estimatedburdenperresponsetocomplywiththismandatorycollection request:80hours.
+Reported lessonslearnedareincorporatedintothelicensingprocessandfedbackto
+industry.SendcommentsregardingburdenestimatetotheInformation ServicesBranch(T-2
+l."c,...Y'f',REGfI('
+,
+f
+o
+;,
+,,~
+LICEN
+C
+S
+O
+E
+N
+E
+TI
+E
+N
+V
+U
+E
+A
+N
+T
+T
+IO
+R
+N
+E
+S
+P
+H
+O
+E
+R
+E
+T
+T
+(LE
+.
+R) F
+In
+4
+f
+3
+o
+)
+c
+,
+o
+U
+lie
+.S
+c
+.
+ts
+N
+.R
+u
+e
+c
+s
+le
+o
+a
+u
+r
+rc
+R
+e
+e
+@
+gu
+n
+l
+r
+a
+c
+t
+.
+o
+g
+r
+o
+y
+v
+C
+,a
+o
+n
+m
+d
+m
+t
+i
+o
+ss
+th
+io
+e
+n,
+D
+W
+es
+a
+k
+sh
+O
+i
+f
+n
+fi
+g
+c
+t
+e
+o
+r
+n
+,
+,
+O
+D
+ff
+C
+ice
+20
+o
+5
+f
+5
+I
+5
+nf
+-
+o
+0
+r
+0
+m
+0
+a
+1
+t
+,
+io
+o
+n
+rb
+a
+y
+n
+e
+d
+-mailto
+;.. ::0
+W
+Re
+a
+g
+s
+u
+h
+l
+i
+a
+n
+t
+g
+o
+t
+r
+o
+y
+n
+A
+,
+f
+D
+fa
+C
+irs
+2
+,
+0
+N
+50
+E
+3
+O
+.
+B
+If
+-1
+a
+0
+m
+20
+e
+2
+a
+,
+ns
+(3
+u
+1
+s
+5
+e
+0
+d
+-0
+t
+1
+o
+0
+i
+4
+m
+),
+po
+O
+s
+f
+e
+fic
+a
+e
+n
+o
+i
+f
+n
+M
+fo
+a
+rm
+na
+a
+g
+ti
+e
+o
+m
+n
+e
+co
+n
+l
+t
+le
+a
+c
+n
+t
+d
+ion
+Bu
+d
+d
+o
+g
+e
+e
+s
+t,
+not
+%~ j (SeeNUREG-1022,R3forinstructionandguidanceforcompletingthisform displayacurrentlyvalidOMBcontrolnumber,theNRCmaynotconductorsponsor,anda
++.,............~o http://www.nrc.gov/reading-rm/doc-collectionslnuregs/staff/sr10221r30 personisnotrequiredtorespondto,theinformationcollection.
+1.FACILITYNAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL REV.
+I I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016-004-01
+NARRATIVE
+Equipment Root Cause 1:The first rootcause (RC) of this event related to equipmentwas the turbine
+stopand control valve operability procedure instructionswere developed allowing the useof aforce
+amplifying tool to manually operate an automatic turbine test (ATT) solenoid valve [FSV]. The adverse
+effect oftool usage onthe solenoid valve and alternate manual testing methods, were notconsidered.
+Equipment RootCause 2: The second RC of this event related to equipmentwas the reset solenoid valve
+misoperated when aforce multiplying tool was used bythe operators to actuate it.This opened an
+unintended drain path from the trip fluid supply to the depressurized start-up fluid header causing a rapid
+lossoftrip fluid header pressure resulting inMTSV "0" closure and initiation of turbine and reactor
+pressure oscillations.
+Operations Direct Cause 1:The direct cause of this event related to operator performance was that the
+operations shift crew did not manually scram the reactor when reactor power, pressure and levelwere
+oscillating abnormally resulting inan automatic scram.
+Operations RootCause 1:The first RCof this event related to operations isstation managementdid not
+effectively implementand reinforce acomprehensive Conservative Decision-Making (COM) strategy for
+the plant operators. This resulted inthe operations crew making multiple attempts to re-open the "B"
+turbine stop valve, allowing the uncontrolled reactor power, pressure, and level oscillations to continue
+over a44-minute period. The operations crew approach ultimately resulted inan automatic scram.
+Operations RootCause 2: The second RC ofthis event related to operations was that operators did not
+havespecific procedural guidanceto address operating limits during transients caused by malfunctions of
+theturbine controls system (TCS). This resulted inthe failure to perform amanual reactor scram because
+theoperators were not provided operating limits for the reactor power fluctuations initiated bythe TCS
+malfunction.
+CORRECTIVE ACTIONS
+The immediate corrective action was to replace both ATT solenoid valves.
+The keycorrective action to prevent recurrence addressing both Equipment RC-1 and RC-2 isto revise
+theturbine stop and control valve operability procedure to change the testing method. The new method
+will:
+• Exclude the requirement to hold the ATT solenoid plunger for extended periods.
+• UseATT test valve hand wheel in lieuof reset solenoid valves to reseUopenmain stop valve.
+• Remove the cautions stating "use of asuitable size pipe or dowel to depress the plungers isdesired."
+Furthermore, procedures will be reviewed to identify any non-standard tool used to operate systems that
+can affect reactor pressure, level, and power and to evaluate continued use of the tool or revise the
+procedure toeliminate useof the tool from the procedure.
+Page30f4
+NRCFORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(6-2016)
+Estimatedburdenperresponsetocomplywiththismandatorycollection request:80hours.
+Reported lessonslearnedareincorporatedintothelicensingprocessandfedbackto
+industry.SendcommentsregardingburdenestimatetotheInformation ServicesBranch(T-2
+LICENSEEEVENTREPORT(LER) F43),U.S.NuclearRegulatoryCommission,Washington,DC20555-0001,orbye-mailto
+CONTINUATIONSHEET Infocoliects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationand
+RegulatoryAffairs,NEOB-10202,(3150-0104),OfficeofManagementandBudget,
+Washington,DC20503.Ifameansusedtoimposeaninformationcollectiondoesnot
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthisform displayacurrently validOMBcontrolnumber,theNRCmaynotconductorsponsor,anda
+http://www.nrc.gov/reading-{m/doc-colleetionslnuregs/staff/sr10221r3/) personisnotrequiredtorespondto,theinformationcollection.
+1.FACILITY NAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL REV.
+I I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016-004-01
+NARRATIVE
+The keycorrective action to prevent recurrence addressing Operations RC-1 isto revise operations
+administrative procedures to include the operations COM strategy and to require that evaluated simulator
+scenarios include a qualitative attribute to evaluate crew performance for operator fundamental use,
+including the attribute for COM.
+The keycorrective action to prevent recurrence addressing Operations RC-2 isto develop and implement
+anoff-normal event procedure for reactor pressure control malfunctions.
+SAFETY SIGNIFICANCE
+The event posed nothreat to the health and safety of the general public orto nuclear safety as RPS
+performed as designed. NoTechnical Specification safety limits were violated. Industrial safety was not
+challenged, and there was no potential or actual radiological release during the event.
+PREVIOUS SIMILAR EVENTS
+There were no previous GGNS equipmentfailure events that were similar to this event. The use of
+internal and external operating experience was notcausal for the Operations performance lapses
+identified asthe root causes for this event.
+Page 4of4
