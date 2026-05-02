@@ -1,0 +1,361 @@
+Exelon Generation®
+~·····
+SVP-19-019 10 CFR 50.73
+April 5, 2019
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-29
+NRG Docket No. 50-254
+Subject: Licensee Event Report 254/2019-001-00 "HPCI System Inoperable Due to Blown Fuse
+in the Motor Speed Changer Circuit"
+Enclosed is Licensee Event Report 254/2019-001-00 "HPCI System Inoperable Due to Blown
+Fuse in the Motor Speed Changer Circuit", for Quad Cities Nuclear Power Station, Unit 1.
+This report is submitted in accordance with 1O CFR 50.73(a)(2)(v)(D) for an event or condition that
+could have prevented fulfillment of a safety function to mitigate the consequences of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mark Humphrey at
+(309) 227-2800.
+R/:¥
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRG Region Ill
+NRG Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+,_v~RE<luz. LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and led back to
+~~v ;.o industry. Send comments regarding burden estimate to the Information Services Branch
+.. <~... c o'
+,
+~" ,0 , . . (See Page 2 for required number of digits/characters for each block} t (
+R
+o T
+e
+·2
+g
+l n
+u
+F f
+la
+o 4
+t
+c
+o
+3 o
+r
+)
+y
+, ll e U c .
+A
+t S s
+f
+. .
+f
+R
+a
+N
+i
+e
+rs
+u s
+,
+c o l u e r
+N
+a c r
+E
+e @ R
+O
+e
+B
+n g
+-
+r
+1
+u c
+0
+l . a g
+2
+t o
+0
+o v
+2
+ry ,
+,
+C a
+(
+n o
+3
+d m
+1 5
+m
+0
+to i
+-
+s
+0
+s
+1
+t i h o
+0
+e n
+4
+,
+) ,
+W De a
+O
+s s k
+f
+h
+f i
+i
+c
+n
+e
+O g f t f o K
+o
+n :
+f
+e , r, D
+M
+C O
+a
+H
+n
+2 K
+a
+0
+g
+: 5 e
+e
+5
+m
+5 o -
+e
+f 0
+n
+0
+t
+I 0 n 1 fo
+a
+, r
+n
+o m
+d
+r a b ti y o
+B
+n
+u
+e
+d
+-m
+g
+an
+e
+a d
+t
+i
+,
+l
+~ i (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. II a means used to impose an information collection does not
+'*'/-s-Q ~o"' httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D display a currently valid OMS control number, the NRG may not conduct or sponsor, and a
+>t***" person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 4
+4. Title
+HPCI System Inoperable Due to Blown Fuse in the Motor Speed Changer Circuit
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year n/a 05000
+Number No.
+- - Facility Name Docket.Number
+02 05 2019 2019 001 00 04 05 2019 n/a 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a}(2}(viii}(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a}(2}(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4} 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36( c}( 1} (i)(A) 50.73(a}(2}(iv}(A) 50.73(a}(2}(x)
+10. Power Level D 20.2203(a)(2}(ii) D 50.36( c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a}(4)
+D D D D
+20.2203(a}(2}(iii) 50.36(c)(2) 50.73(a)(2}(v)(B) 73.71 (a}(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2}(v)(C) 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) [8] 50.73(a}(2)(v)(D) D 73.77(a}(2}(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a}(2)(vii) 73.77(a}(2)(ii)
+D D
+50.73(a)(2)(i}(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact !Telephone Number (Include Area Code)
+Richard Swart - Regulatory Assurance 309-227-2810
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+x BJ 33 G080 y x BJ MO G080 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) [8J No n/a
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On February 5, 2019, at 1804 hours, a Motor Speed Changer (MSC) logic fuse blew during performance of Quad Cities Nuclear ·
+Power Station (QCNPS) Unit 1 High Pressure Coolant Injection (HPCI) operability surveillance following planned maintenance
+activities. Had HPCI been demanded while the fuse was blown the HPCI turbine would have been unable to reach its required speed.
+During investigation of the blown fuse, the MSC motor and the MSC gearbox were discovered tG> be mechanically bound. Intermittent
+failure of the Low Speed Stop (LSS) Limit Switch (LS) due to age related degradation of internal electrical contacts allowed the MSC
+motor to remain energized when it should have been deenergized, leading to degradation. The limit switch contacts were found with
+high resistance attributed to observed deposits and pitting. None of these components were part of the work scope of this HPCI
+maintenance window.
+The immediate corrective action was replacement of the fuse, the LSS LS, the MSC motor and select MSC gearbox components. the
+safety impact was minimal based on the availability of other high pressure and low pressure Emergency Core Cooling Systems.
+This is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D) for an Event or Condition that Could Have Prevented Fulfillment of
+a Safety Function to Mitigate the Consequences of an Accident.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMS control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2019 - 001 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+HPCI System Inoperable Due to Blown Fuse in the Motor Speed Changer Circuit
+A. CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: February 5, 2019 Event Time: 1804 hours
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+There were no other structures, systems or components (SSC) inoperable during this event time period that could
+have contributed to this event.
+8. DESCRIPTION OF EVENT
+On February 5, 2019, at 1804 hours, during a Unit 1 High Pressure Coolant Injection (HPCl)[BJ] operability
+surveillance, a fuse [FU] blew in the logic for the Motor Speed Changer (MSC)[SM] for the HPCI Turbine [TRB].
+The blown fuse disabled both the manual and automatic injection functions of HPCI. Had HPCI been demanded
+while the fuse was blown the HPCI turbine would have been unable to reach its required speed. The system had
+been out of service for planned maintenance, but no maintenance activities took place on equipment protected by
+this fuse. On February 6, 2019, at 0222 hours, ENS #53816 was made to the NRC under
+10 CFR 50.72(b)(3)(v)(D), to report this event as an event or condition that could have prevented the fulfillment of a
+safety function. November 8, 2018 was the last successful test of Unit 1 HPCI.
+During troubleshooting, it was found that the MSC motor [MO] and the MSC gearbox were mechanically bound.
+The fuse .• the MSC motor, and select gearbox components were replaced. Subsequent troubleshooting determined
+that intermittent failure of the Low Speed Stop (LSS) Limit Switch (LS)[33], caused intermittent operation of the
+associated relay. The LS intermittent failure was due to high resistance contacts attributed to deposits and pitting
+caused by age related degradation. The LSS LS was replaced.
+After troubleshooting and repairs, a HPCI operability surveillance was performed successfully. HPCI was declared
+operable on February 8, 2019, at 1434 hours. Since HPCI is a single train safety system, this notification is being
+made in accordance with 10 CFR 50.73(a)(2)(v)(D) for an Event or Condition that Could Have Prevented Fulfillment
+of a Safety Function to Mitigate the Consequences of an Accident.
+C. CAUSE OF EVENT
+The cause of the event is the intermittent failure of the MSC LSS LS, which impacted both the MSC motor and
+gearbox. LS failure is attributed to age related degradation of internal LS electrical contacts. The LS had been
+installed for more than 9 years and was due for replacement at 10 years.
+NRG FORM 366A (04-2018) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T·2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555·0001, or by e·mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB·10202, (3150·0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http:l/www.nrc.gov/reading-rm/doc·collections/nuregs/staff/sr1022/r3D
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2019 - 001 00
+NARRATIVE
+D. SAFETY ANALYSIS
+System Design
+According to the Quad Cities Nuclear Power Station (QCNPS) Units 1 and 2 UFSAR Section 6.3.2.3, "High
+Pressure Coolant Injection Subsystem," the HPCI subsystem is designed to pump water into the reactor vessel
+under Loss of Coolant Accident (LOCA) conditions which do not result in rapid depressurization of the pressure
+vessel. The loss of coolant might be due to a loss of reactor feedwater or to a small line break which does not
+cause immediate depressurization of the reactor vessel. The sizing of the HPCI subsystem is based upon providing
+adequc;1te core cooling during the time that the pressure in the reactor vessel decreases to a value that the Core
+Spray [BM] subsystem and/or the Low Pressure Coolant Injection (LPCI) [BO] subsystem become effective. The
+HPCI subsystem is designed to pump 5600 gallons per minute into the reactor vessel within a reactor pressure
+range of about 1120 pounds per square inch gage (psig) to 150 psig. Initiation of the HPCI subsystem occurs
+automatically on signals indicating reactor low-low water level or high drywell pressure. HPCI injection into the
+reactor vessel may be accomplished manually by the operator or without operator action by the HPCI automatic
+initiation circuitry. HPCI can also operate in a pressure control mode of consuming steam from the reactor vessel
+without providing full injection into the vessel (down to and including zero injection).
+Safety Impact
+The safety significance of this event is minimal. HPCI was inoperable for approximately 68.5 hours. The Reactor
+Core Isolation Cooling (RCIC)[BN] system, Automatic Depressurization System (ADS), and multiple low-pressure
+Emergency Core Cooling Systems (ECCS) were available during this time.
+Risk Insights
+The HPCI system is a risk significant system in the QCNPS PRA, supports High Safety Significant and Low Safety
+Significant Maintenance Rule Functions and is monitored under the Mitigating System Performance Index (MSPI)
+for reliability and availability. Unavailability of the HPCI system during this condition was addressed under the
+QCNPS Configuration Risk Management program per the requirements of 1O CFR50.65 (a)(4) to assess and
+manage the risk increase.
+This event is a Maintenance Rule Functional Failure (MRFF), and a MSPI failure, since both the manual and
+automatic injection functions of HPCI were lost.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. Replaced the LSS LS, MSC Motor, and select MSC gearbox components.
+2. Failed LS and Motor were sent to Exelon PowerLabs for further failure analysis.
+Follow-up:
+1. The preventive maintenance replacement frequency of the LSS LS will be reduced from 10 years to 8 years.
+NRC FORM 366A (04·2018) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the lnfonTJation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of lnfonTJation and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonTJation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMS control number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/stalf/sr1022/r3/) sponsor, and a person is not required to respond to, the infonTJation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2019 - 001 00
+NARRATIVE
+F. PREVIOUS OCCURRENCES
+The station events database, LERs, and INPO Consolidated Event System (ICES) were reviewed for similar events
+at QCNPS. This event was attributed to intermittent LSS LS failure resulting in MSC motor and gearbox binding
+and a blown fuse.
+Quad Cities Unit 1 LER 05000254/95-004-00, "HPCI System Declared Inoperable From Motor Speed Changer
+Malfunction Due to Limit Switch Failure," involved the same system components as the current event. In 1995, the
+LSS LS was found to have improper setting of the internal contact block, which also resulted in intermittent
+performance, causing MSC damage. Corrective actions addressed proper maintenance instructions for setting of
+the limit switches. The corrective actions from the 1995 event were not found to contribute to the current event.
+Quad Cities Unit 2 Issue Report 593863, "MSC Full Reposition Greater Than 15 Seconds," also involved the same
+system components as the current event. In 2007, a loose screw associated with the LSS LS allowed the MSC
+motor to remain energized and driving into the LSS since a logic test six days earlier. Unlike the current event, it
+did not result in damage to the MSC motor or gear box, and HPCI remained capable of meeting its design functions.
+Corrective actions addressed verifying that the MSC motor has de-energized after returning HPCI to standby. The
+corrective actions from the 2007 event were not found to contribute to the current event.
+G. COMPONENT FAILURE DATA
+Failed Equipment: Limit Switch, Series A
+Component Manufacturer: General Electric
+Component Model Number: CR9440K1 K1
+Component Part Number: N/A
+Failed Equipment: MSC Motor, 1/10 HP, 125 VDC
+Component Manufacturer: General Electric
+Component Model Number: 5BC26AC389B
+Component Part Number: N/A
+This event has been reported to ICES.
+NRG FORM 366A (04-2018) Page _4_ of _4_

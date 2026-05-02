@@ -1,0 +1,240 @@
+10 CFR 50.73
+CCN: 22-89
+December 15, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2
+Subsequent Renewed Facility Operating License No. DPR-44
+NRC Docket No. 50-277
+Subject: Licensee Event Report (LER) 2022-002-00 Automatic Depressurization
+System Safety Relief Valve Actuator Diaphragm Degraded
+The subject report is being submitted in accordance with 50.73(a)(2)(i)(B) for any operation
+or condition which was prohibited by the plant’s Technical Specifications.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Manager, Mr. Wade Scott at (717) 456-3047.
+Respectfully,
+David A. Henry
+Site Vice President
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W.DeHaas, Commonwealth of Pennsylvania
+S.Seaman, State of Maryland
+B.Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 2 (PB2) 05000 277 1 OF 4
+4. Title
+Automatic Depressurization System Safety Relief Valve Actuator Diaphragm Degraded
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 0500
+Facility Name Docket Number
+10 17 2022 2022 - 002 - 00 12 15 2022
+0500
+9. Operating Mode 4 10. Power Level 00
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Wade J. Scott, Regulatory Assurance Manager 7174563047
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X SB RV T020 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 17, 2022, with the unit in a refueling outage. Water was identified leaking from a fastener on the PB2 RV-
+71B Main Steam Safety/Relief Valve (S/RV) body. The water leak was a small steady stream. The leakage was due
+to a degraded gasket and steam cut fastener threads. Subsequent laboratory analysis of the leaking valve identified
+the Automatic Depressurization System, (ADS) function performed by the pneumatic operator was non-functional.
+The pneumatic operator resilient components (diaphragm) were discovered to be embrittled and lost pressure
+retaining integrity. The timeframe for the degraded ADS capability cannot be reasonably determined at this time. The
+relief valve overpressure function was evaluated to be not impacted by the leak or the loss of ADS function.
+Therefore, Peach Bottom is submitting this report in accordance with 10 CFR 50.73(a)(2)(i)(B), as any operation or
+condition which was prohibited by the plant’s Technical Specifications, having exceeded the required 14 day action
+time or maximum Risk Informed Completion Time (RICT) to restore an ADS valve to OPERABLE status.
+There were no other systems which were inoperable during this identified condition that contributed to this event.
+There were no actual safety consequences as a result of this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station, Unit 2 05000- 277 NUMBER NO.
+2022 - 002 - 00
+NARRATIVE
+Plant Operating Conditions before the Event:
+Unit 2 was in Mode 4, Cold Shutdown, with the Main Steam Lines water solid, operating at 0% of rated thermal
+power on October 17, 2022. Unit 2 was shut down for its 24th Refueling Outage (P2R24) on October 16, 2022.
+Status of structures, components, or systems that were inoperable at the start of the event and that contributed to
+the event:
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this event.
+The Energy Industry Identification System component function identifier and name of each component or system:
+EIIS: Safety Relief Valves [SB],
+RV-2-02-071B, B SAFETY RELIEF VALVE (RV-71B)
+Target Rock Model 67F pilot operated safety/relief valve
+Serial Number 024
+Description of Event:
+On October 17, 2022, at 1337 hours, station personnel identified a small steady stream of water, approximately 0.2
+gallons per minute leaking from the insulation around the ‘71B’ Main Steam/Relief Valve (S/RV). Subsequent
+investigation revealed that the leakage was from the relief valve pilot filter plug threaded connection. There was no
+through-wall leakage of any Reactor Coolant System (RCS) pressure boundary component. The RV-71B was
+emergently replaced in the scope of the planned outage, quarantined, and shipped to an off-site vendor for analysis
+and repair.
+As part of vendor testing the relief valve, the pneumatic operator is functionally tested with air. The pneumatic
+operator failed to actuate and air leakage was audible during testing, indicating potential resilient parts degradation.
+Disassembly and examination of the pneumatic operator revealed the actuator diaphragm elastomer had embrittled
+and delaminated, enabling gross leakage that inhibited the S/RV manual operation capability. This as-found
+condition represents a loss of the valve’s Automatic Depressurization System (ADS) function.
+Technical Specification (TS) 3.5.1 Limiting Condition of Operation (LCO) requires each Emergency Core Cooling
+System (ECCS) injection/spray subsystem and the Automatic Depressurization System (ADS) function of five (5)
+S/RVs to be OPERABLE in operating modes 1, 2 and 3.
+The remaining four (4) S/RVs that support ADS capability were verified to be operable for this function. Peach
+Bottom TS Limiting Condition for Operation 3.5.1, Condition E for one (1) ADS valve inoperable, has a Completion
+Time of 14 days or in accordance with the Risk Informed Completion Time Program. The event start time for the loss
+of ADS function of the RV-71B is indeterminate. The S/RV ADS function is considered inoperable for a period greater
+than permitted by TS since the start of the degradation cannot be reasonably determined. Therefore, the condition is
+reportable under criterion 10CFR 50.73(a)(2)(i)(B) as any operation or condition which was prohibited by the plant’s
+Technical Specifications.
+The RV-71B was installed as part of the planned preventive maintenance relief valve outage work scope in October
+of 2018 (P2R22). The valve was in-service approximately four (4) years at the time of discovery.
+The RV-71B ADS Safety Relief Valve was not actuated during Cycle 24 operations (October 2018 – October 2020).
+The RV-71B was used for manual pressure control during Cycle 25 (October 2020 – October 2022) as part of post
+U2 SCRAM actions on May 15, 2022 (ML22196A020). Control room operators manually operated the valve from the
+main control room and observed the expected response.
+NRC FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station, Unit 2 05000- 277 NUMBER NO.
+2022 - 002 - 00
+NARRATIVE
+Analysis of Event:
+The ADS system is an Emergency Core Cooling System (ECCS) which is designed to provide depressurization of
+the reactor coolant system during a small break loss of coolant accident if high pressure injection fails or is unable to
+maintain required water level in the reactor vessel. It reduces the reactor pressure vessel pressure to within the
+operating pressure range of the low pressure ECCS subsystems so that these subsystems can provide coolant
+inventory makeup. To accomplish this function, pneumatic power is used to actuate the designated SRVs A, B, C, G
+and K.
+This failure only impacts the RV-71B ADS valve. The effect of this condition is that one (1) of five (5) ADS valves was
+not considered operable as required by Technical Specifications (TS) Section 3.5.1. The reduction in capability of the
+ADS safety function, which is needed to mitigate he consequences of an accident, has been evaluated and a single
+inoperable ADS S/RV does not result in loss of the safety function. The operability of the remaining four (4) ADS
+valves provides relative assurance that required safety functions would be accomplished as designed and therefore
+this event is not reportable under 50.73(a)(2)(v)(D). This event is not an unanalyzed condition and therefore not
+reportable under criterion 10CFR 50.73(a)(2)(ii)(B).
+The RV-71B over-pressure protection feature has been evaluated and was not adversely impacted by the leakage
+from the pilot filter plug threaded connection. The volume of the leak through the pilot filter fastener threads in
+comparison to pilot sensing drilled passage volume is minute. The relief valve pilot assembly would have been
+subjected to uninterrupted or undiminished main steam process pressure, thus the valve operation set point was not
+impacted. Technical Specification 3.4.3, Safety Relief Valves (SRVs) and Safety Valves (SVs), Limiting Condition of
+Operation requires the safety function of 13 valves (any combination of SRVs and SVs) to be OPERABLE in modes
+1, 2, and 3. RV-71B was installed as 1155 +/-11.5 PSIG setpoint valve, the highest of three (3) groups of S/RVs. This
+function was not adversely impacted by this event. There was no loss of over-pressure protection safety function.
+No other systems or secondary functions were affected. There were no automatic or manual safety system
+responses associated with this event. There were no operator actions associated with this event. Based on the
+above, sufficient systems were available to provide the required safety functions needed to protect the health and
+safety of the public.
+Cause of the Event:
+The RV-71B pneumatic operator failure proximate cause is thermal degradation of its resilient components. The
+prolonged exposure to elevated temperatures was the result of a steam leak in its immediate vicinity.
+Main Steam S/RVs are insulated by thermal blankets encased in a removable stainless steel metal enclosure. The
+relief valve main body inlet, outlet and pilot assembly are all enclosed in the insulation blankets and enclosure.
+These parts generally operate at or very near main steam process temperature. The relief valve pneumatic operator
+is not insulated and protrudes through the sheet metal enclosure into the drywell atmosphere. This configuration
+reduces the steady state temperature exposure of the pneumatic operator resilient components.
+The identified leakage from the pilot filter fastener has been evaluated by station Engineering staff and concluded to
+have no adverse impact on the RV-71B over-pressure protection function. The pilot filter plug fastener is removed
+inspected and reinstalled during every relief valve refurbishment activity. Widening of the thread gaps from wear
+enabled steam cutting that compromised the pilot filter fastener outer gasket. The fastener threads are believed to
+have slightly worn over the operating life of this valve.
+NRC FORM 366A (08-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station, Unit 2 05000- 277 NUMBER NO.
+2022 - 002 - 00
+NARRATIVE
+Leakage past the fastener threads compromised the pilot filter plug outer gasket enabling a flow path for main steam
+to enter into the drywell. The small volume steam leak impinged on the relief valve insulation blankets and wet vapor
+flow exited the metal enclosure opening through which the pneumatic operator protrudes. The wet vapor flow exiting
+the metal enclosure aperture subjected the pneumatic operator to elevated operating temperatures. Over some
+indeterminate time period following its last observed operation in May 2022, the operator diaphragm was adversely
+impacted. The diaphragm as-found condition was typical of sustained exposure to temperatures above its material
+qualifications. No human performance related causes have been identified.
+Corrective Actions:
+RV-71B was replaced in kind with a refurbished, tested and fully qualified replacement S/RV prior to unit start up
+from the refueling outage (P2R24) and entry into the mode of applicability for TS 3.4.3 and 3.5.1.
+All other S/RVs were visually inspected for proper insulation installation and any evidence of steam leaks from their
+respective pilot filter fasteners and other bolting. In addition, all S/RV pneumatic operators were tested in-situ to
+validate full function and integrity of the pneumatic operator resilient parts. S/RVs replaced within the planned
+maintenance scope of the refueling outage (RV-71G, , RV-71J, RV-71K) also underwent review of the refurbishment
+and testing work package documentation to ensure pilot filter fastener and gasket tolerances were within design
+limits. No further deficiencies were identified.
+The failed resilient parts shall undergo analysis to ensure compliance with applicable design specifications.
+Causal evaluation results will be reviewed by refurbishment vendor and the original equipment manufacturer.
+Previous Similar Events:
+11-003-00 Automatic Depressurization System Safety Relief Valve Actuator Diaphragm Thread Seal Leak
+(ML11325A383)
+NRC FORM 366A (08-2020) Page 4 of 4

@@ -1,0 +1,221 @@
+Peter Dietrich
+Senior Yice Pn5ident and Chief Nuclear Officer
+DTE Electric Company
+6400 ~. Dixie Highway, Newport, MI 48166 Tel:
+734.586.4153
+Email: peter.dietrich@dteenergy.com
+DTE
+July 6, 2022 10 CFR 50.73
+NRC-22-0025
+U.S. Nucleal' Regulat01y Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Penni 2 Power Plant
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Repo1i (LER) No. 2022-002
+Pursuant to 10 CFR 50.73(a)(2)(v)(D), DTE Electric Company (DTE) is subinitting LER No.
+2022-002, Unexpected High Pressure Coolant Injection Turbine Trip.
+No new commitments are being made in this submittal.
+Should you have any questions or require additional inf01mation, please contact Mr. Eric Frank,
+Manager -Nuclear Licensing, at (734) 586-4772.
+Sincerely,
+Eric Olson
+Site Vice President for
+Peter Dietrich
+Senior Vice President and Chief Nuclear Officer
+Enclosure: Licensee Event Repo1t No. 2022-002, Unexpected High Pressure Coolant Injection
+Turbine Trip
+cc: NRC Project Manager
+NRC Resident Office
+Regional Adininistrator, Region III
+Enclosure to
+NRC-22-0025
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2022-002
+Unexpected High Pressure Coolant Injection Turbine Trip
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(0&.,-,2.0,2 ..0. .), Eslimaled burden per response to comply lllith lhis mandatory collection raquest 80 hours" Reported
+LICENSEE EVENT REPORT (LER) lessons learned are inrorporated i'lto the licensing process and fed baclt to industry. rr S - e 6 n d comments
+lw,\ regarding burden estimate to the FOIA, Library, and lnfonnation Collections Branch A1 C~). U.S.
+(See Page 3 for required number of digits/characters for each block) Nudear Regulatory Commission, Washinglon, DC 20~01, or by e-mail to
+~.~.......} (See NUREG-1022, R3 for instruction and guidance for completing this form lnlilcollecls Resoorce@nrc.gov, and the 0MB ravielvel at 0MB Office of lnfonnation and Regulatory
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3/l Alfail!l, (3150-0104), Attn Desk ai: oira sl.tlmission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the doclElent
+requesting or requiring lhe collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2
+05000 341 1 OF 4
+4. Title
+Unexpected HPCI Turbine Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+N/A 05000
+- -
+05 11 2022 2022 002 00 07 06 2022 Facility Name Docket Number
+N/A 05000
+9. Operating Mode 110. Power Level
+1 10
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50.7 3(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(g) □ 50. 73(a)(2)(v)(B) □ 73.7 1 (a)(4)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.71{a)(5)
+[Z]
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.73(a)(2)(i)(B) 50. 73(a)(2)(v)(D) □ 73. 77(a)(1 )(i)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.73(a)(2)(i)(C) □ 50. 73(a)(2)(vi i) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73.7 7(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1 )(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50.73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Eric Frank - Manager, Nuclear Licensing 734-586-4 772
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X BJ SI W290 Yes
+14. Supplemental Report Expected Month Day Year
+ID 15. Expected Submission Date
+[Z]
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e .. approximately 15 single-spaced typewritten lines)
+On May 11, 2022, the High Pressure Coolant Injection (HPCI) turbine unexpectedly experienced an overspeed trip during
+performance of surveillance 24.202.01 "HPCI Pump and Valve Operability Test At 1025 PSI". The cause was the HPCI
+Turbine Magnetic Pick-Up Speed Element (E41N212) was found shorted, breaking the speed feedback circuit to the HPCI
+Speed Controller. The HPCI Turbine Magnetic Pick-Up Speed Element (E41 N212) was replaced on 05/12/2022 and HPCI
+24.202.01 surveillance was completed satisfactorily on 05/16/2022.
+An 8 hour Event Notification 55894 was reported to the NRC operations center per 10 CFR 50.72(b)(3)(v)(D). This report is
+submitted per 10 CFR 50.73(a)(2)(v)(D).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo oo~ly with this mandatory collection request 80 hours. Reported
+lessons learned are inro,porated into the licensing process and fed back to industry. Send cooiments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Coovnission, Washington, DC 20555--0001. or by e--ma~ lo
+CONTINUATION SHEET
+lnfocolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--rnai: oira submission@omb.00!).00V. The NRG may not conduct or
+http:/lwww.nrc.gov/reading-nn/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond lo, a collection of information unless the document
+requesting or requiring the ooDection displays a currenHy valid 0MB conlrol number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+IFermi
+2 05000- 341
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode- 1
+Reactor Power - 10 Percent
+There were no structures, systems, or components (SSCs} that were inoperable at the start of this event that contributed
+to this event. Automatic Depressurization System (ADS} [RV] and Reactor Core Isolation Cooling (RCIC}[BN] were
+operable during the event.
+DESCRIPTION OF THE EVENT
+On May 11, 2022 at 1814 the plant was in Mode 1 performing start up activities. A High Pressure Coolant Injection (HPCI)
+[BJ] surveillance was in progress via surveillance 24.202.01 "HPCI Pump and Valve Operability Test at 1025 PSI." The
+HPCI turbine tripped on a mechanical overspeed due to failure of the HPCI Turbine Magnetic Pick-Up Speed Element
+(E41N212}. Operations noted the HPCI Turbine Steam Isolation Valve (E4100F067} and the HPCI/RCIC Test Pressure
+Control Valve (E41 00F011} were opening and closing unexpectedly. HPCI is designed to automatically restart when
+turbine speed drops below the mechanical over speed trip setpoint.
+Troubleshooting of the system shows the system restarted twice following the initial overspeed trip before HPCI was
+manually tripped. Troubleshooting determined that the HPCI Turbine Magnetic Pick-Up Speed Element (E4100N212}
+was shorted, breaking the speed feedback circuit to the HPCI Speed Controller. Troubleshooting also identified the HPCI
+Pump Discharge Pressure Switch (E41 00N027}, which controls the HPCI Minimum Flow Valve (E4150F012) was found to
+be out of tolerance low, causing the HPCI minimum flow valve (E4150F012) to cycle open and closed.
+There is no evidence the condition of the shorted HPCI Turbine Magnetic Pick-Up Speed Element (E4100N212) or the
+HPCI Pump Discharge Pressure Switch (E410 0N027) low out of tolerance conditions existed prior to the overspeed trip
+event on 05/11/2022. This is based on the fact the HPCI system performed as expected during surveillance testing
+24.202.02 HPCI Flow Rate Test At 165 PSI Reactor Steam Pressure on 05/09/2022 and HPCI did not exhibit abnormal
+behavior prior to the start of 24.202.01 "HPCI Pump and Valve Operability Test at 1025 PSI" on 05/11/2022.
+The HPCI Turbine Magnetic Pick-Up Speed Element (E4100N212) was replaced and the HPCI Pump Discharge Pressure
+Switch (E41 00N027) was successfully calibrated into tolerance and HPCI was restored to operable status following
+satisfactorily performance of 24.202.01 HPCI Pump and Valve Operability at 1025 Rx PSIG" on 05/16/2022.
+Prior to the event, during the refueling outage, the HPCI turbine internal inspection was performed; which, included
+removing HPCI Turbine Magnetic Pick-Up Speed Element (E4100N212). The Post Maintenance Test for this work
+included performing both 24.202.02 "HPCI Flow Rate Test At 165 PSI Reactor Steam Pressure" and 24.202.01 "HPCI
+Pump and Valve Operability at 1025 Rx PSIG". Procedure 24.202.02 was satisfactorily completed on 05/09/2022. On
+05/11/2022, the HPCI turbine unexpectedly experienced an overspeed trip during performance of surveillance 24.202.01.
+Troubleshooting determined the HPCI Turbine Magnetic Pick-Up Speed Element (E41 N212) had failed. The failed speed
+element was replaced and HPCI 24.202.01 surveillance was completed satisfactorily on 05/16/2022.
+An 8 hour Event Notification 55894 was reported to the NRC operations center per 10 CFR 50.72(b}(3)(v)(D). This report
+is submitted per 10 CFR 50.73(a)(2)(v)(D).
+NRC FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo oo~ly with this mandatory collection request 80 hours. Reported
+lessons learned are inro,porated into the licensing process and fed back to industry. Send cooiments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Coovnission, Washington, DC 20555--0001. or by e--ma~ lo
+CONTINUATION SHEET
+lnfocolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--rnai: oira submission@omb.00!).00V. The NRG may not conduct or
+http:/lwww.nrc.gov/reading-nn/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond lo, a collection of information unless the document
+requesting or requiring the ooDection displays a currenHy valid 0MB conlrol number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+I I
+IFermi ~□ -I NUMBER 1-0N O.
+2 05000- 341 I
+002
+NARRATIVE
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+During the time HPCI was inoperable, the RCIC system remained OPERABLE for high pressure injection in the event of
+an emergency. The Standby Feedwater (SBFW) [SJ] system was also available for high pressure injection. Additionally,
+the Automatic Depressurization System (ADS) was available to reduce reactor pressure to within the capabilities of the
+low pressure Emergency Core Cooling Systems (ECCS) [BO][BM]. TS 3.5.1 allows HPCI to be taken out of service for up
+to 14 days provided that RCIC is available. The duration of the HPCI inoperability, although unplanned, was within the
+allowable out of service time. HPCI is required for design basis accidents such as a loss of coolant accident (LOCA). No
+accidents or transients requiring HPCI occurred or were in progress during the HPCI inoperability.
+Based on this, the safety significance of this event is low. There were no radiological releases associated with this event.
+CAUSE OF THE EVENT
+The direct cause was the failed HPCI Turbine Magnetic Pick-Up Speed Element (E4100N212). The magnetic pick-up
+switch was found shorted, breaking the speed feedback circuit to the HPCI Speed Governor. This resulted in a loss of
+speed indication to the HPCI governor (E4100K200) controller "HPCI Turbine Governor (EG-M) speed controller'' and
+HPCI overspeed turbine trip. The speed sensor was replaced and HPCI 24.202.01 surveillance was completed
+satisfactorily, confirming the speed sensor was the failed component.
+CORRECTIVE ACTIONS
+The failed HPCI Turbine Magnetic Pick-Up Speed Element (E4100N212) was replaced and the HPCI Pump Discharge
+Pressure Switch (E410 0N027) was recalibrated to within tolerance.
+PREVIOUS OCCURRENCES
+There have been previous occurrences of unplanned HPCI inoperability in the past several years, for example LERs
+2018-005 dated September 2018 and 2019-004 dated September 2019. However, those occurrences were due to a
+support system, the Mechanical Draft Cooling Towers (MDCT), not being able to support operability of the Division 2
+Emergency Equipment Cooling Water (EECW) system which is required for the operability of the HPCI room cooler.
+Therefore, the corrective actions taken to resolve those previous occurrences would not have prevented the issue
+described in this LER.
+LER 21-002 Rev.1, dated March 2022, the unplanned inoperability of the HPCI system due to an inverter circuit failure
+had an unknown cause but was most likely due to a voltage transient. Components in the system were found shorted.
+The failure mechanism of the inverter and the sequencer failures were caused by a voltage transient on the DC bus. This
+transient was created from an unknown source either electrically or magnetically coupled to the supply cables of the
+devices. Therefore, the corrective actions taken to resolve this previous occurrence would not have prevented the issue
+described in this LER.
+NRC FORM 366A (08-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response lo oo~ly with this mandatory collection request 80 hours. Reported
+lessons learned are inro,porated into the licensing process and fed back to industry. Send cooiments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Coovnission, Washington, DC 20555--0001. or by e--ma~ lo
+CONTINUATION SHEET
+lnfocolleds.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e--rnai: oira submission@omb.00!).00V. The NRG may not conduct or
+http:/lwww.nrc.gov/reading-nn/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond lo, a collection of information unless the document
+requesting or requiring the ooDection displays a currenHy valid 0MB conlrol number.
+1. FACILITY NAME 2. DOCKET NUMBER I 3. LER NUMBER
+REV
+I I YEAR SEQUENTIAL
+IFermi □ NUMBER NO.
+2 05000- 341 0
+□ - 1 1-
+002
+NARRATIVE
+In addition, August 2021 HPCI was declared inoperable (EN 55403) for a HPCI failure due to poor connections associated
+with the flow controller. EN55403 was recently retracted as HPCI was determined to be operable. The cause and
+corrective actions associated with EN55403 event were reviewed from the perspective of this event being reported in this
+LER and it was detennined that the two events were independent. Therefore, the corrective actions taken to resolve these
+issues would not have prevented the issue described in this LER.
+NRC FORM 366A (08-2020) Page 4 of 4

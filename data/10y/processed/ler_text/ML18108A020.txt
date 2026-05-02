@@ -1,0 +1,260 @@
+LaSalle County Station
+Exelon Generation 2601 North 21 'Road
+Marseilles, IL 61341
+815-415-2000 Telephone
+www.exeloncorp.com
+10 CFR 50.73
+RA18-025
+April 18, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+LaSalle County Station, Unit 1
+Renewed Facility Operating Licenses No. NPF-11
+NRC Docket No. 50-373
+Subject: Licensee Event Report 2018-002-00, Damaged Bus Bar Identified
+Potentially Affecting High Pressure Core Spray System
+In accordance with 10 CFR 50.73(a)(2)(v)(D), Exelon Generation Company, LLC
+(EGC) is submitting Licensee Event Report (LER) Number 2018-002-00 for LaSalle
+County Station, Unit 1.
+There are no regulatory commitments in this letter. Should you have any questions
+concerning this report, please contact Mr. Guy V. Ford, Jr., Regulatory Assurance
+Manager, at (815) 415-2800.
+~v~
+Harold T. Vinyard
+Plant Manager
+LaSalle County Station
+Enclosure: Licensee Event Report
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector- LaSalle County Station
+-
+-
+NRC FORM 366 . NUCLEAR REGULATORY COMMISSION AP PROV OMS: NO. 3150-0104 EXPIRES: 03/31/2020
+(02·2018)
+Estinated burden per response to oomply wi111 this mandatO<Y cottectcn request: eo hours.
+/..,¥_.,," AEcu, " \ '> LICENSEE EVENT REPORT (LEA) Reported lessons learned are incorporated inlo the licensing process and fed back to ndustry .
+~t;; Send conments regarding burden estimate to 1he tnfonnaliln SeNicos Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washiigton, DC 20555-0001. or by e-mai
+< 0 to lnfocollects.Resource@nrc.gov, and 1D the Desi< Officer, Office of lnlormatcn and
+~~ .. ...... r . ;f J (See NUREG· 1022, R.3 for instruction and guidance for completing this form W Re a g s u h la ii t g o l r o y n , A D ff C ai r 2 s 0 , 50 N 3 E . O S tt - 1 a 0 2 m 02 e , a ns (3 1 u 5 s 0 e - d 0 1 t 0 o 4 ) i , r r;lo O s ff e x: e a n o i f i lo M nn a a n t a io g n em c e o n l t l ec a ti n ln d do B e u s d g n e o t t ,
+..;,.+,, +O., httQ://www.nrc.gov/reading·rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid DMB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the nformation co0ec1cn .
+1. Facility Name 2. Docket Number 3.Page
+LaSalle County Station, Unit 1 05000373 1 OF 4
+4. Title
+Damaged Bus Bar Identified Potentially Affecting High Pressure Core Spray System
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year NA NA
+- - Facility Name Docket Number
+02 17 18 2018 002 00 04 18 18 NA NA
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3Hil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4l 50.13(a)(2)(iiil 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+1o . Power Level 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4)
+D D D D
+20.2203(a)(2)(m) 5o.36(c)(2) 50.73(a)(2)(v)(B) 13.11(a)(5)
+D D D D
+20.2203(a)(2)(iv) 5o.46(a)(3Hiil 50.73(a)(2)(v)(C) 13.77(a)(1)
+94 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) 1:81 50.73(a)(2)(v)(D) D 13.77(a)(2)(iil
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50. 73(a)(2)(vii) 13.11(a)(2)(iii)
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+John Kowalski, Maintenance Director (815) 415-2500
+13. Complete One Line for each Component Failure Described in this Report
+l
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+I
+x
+BG BU G080 Yes NA NA NA NA NA
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) [81 No NA NA NA
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On February 17, 2018, during troubleshooting for an issue with the Unit 1 "B" diesel generator (DG) oil circulating pump, station
+personnel identified. damage of a bus bar at the breaker that supplies the DG auxiliaries, One of the loads fed from this breaker is
+the Division 3 DC Battery Charger. Station personnel determined that the degradation of the bus bar may have prevented the
+Division 3 DC battery charger from performing its function, which could have prevented the High Pressure Core Spray (HPCS)
+system, which is a single-train safety system, from performing its design safety function. This condition is reportable in accordance
+with 10 CFR 50. 73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of the safety function of structures or systems
+that are required to mitigate the consequences of an accident. Based on a subsequent review of the loads powered by the 2B
+cubicle, loss of any of those loads would not have prevented the 1 B DG from being able to start and perform its design function.
+The condition of the motor control center (MCC) 143-1 (1AP79E) bus-bar was the result of a degraded connection between the "A"
+phase bus bar and the "A" phase bus clip (stab) associated with the breaker cubicle 2B. The apparent cause of the degraded bus
+bar to clip connection is due to relaxation of the bucket clip over time. The condition was exacerbated by long-term continuous
+ohmic heating caused by the normal currents of the loads supplied by this molded case circuit breaker. Corrective actions included
+replacement of the degraded clip assembly with one obtained from a spare cubicle, relocating loads to alternative spare cubicles in
+the affected MCC, visual inspection of all bucket-to-bus connections and repairs as necessary, and performance of a causal
+investigation including component failure analysis. This model of MCC used at the station is limited to Division 3 on both operating
+units; therefore, the extent of condition does not apply to other safety-related divisions.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T·2 F43). U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Jnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Re~atDrJ Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www. nrc. gov/ reading-rm/doc-collections/nu regs/staffl s r1 022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 05000373 NUMBER NO.
+2018 - 002 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+LaSalle County Station Unit 1 is a General Electric Boiling Water Reactor with 3546 Megawatts Thermal Rated Core Power.
+The affected component was the Division 3 480-volt motor control center (MCC) 143-1 (1AP79E) that is powered by the Division 3
+4160-volt 143 switchgear. This MCC provides power to components that are used to support operation of the High Pressure Core
+Spray (HPCS) system, which is part of the Emergency Core Cooling System (ECCS). In accident situations, switchgear 143 is
+powered by the 18 diesel generator (DG). Specifically, the connection of the "A" phase of the 28 cubicle to MCC 143-1 bus bar was
+discovered degraded. This cubicle feeds Division 3 battery charger and several auxiliary components that support operation of the
+18 DG.
+CONDITION PRIOR TO EVENT
+Unit(s): 1 Date: February 17, 2018 Time: 0200 CST
+Reactor Mode(s): 1 Mode(s) Name: Power Operation Power Level: 94 percent
+DESCRIPTION
+On February 16, 2018, at approximately 1418 CST the main control room (MCA) received Plant Process Computer (PPC) alarms
+associated with the Division 3 1B DG, including an alarm for the 1 B DG oil pump. Approximately 15 minutes later the 1B DG trouble
+alarm annunciated, and the local panel alarm for low oil pressure was identified. Field investigations determined the 1 B DG oil
+circulating pump had not been rotating. In accordance with an engineering evaluation, the alternate current (AC) circulating oil pump
+is not required for 1 B DG operability provided oil and water temperatures remain above 85 degrees Fahrenheit (F). A special Jog
+was started to verify temperatures remained above 85 degrees F.
+On February 16, 2018, at approximately 2129 CST, the 1B DG was placed into maintenance, and the HPCS system was declared
+inoperable to support troubleshooting associated with the cubicle for 1B DG auxiliaries. During troubleshooting for the failure of the
+1 B DG Oil Circulating Pump to rotate, the Electrical Maintenance Department (EMO) technicians identified low voltage on one
+phase of the motor. Specifically, EMO removed the MCC bucket from the bus, and the inspection identified that the "A" phase of the
+bus had localized damage in the location where the MCC 143-1 cubicle 28 bucket (1AP79E-2B) connects to the bus-bar. The bus
+bar degradation occurred at the first clip connection point from the top of the bus bar. The damaged area was toward the forward
+edge (i.e., cubicle side) of the bus bar and extended back approximately 0.557-inches on both sides of the bar. The damaged area
+was approximately 1-inch long, which is the approximate length of the clip.
+On February 17, 2018, at approximately 0200 CST (time of discovery) the station determined that the degradation of the bus bar
+may have prevented the Division 3 DC battery charger from performing its function, which could have prevented the HPCS system,
+a single-train safety system, from performing its design safety function. This condition is reportable in accordance with 10 CFR
+50.73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of the safety function of structures or systems that are
+required to mitigate the consequences of an accident. [Reference ENS 53219.]
+Station Response
+The "A" phase clip of the sliding disconnect assembly mounted on the bucket was also found to be have degraded clip connection
+(i.e., relaxation) and determined to have caused the degradation of the "A" phase bus bar. This condition was determined to have
+resulted in a single-phasing condition which prevented the 1 E22-S001-C oil circulating pump from rotating. This MCC cubicle
+provides power for seven 1 B DG components: AC oil circulating pump, DC battery charger, immersion heater, 1B starting air
+compressor, 1 B refrigerated air dryer, generator space heater, and AC soak back oil pump.
+A temporary modification was initially implemented to supply temporary power to 1 AP79E-2B loads utilizing a spare cubicle in MCC
+143-1 (1AP79E). Post-maintenance verifications were performed to ensure proper equipment function was restored. Subsequently,
+the relocation of this cubicle was made permanent by another modification package.
+NAC FORM 366A (04-2017) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the lnlormation Serv·ces Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and RegulalOfY Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. II a means
+used lo impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required lo respond to, the information
+http://www. n re. gov/ reading-rm/doc-collections/nu regs/staffl s r1 022/r3/l collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 05000373 NUMBER NO.
+2018 - 002 00
+NARRATIVE
+Extent of Condition
+An extent of condition review was performed on the remaining MCC 143-1 cubicles. Of the 25 cubicles (including spare cubicles) on
+MCC 143-1, ten discrepancies were noted on six individual cubicles where less than optimal clip to bus bar contact areas were
+identified. These discrepancies involved either higher than expected resistance readings or gaps in the contact areas of the clip to
+bus bar connection. All but one of the six cubicles with gap discrepancies involved only the top or bottom of one side of the clip
+surface contacting the bus bar, resulting in the clip making point contact with the bus bar versus the preferred line contact. Visual
+inspection of the discrepant connections did not identify any degradation of the bus bar surface area. The discrepant connections
+were addressed by reforming the clip, followed by visual inspection to ensure the clip to bus bar contact was restored to line
+contact. Resistance readings of the repaired connections were then obtained.
+CAUSE
+A causal investigation was performed, after obtaining the results of a failure analysis performed at an off-site testing facility. The
+investigation determined proximate cause, apparent cause, and contributing causal factor as indicated below.
+The cause of the damage to bus 143-1 is the result of a degraded connection between the "A" phase bus bar and the "A" phase bus
+clip associated with the 2B cubicle. The presence of heating and arcing damage on both the clip and the bus bar indicated that a
+high resistance connection developed. Based on the lab observations and testing, the cause for the increased resistance was the
+opening of the clip sides beyond the approximately 3/16-inch width of the bus bar.
+The apparent cause of the degraded bus bar to clip connection is due to relaxation of the bucket clip over time. The condition was
+exacerbated by long term continuous ohmic heating caused by the normal currents of the seven loads supplied by this molded case
+circuit breaker. This heating caused further degradation leading to the event. This causal factor is supported by failure analysis and
+evidence obtained during the inspection of the International Switchboard MCC 143-1 which identified less than optimal clip to bus
+bar interface on six cubicles. Three of the six cubicles with discrepancies were spare cubicles (fifty percent) which have never been
+subjected to long term heating due to carrying load currents. Additionally, no preventative maintenance (PM) task is performed on
+the spare cubicles; therefore, plastic deformation from removal and installation is unlikely due to the bucket to bus bar connection
+not being routinely disturbed.
+A contributing causal factor is the absence of a holistic MCC inspection. The previously retired PM activities will be reinstituted on
+the Unit 1 MCC 143-1 and Unit 2 MCC 243-1 through an action generated from the causal evaluation.
+Based on input from craft electricians, the sliding interface on the International Switchboard MCC is not as precise as the interface
+provided on a Klockner-Moeller MCC that comprises all the 480-Volt AC Division 1 and Division 2 MCCs. Based on this input, it is
+believed some plastic deformation of the 1 AP79E-2B clips could have taken place during previous maintenance. However, no
+evidence exists to conclusively identify this as a causal factor. As a procedure enhancement, an action will be assigned to add a
+caution note to the MCC cubicle inspection procedure about the importance of correct bucket to bus bar alignment prior to engaging
+the primary disconnect clips to the bus bars.
+REPORT ABILITY AND SAFETY ANALYSIS
+This condition is reportable in accordance with 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of
+the safety function of structures or systems that are needed to mitigate the consequences of an accident. This condition was
+reported to the NRG via Event Notification System (ENS) report number 53219 on February 17, 2018.
+This condition was not a safety system functional failure (SSFF) as defined in accordance with NEI 99-02, "Regulatory Assessment
+Performance Indicator Guideline." The SSFF evaluation determined that the bus connection clip on the cubicle and location on the
+bus-bar where the clip was connected were damaged. This was also determined to be the cause of the single-phasing of the HPCS
+DG oil circulating pump. Based on subsequent review of the loads powered by the 1AP79E-2B cubicle, loss of any of those loads
+would not have prevented the 1B DG from being able to start and perform its design function.
+NAC FOAM 366A (04-2017) Page_3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarcing burden estimate to the lnfonmation Services Branch {T-2 F43), U S. Nuclear
+LICENSEE EVENT REPORT (LEA)
+Regulatory Commission, Washington, DC 20555-0001, or by e-ma~ to
+CONTINUATION SHEET lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnlonmation and Re~latory Affairs,
+NEOB· 10202, (3151}0104), Office of Management and Budget, Washington, DC 20503. It a means
+used to impose an infonmation collection does not cisplay a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRG may not conduct or sponsor, and a person is not required to respond to, the inlorrnation
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 D22/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 05000373 NUMBER NO.
+2018 - 002 00
+NARRATIVE
+CORRECTIVE ACTIONS
+Immediate corrective actions taken in response to the condition were:
+• Replacement of the degraded clip assembly with one obtained from a spare cubicle
+• Relocate all required loads from the degraded section of MCC 143-1 (1AP79E)
+• Inspect MCC 1 AP79E, including a visual inspection of all bucket-to-bus connections and repair as necessary
+• Perform failure analysis for the failed components
+A causal investigation was performed, after obtaining the results of a failure analysis performed at an off-site testing facility. The
+investigation determined additional corrective actions as follows.
+• Code Unit 2 MCC 243-1 (2AP79E) inspection work order as corrective action related
+• Reinstate previously retired preventative maintenance tasks for MCC cleaning and bus bar inspections for 1 (2)AP79E
+• Evaluate impact of failure on the Maintenance Rule program
+• Develop procedure revision to add caution statement to cubicle inspection procedure LES-GM-108 to identify the potential
+for plastic deformation of the primary disconnects when reconnecting the bucket to the bus bars
+• Additionally, lessons learned from the recent Unit 1 and Unit 2 Division 3 MCC inspections will be incorporated
+PREVIOUS OCCURRENCES
+There have been no similar events or conditions at the station in the previous three years.
+COMPONENT FAILIRE DATA
+Manufacturer: General Electric Company (GOBO)
+Device: Motor Control Center (MCC) 143-1 Breaker 1AP79E-2B
+Component ID: Model Series 170 International Switchboard (1147)
+NRG FORM 366A (04·2017) Page _4_ of _4_

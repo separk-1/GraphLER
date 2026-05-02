@@ -1,0 +1,195 @@
+LaSalle County Station
+Exelon Generation0 2601 North 2151 Road
+Marseilles, IL 61341
+815-415-2000 Telephone
+www.exeloncorp.com
+10 CFR 50.73
+RA17-035
+April 14, 2017
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+LaSalle County Station, Unit 1
+Renewed Facility Operating License No. NPF-11
+NRC Docket No. 50-373
+Subject: Licensee Event Report 2017-003-00, Automatic Reactor Scram due to
+Main Generator Trip on Differential Current During Back-Feed Operations
+In accordance with 1O CFR 50.73(a)(2)(iv)(A), Exelon Generation Company, LLC
+(EGC) is submitting Licensee Event Report (LEA) Number 2017-003-00 for LaSalle
+County Station, Unit 1.
+There are no regulatory commitments in this letter. Should you have any questions
+concerning this report, please contact Mr. Guy V. Ford, Jr., Regulatory Assurance
+Manager, at (815) 415-2800.
+Respectfully,
+di~.ff-
+Site Vice President
+LaSalle County Station
+Enclosure: Licensee Event Report
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - LaSalle County Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+/'"'"!'. Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~¥.· LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+\~.. ...~ ) Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to lnfocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office ol lnlormation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an inlormation collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the inlormation
+htti;i://www.nrc.gov/reading-rm/doc-collections/nuregs/stafflsr1022/r3l)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+LaSalle County Station, Unit 1 05000373 1 OF 3
+4. TITLE
+Automatic Reactor Scram due to Main Generator Trip on Differential Current During Back-Feed Operations
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH OAY YEAR YEAR NUMBER NO. MONTH DAY YEAR NA NA
+- FACILITY NAME DOCKET NUMBER
+02 13 2017 2017 - 003 00 04 14 2017 NA NA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201 (bl D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1 l D 20.2203(a)(4) D so.13(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D D 181 0
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4l
+D D D D
+20.2203(a)(2)(iiil so.3s(c)(2) 50.73(a)(2)(v)(B) 13.11 (a)(s)
+D D 0 · D
+20.2203(a)(2)(iv) so.4s(a)(3)(ii) 50.73(a)(2)(v)(C) 13.11(a)(1)
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.11(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(n)
+D D
+50.73(a)(2)(i)(C) OTHER Specify In Abstract below or In NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT r ELEPHONE NUMBER (Include Area Code)
+Joe Fiesel, Maintenance Director (815) 415-2500
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU· REPORTABLE MANU· REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+B FK 87 G080 y NA NA NA NA NA
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 181 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE NA NA NA
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten Jines)
+On February 13, 2017, LaSalle County Station Unit 1 was in Mode 1 at 100 percent power and Unit 2 shut down for a planned
+refueling outage. At 2309 CST, a reactor scram signal was received on Unit 1 due to turbine control valves fast closure while the
+station was aligning back-feed operation to the Unit 2 main power transformer (MPT). The Unit 1 turbine trip was due to the main
+generator trip on differential current. The plant was placed in a stable condition with reactor pressure maintained by the turbine
+bypass valves and reactor water level controlled using feedwater. Unit 2 was unaffected by the event.
+The root cause of the Unit 1 trip on differential current was a marginal generator differential relay design that was prone to
+responding to faults outside its zone of protection. Both units' 345 kV ring buses were connected together through the cross-tie
+bus, which allowed the Unit 1 generator to supply some of the electrical current that resulted in its differential circuit to create an
+unbalanced current that actuated the differential relay.
+This event is reportable in accordance with 1O CFR 50.73(a)(2)(iv)(A) as an event or condition that resulted in manual or automatic
+actuation of the reactor protection system (RPS), including reactor scram. There were no safety consequences associated with the
+event since RPS and other emergency safety systems functioned as designed.
+NRC FORM 366 (04·2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) .
+Estimated burden per response to comply with this mandatory collection request: 80 hoors. Reported
+lessons teamed are inc01pOraled into the licensing process and fed back lo industry. Send
+comments regarcing burden estimate to the lnfonnation Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail lo
+fnfocollecls.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an infonnation collection does not cisplay a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is nol required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 0500073 NUMBER NO.
+2017 - 003 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+LaSalle County Station Unit 1 is a General Electric Boiling Water Reactor with 3546 Megawatts Thermal Rated Core Power.
+The affected system is the 345 kV switchyard. The switchyard consists of a ring-bus arrangement for each unit and a cross-tie
+bus that interconnects the units' ring buses. Each unit has a main power transformer (MPT), system auxiliary transformer (SAT),
+and a unit auxiliary transformer (UAT). Each of the two main generators is connected to two half-size main transformers and a
+UAT through isolated phase electrical bus ducts. The main power transformers step up the voltage, where power is delivered to
+the switchyard. The main generator and associated isolated phase bus duct is protected from electrical faults by several
+relaying features that will trip the generator to protect it from damage.
+CONDITION PRIOR TO EVENT
+Unit(s): 1 Event Date: February 13, 2017 Event Time: 2309 CST
+Reactor Mode(s): 1 Mode(s) Name: Power Operation Power Level: 100 percent
+DESCRIPTION OF EVENT
+On February 13, 2017, LaSalle County Station Unit 1 was in Mode 1 at 100 percent power, while Unit 2 was in a planned
+refueling outage. Unit 2 switchyard switching activities were in progress necessary to establish electrical back-feed power
+supply to the Unit 2 MPT. Switching activities included closing a main generator output breaker on Unit 2.
+At 2309 hours CST, the Unit 1'main generator received a trip on the 'B' phase differential current relay and subsequent main
+generator lock-out, which resulted in a Unit 1 automatic main turbine trip and subsequent Unit 1 automatic reactor scram due to
+fast closure of the turbine stop valves. In response to the event, one of the safety relief valves actuated in the relief mode upon
+the turbine trip and subsequently reset with tailpipe temperature returning to normal. The plant was in a stable condition with
+reactor pressure maintained by the turbine bypass valves. Reactor water level was controlled with feedwater, and all control
+rods fully inserted for the scram.
+CAUSE OF EVENT
+The root cause of the. Unit 1 trip on differential current was a marginal generator differential relay design prone to responding to
+faults outside its zone of protection. Since both units' 345 kV ring buses are connected together through a cross-tie bus, this
+allowed the Unit 1 generator, which is the closest and strongest source, to supply some of the current and resulted in its
+differential circuit creating an unbalanced current that actuated the differential relay.
+Contributing to this event was the current switchyard alignment methodology used for MPT back-feed operations. The current
+methodology challenges the margin of electro-mechanical differential current protective relays. An additional contributing cause
+was the use of larger transformers in place of the existing MPT, which changed the nature of the in-rush transient and introduced
+different current transformers into the differential relay scheme.
+There has been operating experience regarding similar consequences related to similar differential relay scheme designs and
+related to transformer in-rush transients. Although some of this experience was recognized by the station and the corporate
+organization, the opportunity to change the back-feed switching scheme to mitigate the in-rush transient was missed.
+NRC FORM 366A (04-2017) Page_2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenlly valid OMB control number, the
+(See NUREG· 1D 22, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the inlormation
+http://www.nrc.gov/reading-rm/doc-coffections/nuregs/stafl/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+LaSalle County Station, Unit 1 0500073 NUMBER NO.
+2017 - 003 00
+NARRATIVE
+REPORTABILITV AND SAFETY ANALYSIS
+This event is reportable in accordance with 1 O CFR 50.73(a)(2)(iv)(A) as an event or condition that resulted in manual or
+automatic actuation of the reactor protection system (RPS), including reactor scram. There were no safety consequences
+associated with the event since the RPS and other emergency safety systems functioned as designed.
+CORRECTIVE ACTIONS
+The immediate corrective action was to revise future switching orders to break the tie between the Unit 1 and Unit 2 345 kV ring
+buses when performing a back-feed to the MPT. The station also revised switching orders to isolate the Unit 1 and Unit 2 345
+kV ring buses for energizing the SAT for each unit and performing generator synchronization operations.
+The corrective action to prevent recurrence of a unit scram during back-feed operations is to install a more robust generator
+differential relay protection scheme. In addition, the switching scheme will be revised to break the tie between the Unit 1 and
+Unit 2 ring buses when the MPTs are energized.
+PREVIOUS OCCURRENCES
+A review of station Licensee Event Reports for the past three years related to reactor trips identified instances where a reactor
+manual or automatic scram was inserted. However, there were no previous occurrences related directly to main generator
+.
+operation at the station. One event was identified related to turbine-generator run-back. a s follows.
+• LER 374-2017-001-00, Manual Reactor. Scram due to Turbine-Generator Run-Back Caused by Stem-Disc Separation in
+Stator Water Cooling Heat Exchanger Inlet Valve
+On January 23, 2017, operators initiated a manual scram of the Unit 2 reactor as a result of observing a generator run-back
+due to a generator stator winding cooling (GC) system malfunction. Inspections of the GC components were performed
+while the unit was shut down for a planned refueling outage. The cause of the GC system failure was stem-disc separation
+in the 'A' GC heat exchanger inlet valve. This event was reportable in accordance with 1O CFR 50.73(a)(2)(iv)(A) as an
+event or condition that resulted in manual or automatic actuation of the RPS. There were no safety consequences
+associated with the event since there was no loss of safety function, and the RPS functioned as designed.
+COMPONENT FAILURE DATA
+Manufacturer: General Electric Company [GOBO]
+Device: Main Generator Differential Current (CFO) Relay Trip
+Component ID: GE Model CFO Differential Relay 1687-MP010B
+NRC FORM 366A (04·2017) Page_3_ of _3_

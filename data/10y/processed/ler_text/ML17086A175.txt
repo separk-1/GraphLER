@@ -1,0 +1,206 @@
+•
+~Entergy
+EntergyOperations, Inc.
+P.O.Box756
+PortGibson,MS39150
+JamesNadeau
+Manager, RegulatoryAssurance
+GrandGulfNuclearStation
+GNRO-2016/00057
+Tel.(601)437-2103
+March 27, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report (LER) 2016-006-01, Multiple Valid Engineered Safety
+Feature Actuations
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Licensee Event Report (LER) 2016-006-01, a supplement to LER 2016-006-00,
+which was submitted to the US Nuclear Regulatory Commission (NRC) on August 29, 2016.
+The original LER reported that on June 30, 2016, Grand Gulf Nuclear Station (GGNS)
+experienced an electrical power supply loss that resulted in Engineered Safety Feature
+actuations. The events were reportable under Title 10 Code of Federal Regulations
+50.73(a)(2)(iv)(A) for any event or condition that resulted in manual or automatic actuation of
+Engineered Safety Features.
+Because the Apparent Cause Evaluation had not been completed at the time the original LER
+was submitted, this supplement is being submitted in accordance with NUREG-1022, revision 3,
+Section 5.1.5, "Supplemental Information and revised LERs." It contains the final causes and
+corrective actions as determined by the Apparent Cause Evaluation.
+This letter contains no new Regulatory Commitments.
+If you have any questions or require additional information, please contact James Nadeau at
+601-437-2103.
+4j/tLr
+Sincerely,
+(7U;«
+JJN/sas
+Attachment: Licensee Event Report (LER) 2016-006-01
+GNRO-2016/00057
+Page2 of 2
+cc: U.S. Nuclear Regulatory Commission
+ATTN: Mr. Siva Lingam, NRR/DORL (w/2)
+Mail Stop OWFN 8 B1
+11555 Rockville Pike
+Rockville, MD 20852-2738
+U.S. Nuclear Regulatory Commission
+ATTN: Mr. Kriss M. Kennedy (w/2)
+Regional Administrator, Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+U.S. Nuclear Regulatory Commission
+ATTN: Mr. Kriss M. Kennedy, NRR/DORL (w/2)
+Regional Administrator, Region IV
+1600 East Lamar Boulevard
+NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+Attachment to GNRO 2016/00057
+Licensee Event Report (LER) 2016-006-01
+NRCFORM366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBYOMB:NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection
+request: 80 hours. Reported lessons learned are incorporated into the
+¢Ie,\. ~J<RAEGV( .,,.. LICENSEE EVENT REPORT (LER) licensingprocessandfedbacktoindustry.Sendcomments regardingburden
+4:t" o~... estimate to the FOIAIPrivacy Section (T-5 F53), U.S. Nuclear Regulatory
+::! (See reverse for required numberof Commission, Washington, DC 20555-0001, or by internet e-mail to
+~ < ~ n <' ...... . * ' i ' ( £ ; 0 c "l : < : ' digits/characters for each block) a a in n n fo d d co R B l e l u e g d c u g ts l e a .r t t , e o s ry W ou a A r s c ff h e a i @ n ir g s n , to rc n N . , q E o O v D , B C - a 1 n 0 2 d 2 0 0 5 to 2 0 , 3 th . ( e 31 I D f 5 e 0 a s -0 k m 1 O 0 e 4 f a f ) i n c , e s O r, f u f O i s c f e e fi d c o e f to o M f i a I m n n f p a o o g rm s e e m at e i a o n n n t
+'-"""''' ",0 informationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,
+the NRC may not conduct or sponsor, and a person is not required to
+respondto,theinformationcollection.
+1.FACILITY NAME 2.DOCKETNUMBER 13.PAGE
+Grand Gulf Nuclear Station, Unit 1 05000416 1OF3
+4.TITLE
+Multiple Valid Engineered Safety Feature Actuations
+5.EVENTDATE 6.LER NUMBER 7. REPORT DATE 8.OTHER FACILITIESINVOLVED
+I I
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITYNAME DOCKET NUMBER
+NUMBER NO. N/A 05000 N/A
+FACILITY NAME DOCKET NUMBER
+06 30 2016 2016-006-01 03 27 2017
+N/A 05000 N/A
+9.OPERATING MODE 11.THIS REPORT ISSUBMITTEDPURSUANTTOTHE REQUIREMENTSOF10CFR§: (Checkallthatapply)
+4 D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+10.POWERLEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) [gI 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+0 D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) SpecifyinAbstractbelow
+orinNRCForm366A
+12.LICENSEECONTACTFORTHIS LER
+I
+FACILITYNAME TELEPHONENUMBER (IncludeAreaCode)
+James Nadeau/Manager, Regulatory Assurance (601)437-2103
+13.COMPLETEONE LINE FOR EACH COMPONENTFAILUREDESCRIBEDINTHIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14.SUPPLEMENTALREPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES(Ifyes, complete 15.EXPECTED-SUBMISSIONDATE) [gI NO SUB D M A I T S E SION N/A N/A N/A
+ABSTRACT(Limitto 1400spaces, i.e.,approximately15single-spacedtypewrittenlines)
+OnJune 30, 2016 at 1715 COT, Grand Gulf Nuclear Station (GGNS) experienced an electrical power supply lossfrom
+ServiceTransformer21which resulted inpower supply being lostto Division 2 (16AB Bus) and Division 3 (17AC Bus)
+ESFbuses.This resulted inavalid actuation of Division 2and Division 3 Diesel Generators on bus under voltage. They
+bothautomaticallystarted and energized their respective ESF buses as designed. During this event, the loss of power to
+the Division2 (16AB Bus) resulted ina Division 2 RPS bus power loss, which actuated a Division 2 RPS half SCRAM
+.
+signal.
+The power loss also resulted ina loss ofthe InstrumentAir pressure resulting insome Control Rod Scram Valves to drift
+open.This inturn caused the Scram Discharge Volume to fill to the point where a Division 1RPS half SCRAM signal was
+initiatedfrom Scram Discharge Volume level high on Channel 'A'.This resulted inavalid full RPS Reactor SCRAM while
+notcritical. Instrument Air pressure was restored and the SCRAM signal was reset at 1733 COT. Appropriate off normal
+eventprocedures were entered to mitigate the transient. All safety systems performed as expected.
+The DirectCause was afailure ofthe taped insulation onthe 'C' phase 34.5 kVService Transformerpower supply cable
+tothe BOP23Transformer. The Apparent Cause was an outer tape wrap insulation failure that left amoisture path
+betweenthe braid, connecting the splice, and the centerconductor. Atemporarythree phase overhead line was installed
+to bypassthe faulted 34.5 kVcable section. A planned corrective action to install a permanent underground replacement
+was generated.
+NRC FORM 366A U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBYOMB:NO.3150-0104 EXPIRES:10/31/2018
+(11-2015) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.
+Reportedlessonslearnedareincorporated intothelicensingprocessandfedbackto
+industry.SendcommentsregardingburdenestimatetotheFOIA,PrivacyandInformation
+CollectionsBranch(T-5F53),U.S.NuclearRegulatoryCommission,Washington, DC
+LICENSEE EVENTREPORT(LER) 20555-0001,orbyinternete-mailtoInfocoliects.Resource@nrc.gov,andtotheDesk
+Officer,OfficeofInformationandRegulatoryAffairs,NEOB-10202, (3150-0104),Officeof
+CONTINUATIONSHEET ManagementandBudget,Washington, DC20503.Ifameansusedtoimposean
+informationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,theNRCmay
+notconductorsponsor,andapersonisnotrequiredtorespondto,theinformation
+collection. Page 2 of 3
+1.FACILITY NAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL REV.
+I I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016-006-01
+NARRATIVE
+PLANT CONDITIONS PRIOR TO THE EVENT
+Atthetime ofthe event, Grand Gulf Nuclear Station (GGNS) Unit 1was in Mode 4, Cold Shutdown, with Main
+Steam Isolation Valves (MSIVs) [SB] closed. Reactor Water Level was maintained inthe normal water level band
+bythe Control Rod Drive System (CRDS) [AA]. Residual Heat Removal (RHR) A[BO] was maintained in
+Shutdown Cooling operation and itwas notaffected by this event.
+DESCRIPTION
+OnJune 30,2016 at 17:15,Grand Gulf Nuclear Station experienced an electrical power supply loss from Service
+Transformer21 (ST21) [XFMR] which resulted inpower supply being lostto Division 2 (16AB Bus) and Division 3
+(17AC Bus) Engineered Safety Feature (ESF) buses [BU]. This resulted inavalid actuation of Division 2 and
+Division 3Standby Diesel Generators (SDGs) [EK] on under-voltage. Both SDGs automaticallystarted and
+energized their respective ESF buses as designed.
+Duringthis event,the loss of power to the Division 2 (16AB bus) resulted ina Division 2 Reactor Protection
+System (RPS) [JE] bus power loss, which actuated a Division 2 RPS half SCRAM signal. The Division 2power
+lossalso resulted ina loss of InstrumentAir pressure resulting insome Control Rod Scram Valves to drift open.
+This inturn caused the Scram Discharge Volume to fill to the point where a Division 1RPS half SCRAM signal
+was initiated from Scram Discharge Volume level high on Channel A. This resulted inavalid full RPS Reactor
+SCRAM while notcritical. InstrumentAir pressure was restored and the SCRAM signal was reset at 1733 hrs.
+Appropriate off normal event procedures were entered to mitigate the transient. No EmergencyCore Cooling
+System (ECCS) [BM] initiation signals were reached. Allsafety systems performed as expected.
+REPORTABILITY
+Event Notification No. 52057 was made tothe NRC Operations Center. This LER is being submitted pursuant to
+Title 10Code of Federal Regulations 10CFR 50.73(a)(2)(iv)(A) for the actuation of Engineered Safety Features.
+Telephonic notification was made to the U.S. Nuclear Regulatory Commission (NRC) Emergency Notification
+System onJune 30, 2016, within 8 hours of the event, pursuant to 10CFR 50.72(b)(3)(iv) for multiple valid
+specified system actuations.
+CAUSE
+The Direct Cause was afailure ofthe taped insulation on the 'C' phase 34.5 kV Service Transformer21 power
+supply cable tothe BOP 23Transformer.
+The Apparent Cause was an outer tape wrap insulation failure between the braid, connecting the splice, andthe
+center conductor. Disassemblyand visual inspection ofthe cable splice showed that the insulation hadvoids and
+amoisture paththrough the split inthe outer tape wrap.
+NRCFORM 366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB:NO.3150-0104 EXPIRES:10/31/2018
+(11-2015) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.
+Reportedlessonslearnedareincorporated intothelicensingprocessandfedbackto
+industry.SendcommentsregardingburdenestimatetotheFOIA,PrivacyandInformation
+CollectionsBranch(T-5F53),U.S.NuclearRegulatoryCommission,Washington,DC
+LICENSEEEVENT REPORT (LER) 20555-0001, orbyinternete-mailtoInfocoliects.Resource@nrc.gov,andtotheDesk
+Officer,OfficeofInformationandRegulatoryAffairs,NEOB-10202,(3150-0104),Officeof
+CONTINUATIONSHEET
+ManagementandBudget.Washington, DC20503.Ifameansusedtoimposean
+informationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,theNRCmay
+notconductorsponsor,andapersonisnotrequiredtorespondto,theinformation
+collection. Page 3of 3
+1.FACILITY NAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL I REV.
+I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016-006-01
+NARRATIVE
+CORRECTIVE ACTIONS
+Atemporarythree phase overhead line was installed to bypass the faulted 34.5 kVcable section. Acorrective
+I
+action, to install a permanent underground replacement, is planned for April 2018.
+SAFETY SIGNIFICANCE
+The event posed nothreat to the health and safety ofthe general public orto nuclear safety as safety
+systems performed as designed. NoTechnical Specification safety limits were violated. Industrial safety was
+notchallenged, andthere was nopotential or actual radiological release during the event.
+PREVIOUS SIMILAR EVENTS
+The INPO ICESsearch tool was used to find industry Operating Experience similar tothis event. The search
+identified cable failures and partial loss of offsite power at both Grand Gulf and other stations. There were no
+specific learnings howeverthat would have helped to prevent this event.

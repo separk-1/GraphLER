@@ -1,0 +1,431 @@
+Constellation. 
+SVP-24-063 
+October 30, 2024 
+U.S. Nuclear Regulatory Commission 
+A TIN: Document Control Desk 
+Washington, D.C. 20555 
+Quad Cities Nuclear Power Station, Unit 2 
+Renewed Facility Operating License No. DPR-30 
+NRC Docket No. 50-265 
+10 CFR 50.73 
+Subject: 
+Licensee Event Report 265/2024-002-01 "Turbine Trip and Automatic Scram due to 
+Digital EHC Power Supply Intermittent Failure" Supplement 
+Reference: 
+Letter, D Hild to Document Control Desk - Licensee Event Report 265/2024-002-00 
+"Turbine Trip and Automatic Scram due to Digital EHC Power Supply Intermittent 
+Failure," July 22, 2024 (ML24204A 105) 
+Enclosed is Licensee Event Report 265/2024-002-01 "Turbine Trip and Automatic Scram due to 
+Digital EHC Power Supply Intermittent Failure," for Quad Cities Nuclear Power Station, Unit 2. 
+This letter is a supplement based on the completed causal evaluation. The updated information is 
+denoted by revision bars located in the left-hand margin. 
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A) for an event or condition 
+that resulted in manual or automatic actuation of the reactor protection system including a reactor 
+scram, and for containment isolation signals affecting more than one system. 
+There are no regulatory commitments contained in this letter. 
+Should you have any questions concerning this report, please contact Conner Bealer at 779-231-
+6207. 
+Respectfully, 
+4t-#:JJ 
+Doug Hild 
+Site Vice President 
+Quad Cities Nuclear Power Station 
+cc: 
+Regional Administrator - NRC Region Ill 
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+(04-02-2024) 
+Estimated burden per response to comply with this mandatOI'( collection request 80 hours. Reported lessons 
+!~\ 
+LICENSEE EVENT REPORT (LER) 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA. Library, and Information C<>lections Branch (T-6 A10M), U. S. Nuclear RegulatOI'( 
+; z; 
+(See Page 2 for required number of digits/characters for each block) 
+Commission, Washington, OC 20555-0001, or by email to lnfocollects.Resource@nrc.gov, and the 0MB re~ewer 
+"¾ 
+•.,. 
+at 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear RegulatOI'( 
+..... 
+(See NUREG-1O22, R.3 for instruction and guidance for completing this form 
+Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is 
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+not required to respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currendy valid 0MB control number. 
+1. Facility Name 
+~ 050 
+2. Docket Number 
+3.Page 
+Quad Cities Nuclear Power Station, Unit 2 
+• 
+052 
+00265 
+1 OF 4 
+4. Title 
+Turbine Trip and Automatic Scram due to Digital EHC Power Supply Intermittent Failure 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Sequential 
+Revision 
+Facility Name 
+• 
+Docket Number 
+Month 
+Day 
+Year 
+Year 
+Number 
+No. 
+Month 
+Day 
+Year 
+050 
+05 
+23 
+2024 
+2024 
+002 
+01 
+10 
+30 
+2024 
+Facility Name 
+• 
+Docket Number 
+-
+-
+052 
+9. Operating Mode 
+1 - Power Operation 
+110. Power Level 
+038 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+10 CFR Part 20 • 20.22O3(a)(2)(vi) 
+10 CFR Part 50 • 
+50. 73(a)(2)(ii)(A) • 50. 73(a)(2)(viii)(A) • 73.120O(a) 
+• 
+2O.22O1(b) 
+• 20.22O3(a)(3)(i) 
+• 
+5O.36(c)(1 )(i)(A) • 
+50. 73(a)(2)(ii)(B) • 50. 73(a)(2)(viii)( B) • 73.120O(b) 
+• 2O.22O1(d) 
+• 
+20.22O3(a)(3)(ii) 
+• 
+5O.36(c)(1 )(ii)(A) • 
+50.73(a)(2)(iii) 
+• 
+50.73(a)(2)(ix)(A) • 
+73.120O(c) 
+• 
+2O.22O3(a)(1) 
+• 
+20.22O3(a)(4) 
+• 
+50.36(c)(2) 
+~ 
+50.73(a)(2)(iv)(A) • 
+50. 73(a)(2)(x) 
+• 
+73.120O(d) 
+• 
+2O.22O3(a)(2)(i) 
+10 CFR Part 21 • 
+50.46(a)(3)(ii) 
+• 
+50. 73(a)(2)(v)(A) 
+10 CFR Part 73 • 
+73.1200(e) 
+• 
+20.2203(a)(2)(ii) 
+D 21.2(c) 
+• 50.69(9) 
+• 
+50. 73(a)(2)(v)(B) • 
+73. 77(a)(1) 
+• 
+73.1200(f) 
+• 
+20.2203(a)(2)(iii) 
+• 
+50.73(a)(2)(i)(A) • 
+50. 73(a)(2)(v)(C) • 
+73. 77(a)(2)(i) 
+• 73.1200(9) 
+• 
+20.2203(a)(2)(iv) 
+• 
+50.73(a)(2)(i)(B) • 
+50. 73(a)(2)(v)(D) • 
+73.77(a)(2)(ii) 
+• 73.1200(h) 
+• 
+20.2203(a)(2)(v) 
+• 
+50. 73(a)(2)(i)(C) • 
+50.73(a)(2)(vii) 
+D OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include area code) 
+Richard Swart 
+309-227 ~2810 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+B 
+TG 
+RJX 
+G080 
+y 
+14. Supplemental Report Expected 
+Month 
+ciay 
+Year 
+~ No 
+• 
+15. Expected Submission Date 
+Yes (If yes, complete 15, Expected Submission Date) 
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On May 23, 2024, at 2223 CST, Quad Cities Unit 2 had an automatic scram from 38 percent power due to a trip of the main 
+turbine. A Digital Electro-Hydraulic Control (DEHC) erroneous Speed Difference Trip signal initiated a Turbine Trip signal. The 
+Unit 2 Main Turbine tripped as designed and generated an automatic reactor scram. All control rods inserted and the scram 
+was uncomplicated. Containment isolation valves actuated closed in multiple systems on valid Group II and Group Ill signals as 
+a result of low reactor water level. 
+The cause of the DEHC trip signal was intermittent channel <R1 > core power supply failure, resulting in an erroneous speed 
+demand value being generated. The power supply and several DEHC cards.were replaced with new components. 
+This report is being submitted per 10 CFR 50. 73(a)(2)(iv)(A) for an event that resulted in manual or automatic actuation of the 
+reactor protection system including a reactor scram, and containment isolation signals affecting more than one system. 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. FACILITY NAME 
+• 
+050 
+Quad Cities Nuclear Power Station, Unit 2 
+• 
+052 
+NARRATIVE 
+PLANT AND SYSTEM IDENTIFICATION 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Offcer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00265 
+2024 
+-
+3. LER NUMBER 
+SEQUENTIAL 
+NUMBER 
+002 
+REV 
+NO. 
+01 
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power 
+Energy Industry Identification System (EIIS) codes are identified in text as [XX]. 
+EVENT IDENTIFICATION 
+Turbine Trip and Automatic Scram due to Digital EHC Power Supply Intermittent Failure 
+CONDITION PRIOR TO EVENT 
+Unit: 2 
+Reactor Mode: 1 
+Event Date: May 23, 2024 
+Mode Name: Power Operation 
+Event Time: 2223 CST 
+Power Level: 38 percent 
+No structures, systems, or components that were inoperable at the start of the event contributed to the event. 
+A. DESCRIPTION OF EVENT 
+At 2223 CST on May 23, 2024, with Quad Cities Unit 2 at 38 percent power, the reactor automatically 
+scrammed due to a turbine [TRB] trip signal resulting in turbine stop valve closure, creating a valid reactor 
+protection system signal. Reactor vessel level reached the low-level set-point following the scram, resulting in 
+valid Group II and Group Ill containment actuation signals. The trip was not complex with all systems 
+responding as expected post-trip. This report is being submitted per 10 CFR 50. 73(a)(2)(iv)(A) for an event that 
+resulted in manual or automatic actuation of the reactor protection system including a reactor scram, and 
+containment isolation signals affecting more than one system. 
+Prior to the scram, the unit was reducing power for planned transformer maintenance. A turbine speed versus 
+speed demand comparison generated a Speed Difference Trip and turbine trip signal due to an erroneous 
+speed demand signal. 
+B. CAUSES OF EVENT 
+The cause of the event is an intermittent power supply failure that was not recognized as a single point 
+vulnerability due to the diversity of the system. The turbine trip signal was generated by Digital Electro-Hydraulic 
+Control (DEHC) [TG] turbine speed and speed demand mismatch logic. An intermittent failure of the channel 
+<R1 > core power supply [RJX] resulted in an erroneous speed demand value being generated. DEHC initiated a 
+turbine trip due to a 100% actual speed compared to a 0% speed demand, which is larger than the 10% setpoint. 
+While there was known degradation of this power supply, it was not recognized as a single point vulnerability to 
+DEHC due to system redundancies. 
+NRG FORM 366A (04-02-2024) 
+Page _2_ of _4_ 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. n re. gov /read inq-rm/doc-co I lections/n u regs/staff ls r1 022/ r3/l 
+1. FACILITY NAME 
+Quad Cities Nuclear Power Station, Unit 2 
+NARRATIVE 
+C. SAFETY ANALYSIS 
+SYSTEM DESIGN 
+• 
+050 
+• 
+052 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate tQ the FOIA. Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRG may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00265 
+2024 
+-
+3. LER NUMBER 
+SEQUENTIAL 
+NUMBER 
+002 
+REV 
+NO. 
+01 
+Sections 7.2 and 10.4 of the Updated Final Safety Analysis Report (UFSAR) describe how the EHC system 
+feeds into a turbine trip and reactor scram. "The electrohydraulic control (EHC) system compares generator 
+stator current to the high pressure turbine exhaust (crossaround) pressure and operates these valves upon a 
+mismatch indicative of a turbine generator load rejection (see Section 10.4). These pressure switches on 
+each fast-acting solenoid provide signals to both RPS trip systems. The logic is a one-out-two-twice 
+arrangement so that operation of any solenoid causes a single system trip, and the operation of one or more 
+solenoids in each trip system initiates a scram." 
+SAFETY ANALYSIS 
+There were no safety consequences as a result of this event. The operators performed actions in accordance 
+with procedures and training. An automatic scram occurred without complications due to a turbine trip caused 
+by digital EHC channel <R 1 > core power supply intermittent failure. All expected Engineering Safety Feature 
+(ESF) actuations occurred as designed to bring the reactor to a safe shutdown condition. The event was 
+within the analysis of the UFSAR Chapter 15, UFSAR Chapter 6, and there were no radioactive releases. 
+Unit 1 was not affected by the Unit 2 scram. 
+This is not a Safety System Functional Failure per NEI 99-02, Revision 7. 
+D. CORRECTIVE ACTIONS 
+Immediate: 
+1. 
+DEHC Components were replaced: Power Supply and various input/output modules for channel <R 1 >. 
+2. 
+Changed Speed Difference Trip setpoint from 10% to 110%. 
+Followup: 
+1. 
+Change Speed Difference Trip setpoint for Unit 1 DEHC equivalent to the change implemented on Unit 2. 
+2. 
+Increase frequency of preventative maintenance tasks for periodic replacement of <R1> power supplies. 
+E. PREVIOUS OCCURRENCES 
+The station events database, LERs, and INPO Industry Reporting Information System (IRIS) were reviewed for 
+similar events at Quad Cities Nuclear Power Station in the last three years. A similar turbine trip and automatic 
+reactor scram occurred on August 11, 2023 where a fault in the Essential Service System (ESS) [UJX] caused a 
+feedwater heater (FWH) [HX] system transient. The event in this current Licensee Event Report was caused by a 
+fault on the digital EHC system while pursuing a repair on a turbine control valve. 
+No other relevant events were identified during the previous 3-year history. 
+NRC FORM 366A (04-02-2024) 
+Page_3_ of _4_ 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. n re.gov/ read i nq-rm/d oc-collections/n u regs/staff /s r 1 022/ r3/) 
+1. FACILITY NAME 
+• 
+Quad Cities Nuclear Power Station, Unit 2 
+• 
+NARRATIVE 
+F. COMPONENT FAILURE DATA 
+System: Electrohydraulic Control (EHC) 
+Component: GE Mark VI Rack Power Supply 
+Manufacturer: General Electric 
+Nomenclature: Power Supply 
+Model Number: IS2020RKPSG3A 
+NRC FORM 366A (04-02-2024) 
+050 
+052 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library. and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of infonmation unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+SEQUENTIAL 
+REV 
+YEAR 
+NUMBER 
+NO. 
+00265 
+2024 -
+002 
+-
+01 
+Page _4_ of _4_ 

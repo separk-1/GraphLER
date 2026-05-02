@@ -1,0 +1,768 @@
+ 
+ 
+Post Office Box 2000, Decatur, Alabama 35609-2000 
+ 
+ 
+June 13, 2023 
+10 CFR 50.73 
+10 CFR 50.4(a) 
+ 
+ 
+ATTN:  Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, D.C.  20555-0001 
+ 
+ 
+Browns Ferry Nuclear Plant, Unit 1 
+Renewed Facility Operating License No. DPR-33 
+NRC Docket No. 50-259 
+ 
+ 
+Subject: 
+Licensee Event Report 50-259/2023-001-01 – High Pressure Coolant 
+Injection System Inoperable Due to a Torn Valve Diaphragm 
+ 
+Reference: 
+1. 
+Non-Emergency Event Notification 56321 – High Pressure Coolant  
+Injection Inoperable  
+2.  
+TVA letter to NRC, “Licensee Event Report 50-259/2023-001-00 – High 
+Pressure Coolant Injection System Inoperable Due to a Torn Valve  
+Diaphragm,” dated March 27, 2023 (ML23086C092) 
+ 
+The enclosed Licensee Event Report provides details of a failed diaphragm which resulted 
+in the inoperability of the High Pressure Coolant Injection system. The Tennessee Valley 
+Authority (TVA) is submitting this report in accordance with Title 10 of the Code of Federal 
+Regulations (10 CFR) 50.73(a)(2)(v)(D), as any event or condition that could have prevented 
+the fulfillment of the safety function of structures or systems that are needed to mitigate the 
+consequences of an accident.  As noted in the referenced letter, TVA planned to supplement 
+this LER to provide additional time to complete the root cause evaluation.  
+ 
+Accordingly, enclosed is a supplement to the subject LER (i.e., LER 50-259/2023-001-01), 
+which provides additional detail into the causal factors of the event and includes additional 
+corrective actions to prevent recurrence.  
+ 
+ 
+1\14 
+TENNESSEE 
+VALLEY 
+AUTHORITY 
+
+U.S. Nuclear Regulatory Commission 
+Page 2 
+June 13, 2023 
+ 
+ 
+ 
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact Chris L. Vaughn, Site Licensing Manager, at 
+(256) 729-2636. 
+ 
+Respectfully, 
+ 
+ 
+ 
+Manu Sivaraman 
+Site Vice President 
+ 
+ 
+Enclosure: 
+Licensee Event Report 50-259/2023-001-01 – High Pressure Coolant Injection 
+System Inoperable Due to a Torn Valve Diaphragm 
+ 
+cc (w/ Enclosure): 
+ 
+NRC Regional Administrator - Region II 
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant 
+NRC Project Manager - Browns Ferry Nuclear Plant 
+ 
+ 
+ 
+
+NRC FORM 366                             U.S. NUCLEAR REGULATORY COMMISSION 
+(03-14-2023) 
+ 
+ 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+ 
+APPROVED BY OMB:  NO. 3150-0104         
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. Facility Name 
+    Browns Ferry Nuclear Plant, Unit 1 
+2. Docket Number 
+05000259 
+3. Page 
+1   OF  6 
+4. Title 
+ High Pressure Coolant Injection System Inoperable Due to a Torn Valve Diaphragm 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Revision 
+ No. 
+Month 
+Day 
+Year 
+Facility Name 
+ 
+   N/A 
+Docket Number 
+ 
+05000   N/A 
+01 
+24 
+2023 2023 - 
+001 
+- 01 
+06 
+13 
+2023 
+Facility Name 
+ 
+ N/A 
+Docket Number 
+ 
+05000   N/A 
+9. Operating Mode 
+     1 
+10. Power Level 
+     100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply) 
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  20.2203(a)(2)(ii) 
+  21.2(c) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.77(a)(1) 
+  20.2203(a)(2)(iii) 
+ 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.77(a)(2)(i) 
+  20.2203(a)(2)(iv) 
+ 
+  50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(2)(ii) 
+  20.2203(a)(2)(v) 
+ 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+ 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Ryan Coons, Licensing Engineer 
+Phone Number  (Include area code) 
+256-729-2070 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+B 
+BJ 
+FCV 
+C665 
+Y 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+14. Supplemental Report Expected)      
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+ No 
+ Yes (If yes, complete 15. Expected Submission Date 
+N/A 
+N/A 
+N/A 
+16. Abstract  (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+On January 24, 2023 at 0121 CST, the Browns Ferry Nuclear Plant, Unit 1, High Pressure Coolant Injection 
+(HPCI) was declared inoperable because the normally-open HPCI Steam Line Condensate Outboard Drain 
+Valve failed closed, apparently due to a failed diaphragm. On January 24, 2023, at 0743 CST, eight-hour 
+Event Notification 56321 was made to the NRC. 
+ 
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of the Code of 
+Federal Regulations (10 CFR) 50.73(a)(2)(v)(D), as any event or condition that could have prevented the 
+fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of 
+an accident. 
+ 
+The diaphragm prematurely failed due to a part manufacturing issue, which led to the local delamination 
+between the fabric and the ethylene propylene diene monomer (EPDM) material, in conjunction with a 
+lack of complete reinforcement fabric coverage at the tear site. The failed diaphragm was replaced. TVA 
+will proactively replace the diaphragms on Browns Ferry Nuclear Plant Units 2 and 3. HPCI Steam Line 
+Condensate Outboard Drain Valve diaphragms will be reclassified and reprocured as QA 1 components, 
+and any existing QA 3 diaphragms will be reclassified as obsolete. 
+r"' 
+f 
+\: .... :; 
+I 
+I 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+~ 
+□ 
+□ 
+□ 
+□ 
+□ 
+I 
+I 
+I 
+I 
+I 
+I I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I I 
+I 
+I 
+I 
+I 
+I 
+~ 
+ID 
+I 
+I 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(03-14-2023) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2023 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    2     of     6    
+I. 
+Plant Operating Conditions before the Event 
+ 
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 1 was in Mode 1 at approximately 
+100 percent power. 
+ 
+II. 
+Description of Event 
+ 
+A. Event Summary 
+ 
+On January 24, 2023 at 0121 CST, the BFN, Unit 1, High Pressure Coolant Injection (HPCI) was 
+declared inoperable because the normally-open HPCI Steam Line Condensate Outboard Drain 
+Valve (1-FCV-073-0006B) [FCV] failed closed, apparently due to a failed diaphragm. On January 
+24, 2023, at 0743 CST, eight-hour Event Notification (EN) 56321 was made to the NRC. 
+ 
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of 
+the Code of Federal Regulations (10 CFR) 50.73(a)(2)(v)(D), as any event or condition that 
+could have prevented the fulfillment of the safety function of structures or systems that are 
+needed to mitigate the consequences of an accident. 
+ 
+B. Status of structures, components, or systems that were inoperable at the start of the 
+event and that contributed to the event 
+ 
+There were no structures, systems, or components (SSCs) whose inoperability contributed to 
+this event. 
+ 
+C. Dates and approximate times of occurrences 
+ 
+Dates and 
+Approximate Times 
+ 
+Occurrence 
+January 24, 2023,  
+0121 CST 
+ 
+BFN, Unit 1, HPCI is declared inoperable when the HPCI 
+Steam Line Condensate Outboard Drain Valve failed 
+closed. 
+January 25, 2023,  
+0215 CST 
+ 
+BFN, Unit 1, HPCI is declared operable following the 
+satisfactory completion of repair work and its associated 
+post-maintenance testing (PMT). 
+D. Manufacturer and model number of each component that failed during the event 
+ 
+The failed component was a Crane Company flow control valve, part number AO-498-S1-1. 
+ 
+E. Other systems or secondary functions affected 
+ 
+No other systems or secondary functions were affected. 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(03-14-2023) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2023 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    3     of     6    
+ 
+F. Method of discovery of each component or system failure or procedural error 
+ 
+The failure of the normally-open HPCI Steam Line Condensate Outboard Drain Valve was 
+discovered when the valve suddenly closed. 
+ 
+G. The failure mode, mechanism, and effect of each failed component 
+ 
+A tear in the diaphragm found during disassembly allowed the air pressure to leak excessively 
+from below the diaphragm to the non-pressure side of the diaphragm. Air volume available was 
+not enough to maintain pressure in the lower chamber. Therefore, the valve drifted shut due to the 
+spring to close function of the operator. 
+ 
+H. Operator actions 
+ 
+There were no operator actions associated with this event.   
+ 
+I. 
+Automatically and manually initiated safety system responses 
+ 
+There were no automatic or manual safety system responses associated with this event.   
+ 
+III. 
+Cause of the event 
+ 
+A. Cause of each component or system failure or personnel error 
+ 
+The diaphragm prematurely failed due to a part manufacturing issue, which led to the local 
+delamination between the fabric and the ethylene propylene diene monomer (EPDM) material, in 
+conjunction with a lack of complete reinforcement fabric coverage at the tear site. 
+ 
+B. Cause(s) and circumstances for each human performance related root cause 
+ 
+There were no human performance related root causes associated with this issue. 
+ 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(03-14-2023) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2023 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    4     of     6    
+IV. 
+Analysis of the event 
+ 
+The HPCI system is provided to assure that the reactor is adequately cooled to limit fuel cladding 
+temperature in the event of a small break in the nuclear steam supply system and loss of coolant 
+which does not result in rapid depressurization of the reactor vessel. The HPCI system permits 
+the nuclear plant to be shut down, while maintaining sufficient reactor vessel water inventory until 
+the reactor vessel is depressurized. The HPCI system continues to operate until the reactor 
+vessel pressure is below the pressure at which low pressure coolant injection (LPCI) [BO] 
+operation or core spray system [BM] operation maintains core cooling. Due to the HPCI system’s 
+inoperability, it would have been unable to perform its safety function. 
+ 
+A failure analysis conducted by TVA Central Labs reported that the EPDM diaphragm material 
+exhibited elevated hardness’s at the flange contact surface, which could have impacted the 
+diaphragm’s ability to maintain a sufficient sealing force. There was abrasive wear damage at the top 
+of the bulge immediately adjacent to the tear, which might have been incidental to the failure. 
+Circumferential cracking was found around the diaphragm’s circumference at the corner between the 
+flange sealing surface and the bulge. These cracks did not penetrate the nylon fabric reinforcement. 
+At the failure point, there was delamination between the nylon fabric and the EPDM layer. 
+Additionally, there was a lack of nylon fabric reinforcement at the tear in the diaphragm, which 
+critically hampered the diaphragm’s ability to resist tearing. 
+ 
+The diaphragm was originally classified as QA3 and was not considered a “basic component” since 
+QA3 components do not carry a dedication 10 CFR 50, Appendix B. Therefore, the diaphragm failure 
+is not reportable under 10 CFR Part 21. 
+ 
+BFN’s Maintenance Strategy was to refurbish the actuator on a 10-year periodicity; historically, these 
+refurbishments have been performed on a 6-year periodicity. BFN’s Maintenance Strategy is not 
+causal to this failure because this diaphragm failed after 4 years. 
+ 
+V. 
+Assessment of Safety Consequences 
+ 
+This event resulted in inoperability and unavailability of the single train of the BFN, Unit 1, HPCI 
+system resulting in the inability of the HPCI system to perform its safety function to mitigate the 
+consequences of an accident. In the event of an emergency, the RCIC system remained 
+operable, and all Automatic Depressurization Systems (ADS) were available during this event to 
+facilitate core cooling by low pressure Emergency Core Cooling Systems (ECCS). Additionally, 
+BFN has an installed diesel-backed Emergency High Pressure Makeup Pump (EHPMP) that 
+operators can utilize to inject high pressure water to the reactor vessel per 1-EOI-1 as needed 
+when HPCI is unavailable. Based on the above, during the time period that the HPCI system was 
+inoperable, sufficient systems were available to provide the required safety functions to protect 
+the health and safety of the public. There was no significant reduction to the health and safety of 
+the public or plant personnel for this event.   
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(03-14-2023) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2023 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    5     of     6    
+ 
+A. Availability of systems or components that could have performed the same function as 
+the components and systems that failed during the event 
+ 
+During this event, RCIC was verified to be operable by Operations personnel. Additionally, all 
+other ECCS and ADS systems remained operable for the duration of the event.   
+ 
+B. For events that occurred when the reactor was shut down, availability of systems or 
+components needed to shutdown the reactor and maintain safe shutdown conditions, 
+remove residual heat, control the release of radioactive material, or mitigate the 
+consequences of an accident 
+ 
+This event did not occur when the reactor was shutdown. 
+ 
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed 
+time from discovery of the failure until the train was returned to service 
+ 
+HPCI was inoperable from the time of discovery on January 24, 2023, 0121 CST until the 
+diaphragm was replaced and its associated PMT was completed on January 25, 2023,  
+0215 CST. The BFN, Unit 1, HPCI system was inoperable for approximately one (1) day. 
+ 
+VI. 
+Corrective Actions 
+ 
+Corrective Actions are being managed by the TVA’s corrective action program under Condition 
+Report (CR) 1830955. 
+ 
+A. Immediate Corrective Actions 
+ 
+The diaphragm was replaced under WO 123430246. 
+ 
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events 
+occurring in the future 
+ 
+TVA will proactively replace the diaphragms on BFN, Units 2 and 3. HPCI Steam Line 
+Condensate Outboard Drain Valve diaphragms will be reclassified and reprocured as QA 1 
+components, and any existing QA 3 diaphragms will be reclassified as obsolete. 
+ 
+VII. Previous Similar Events at the Same Site 
+ 
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.  
+ 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(03-14-2023) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 08/31/2023 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 1 
+00259 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2023 - 
+001 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (08-2020) 
+ 
+Page    6     of     6    
+VIII. Additional Information 
+ 
+There is no additional information. 
+ 
+IX. 
+Commitments 
+ 
+There are no new commitments. 

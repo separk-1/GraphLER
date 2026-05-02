@@ -1,0 +1,187 @@
+J._-, DUKE John A. Krakuszeski
+Vice President
+ENERGY®
+~ Brunswick Nuclear Plant
+8470 River Rd SE
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+June 15, 2023
+Serial: RA-23-0116
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2023-001
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, is submitting the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Mark DeWire, Manager - Nuclear
+Support Services, at (910) 832-6641.
+Sincerely,
+John A. Krakuszeski
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+Ms. Laura Dudes, NRC Regional Administrator, Region II
+Mr. Luke Haeg, NRC Project Manager
+Mr. Gale Smith, NRC Senior Resident Inspector
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 00325 1 OF 3
+052
+4. Title
+Loss of Redundant Power Supply Operation Causes Turbine Trip and Subsequent Reactor Scram
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+04 20 2023 2023 - 001 - 00 06 15 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Mark DeWire, Manager – Nuclear Support Services (910) 832-6641
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JJ RJX K078 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 01:48 Eastern Daylight Time (EDT) on April 20, 2023, with Unit 1 in Mode 1 at approximately 100% power, an automatic
+reactor scram occurred due to a turbine trip. All control rods inserted as expected. Turbine bypass valves did not open on the
+scram; Safety Relief Valves (SRVs) opened automatically to control reactor pressure. Reactor Pressure reached approximately
+1100 psig on the scram, exceeding the Reactor Protection System (RPS) setpoint. Reactor water level reached low level 1
+following the scram resulting in automatic actuation of Primary Containment Isolation System (PCIS) Group 2, 6, and 8 isolation
+valves, by design.
+Operations responded and stabilized the plant. Operations transitioned pressure control from SRVs to main steam line drains to
+the condenser. Following the scram, reactor water level was maintained via the condensate and feedwater systems.
+The turbine trip and subsequent inoperative turbine bypass valves resulted from a complete loss of 24 Vdc power to the Turbine
+Protection system. The power supplies were replaced prior to restart.
+There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) due to valid actuation of the RPS and PCIS.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Brunswick Steam Electric Plant (BSEP), Unit 1 00325
+ 052
+2023 - 001 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent rated thermal
+power.
+Reportability Criteria
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) because it involved actuation of systems
+listed in 10 CFR 50.73(a)(2)(iv)(B). Specifically, the Reactor Protection System [JC] and Primary Containment Isolation
+System [JM] actuated during this event.
+The NRC was notified of this event per 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR 50.72(b)(3)(iv)(A) via Event Notification
+56478 at 05:24 Eastern Daylight Time (EDT) on April 20, 2023.
+Event Description
+At 01:48 Eastern Daylight Time (EDT) on April 20, 2023, with Unit 1 in Mode 1 at approximately 100% power, an
+automatic reactor scram occurred due to a turbine trip. All control rods inserted as expected.
+The turbine bypass valves [JI] did not open on the scram; main steam [SB] Safety Relief Valves (SRVs) 1C, 1F, 1G, 1K,
+and 1L cycled open automatically to control reactor pressure. Reactor pressure reached approximately 1100 psig on the
+scram; exceeding the 1060 psig Reactor Protection System (RPS) setpoint.
+Reactor water level reached the low level 1 (LL1) setpoint following the scram. Per design, the LL1 signal resulted in
+Primary Containment Isolation System Group 2 (i.e., floor and equipment drain isolation valves), Group 6 (i.e., monitoring
+and sampling isolation valves) and Group 8 (i.e., shutdown cooling isolation valves) isolations.
+Operations responded and stabilized the plant. Operations manually cycled open SRV 1B then transitioned pressure
+control from SRVs to the main steam line drains [SB] to the condenser [SG]. Following the scram, reactor water level
+was maintained via the condensate [SD] and feedwater [SJ] systems.
+Event Cause
+The direct cause of the turbine trip and subsequent inoperative turbine bypass valves was a complete loss of 24 Vdc
+power to the Turbine Protection system [JJ]. When 24 Vdc power was lost, Turbine Protection system data inputs for
+required pressure and flow transmitters were lost. With the loss of monitoring capability, the Turbine Protection system
+responded as designed by initiating a turbine trip to protect the turbine and inhibiting the opening of the turbine bypass
+valves to protect the condenser.
+24 Vdc power is supplied to the Turbine Protection system via redundant power supplies [RJX]. Due to inadequacies in
+the vendor design, a unique combination of internal component failures on one power supply impacted the operation of
+the redundant power supply. As a result, both power supplies failed/shutdown within a short timeframe of one another
+resulting in a total loss of 24 Vdc power.
+NRC FORM 366A (03-14-2023) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Brunswick Steam Electric Plant (BSEP), Unit 1 00325
+ 052
+2023 - 001 - 00
+NARRATIVE
+Prior to this event the power supplies had operated successfully with no indication of deficiencies for approximately five
+years.
+Safety Assessment
+There was no adverse impact on the health and safety of the public or plant personnel. The safety significance of this
+event is minimal. The condenser remained available for pressure control. The condensate and feedwater systems
+remained available for level control.
+Corrective Actions
+Prior to restart from this event, the 24 Vdc Turbine Protection system power supplies were replaced.
+The site is planning to implement changes to the current 24Vdc power supply functionality that will prevent a power
+supply internal failure from impacting the redundant power supply.
+Any changes to corrective actions or completion schedules will be made in accordance with the site’s corrective action
+program.
+Previous Similar Events
+No previous similar events have occurred within the past three years in which inadequate vendor design resulted in a
+turbine trip and reactor scram.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (03-14-2023) Page 3 of 3

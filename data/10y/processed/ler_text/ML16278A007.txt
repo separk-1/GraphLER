@@ -1,0 +1,228 @@
+Dresden Generating Station
+; i!Y Exelon Generation® 6500 North Dresden Road
+Morris, IL 60450
+www.exeloncorp.com
+10 CFR 50.73
+SVPLT R # 16-0052
+September 30, 2016
+U.S. Nuclear Regulatory Commission
+ATIN: Document Control Desk
+Washington, DC 20555-0001
+Dresden Nuclear Power Station, Unit 2
+Renewed Facility Operating License Nos. DPR-19
+NRG Docket No. 50-237
+Subject: Licensee Event Report 237/2016-002-01, Unit 2 HPCI Inlet Steam Drain Pot
+Piping Leak Resulting in HPCI lnoperability
+Enclosed is Licensee Event Report 237/2016-002-01, "Unit 2 HPCI Inlet Steam Drain Pot
+Piping Leak Resulting in HPCI lnoperability". This report describes events which are being
+reported in accordance with 10 CFR 50.73(a)(2)(v)(D), "Any event or condition that could have
+prevented the fulfillment of the safety function of ... systems that are needed to mitigate the
+consequences of an accident".
+There are no regulatory commitments contained in this submittal.
+Should you have any questions concerning this letter, please contact Mr. Bruce Franzen
+at (815) 416-2800.
+Respectfully,
+Peter J Karaba
+Site Vice President
+Dresden Nuclear Power Station
+Enclosure Licensee Event Report 237/2016-002-01
+cc: Regional Administrator- NRG Region Ill
+NRG Senior Resident Inspector- Dresden Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~~r:>'-"~ltlctt.,~ Reported lessons learned are incorporated into the licensing process and fed back lo industry.
+p ~ LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and lnfonmation Collections
+~ Branch (T·S F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to lnfocollecls.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+'J ........ Affairs, NEOB· 10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+httr::i://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/(.3l)
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Dresden Nuclear Power Station, Unit 2 05000237 1 OF 4
+4. TITLE
+Unit 2 HPCI Inlet Steam Drain Pot Piping Leak Resulting in HPCI lnoperability
+5. EVENT DATE 6. LEA NUMBER I 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+FACILITY NAME DOCKET NUMBER
+05 16 2016 2016 - 002 - 01 09 30 16 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201(bl 20.22os(aJ<sJ<il 50.73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+D D D D
+20.2201 <d> 20.22os<a><s><nJ 50.73(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+1
+D D D D
+20.22os<aJ<1 l 20.22os(aJ<4l 5o. 1s(aJ<2J<mJ 50.73(a)(2)(ix)(A)
+D D D D
+20.22os<a><2><i> 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.22os<aJ<2>(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 1s.11<a><4>
+D D 0 D
+20.22os(aJ<2J<m> 50.s6<c><2J 50.73(a)(2)(v)(B) 1s.11<a><5l
+0 20.2203(a)(2)(iv) D 50.46(aJ<sJ<n> D 50.73(a)(2)(v)(C) D 1s.11<a><1>
+100 0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) [gj 50. 73(a)(2)(v)(D) D 1s.11<aJ<2J(il
+0 0 0 D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 1s.11<aJ(2)(iiJ
+' ~-: :' •.\ '. . ". ' . ' ' ;, r '•', .. ···_ .''.' .>" ',' ' .,; 0 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Bruce Franzen - Regulatory Assurance Manager 815-416-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+x BJ PSF Unknown y ..
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gj NO DATE
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 5/16/2016 at approximately 1120 CDT during planned maintenance on Division II of the Low Pressure
+Coolant Injection (LPCI} system, a through-wall steam leak was observed in the Unit 2 High Pressure Coolant
+Injection (HPCI) inlet drain pot drain piping. The leak was identified to be on the Inlet Drain Pot line leading to
+the Main Condenser upstream of the HPCI Inlet Drain Pot 2A Inboard Drain Valve, Air Operated Valve (AOV)
+2-2301-29, which is ASME Code Class 2 piping. The cause of the through-wall leak was liquid droplet
+impingement erosion thinning of chrome moly piping. HPCI was declared inoperable following isolation of the
+degraded piping per Technical Requirements Manual (TRM) 3.4.a. This event is of low safety significance.
+Corrective Actions included replacing the piping with stainless steel, ensuring similar sections of piping are
+replaced or scheduled for replacement, and reviewing Extent of Condition.
+This event is reportable under 1O CFR 50.73(a)(2)(v)(D), "Any event or condition that could have prevented
+the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences
+of an accident."
+NRC FORM 366 (06-2016)
+Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2011
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-ma~ to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Dresden Nuclear Power Station, Unit 2 05000-237 YEAR NUMBER NO.
+______________________________. ..._ _________________________. ._ 2 _ 0 _ 1 _ 6 _ _ - _____ 00 _ 2 _ _______ 0 _ 1 - --t I
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+Dresden Nuclear Power Station (DNPS), Unit 2, is a General Electric Company Boiling Water Reactor with
+a licensed maximum power level of 2957 megawatts thermal. The Energy Industry Identification System
+codes used in the text are identified as [XX].
+A. Plant Conditions Prior to Event:
+Unit: 02 Event Date: 05/16/16 Event Time: 1120 CDT
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100 percent
+B. Description of Event:
+On 5/16/2016 at approximately 1120 CDT, a through-wall steam leak was observed in the Unit 2
+High Pressure Coolant Injection (HPCI) [BJ] inlet drain pot drain piping during planned maintenance
+on Division II of the Low Pressure Coolant Injection (LPCI) [BO] system. The leak was identified to
+be on the Inlet Drain Pot line upstream of the HPCI Inlet Drain Pot 2A Inboard Drain Valve, Air
+Operated Valve (AOV) 2-2301-29, which is ASME Code Class 2 piping.
+At 1157 CDT, the station entered the Action Statement in the Technical Requirements Manual
+(TRM) 3.4.a to isolate the adversely affected ASME Code Class 2 component. At 1457 CDT, the
+flow path containing the leaking pipe was isolated and HPCI was declared inoperable. At this time,
+the station entered Technical Specification (TS} 3.5.1 Condition K due to the inoperability of HPCI
+and a division of LPCI. Condition K directed entry into TS Limiting Condition for Operation (LCO)
+3.0.3. At 171 O CDT, the LPCI system was restored and TS LCO 3.0.3 was exited but the unit
+remained in TS 3.5.1 Condition G. At 0042 CDT on 5/18/2016, the adversely affected piping was
+replaced with stainless steel and HPCI was declared operable which allowed for TS 3.5.1 Condition
+G to be exited.
+This event is reportable under 10 CFR 50.73(a)(2}(v)(D), "Any event or condition that could have
+prevented the fulfillment of the safety function of structures or systems that are needed to mitigate
+the consequences of an accident."
+C. Cause of Event:
+The cause of the failure was local internal thinning from a mechanical erosion mechanism.
+Based on the cratered appearance of the eroded surface, the thinning was due to liquid droplet
+impingement erosion. The through-wall leak occurred toward the downstream side of the elbow
+where the droplet impact angle was high (close to 90 degrees). The susceptible pipe was
+scheduled to be replaced in 2013, but the work package was inadvertently revised to remove
+the replacement from the scope of work.
+D. Safety Analysis:
+The safety significance of this condition is low and did not adversely impact the health
+and safety of the public. During the evolution redundant systems remained capable of
+I
+Page _2_ of _4_
+I
+J
+Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/201E
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+________________________________ __________________________ _Y_E_AR_ _____N_U_M_BE_R_ ______N_O_. ......
+Dresden Nuclear Power Station, Unit 2 .._ 05000-237 _.
+2016 - 002 01 I
+NARRATIVE
+performing each of the functions required by the safety analysis. The Isolation
+Condenser [BL] and Automatic Depressurization System [JE] remained in service and
+were capable of removing heat from containment while the vessel is at high pressure
+and lowering vessel pressure to allow for the low pressure systems to inject. Division I
+of LPCI remained capable of injection along with both divisions of Core Spray [BM].
+Additionally, the Torus Cooling function of LPCI remained available as the primary
+method of heat removal from primary containment. The torus cooling function of LPCI
+provides the connection to the ultimate heat sink which was available throughout the
+evolution.
+E. Corrective Actions:
+The degraded elbow was replaced with stainless steel material. The replacement of the
+remaining sections of chrome moly piping and fittings was scheduled. Ultrasonic inspections
+were performed to determine the Extent of Condition. A review of recent work orders
+completed on safety related and/or HPCl/LPCI system work order tasks was performed to
+identify additional scope removals. Actions were taken to address the inadvertent work scope
+revision.
+F. Previous Occurrences:
+In 2012, two through-wall steam leaks were identified on the line upstream of the AOV-2-2301-
+29 and 3-2301-29 valves with one leak on each unit. Actions were created and completed to
+perform inspections on all HPCI steam drain elbows in the turbine building that had not
+previously been replaced with stainless steel material. A sample of elbows in the reactor
+building was also inspected to verify the assumption that degradation was due to liquid droplet
+impingement.
+In 2011, a through-wall leak occurred on the AOV 2-2301-29 valve. The cause of this event
+was Liquid Impingement Erosion.
+In 2007, a through-wall leak occurred on a 90 degree elbow in HPCI piping located upstream of
+the AOV 2-2301-29 valve. The cause of this event was Liquid Impingement Erosion. The
+elbow was replaced with like for like chrome moly material.
+In 2007, a through-wall leak occurred in HPCI piping located downstream of 3-2301-55 valves.
+The cause of this event was Flow Accelerated Corrosion as a result of carbon steel pipe.
+In 2007, a through-wall leak occurred in HPCI piping between the 3-2301-54 and 3-2301-55
+valves. The cause of this event was Flow Accelerated Corrosion.
+"" •- - '"' •••• \VU"<V OU/ Page _3_ of _4_
+Page 4 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2011
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Dresden Nuclear Power Station, Unit 2 05000-237 YEAR NUMBER NO.
+2016 - 002 01
+NARRATIVE
+G. Component Failure Data:
+Manufacturer Model S/N Type
+1 inch chrome moly
+N/A N/A None
+elbow piping
+l'illl\J -· .............. \Vu-.:.v IVJ Page _4_ of _4_

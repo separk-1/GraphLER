@@ -1,0 +1,361 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+January 29, 2024
+10 CFR 50.73
+10 CFR 50.4(a)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2023-003-00 – Standby Liquid Control
+Inoperable due to Demineralized Water In-leakage
+The enclosed Licensee Event Report provides details of an inoperability of the Standby
+Liquid Control System. The Tennessee Valley Authority (TVA) is submitting this report in
+accordance with Title 10 of the Code of Federal Regulations (10 CFR) 50.73(a)(2)(v)(C) &
+(D), as any event or condition that could have prevented the fulfillment of the safety function
+of structures or systems that are needed to control the release of radioactive material; or
+mitigate the consequences of an accident.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David Renn, Site Licensing Manager, at
+(256) 729-2636.
+Respectfully,
+MManu SSiivaraman
+BFN Site Vice President
+Enclosure: Licensee Event Report 50-259/2023-003-00 – Standby Liquid Control Inoperable
+due to Demineralized Water In-leakage
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 1
+052
+00259 1 OF 7
+4. Title
+Standby Liquid Control Inoperable due to Demineralized Water In-leakage
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000 N/A
+01 18 2023 2023 - 003 - 00 01 29 2024 Facility Name Docket Number
+N/A 05000 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Denzel Housley, Licensing Engineer 256-729-7643
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+4. Supplemental Report Expected) Month Day
+No Yes (If yes, complete 15. Expected Submission Date
+15. Expected Submission Date
+N/A N
+Ye
+/
+a
+A
+r
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+A past operability evaluation determined that for a period of time from January 18 to January 19, 2023, the
+Standby Liquid Control (SLC) system tank sodium pentaborate (SPB) concentration dropped below the
+requirements of Technical Specification (TS) Surveillance Requirement 3.1.7.3 which requires the SPB
+solution to be greater than or equal to 8.0% by weight. The cause of this event was leakage past valve
+1-SHV-002-1208, “SLC Demin Water Supply Shutoff Valve,” that allowed demineralized water to dilute the
+SPB solution in the SLC tank.
+The past operability evaluation performed by engineering concluded that although SPB concentration
+dropped below the TS minimum requirements, sufficient SPB solution was available to provide the required
+pH buffering function; therefore, the safety function of the SLC system was maintained.
+An engineering change to physically separate the SLC tank from the demineralized water system has
+been implemented to prevent leakage into the SLC tank.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+(cid:1407) 052
+2023 - 003 - 00
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of this event, Browns Ferry Nuclear Plant (BFN) Unit 1 was in Mode 1 at approximately
+100 percent power.
+II. Description of Event
+A. Event Summary
+On January 19, 2023, engineering noted that the Standby Liquid Control (SLC) system [BR] tank
+level had increased greater than 1 inch. The SLC tank level was validated by Chemistry per
+dipstick method and discovered to have risen approximately 2 inches. The cause of the SLC tank
+level increase was determined to be demineralized water [KC] leaking past valve
+1-SHV-002-1208, “SLC Demin Water Supply Shutoff Valve.” The valve was adjusted to stop the
+leakage of demineralized water into the SLC tank. Chemistry added sodium pentaborate (SPB) to
+the tank and then analyzed the SLC tank contents to ensure proper limits were met.
+Following a similar event in November 2023, the operability of the SLC system between the start
+of the water intrusion and the addition of SPB by Chemistry was questioned for both events. Past
+operability evaluations were requested for these events on November 14, 2023.
+Past operability evaluations were performed by engineering on the two events. On
+November 30, 2023, it was determined that on January 18, 2023, the SLC tank SPB
+concentration dropped below the requirements of Technical Specification (TS) Surveillance
+Requirement (SR) 3.1.7.3 which requires the SPB solution to be greater than or equal to 8.0% by
+weight. Failure to meet TS SR 3.1.7.3 resulted in the SLC system being inoperable. Because the
+SLC tank is common to both SLC subsystems, the Tennessee Valley Authority (TVA) is submitting
+this report in accordance with Title 10 of the Code of Federal Regulations
+(10 CFR) 50.73(a)(2)(v)(C) & (D), as any event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to control the release of
+radioactive material; or mitigate the consequences of an accident.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+NRC FORM 366A (10-01-2023) Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+(cid:1407) 052
+2023 - 003 - 00
+NARRATIVE
+C. Dates and approximate times of occurrences
+DATE AND
+APPROXIMATE TIMES
+OCCURRENCE
+(times are Central
+Standard Time)
+January 18, 2023, at
+SLC tank level starts to increase.
+10:35
+Based on the engineering evaluation, the SLC tank SPB
+January 18, 2023, at
+concentration dropped below the TS SR requirement of
+approximately 20:32
+8.0%.
+Operations declared the SLC system operable following SPB
+addition to the SLC tank.
+Testing of the SLC tank testing showed SPB
+concentration above 8.0%.
+January 19, 2023, at
+14:05
+Time duration with SPB concentration less than the TS
+SR requirement was approximately 17.5 hours.
+Minimum SPB concentration during the event was
+7.96%.
+Condition Reports (CR) 1892408 and 1892410 were initiated to
+November 14, 2023
+request the performance of past operability evaluations.
+Past operability evaluation was completed by engineering
+November 30, 2023 which showed that January event resulted in not meeting TS
+SR requirement for minimum SPB concentration
+D. Manufacturer and model number of each component that failed during the event
+No components failed during this event.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+In-leakage of demineralized water to the SLC tank through 1-SHV-002-1208 was discovered by
+engineering observation.
+NRC FORM 366A (10-01-2023) Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+(cid:1407) 052
+2023 - 003 - 00
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component
+No components failed during this event.
+H. Operator actions
+Operators took actions to halt the leakage of demineralized water to the SLC tank.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The cause of this event was leakage past valve 1-SHV-002-1208 that allowed demineralized
+water to dilute the SPB solution in the SLC tank.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root causes were identified.
+IV. Analysis of the event
+At the time of this event, the possibility of in-leakage of demineralized water through valve
+1-SHV-002-1208 after manipulation was recognized. 1-SHV-002-1208 is a one-of-a-kind valve at
+BFN; it is a ratchet valve which only turns in one direction, and has no backstop. Actions had
+been taken for periodic review of SLC tank levels by engineering and to generate an engineering
+change to physically isolate the demineralized water supply from the SLC tank by means of a
+blind flange. At the time of the event, Engineering Change Package (ECP) BFN-23-029-01 had
+been issued for this modification on Unit 1 but had not yet been implemented.
+Operator response to SLC tank dilution events were performed under TS SR 3.1.7.3 Frequency
+requirement which states: “once within 24 after water or boron is added to solution.” Accordingly,
+actions were taken to restore the SLC tank SPB concentration within 24 hours and not to assess
+the resultant SPB solution due to the water addition. When questioned about this response,
+actions were initiated to perform past operability evaluations.
+NRC FORM 366A (10-01-2023) Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+(cid:1407) 052
+2023 - 003 - 00
+NARRATIVE
+V. Assessment of Safety Consequences
+The SLC System is credited in the radiological dose analysis for a loss of coolant accident
+(LOCA) to provide a buffering agent (SPB solution) to the suppression pool water. In determining
+the fission products available for release from the containment, the analysis credits fission product
+scrubbing in the suppression pool. Once deposited in the suppression pool water, the iodine will
+remain in solution as long as the suppression pool pH remains above 7.0. In calculating the post-
+LOCA suppression pool pH, credit must be taken for buffering of the suppression pool water by
+the SPB injected by the SLC System to counterbalance the production of acids in the containment
+post-LOCA. The volume of SPB required by the post-LOCA suppression pool pH calculated is
+based upon the available boron and is not affected by the boron-10 enrichment.
+The SLC System is also designed to provide the capability of bringing the reactor, at any time in a
+fuel cycle, from full power and minimum control rod inventory to a subcritical condition with the
+reactor in the most reactive, xenon free state without taking credit for control rod movement. This
+function, however, is not credited as a safety function.
+The past operability evaluation of this event reviewed the available SPB solution during this event
+and determined that sufficient SPB solution was available to fulfill the buffering requirement for the
+LOCA. Additionally, the SLC system was operable within the TS required completion times of
+TS 3.1.7, “Standby Liquid Control (SLC) System.” With two SLC subsystems inoperable, TS 3.1.7
+Condition B requires one SLC subsystem to be restored to Operable status within 8 hours. If
+Condition B is not met, then TS 3.1.7, Condition C.1 requires the plant be in Mode 3 in 12 hours.
+In this event, the SLC system was inoperable for approximately 17.5 hours which is less than the
+total TS time of 20 hours to be in Mode 3.
+Based on the above, during the time period that the SLC system was inoperable, sufficient SPB
+solution was available to provide the required pH buffering function to protect the health and
+safety of the public. There was no significant reduction to the health and safety of the public or
+plant personnel for this event. This event was resolved within the TS-required completion time.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+Although both subsystems of SLC were inoperable due to TS SR requirements for the
+common SLC tank, the past operability evaluation performed by engineering concluded that
+sufficient SPB solution was available to provide the required pH buffering function; therefore,
+the SLC system could still perform its safety function during this event.
+NRC FORM 366A (10-01-2023) Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+(cid:1407) 052
+2023 - 003 - 00
+NARRATIVE
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+As assessed by the past operability evaluation, the SPB solution concentration was less than
+required by TS SR 3.1.7.3 for approximately 17.5 hours.
+VI. Corrective Actions
+Corrective Actions were managed by the TVA’s corrective action program under CR 1892410.
+A. Immediate Corrective Actions
+The in-leakage of demineralized water to the SLC tank was stopped, SPB solution was added
+to the SLC tank, and analysis of the SLC tank SPB solution was performed to ensure TS
+requirements were met.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+ECP BFN-23-029-01, which physically separates the Unit 1 SLC tank from the demineralized
+water system, has been implemented to prevent leakage into the SLC tank.
+Additionally, as an enhancement, 0-TI-18, “Sodium Pentaborate Concentration and Level
+Adjustment of the Standby Liquid Control System,” has been revised to require a SLC sample
+be obtained prior to a chemical addition to a SLC tank of unknown concentration.
+VII. Previous Similar Events at the Same Site
+A search of LERs from BFN, Units 1, 2, and 3 over the last five years identified no similar events.
+VIII. Additional Information
+There is no additional information.
+NRC FORM 366A (10-01-2023) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:1409) 050 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 00259 NUMBER NO.
+(cid:1407) 052
+2023 - 003 - 00
+NARRATIVE
+IX. Commitments
+There are no new commitments.
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+NRC FORM 366A (10-01-2023) Page 7 of 7

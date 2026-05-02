@@ -1,0 +1,298 @@
+SVP-17-028 10 CFR 50.73
+May 1, 2017
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-29 and DPR-30
+NRC Docket Nos. 50-254 and 50-265
+Subject: Licensee Event Report (LER) 254/2016-002-01, "Secondary Containment
+Differential Pressure Momentarily Lost Due to Air Line Failure (RWCU pump
+Rm)"
+Reference: Letter from Scott Darin (Exelon Generation Company, LLC) to U.S. NRC
+Document Control Desk, "Licensee Event Report (LER) 254/2016-002-00," dated
+March 14, 2016
+Enclosed is Licensee Event Report (LER) 254/2016-002-01, "Secondary Containment
+Differential Pressure Momentarily Lost Due to Air Line Failure (RWCU pump Rm)," for Quad
+Cities Nuclear Power Station, Unit 1.
+This report is submitted in accordance with 1O CFR 50.73 (a)(2)(v)(D) which requires the
+reporting of any event or condition that could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mr. W. J. Beck at (309)
+227-2800.
+d~~~
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+'¢~(,.,,.. .... "~"<• Reported lessons learned are incorporated into the licensing process and fed back to industry.
+I! LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+~ Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollecls.
+~.,.,, .,.J' (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to lhe Desk Officer, Office of Information and Regulatory Affairs,
+"'"**"" NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used lo impose an information collection does not display a currently valid OMB control number, the
+httg://vvww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 5
+4. TITLE
+Secondary Containment Differential Pressure Momentarily Lost Due to Air Line Failure (RWCU Pump Rm)
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME OOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Quad Cities 05000265
+- - FACILITY NAME DOCKET NUMBER
+01 15 2016 2016 002 01 05 01 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201 (b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.13(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(1) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 5o.36(c)(2) 50.73(a)(2)(v)(B) 13.11 (a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) [gl 50. 73(a)(2)(v)(C) D 13.11(a)(1)
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.11(a)(2)(1)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(ii)
+J. D D
+,to• ·• M •i • ; ;.<>/. ,~,f~~~i'Ci;i~ ;30~~ i~ 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Rachel Luebbe - Regulatory Assurance (309)-227-2813
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B VA PSX N/A y
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gi NO SUB D M A IS TE S ION N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 15, 2016, at 20:38 hours, The Main Control Room received alarms indicating a low differential pressure in the reactor
+building. The alarms occurred during an entry to the Unit 2 Reactor Water Cleanup (RWCU) pump room. A negative reactor building
+pressure was restored within two minutes (approximately 20:40 hours) without operator action. Since both Units 1 and 2 share a
+common reactor building (RB), the loss of differential pressure impacted both Units 1 and 2 secondary containments.
+The cause was a sheared air line inside the Unit 1 RB ventilation exhaust plenum which depressurized the air header supplying
+operating air to all three Unit 1 RB exhaust fan isolation dampers and causing the dampers to fail open, including the one on the
+standby fan.
+Corrective actions included replacing the sheared air line, and the addition of a preventive maintenance task for replacement of
+equivalent air lines on all RB supply and exhaust fan dampers. The safety significance of this event was minimal. Given the impact
+on the secondary containment, this report is submitted (for Units 1 and 2) in accordance with the requirements of 1O CFR
+50.73(a)(2)(v)(C), which requires the reporting of any event or condition that could have prevented the fulfillment of the safety function
+of structures or systems that are needed to control the release of radioactive material.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1 D22, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www. n re. gov /reading-rm/doc-collections/nu regs/staff ls r1 022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station YEAR
+05000254 NUMBER NO.
+Unit 1
+2016 - 002 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Momentary Loss of Secondary Containment Differential Pressure due to a manufacturing defect in the tubing fitting of
+an air line in the Unit 1 Reactor Building Exhaust fan plenum.
+A. CONDITION PRIOR TO EVENT
+Unit: 1 I 2 Event Date: January 15, 2016 Event Time: 20:38 hours
+Reactor Mode: 1 I 1 Mode Name: Power Operation I Power Operation Power Level: 100% I 100%
+B. DESCRIPTION OF EVENT
+On January 15, 2016, at 20:38 hours, unexpected Main Control Room Reactor Building (RB) Low differential
+pressure (DP) alarms were received due to loss of negative DP in the RB. At approximately the same time,
+Operations had entered the Unit 2 RWCU Pump room.
+Reactor building DP was observed rising to 0 inches water column (WC) and peaked at +0.2 inch WC. Technical
+Specification (TS) 3.6.4.1 Condition A, and QGA 300, Secondary Containment Control were entered for both Units
+Secondary Containment being inoperable. With no operator action, a negative reactor building DP was restored at
+approximately 20:40 hours. TS 3.6.4.1 Condition A and QGA 300 were exited at 20:42 hours.
+On January 16, 2016, at 01:42 hours, ENS #51659 was made to the NRC under 10 CFR 50.72 (b)(3)(v)(C), to
+report this event as an event or condition that could have prevented the fulfillment of a safety function of structures
+or systems that are needed to control the release of radioactive material.
+An investigation of this event was performed which determined that a sheared air line to the 1C RB exhaust fan
+isolation damper depressurized a common air header to all three Unit 1 RB exhaust fan isolation dampers, causing
+them to fail open. This air line was internal to the exhaust ductwork, therefore it could not be identified through
+normal Operator rounds. With a normal fan lineup of two supply and two exhaust fans operating per unit, the
+isolation damper for the standby Unit 1 exhaust fan remained open. This created a recirculation path which was
+compensated by the RB DP control dampers throttling nearly full open. This significantly degraded the margin
+available for the system to respond to changes in building DP. When an entry was made into the Unit 2 RWCU
+Pump room, the area DP control system responded as expected by throttling closed all area DP control dampers
+which decreased total building exhaust flow. With reduced margin available in the building DP control, this caused a
+positive pressure condition in the RB.
+NRC FORM 366A (04-2017) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T·2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station YEAR
+05000254 NUMBER NO.
+Unit 1
+2016 - 002 01
+NARRATIVE
+C. CAUSE OF EVENT
+The cause was a sheared air line inside the Unit 1 RB ventilation exhaust plenum which depressurized the air
+header supplying operating air to all three Unit 1 RB exhaust fan isolation dampers, causing the dampers to fail
+open, including the one on the standby fan.
+The cause of the sheared air line was a manufacturing defect in the non-safety tube fitting that was not detected
+during installation. Over the course of 44 years, the defect propagated into a crack in the threads of the fitting and
+eventually failed. The failed component is original plant equipment and therefore this is considered a historical cause.
+The building and area DP control systems are not interconnected, but can have substantial effects on each other.
+Specifically, when a RWCU area room is opened, the sensed area pressure increases. This causes the area DP
+control system to reposition the area DP control dampers in the closed direction in an attempt to restore area DP.
+This reduces building exhaust flow, which will cause building pressure to increase and the DP control dampers to
+further open to restore building DP.
+D. SAFETY ANALYSIS
+System Design
+The function of the secondary containment is to contain, dilute, and hold up fission products that may leak from
+primary containment following a Design Basis Accident (OBA). In conjunction with operation of the Standby Gas
+Treatment System (SBGTS) and closure of certain valves [V] whose lines penetrate the secondary containment, the
+secondary containment is designed to reduce the activity level of the fission products prior to release to the
+environment, and to isolate and contain fission products that are released during certain operations that take place
+inside primary containment, when primary containment is not required to be operable, or that take place outside
+primary containment.
+Updated Final Safety Analysis Report (UFSAR) Section 6.2.3.1 provides that the safety objective of the secondary
+containment system, in conjunction with other engineered safeguards and nuclear safety systems, is to limit the
+release of radioactive materials so that offsite doses resulting from a postulated OBA will remain below 1O CFR 100
+guideline values.
+The RB Ventilation is designed to maintain the RB (RB is common to both Units 1 and 2) at a negative pressure
+during normal operation.
+Safety Impact
+Since both Units 1 and 2 share a common RB (secondary containment), the momentary loss of secondary
+containment differential pressure effects both units.
+TS 3.6.4.1, Condition A, requires restoration of secondary containment to operable status within four hours. This four
+hour completion time provides a period of time to correct the problem that is commensurate with the importance of
+maintaining secondary containment during Modes 1, 2, and 3, since the probability of an accident occurring during
+this short period where secondary containment is inoperable is minimal.
+The primary purpose of the secondary containment is to minimize the ground level release of airborne radioactive
+materials and to provide a controlled, elevated release of the building atmosphere under accident conditions. An
+en ineerin anal sis was erformed to demonstrate that durin the time that seconda containment differential
+Page_3_ of _5_
+NRCFORM366A(04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station YEAR
+05000254 NUMBER NO.
+Unit 1
+2016 - 002 01
+NARRATIVE
+pressure increased to positive for approximately two (2) minutes, there would be a negligible effect on the resulting
+dose calculations. Secondary containment would have sufficiently contained radioactive materials during a LOCA
+such that all current dose limits would remain met. Secondary containment would have been able to perform its
+safety function. Therefore, the dose consequence from postulated releases from the RB during this short duration
+would be bounded by the existing design basis LOCA analysis. The safety significance of this event was minimal.
+The engineering analysis that was performed demonstrated this event did not constitute a Safety System Functional
+Failure (SSFF). (Reference NEI 99-02, Revision 7, Regulatory Assessment Performance Indicator Guideline, Section
+2.2, Mitigating Systems Cornerstone, Safety System Functional Failures, Clarifying Notes, Engineering analyses.) As
+such, this event will not be reported in the NRG Performance Indicator (Pl) for SSFF since an engineering analysis
+was performed which determined that the system was capable of performing its safety function during this event when
+the secondary containment differential pressure increased to positive for approximately two (2) minutes.
+Risk Insights
+The plant Probabilistic Risk Assessment (PRA) model gives no credit to secondary containment or RB Ventilation
+and does not include it in the model, hence the as-found conditions did not contribute to an increase in PRA risk. In
+addition, overall RB negative DP was restored in approximately one (1) minute, so the physical integrity of the
+secondary containment structure was never compromised and the primary containment function was never lost.
+In conclusion, the overall safety significance and impact on risk of this event were minimal.
+E. CORRECTIVE ACTIONS
+Immediate:
+1 . The sheared air line was replaced and a full system post maintenance test (PMT) was performed to verify that
+the RB DP would be maintained in all Unit 1 exhaust fan lineups when entries are made into the Unit 2
+RWCU HX room.
+Follow-up:
+1 . Establish additional trending for RB ventilation DP control dampers to identify potential decreases in system
+margin.
+2. Implement a preventive maintenance task to periodically replace the air line which failed on all other Unit 1
+and 2 RB ventilation exhaust fan dampers.
+F. PREVIOUS OCCURRENCES
+The station events database, LERs, and INPO Consolidated Event System (ICES) were reviewed for similar events
+at the Quad Cities Nuclear Power Station. This event was attributed to a manufacturing defect in the tubing fitting of
+an air line during original plant construction. Based on the nature of this failure, the events listed below, although
+similar in topic, are not considered significant station experience that would have directly contributed to preventing
+this event.
+• Station Issue Report (IR) 1412296: Low RB to Atmosphere DP Condition During Fan Starts, September 13,
+2012 - Numerous issues were identified in 2012 with maintaining RB DP during fan starts and entries to RWCU
+rooms. The apparent cause that was identified during this troubleshooting was exhaust fan isolation dampers
+and area DP control dampers not operating properly due to numerous small air leaks. The air leaks were
+NRC FORM 366A (04-2017) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+t. ;;;~\tflliGtr~lo comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+~ LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~" ' CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatoiy Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+~"'**•"" used to impose an information collection does nol display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station YEAR
+05000254 NUMBER NO.
+Unit 1
+2016 - 002 01
+NARRATIVE
+caused by aged rubber gaskets and manufacturing defect like the current event. System DP control improved
+significantly following these repairs.
+• LER 254/2014-001-00, 5/5/14, Secondary Containment Differential Pressure Momentarily Lost Due to Fuel Pool
+Monitor Radiation Monitor Spike (3/4/14) - A Fuel Pool Channel 1B High Radiation spiked high causing the Unit
+1 and Unit 2 RB Ventilation and Control Room Ventilation to isolate as designed. The SBGTS was already in
+operation for a scheduled surveillance. The previous event caused a momentary positive differential pressure
+until the RB Ventilation isolation dampers closed within 60 seconds and draw down the building within a two to
+three (2-3) minute period. This event was caused while operating the RB Ventilation system and caused by a
+sheared air line on the exhaust fan isolation damper system.
+• LER 254/2016-001-01, 1/ 12/16, Secondary Containment Differential Pressure Momentarily Lost Due to Air Line
+Failure (RWCU Hx Rm) (1/12/16) - This LER has the same cause and corrective actions as the current event.
+This event and the current event occurred three (3) days apart. Troubleshooting was still in progress from the
+1/12/16 event when the current 1/15/16 event occurred. Ongoing troubleshooting activities had not yet
+identified and corrected the deficient condition before the second event occurred.
+G. COMPONENT FAILURE DATA
+Failed Equipment: Male threaded brass pipe fitting
+Component Manufacturer: Unknown
+Component Model Number: N/A
+Component Part Number: N/A
+This event has not been reported individually to ICES, but was included in Failure report No. 321068 .
+NRG FORM 366A (04-2017) Page _5_ of _5_

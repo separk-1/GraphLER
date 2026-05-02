@@ -1,0 +1,236 @@
+Nebraska Public Power District
+Always there when you need us
+NLS2018018
+Apri120,2018
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2017-003-01
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2017-003-01.
+There are no new commitments contained in this letter.
+Dent, Jr.
+Vice President Nuclear-
+Chief Nuclear Officer
+/bk
+Attachment: Licensee Event Report 2017-003-01
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC - Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC -NRR Plant Licensing Branch IV via ICES entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+P.O. Box 98 / Brownville, NE 68321-0098
+Telephone: (402) 825-3811 / Fax: (402) 825-5211
+wvvw.nppd.com
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+,.p.J.l"~ REau<..,.,. Reported lessons learned are incorporated into the licensing process and fed back to
+.,". . %. LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+\• ~ . ~ • 1 } '0"', (See Page 2 for required number of digits/characters for each block) t ( o T -2 l n F fo 4 c 3 o ), i le U c . t S s. . R N es u o cl u e r a c r e @ Re n g rc u . la g t o o v r , y C an o d m m to is s t i h o e n , W De a s s k h in O g f t f o ic n e , r, D C O f 2 fi 0 c 5 e 5 5 o -0 f 0 I 0 n 1 fo , r o m r a b ti y o n e -m an a d il
+.,..,, ,,o· (See NUREG-1022, R.3 for instruction and guidance for completing this Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+•,.. * 1< • form http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1 022/r3/) d W is a p s la hi y n g a to c n u , rre D n C tl y 2 v 0 a 5 l 0 id 3 . 0M If B a c m on e t a ro n l s n u u s m e b d e r t , o th i e m p N o R se C m an a y i n n fo o r t m c a o t n io d n u c c t o o ll r e c s t p io o n n so d r o , e a s n d n o a t
+oerson is not reauired to resoond to the information collection.
+1. Facility Name 2. Docket Number !3. Page
+I
+Cooper Nuclear Station 05000298 1 of 4
+4. Title
+Mispositioned Control Room Emergency Filter System Supply Fan Damper Causes Loss of Safety Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year Facility Name Docket Number
+Number No. 05000
+Facility Name Docket Number
+05 26 17 2017 - 003 - 01 04 20 2018
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D 20.2201(b) D 2D.2203(a)(3)(i) D 5D.73(a)(2)(ii)(A) D 5D.73(a)(2)(viii)(A)
+1 D 20.2201(d) D 20.2203(a)(3)(ii) D 5D.73(a)(2)(ii)(B) D 5D.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D so.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 5D.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 5D.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 5D.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 5D.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 2D.2203(a)(2)(iv) D 5D.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) 181 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) D 5D.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+D 5D.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRG Form 366A
+12. Licensee Contact for this LER
+~censee Contact jrelephane Number (Include Area Code)
+Jim Shaw Licensina Manaaer ii (402) 825-2788
+13. Complete One Line for each Component Failure Described in this Report
+I
+Cause /I System i Component I Manufacturer ii Reportable To ICES! Cause System Component I Manufacturer ii Reportable To ICES
+i ! ii i
+B 11 JH DMP i i H260 i1 Y I ! !1
+14. Supplemental Report Expected Month Day I Year
+15. Expected Submission Date
+D !
+Yes (If yes, complete 15. Expected Submission Date) [Xl No I i
+~bstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+' On May 26, 2017, a Control Room Emergency Filter System (CREFS) supply fan damper was discovered to
+be partially open, limiting air flow to less than the Technical Specifications (TS) required flow. The
+configuration of the supply fan damper is to be fully open when the corresponding supply fan is in service.
+Cooper Nuclear Station (CNS) Operations personnel declared CREFS inoperable at 1105 and entered TS
+Limiting Condition for Operation 3.7.4, Condition A.
+Subsequent investigation revealed that the damper control arm was correctly positioned, however the T-
+, handle for the control arm was overtightened causing the control arm to bend upward which mispositioned the
+:
+damper from full open to partially open. The control arm for HV-AD-AD1021 B was replaced and post work
+testing performed to ensure the correct position of the damper. CREFS was declared operable at 0432 on
+1
+May 27, 2017.
+1 To prevent recurrence, CNS will modify the design of the both CREFS damper control arms and the means of
+securing in position to prevent control arm bending.
+There were no safety consequences associated with this condition.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidar,ce for completing this form used to impose an information collection does not display a currenlly valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUMBER NO.
+2017 - 003 - 01
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operations, 100 percent power, at the time of
+discovery; i.e., May 26, 2017.
+BACKGROUND
+The Control Room Emergency Filter System (CREFS) [EIIS:JH] provides a protected environment from
+which control room personnel can safely operate the plant following an uncontrolled release of radioactivity,
+hazardous chemicals, or smoke. CREFS maintains the Control Room Envelope (CRE) at a positive
+pressure with respect to the adjoining areas.
+The safety related function of CREFS includes a single high efficiency air filtration system for emergency
+treatment of outside supply air and a CRE boundary that limits the inleakage of unfiltered air. The system
+consists of a prefilter, a high efficiency particulate air filter [EIIS:FLT ], an activated charcoal adsorber
+[EIIS:ADS] section, a supply fan [EIIS:FAN], an emergency booster fan, an exhaust booster fan, and the
+associated ductwork [EIIS:DUCT], valves [EIIS:V] or dampers [EIIS:DMP], doors [EIIS:DR], barriers, and
+instrumentation.
+The CREFS is a standby system. Upon receipt of an initiation signal, CREFS automatically switches to the
+emergency bypass mode of operation to minimize infiltration of contaminated air into the CRE.
+CNS Technical Specifications (TS) 3.7.4 requires one supply fan to be operable to support CREFS
+operability.
+EVENT DESCRIPTION
+On May 26, 2017, at approximately 0321, CNS Operations personnel questioned air flow and differential
+pressure in the main control room. Subsequently, CREFS supply fan damper, HV-AD-AD1021 B, was
+discovered to be partially open limiting air flow. The configuration of HV-AD-AD1021 B is to be fully open
+when its corresponding supply fan, CREFS supply fan 1B , is in service. CREFS flow rate testing was
+conducted and determined actual air flow was 802 cubic feet per minute (cfm), less than the TS required flow
+of 810 cfm. Based on this information, Operations personnel declared CREFS inoperable at 1105 and
+entered TS Limiting Condition for Operation (LCO) 3. 7.4, Condition A, to restore CREFS to Operable within a
+completion time of seven days.
+!i
+Further investigation revealed that the control arm for HV-AD-AD1021 B was correctly positioned in the open
+' notch to position the damper open, however the control arm had been bent at both notches changing the
+position of the damper from full open to partially open.
+NRC FORM 366A (02-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(~QP•4Rlc/t,t°., \ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\~ .. . .. f . .l CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required to respond to, the infonmation
+collection.
+1. FACILITYNAME 2 DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUMBER NO.
+2017 - 003 - 01
+In 2012, both CREFS supply fan dampers (HV-AD-AD1021A and HV-AD-AD10218) were modified by
+adding ground level damper position control arms. Prior to 2012, the system design required operators to
+secure the damper positions by locking screws at an elevation above ground level requiring ladders or
+climbing. Due to safety concerns, the position control arms and associated linkages were installed to reach
+the damper elevation. This modification installed damper position controls at ground level with open and
+closed notches in the damper control arms.
+Just prior to this event on May 22, 2017, a corrective maintenance work order was implemented which
+replaced the damper control arms for both CREFS supply fan dampers as the original control arms, installed
+via the 2012 modification, were slightly bent. Prior to completion of this work, the newly installed control
+arms were identified as having been bent due to overtightening of the T-handles. It was determined that the
+damper control arms were intact and able to be locked in place as required to position the dampers. As
+such, the damper control arms were not replaced before CREFS was returned to service.
+The control arms are supported by unistrut with an open channel below which created a "valley" under the T
+handle control arm position securing point. The 2012 modified configuration was intended to prevent control
+arm motion and correctly position the dampers; however, it did not consider that if the T-handles are
+overtightened the control arms could bend.
+The control arm for HV-AD-AD10218 was replaced and post work testing performed to ensure the correct
+position of the damper. TS LCO 3.7.4 was exited and CREFS was declared operable at 0432 on May 27,
+2017.
+Additionally, Operations issued a Standing Order to perform applicable portions of two CREFS surveillance
+procedures if the CREFS supply fan dampers are manipulated to verify CREFS flow rate and CRE pressure
+relative to atmosphere. This action is to verify the dampers have not moved due to potential rod movement
+from the control arm becoming bowed.
+BASIS FOR REPORT
+CNS is reporting this event under 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an
+accident. CNS also reported this event to the Nuclear Regulatory Commission Operations Center per Event
+Notification 52771.
+SAFETY SIGNIFICANCE
+There were no safety consequences associated with this condition. The potential safety significance of this
+1
+event was low due to the limited duration the condition existed, the condition only slightly degrading CREFS
+flow below the operability limit, and the condition had no impact on the CRE boundary. CREFS flow was
+degraded due to supply fan 1B discharge damper being only partially open, when it was required to be fully
+open. Actual CREF system flow was 802 cfm, which was slightly below the required flow of 810 cfm. The
+total duration of inoperability of CREFs due to this condition was approximately 1.5 days, which is less than
+NRC FORM 366A (02-2018) Page 3 of 4
+L__ ______ -
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+·""' ......
+!~\ , LICENSEE EVENT REPORT (LER) l c e o s m so m n e s n ts le a r r e n g e a d r din a g re bu in r c d o e r n p o e r s a t t i e m d a te in t t o o t t h h e e In lic fo e r n m s a in ti g o n p S ro e c r e v s ic s e s an B d ra n f c e h d (T b - a 2 c k F4 to 3 ), in U d . u S s . t ry N . u S c e le n a d r
+~~...~...I. ;
+CONTINUATION SHEET
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+'*-, ·" lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a ·currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2 DOCKET NUMBER 3_ LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000-298 NUMBER NO.
+2017 - 003 - 01
+the seven day TS completion time. This condition did not cause an impact to the safety of the general public,
+nuclear safety, industrial safety, or radiological safety.
+CNS subsequently performed an engineering analysis which concluded that the CREFS safety design basis
+was met. The margin in unfiltered inleakage and filter efficiency provides a high degree of confidence that
+calculated doses would be below the regulatory limits for control room personnel even with the degraded
+supply air flow through CREFS supply fan 1B and supply fan damper HV-AD-AD1021 B. Furthermore, testing
+performed May 26, 2017, on the CRE in the emergency pressurization mode showed that CREFS met the
+administrative limit for positive pressure in the CRE. As such, this event is not considered a Safety System
+Functional Failure_
+CAUSE
+Design of the damper control arm positioning is susceptible to bending due to overtightening of the T
+handles.
+CORRECTIVE ACTIONS
+The damper control arm was replaced and post work testing performed to ensure correct position of the
+damper.
+To prevent recurrence, CNS will modify the design of the CREFS damper control arms and the means of
+securing in position to prevent bending and will provide for independent verification of position of the damper
+control arms. This action is being tracked in CNS' corrective action program.
+PREVIOUS EVENTS
+CNS has submitted the following Licensee Event Reports (LER) in the past five years related to CREFS
+supply fans. Both events resulted in a loss of safety function.
+1. LER 2016-009-00 - On December 7, 2016, the running CREFS supply fan was inadvertently turned
+off during the conduct of a surveillance procedure_ The root cause was attributed to human error.
+2. LER 2016-006-00- On October 23, 2016, CREFS supply fan 'A' experienced high vibration. The root
+cause was the preventive maintenance strategy was ineffective to ensure shaft to bearing
+engagement.
+NRC FORM 366A (02-2018) Page 4 of 4

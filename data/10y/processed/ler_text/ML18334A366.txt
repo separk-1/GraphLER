@@ -1,0 +1,216 @@
+™
+FENOC Perry Nuclear Power Plant
+PO. Box 97
+10 Center Road
+RrstEnergy Nuclear Operating Company Perry, Ohio 44081
+David 8. Hamilton 440-280-5382
+Vice President
+November 30, 2018
+L-18-257 10 CFR50.73(a)(2)(ii)(B)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory"Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440; License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2018-003, "Unanalyzed Condition Resulting
+from Unfused Alternating Current Control Circuits". There are no regulatory
+commitments contained in this submittal.
+If there are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager - Regulatory Compliance, at (440) 280-5415.
+Sincerely,
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2018-003
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region Ill Regional Administrator
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3160-0104 EXPIRES: 3/31/2020
+(04-2018)
+Estimated burden per ~ponse to comply with this mandaloly collection request BO h~urs.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated in1o the licensing process and fed back ID
+~<JP"...,,,., industry. Send comments regarding burden estimate to the lnfonmation Services Branch
+I • 0·.- .:, (See Page 2 for required number of digits/characters for each block) [T-2 F43), U.S. Nuclear Regulaloly Commission, Washingtcn, DC 20555-0001, or by e-mail
+• i 0 (See NUREG-1022, R.3 for instruction and guidance for completing this form t R o eg l u n l f a o t c c o ry ll ec A lS ff . a R ir e s s , ou N rc E e O @ B n - rc 1 .g 0 o 2 v 0 , 2 , an ( d 3 15 to 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a ff n ic a e g em of e n ln t ro a r n m d a tio B n u d a g n e d t,
+~
+http://www. nr c.g ov/readinq-rm/doc-collections/n uregs/staff/s r1 022/r3/ Washingtcn, DC 20503. If a means used ID impose an inrormation collection does not
+••••• display a currently vafid,.OMB conllol number, the NRC may not conduct or sponsor, and a
+person is not required, to respond to, the information 'collection.
+1. Facility Name 2. Docket Number 3.Page
+Perry Nuclear Power Plant 05000-440 1 OF 3
+- . '
+'
+4. Title:
+Unanalvzed Condition Resulting from Unfused Alternating Current Control Circuits
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+l Sequenfial I Rev Facility'Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+10 04 2018 2018 - 003 - 00 11 30 2018
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+0 20.2201(b) 0 20.2203(a)(3)(i) 0 50. 73(a)(2)(ii)(A) 0 50. 73(a)(2)(viii)(A)
+0 20.2201(d) 0 20.2203(a}(3)(ii) 181 50:73(a)(2)(ii)(B) 0 50. 73(a)(2)(viii)(B)
+1
+0 20.2203(a)(1) 0 20.2203(a}(4) D 50.73(a)(2)(iii) D 50. 73(a)(2)(ix)(A)
+0 20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) 0 50. 73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) 0 50.36(c)(1 )(ii)(A) 0 50.73(a)(2)(v)(A) 0 73.71 (a)(4)
+0 20.2203(a)(2)(iii). 0 50.36(c)(2) 0 50.73(a)(2)(v)(B) 0 73. 71 (a)(5)
+0 20.2203(a)(2)(iv) 0 50.46(a)(3)(ii) 0 50. 73(a)(2)(v)(C) 0 73.77(a)(1)
+100 0 20.2203(a)(2)(v) 0 50. 73(a)(2)(i)(A) ·. D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50. 73(a)(2)(i)(B} D 50. 73(a)(2)(vii) D 73.77(a)(2)(ii)
+,,,'. _ ''"':.t{1i:ttl ,._,., ,3:i .0 50.73(a)(2)(i)(C) 0 Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact 'Telephone Number (Include Area Code)
+George Dujanovic - Regulatory Compliance 440-280-5200
+I
+13. Complete One Line for Each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System I Component Manufacturer Reportable to ICES
+1·,
+I.'.
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) 18] No
+- ..
+Abstract (Limit to 1400 spaces, i.!!., approximately 14 single-spaced typewritten lines)
+During a recent NRC inspection, it was discovered that Perry Nuclear Pow~r Plant (PNPP) has an unfused circuit that crosses
+multiple safety-related fire zones. The· resulting extent of condition review found an additional two components with unfused circuits
+also crossing multiple safety-related fire zones. Without overcurrent protection for these circuits, the potential exists that an initial fire
+event affecting these circuits could cause short circuits that would cause excessive current through the circuits beyond the capacity
+rating of the conductors. This could lead to a secondary fire in another plant area where the circuits are routed, challenging the ability
+to achieve and maintain safe shutdown. Compensatory fire watches have been established for the areas affected. Planned .
+corrective actions include plant modifications to install ovei'current protection in the. affected circuits.
+These events are being reported under 10CFR50.73(a)(2)(ii)(B) as an unanalyzed condition. Notifications were made under
+10CFR50.72(b)(3)(ii)(B), Unanalyzed Condition, on October 4, 2018 (EN 53644) and October 19, 2018 (EN 53675).
+The cause of the event was due to a legacy issue stemming from the design and installation of the systems, prior to initial plant
+startup in 1986, that led to the vulnerability to cause a secondary fire.
+~
+The postulated events are considered to be of very low safety significance.
+NRC FORM 366 (04-2018)
+,-,
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-201,8.); --.., Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+;C ..... ' ' I l . l LICEN C S O E N E T I E N V U E A N T T IO R N E P SH O E R E T T ( LER) 1 l r C e ,e o s g s m a o r m n d s i i n s l s g e i o arn b n u , I r e d W d e n a a s r e e h s in i t n i g m c t o o a r n t p e , o t Ir D o a C t t e h d 2 e 0 in I 5 n t 5 o fo 5- t r h m 0 e 0 a l 0 t i i c 1 o e n , n o s S r in e b g r y v p i Ir e c oc - e m s e a s i B s l r t a a o n n d c ln h fe f o ( d T c o - b 2 ll a e c F c k 4 ts 3 t . o R ), e in U s d . o S u u s . r t c r N y e u . @ c S l n e e r a n c r d . g R- c o e o v g m , u a m l n a e d to n ry t t o s
+~ the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collectiIo n does not display a currently. valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/1r,e-adinq-rm/doc-collections/nuIr egs/staff/sr1022/r3/ sponsor, and a person is not
+I
+r equired to 1r,e spond to, the information collection.
+1. FACILITY NAME 2.DOCKET NUMBER 3.LER NUMBER
+'
+SEQUENTIAL REV
+YEAR
+1- Perry NuclearPower Plant 05000-440 NUMBER NO.
+- -
+2018 003 00
+NARRA! TIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+I
+INTRODUCTION ~ r_
+During a recent NRC inspection, it was discovered that Perry Nuclear Power Plant (PNPP) has an unfused
+I
+circuit that crosses multiple safety-related fire zones. The resulting extent of condition review found an
+I I
+additional two components with unfused circuits also crossing multiple safety-related fire zones. Without
+I I
+overcurrent protection for these circuits, the potential exists that an initial fire event affecting these circuits
+I I
+could cause short circuits that would cause excessive current through the circuits beyond the capacity rating
+I
+of the conductors. This could lead to a secondary fire in another plant area where the circuits are routed,
+I I I
+challenging the ability to achieve and maintain safe shutdown. Compensatory fire watches have been
+established for the areas affected. Planned corrective actions include plant modifications to install
+I
+overcurrent protection in the affected circuits.
+EVENT DESCRIPTION
+On October 4, 2018, with PNPP in MODE 1 at 100% rated thermal power and during the 2018 NRC Fire
+PrI otection Triennial Inspection, it was determined that the potential exists for a secondary firI e to occur due to
+an unfused alternating current (AC) circuit [IC] associated with the Division 1 Diesel Generator 1A Ventilation
+I
+Fan [VJ]. During a focused extent of condition investigation of safety-related Heating, Ventilation and Air
+I
+Conditioning (HVAC) drawings on October 19, 2018, two additional unfused circuits were identified;
+I I
+0M23C0002A, Motor Control Center (MCC) Switchgear and Miscellaneous Area HVAC Recirculation Fan
+I
+[VI], and 0M24C0001A, Battery Room Exhaust Fan [VI]. Based on the additional findings, an expanded
+scope, that included a sample of non-HVAC safety-related 480V MCC fed circuits, was performed with no
+I
+additional unfused circuits found.
+I
+'{1/ithout overcurrent protection for these circuits, the potential exists that an initial fire event affecting these
+I
+circuits could cause short circuits that would cause excessive current through the circuits beyond the capacity
+rating of the conductors. This could lead to a secondary fire in another plant area where the circuits are
+I I I I
+routed, challenging the ability to achieve and maintain safe plant shutdown.
+Compensatory fire watches were implemented for the affected fire areas.
+These conditions are being reported under 10CFR50.73(a)(2)(ii)(B) as unanalyzed conditions. Notifications
+I
+J
+were made under 10CFR50.72(b)(3)(ii)(B), Unanalyzed Condition, on October 4, 2018 (EN 53644) and
+October 19, 2018 (EN 53675).
+CAUSE OF EVENT
+The cause of the event was due to a legacy issue stemming from the design and installation of the systems,
+prior to initial plant startup in 1986, that led to the vulnerability to cause a secondary fire.
+.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+,,�..,..,.',. Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+. regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+.... CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+\""9°/ the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+�. · Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currenHy valid 0MB control number, the NRC may not conduct ot
+http:f/www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/ sponsor, and a person is · not required to respond to, the information collection.
+·1. FACILITY NAME 2.DOCKET NUMBER 3.LER.NUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000-440 NUMBER NO.
+2018 003 00
+NARRATIVE
+EVENT ANALYSIS
+Plant design .in regard to IEEE cable separation, divisional independence, fire detection and suppression
+capabilities, coupled with Appendix R circuitry/method protection and Fire Protection procedural guidance
+provides reasonable assurance that post-fire safe shutdown will be achieved and maintained for the identified
+conditions. Additionally, the suspect AC control cables are insulated in cross-linked thermosetting
+polyethylene. Thermoset insulation as opposed to thermoplastic insulation can withstand higher temperatures
+during longer periods of time and burns at lower rates. Based on the expectation that any secondary fire
+potential would be very localized and limited (low voltage and contained to the affected cable/raceway), in
+addition to the aspects of the plant design and operation, there is a reasonable assurance that post-fire safe
+shutdown will be achieved and maintained given the postulated failure mode and the events that would have
+to occur in order to achieve .the postulated condition.
+The overall risk of this condition is judged to be very small, based on the consequential impact relative to the
+aforementioned aspects of plant design and the expected response to a fire event. Correspondingly, as at
+least one method of safe shutdown would remain available for any potential fire, this condition would be
+expected to be of very low safety significance.
+CORRECTIVE ACTIONS:
+Compensatory fire watches have been implemented for the affected fire areas. Planned corrective actions
+include plant modifications to install over-currenfprotection in the respective equipment control circuitry.
+PREVIOUS SIMILAR EVENTS:
+On October 17, 2013, at 1300 hours with the plant in mode 1, a review of industry operating experience
+regarding the impact of 1.,mfused Direct Current ammeter circuits in. the Control Room determined the
+described.condition to be applicable to the Perry Nuclear Power Plant resulting in a potentially unanalyzed
+condition with respect to 10 CFR 50 Appendix R analysis requirements. The original plantwiring design and
+associated safe shutdown analysis for the Class 1 E batteries control room ampere indications did not include
+overcurrent protection features to limit the fault current. This event was reported under 50.7 3(a)(2)(ii)(B) as an
+··
+unanalyzed condition.
+On June 19, 2014, with the plant in mode 1, a review of industry operating experience regarding the impact of
+unfused. Direct Current (DC) circuits determined the described condition to be applicable to the Perry Nuclear
+Power Plant related to the Turbine Emergency Bearing Oil Pump, Reactor Feed Pump Turbine 'A' Emergency
+Lube Oil Pump, Turbine Emergency Seal Oil Pump, and the Reactor Feed Pump Turbine 'B' Emergency
+Lube Oil Pump circuits. The cause was determined to be latent design deficiency in the identified circuits
+dating back to original design and installation that was not identified during the design review for 1 O CFR 50
+Appendix R Section 111.G. Thi� event was reported under 50.73(a)(2)(ii)(B) as an unanalyzed condition:
+COMMITMENTS
+None
+NRC FORM 366A (04-2018) Page 3 of 3

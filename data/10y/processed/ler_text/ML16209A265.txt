@@ -1,0 +1,197 @@
+Exelon Generation ..
+10CFR50.73
+LG-16-083
+July 27, 2016
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 2
+Renewed Facility Operating License No. NPF-85
+NRC Docket No. 50-353
+Subject: LEA 2016-001-00, Manual Actuation of the Reactor Protection System
+This Licensee Event Report (LEA) addresses a manual actuation of the reactor protection
+system (RPS) following a trip of both reactor recirculation pumps. The pump trips occurred
+during testing of a modification to the Plant Process Computer (PPC). The manual scram was
+directed by the unexpected/unexplained change in core flow procedure (OT-112) due to the
+tripping of the reactor recirculation pumps at power. An error in the modification wiring design
+caused an actuation of the reactor recirculation pump trip relays.
+This LEA is being submitted pursuant to the requirements of 10CFR50.73(a)(2)(iv)(A).
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert 8. Dickinson at (610) 718-3400.
+Respectfully, '"
+~lvlfl-
+Richard W. Libra
+Site Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+digits/characters for each block)
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 2 05000353 1 OF 3
+4. TITLE
+Manual Actuation of the Reactor Protection System When Critical Due to Wiring Design Error
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR 05000
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+06 01 2016 2016 - 001 - 00 07 27 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) S
+N
+p
+R
+e
+C
+c i
+F
+fy
+o
+i
+r
+n
+m
+A
+3
+b
+6
+s
+6
+tr
+A
+a ct below or in
+12. LICENSEE CONTACT FOR THIS LER
+FACILITY NAME TELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance 610-718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B AD P G080 Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+A manual actuation of the reactor protection system (RPS) when the reactor was critical was initiated
+during Plant Process Computer (PPC) modification testing at power. A modification wiring design error
+caused an actuation of both reactor recirculation pump (RRP) trip relays when a circuit isolation switch
+was closed. The direct cause of the event was a circuit wiring design error implemented in the field that
+caused energization of the RRP adjustable speed drive (ASD) trip coils. The root cause of the event was
+a failure of station personnel to appropriately apply Technical Human Performance (THU) error
+prevention techniques to identify the design error and prevent its installation and testing as part of the
+modification. The isolation switch for the mis-wired circuit was opened to enable reset of the ASD trip
+coils. The 2A and 2B ASDs were returned to service. The corrective actions are to change the circuit
+design to correct the design error. The human performance aspects of the event will be addressed
+through several management actions that include reinforcement of proper standards and behaviors
+related to THU error techniques with station personnel.
+NRC FORM 366 (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Limerick Generating Station, Unit 2 05000353 2 OF 3
+2016 - 001 - 00
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 2 was in Operational Condition (OPCON) 1 (Run) at approximately 100 percent power
+with PPC modification testing in progress. There were no structures, systems or
+components out of service that contributed to this event.
+Description of the Event
+On Wednesday, June 1, 2016, Limerick Unit 2 was operating at 100 percent power with
+PPC (EIIS:CPU) modification testing in progress. The modification testing directed closure
+of a circuit isolation switch which resulted in the trip of both RRPs (EIIS:P) due to an error in
+the modification wiring design. The control room supervisor (CRS) entered the procedure
+for an unexpected/unexplained change in core flow (OT-112) due to the trip of both RRPs.
+The procedure directed a manual actuation of RPS.
+All control rods inserted and safety significant systems functioned as expected. Reactor
+level initially increased then decreased to approximately +0 inches which is less than the
++12.5 inch low level setpoint for RPS. Level then stabilized at normal level. Nuclear Steam
+Supply Shutoff System Groups IIA and IIB isolations actuated on low level at +12.5 inches.
+The digital feedwater level control system functioned as designed. Reactor pressure vessel
+pressure was controlled by the main steam bypass valves.
+The investigation of the event identified that a wiring design error caused an unplanned
+actuation of both RRP trip relays when a circuit isolation switch was closed as directed by
+the modification acceptance test procedure.
+A four-hour ENS notification (#51968) was completed on Wednesday, June 1, 2016, at 1041
+hours as required by 10CFR50.72(b)(2)(iv)(B) for an actuation of RPS when the reactor is
+critical. This LER is being submitted pursuant to the requirements of
+10CFR50.73(a)(2)(iv)(A) for a manual actuation of RPS.
+Analysis of the Event
+There was no actual safety consequence associated with this event. The potential safety
+consequences of this event were minimal. All control rods were verified to be fully inserted
+following the RPS actuation. The 2A RRP was restarted at 1548 hours on June 1, 2016 and
+the 2B RRP was restarted at 0326 hours on June 2, 2016.
+The PPC replacement modification was in progress and computer input points were being
+transferred from the original computer to the new computer. When the second RRP related
+computer point was placed in service by closure of a circuit isolation switch both 2A and 2B
+RRP trip relays were energized due to an error in the wiring design.
+NRC FORM 366A (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(01-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Limerick Generating Station, Unit 2 05000353 3 OF 3
+2016 - 001 - 00
+NARRATIVE
+Cause of the Event
+The direct cause of the event was a circuit wiring design error that was implemented in the
+field and caused energization of the RRP ASD trip coils.
+The root cause of the event was a failure of station personnel to appropriately apply THU error
+prevention techniques to identify the design error and prevent its installation and testing as part of the
+modification.
+Corrective Actions Completed
+The isolation switch for the mis-wired circuit was opened to enable reset of the ASD trip
+coils.
+The 2A and 2B ASDs were returned to service.
+Corrective Actions Planned
+The wiring design error will be corrected and the Modification Acceptance Test will be
+revised to ensure the change is correctly tested per the requirements of the Acceptance
+Test Criteria.
+The human performance aspects of the event will be addressed through several
+management actions that include reinforcement of proper standards and behaviors
+related to THU error techniques with station personnel.
+Previous Similar Occurrences
+There was no previous RPS actuation in the past five years due to modification testing.
+Component data
+System: AD Reactor Recirculation System
+Component: P Pump
+Component number: 2A-P201-DR
+Component name: Reactor Recirculation Pump
+Manufacturer: G080 General Electric Company
+Model number: 5K46385AA1
+NRC FORM 366A (01-2014)

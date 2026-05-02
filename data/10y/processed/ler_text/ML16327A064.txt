@@ -1,0 +1,257 @@
+\_
+,, 7'
+Exelon Generation®
+~--
+Oyster Creek
+Route 9 South
+P.O. Box 388
+Forked River, NJ 08731
+10 CFR 50.73
+RA-16-094
+November 16, 2016
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRG Docket No. 50-219
+Subject: Licensee Event Report (LER) 2016-004-00, "Technical Specification
+Violation Due to Main Steam Safety Valve Setpoint Discovered Out of
+Tolerance".
+Enclosed is LER 2016-004-00 reporting the Technical Specification violation due to a
+main steam safety valve setpoint discovered out of tolerance during as-found testing,
+which occurred on September 29, 2016.
+This event did not affect the health and safety of the public or plant personnel. This event
+did not result in a safety system functional failure. There are no regulatory commitments
+made in this LER submittal.
+Should you have any questions concerning this report, please contact Mike McKenna,
+Regulatory Assurance Manager, at (609) 971-4389.
+Respectfully,
+Michael Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRG Form 366, LER 2016-004-00
+cc: Administrator, NRG Region I
+NRG Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRG Project Manager -Oyster Creek Nuclear Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~'1>.y>-"'111'°11<.c,., Reported lessons learned are incorporated into the licensing process and fed back to industry.
+I ~ LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+\ - Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+""'+., ...... +0#
+Affairs, NEOB-10202, (315(}0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currenfly valid OMB control
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3L} number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek 05000219 1 OF 4
+4. TITLE
+Technical Specification Violation Due to Main Steam Safety Valve Setpoint Discovered Out of Tolerance
+,
+5. EVENT DATE 6. LER NUMBER I 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+- - FACILITY NAME DOCKET NUMBER
+09 29 2016 2016 004 00 11 15 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Checkaffthatapp/y)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N
+D D D D
+20.2203(a)(1> 20.2203(a)(4) 5o. 13(a><2>crn> 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+1 O. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2}(v)(A) 13.11(a)(4)
+D D D D
+20.2203(a)(2)(rn> 5o.36(c)(2) 50.73(a)(2)(v)(B) 13. 11 (a}(5)
+D D D D
+20.2203(a)(2)(iv) 5o.46(a)(3)(ii) 50.73(a}(2)(v)(C) 13.11(a)(1>
+D D D D
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.11(a)(2)(i)
+D 12] D D
+20:2203(a)(2)(vi) 50. 73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(ii)
+..
+,,. ·-· D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRC Form 366A
+.•
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Michael McKenna, Regulatory Assurance Manager 609-971-4389
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TO EPIX
+x SB RV DRESSER y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 l2J SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+Oyster Creek Nuclear Generating Station was in Cold Shutdown on 09/29/16 for Refueling Outage 1 R26 when a
+condition was discovered during routine laboratory as-found testing that a Safety Valve (SV) (EllC:RV) removed on
+09/27/16 as part of refueling outage maintenance activities did not meet required setpoint tolerances. There were no
+structures, systems or components out of service that contributed to this event.
+In accordance with American Society of Mechanical Engineers (ASME) Operation and Maintenance (O&M) Code
+requirements, two (2) of the nine (9) SVs installed in the plant were scheduled for removal during the refueling
+outage (1 R26) and sent for as-found laboratory testing. Based on information received from the laboratory
+performing SV as-found testing, Site Engineering personnel determined that SV setpoint deficiencies existed with
+one (1) of the two (2) SVs removed and _sent for testing. Per ASME O&M Code Mandatory Appendix I Section I-
+1320, two additional SVs were removed from the plant and sent for as-found testing and both met the required
+setpoint acceptance criteria. One (1) of the four (4) SVs tested exceeded the setpoint tolerance of +/-3% (+ /-36 psig)
+as specified in the Technical Specifications {TS), Paragraph 2.3.F. This resulted in a condition prohibited by TS and
+is considered reportable pursuant to 10 CFR 50. 73(a)(2){i)(B).
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(06-2016}}
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT {LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www. nr e.gov/reading-rm/doc-col lections/nuregs/staff/ s r1 022/r3l) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-219 YEAR NUMBER NO.
+2016 - 004 00
+NARRATIVE
+Unit Condition Prior to Discovery of the Event
+Oyster Creek Nuclear Generating Station (OCNGS) was in Cold Shutdown on 09/29/16 for Refueling Outage
+1 R26 when a condition was discovered during routine laboratory as-found testing that a Safety Valve (SV)
+removed on 09/27/16 as part refueling outage maintenance activities did not meet required setpoint tolerances.
+There were no structures, systems or components out of service that contributed to this event.
+Description of Event
+In accordance with American Society of Mechanical Engineers (ASME) Operation and Maintenance (O&M) Code
+requirements, two (2) of the nine (9) SVs installed in the plant were scheduled for removal during the refueling
+outage (1 R26) and sent for as-found laboratory testing. Based on information received from the laboratory
+performing SV as-found testing, Site Engineering personnel determined that SV setpoint deficiencies existed with
+one (1) of the two (2) SVs that were removed and sent for testing. Pursuant to ASME O&M Code Mandatory
+Appendix I Section 1-1320, two (2) more SVs were removed from the plant and sent for as-found laboratory testing
+and both met the required setpoint acceptance criteria. One (1) of the four (4) SVs tested exceeded the setpoint
+tolerance of +/-3% (+/-36 psig) as specified in the Technical Specifications {TS), Paragraph 2.3F. One (1) valve,
+V-1-164 (Serial number BW05085) was determined to have an as-found setpoint value of-3.3% (-40 psig). The
+ASME Boiler and Pressure Vessel (B&PV) Code stipulates that relief valves (pressure relief function) have an as
+tound setpoint tolerance of +/- 3%.
+This report is being submitted pursuant to 1O CFR 50.73(a)(2)(i)(B) for a condition prohibited by Technical
+Specifications (TS), since one (1) of the SVs removed and tested exceeded its allowable TS setpoint tolerance
+of+/- 36 psi(+/- 3%). The setpoint for the one (1) SV was found out-of- tolerance after removal from operation.
+The safety limit was not exceeded. The applicable transient analysis was bounded by previous analysis results
+and, therefore, the safety limit would not have been exceeded.
+Equipment Description
+There are a total of nine (9) SVs installed to prevent failure of the Reactor Pressure Vessel (RPV) on an over
+pressurization event (Code-required - refer to ASME B&PV Code). Each valve is designed to limit RPV
+pressure to 1375 psig (110%) with a Main Steam Isolation Valve closure while operating at 1930 MWt, under
+the conditions where the: '
+• Drywell Recirculation Pumps fail to trip
+• Turbine Bypass valves fail to open
+• Isolation Condensers fail to initiate
+• Electromatic Relief Valves fail to open
+These conditions assume a reactor SCRAM on High Flux where all nine (9) SVs are required to turn the
+pressure transient. The ASME B&PV Code allows an as-found +/- 3% of setpoint pressure variation in the lift
+point of the valves. Four (4) out of nine (9) SVs have a setpoint of 1212 psig, and the remaining five (5) out of
+nine (9) valves have a setpoint of 1221 psig.
+Analysis of Event
+NRC FORM 366A (06-2016) Page _2_ of _!._
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch {T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an infonmation collection does not display a currently vaiid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the infonmation
+http://www. nrc. gov/reading-rm/doc-col lections/nuregs/staff/s r1 022/r3l) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-219 YEAR NUMBER NO.
+2016 - 004 - 00
+NARRATIVE
+There was no actual safety consequences associated with this event.
+The ASME B&PV Code requires that the RPV (EllS: RCT} be protected from overpressure during upset
+conditions.by self-actuated relief valves. As part of the nuclear pressure relief system, the size and number of
+SVs are selected such that the peak pressure in the nuclear system will not exceed the ASME Code limits for
+Reactor Coolant Pressure Boundary. The nine (9) installed SVs discharge steam directly to the Drywall. The
+SVs are located on the two main steam lines (EllS: SB) within the Drywell. The SVs are spring-actuated safety
+valves.
+During Cycle 25 operations, there were no plant transients that required SV operation. The as-found setpoint
+for the one (1) SV that tested outside its TS allowable range was low. Even though the valve had setpoint
+below the - 36 psi {-3%} TS limit, the valve would have functioned properly to provide pressure relief capability.
+An evaluation of the condition with regard to the Overpressure Protection Analysis does not have to be
+performed since the nine (9) valves would have limited overpressure to below 110% (1375 psig) of design
+pressure (1250 psig). The Bases of TS 4.3E states that: " ... with all safety valves set 36 psig higher the safety
+limit of 1375 psig is not exceeded."
+This event is not considered risk significant. The applicable transient was bounded by previous analysis results ·
+therefore the safety limit would not have been exceeded.
+This event is reportable under 10 CFR 50.73(a)(2)(i)(B)
+Cause of Event
+The cause of SV being outside of its allowable as-found setpoint is attibuted to setpoint drift. The ASME Code
+acknowledges setpoint drift by requiring the as-left setpoint to be +/- 1% and allowing the as-found setpoint to
+be +/-3%. [The TS specify that the testing is done per TS 4.3C.]
+Corrective Actions
+In accordance with ASME O&M Code Mandatory Appendix I Section 1-1320, two (2) more SVs were removed
+from the plant and sent for as-found laboratory testing. Pursuant to ASME Code requirements all four (4) SVs
+that were removed during 1 R26 refuel outage were replaced with refurbished SVs that met the Technical
+Specification 4.3E requirement of an as-left setpoint tolerance of +/- 1% .
+Assessment of Safety Consequences
+The SV being outside of the allowable as-found setpoint did not directly impact the valve's ability to maintain
+RPV pressure below the 1375 psig limit. The valve lifted at 1181 psig during testing, or 40 psig lower than the .
+ASME Code setpoint, and is no longer installed in the plant. In accordance w,ith the plant's TS, an analysis
+was performed which shows that with all nine (9) safety valves set 36 psig higher, the safety limit is not
+exceeded.
+NRC FORM 366A (06-2016) Page_3_ of _4_
+..
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-219 YEAR NUMBER NO.
+2016 - 004 00
+NARRATIVE
+Updated Final Safety Analysis Report (UFSAR) Section 5.2 states this analysis is performed each fuel cycle
+and the results reported in the supplemental reload licensing report. As the SVs present distinctly different
+concerns than those related to the relief valves, the plant's TS separately discuss the actions to be taken upon
+inoperability. The actuation of an SV will be immediately detectable by an observed increase in drywall
+pressure. Further confirmation can be gained by observing reactor pressure and water level. Operator action in
+response to these symptoms would be taken regardless of the acoustic monitoring system status, used to alert
+control room operators of a SV which is stuck open.
+A review of Bases for TS Section 3.13 was performed to ensure that the issue was not indicative of a common
+mode failure. After receiving the results of the SV as-found testing, two (2) additional valves were removed for
+laboratory testing, one (1) with a setpoint 1221 psig setpoint, and one (1) with a setpoint of 1212 psig. Both
+valves were confirmed to meet the required as-found setpoint tolerances.
+Additional Information:
+A. Failed Components:
+One Main Steam Line SV determined to have setpoint out-of-tolerance.
+B. Previous Similar Events:
+A similar event was identified in October 2005 and reported under LER 2005-005-00. In that specific event,
+three (3) SVs failed to meet as-found testing. At that time, the plant's TS required SVs setpoint to have a
+tolerance of+/- 1%. In 2006 OCNGS TS were revised (reference License Amendment No. 261) to align
+with ASME Code requirements and the lift setpoint tolerances were changed to reflect a +/-3% variation
+(+/- 36 psi) for each valve.
+C. Identification of Components referred to in this Report:
+Components IEEE 805 System ID IEEE 803A Function
+Safety Valves EllS-SB EllC-RV
+Reactor Pressure Vessel EllS-RCT EllC-RPV
+NRC FORM 366A (06-2016) Page _4_ of _4_

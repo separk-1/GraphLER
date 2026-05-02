@@ -1,0 +1,198 @@
+FENOC PerryNuclearPowerPlant
+P.O. Box97
+10CenterRoad
+Perry, Ohio44081
+FirstEnergyNuclearOperatingCompany
+DavidB. Hamilton 440-280-5382
+VicePresident
+March 28, 2018
+L-18-100 10CFR50.73(a)(2)(v)(D)
+10CFR50.73(a)(2)(i)(B)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2018-001, "Loss of Safety Function and
+Violation ofTechnical Specifications due to diode failure". There are no regulatory
+commitments contained in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Nicola Conicella, Manager - Regulatory Compliance, at (440) 280-5415.
+Sinpetiely,
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2018-001
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III Regional Administrator
+Enclosure
+L-18-100
+LER 2018-001
+NRCFORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessonslearned areincorporated intothelicensing process andfed backtoindustry.
+SendcommentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S.
+(SeePage2forrequirednumberofdigits/charactersforeachblock)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-
+10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameansused
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform toimposean informationcollectiondoes notdisplayacurrentlyvalidOMBcontrolnumber,the
+NRCmaynotconductorsponsor, and a person isnotrequiredtorespondto,theinformation
+http.7/www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/
+collection.
+1.FACILITYNAME 2. DOCKETNUMBER 3.PAGE
+Perrv Nuclear Power Plant 05000-440 1 OF
+4.TITLE:
+Loss ofSafety Function and Violation ofTechnical Specifications due to diode failure
+5.EVENTDATE 6. LERNUMBER 7.REPORTDATE 8.OTHERFACILITIESINVOLVED
+SEQUENTIAL REV FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR 05000
+FACILITYNAME DOCKETNUMBER
+11 06 2016 2018 - 001 - 00 28 2018
+05000
+9.OPERATINGMODE 11.THIS REPORTISSUBMITTEDPURSUANTTOTHEREQUIREMENTSOF10CFR§: (Checkallthatapply)
+20.2201(b) □ 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10.POWERLEVEL □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) □ 50.36(c)(2) □ 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(C) D73.77(a)(1)
+100
+□ 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) □ 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+itLs-' .V--"J 50.73(a)(2)(i)(C) OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFORTHISLER
+LICENSEECONTACT: TELEPHONENUMBER(IncludeAreaCode)
+Tony Kledzik- Regulatory Compliance 440-280-6188
+13.COMPLETEONELINEFOREACHCOMPONENTFAILUREDESCRIBEDINTHISREPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U RER REP T O O R E T P A I 3 B X LE CAUSE SYSTEM COMPONENT FA M C A T N U U RER REP T O O R E T P A I B X LE
+B EK RLY A160
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+□ YES(Ifyes, complete 15. EXPECTEDSUBMISSIONDATE)
+DATE
+ABSTRACT (Limitto1400spaces,i.e.,approximately15single-spacedtypewrittenlines)
+On November6, 2016, while the plantwas at 100 percent rated thermal power, during logic system testing ofthe
+Division 2 Diesel Generator(DG), the DG control power breakers tripped. This resulted in loss ofcontrol powerto the
+Division 2 DG. Itwas later discovered that a shorted diode, in parallel with a control circuitry relay, had caused the
+control power breakers to trip.
+The NRC laterdetermined thatdue to the degradation ofthe diode, the Division 2 DG had been inoperable sinceApril of
+2015 when this particular portion ofthe control circuitry was lastenergized. This resulted in an operation orcondition
+prohibited by the plants technical specifications as the DG was inoperable for longerthan its 14 day allowed outage
+time. In addition, during this time period, the Division 1 DG was inoperable atvarious timesforsurveillance testing and
+maintenance, resulting in a loss ofsafety function for both DG's being inoperable atthe same time. The cause ofthis
+eventwas a manufacturing defect in the diode and inadequate design controls overthe DG control circuitry. Corrective
+actions included removal ofthe diodes from both Division 1 and 2 DG control powercircuitand a review of pastdesign
+changes to verify failure modes have been considered forany newcomponents. The safety significance ofthis event
+was determined to be of lowto moderate safety significance. This event is being reported under50.73(a)(2)(i)(B) foran
+Operations or Condition Prohibited byTechnical Specifications and under 50.73(a)(2)(v)(D) fora Loss ofSafety
+Function.
+NRCFORM366(06-2016)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+04-2017) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENTREPORT(LER) commentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.qov/readinq-rm/doc-collections/nureas/staff/sr1022/r3/ NRCmay notconductorsponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant Unit 1 05000-440 NUMBER NO.
+2018 - 001 00
+NARRATIVE
+Energy Industry Identification System (EMS) codes are identified in the text as [XX].
+INTRODUCTION
+On November6, 2016, while the plantwas at 100 percent rated thermal power, during pneumatic logic board
+functional testing with the Division 2 Diesel Generator (DG) [DG] inoperable for maintenance, the DG control
+power breakers [72] tripped. This resulted in loss ofcontrol powerto the Division 2 DG. Itwas later
+discovered that a shorted diode, in parallel with control circuitry relays [RLY], had caused the control power
+breakers to trip. Past inoperability from this degraded diode resulted in a loss ofsafety function and a
+condition prohibited by technical specifications.
+EVENT DESCRIPTION
+On November 1, 2016, at 0400 hours the Division 2 DG was declared inoperable forscheduled maintenance.
+On November6, 2016, during the pneumatic logic board functional check, the DG control power breakers
+tripped. Itwas later discovered thata shorted diode (Allen Bradley 199-FSMZ-1 flyback diode), in parallel
+with a control circuit relay, had caused the control power breakers to trip.
+This portion ofthe control circuitrywas lasttested in April of2015.
+On June 5, 2017, the NRC issued inspection report"Perry Nuclear Power Plant—NRC Inspection Report
+05000440/2017009 And PreliminaryWhite Finding" (ML17156A750) which included the following statement:
+"The Division 2 Standby Diesel Generatorwas inoperable and unable to perform its emergency startfunction
+from April 2, 2015, until the emergency startdiode was replaced and the Division 2 Standby Diesel Generator
+was returned to service on November 8, 2016, which was longerthan the Technical Specification allowed
+outage time of 14 days."
+On August24, 2017 the NRC issued inspection report"Perry Nuclear Power Plant—Final Significance
+Determination ofa White Finding and Notice OfViolation; NRC Inspection Report 05000440/2017010 and
+Assessment Follow-Up Letter" (ML17236A187) which made the following statement: "The diode in the diesel
+generatoremergency start circuitfailed the nexttime the emergency start circuitwas energized afterthe April
+2015 test. The NRC determined there was no credible degradation mechanism thatwould degrade the diodes
+while they were not energized. Therefore, we concluded the diode would have failed the nexttime the circuit
+was energized, independentofthe time that had elapsed."
+Based upon the NRC's position as documented in the aforementioned inspection reports, the Division 2 DG
+had been inoperable from April 2, 2015, until November8, 2016, and as such an LER is required fora
+condition prohibited by the plantstechnical specifications. The resultant inoperabilitywas a violation of
+Technical Specification (TS) 3.8.1 "AC Sources-Operating" forexceedance ofthe 14 day action to restore the
+DG to operability. In addition, during this time period, the Division 1 DG was inoperable atvarious times for
+surveillance testing and maintenance, resulting in a loss ofsafetyfunction for both Division 1 and Division 2
+DG's being inoperable at the same time.
+Page 2 of3
+NRCFORM366A (06-2016)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT(LER)
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRCmay notconductorsponsor, and a person is notrequired to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant Unit 1 05000-440 NUMBER NO.
+2018 - 001 00
+NARRATIVE
+CAUSE
+Two rootcauses were identified forthe diode failure impacton the Division 2 DG startcircuitry. Based on
+failure analysis, itwas concluded thatthe failure in November2016 was the resultofa diode manufacturing
+defect. The second rootcause was thata potential failure mechanism was introduced without specifically
+considering the effects ofa shorted diode on the control circuitry ofthe diesel generator. Itwas later
+determined thatthe diodes were enhancements to the circuit, but not required.
+EVENTANALYSIS
+A Probabilistic RiskAssessment (PRA) evaluation ofthis eventfrom the internal events model perspective
+indicated a delta core damage frequency (CDF) of7.8E-06/yrand a delta large early release frequency
+(LERF) of 1.4E-07/yrora significance level greaterthan very small when comparing to the Regulatory Guide
+1.174 acceptance thresholds of 1.0E-06/yrand 1.0E-07/yr, respectively. Discussions with the Region III
+Senior RiskAnalyst (SRA), including qualitative assessments perspectives on external events including fire
+and seismic risk, ultimately concluded similar results based on implementation ofthe Significance
+Determination Process (SDP). Applying this process, a final significance of lowto moderate safety
+significance based on the delta core damage frequency (estimated to be 8.8e-06/yr by the SRA) being within
+the range ofgreaterthan 1.OE-06/yrand less than 1.OE-05/yrwas determined. Since the large early release
+frequency (LERF) contribution to the overall significance was no greaterthan the CDF estimate, CDF was
+determined to be the appropriate metric to be used forthis conclusion.
+CORRECTIVE ACTIONS
+Corrective actions included removal ofthe subjectdiodes from both Division 1 and 2 DG control powercircuit
+and a reviewofpast design changes to verify failure modes have been considered forany newcomponents.
+PREVIOUS SIMILAR EVENTS
+On May 6, 2016, Operations attempted to startthe Division 2 Emergency Diesel Generatorfor performance of
+a post maintenance test (PMT) when unexpected alarms and abnormal indicationswere received. Ashorted
+diode was identified which caused a loss of powerto the Division 2 DG controls. The diode was replaced, no
+grounds were identified (no otherdiode failures) on the common portion ofthe control system, and the
+Division 2 DG subsequently passed the PMT.
+The corrective actions forthe May 2016 eventwere focused on eliminating only the failed diode in both the
+Division 1 and 2 DGs. The apparentcause conclusions were subsequently refuted by laboratory testing
+performed forthe November6, 2016 event and the investigation was superseded. Thiswas subsequently
+addressed in the rootcause report.
+COMMITMENTS
+None
+NRCFORM366A (06-2016) Page 3 of3

@@ -1,0 +1,464 @@
+10 CFR 50.73 
+A member of the STARS Alliance LLC 
+ 
+Callaway • Diablo Canyon • Palo Verde • Wolf Creek 
+ 
+CARY D. HARBOR 
+Vice President Nuclear 
+Regulatory/Oversight 
+ 
+Palo Verde 
+Nuclear Generating Station 
+5801 S Wintersburg Road 
+Tonopah, AZ 85354 
+Mail Station 7605 
+ 
+102-08410-CDH/LMW 
+June 3, 2022 
+ 
+ATTN: Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, DC 20555-0001 
+ 
+Subject: 
+Palo Verde Nuclear Generating Station (PVNGS) Units 1 and 3 
+ 
+ 
+Docket No. STN 50-528 and 50-530  
+License No. NPF-41 and NPF-74 
+ 
+ 
+Licensee Event Report Supplement 2021-001-01 
+ 
+Enclosed, please find Licensee Event Report (LER) supplement 50-528/2021-001-01, 
+that has been prepared and submitted pursuant to 10 CFR 50.73.  This LER supplement 
+provides the cause and corrective actions for previously reported specified system 
+actuations that occurred in Units 1 and 3 on October 20, 2021.  
+ 
+In accordance with 10 CFR 50.4, copies of this LER supplement are being forwarded to 
+the Nuclear Regulatory Commission (NRC) Regional Office, NRC Region IV and the 
+Senior Resident Inspector.   
+ 
+Arizona Public Service Company makes no commitments in this letter.  If you have 
+questions regarding this submittal, please contact Michael DiLorenzo, Department Leader, 
+Regulatory Affairs, at (623) 393-3495. 
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+ 
+CDH/LMW 
+ 
+Enclosure 
+ 
+cc: 
+S. A. Morris 
+ 
+NRC Region IV Regional Administrator  
+ 
+S. P. Lingam  
+NRC NRR Project Manager for PVNGS 
+ 
+L. N. Merker  
+NRC Senior Resident Inspector for PVNGS 
+Harbor, Cary 
+(Z16762)
+Digitally signed by Harbor, 
+Cary (Z16762) 
+Date: 2022.06.03 13:56:16 
+-07'00'
+
+NRC FORM 366 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                 EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send 
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+(See Page 3 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this 
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. Facility Name
+Palo Verde Nuclear Generating Station (PVNGS) Unit 1
+2. Docket Number
+ 05000528 
+3. Page
+1 OF 4 
+4. Title
+Unit 1 and Unit 3 Emergency Diesel Generator Actuation on Loss of Offsite Power to Class 4.16 kV Buses
+5. Event Date
+6. LER Number
+7. Report Date
+8. Other Facilities Involved
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Rev 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+PVNGS Unit 3 
+Docket Number 
+05000530 
+10 
+20 
+2021 
+2021 
+001 
+01 
+06 
+03 
+2022 
+Facility Name 
+Docket Number 
+05000   
+9. Operating Mode : 1 /1
+10. Power Level 100/100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:     (Check all that apply) 
+10 CFR Part 20 
+ 20.2203(a)(2)(vi) 
+ 50.36(c)(2) 
+ 50.73(a)(2)(iv)(A) 
+ 50.73(a)(2)(x) 
+ 20.2201(b) 
+ 20.2203(a)(3)(i) 
+ 50.46(a)(3)(ii) 
+ 50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+ 20.2201(d) 
+ 20.2203(a)(3)(ii) 
+ 50.69(g) 
+ 50.73(a)(2)(v)(B) 
+ 73.71(a)(4) 
+ 20.2203(a)(1) 
+ 20.2203(a)(4) 
+ 50.73(a)(2)(i)(A) 
+ 50.73(a)(2)(v)(C) 
+ 73.71(a)(5) 
+ 20.2203(a)(2)(i) 
+10 CFR Part 21 
+ 50.73(a)(2)(i)(B) 
+ 50.73(a)(2)(v)(D) 
+ 73.77(a)(1)(i) 
+ 20.2203(a)(2)(ii) 
+ 21.2(c) 
+ 50.73(a)(2)(i)(C) 
+ 50.73(a)(2)(vii) 
+ 73.77(a)(2)(i) 
+ 20.2203(a)(2)(iii) 
+10 CFR Part 50 
+ 50.73(a)(2)(ii)(A) 
+ 50.73(a)(2)(viii)(A) 
+ 73.77(a)(2)(ii) 
+ 20.2203(a)(2)(iv) 
+ 50.36(c)(1)(i)(A) 
+ 50.73(a)(2)(ii)(B) 
+ 50.73(a)(2)(viii)(B) 
+ 20.2203(a)(2)(v) 
+ 50.36(c)(1)(ii)(A) 
+ 50.73(a)(2)(iii) 
+ 50.73(a)(2)(ix)(A) 
+ Other (Specify here, in Abstract, or in NRC 366A). 
+12. Licensee Contact for this LER
+Licensee Contact 
+Phone Number (Include Area Code)  
+ Michael DiLorenzo, Department Leader, Regulatory Affairs 
+ 623-393-3495
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable To IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable To IRIS 
+A 
+EA 
+SWGR 
+G080 
+Y 
+14. Supplemental Report Expected
+15. Expected Submission Date
+Month 
+Day 
+Year 
+   No 
+  Yes (If yes, complete 15. Expected Submission Date) 
+ 16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+On October 20, 2021, at approximately 1446 Mountain Standard Time, a valid actuation of the emergency diesel generators 
+(EDGs) for Palo Verde Nuclear Generating Station Unit 1 train ‘B’ and Unit 3 train ‘A’ occurred due to an undervoltage 
+condition on their respective 4.16 kilovolt (kV) safety buses.  Both EDGs started and loaded as designed, including 
+associated train essential spray pond pumps and the Unit 1 B-train auxiliary feedwater pump. 
+The loss of power to the Unit 1 and Unit 3 safety buses and resulting component actuations were the result of an 
+unintended personnel contact with an energized portion of the Unit 2 S06 intermediate bus during maintenance.  Unit 1 and 
+Unit 3 entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.8.1, Condition A, for one required 
+offsite circuit inoperable, which was exited after off-site power was restored to the units’ respective safety buses.   
+The root cause of the event was attributed to overconfidence of the work team during validation activities. The team 
+incorrectly assumed the work planning and clearance processes had established conditions for conducting work activities 
+safely.  Corrective actions to address the cause of the event include developing and implementing a plan to reinforce the 
+belief and value that, "I am responsible for my own protection".  Additional actions include monitoring worker behaviors, 
+developing and delivering training on electrical safe work practices, increased oversight and engagement by station leaders 
+and evaluating and increasing knowledge and proficiency of electrical workers.  
+No similar events have been reported by PVNGS in the last three years. 
+
+NRC FORM 366A  (08-2020)
+Page 2 of 4 
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104   
+ EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3.  LER NUMBER 
+Palo Verde Nuclear Generating Station 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 
+001 
+01 
+NARRATIVE  
+All times are Mountain Standard Time and approximate unless otherwise indicated. 
+1.
+REPORTING REQUIREMENT(S):
+This Licensee Event Report (LER) is being submitted pursuant to 10 CFR 50.73 (a)(2)(iv)(A) to report a valid 
+automatic actuation of the circuitry that starts the emergency diesel generator (EDG) (EIIS: EK) for Unit 1 and Unit 
+3 following an undervoltage condition on the affected safety bus for each unit on October 20, 2021. The event 
+included actuations of the associated essential spray pond (SP) pumps (EIIS: BS) and the Unit 1 B auxiliary 
+feedwater (AF) pump (EIIS: BA). This event was reported to the NRC on October 20, 2021, via the event 
+notification system (ENS 55534) and was updated on December 3, 2021. 
+2.
+DESCRIPTION OF STRUCTURE(S), SYSTEM(S) AND COMPONENT(S):
+The safety related equipment for each Palo Verde Nuclear Generating Station (PVNGS) unit is powered by one of 
+two load groups (A-train and B-train).  Either of the associated trains can provide power for safe plant shutdown.  
+Each alternating current (AC) train includes one Class 1E 4.16 kilovolt (kV) bus (EIIS: EB).  
+The preferred and alternate power sources for each load group is offsite 525 kV AC power (EIIS: EK) and is 
+supplied via the 13.8 kV secondary windings of two of the three startup transformers (EIIS: EA) to six 13.8 kV 
+intermediate buses; Each unit receives 13.8 kV power from two of the intermediate buses.  Class 1E 4.16 kV safety 
+load group power is provided from the associated intermediate bus engineered safety feature (ESF) transformers. 
+The standby power supply for each safety load group consists of one EDG (EIIS: EK), including its auxiliary and 
+fuel systems.  The standby power supply functions as a source of AC power for safe plant shutdown in the event of 
+loss of preferred power and for post-accident operation of ESF loads.  
+3.
+INITIAL PLANT CONDITIONS:
+On October 20, 2021, Palo Verde Unit 1 and Unit 3 were in Mode 1 (Power Operation) at 100 percent power, 
+normal operating temperature and normal operating pressure.  There were no inoperable structures, systems, 
+or components at the time that contributed to this event.  Unit 2 was defueled for a refueling outage. 
+4.
+EVENT DESCRIPTION:
+On October 20, 2021, at 1446, a valid loss of power (LOP) actuation occurred due to an undervoltage condition 
+on the Unit 1 train ‘B’ and Unit 3 train ‘A’ safety buses which resulted in an automatic actuation of the circuitry 
+that starts the Unit 1 B-train EDG and Unit 3 A-train EDG.  Both EDGs started and loaded as designed. The 
+EDG actuations were accompanied by the start of associated train essential SP pumps in both units.  The Unit 
+1 B-train EDG actuation was also accompanied by the start of the Unit 1 B-train essential auxiliary feedwater 
+pump, as required for the undervoltage condition. By design, actuation of the Unit 3 A-train steam-driven 
+auxiliary feedwater pump was not required in response to the EDG actuation. 
+The undervoltage condition on the Unit 1 and Unit 3 Class 1E 4.16 kV buses resulted from an electrical fault 
+that occurred when a worker (utility, non-licensed) contacted an energized 13.8 kV element in the back side the 
+“B” cubicle of Unit 2 S06 switchgear, which opened 525 kV breakers supplying the startup transformer AE-
+NAN-X02.  This de-energized the startup transformer which was powering the Unit 1 13.8 kV intermediate bus 
+S06 and the Unit 3 13.8 kV intermediate bus S05, which fed the respective Unit 1 B-train and Unit 3 A-train 
+
+ 
+NRC FORM 366A (08-2020) 
+ 
+Page 3 of 4 
+NRC FORM 366A 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Palo Verde Nuclear Generating Station 
+ 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 
+001 
+01 
+4.16 kV Class 1E kV buses.  
+ 
+Both Units 1 and 3 entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.8.1, Condition A, 
+for one required offsite circuit inoperable.  At 2032, on October 20, 2021, Unit 1 restored offsite power to B-train 
+safety bus from the alternate supply and exited the LCO condition.  On October 21, 2021, at 1545, Unit 3 restored 
+offsite power to A-train safety bus from the alternate supply and exited the LCO condition.   
+ 
+Unit 2 safety buses and required offsite circuits were unaffected by the AE-NAN-X02 startup transformer trip.  Unit 
+1 A-train and Unit 3 B-train safety buses were supplied by startup transformers AE-NAN-X01 and AE-NAN-X03 and 
+remained energized.   
+ 
+Unit 2 was in a refueling outage and the unintended contact with the energized 13.8 kV element of the Unit 2 S06 
+switchgear occurred during scheduled inspection and cleaning of the de-energized portions of the switchgear 
+during the outage. 
+ 
+5. ASSESSMENT OF SAFETY CONSEQUENCES: 
+ 
+There were no inoperable structures, systems, or components at the time that contributed to this event.  The 
+EDGs responded as designed to the undervoltage condition on their respective safety buses. Essential SP and 
+AF pumps actuated as required for the LOP.  
+ 
+This event did not result in any challenges to the fission product barriers or result in the release of radioactive 
+materials.   
+ 
+This event did not prevent the fulfillment of a safety function, nor did it result in a safety system functional 
+failure as described by 10 CFR 50.73 (a)(2)(v). 
+ 
+6. CAUSE OF THE EVENT: 
+ 
+The direct cause of the undervoltage and the EDG and pump actuations was unintended personnel contact 
+with an energized portion of the Unit 2 S06 switchgear when the electrician working in one of the switchgear 
+cubicles reached into an area outside the clearance boundary to perform a task.  The personnel contact with 
+the switchgear resulted in an electrical fault.  The fault caused the startup transformer to be isolated from offsite 
+power, which de-energized the 13.8 kV power provided to the affected intermediate buses providing power to 
+the Unit 1 B-train safety bus and the Unit 3 A-train safety bus.  When the 13.8 kV safety buses de-energized, 
+the resulting undervoltage signal caused an automatic actuation of the circuitry that starts the Unit 1 B-train 
+EDG, the Unit 3 A-train EDG and the required pumps.   
+ 
+The root cause of the event was attributed to overconfidence of the work team during validation activities. The 
+team incorrectly assumed the work planning and clearance processes had established conditions for 
+conducting work activities safely.  This led to gaps in behaviors during the performance of clearance and 
+energized circuit validation prior to commencing work.  In this event, the team performed an inadequate 
+clearance boundary verification using a marked-up copy of the site electrical distribution one-line drawing, 
+which shows only the power feeds into the switchgear, not the cross-ties between the switchgear cubicles as is 
+provided on the switchgear detailed one-line drawing.   
+ 
+The event evaluation also identified that contrary to a station procedure, the work team had utilized an 
+organizationally accepted behavior that performing Live-Dead-Live checks is not required when there is 
+confidence that energy is not present. 
+
+ 
+NRC FORM 366A (08-2020) 
+ 
+Page 4 of 4 
+NRC FORM 366A 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 08/31/2023 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information unless the document requesting or 
+requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Palo Verde Nuclear Generating Station 
+ 
+05000-528 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 
+001 
+01 
+ 
+7. CORRECTIVE ACTIONS: 
+ 
+Immediate corrective actions were taken to restore offsite power to Unit 1 safety bus 1E-PBB-S04 and Unit 3 
+safety bus 3E-PBA-S03.  Alternate supply power was provided from startup transformers AE-NAN-X01 and AE-
+NAN-X03 respectively, through their associated intermediate buses to the safety buses.     
+ 
+Corrective actions to address the cause of the event include, Electrical Maintenance department leaders 
+developing and implementing a plan to reinforce the belief and value that, "I am responsible for my own 
+protection", to address worker overconfidence that the work planning and clearance processes will protect 
+them. 
+ 
+Additional corrective actions include monitoring worker behaviors, developing and delivering training to workers 
+on electrical safe work practices, increased oversight and engagement by station leaders, and evaluating and 
+increasing knowledge and proficiency of electrical workers. 
+ 
+8. PREVIOUS SIMILAR EVENTS: 
+ 
+No EDG or ESF actuations resulting from personnel contact with energized circuits have been reported by Palo 
+Verde in the last three years. 
+ 

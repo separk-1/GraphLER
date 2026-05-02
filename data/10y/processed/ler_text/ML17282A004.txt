@@ -1,0 +1,364 @@
+Keith J. Polson
+Senior Vice President and CNO
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.6515 Fax: 734.586.4172
+Email: keith.polson@dteenergy.com
+DTE Energy-
+10 CFR 50.73
+October 9, 2017
+NRC-17-0064
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2017-004
+Pursuant to 10 CFR 50.73(a)(2)(i)(B) and 10 CFR 50.73(a)(2)(v)(B), DTE Electric
+Company (DTE) is submitting LER No. 2017-004, Inadequate Procedural Guidance for
+Residual Heat Removal Complex Ventilation Systems Leads to Condition Prohibited by
+Technical Specifications and Loss of Safety Function.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Senior Vice President and CNO
+Enclosure: Licensee Event Report No. 2017-004
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-17-0064
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2017-004
+Inadequate Procedural Guidance for Residual Heat Removal Complex
+Ventilation Systems Leads to Condition Prohibited by Technical Specifications
+and Loss of Safety Function
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/3112020
+(04-2017) Estimated burden per responsteo comply with this mandatocryo llectiorne quest8:0 hours.
+Reportelde ssonlsea rned are Incorporateindt oth e licensinpgr ocesasn d fed back to industry.
+t LICENSEE EVENT REPORT (LER) S N en u d c c le o aR m re m g e u n l rt a es t g oC a ro r y d m inb m gu i r s d s e Wi ne o s t n i a m s, a h te in to g th tDo e Cn In ,2 f 0 o 5 r 5 m 5-0 a 0 t 0 i 1 oS , ne r o v r i b ce y Bs e r -m an ai c l h( t T o - 2 In F fo 43 co ), l le U c . t S s . .
+{ *,x (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the DeskO fficer, Officeo f Informatioann d RegulatorAyff airs,
+NEOB-10202, (3150-0104), Office of Managemeanntd B udgeWt, ashingtoDnC, 2 0503. Ifa means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose anI nformactioolnle ctdiooens notd isplay a currenvtalyli dOM B control number,
+http://www nr~cqov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) the NRC may not conduct or sponsor, anda persoIsnn otr equirteodr espontod,t hein formation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Fermi2 05000 341 1 OF 6
+4. TITLE
+Inadequate Procedural Guidance for Residual Heat Removal Complex Ventilation Systems Leads to Condition Prohibited by Technical
+Specifications and Loss of Safety Function
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N Q U UE B N E T AL MONTH D D A A Y Y Y YE E A A R N F /A AC ILITYN AME 05 D 0 O 0 C 0 KETN UMBER
+FACILITNYA ME DOCKENT UMBER
+08 10 2017 2017 - 004 - 00 10 09 2017 N/A 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+E
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+E 20.2201(d) . l 20.2203(a)(3)(ii) [ 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+E El
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+E] E
+20.2203(a)(2)() 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+E El
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 1j] 50.73(a)(2)(v)(A) 73.71(a)(4)
+0
+20.2203(a)(2)(iii) 50.36(c)(2) / 50.73(a)(2)(v)(B) El 73.71(a)(5)
+[] 20.2203(a)(2)(iv) El 50.46(a)(3)(ii) El 50.73(a)(2)(v)(C) El 73.77(a)(1)
+100 20.2203(a)(2)(v) El 50.73(a)(2)(i)(A) [ 50.73(a)(2)(v)(D) F] 73.77(a)(2)(i)
+7] E
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify inA bstract below or inN RC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT FACTURER REPORTiBLE
+IIFACTURER TO EPIX FATUE TOEI
+N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+E YES (If yes, complete 15. EXPECTED SUBMISSION DATE) /] NO SUBMISSION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 10, 2017, it was determined that inadequate procedural guidance for determining operability for ventilation support systems
+was being utilized. The Residual Heat Removal (RHR) switchgear and pump rooms have ventilation systems to maintain operability of
+the equipment in the rooms. Fermi 2 procedures had directed personnel to declare the supported equipment in the rooms inoperable due
+to nonfunctionality of the ventilation systems only if the room temperature exceeded the operability limit. Following discovery, a
+review of the RHR switchgear and pump room ventilation systems for the past three years was performed. The review identified
+multiple instances where the ventilation systems were nonfunctional and should have resulted in entry into applicable Technical
+Specifications (TS). Many of these instances resulted in operations or conditions prohibited by TS, since TS Required Actions were not
+completed within the Completion Times for restoration of affected equipment and plant shutdown. In addition, one instance was
+identified where the plant configuration was such that it could have prevented the fulfillment of the safety function to remove residual
+heat following a design basis accident. An engineering evaluation of this specific instance was performed and verified that the plant
+remained within its analyzed design basis. All other instances maintained one fully operable division of heat removal equipment such
+that no loss of safety function existed. There were no radiological releases associated with this event. The safety significance was
+determined to be very low. The cause of the event was inadequate procedural guidance. Immediate actions were taken to provide
+interim guidance related to the procedure. Corrective actions to revise the affected procedure have been completed.
+NRC FORM 366 (04-20171
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+""*N< E N lessons learned are Incorporated into the licensing process and fed back to Industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+***** NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.cov/reading-rm/doc-collections/nureqs/staff/sr022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Fermi 205000- NUMBER NO.
+2017 - 004 - 00
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode -1
+Reactor Power - 100 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+At approximately 1200 EDT on August 10, 2017, while operating in Mode 1 at 100 percent power, the DTE Electric
+Company (DTE) procedural guidance pertaining to the Residual Heat Removal (RHR) [BO] switchgear [SWGR] room
+ventilation system was questioned by the NRC Senior Resident Inspector. Technical Specification (TS) 3.8.7 requires
+Division I and Division II alternating current (AC) and direct current (DC) electrical power distribution subsystems [EB and
+EJ] to be operable in Modes 1, 2, and 3. The AC distribution system in TS 3.8.7 consists of two divisions with four 4160 V
+buses [BU] and four 480 V buses each. The Division I 4160 V buses 11 EA and 12EB, the Division I 480 V buses 72EA
+and 72EB, the Division II 4160 V buses 13EC and 14ED, and the Division II 480 V buses 72EC and 72ED are all located
+in the RHR complex. Specifically, each bus is located in the RHR switchgear room associated with its corresponding
+Emergency Diesel Generator (EDG) [DG]. As described in the Updated Final Safety Analysis Report (UFSAR) Section
+9.4.7.2, the four RHR switchgear rooms are each equipped with a ventilation system to dissipate the heat produced by the
+switchgear room equipment (e.g., the 4160 V and 480 V buses) and limit the inside ambient temperature to 104 degrees
+Fahrenheit (F) under all plant operating conditions. Each switchgear room ventilation system consists of an intake air duct
+[DUCT], high efficiency filter [FLT], and two 50 percent-capacity fans [FAN] in parallel. Thus the switchgear room
+ventilation systems are design features and their functionality impacts the operability of the 4160 V and 480 V buses and
+therefore the AC distribution subsystems. Contrary to this, a DTE procedure directed personnel to declare the 4160 V and
+480 V buses inoperable per TS 3.8.7 due to nonfunctionality of the RHR switchgear room ventilation system only if the
+room temperature exceeded 104 degrees F. At the time of discovery of this procedural inadequacy on August 10, 2017,
+all the RHR switchgear room ventilation systems were functional and the associated 4160 V and 480 V buses were
+operable.
+With a correct understanding of the applicable TS, a past operability review was performed for the three years prior to the
+date of discovery. This review identified 50 occurrences where an RHR switchgear room ventilation system was not
+functional due to maintenance activities. For each occurrence, the associated 4160 V and 480 V buses were considered
+operable at the time and no entry to TS 3.8.7 was made based on the unavailability of the RHR switchgear room
+ventilation system. Limiting Condition for Operation (LCO) 3.8.7 Condition A Required Action A.1 requires restoration of
+the AC electrical power distribution subsystems (i.e. the buses) to operable status within 8 hours. LCO 3.8.7 Condition C
+Required Action C.1 requires the reactor to be in Mode 3 in 12 hours if the Required Action and associated Completion
+Time of Condition A is not met. Of the 50 total occurrences described above, 25 exceeded the combined restoration
+Completion Time and the shutdown Completion Time (i.e. 20 hours) and therefore represent instances of an "operation or
+condition which was prohibited by the plant's Technical Specifications" reportable under 10 CFR 50.73(a)(2)(i)(B). Note
+that there is no corresponding reporting requirement under 10 CFR 50.72 and therefore no telephone notification to the
+NRC was made. The longest occurrence was a Division 1 RHR switchgear room ventilation system associated with EDG
+11 out of service for approximately 158 hours.
+The 4160 V and 480 V buses described above directly provide power for the safety-related RHR service water (RHRSW)
+[BI] pumps [P], Mechanical Draft Cooling Tower (MDCT) [CTW] fans [FAN], and Emergency Equipment Service Water
+NRC FORM 366A (04-2017) Page 2 Of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+L S*(lessons learned are incorporated into the licensing process and fed back to Industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+****"N EOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. Ifa means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose ani nformation collection does not display ac urrently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/ NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+2017 - 004 - 00
+NARRATIVE
+(EESW) [BlI] pumps, as well as other plant equipment. The TS requirements for the RHRSW pumps are found in TS 3.7.1
+and the TS requirements for the MDCT fans and EESW pumps are found in TS 3.7.2. Since the 4160 V and 480 V buses
+were not originally declared inoperable, this supported equipment was also not declared inoperable and no entry to TS
+3.7.1 and 3.7.2, or other applicable TS, was made. The Required Actions in TS 3.7.1 and 3.7.2 related to the equipment
+that would be affected by a single 4160 V or 480 V bus inoperable due to its ventilation system have Completion Times for
+restoration of the equipment that are 72 hours or longer, plus the shutdown completion time of 12 hours or longer.
+Therefore, any "operation or condition which was prohibited by the plant's Technical Specifications" related to exceeding
+the combined restoration and shutdown times of this supported equipment is bounded by those already identified as
+reportable under 10 CFR 50.73(a)(2)(i)(B) for the 4160 V and 480 V buses themselves.
+As part of the extent of condition, it was determined that the inadequate procedural guidance was similarly applied to the
+RHR complex pump room ventilation systems. As described in UFSAR Section 9.4.7.3, the two RHR complex pump
+rooms are each equipped with a ventilation system to dissipate the heat produced by the pumps and limit the inside
+ambient temperature to 104 degrees F under all plant operating conditions. Each pump room ventilation system consists
+of an intake air duct, high efficiency filter, and two 50 percent-capacity fans in parallel. Thus the pump room ventilation
+systems are design features and their functionality impacts the operability of the following pumps which are located in the
+rooms: RHRSW pumps (two per room), EESW pumps (one per room), and EDG service water (EDGSW) pumps (two per
+room). At the time of discovery of the procedural inadequacy on August 10, 2017, all the RHR complex pump room
+ventilation systems were functional and the associated pumps were operable.
+A past operability review for the pump rooms was also performed for the three years prior to the date of discovery. This
+review identified 17 occurrences where an RHR complex pump room ventilation system was not functional due to
+maintenance. For each occurrence, the associated RHRSW, EESW, and EDGSW pumps were considered operable at
+the time and no entry to TS 3.7.1, TS 3.7.2, or TS 3.7.8, respectively, was made based on the unavailability of the RHR
+complex pump room ventilation system. LCO 3.7.1 Condition C Required Action C.1 (Condition A is not applicable since
+both RHRSW pumps in the room are impacted) requires restoration of the RHRSW subsystem within 7 days or else
+shutdown to Mode 3 is required within 12 hours, respectively, per Condition D. LCO 3.7.2 Condition C Required Action
+C.1 requires restoration of the EESW subsystem within 72 hours or else shutdown to Modes 3 and 4 is required within 12
+and 36 hours, respectively, per Condition D. LCO 3.7.8 Condition A Required Action A.1 requires declaring the
+associated EDGs inoperable immediately and thus entry to LCO 3.8.1. Since the EDGSW pumps were not originally
+declared inoperable, the supported equipment (i.e. EDGs) was also not declared inoperable and no entry to TS 3.8.1 was
+made. LCO 3.8.1 Condition B Required Action B.4 (Condition B is applicable since both EDGSW pumps in the room are
+impacted, and thus both EDGs are impacted) requires restoration of one EDG within 72 hours or else shutdown is
+required within 12 hours per Condition G. LCO 3.8.1 Condition A for one EDG inoperable would also apply, but its
+restoration time (Required Action A.6) of 14 days was never exceeded. Of the 17 total occurrences described above, two
+exceeded the most limiting combined restoration Completion Time and the shutdown Completion Time (i.e. 84 hours for
+both LCO 3.7.2 Condition D and LCO 3.8.1 Condition G) and therefore represent instances of an "operation or condition
+which was prohibited by the plant's Technical Specifications" reportable under 10 CFR 50.73(a)(2)(i)(B). Note that there is
+no corresponding reporting requirement under 10 CFR 50.72 and therefore no telephone notification to the NRC was
+made. The longest occurrence was a Division 2 RHR complex pump room ventilation system out of service for
+approximately 178 hours.
+Note that TS LCO 3.8.1 Conditions A and B contains Required Actions not directly related to the EDG restoration that
+have Completion Times that are less limiting than the EDG restoration Completion Times. LCO 3.8.1 Required Actions
+A.1 and B.1 require that surveillance requirement (SR) 3.8.1.1 be performed for operable offsite power circuit(s) within one
+hour and once per 8 hours thereafter. SR 3.8.1.1 verifies correct breaker alignment and indicated power availability for
+NRC FORM 366A (04-2017) Page 3 Of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+/ J RO~o LICENSEE EVENT REPORT (LER) l c e o s m so m n e s n t l s e a r r e n g e a d r di a n r g e b I u n r c d o e r n p or e a s t t e im d at I e n to to th th e e li I c n e fo n r s m in a g t io p n r o S ce e s rv s i ce a s n d B r f a e n d c h b a (T c - k 2 t F o 4 3 I ) n , d u U st S ry . , Nu S cl e e n a d r
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+InfocollectsResource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+***" NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose anI nformation collection does not display a currently valid OMB control number, the
+http://www.nrc.qov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person Is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+[Fermi 05000- NUMBER NO.
+2______341______
+2017 - 004 - 00
+NARRATIVE
+each offsite circuit. Although SR 3.8.1.1 was not performed at the required time, offsite power was available during every
+occurrence described above and therefore the SR would have been met. LCO 3.8.1 Required Actions A.2 and B.2 state
+that required feature(s), supported by the inoperable EDGs, must be declared inoperable within 4 hours when the
+redundant required feature(s) are inoperable. LCO 3.8.1 also has a 24 hour Completion Time to either determine
+operable EDGs are not inoperable due to common cause failure (Required Actions A.4.1 and B.3.1) or perform SR 3.8.1.2
+for operable EDGs (Required Actions A.4.2 and B.3.2). In these occurrences, the EDGs were inoperable due to the
+inoperability of the EDGSW pumps rather than a common cause failure of the EDGs themselves. This means that
+although neither Required Actions A.4.1 and B.3.1 nor Required Actions A.4.2 and B.3.2 were performed at the time they
+were applicable, Required Actions A.4.1 and B.3.1 would have been met in each case. LCO Condition A also has a
+Required Action A.3 to verify the status of Combustion Turbine Generator (CTG) [GEN] 11-1 once per 8 hours, with
+Required Action A.5 to restore CTG 11-1 within 72 hours from discovery of Condition A concurrent with CTG 11-1 not
+available. Although verification of CTG 11-1 was not performed at the required time, CTG 11-1 was available during all
+pump room occurrences and during all but four switchgear room occurrences, none of which exceeded the 72 hour
+Completion Time of Required Action A.5.
+In addition, a review of all the switchgear and pump room occurrences for potential losses of safety function was
+performed. As described in the UFSAR Section 3.11.4.4, the RHR complex is composed of two identical divisions with the
+safety-related equipment in one division 100 percent redundant to that in the other division. It further states that because
+a separate ventilation system is provided for the switchgear rooms and pump rooms, the loss of a ventilation system does
+not affect safe shutdown of the plant. Therefore, no loss of safety function would exist associated with the above
+occurrences if the opposite division was available. All of the 67 occurrences described above were reviewed and it was
+determined that for each occurrence, with one exception described in detail below, the opposite division was fully available
+and operable such that no loss of safety function existed and the plant was fully within the UFSAR design basis.
+The exception is that the RHR switchgear room ventilation system associated with Division 1 EDG 12 being out of service
+from May 18, 2017 at 0400 EDT to May 19, 2017 at 1744 EDT, overlapped with a degraded condition in the Division 2
+RHR service water (RHRSW) subsystem. As described in LER 2017-003, submitted by DTE letter NRC-17-0048 dated
+July 21, 2017, the RHRSW flow control valve [FCV] E 1150F068B and the Division 2 RHRSW subsystem were inoperable
+from May 3 to 24, 2017. The overlap period of approximately 38 hours represents an "event or condition that could have
+prevented the fulfillment of the safety function of structures or systems that are needed to ... [r]emove residual heat"
+reportable under 10 CFR 50.73(a)(2)(v)(B). Note that the loss of safety function did not exist at the time of discovery such
+that no reporting requirement under 10 CFR 50.72 was met and therefore no telephone notification to the NRC was made.
+This concurrent impact on both RHRSW subsystems would require entry to LCO 3.7.1 Condition E which has a
+Completion Time of 8 hours. Although the overlap period exceeded the combined restoration Completion Time and the
+shutdown Completion Time for TS 3.7.1 (i.e. 20 hours), this occurrence was already identified above as an "operation or
+condition which was prohibited by the plant's Technical Specifications" reportable under 10 CFR 50.73(a)(2)(i)(B) for
+exceeding the combined restoration Completion Time and the shutdown Completion Time for TS 3.8.7 (i.e. also 20 hours).
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+As discussed previously, the loss of an RHR switchgear or pump room ventilation system does not affect safe shutdown of
+the plant because separate ventilation systems are provided for each of the different switchgear and pump rooms. For the
+occurrences described above, with one exception described below, the opposite division was fully available and operable
+such that no loss of safety function existed and the plant was fully within the UFSAR design basis.
+NRC FORM 366A (04-2017) Page 4 Of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection reques8t0: hours. Reported
+lessons learned are incorporated Into the licensing process and fed back to Industry. Send
+LICENSEE EVENT REPORT (LER) comments regardibnugr deensti mate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Informatiaonnd Regulatory Affairs,
+*".*+ NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. Ifa means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose ani nformactoiollenct ion does not display ac urrently valid 0MB control number, the
+http://www.nrc.qov/reading-rm/doc-collections/nuregs/staff/sr022/r3/) NRC may not conduct or sponsor, anda persoisn not required to respond to,t hei nformation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+~Fermi 05000- NUMBER NO.
+2______341______
+2017 - 004 - 00
+NARRATIVE
+An engineering evaluation was performed for the approximately 38 hours in May 2017 where the RHR switchgear room
+ventilation system associated with Division 1 EDG 12 being out of service coincided with a degraded condition in the
+Division 2 RHRSW subsystem. The evaluation determined that the available equipment at the time was adequate to fulfill
+applicable design functions during design basis accidents as required by the Fermi 2 licensing basis. Therefore, although
+this specific occurrence was considered a loss of safety function for removal of residual heat due to equipment being
+considered inoperable, the capability to remove residual heat was maintained throughout this period.
+The engineering evaluation also documents that the RHR switchgear and pump room ventilation systems are not required
+for the first 24 hours of a design basis accident. This means that the pumps and 4160 V and 480 V buses that were
+considered inoperable as described above would have been capable of performing their intended functions for the first 24
+hours even with the ventilation systems out of service. In approximately half of the occurrences described above, the out
+of service duration was less than 24 hours such that no loss of capability of the supported equipment (i.e. buses and
+pumps) would have occurred prior to restoration of the ventilation system. In addition, the engineering evaluation provides
+justification for alternate configurations of the RHR switchgear and pump room ventilation systems that support operability
+of room equipment provided the outdoor temperature is within a certain range. Examples of alternate configurations
+include manually blocked dampers and operation with a single fan.
+UFSAR Table 3.11-4 indicates that the maximum temperature in the switchgear and pump rooms to support operability of
+equipment is 104 degrees F. A review of room temperatures for the periods associated with the above occurrences
+demonstrated that room temperatures did not exceed 104 degrees F during the times that the ventilation systems were
+out of service.
+The Probabilistic Safety Assessment (PSA) does not model the RHR switchgear or pump room ventilation systems as the
+supporting analysis concluded that loss of cooling in those rooms will not affect availability of essential equipment in the
+rooms during the PSA mission time. As a result, risk impact of the ventilation systems being unavailable was not
+assessed for any of the instances described above. Risk assessment of the condition associated with the Division 2
+RHRSW flow control valve (LER 2017-003) was previously performed and the condition was determined to be of very low
+safety significance. No change in this determination would be expected when considering the overlap of a Division 1
+switchgear room ventilation system out of service with the degraded condition in the Division 2 RHRSW subsystem since
+the PSA model does not credit the room ventilation system.
+Based on the discussion above, the safety significance of this event is very low and the event did not pose a threat to the
+health and safety of the public or plant personnel. There were no radiological releases associated with this event.
+CAUSE OF THE EVENT
+The cause of the event was inadequate procedural guidance for determining TS operability. The Fermi 2 system
+operating procedure for the RHR Complex Heating and Ventilation contained specific guidance on how to treat
+nonfunctionality of the RHR switchgear and pump room ventilation systems. This guidance incorrectly directed
+Operations personnel to declare the supported equipment inoperable only if the room temperature exceeded 104
+degrees F. This guidance had been incorrectly implemented prior to the three year period of review documented in this
+LER.
+The individual occurrences of the ventilation systems being out of service discussed above were related to maintenance
+work on the ventilation systems.
+NRC FORM 366A (04-2017) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+4LN ICENSEE E E . V L E le N ss T o n R s EPORT (LER) comment l s e a r r e n g e a d r di a n r g e b I u n r c d o e r n p o e ra s t t e im d at I e n to t o th th e e l I i n c f e o n r s m in a g ti on p ro S c e e r s v s ic e a s n d B r f a e n d c h b a (T ck -2 t F o 4 3 in ) d , u U s . t S ry . . Nu S c e le n a d r
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+InfocollectsResource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/srl022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+2017 - 004 - 00
+NARRATIVE
+CORRECTIVE ACTIONS
+As described above, the inadequate guidance was embedded in DTE procedures. Immediate action was taken to direct
+Operations personnel to not utilize the procedural note regarding operability based on room temperature but rather to
+immediately take the TS required actions when the RHR switchgear or pump room ventilation systems were not
+functional. This action was an interim action pending further detailed review of the basis for the procedure. Corrective
+actions have since been completed to revise the affected Fermi 2 system operating procedure for the RHR Complex
+Heating and Ventilation. Related surveillance procedures have also been identified as requiring similar updates and the
+procedure revisions will be performed through the corrective action program.
+The corrective actions associated with the individual occurrences of ventilation systems being out of service were to
+restore the ventilation systems to service following completion of maintenance.
+PREVIOUS OCCURRENCES
+The previous occurrences of the inadequate procedural guidance related to the RHR complex ventilation systems within
+the past three years were discussed in this LER. This LER also discussed overlap of this condition with that described in
+LER 2017-003, submitted by DTE letter NRC-17-0048 dated July 21, 2017. Since the inadequacy of the procedural
+guidance on RHR complex ventilation systems was not known at that time, it could not have been included in LER
+2017-003.
+NRC FORM 366A (04-2017) Page 6 of 6

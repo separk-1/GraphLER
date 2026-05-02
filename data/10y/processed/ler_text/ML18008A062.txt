@@ -1,0 +1,247 @@
+Clinton Power Station
+8401 Power Road Exelon Generation®
+Clinton, IL 61727
+U-604398 10 CFR 50.73
+SRRS 5A.108
+January 4, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2017-009-00
+Enclosed is Licensee Event Report (LER) 2017-009-00: Trip of Emergency Reserve Auxiliary
+Transformer Static VAR Compensator Causes Positive Secondary Containment Pressure
+Following Voltage Transient on 138 kV Offsite Source. This report is being submitted in
+accordance with the requirements of 1O CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~;:3=~::;;:::-------=~::,r
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: License Event Report 2017-009-00
+cc:
+Regional Administrator- Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
++~r...,>~AE~t,(.,'°' lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+i LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+~ I Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+~., ~o~ (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+•it*•"'
+NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 . 05000461 1 OF 4
+4. TITLE
+Trip of Emergency Reserve Auxiliary Transformer Static VAR Compensator Causes Positive Secondary
+Containment Pressure Following Voltage Transient on 138 kV Offsite Source.
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I SEQUENTIAL I REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR 05000
+- - FACILITY NAME DOCKET NUMBER
+11 05 2017 2017 009 00 01 04 2018 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201 (bl D 20.22os(a)(sJ(il D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201 (dl D 20.22os(aJ(s)(iil D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D 20.22os(aJ(1J D 20.22os(a)(4l D 50.1s(a)(2)(iiil D 50.73(a)(2)(ix)(A)
+D 20.22os(aJ(2Hil D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) . D 50.73(a)(2)(x) '
+10. POWER LEVEL D 20.22os(aJ(2Hiil D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) [j 73.71(a)(4)
+D 20.22os(aJ(2J(iiil D 50.ss(cJ(2J D 50.73(a)(2)(v)(B) D 1s.11 (al(5l
+D 20.2203(a)(2)(iv) D 5o.4s(aJ(sJ(iil [8J 50.73(a)(2)(v)(C) D 1s.n(a)(1J
+098 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 1s.n(aJ(2J(il
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 1s.n(aJ(2J(iiJ
+-:. '"". •, ,,, ., ., . ·. .. D 50.73(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRC Form 366A
+·• "
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217)-937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE '.; CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+'·
+,::
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+l:8J SUBMISSION
+DYES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 5, 2017, at approximately 1240 CDT, the Main Control Room (MCR) received numerous annunciators that
+indicated a trip of the Emergency Reserve Auxiliary Transformer (ERAT) Static VAR Compensator (SVC) caused by a
+voltage transient on the 138 kV offsite supply. Technical Specification (TS) Limiting Condition for Operation (LCO) 3.8.1,
+AC Sources-Operating, Required Action A.1 and A.2 were entered. As a result of the voltage transient, the Division 1
+Fuel Building ventilation (VF) system isolation dampers closed causing a trip of VF supply and exhaust fans. With no
+operating VF fans, Secondary Containment (SC) vacuum rose to slightly greater than O inches water gauge (WG) at
+1241 CDT which exceeded the TS requirement of greater than 0.25 inches vacuum WG. The MCR entered Emergency
+Operating Procedure (EOP)-8, Secondary Containment Control and TS LCO 3.6.4.1, Secondary Containment, Required
+Action A.1. The cause of the SC differential pressure becoming positive is that the circuit design of VF is not adequately
+robust to withstand loss of the 138 kV feed. At the time, the Division 1 safety bus was being fed from the ERAT.
+Secondary Containment vacuum was restored within TS requirements at 1242 CDT by starting the Standby Gas
+Treatment System. A modification will be installed to prevent tripping VF during a momentary loss of power. Installation
+of a 138 kV Ring Bus is scheduled that is intended to improve the reliability of the radial feed of the 138 kV line. This
+event is being reported as a condition that could have prevented fulfillment of a safety function under 10 CFR
+50. 73(a)(2)(v)(C).
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) · collection. ·
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 • 009 • 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Trip of Emergency Reserve Auxiliary Transformer Static VAR Compensator Causes Positive
+Secondary Containment Pressure Following Voltage Transient on 138 kV Offsite Source.
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 11 /05/17 Event Time: 1240 CDT
+Mode: 1 Mode Name: Power Operation ReaciorPowe~98peme~
+B. Description of Event
+On November 5, 2017, at approximately 1240 hours CDT the Emergency Reserve Auxiliary
+Transformer (ERAT)[XFMR] Static VAR Compensator (SVC)[COMP] tripped due to a voltage
+transient on the 138 kV line owned and maintained by Ameren Illinois. The Main Control Room
+(MCR) entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.8.1, AC
+Sources-Operating, Required Actions A.1 and A.2. As a result of the voltage transient, the Division 1
+Fuel Building Ventilation (VF) system isolation dampers closed causing a trip of the VF supply and
+exhaust fans. Ameren stated that the voltage transient was possibly due to weather. The effect of
+this condition was that Secondary Containment (SC) vacuum rose to slightly greater than O inches
+water gauge (WG) and exceeded the TS limit of -0.25 inch WG. Operations personnel entered
+Emergency Operating Procedure (EOP) -8, Secondary Containment Control, and TS LCO 3.6.4.1,
+Secondary Containment, Required Action A.1. As a result of the momentary loss of power, the
+following additional system actuations occurred:
+• Division 1 MCR Ventilation Chiller tripped,
+• Division 1 Diesel Generator Room Exhaust Fan 1V D02CA tripped,
+• Division 1 Shutdown Service Water Pump auto started,
+• Fission Product Monitoring (FPM) skid isolation valves shut,
+• Division 1 Hydrogen Monitoring system isolation valves shut,
+• Containment Service Air System Outboard Isolation valve 1S A029 shut, '
+• Nuclear Systems Protection System (NSPS) Inverter Trouble alarms (due to loss of
+synchronization)
+0
+NRG FORM 366A (04-2017) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the lnlormation Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnlormation and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an inlormation collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the inlorrnation
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 D22/r3/) collection. ·
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 - 009 - 00
+NARRATIVE
+The Standby Gas Treatment System (VG) was manually started and SC vacuum was restored within
+TS limits at approximately 1242 hours. The system actuations were addressed and plant equipment
+was restored to service in accordance with plant procedures. The momentary loss of power did not
+adversely affect the safe operation of the plant or the restoration of SC. During the investigation,
+Ameren reported that the Clinton feeder breaker that supplied the 138 kV line had tripped and
+reclosed probably due to weather. In addition, during inspection of the offsite power lines, two
+disconnects were found not fully seated. These disconnects were reseated and the ERAT SVC was
+returned to service and declared OPERABLE at 1702 hours.
+C. Cause of the Event
+The cause of the SC differential pressure becoming positive is that the circuit design of VF is not
+adequately robust to withstand the loss of the 138 kV feed.
+D. Safety Consequences
+This event is reportable in accordance with 1O CFR50 50.73(a)(2)(v)(C) as a condition that could
+have prevented fulfillment of a safety function to control the release of radioactive material because
+the SC was declared inoperable.
+The VG system was fully operable at the time of the event and capable of performing its required
+safety function. Operations entered EOP-8 for SC vacuum less than -0.25 inch WG and entered TS
+LCO 3.6.4.1 Required Action A.1. The SC vacuum was restored to within TS limits within the
+completion time requirement. The SC vacuum normally is kept slightly negative relative to
+atmospheric pressure to prevent leakage to the atmosphere. The VF system is a non-safety
+ventilation system which is normally in service to maintain SC vacuum. The VG system is the
+safety-related system which is relied upon to perform this function following an accident. During the
+event, the VG system was placed in service and restored SC to operability consistent with its safety
+function. Therefore, the ability of the station to maintain SC vacuum in the event of an accident was
+never jeopardized or challenged by the VF system trip. Engineering analysis has determined that
+this event is not considered a safety system functional failure.
+E. Corrective Actions
+A modification will be installed to prevent tripping VF during a momentary loss of power. Installation
+of a 138 kV Ring Bus is scheduled that is intended to improve the reliability of the radial feed of the
+138 kV line.
+NRG FORM 366A (04-2017) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc:collections/nuregs/staff/sr1022/r3/) collection. ·
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2017 • 009 • 00
+NARRATIVE
+In addition, a License Amendment Request (LAR) was submitted to the NRC on November 8, 2017 to
+adopt Technical Specifications Task Force (TSTF)-551, Revise Secondary Containment Surveillance
+Requirements, to adopt a change to the CPS TS that would eliminate the requirement to declare SC
+inoperable under similar transient conditions. Adoption of this LAR would have prevented this event
+from being reportable.
+F. Previous Similar Occurrences
+Licensee Event Report 2015-004-00: Trip of Emergency Reserve Auxiliary Transformer Static VAR
+Compensator Causes Positive Secondary Containment Pressure Following Lightning Strike on
+138 kV Offsite Source.
+On June 25, 2015 at 0301 CDT, the Main Control Room received numerous
+annunciators that indicated a trip of the ERAT Static VAR Compensator caused by a
+voltage transient on the 138 kV offsite source due to thunderstorms in the area. The
+Division 1 safety bus was manually aligned from the reserve source to its normal source.
+As a result of the voltage transient, the Division 1 VF system isolation dampers closed
+causing a trip of VF supply and exhaust fans. Secondary Containment vacuum
+increased to greater than O inch WG which exceeded the TS requirement. Secondary
+Containment vacuum was restored within TS requirements by reopening the VF isolation
+dampers and restarting the VF supply and exhaust fans. The ERAT SVC was returned
+to service at 0457 CDT.
+Licensee Event Report 2016-004-00: Trip of Emergency Reserve Auxiliary Transformer Static VAR
+Compensator Causes Positive Secondary Containment Pressure Following Lightning Strike on 138
+kV Offsite Source
+On March 30, 2016, at approximately 1545 CDT, the Main Control Room received numerous
+annunciators that indicated a trip of the Emergency Reserve Auxiliary Transformer Static VAR
+Compensator caused by a voltage transient on the 138 kV supply. Technical Specification
+Limiting Condition for Operation 3.8.1, AC Sources-Operating, Required Action A.1 and A.2
+were entered. As a result of the voltage transient, the Division 1 Fuel Building ventilation
+system isolation dampers closed causing a trip of VF supply and exhaust fans. With no
+operating VF fans, Secondary Containment vacuum rose to slightly greater than O inches
+water gauge which exceeded the TS requirement of greater than 0.25 inches vacuum WG.
+Secondary Containment vacuum was restored within TS requirements at 1550 CDT by
+starting the Standby Gas Treatment System.
+G. Component Failure Data
+There were no component failures associated with this event.
+NRC FORM 366A (04-2017) Page _4_ of _4_

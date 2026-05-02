@@ -1,0 +1,350 @@
+� Southern Nuclear
+Matt Busch llalch Nuclear Plant
+Vice President Plant Hatch 11028 !latch Parkway North
+Baxley, GA 31513
+912 453 5859 tel
+912 366 2077 fax
+December 19, 2025
+Docket Nos.: 50-321 NL-25-0476
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D. C. 20555-0001
+Edwin I. Hatch Nuclear Plant
+Licensee Event Report 2025-002-00
+Unit 1 Reactor Protection System Instrumentation for Turbine Control Valve Fast
+Closure Inoperable
+Ladies and Gentlemen:
+In accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B), 10 CFR
+50.73(a)(2)(v)(A), and 10 CFR 50.73(a)(2)(vii), Southern Nuclear Operating
+Company hereby submits the enclosed Licensee Event Report.
+This letter contains no NRC commitments. If you have any questions, please
+contact the Hatch Licensing Manager, Jimmy Collins, at 912.453.2342.
+Respectfully submitted,
+Matt Busch
+Vice President -Hatch
+MSB/CJC
+Enclosure: LER 2025-002-00
+Cc: Regional Administrator, Region II
+NRR Project Manager -Hatch
+Senior Resident Inspector -Hatch
+RTYPE: CHA02.004
+Edwin I. Hatch Nuclear Plant
+Licensee Event Report 2025-002-00
+Unit 1 Reactor Protection System Instrumentation for Turbine Control Valve
+Fast Closure Inoperable
+Enclosure
+LER 2025-002-00
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION
+(04-02-2024) APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+. "' learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+: Commission, Washington, DC 20555-0001, or by email to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+/i
+,. +,:i•
+�
+•
+'
+11
+"'
+•
+'
+"'
+"'
++
+•
+0
+\
+'
+$
+(See Page 2 for required number of digits/characters for each block) C
+at
+o
+:
+m
+0
+m
+M
+is
+B
+s io
+O
+n
+f
+,
+fi c
+7
+e
+2 5
+o
+1
+f
+7
+In
+th
+fo r
+S
+m
+tr
+a
+e
+t
+e
+io
+t
+n
+N
+a
+W
+n
+,
+d
+W
+R
+a
+e
+s
+g
+h
+u
+in
+la
+g
+t
+t
+o
+o
+r
+n
+y
+,
+A
+D
+f
+C
+fa ir
+2
+s
+0
+,
+5
+(3
+0
+1
+3
+5
+.
+0
+T
+-0
+h
+1
+e
+0
+N
+4)
+R
+,
+C
+A t
+m
+tn
+a
+:
+y
+D
+n
+e
+o
+s
+t
+k
+c o
+O
+n
+f
+d
+fi
+u
+c
+c
+e
+t
+r
+o
+fo
+r
+r
+s p
+th
+o
+e
+n s
+N
+o
+u
+r,
+c l
+a
+e
+n
+a
+d
+r
+a
+R e
+p
+g
+e
+u
+rs
+la
+o
+t
+n
+o r
+i
+y
+s
+(Se-e NUREG-1022,- R.3 for instruction and guidance for completing this form not required to respond to, a collection of information unless the document requesting or requiring the collection
+htt11://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) displays a currently valid 0MB control number.
+050
+1 E . d Fa w c i il n it y I . N H am a e t ch Nuclear Plant Unit 1 � □ 2. Docket N 0 u 0 m 3 b 2 er 1 3. P 1 ag e OF 2
+052
+4. Title
+Unit 1 Reactor Protection System Instrumentation for Turbine Control Valve Fast Closure Inoperable
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name □ Docket Number
+Month Day Year Year Month Day Year
+Number No. 050
+- -
+10 22 2025 2025 002 00 12 19 2025 Facility Name □ Docket Number
+052
+9. Operating Mode 1 10. Power Level 100
+1
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+□ □ □ □
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 i 50.7 3(a)(2)(ii)(A) i 50. 73(a)(2)(viii)(A) 73.1200(a)
+□ □ □ □ □ □
+r--
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1 )(i)(A) 50.7 3(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B) 73.1200(b)
+□ □ □ □ □ □
+I 20.2201(d) 20.2203(a)(3)(ii) I 50.36(c)(1 )(ii)(A) i 50.7 3(a)(2)(iii) I 50. 73(a)(2)(ix)(A) 73.1200(c)
+□ □ □ □ □ □
+t
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.7 3(a)(2)(iv)(A) 50. 73(a)(2)(x) 73.1200(d)
+□ □ □
+I 20.2203(a)(2)(i) 10 CFR Part 21 i 50.46(a)(3)(ii) i0 50.7 3(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+□ □ □ □ □ □
+I 20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.7 3(a)(2)(v)(B) 73. 77(a)(1) 73.1200(f)
+□ □ □ □ □
+i 20.2203(a)(2)(iii) i 50.73(a)(2)(i)(A) i 50.7 3(a)(2)(v)(C) i 73. 77(a)(2)(i) 73.1200(9)
+□ □ □ □
+C 20.2203(a)(2)(iv) 0 50.73(a)(2)(i)(B) 50.7 3(a)(2)(v)(D) 73. 77(a)(2)(ii) 73.1200(h)
+□ □
+i 20.2203(a)(2)(v) i 50.73(a)(2)(i)(C) i0 50.7 3(a)(2)(vii)
+□
+r
+OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+L
+J
+ic
+im
+en
+m
+se
+v
+e C
+C
+o
+o
+nt
+l
+a
+li
+c
+n
+t
+s. Licensina Manaaer
+Phone Nu9m1b2e-r4 (I5n3cl-u2d3e 4ar2ea code)
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+E TG PS S079 y
+Month Day Year
+□
+r 14. Supplemental Report Expected
+0 No Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+With Unit 1 at 100-percent power on 10/22/2025 at 0918 EDT, after performance of a past operability evaluation, it was
+determined that three Reactor Protection System (RPS) pressure switches for the Turbine Control Valve (TCV) Fast Closure trip
+on low Electrohydraulic Control (EHC) oil pressure were likely inoperable longer than allowed by Technical Specifications (TS).
+These three TCV RPS pressure switches failed TS Surveillances (SRs) on 4/5/2025 and 4/6/2025. Additionally, one of the same
+TCV RPS pressure switches failed a TS SR on 12/17 /25. The failures of the TCV RPS pressure switches are attributed to
+elevated ambient temperatures which degraded EHC oil locally at the pressure switches, impeding proper depressurization of
+the EHC sensing lines during TCV actuation. Corrective actions included purging the EHC sensing lines, replacing the fast
+acting solenoid for one of the TCVs, installing temporary fluid conditioning units, increasing the TCV SR frequency, which helps
+prevent fluid stagnation and flushes contaminants, reducing varnish buildup and sticking.
+The event is reportable per 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by technical specifications, 10 CFR
+50.73(a)(2)(v)(A) for a condition that could have prevented fulfillment of a safety function, and 10 CFR 50.73(a)(2)(vii) for a
+common cause inoperability of independent channels.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to oomply with this manda1ay oollection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden es1imate to the FOIA, Library, and lnfonnation Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washr,gton, DC 20565-0001, or by email to
+CONTINUATION SHEET lnlooollects.Resource@m.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nudear Regulatory Commission. 72517th Street NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required lo
+respond to, a collection of information unless the document requesting or requiring the oollection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/}
+displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+.-------------, ~ 050 YEAR SEQUENTIAL REV
+Edwin I. Hatch Nuclear Plant Unit 1 00321
+□ NUMBER NO.
+1- 0
+I □ - 1
+□ 052
+I 002
+NARRATIVE
+EVENT DESCRIPTION
+With Unit 1 at 1O D-percent power on 10/22/2025 at 0918 EDT, after performance of a past operability evaluation, it was
+determined that three Reactor Protection System (RPS) (EIIS Code: JC) pressure switches (EIIS Code: PS) for the Turbine
+Control Valve (TCV) (EIIS Code: FCV) Fast Closure trip on low Electrohydraulic Control (EHC) (EIIS Code: TG) oil pressure
+were likely inoperable longer than allowed by Technical Specifications (TS). These three TCV RPS pressure switches failed
+TS SRs on 4/5/2025 and 4/6/2025. Additionally, one of the same RPS pressure switches failed a TS SR on 12/17/25.
+EVENT CAUSE ANALYSIS
+The failures of the TCV RPS pressure switches are attributed to elevated ambient temperatures which degraded EHC oil
+locally at the pressure switches. The degraded EHC oil prevented the TCV Fast Acting Solenoid (FAS) (EIIS Code: SOL)
+from fully shuttling which inhibited depressurization of the RPS pressure switch sensing line when the TCVs actuated.
+Because the sensing line did not depressurize when the TCVs were actuated, the pressure switches were unable to
+generate the RPS reactor trip signal on low EHC oil pressure as required.
+SAFETY ASSESSMENT AND REPORTABILITY
+The RPS pressure switches associated with the TCV Fast Closure trip are credited in the Updated Final Safety Analysis
+Report (UFSAR) Chapter 15 for initiating a reactor trip during both the Turbine Trip and Generator Load Reject events.
+For the Turbine Trip event, the UFSAR credits both the TCV RPS pressure switches and the Turbine Stop Valve (TSV)
+(EIIS Code: ISV} RPS instrumentation for initiating a reactor trip. During the period when the TCV RPS pressure switches
+were inoperable, the TSV instrumentation remained operable; therefore, a Turbine Trip event would have resulted in a
+reactor trip.
+For the Generator Load Reject event, the UFSAR credits only the TCV RPS pressure switches for initiating a reactor trip.
+However, the UFSAR evaluates the condition when the reactor is not tripped by the TCV RPS instrumentation during a
+Generator Load Reject event. In such cases, a High Flux scram is credited to mitigate the event, concluding that no fuel
+damage would occur and that the event remains within acceptance criteria. Accordingly, there were no safety
+consequences as a result of the inoperability of the TCV RPS pressure switches.
+Considering the failure history of the TCV RPS pressure switches, the simultaneous inoperability of multiple TCV RPS
+pressure switches, and since there is no other equipment in the same system as the TCV RPS pressure switches that
+would trip the reactor during a Generator Load Reject, this event is reportable per 10 CFR 50.73(a)(2)(i}(B) as a condition
+prohibited by TS and per 10 CFR 50.73(a)(2)(v)(A) as a condition that could have prevented fulfillment of a safety function.
+Additionally, the event is also reportable per 10 CFR 50. 73(a}(2)(vii) due to degraded EHC oil creating a common cause
+condition that resulted in the inoperability of multiple, independent RPS channels.
+CORRECTIVE ACTIONS
+Corrective actions included purging the EHC sensing lines, replacing the fast acting solenoid for one of the TCVs, installing
+temporary fluid conditioning units, increasing the TCV SR frequency, which helps prevent fluid stagnation and flushes
+contaminants, reducing varnish buildup and sticking. Additional, planned corrective actions include replacing TCV
+insulation, replacing the remaining fast acting and test solenoids, and implementing a permanent EHC filtration upgrade.
+PREVIOUS SIMILAR EVENTS
+None.
+NRC FORM 366A (04-02-2024) Page 2 of 2

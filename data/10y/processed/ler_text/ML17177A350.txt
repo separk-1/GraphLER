@@ -1,0 +1,188 @@
+FENOC
+PerryNuclearPowerPlant
+P.O. Box97
+10CenterRoad
+FirstEnergyNuclearOperatingCompany Perry, Ohio44081
+DavidB. Hamilton 440-280-5382
+VicePresident
+June 26, 2017
+L-17-204 10CFR50.73(a)(2)(v)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2017-003, "Annulus Exhaust Gas Treatment System
+Loss of Safety Function".
+Ifthere are any questions or if additional information is required, please contact Mr. Nicola F.
+Conicella, Manager- Regulatory Compliance, at 440-280-5415.
+David B. Hamilton
+Enclosure:
+LER 2017-003
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III
+NRCFORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessonslearned areincorporated intothelicensing process andfed backtoindustry.
+SendcommentsregardingburdenestimatetotheInformationServices Branch(T-2F43), U.S.
+(SeePage2forrequirednumberof digits/charactersforeachblock)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-
+10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameansused
+(See NUREG-1022, R.3forinstructionandguidanceforcompletingthisform toimposean informationcollection does notdisplayacurrentlyvalid OMBcontrol number, the
+http://www,nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRCmaynotconductorsponsor, and a person isnotrequired torespondto, the information
+collection.
+1.FACILITYNAME 2. DOCKETNUMBER 3. PAGE
+Perry Nuclear Power Plant 05000 440 1 OF 3
+4.TITLE:
+Annulus Exhaust Gas Treatment System Loss ofSafety Function
+5. EVENTDATE 6. LERNUMBER 7.REPORTDATE 8.OTHERFACILITIESINVOLVED
+SEQUENTIAL REV FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITYNAME DOCKETNUMBER
+04 27 2017 2017 - 003 00 06 26 2017
+05000
+9.OPERATINGMODE 11.THIS REPORTISSUBMITTEDPURSUANTTOTHE REQUIREMENTSOF10CFR§: (Checkallthatapply)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10.POWERLEVEL □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) □ 73.71(a)(4)
+20.2203(a)(2)(iii) □ 50.36(c)(2) □ 50.73(a)(2)(v)(B) □ 73.71(a)(5)
+□ 20.2203(a)(2)(iv) □ 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) D73.77(a)(1)
+100
+D 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) [I] OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFORTHIS LER
+LICENSEECONTACT: TELEPHONENUMBER(IncludeAreaCode)
+David Lockwood - Regulatory Compliance (440) 280-5200
+13.COMPLETEONELINEFOREACHCOMPONENTFAILUREDESCRIBEDINTHISREPORT
+MANU REPORTABLE MANU REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+BH DMP X999
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH
+SUBMISSION
+□ YES (Ifyes, complete 15. EXPECTEDSUBMISSIONDATE) NO
+DATE
+ABSTRACT (Limitto1400spaces, i.e.,approximately15single-spacedtypewrittenlines)
+OnApril 27, 2017, at0545 hours, with the plant in Mode 1 at 100 percent rated thermal power, while shiftingAnnulus ExhaustGas
+Treatment System (AEGTS)from sub-system B to sub-system A, annulusdifferential pressure could notbe maintainedwithin the
+required system operating band, which caused an unplanned entry intotechnical specification limiting conditions ofoperation and a
+momentary loss ofsafetyfunction. Sub-system Bwas inoperablewhile being shutdown to standby readiness in accordancewith plant
+operating proceduresandwould not have automatically started in responseto an actuation signal. Investigation determined thatsub
+system Awas inoperableduetofailed recirculation damper. Sub-system Bwas restarted at0550 hours, to maintain annulus
+differential pressure. Annulus differential pressurewas maintained abovethe minimum differential pressurethroughoutthe eventand
+the technical specification limiting conditionsforoperationwere notexceeded.
+The causefortheAEGTS sub-system A recirculation damperfailurewas afailuretofollow procedurewhich resulted in the split
+coupling thatconnectsthe actuatortothe dampernotbeing properlytightened. The recirculation damperwas repaired and
+AEGTS sub-systemAwas restored to operable status on April 28, 2017, at2208 hours. Thefailuretofollow procedurewas
+addressed bythe FENOC performance management process.
+SinceAEGTS is nota core damage mitigation system and does notmitigate large and earlycontainment releases, the inoperabilityof
+theAEGTS is determined to be ofsmall safety significance. This event is being reported in accordancewith 10CFR50.73(a)(2)(v)(C)
+and 10CFR50.73(a)(2)(v)(D) as an eventorcondition thatcould have prevented thefulfilmentofa safetyfunction.
+NRCFORM366(06-2016)
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT(LER)
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+V lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(See NUREG-1022, R.3forinstruction andguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRC may notconduct orsponsor, and a person is notrequired to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000 - 440 NUMBER NO.
+2017 - 003 00
+NARRATIVE
+Energy Industry Identification System (EMS) codes are identified in the text as [XX].
+INTRODUCTION
+On April 27, 2017, at 0545 hours, with the plant in Mode 1 at 100 percent rated thermal power, while shifting
+Annulus Exhaust Gas Treatment System (AEGTS) [BH] from sub-system B to sub-system A, annulus differential
+pressure could not be maintained within the required system operating band, which caused an unplanned entry
+into technical specification limiting conditions ofoperation and a momentary loss ofsafety function. Sub-system B
+was inoperable while being shutdown to standby readiness in accordance with plant operating procedures and
+would not have automatically started in response to an actuation signal. Investigation determined that sub-system
+Awas inoperable due to a failed recirculation damper [DMP]. Sub-system B was restarted at 0550 hours, to
+maintain annulus differential pressure. Annulus differential pressure was maintained above the minimum
+differential pressure throughout the event and technical specification limiting conditions foroperation were not
+exceeded.
+The recirculation damperwas repaired and AEGTS sub-system Awas restored to operable status on April 28,
+2017, at 2208 hours.
+DESCRIPTION OF EVENT
+AEGTS consists oftwo 100 percent sub-systems. AEGTS processes the ambient air in the annular space between
+the shield building and the containmentvessel to limit a release to the environment of radioisotopes which may
+leak from the primary containment underaccident conditions. The AEGTS is a recirculation type system with split
+flow. Some ofthe filtered airextracted from the annulus space is recirculated and some is discharged to the unit
+vent. AEGTS is designed to continuously maintain a negative pressure differential of0.25 inches ofwater gauge
+minimum between the containmentvessel annulus and the outside environment and directthe exhaustflow from
+the annulus through a charcoal filter plenum to ensure thatthe release of radioactivity to the environment is below
+permissible discharge limits. During normal operation the expected discharge to the unitvent is approximately 700
+cfm, at a negative pressure differential of0.66 inches ofwater gauge. The 0.66 inches ofwatergauge pressure
+differential is provided to maintain the 0.25 inches ofwatergauge minimum pressure differential required due to
+instrument location, to meet plant post-LOCA conditions, and to adjustforall environmental conditions. Operating
+parameters in accordance with plant procedures require annulus pressure to be maintained between 0.75 inches
+and 1.0 inches water gauge negative pressure differential.
+AEGTS sub-system Awas inoperable from April 24, 2017, at 0427 hours, until April 26, 2017, at 1453 hours, for
+planned maintenance which included replacementofthe actuatoron the recirculation damper.
+On April 27, 2017, while shifting AEGTS from sub-system B to sub-system A, annulus differential pressure could
+not be maintained within the required system operational band. During the shifting operation the offgoing AEGTS
+sub-system (in this event, B) exhaustfan's switch is held in STOP priorto being placed in STANDBY, which
+interrupts currentflowto a seal-in circuit and stops the exhaustfan. Ifan actuation signal is received while holding
+exhaustfan switch in the STOP position, the actuation signal is overridden, and another seal-in circuitwill continue
+to override the actuation signal when the switch is placed in STANDBY. Therefore, the offgoing AEGTS
+subsystem is declared inoperable while holding the exhaustfan switch in STOP, in accordance with plantoperating
+procedures. AEGTS sub-system B was declared inoperable at 0544 hours while the exhaustfan switch was held in
+STOP and declared operable at 0545 hours following release ofthe switch.
+Control room operators recognized that annulus differential pressure was outside ofthe operating band (0.7 inches
+watergauge negative differential pressure) and not improving. Control room operators started AEGTS sub-system
+B at 0550 hours, and stopped AEGTS sub-system A at 0556 hours. AEGTS sub-system Awas declared inoperable
+at 0545 hours. Investigation determined that sub-system Awas inoperable due to a failed recirculation damper.
+NRCFORM366A (06-2016) Page 2 of3
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT(LER)
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(See NUREG-1022, R.3forinstruction andguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRC may notconductorsponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant 05000 - 440 NUMBER NO.
+2017 - 003 00
+NARRATIVE
+CAUSE OF EVENT
+The cause forthe AEGTS sub-system A recirculation damperfailure was a failure to follow procedure by electrical,
+and instrument and controls technicians which resulted in the split coupling that connects the actuatorto the
+damper not being properly tightened.
+ANALYSIS OF EVENT
+Since AEGTS is not a core damage mitigation system and does not mitigate large and early containment releases,
+the inoperability ofthe AEGTS is determined to be ofsmall safety significance. This event is being reported in
+accordance with 10CFR50.73(a)(2)(v)(C) and 10CFR50.73(a)(2)(v)(D) as an event orcondition that could have
+prevented the fulfilment ofa safety function.
+CORRECTIVE ACTIONS
+The failure to follow procedure was addressed by the FENOC performance management process.
+PREVIOUS SIMILAR EVENTS
+A review of LERs and the corrective action database forthe pastthree years identified that no previous similar
+events occurred involving AEGTS.
+COMMITMENTS
+There are no regulatory commitments contained in this report. Actions described in this document represent
+intended or planned actions, are described forthe NRC's information, and are not regulatory commitments.
+NRCFORM366A (06-2016) Page 3 of3

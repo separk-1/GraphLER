@@ -1,0 +1,173 @@
+•
+Entergy Operations, Inc.
+-=- Entergy. River Bend Station
+5485 U.S. Highway 61 N
+St. Francisville, LA 70775
+Tel 225-635-5000
+Steven P. Vercelli
+Site Vice President
+River Bend Station
+10 CFR 50.73
+RBG-48008
+March 4, 2020
+Attn: Document Control Desk
+U.S. Nuclear Regulatory Commission
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Subject: Licensee Event Report 50-458 / 2020-001-00, "Loss of Control Building Chill
+Water due to Chiller Control Panel Installation Error".
+River Bend Station, Unit 1
+NRC Docket No. 50-458
+Renewed License No. NPF-47
+In accordance with 1O CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Mr. Tim Schenk
+at 225-881-4177.
+SPV/twf
+Enclosure: Licensee Event Report 50-458 / 2020-001-00, "Loss of Control Building Chill
+Water due to Chiller Control Panel Installation Error".
+cc: NRC Region IV Regional Administrator, w/o Enclosure
+NRC Senior Resident Inspector - River Bend Station, Unit 1
+Ji Young Wiley, Department of Environmental Quality, Office of Environmental
+Compliance, Radiological Emergency Planning and Response Section
+Public Utility Commission of Texas, Attn: PUC Filing Clerk
+NRC Project Manager
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request 80 hour_s.
+r- _, Reported lessons learned are incorporated into the licensing process and fed back to
+;:,<;)Pf!, REQ1,4.,..0 LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+.,_ I: (See NUREG-1022, R.3 for instruction and guidance for completing this form Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+\ - '"-' ~I Washington, DC 20503. If a means used to impose an information collection does not
+'')_ l.t.* il · r -· 1 (:t'.' http://WVvw.nrc;.ggv/reading-rm/dQQ-QQll~QtiQns/nuregsJstaff/sr1 Q22/r3/) p d e is r p s l o a n y i a s n cu o r t r r e e n q t u ly i r v e a d f i t d o 0 re M s B po n c d o n t t o ro , l t h n e u m in b fo e r r m , a th ti e o n N c R o G lle m ct a io y n n . ot conduct or sponsor, and a
+1. Facility Name 2. Docket Number 3.Page
+River Bend Station 05000 458 1 OF 3
+4. Title
+Loss of Control Building Chill Water due to Chiller Control Panel Installation Error
+/ I
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year NA 05000 NA
+01 09 20 20 - 001 - '-: 00 03 04 20 Facility Name Docket Number
+NA 05000 NA
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50. 73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50. 73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D 50. 73(a)(2)(iii) D 50. 73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50. 73(a)(2)(iv)(A) D 50. 73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) 0 50. 73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50. 73(a)(2)(v)(B) D 73. 71 (a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50. 73(a)(2)(v)(C) D 73. 77(a)(1)
+100 D 20.2203(a)(2)(v) D 50. 73(a)(2)(i)(A) 0 50. 73(a)(2)(v)(D) D 73. 77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50. 73(a)(2)(i)(B) D 50. 73(a)(2)(vii) D 73. 77(a)(2)(ii)
+- D 5 0.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Tim Schenk, Manager - Regulatory Assurance 225-381-4177
+.
+I 13. Complete One Line for each Component Failure DeIsc ribed in this Report I
+!ii 1
+N;mpon,nt
+Cause System Component IN;'""'"'""" Reportable to ICES NA System Manufacturer Reportable to ICES
+NA NA NA NA Cause NA NA NA
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) 0 No NA NA NA
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On January 9, 2020 at 11 :32 CST with the reactor at 100% power, a post modification test was performed on Division I Control
+Building Chilled Water System Chiller A (HVK-CHL 1A). During the test, both Division I and Division II Control Building Chilled
+Water Systems (HVK) were declared Inoperable resulting in a condition that could have prevented fulfilment of a safety function.
+The event occurred while transferring from operation with HVK Chiller B (HVK-CHL 1 B) to HVK-CHL 1A as part of the test. With
+HVK-CHL 1A in standby, HVK-CHL 1B was secured to start the transfer sequence. HVK-CHL 1A should have auto started but
+instead tripped on a Phase Reversal alarm within the digital control logic. An attempt was made to place HVK-CHL 1B back in
+service but it also failed to start rendering both Divisions Inoperable. HVK was restored by placing the alternate Division I Chiller
+(Chiller 'C') in service and the alternate Division II Chiller (Chiller 'D') in standby approximately 17 minutes after the event. This
+event is being reported in accordance with 10 CFR 50. 73(a)(2)(v)(A) and 10 CFR 50. 73(a)(2)(v)(D). The Environmental Design
+Criteria maximum temperatures for the critical areas that the HVK system cools were not challenged. Therefore, this event was
+of minimal significance to the health and safety of the public. -
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 ho.urs. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid 0MB control nuniber, the NRC may not conduct or
+http://www.mc.gov/readfrig-rm/doc-collections/nuregs/staff/ sr1022/r3D sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+~~~
+!River Bend Station 05000-1 458 - 1 Y EAR' 1 •. -_ - SE~:~L I-~
+.
+1
+NARRATIVE
+BACKGROUND
+The Control Building Chilled Water System (HVK) is designed to remove heat generated within the Control Building to
+maintain the required environmental conditions. HVK is a closed loop cooling water system and·provides a continuous
+flow of chilled water to the Control Building Air Conditioning Units. The chllled water is supplied by two independent trains,
+or Divisions. Each Division can meet the total chilled water demand. Each HVK Division consists of two 100% capacity
+Chillers. During normal system operation one HVK Division is in service supplying all system loads and the other HVK
+Division is in standby. The in-service Division consist of one running Chiller and one locked out Chiller. The standby
+Division consist of one standby Chiller and one locked out Chiller. The standby Chiller is designed to auto start if the
+running Chiller in the other Division trips.
+REPORTED CONDITION
+On January 9, 2020 at 11 :32 CST with the reactor at 100% power, both Division I and Division II Control Building Chilled
+WaJer Systems (HVK) were declared Inoperable resulting in a condition that could have prevented fulfillment of a safety
+function. A post maintenance test was in progress on Division I HVK Chiller A (HVK-CHL 1A) following the installation of a
+digital control modification. The test called for a transfer from the Division II HVK Chiller B (HVK-CHL 1 B) in service to the
+HVK-CHL 1A in service. To perform the transfer HVK-CHL 1 B was secured with HVK-CHL 1A in standby. HVK-CHL 1A
+.failed to start do to a Phase Reversal alarm. An attempt was made to place HVK-CHL 1 B back in service but it also failed
+to start, rendering both Divisions of HVK Inoperable. HVK was restored by placing the Division I HVK Chiller C (HVK
+CHL 1C ) in service and Division II HVK Chiller D (HVK-CHL 1 D) in standby approximately 17 minutes after the event.
+The cause of the Phase Reversal alarm was identified and corrected. HVK-CHL 1A has been successfully tested and
+restored to an Operable status. HVK-CHL 1 B was extensively tested but a fault could not be detected, and the failure
+could not be repeated. Chiller performance was carefully monitored with no anomalies noted and the Chiller has been
+declared Operable.
+This event is being reported in accordance with 10 CFR 50. 73(a)(2)(v)(A) and 10 CFR 50. 73(a)(2)(v)(D) as an event that
+could have prevented the fulfillment of the safety function of structures or systems that are needed to shut down the
+reactor and maintain it in a safe shutdown condition and mitigate the consequences of an accident.
+A post event evaluation determined that the actions taken by operators met the criteria· for substitution of the automatic
+action. Therefore, this event is not considered a Safety System Functional Failure.
+PREVIOUS OCCURRENCE EVALUATION
+Although there have been several instances of HVK failures at River Bend Station (RBS), none were caused by the same
+failure mechanism of this event.
+CAUSAL ANALYSIS
+The HVK-CHL 1A Phase Reversal alarm was caused by a wiring configuration error made during installation of a digital
+control system modification. Installation instructions and associated drawings for the modification were found to be
+inadequate and/or vague.
+NRC FORM 366A (04-2018) Page 2 of 3
+·N RC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503.. If a means used to impose an information
+(See NURE~-1022, R.3 for instruction and·guidance for completing this form
+collection does not display a currently valid 0MB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I 1-r~~ 1
+l-1 s·~~~~L
+05000-1 . 458
+'River Bend Station 11 YEAR
+NARRATIVE
+A thorough investigation was performedwhich encompassed all possible component failures and human performance
+errors to determine the cause of the HVK-CHL 1 B failure. All possible causes were refuted.
+CORRECTIVE ACTION TO PREVENT RECURRENCE
+An evaluation has been completed which credits manual action of dedicated operators when. assessing the Operability of
+HVK in similar events.
+Although there were no faulted components identified for the HVK-CHL 1A failure, all components that were identified as
+having a potential intermittent failure will be replaced. This action is documented in the RBS corrective action program.
+SAFETY SIGNIFICANCE
+The Environmental Design Criteria maximum temperatures for the critical areas that the HVK system cools were not
+challenged. There were no actual nuclear or radiological safety consequences due to this event. This event Was of
+minimal significance to the health and safety of the public.
+(NOTE: Energy Industry Identification System component function identifier and system name of each component or
+system referred to in the LER are annotated as (**XX**) and [XX], respectively.)
+NRC FORM 366A (04-2018) Page 3 of 3

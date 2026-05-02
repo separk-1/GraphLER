@@ -1,0 +1,213 @@
+Constellation~
+SVP-23-059 10 CFR 50.73
+November 30, 2023
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-30
+NRC Docket No. 50-265
+Subject: Licensee Event Report Revision 265/2023-001-01 "Turbine Trip and Automatic
+Reactor Scram due to High Moisture Separator Level"
+Enclosed is Licensee Event Report Revision 265/2023-001-01 "Turbine Trip and Automatic Reactor
+Scram due to High Moisture Separator Level," for Quad Cities Nuclear Power Station, Unit 2.
+This revised report is being submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A) for an event or
+condition that resulted in manual or automatic actuation of the reactor protection system including a
+reactor scram.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this revised report, please contact Rachel Luebbe at
+(309) 227-2813.
+Respectfully,
+~ ~
+Brian Wake
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150--0104 EXPIRES: 03/31/2024
+(10.01-2023)
+Estimalad b. .d on p.-response to comp¥ wi1h this mandatory collectim 19qu8St 80 hOIIS. Reported lassons
+.I'. ............ LICENSEE EVENT REPORT (LER) lean.d are incorpaatad into the licensing process and fed bad< to industy. Send comments regwding hi.don
+estimala to the FOIA, L.irary, and In- Colections Branch (T~ A10M), U. S. Nuclear Regulatay
+!\; .~.... i; Commission, Washilgm, OC 20555-0001, er by email to lnh>collacts.Resoll'co@rrc.gov, and ht 0111 ,_
+(See Page 2 for required number of digits/characters for each block) at 0MB Office of Information and Regulmy Allars, (3150-0104), Alln: Desi< otlcer for ht Nuclall' Regulalay
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 1711 Steel NW, Washington, DC 20503; email: o;a submi5SIOl1@arnb.eg,.qov. The NRC may
+h!!Q'//www.nrc.gov/reading-rm/doc-<:0llections/nuregs/staff/sr1 022/[3/) not conduct er spoosor, a,d a penon is not reqlirad to respood to, a coleclon of nformation unless the doc..nent
+•~oslrog ar 19quiing ht ooleclon <isplays a C11Tently vaid 0111 contol oornb«,
+1. Facility Name ~ 050 2. Docket Number 3.Page
+Quad Cities Nuclear Generating Station Unit 2 05000-265 1 OF 4
+□ 052
+4. Title
+Turbine Trip and Automatic Reactor Scram due to High Moisture Separator Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Se N q u u m e b n e ti r a l Rev N i o s . i on Month Day Year Facility Name □ 050 Docket Number
+08 11 2023 2023 - 001 - 01 11 30 2023 Facility Name □ 052 Docket Number
+9. Operating Mode 110. Power Level
+1 - Power Operation 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D
+10 CFR Part 20 20.2203(a)(2)(vl) 10CFRPart~ □ 50.73(a)(2)(11)(A) 50.7 3(a)(2)(vlii)(A) 73.1200(a)
+D D
+□ 20.2201(b) 20.2203(a)(3)(1) □ 50.36(c)(1)(1)(A) □ 50.73(a)(2)(11)(B) 50.73(a)(2)(vlii)(B) □ 73.1200(b)
+0 0 0 0 0
+□ 20.2201(d) 20.2203(a)(3)(11) 50.36(c)(1)(11)(A) 50.73(a)(2)(111) 50.73(a)(2)(1x)(A) 73.1200(c)
+0 0 D D
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) ~ 50. 73(a)(2)(iv)(A) 50. 73(a)(2)(x) □ 73.1200(d)
+D 0
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(11) □ 50. 73(a)(2)(v)(A) 10 GFR Parit 73 □ 73.1200(8)
+0 D D
+20.2203(a)(2)(11) 21.2(c) □ 50.69(g) □ 50. 73(a)(2)(v)(B) 73.77(a)(1) □ 73.1200(f)
+0 0 0
+20.2203(a)(2)(iii) □ 50. 73(a)(2)(1)(A) 50. 73(a)(2)(v)(C) 73. 77(a)(2)(1) □ 73.1200(g)
+D 0 D D
+20.2203(a)(2)(Iv) 50.73(a)(2)(i)(B) 50. 73(a)(2)(v)(D) 73.77(a)(2)(il) □ 73.1200(h)
+0 0
+20.2203(a)(2)(v) □ 50. 73(a)(2)(1)(C) 50.73(a)(2)(vii)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact !Phone Number (Include area code)
+Erin Whitsell, Senior Regulatory Engineer 309-227 -2828
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A SN LC F130 y n/a
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+~ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces. i.e., approximately 13 single-spaced typewritten lines)
+On August 11, 2023, at 0329, Quad Cities Unit 2 had an automatic scram from full power due to a trip of the main turbine. A
+fault in the Essential Service System (ESS) caused a feedwater heater (FWH) system transient. The drain valve for the 2A
+Moisture Separator Drain Tank (MSDT) did not open rapidly enough to prevent water level in the moisture separators from
+reaching the established turbine trip setpoints. The Unit 2 Main Turbine tripped as designed and generated an automatic
+reactor scram. All control rods inserted and the scram was uncomplicated. Containment isolation valves actuated closed in
+multiple systems on a valid Group II signal.
+The cause of the event is an improperly tuned Level Controller for the 2A MSDT allowing the high level turbine trip to be
+reached following a FWH transient. Completed corrective action was a component recalibration. Planned actions are procedure
+changes and training.
+This report is being submitted per 10 CFR 50.73(a)(2)(iv)(A) for an event that resulted in manual or automatic actuation of the
+reactor protection system including a reactor scram.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Litrary, and Information CoDections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonnation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclea.< Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of infonnalion unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3Q requesting or requiring the collection displays a currently vaUd 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+00 050 SEQUENTIAL REV
+YEAR NUMBER NO.
+Quad Cities Nuclear Generating Station Unit 2 05000-265
+0 052 2023 - 001 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Turbine Trip and Automatic Reactor Scram due to High Moisture Separator Level
+CONDITION PRIOR TO EVENT
+Unit: 2 Event Date: August 11, 2023 Event Time: 0329 CDT
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+No structures, components, or systems that were inoperable at the start of the event that contributed to the event.
+A. DESCRIPTION OF EVENT
+On August 11th, 2023, at 0329, Quad Cities Unit 2 had an automatic scram from full power due to a
+trip of the main turbine [TRB]. A fault in the Essential Service System (ESS)[UJX] caused a feedwater heater
+(FWH)[HX] system transient. The drain valve [LC] for the 2A Moisture Separator Drain Tank (MSDT)[SN][TK] did
+not open rapidly enough to prevent water level in the moisture separators [MSR] from reaching the established
+turbine trip setpoints. The Unit 2 Main Turbine tripped as designed and generated an automatic reactor scram. All
+control rods were inserted and the scram was uncomplicated. Containment isolation valves actuated closed in
+multiple systems on a valid Group II signal.
+B. CAUSES OF EVENT
+The cause of the scram was an improperly tuned emergency level control valve (LCV) for a MSDT. Tuning was
+performed by a utility technician based on knowledge of the component and their understanding of plant response
+without adequate work instructions. There was no evidence of time pressure during this evolution. The controller's
+[LCO] setpoints were configured to provide a slower response than was appropriate for responding to a FWH level
+transient. In this case, the valve did not respond rapidly enough to prevent overfilling the associated MSDT and
+eventually tripping the turbine on high level in the moisture separators.
+C. SAFETY ANALYSIS
+SYSTEM DESIGN
+Moisture Separator Drain Tank Level Controller
+High pressure turbine exhaust steam is routed to four moisture separators prior to entering the low-pressure
+turbines. Steam passes through chevron separator elements to remove water droplets which drain to two
+MSDTs. On a High Level in the MSDT, the MSDT emergency drain valve opens and the normal MSDT LCV
+NRC FORM 366A (10-01-2023) Page ..L of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+{10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear RegulatOIY Commission, 72517th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+IKI 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Quad Cities Nuclear Generating Station Unit 2 05000-265
+□ 052 2023 - 001 - 01
+NARRATIVE
+remains open. On loss of power from ESS, the normal MSDT LCV fails closed and level is maintained by the
+emergency drain valve.
+SAFETY ANALYSIS
+There were no safety consequences as a result of this event. The operators performed all actions in accordance
+with the procedures and training. An Automatic scram occurred without complications due to a turbine trip
+caused by moisture separator high level. All expected ESF actuations occurred as designed to bring the reactor
+to a safe shutdown condition. Adequate makeup to the vessel was available at all times from the feedwater
+system, as well as from the ECCS systems. The event was within the analysis of the UFSAR Chapter 15,
+UFSAR Chapter 6, and there were no radioactive releases. Off-site power was maintained on both Units
+supplying power to the 4 kV safety busses. The Emergency Diesel Generators (EDG) were available if required.
+Unit 1 was not affected by the Unit 2 scram.
+This is not a Safety System Functional Failure per NEI 99-02, Revision 7.
+D. CORRECTIVE ACTIONS
+Immediate:
+1. Tuned the emergency MSDT LCV to ensure appropriate transient response (Complete)
+Follow Up:
+1. Implement procedure change to provide additional direction for MSDT LCV tuning at all power levels.
+2. Implement training on the requirements regarding the acceptable situations in which maintenance activities
+can be conducted without a set of written instructions.
+E. PREVIOUS OCCURRENCES
+The station events database, LERs, and INPO Industry Reporting Information System (IRIS) were reviewed for
+similar events at Quad Cities Nuclear Power Station in the last three years. A similar event had occurred on
+2/26/2020, in which a failure of a component in the Unit 2 ESS UPS had resulted in a FWH level transient
+(reference IR 4321603). This event differed from the more recent event on 8/11/2023, in that the emergency
+LCVs functioned appropriately to control level in the FWH system. This ESS UPS component failure factored into
+the decision to replace/upgrade the ESS UPS systems on both Unit 1 and Unit 2 at Quad Cities Nuclear
+Generating Station. This upgrade was installed on Unit 1 in 2023 during the refuel outage and is scheduled for
+installation on Unit 2 during the 2024 refueling outage.
+No other relevant events were identified during the previous 3-year history.
+NRC FORM 366A (10-01-2023) Page..l.._ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) raga-ding burden estimate lo the FOIA, Lilnry, and Information Colections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfom,ation and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of infom,ation unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+[8] 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Quad Cities Nuclear Generating Station Unit 2 05000-265
+D 052 2023 - 001 01
+NARRATIVE
+F. COMPONENT FAILURE DATA
+Level Controller
+Manufacturer: Fisher Controllers
+Supplier: Fisher Controllers
+Nomenclature: Pneumatic Controller
+Model/Part Number: 4195KB
+NRG FORM 366A (10-01-2023) Page....i.. of _4_

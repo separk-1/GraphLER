@@ -1,0 +1,204 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+Attn: Document Control Desk 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388/2020-001-01
+UNIT 2 LICENSE NO. NPF-22
+PLA-7887 Docket No. 50-388
+Attached is Licensee Event Report (LER) 50-388/2020-001-01. The LER supplement reports an
+event involving a manual scram due to rising main condenser backpressure. The condition is
+being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a
+manual actuation of the Reactor Protection System (including a reactor scram).
+There were no actual consequences to the health and safety of the public as a result of this event.
+Attachment: LER 50-388/2020-001-01
+Copy: NRC Region I
+Mr. C. Highley, NRC Sr. Resident Inspector
+Ms. S. Goetz, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+~v"vf*. ncQlft ..i '! lessons learned are Incorporated into the licensing process and fed back to industry. Send
+.,~" ,,<>~ LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch {T-6
+~ rt" <6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+I"; s (See Page 3 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+~~ of Affairs, (3150-0104), Attn: Desk ail: oira submlsslon@omb.eop.gov. The NRC may not conduct or
+'I *>ttl<~" (See NUREG-1022, R.3 for instruction and guidance for completing this sponsor, and a person is not required to respond to, a collection of Information unless the document
+form htt()s://www. nrc.gov/reading-rm/doc-collections/nur~s/staff/sr1 022/r3[) requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 13. Page
+Susquehanna Steam Electric Station Unit 2 05000388 1 of 4
+4. Title
+Manual Scram Due to Rising Main Condenser Backpressure Caused by Failure of an Offgas Recombiner Inlet
+Valve
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+02 14 2020 2020 - 001 - 01 11 05 2020
+05000
+9. Operating Mode 10. Power Level
+1 098
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 .CFR Pari: 20 D 20.2203(a)(2)(vi) D 50.36(c)(2) IZl 50. 73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.46(a)(3)(ii) D 50. 73(a)(2)(v)(A) __ 10 CFR-Part 73
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.69(g) D 50. 73(a)(2)(v)(B) D 73.71(a)(4)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(i)(A) D 50. 73(a)(2)(v)(C) D 73.71(a)(5)
+D 20.2203(a)(2)(i) 10 CFR Part21 D 50.73(a)(2)(i)(B) D 50. 73(a)(2)(v)(D) D 73.77(a)(1)(i)
+D 20.2203(a)(2)(ii) D 21.2(c) D 50.73(a)(2)(i)(C) D 50. 73(a)(2)(vii) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(iii) 1 0 CFR Part 50 D 50.73(a)(2)(ii)(A) D 50. 73(a)(2)(viii)(A) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(iv) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(2)(v) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+I
+Licensee Contact Phone Number (Include Area Code)
+C. E. Manges, Jr, Senior Engineer-Nuclear Regulatory Affairs 570-542-3089
+13. Complete One Line for each Component Failure Described in this Report
+Cause I System Component I Manufacturer I Reportable to IRIS I Cause I System I Component I Manufacturer I Reportable to IRIS
+X I WF FCV I V037 I y I I I I I
+14. Supplemental Report Expected Month I Day I Year
+IZl No I D Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date : I I
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On February 14, 2020 at 00:25, Susquehanna Steam Electric Station (SSES) Unit 2 reactor was manually
+scrammed due to rising Main Condenser backpressure caused by a loss of the Unit 2 Offgas Recombiner.
+This event was reported by Notification EN 54525 in accordance with 10 CFR 50. 72(b)(2)(iv)(B) and
+(b)(3)(iv)(A). This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that
+resulted in a manual actuation of the Reactor Protection System (RPS) (including reactor scram), as well
+as associated isolation and actuation of other systems listed in 10 CFR 50. 73(a)(2)(iv)(B), including the
+Reactor Core Isolation Cooling (RCIC) system.
+The most probable cause was an inadvertent closure (drifting closed) of the Unit 2 Offgas Recombiner
+System Inlet Control Valve. Stroking, disassembly, reassembly, and air operated valve diagnostics
+alleviated the cause of the inadvertent closure.
+There were no actual safety consequences associated with the condition.
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to Industry. Send comments
+LICENSEE EVE NT REPORT ( LE R) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: olra submlsslon@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form sponsor, and a person Is not required to respond to, a collection of information unless the document
+https:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3D requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2020 001 01
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 86 percent Rated Thermal Power
+Unit 2 - Mode 1, approximately 98 percent Rated Thermal Power
+Loss of the Unit 2 Offgas Recombiner caused rising Main Condenser backpressure, which resulted in the
+need for a manual scram.
+EVENT DESCRIPTION
+On February 14, 2020 at 00:25, Susquehanna Steam Electric Station Unit 2 reactor was manually
+scrammed due to rising Main Condenser [EllS System Code/Component Code: SG/COND] backpressure
+caused by a loss of the Unit 2 Offgas Recombiner [EllS System/Component Code: WF/RCB]. Following
+is a timeline of the events associated with the scram:
+February 14, 2020 at approximately 00:12- Unit 2 Offgas Recombiner OC145 Panel Trouble and 2C198
+Hydrogen Water Chemistry Panel Trouble alarms were received along with indication of rising Main
+Condenser backpressure. Initial Main Condenser backpressure was 2.6 inches HgA (Mercury Absolute)
+and was rising at approximately 0.3 inches HgA/minute.
+February 14, 2020 at approximately 00:15- A Recirculation Limiter 2 run back was inserted to lower
+reactor power. Main Condenser backpressure continued to rise following the reduction in reactor power.
+February 14, 2020 at approximately 00:25-A manual scram was inserted by placing the Reactor Mode
+Switch to Shutdown when Main Condenser backpressure rose to 6 inches HgA. All control rods inserted.
+Reactor water level lowered to -30 inches causing a Level 3 (+13 inches) isolation and a partial (Division
+2) Level 2 (-38 inches) isolation. The Reactor Core Isolation Cooling (RCIC) system [EllS System Code:
+BN] actuated as expected for given plant conditions. Operators subsequently maintained reactor water
+level at the normal operating band using the Reactor Feed Water system [EllS System Code: SJ]. No
+steam relief valves [EllS System/Component Code: SB/RV] opened. The Reactor Recirculation Pumps
+[EllS System Code/Component Code: AD/P] remained in service.
+This event was reported by Notification EN 54525 in accordance with 10 CFR 50.72(b)(2)(iv)(B) and
+(b)(3)(iv)(A). This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that
+resulted in a manual actuation of the Reactor Protection System (RPS) (including reactor scram), as well
+as associated isolation and actuation of other systems listed in 10 CFR 50. 73(a)(2)(iv)(B), including RCIC.
+CAUSE OF EVENT
+The most probable cause was an inadvertent closure (drifting closed) of the Unit 2 Offgas Recombiner
+System Inlet Control Valve (HV26912) [EllS System/Component: WF/FCV]. Indications, system
+responses, and troubleshooting narrowed the failure to HV26912 inadvertently drifting closed, resulting in
+increased Main Condenser backpressure and the stalling of the Steam Jet Air Ejector [EllS
+System/Component Code: SH/EJR].
+NRC FORM 366A (08-2020) Page __£ of _1.
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are Incorporated into the licensing process and fed back to Industry. Send comments
+LJC ENS EE EVE NT REPORT {LE R) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-01 04), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of Information unless the document
+https:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3D requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2020 001 01
+NARRATIVE
+Contributing to this event were a degraded antenna cable connector that resulted in poor radio
+communication and lack of clear procedural direction to place the standby offgas recombiner in service for
+the condition that existed. These contributors resulted in delay in placing the standby offgas recombiner
+in service.
+ANALYSIS/SAFETY SIGNIFICANCE
+The actual consequences from the loss of the Unit 2 Offgas and Condenser Air Removal Systems were
+rising main condenser backpressure, a forced down power, and subsequent manual scram.
+The potential consequences included the following:
+• Without prompt operator action, an automatic scram would have initiated, potentially with
+complications.
+• Had the Common Offgas Recombiner not been available, the scram would have been complicated by
+the continued loss of condenser vacuum until the Mechanical Vacuum Pump [EllS
+System/Component Code: SHIP] was placed in service, and steam would have been directed to the
+Suppression Pool.
+Based on the results of a risk significance evaluation, the event was classified as "very low" safety
+significance. During the event, very few risk significant components were out of service. The manual
+scram was uncomplicated, did not require Emergency Core Cooling System (ECCS) initiation, and Main
+Steam Isolation Valves (MSIVs) remained open (i.e., the main condenser remained available as the
+primary heat sink).
+The condition described herein did not result in a safety system functional failure. Accordingly, this event
+will not be counted as a safety system functional failure in the Reactor Oversight Process Performance
+Indicators. There were no actual consequences to the health and safety of the public as a result of this
+event.
+CORRECTIVE ACTIONS
+Key corrective actions include:
+1. HV26912 stroking, disassembly, reassembly, and air operated valve diagnostics alleviated the cause
+of the inadvertent closure.
+2. The degraded antenna cable connector was repaired and signal strength checks were added to the
+annual radio health check preventive maintenance.
+3. Established a tracking system to ensure Operations hand held radios are periodically maintained,
+including re-tuning.
+4. Off normal vacuum procedures were revised to include abnormal offgas recombiner operation with
+rapidly degrading vacuum.
+5. Replacement and testing of SV26912 during the next system outage window is planned and
+Susquehanna will revise the cause analysis if conflicting information is found.
+NRC FORM 366A (08-2020) Page .1. of..!.
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are Incorporated into the licensing process and fed back to Industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 OM}, U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk all: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form sponsor, and a person Is not required to respond to, a collection of Information unless the document
+https:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3D requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2020 001 01
+NARRATIVE
+COMPONENT FAILURE INFORMATION
+Component failure information is as follows:
+Manufacturer: Valtek, Inc.
+Model No.: Mark I
+Valve Function: Flow Control Valve
+Valve Type: Globe
+Size: 10 inches
+Actuator Type: Air-Operated
+PREVIOUS OCCURRENCES
+LER 50-388/2015-003, "Unit 2 Automatic Reactor Scram Caused by Main Turbine Trip Due to Loss of Main
+Condenser Vacuum," dated June 8, 2015
+NRC FORM 366A (08-2020) Page ..!_ of..!_

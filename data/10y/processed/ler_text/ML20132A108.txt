@@ -1,0 +1,267 @@
+(? Exelon Generation~.
+Jjl&t&-
+10 CFR 50.73
+NMP2L273010
+May 4, 2020
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-41 o
+Subject: NMP2 Licensee Event Report 2020-001, Manual Scram due to an Electro
+Hydraulic Control Fluid Leak on the Turbine Control System
+In accordance with the reporting requirements contained in 10 CFR 50.73(a)(2)(iv)(A), please
+find enclosed NMP2 Licensee Event Report 2020-001, Manual Scram due to an Electro
+Hydraulic Control Fluid Leak on the Turbine Control System.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+~ a - ~ ¥ '
+Todd A. Tierney (/
+Plant Manager, Nine Mile Point Nuclear Station
+Exelon Generation Company, LLC
+TAT/DJW
+Enclosure: NMP2 Licensee Event Report 2020-001, Manual Scram due to an Electro
+Hydraulic Control Fluid Leak on the Turbine Control System
+cc: NRG Regional Administrator, Region I
+NRG Resident Inspector
+NRG Project Manager
+Enclosure
+NMP2 Licensee Event Report 2020-001
+Manual Scram due to an Electro-Hydraulic Control Fluid Leak on the Turbine Control System
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04•2017)
+Estimated burdsn per response lo comply with this mandatory collection request: 80 hours.
+lW.'
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate lo the Information Seivices Branch (T-2 F43), U.S.
+:~.. ... .,:I Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to ln!ocollects.
+~ ~ ~ (See Page 2 for required number of digits/characters tor each block) Resource@nrc.gov, and to the Desk Officer, Office ol Information and Regulatory Affairs,
+NEOB-10202, (3150·0104), Office of Management and Budget Washington, DC 20503. II a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose an information collection does not display a currently valid 0MB control number, the
+htt12://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) NRC may not conduct or sponsor, and a person is not required lo respond to, the Information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Nine Mile Point Unit 2 05000410 1 OF 5
+4. TITLE
+Manual Scram due to an Electro-Hydraulic Control Fluid Leak on the Turbine Control System
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACIUlY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR .SEQUENTIAL REV MONTH DAY YEAR N/A N/A
+NUMBER NO.
+- FACILllY NAME'; DOCKET NUMBER
+3 04 2020 2020 - 001 00 05 04 2020 N/A NIA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+~0.2201 (b> 20.22oa(a)(3)(i> 50.73(a)(2)(il)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3l(i1> 50.73(a)(2)(11)(B) 50.73(a)(2)(vili)(B)
+1
+D D D D
+20.2203(a)(1> 20.2203(aJ(4> so.1a(a)(2Hm> 50. 73(a)(2)(ix)(A)
+D D 181 0
+20.2203(aJ(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50. 73(a)(2)(x)
+D D D D
+1 O. POWER LEVEL 20.22oa(a)(2)(11> 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 1a.11(aJ(4>
+D D D D
+20.22oa(aJ(2>(m> so.as(c)(2J 50.73(a)(2)(v)(B) 1a.11 (a)(s>
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(3)(n> 50.73(a)(2)(v)(C) 1a.11(a)(1>
+88 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 1a.11(a)(2J<i>
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) so.1a(aH2>(v11> 1a.11(a><2)(ii)
+D D
+' ' . ..', '. : 50.73(a)(2)(i)(C) OTHER Specify In Abstract below or in NRC Fonn 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Ares Code}
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A TU N R U E · R RE T P O OR E T P A IX B LE CAUSE SYSTEM COMPONENT FA M C A T N UR U E · R RE T P O OR E T P A IX B LE
+D TG ACC GE y N/A N/A N/A N/A N/A
+14, SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 181 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, I.e., approximately 15 sing/a-spaced typewritten lines)
+On March 4, 2020 at 12:05, Nine Mile Point Unit 2 (NMP2) inserted a manual reactor scram due to lowering
+Electro-Hydraulic Control System (EHC) level in the turbine control system. An un-isolable leak occurred when
+a %-inch stainless steel tube failed on the EHC supply header. The plant responded as designed following the
+o
+manual scram with all safety systems remaining in a normal standby lineup. This event is reportable under 1
+CFR 50.73(a)(2)(iv)(A) as any event or condition that resulted in a manual or automatic actuation of any of the
+systems listed in 10 CFR 50.73(a)(2)(iv)(B).
+The cause of the event is inadequate procedure quality that prevented the performance of appropriate
+preventative maintenance resulting in cyclic fatigue failure of the EHC line. The corrective actions include
+improving the preventative maintenance procedure and system monitoring strategies.
+NRC FORM 366 (04-2017)
+NRC FORM 368A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017))
+Esttmated burden per response to comply with this mandatory collection request: 80 hours. Reported
+J:.,...,...,o.,i.,,, lessons learned are incorporated into the licensing prat:ess and led back to induslry. Send
+l-~ ..J \ LICENSEE EVENT REPORT (LER) R co e m gu m la e l n o l r s y rega C rd o in m g m b is u s rd io e n n , esti W ma a t s e h in to g to th n e , Info D rm C a tion 2 S 0 e 5 r 5 v 5 ic -0 e 0 s 0 B 1, r anch o r ( T·2 b F y 4 3), U e . - S m . a N il ucle l a o r
+a \~ . ~ ~ ,., . · < · . . l .: . o : : . '/i . ,,t f. ~,i': CONTINUATI0" 1111 SHEET N ln E lo O co B l - le 1 c 0 l 2 s 0 .R 2, e s (3 o 1 u 5 rc 0 e -0 @ 10 n 4 rc ), . g O o f v fi , c e a n o d f l M o a lh n e ag D em es e k n O t a ff n ic d e r B , u O d f g fi e c t e , o W f a ln sh lo in rm gt a o l n io , n D a C n d 2 0 R 5 e 0 g 3 u . lat I o f r a y A m f e fa a ir n s s ,
+used lo impose an information collection does not display a currently vatid 0MB contrcl number, lhe
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may nol conduct or sponsor, and a person is not required to respond lo, the information
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3/} collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Nine Mile Point Unit 2 VEAR SEQUENTIAL REV
+05000410 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Prior to the event, NMP2 was operating at 88% reactor power.
+B. EVENT:
+At 11 :34 on March 4, 2020, NMP2 received Control Room Annunciation, Turbine Controls EHC
+Storage Tank low-level alarm. Following receipt of the low-level alarm, investigation by
+Operations identified a significant EHC leak on Turbine Building elevation 277' in the area of the
+Turbine Stop and Control Valves. Based on field assessments, the Control Room staff
+determined that the continuing lowering trend in EHC reservoir level was unable to be mitigated
+and a manual reactor scram was inserted at 1205. The plant responded as designed following
+the manual scram with all safety systems remaining in a normal standby lineup and operators
+stabilized the plant in Mode 3. The EHC leak was then isolated and the station entered a forced
+outage.
+Nine Mile Point Unit 1 was unaffected by the scram at NMP2.
+Operations performed the ENS notification (#54562) required by 10 CFR 50.72(b)(2)(iv)(B)
+and 1O CFR 50. 72(b )(3)(iv)(A) for the reactor scram.
+This event has been entered into the plant's corrective action program as IR 4323670.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO
+THE EVENT:
+No other systems, structures, or components contributed to this event.
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERATOR
+ACTIONS:
+The dates, times, and major occurrences and operator actions for this event are as
+follows.
+March 4, 2020
+1134: Annunciator received for Low Turbine Generator Hydraulic Fluid Storage Tank
+Level. A lowering trend for the EHC reservoir level was observed on a local level
+gauge via cameras in the Control Room.
+1138: A fire alarm was received for southeast Turbine Building 277. Fire Brigade Leader
+was dispatched and reported at 1142 a large leak and aerosol spray of EHC in this
+area. Fire Brigade Leader (FBL) reported no presence of fire or smoke.
+NRC FORM 366A (04·2017) Page _2_ of _s_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to Industry. Send
+"'"•'ciu,
+comments regarding burden estimate lo the Information Services Branch (T ·2 F43), U.S. Nuclear
+(:, . '\ LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+\~' .. :} CONTINUATION SHEET
+NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+used lo impose an Information collection does not display a currenfly valid 0MB control number, the
+(See NUREG-1022, R.3 for Instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinqcnntdoc-collections/nuregs/staff/sr1022/r3J} coDection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Nine Mile Point Unit 2 YEAR NUMBER NO.
+05000410
+2020 - 001 - 00
+NARRATIVE
+1157: SOP for rapid power reduction was enter and commenced reducing reactor power
+to 85% to lower rate of EHC leakage.
+1205: EHC tank level as read on local gauge continued to lower rapidly, with maximum
+make up to the reservoir. SOP for reactor SCRAM, was entered. Reactor mode
+switch placed in shutdown. EOP for RPV control entered on low reactor water
+level which occurred due to the reactor SCRAM. EHC fluid leak identified as a ~
+inch stainless steel tube upstream of manual isolation valve 2TMB-V157D, supply
+line to Main Stop Valve 1D .
+1207: Turbine is tripped which slowed the EHC leak significantly. EHC reservoir level
+then recovered through system make up.
+1225: Unit 2 Turbine Building is evacuated due to the EHC leak, no EAL (HAS) threshold
+was met.
+1350: With plant parameters stable, reactor SCRAM and EOP for RPV Control are exited
+and plant shutdown is continued.
+1358: Operations and maintenance closed the system isolation valves to stop the leak.
+E. METHOD OF DISCOVERY:
+This event was discovered by Reactor Operators when the Control Room Annunciation for
+Low Turbine Generator Hydraulic Fluid Storage Tank Level was received.
+F. SAFETY SYSTEM RESPONSES:
+All safety systems responded per design.
+II. CAUSE OF EVENT:
+The cause of the event is inadequate procedure quality that prevented the performance of
+appropriate preventative maintenance resulting in cyclic fatigue failure of the EHC line. The
+Main Turbine Electro-Hydraulic Control Accumulator Preventive Maintenance was inadequate
+in the identification of degraded Turbine Control Valve (TCV) accumulator performance in
+2016 and 2018, resulting in missed opportunities to replace or rebuild the degraded
+accumulators' bladders. This led to their eventual failure which caused increased EHC system
+pressure pulsations and excessive vibrations, resulting in the cyclic fatigue failure of the W'
+EHC supply line.
+III. ANALYSIS OF THE EVENT:
+This event is reportable under 1O CFR 50. 73(a)(2)(iv)(A) as any event or condition that
+resulted in a manual or automatic actuation of any of the systems listed in 1O CFR
+50.73{a)(2)(iv)(B).
+NRC FORM 366A (04-20,n Page~3- of ~5-
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+li:v.·,i,ir;ct,l, ·\ c le o s m so m n e s n t l s e a re rn g e a d rd in a g re b I u n r c d o e r n p o e ra st t i e m d a t i e n to lo lh th e e l I ic n e fo n r s m in a g ti o p n r o S c e e r s v s ic e a s n d B ra le n d c h b a (T c - k 2 t F o 4 3 in ) d , u U s . t S ry . . Nu S c e le n a d r
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washinglon, DC 20555-0001, or by e-mail to
+\~J.!.T..h.% l CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOIM0202, (3150-0104), Office of Management and Budget, Washington, DC 20503. II a rrieans
+used to Impose an inlormalion colleclion does not display a curren~y valid 0MB control number, lhe
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reacling-rm/doc-colfections/nuregs/staff/srl 022/@I) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Nine Mile Point Unit 2 YEAR SEQUENTIAL REV
+05000410 NUMBER NO.
+2020 • 001 • 00
+NARRATIVE
+The direct cause of the SCRAM was an un-isolable leak due to a failed ~-inch stainless
+steel tube on the EHC supply header. Based on Control Room annunciation, local
+indication and field assessments, the Control Room took appropriate action and inserted a
+manual scram.
+Following placement of the mode switch to shutdown and subsequent scram, the EHC system
+remained in service. Main Steam Isolation Valves remained open and the Control Room staff
+was able to use bypass valves for normal pressure control. The plant was stabilized with all
+plant systems performing per design.
+Based on the above discussion, it is concluded that the safety significance of this event is
+low and the event did not pose a threat to the health and safety of the public or plant
+personnel.
+This event does affect the NRC Regulatory Oversight Process Indicator for unplanned
+scrams per 7000 hours of critical operation.
+IV. CORRECTIVE ACTIONS:
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL
+STATUS:
+The failed EHC line and Turbine Control Valve Accumulators were replaced.
+B. ACTION TAKEN OR PLANNED TO PREVENT RECURRENCE:
+Revise the Main Turbine Electro-Hydraulic Control Accumulator preventive maintenance
+procedure to properly detect and repair degraded accumulator performance.
+V. ADDITIONAL INFORMATION:
+A. FAILED COMPONENTS:
+The EHC system Turbine Control Valve accumulators failed due to inadequate procedure
+quality that prevented the performance of appropriate preventative maintenance.
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+None.
+NAC FORM 366A (04-2017)
+Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are irn:orporated into the licensing process and led back to Industry. Send
+"'""'au(
+f / \~:-.J"'o: \ LICENSEE EVENT REPORT (LER) c R o e m gu m la e t n o t r s y rega C rd o in m g m b is u s rd io e n n , esti W ma a t s e h i t n o g t t o h n e , Info D rm C a tion 2 S 0 e 5 r 5 v 5 ic -0 e 0 s 0 B 1, r anch o r ( T-2 b F y 4 3), U e . - S m . a N il ucle t a o r
+\f~ .. ~ .. ' . ~ I CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budge~ Washington, DC 20503. If a means
+used to impose an Information collection does not display a currentty valid 0MB control number, the
+(See NUREG-1022, R.3 for Instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/stalf/sr1D22/r3D collecfion.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Nine Mile Point Unit 2 YEAR SEQUENTIAL REV
+05000410 NUMBER NO.
+2020 • 001 00
+NARRATIVE
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION
+IDENTIFIER AND SYSTEM NAME OF EACH COMPONENT OR SYSTEM REFERRED TO
+IN THIS LER:
+IEEE 803 IEEE 805
+COMPONENT FUNCTION SYSTEM
+IDENTIFIER IDENTIFICATION
+Turbine Control Valve EHC Accumulators ACC TG
+Main Turbine EHC System N/A TG
+NRC FORM 366A (04·2017) Page _5_ of _5_

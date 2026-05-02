@@ -1,0 +1,222 @@
+Exelon Generation
+10 CFR 50.73
+LG-18-067
+June 4, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2018-002-00, Primary Containment Isolation Valve Failed to Fully Close
+Resulting in a Condition Prohibited by TS
+Enclosed is a Licensee Event Report (LER) which addresses a Primary Containment Isolation
+Valve (PCIV) being inoperable, resulting in a condition prohibited by Technical Specifications
+{TS) at Limerick Generating Station, Unit 1.
+This LER is being submitted pursuant to the requirements of 1O CFR 50.73(a)(2)(i)(B),
+Operation or Condition Prohibited by TS.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+~lly~
+.f(>
+tz.,.Aictiard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estmated b\Jrden per response to comp!\' with th~ mandatOI)' collect10n request 80 hours
+,,._,,..-AEau~> LICENSEE EVENT REPORT (LEA) Reported lessons learned are incorporated into the licensing process and fed back to i'ldustry
+Send comments regarding b\Jrden estinate to lhe lnfonnat10n Services Branch
+•" · ' ~/,.:n0 (See Page 2 for required number of digits/characters for each block) ( to T ·2 l n F fo 4 c 3 o ). l le U ct S s R N e u s c o le u a rt r e R @ e n g r u t la g \ o o v r , y C a o nd m m lo is s \ i h o e n W De a s s k h in O g f to fc n e r D , C O 2 ffi 0 c 5 e 5 5 o -0 f 00 ln 1 fo , n o n r a b ti y o n e ·m an a d i
+~ ~ Regulalory Affairs, NEOB-10202, (3150-0104) Ottice ol Managemenl and Budge\.
+~ . ~ (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington DC 20503 If a means used to impose an nlonna\ion conectoo does not
+""'+,, ••••• +O~ !Jllil:llwww.nrc.gov/reading-rm/goc-collect1ons/nuregs/~taff/~r1022/r3/) d~play a currently valid OMS control number, lhe NRC may not conduct or sponsor. and a
+person is not required to respond lo, the ilfonnatoo collection
+1. Facility Name 2. Docket Number 3.Page
+Limerick Generating Station, Unit 1 05000352 1 OF 4
+4. Title
+Primary Containment Isolation Valve Failed to Fully Close Resulting in Condition Prohibited by Technical Specifications
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+- Facility Name Docket Number
+04 03 2018 2018 - 002 00 06 04 2018
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: {Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(iJ 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dJ 20.2203(a)(3)(iiJ 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+4
+D 20.2203(a)(1 i D 20.2203(aJ(4J D 50.13(a)(2)(iiiJ D 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2Hil 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+1 O. Power Level 20.2203(a)(2)(iiJ 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4J
+D D D D
+20.2203(a)(2)(iiiJ 5o.36(c)(2J 50.73(a)(2)(v)(B) 13.11 (a)(5J
+D D D D
+20.2203(a)(2)(iv) 5o.46(a)(3)(iiJ 50. 73(a)(2)(v)(G) 73.77(a)(1J
+D D D D
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13_11(a)(2)(iiJ
+D IZ! D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.77(a)(2)(iiiJ
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LEA
+Licensee Contact !Telephone Number (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance (610) 718-3400
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+E BO ISV 8580 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D IZ!
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+During the performance of reverse flushes of the Shutdown Cooling Piping for the refuel outage, the 1A Low
+Pressure Coolant Injection (LPCI) Outboard Injection Primary Containment Isolation Valve (PCIV) failed to
+fully close. The valve was manually closed and declared inoperable. Troubleshooting identified corrosion on
+the torque switch prevented the electrical and mechanical switches from closing on a demand signal.
+It was determined that the PCIV was inoperable after 9/8/17 when moisture from a nearby steam leak
+penetrated the motor operator limit switch compartment causing a ground in the motor operator. After the
+ground was received the valve was declared inoperable, actions were taken to clear the ground, and the
+valve was returned to an operable status. Though the PCIV was closed from 9/8/17 to 3/27/18, the valve was
+not deenergized per Technical Specification (TS) and the PCIV is required to close to support Suppression
+Pool Spray operation during a Loss of Coolant Accident (LOCA); therefore, this is a violation of TS and
+reportable per the requirements of 1O CFR 50.73(a)(2)(i)(B).
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T· 2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA)
+Regulatory Commission, Washington, DC 20555·0001. or by e·mai to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office ol Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office ol Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently va~d OMB control number, the
+(See NUREG-1 D22, R.3 for instruction and guidance for completing this form
+NRG may not conduct or sponsor, and a person is not required to respond to, the Information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/stafflsr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 002 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 1 was shut down for refueling outage 1R17 and in Operational
+Condition (OPCON) 4 at the time of identification. The condition was identified during reverse flushes
+of Shutdown Cooling piping.
+II. Description of the Event
+The A LPCI Outboard Injection Valve (HV-051-1 F017 A) is one of four Low Pressure Coolant Injection
+(LPCI) outboard injection valves on Unit 1. This valve is a Primary Containment Isolation Valve (PCIV)
+and a Pressure Isolation Valve (PIV). The A and B LPCI Outboard Isolation Valves have an additional
+function, in that during a Loss of Coolant Accident (LOCA) one of the two valves will need to be closed
+to supply water for Suppression Pool Spray.
+On 9/8/17, a ground occurred on the Low Pressure Coolant Injection (LPCI) Injection Valve HV-051-
+1 F017A as a result of a steam leak from a nearby Reactor Water Cleanup (RWCU) valve. HV-051-
+1 F017A was determined to be inoperable and was deenergized. The ground alarm cleared following
+drying of the compartment. The power was restored and the LPCI Injection Valve was returned to
+operable status. The valve was not stroked because the valve is a PIV.
+On 3/27/18, while in OPCON 4, Cold Shutdown, during the performance of reverse flushes of the
+Shutdown Cooling Piping for refuel outage 1 R17, the LPCI Injection Valve HV-051-1 F017A was
+opened. However, the valve failed to stroke fully closed when flushing was complete. The inoperable
+valve was deenergized and manually closed.
+On 4/3/18, a past functionality review concluded that the LPCI Injection Valve was inoperable as a
+result of the grounding condition.
+LGS concluded through evaluation that the A LPCI Outboard Isolation Valve was inoperable from
+9/8/17 to 3/27/ 18 which resulted in the violation of two Technical Specifications (TS) and therefore is
+reportable per the requirements of 1O CFR 50.73(a)(2)(i)(B).
+TS 3.6.3.a.2 With an inoperable PCIV the penetration must be isolated with a de-energized PCIV
+within four hours or be in hot shutdown within the next 12 hours and in cold shutdown within the
+next 24 hours.
+TS 3.6.2.2 With an inoperable Suppression Pool Spray flow path on one of the AHR Loops, return
+the loop to the operable status within seven days or be in hot shutdown within the next 12 hours
+and in cold shutdown within the next 24 hours.
+NRG FORM 366A (04-2017) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to induslry. Send
+commenls regarding burden estimate to !he Information SelVices Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulalory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150·0104), Office of Managemenl and Budget. Washinglon, DC 20503. II a means
+used to impose an information collection does no! display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is no! required to respond to, the information
+http://www.nrc.gov/reading-rmldoc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+VEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 002 00
+NARRATIVE
+Ill. Analysis of the Event
+When the RWCU steam leak was initially identified it was believed to only affect the humidity in the
+room. Operations monitored the steam leak via a camera. The issue was evaluated in the
+Operational Decision-Making Process (ODM) to determine the correct course of action.
+On 9/8/17, a ground occurred due to moisture penetrating the limit switch compartment on the motor
+operator of the A LPCI Outboard Injection Valve. The valve was declared inoperable and isolated.
+Maintenance opened the motor operator and removed the water, dried the components, and inspected
+the motor operator. The ground alarm cleared following drying of the compartment. The power was
+restored and the LPCI Injection Valve was returned to operable status.
+IV. Safety Significance
+The safety significance was low since the primary containment function was maintained and the
+injection valve was not opened until the system flushes were performed.
+Primary containment was not adversely impacted by this condition because the inboard injection
+check valve was functional and the RHR system is a qualified closed loop system that is credited as a
+primary containment boundary.
+The LGS long term containment analysis supports the conclusion that the same amount of energy can
+be removed from the suppression pool following a LOCA whether the exit flow from the RHR Heat
+Exchanger is injected into the reactor vessel or into the suppression pool. Since the LGS procedures
+allow this method of suppression pool cooling following a LOCA, this function was not lost with the
+failure of the A LPCI Outboard Injection Valve to close.
+Suppression Pool Spray function was maintained because the B Loop of Suppression Pool Spray was
+maintained available during the time the A Loop LPCI valve was inoperable.
+V. Cause of the Event
+The cause was determined to be water intrusion from a nearby steam leak that prevented normal
+control circuit operation. Corrosion to torque switch mechanical parts prevented electrical and
+mechanical switch makeup on a close demand signal. A contributing cause was identified in that the
+risk assessment was performed based on incomplete scope of potential impacts. The focus of the risk
+assessment was on the RWCU system and not the other systems contained in the general area which
+would have included the Residual Heat Removal (RHR) system injection valve.
+NRC FORM 366A (04·2017) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnlocollects.Resource@nrc.gov, and to the Desk Oflicer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office ol Management and Budget. Washington, DC 20503. If a means
+used to impose an information collection does not display a currently va~d OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregslstaff/srl 022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2018 - 002 00
+NARRATIVE
+VI. Corrective Actions Completed/Planned
+HV-051-1 F017A was repaired including a replacement of the control circuit hardware.
+The station is taking actions to improve risk assessments associated with steam leaks and the
+potential impact to nearby equipment.
+VII. Previous Similar Occurrences
+There were no previous similar occurrences in the past 5 years.
+VIII. Component Data
+System: BO RHR/Low Pressure Coolant Injection System
+Component: ISV Isolation Valve
+Component number: HV-051-1 F017A
+Manufacturer: Flowserve Corporation
+Model number: 3232-3 DWG
+Serial number: 1N292
+NRG FORM 366A (04-2017) Page _4_ of _4_

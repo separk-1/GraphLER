@@ -1,0 +1,248 @@
+FENOC PerryNuclearPowerPlant
+P.O. Box97
+10CenterRoad
+FirstEnergyNuclearOperatingCompany Perry' Ohio44081
+DavidB. Hamilton 440-280-5382
+VicePresident
+June 27, 2017
+L-17-207 10CFR50.73(a)(2)(v)(A)
+10CFR50.73(a)(2)(v)(D)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2017-002, "Loss of Safety Function Due to
+Main Turbine Bypass Valve Opening". There are no regulatory commitments contained
+in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Nicola Conicella, Manager - Regulatory Compliance, at (440) 280-5415.
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2017-002
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III
+Enclosure
+L-17-207
+LER 2017-002
+NRCFORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessonslearned areincorporated intothelicensing process andfed backtoindustry.
+SendcommentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S.
+(SeePage2forrequirednumberofdigits/charactersforeachblock)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-
+10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameansused
+(SeeNUREG-1022, R.3forinstruction andguidanceforcompletingthisform to imposean informationcollectiondoes notdisplayacurrentlyvalid OMBcontrol number, the
+http:/A/vww.nrc.qov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/ NRCmaynotconductorsponsor, and a person isnotrequired to respondto, theinformation
+collection.
+1.FACILITYNAME 2. DOCKETNUMBER 3.PAGE
+Perry Nuclear Power Plant 05000-440 1 OF
+4.TITLE:
+Loss ofSafety Function Due to Main Turbine Bypass Valve Opening
+5. EVENTDATE 6. LERNUMBER 7.REPORTDATE 8.OTHERFACILITIESINVOLVED
+SEQUENTIAL REV FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH 05000
+FACILITYNAME DOCKETNUMBER
+04 30 2017 2017 - 002 00 06 27 2017
+05000
+9.OPERATINGMODE 11.THIS REPORTISSUBMITTED PURSUANTTOTHE REQUIREMENTSOF10CFR§: (Checkallthatapply)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ 20.2203(a)(2)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10. POWERLEVEL □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) □ 73.71(a)(4)
+□ 20.2203(a)(2)(iii) □ 50.36(c)(2) □ 50.73(a)(2)(v)(B) □ 73.71(a)(5)
+□ 20.2203(a)(2)(iv) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(C) □ 73.77(a)(1)
+100
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) □ 50.73(a)(2)(vii) □ 73.77(a)(2)(ii)
+□ 50.73(a)(2)(i)(C) OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFORTHIS LER
+LICENSEECONTACT: TELEPHONENUMBER(IncludeAreaCode)
+Tony Kledzik- Regulatory Compliance 440-280-6188
+13.COMPLETEONELINEFOREACHCOMPONENTFAILUREDESCRIBEDINTHISREPORT
+MANU REPORTABLE MANU REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+Jl sc XX
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH YEAR
+SUBMISSION
+] YES(Ifyes, complete 15. EXPECTEDSUBMISSIONDATE)
+DATE
+ABSTRACT (Limitto1400spaces, i.e., approximately15single-spacedtypewrittenlines)
+On April 30, 2017, at 1818 hours, whilethe plantwasat 100 percent rated thermal power, main turbine steam bypassvalve number 1
+partiallyopened. Powerwas subsequently lowered in an attemptto closethe bypassvalve. While lowering powerthe bypassvalve
+would shutandthen reopen and powerwould again be lowered. When powerwas lowered to approximately 74 percentthe bypass
+valve remained closed. During thetransientthe reactorprotection system (RPS) tripfunctions forthe main turbine stopvalve closure
+and turbine control valvefastclosure scramwere declared inoperableduetothe opening ofthe bypassvalve, which changesthe
+bypass setpointforthose RPStrips. With the loss ofRPStrip capability, a lossofsafetyfunction existed intermittentlyfor
+approximately37 minutes. The manual reactortripfunction and other RPSfunctions remained operable.
+Both channels ofthe rod withdrawal limiter(RWL) andthe end ofcycle reactor recirculation pumptrip (EOC-RPT) functionwere also
+declared inoperable. Thesefunctions are credited in accidentanalysisand this also resulted in a lossofsafetyfunction in
+accordancewith the plantsTechnical Specification bases.
+The directcause ofthe bypassvalve opening was degradation ofthe Primary LowValue Gate (PLVG) card in the main turbinespeed
+control circuit.
+The safetysignificance ofthisevent is considered to be small. Thisevent is not considered a safety system functionalfailure asthe
+specificfunctionswere maintained and neverbypassed during theevent. This eventis being reported under50.73(a)(2)(v)(A) and
+50.73(a)(2)(v)(D) fora loss ofsafetyfunction.
+NRCFORM366(06-2016)
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT(LER)
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(See NUREG-1022, R.3forinstruction andguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRC may notconductorsponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant Unit 1 05000-440 NUMBER NO.
+2017 - 002 00
+NARRATIVE
+Energy Industry Identification System (EMS) codes are identified in the text as [XX].
+INTRODUCTION
+On April 30, 2017, at 1818 hours, while the plantwas at 100 percent rated thermal power, main turbine steam
+bypass [Jl] valve number 1 partially opened. Powerwas subsequently lowered in an attemptto close the
+bypass valve. While lowering powerthe bypass valve would shut and then reopen and powerwould again
+be lowered. When powerwas lowered to approximately 74 percent the bypass valve remained closed.
+During the transient the reactor protection system (RPS) [JC] trip functions forthe main turbine stop valve
+closure and turbine control valve fast closure scram were declared inoperable due to the opening ofthe
+bypass valve which changes the bypass setpointforthose RPS trips. With the loss of RPS trip capability for
+this function a loss ofsafety function existed intermittently forapproximately 37 minutes. The manual reactor
+trip function and other RPS functions remained operable.
+Both channels ofthe rod withdrawal [AA] limiter (RWL) and the end ofcycle reactor recirculation pump [AD]
+trip (EOC-RPT) function were also declared inoperable in accordance with the plants Technical Specification
+(TS) bases. These functions are credited in accident analysis, this also resulted in a loss ofsafety function.
+On April 30, 2017, at 1910 hours, the action statements forTS 3.3.1.1 "Reactor Protection System (RPS)
+Instrumentation", 3.3.2.1 "Control Rod Block Instrumentation", and 3.3.4.1 "End ofCycle Recirculation Pump
+Trip (EOC-RPT) Instrumentation" were exited following confirmation of bypass valve closure. On May 3,
+2017, at 1259 hours, event notification 52727 was made to the NRC Operations Center in accordance with
+10CFR50.72(b)(3)(v)(A) and 10CFR50.72(b)(3)(v)(D) forthe loss ofsafety function.
+EVENT DESCRIPTION
+On April 30, 2017, at 1818 hours, while the plantwas at 100 percent rated thermal power main turbine steam
+bypass valve number 1 partially opened. Powerwas subsequently lowered in an attemptto close the bypass
+valve. While lowering powerthe bypass valve would shut and then reopen and powerwould again be
+lowered. When powerwas lowered to approximately 74 percent the bypass valve remained closed.
+Certain TS functions are automatically bypassed based upon certain sensed reactor power levels. Fourof
+those functions rely on the pressure in the first stage ofthe turbine to correlate reactor power. With a bypass
+valve open, the pressure in the first stage ofthe turbine may not be representative oftrue reactor powerso
+these functions are declared inoperable. The following functions use the first stage pressure:
+Turbine Stop Valve (TSV) Closure and Turbine Control Valve (TCV) Fast Closure Scram -TS 3.3.1.1:
+Closure ofthe TSVs and TCVs results in the loss ofa heat sink and produces reactor pressure, neutron flux,
+and heatflux transients that must be limited. Therefore, a reactor scram is initiated atthe start ofTSVand
+TCV closure in anticipation ofthe transients thatwould resultfrom the closure ofthese valves. This function
+must be enabled atthermal power greaterthan or equal to 38 percent. This is normally accomplished
+automatically by pressure switches sensing turbine first stage pressure; therefore, to considerthis function
+operable, the turbine bypass valves must remain shut at powergreaterthan orequal to 38 percent.
+End ofCycle Recirculation Pump Trip (EOC-RPT) -TS 3.3.4.1:
+NRCFORM366A (06-2016) Page 2 of4
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT(LER)
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43), U.S.Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfxollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(SeeNUREG-1022, R.3forinstruction andguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRC may notconductorsponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant Unit 1 05000-440 NUMBER NO.
+2017 - 002 00
+NARRATIVE
+To mitigate pressurization transient effects ofa main turbine trip the EOC-RPT musttrip the recirculation
+pumps from fast speed operation after initiation of initial closure movement ofeitherthe TSVs orthe TCVs.
+The combined effects ofthis trip and a scram reduce fuel bundle power more rapidly than does a scram
+alone, resulting in an increased margin to the Minimum Critical Power Ratio (MCPR) safety limit. The EOC-
+RPT function is automatically disabled when turbine first stage pressure is less than 38 percent power. To
+considerthis function operable, the turbine bypass valves must remain shut at powergreaterthan orequal to
+38 percent.
+Rod Withdrawal Limiter (RWU -TS 3.3.2.1:
+The RWL is designed to preventviolation ofthe MCPR safety limit and the cladding 1 percent plastic strain
+fuel design limit that may resultfrom a single control rod withdrawal error (RWE) event. The RWL is assumed
+to mitigate the consequences ofan RWE eventwhen operating greaterthan 33.3 percent power.
+With any bypass valve open both channels ofthe listed functions are inoperable resulting in a loss ofsafety
+function. During the transientthe following TS action statements were entered: TS 3.3.1.1 conditions A, B
+and C, 3.3.2.1 condition A and 3.3.4.1 conditions A and B. The required action forTS 3.3.1.1 C.1 requires
+restoration of RPS trip capability within 1 hour. TS 3.3.2.1 Action A.1 requires immediate suspension of
+control rod withdrawal and verification of no rod motion by 2 licensed operators. 3.3.4.1 Action B.1 requires
+restoration of EOC-RPT capability within 2 hours.
+On April 30, 2017, at 1910 hours, the action statements forTS 3.3.1.1, 3.3.2.1, and 3.3.4.1 were exited
+following confirmation of bypass valve closure. On May 3, 2017, at 1259 hours event notification 52727 was
+made to the NRC Operations Center in accordance with 10CFR50.72(b)(3)(v)(A) and 10CFR50.72(b)(3)(v)(D)
+forthe loss ofsafety function.
+CAUSE
+The direct cause ofthe bypass valve opening was degradation ofthe Primary LowValue Gate (PLVG) card in
+the main turbine speed control circuit [SC].
+The problem solving team assembled forthis issue evaluated monitoring equipment attached to the speed
+control portion ofthe Electro-Hydraulic system in orderto determine the source ofthe inadvertent opening of
+the bypass valve. The failure mode was narrowed down to the turbine speed control portion ofthe circuitry
+based upon the alarms received during the transient. The decision was made to replace the Primary Low
+Value Gate and the Primary Frequency to Voltage ConverterSpeed Control cards. Afterthe replacement
+was completed, the turbine was re-synchronized to the electrical grid. The installed monitoring equipment
+showed no evidence ofan issuewithin the Electro-Hydraulic control systems and there were no further
+openings ofthe bypass valves.
+The analysis ofthe removed cards is notyet completed, and ifa change to the primary cause is warranted a
+LER revision will be submitted. Preliminary testing found a degradation ofthe PLVG card. During bench
+checks ofthe card itwas discovered that an intermittentvarying output signal was created with no changes to
+the inputofthe card. This intermittent change in output ofthe card would have caused the opening ofthe
+bypass valve. The second card thatwas replaced was the Primary Frequency to Voltage Converter card
+although initial analysis has identified no issues with this card.
+NRCFORM366A (06-2016) Page 3 of4
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENTREPORT(LER)
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/ NRC may notconductorsponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+YEAR
+Perry Nuclear Power Plant Unit 1 05000-440 NUMBER NO.
+2017 - 002 00
+NARRATIVE
+EVENT ANALYSIS
+The event is ofsmall safety significance from the Probabilistic Risk Assessment (PRA) perspective as no
+PRA related mitigative components orstrategies were affected by this event. While the corresponding
+functions were declared inoperable from a Technical Specification perspective, functionality was maintained
+and the plantwas correspondingly controlled via proper actions to reduce power. The event did not result in
+an automatic trip.
+With no transient and no impactto any PRA related components orfunctions, there would be no
+corresponding change (delta) in core damage frequency (CDF), and no corresponding change (delta) in the
+large early release frequency (LERF). The delta CDF and delta LERF values would therefore be well below
+the acceptable thresholds of 1.0E-06/yrand 1.0E-07/yr, respectively, as discussed in Regulatory Guide
+1.174. The risk ofthis event is therefore considered small in accordance with the Regulatory Guidance.
+During the transient, the sensed reactor pressure at the turbine first stage did not drop low enough to impede
+the ability forthe listed parameters to perform theirfunction, therefore, this is not considered a safety system
+functional failure.
+CORRECTIVE ACTIONS
+The PLVG card was replaced following discovery ofthe failure. No other issues have been noted since
+replacement.
+In addition to the card replacement, the mitigation strategy forthe control system will be reviewed.
+PREVIOUS SIMILAR EVENTS
+A review of LERs and the corrective action database forthe past three years identified no similarevents.
+COMMITMENTS
+There are no regulatory commitments contained in this report. Actions described in this document represent
+intended or planned actions, are described forthe NRC's information, and are not regulatory commitments.
+NRCFORM366A (06-2016) Page 4 of4

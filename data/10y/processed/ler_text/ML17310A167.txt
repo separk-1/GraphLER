@@ -1,0 +1,240 @@
+Keith J. Polson
+Senior Vice President and
+Chief Nuclear Officer
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.6515 Fax: 734.586.4172
+Email: keith.polson@dteenergy.com
+DTE Energy-
+10 CFR 50.73
+November 3, 2017
+NRC-17-0070
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2017-005
+Pursuant to 10 CFR 50.73(a)(2)(v)(D), DTE Electric Company (DTE) is submitting LER
+No. 2017-005, Non-Functional Mechanical Draft Cooling Tower Fan Brakes Leads to
+HPCI Being Declared Inoperable and Loss of Safety Function which is a Condition
+Prohibited by Technical Specifications and Loss of Safety Function.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager -Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Senior Vice President and CNO
+Enclosure: Licensee Event Report No. 2017-005
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-17-0070
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2017-005
+Non-Functional Mechanical Draft Cooling Tower Fan Brakes Leads to HPCI Being
+Declared Inoperable and Loss of Safety Function
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+collection.
+1.FACILITY NAME 2.DOCKET NUMBER 3.PAGE
+Fermi 2 05000 341 1 OF 4
+4.TITLE
+Non-Functional Mechanical Draft Cooling Tower Fan Brakes Leads to HPCI Being Declared Inoperable and Loss of Safety Function
+5.EVENT DATE 6.LER NUMBER 7.REPORT DATE 8.OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO. 05000
+09 09 2017 2017 - 005 - 00 11 03 17 FACILITY NAME DOCKET NUMBER
+05000
+9.OPERATING MODE 11.THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10.POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) ✔ 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12.LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Fermi 2 / Scott A. Maglio – Manager, Nuclear Licensing (734) 586-5076
+13.COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+UNK 12VAC INVT Nova-Elect Yes N/A N/A N/A N/A N/A
+14.SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ✔ NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1000 EDT on September 9, 2017, the Division 2 Mechanical Draft Cooling Tower (MDCT) fans were declared inoperable due to
+loss of output from the over speed fan brake inverter. The MDCT fans are required to support operability of the Ultimate Heat Sink
+(UHS) and the Emergency Equipment Cooling Water (EECW) system. The Division 2 EECW system cools the High Pressure Coolant
+Injection (HPCI) system room cooler. As a result, the non-functionality of the fan brakes lead to an unplanned HPCI inoperability.
+Since HPCI is a single train system designed to mitigate the consequences of a loss of coolant accident (LOCA), this event could have
+prevented the fulfillment of a safety function. The cause of the event was the failure of the Division 2 fan brake inverter.
+Corrective Actions were taken to replace the inverter and returning the MDCT fans, the UHS, EECW and HPCI to service on
+September 9, 2017 at 2351 EDT. A failure modes evaluation was performed by the vendor with no direct cause of the failed output
+determined. The fan brake system is only required for a design basis tornado and there was no credible tornado threat during this event.
+The HPCI system is not required to mitigate a design basis tornado. The safety significance of this event is very low and there were no
+radiological releases associated with this event.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2017 - 005 - 00
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode – 1
+Reactor Power – 100 percent
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that contributed
+to this event.
+DESCRIPTION OF THE EVENT
+At 1000 EDT on September 9, 2017, the Division 2 Mechanical Draft Cooling Tower (MDCT) [CTW] fans [FAN] were
+declared inoperable due to loss of output from the over speed fan brake [BRK] inverter [INVT]. The brakes prevent the
+fans from experiencing over speed from a design basis tornado as described in Updated Final Safety Analysis Report
+(UFSAR) Section 9.2.5.2.2. The MDCT fans are required to support operability of the Ultimate Heat Sink (UHS) [BS]. The
+UHS is required to support operability of the Division 2 Emergency Equipment Cooling Water (EECW) system. The EECW
+system cools various safety related components, including the High Pressure Coolant Injection (HPCI) [BJ] system room
+cooler [CLR]. As a result, the non-functionality of the fan brakes lead to an unplanned HPCI inoperability based on the
+inoperability of the EECW to the HPCI room cooler. Following restoration of the brake inverter, HPCI was declared
+operable on September 9 at 2351 EDT. Therefore, the single train HPCI system was inoperable for approximately 14
+hours. This report is being made pursuant to 10CFR50.73(a)(2)(v)(D) as a condition that could have prevented the
+fulfillment of a safety function needed to mitigate the consequences of an accident.
+Technical Specification 3.7.2 requires the UHS reservoir to be operable in Modes 1, 2, and 3. The UHS operability
+requirements in Modes 4 and 5 are determined by the systems the UHS supports. The UHS reservoir is divided into two
+one-half capacity reservoirs, corresponding to Division 1 and Division 2. Each reservoir is the cooling source for that
+division's service water subsystems, including the service water for the Emergency Diesel Generators (EDGs) [[DG]]. A
+two-cell MDCT is located above each of the one-half capacity reservoirs. Each cell is equipped with a MDCT fan. Two
+MDCT fans above each one-half capacity reservoir are required for it to be considered operable. The "A" and "C" MDCT
+fans are in Division 1 and the "B" and "D" fans are in Division 2. The MDCT fans have a brake system to prevent
+overspeed from a design basis tornado as described in UFSAR Section 9.2.5.2.2. Thus the fan brakes are a design
+feature of the fans and their functionality impacts the operability of the MDCT fans and therefore the UHS.
+The brake mechanism senses the speed of the motor and blades and uses nitrogen pressure to activate a brake system
+to slow the fan speed. The control power for this braking control module is powered by the R1700S011B (Division 2
+Residual Heat Removal (RHR) MDCT Fans overspeed Brake Inverter). Without this inverter being energized, neither of
+the Division 2 MDCT fan brakes would perform their design function. Therefore, this inverter failure renders both of the
+Division 2 MDCT fans inoperable.
+A past operability review was performed and concluded that the MDCT Brake Inverter Panel R1700S011B was discovered
+to be indicating no AC Volts or Amps during daily rounds on September 9, 2017 at 1000. An Operator records the output
+voltage daily and it was observed that the output voltage was within acceptable limits on September 8, 2017 at 0958. This
+measurement is consistent with the readings for the previous 4 days. Thus, the inverter was observed to be functioning 24
+hours before discovery and the maximum possible period of inverter failure prior to discovery is approximately 24 hours.
+A review verified that the Division 1 UHS and RCIC systems were operable during the possible period of inverter failure,
+as well as during the period when Division 2 UHS and HPCI were declared inoperable. Therefore, there was not a
+violation of Technical Specifications and Licensing Basis due to this condition. TS 3.7.2 Condition B allows for 72 hours of
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2017 - 005 - 00
+NARRATIVE
+of UHS unavailability and TS 3.5.1 Condition E allows for 14 days of HPCI unavailability as long as the Reactor Core
+Isolation Cooling (RCIC) system [BN] is available.
+Additionally, Note 1 of LCO 3.7.2 requires entering applicable Conditions and Required Actions of LCO 3.8.1 for EDGs. At
+the time when LCO 3.7.2 was entered (September 9, 2017 at 1000), LCO 3.8.1 was also entered. For the 24 hour period
+of potentially inoperability, LCO 3.8.1 was not entered; however, offsite power was available and all actions of LCO 3.8.1
+would have been met.
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+As described previously, the MDCT fan brakes are only required for a design basis tornado; they are not required for other
+design basis events. No tornado watches or warnings occurred during the time-frame when MDCT fan brakes were
+nonfunctional. Since there was no credible threat of a tornado the MDCT fans and associated UHS would have been
+capable of performing their intended functions throughout the period described above.
+As discussed above the nonfunctionality of the Division 2 MDCT fan brakes could have prevented the HPCI system from
+fulfilling its safety function. However, the RCIC system remained available for high pressure injection in the event of an
+emergency. The Standby Feedwater [SJ] system was also available for high pressure injection. Additionally, the Automatic
+Depressurization System [JE] was available to reduce reactor pressure to within the capabilities of the low pressure
+Emergency Core Cooling Systems. HPCI could have been prevented from fulfilling its safety function as a result of the
+MDCT fan brake nonfunctionality for a possible maximum of 38 hours. The previous reading of the inverter occurred 24
+hours prior to discovery and an additional 14 hours following discovery to replace the inverter and restore the MDCT fan
+and HPCI to Operable. TS 3.5.1 allows HPCI to be taken out of service for planned outages for up to 14 days. It is
+important to note that, although HPCI was considered inoperable due to the propagation of TS requirements for UHS and
+was therefore considered a loss of safety function in this LER, HPCI is not a system required for safe shutdown in the
+event of a tornado per UFSAR Table 3.3-2. HPCI is required for design basis accidents such as a loss of coolant accident
+(LOCA). Therefore, although HPCI was declared inoperable at the time, HPCI would have been capable of performing its
+intended LOCA function regardless of the inverter failure. As described in Regulatory Guide 1.117, design basis tornados
+are not postulated to occur simultaneously with a LOCA. Based on this discussion, the safety significance of this event is
+very low. There were no radiological releases associated with this event.
+CAUSE OF THE EVENT
+The cause of this event is due to a loss of output from the over speed fan brake inverter. A failure modes evaluation was
+performed by the vendor with no direct cause of the failed output determined.
+Cause: Unknown
+System: R1700 – 120 VAC Power Supplies and Distribution Cabinets
+Component: R1700S011B
+Manufacturer: Nova Electric
+CORRECTIVE ACTIONS
+The inverter was replaced and the MCDT was returned to service on September 9, 2017 at 2351 EDT. A failure modes
+evaluation was performed by the vendor with no direct cause of the failed output.
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2017 - 005 - 00
+NARRATIVE
+PREVIOUS OCCURRENCES
+Previous occurrences of HPCI inoperability due to non-functionality of the MDCT fan brake system were reported in LER
+2016-06. However, the instances described in LER 2016-06 were associated with inadequate procedural guidance related
+to the fan brake systems and were all the result of problems with the nitrogen pressure supply. The condition described in
+this LER is not a result of inadequate procedural guidance and was not due to problems with the nitrogen pressure supply.
+Therefore, the corrective actions previously performed in LER 2016-06 could not have prevented the occurrence
+described in this LER as they could not have prevented the inverter from failing.
+NRC FORM 366A (04-2017) Page 4 of 4

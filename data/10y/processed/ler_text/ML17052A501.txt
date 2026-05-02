@@ -1,0 +1,331 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+February 21, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License No. DPR-33, DPR-52
+NRC Docket Nos. 50-259, 50-260
+Subject: Licensee Event Report 50-259/2017-001-00
+The enclosed Licensee Event Report provides details of the inoperability of the 4KV
+Shutdown Board C Degraded Voltage Signal Timer for longer than allowed by the
+Technical Specifications. The Tennessee Valley Authority is submitting this report in
+accordance with Title 10 of the Code of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as
+any operation or condition prohibited by Technical Specifications.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact M. W. Oliver, Acting Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-259/2017-001-00 - Signal Timer for 4kV Shutdown
+Board C Inoperable for Longer Than Allowed by Technical Specifications due
+to Detached Restraining Strap
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 1
+Licensee Event Report 50-259/2017-001-00
+Signal Timer for 4kV Shutdown Board C Inoperable for Longer Than Allowed by Technical
+Specifications due to Detached Restraining Strap
+See Enclosed
+NRC FORM 366A (1-2001)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER)
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an information collection does not display a currently valid OMB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF 6
+4. TITLE
+Signal Timer for 4kV Shutdown Board C Inoperable for Longer Than Allowed by Technical Specifications due to Detached
+Restraining Strap
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR BFN, Unit 2 05000260
+FACILITY NAME DOCKET NUMBER
+12 21 2016 2017 - 001 - 00 02 21 2017 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Baruch Calkin, Licensing Engineer (256) 614-6713
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 21, 2016, at 1228 Central Standard Time (CST), during a performance of the 4KV Shutdown
+Board (SDBD) C Undervoltage and Time Delay Relay Calibration and Functional Test, personnel discovered
+a detached restraining strap on a 4kV SDBD C Degraded Voltage Relay Timer. At 1835 CST, Operations
+personnel declared the relay inoperable. The timer retaining strap was replaced, and the relay was
+declared operable on December 22, 2016, at 1251 CST.
+A Past Operability Evaluation determined that the timer was inoperable from October 5, 2016, until
+December 22, 2016, exceeding the Technical Specification allowed outage time.
+The most likely cause of this event was human error. Rounding of the screw attaching the retaining strap to
+the backplane of the electrical cabinet in which the timer was housed allowed the retaining strap to become
+detached. This deficiency was not corrected despite testing and Quality Control verification. Corrective
+Actions include replacing the retaining strap using a longer screw, identifying relays previously installed under
+similar plant modifications, and ensuring that work packages for future installation of relays with seismic
+retaining straps contain steps to obtain adequate screw engagement during strap installation.
+NRC FORM 366A (06-2016) Page 1 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000-259 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was operating in Mode 1 at
+approximately 100 percent rated thermal power, and BFN, Unit 2, was operating in Mode 1 at
+approximately 99 percent power.
+II. Description of Event
+A. Event Summary:
+On December 21, 2016, at 1228 Central Standard Time (CST), during a performance of
+surveillance requirement (SR) O-SR-3.3.8.1.2(C), 4KV Shutdown Board [ECBD](SDBD) C
+Undervoltage and Time Delay Relay Calibration and Functional Test, Protective Relay Group
+personnel discovered a detached restraining strap on the 4kV SDBD C Degraded Voltage Relay
+[RLY][27][2] timer [TMR] BFN-0-02-211-0002C.
+At 1835 CST, Operations personnel declared 4kV SDBD C Degraded Voltage Relay timer
+inoperable and entered Technical Specification (TS) Limiting Condition for Operation (LCO)
+3.3.8.1.A, with required actions to immediately verify by administrative means that the other two
+degraded voltage relay channels [CHA] and associated timers on the affected SD BDs are
+operable; and to place the degraded voltage relay channel in trip within fifteen days.
+The timer retaining strap was replaced, and the SDBD was declared operable on
+December 22, 2016, at 1251 CST.
+A Past Operability Evaluation (POE) determined that the relay was inoperable from
+October 5, 2016, until December 22, 2016, exceeding the TS allowed outage time.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event:
+There were no structures, systems, or components (SSCs) whose inoperability contributed
+to this event.
+C. Dates and approximate times of occurrences:
+October 5, 2016 4kV SDBD C Degraded Voltage Relay installed under Work Order
+118393397
+December 21, 2016, Protective Relay Group discovered a detached restraining strap on the
+at 1228 CST 4kV SDBD C Degraded Voltage Relay timer.
+December 21, 2016, Operations personnel declared 4kV SDBD C Degraded Voltage Relay
+at 1835 CST inoperable and entered TS LCO 3.3.8.1.A.
+December 22, 2016, Operations personnel declared 4kV SDBD C Degraded Voltage Relay
+at 1251 CST operable and exited TS LCO 3.3.8.1.A.
+NRC FORM 366A (06-2016) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000-259 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+D. Manufacturer and model number (or other identification) of each component that failed
+during the event:
+There were no component failures associated with this event.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected.
+F. Method of discovery of each component or system failure or procedural error:
+There were no component failures, system failures, or procedural errors associated with
+this event. Maintenance personnel discovered the condition while performing a
+surveillance on the affected equipment.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+There were no component failures associated with this event.
+H. Operator actions:
+• Operations personnel declared 4kV SDBD C Degraded Voltage Relay inoperable and
+entered TS LCO 3.3.8.1.A.
+• Operations personnel declared 4kV SDBD C Degraded Voltage Relay operable and
+exited TS LCO 3.3.8.1.A.
+I. Automatically and manually initiated safety system responses:
+There were no safety system responses initiated in response to this event.
+III. Cause of the event:
+A. The cause of each component or system failure or personnel error, if known:
+The most likely cause of this event was the failure to identify rounding of the screw
+attaching the retaining strap to the backplane of the electrical cabinet [CAB] in which the
+timer was housed by personnel who installed, calibrated, and tested the retaining strap.
+The rounded screw allowed the retaining strap to become detached and remain in this
+condition for an extended period of time.
+B. The cause(s) and circumstances for each human performance related root cause:
+The cause of the human performance errors which most likely led to this event has not
+been identified, but is most likely a lack of procedural guidance for ensuring that sufficient
+thread engagement exists between the retaining strap screw and the the backplane of the
+electrical cabinet.
+NRC FORM 366A (06-2016) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000-259 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+IV. Analysis of the event:
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with
+10 CFR 50.73(a)(2)(i)(B), as any operation or condition which was prohibited by the plant’s TS.
+This event was most likely the result of the retaining strap screw, which secures the retaining
+strap to the body of the electrical cabinet in which the timer is housed, becoming detached due to
+rounding of its threads. The retaining strap is required to be attached in order for the timer to be
+seismically qualified because seismic testing of this component was performed with the retaining
+strap attached. With no retaining strap in place, the timer was considered inoperable due to its
+seismic test configuration not being met.
+A POE determined that the timer was inoperable from October 5, 2016, at 0852 CST until
+December 22, 2016, at 1251 CST. TS LCO 3.3.8.1 requires in Modes 1, 2, and 3, that the Loss of
+Power (LOP) instrumentation for each Table 3.3.8.1-1 Function on 4kV SDBDs A, B, C, and D
+shall be operable. Timer BFN-0-02-211-0002C is the 4-second time-delay relay listed in the LOP
+table under function 2.b.2, and is therefore required to be operable when BFN, Units 1 and 2,are
+in Mode 1. Required Action B.1 requires, with two or more degraded voltage relay channels
+inoperable on one or more SDBDs or one or more associated timers inoperable on one or more
+SDBDs, and with operable loss of voltage relay channels on the affected SDBDs, that the
+degraded voltage relay channel be placed in trip within ten days. Required Action E.1 requires
+that, with any required action and associated completion time not met, that the associated Diesel
+Generator [DG](DG) be immediately declared inoperable. The timer was inoperable for
+approximately seventy-eight days without these Required Actions being completed. Therefore,
+BFN, Units 1 and 2, were in violation of Required Actions B.1 and E.1.
+Due to Required Action E.1, DG C was inoperable from October 15, 2016, ten days after the 4kV
+SDBD C Degraded Voltage Relay timer became inoperable in accordance with the required
+completion time of TS LCO 3.3.8.1.B.1, to December 22, 2016, when the timer was declared
+operable. This was not recognized at the time. During this time period there were two instances
+where an additional Unit 1 and 2 DG was inoperable in Mode 1 for longer than two hours, as listed
+below:
+• DG A – November 20, 2016 to November 23, 2016
+• DG D – December 13, 2016 to December 17, 2016
+TS LCO 3.8.1 requires that Unit 1 and 2 DGs, with two divisions of 480V load shed logic and
+common accident signal logic operable, shall be operable in Modes 1, 2, and 3. Required Action
+H.1 requires that, with two or more Unit 1 and 2 DGs inoperable, that all but one Unit 1 and 2 DG
+be restored to operable status within two hours. In both instances a second DG was inoperable
+NRC FORM 366A (06-2016) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000-259 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+for greater than thirty-eight hours. If the Required Actions and associated Completion Times are
+not met, Condition I requires the Unit to be placed in Mode 3 within 12 hours and Mode 4 within
+36 hours. Because two Unit 1 and 2 DGs were inoperable for longer than 2 hours and Units 1 and
+2 were not placed in Mode 3 within twelve hours or in Mode 4 within thirty-six hours, BFN Units 1
+and 2 were in violation of Required Actions H.1, I.1, and I.2.
+Based on the initial understanding of the issue, Operations personnel declared the 4kV SDBD C
+Degraded Voltage Relay inoperable and entered TS LCO 3.8.1 Condition A. This understanding
+was incorrect in that the UNID given in the Operations Logs and subsequent repair work
+performed was for the 4kV SDBD C Degraded Voltage Timer instead of the relay itself.
+Therefore the TS LCO which was entered, LCO 3.3.8.1 Condition A, was not the correct LCO for
+this event. Condition B should have been entered instead of Condition A. Condition A was
+entered on December 21, 2016, and exited on December 22, 2016, which meets the associated
+ten-day completion time for Required Action B.1 as well. However the POE determined that the
+overall amount of time that the timer was inoperable still exceeded TS limits. This discrepancy
+has been entered into the Corrective Action Program (CAP) as Condition Report (CR) 1262246.
+V. Assessment of Safety Consequences
+This event resulted in BFN, Unit 1, 4kV SDBD C Degraded Voltage four-second time delay relay
+channel being inoperable for longer than allowed by the TS without performing Required Actions.
+If a seismic event substantial enough to adversely impact the function of this timer were to occur
+concurrent with a degraded voltage on 4KV SDBD C, DG C would not automatically start based
+only on degraded voltage. However, an accident signal and/or a complete loss of voltage at 4KV
+SDBD C would still have started DG C. All manual DG C start functions were also available.
+A Probabilistic Risk Assessment was performed during the period of the timer’s inoperability, and
+found that the change in Incremental Core Damage Probability and the change in Incremental
+Large Early Release Probability for the time period that the timer was inoperable correspond to a
+negligible increase in risk. Based on the above, TVA has concluded that, during the time period
+that the timer was inoperable, there was no significant risk to the health and safety of the public or
+plant personnel for this event.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+No components or systems failed due to this event.
+B. For events that occurred when the reactor was shut down, availability of safety-
+related systems or components:
+This event did not occur when the reactor was shut down.
+NRC FORM 366A (06-2016) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000-259 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from the discovery of the failure until the train was returned to service:
+This event did not render any safety systems inoperable.
+VI. Corrective Actions:
+The immediate Corrective Action (CA) was to generate a work order and replace the retaining
+strap.
+Further CAs that are being managed by TVA’s CAP under CR 1244680 include the following:
+1. Identify DG relays that have or will be replaced by plant modifications similar to that
+which replaced relay BFN-0-02-211-0002C.
+2. Ensure that work packages for future installation of relays with seismic retaining straps
+contain steps to obtain adequate screw engagement during strap installation.
+VII. Previous Similar Events:
+A review of the BFN CAP and Licensee Event Reports for Units 1, 2, and 3 revealed no
+instances of timer retaining straps becoming detached over the last three years.
+VIII. Additional Information:
+There is no additional information.
+IX. COMMITMENTS
+There are no new commitments.
+NRC FORM 366A (06-2016) Page 6 of 6

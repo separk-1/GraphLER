@@ -1,0 +1,588 @@
+10 CFR 50.73
+Post Office Box 2000, Decatur, Alabama  35609-2000 
+February 2, 2026 
+ATTN:  Document Control Desk
+U.S. Nuclear Regulatory Commission 
+Washington, D.C.  20555-0001
+Browns Ferry Nuclear Plant, Unit 3 
+Renewed Facility Operating License No. DPR-68
+NRC Docket No. 50-296
+Subject:
+Licensee Event Report 50-296/2025-002-01 
+Reference:
+Letter from TVA to NRC, “Licensee Event Report 50-296/2025-002-00,” 
+dated October 20, 2025 (ML25293A446)
+The enclosed Licensee Event Report provides details of the inoperability of the BFN Unit 3 
+Reactor Core Isolation Cooling system for a period exceeding the system’s Technical 
+Specification (TS) allowed outage time. The Tennessee Valley Authority is submitting this 
+report in accordance with Title 10 of the Code of Federal Regulations 50.73(a)(2)(i)(B), as 
+any operation or condition which was prohibited by the plant’s TS.  Revision 1 to this report 
+contains a correction to the Corrective Actions for this condition.
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact David J. Renn, Nuclear Site 
+Compliance Manager, at (256) 729-2636. 
+Respectfully,
+Daniel A. Komm
+Site Vice President
+Enclosure:  Licensee Event Report 50-296/2025-002-01 – Reactor Core Isolation Cooling
+Inoperable due to a Failed Ramp Generating Signal Converter
+
+U.S. Nuclear Regulatory Commission 
+Page 2 
+February 2, 2026 
+cc (w/ Enclosure): 
+NRC Regional Administrator - Region II  
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant 
+NRC Project Manager - Browns Ferry Nuclear Plant 
+
+ENCLOSURE 
+Browns Ferry Nuclear Plant 
+Unit 3 
+Licensee Event Report 50-296/2025-002-01 
+Reactor Core Isolation Cooling Inoperable due to a Failed Ramp Generating Signal Converter 
+See Enclosed 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024)
+APPROVED BY OMB:  NO. 3150-0104   
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. Facility Name 
+Browns Ferry Nuclear Plant, Unit 3
+  050
+  052 
+52. Docket Number 
+00296
+3. Page 
+1   OF  6 
+4. Title
+Reactor Core Isolation Cooling Inoperable due to a Failed Ramp Generating Signal Converter
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Revision 
+ No. 
+Month 
+Day 
+Year 
+Facility Name 
+ N/A 
+Docket Number 
+05000XXX 
+08 
+19 
+2025 2025 -
+002 
+-
+01 
+02 
+02 
+2026 
+Facility Name 
+N/A
+Docket Number 
+05000XXX
+9. Operating Mode 
+1
+10. Power Level 
+100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply)
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.1200(a) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  73.1200(b)
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  73.1200(c) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  73.1200(d) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  73.1200(e) 
+  20.2203(a)(2)(ii)
+  21.21(c) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.77(a)(1) 
+  73.1200(f) 
+  20.2203(a)(2)(iii) 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.77(a)(2)(i) 
+  73.1200(g) 
+  20.2203(a)(2)(iv) 
+  50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(2)(ii) 
+  73.1200(h) 
+  20.2203(a)(2)(v) 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER
+Licensee Contact 
+Baruch Calkin, Compliance Engineer 
+Phone Number  (Include area code) 
+256-278-1031
+13. Complete One Line for each Component Failure Described in this Report
+Cause
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause
+System 
+Component 
+Manufacturer Reportable to IRIS 
+A
+BN 
+SC, CNV 
+W90 
+Y
+N/A 
+N/A 
+N/A 
+N/A
+N/A 
+4. Supplemental Report Expected)
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+No
+Yes (If yes, complete 15. Expected Submission Date
+N/A 
+N/A 
+N/A 
+16. Abstract  (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On August 19, 2025, at 1128 Central Daylight Time (CDT), during the performance of 3-SR-3.5.3.3, RCIC System 
+Rated Flow at Normal Operating Pressure, the Reactor Core Isolation Cooling system (RCIC) failed to achieve 
+required flow rate and pump discharge pressure due to an issue with the governor control system.  Upon 
+investigation, it was determined that the Unit 3 RCIC Ramp Generating Signal Converter (RGSC) module had failed 
+on July 20, 2025.  On August 23, 2025, at approximately 0108 CDT, the Unit 3 RCIC was declared operable 
+following replacement of the RGSC and successful Cold Quick Start Post Maintenance Testing. 
+The apparent cause of this condition was accumulated stress over time on the operational amplifiers leading to 
+failure of the RGSC.  The corrective actions for this condition are to replace the Unit 3 RCIC RGSC, to replace aging 
+RGSCs and Electro-Governor Magnetic Pickups at the earliest opportunity, and to create new PMs to periodically 
+replace similar components on the Unit 1, 2, and 3 RCIC and High Pressure Coolant Injection systems. 
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+ց
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+00296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+տ
+052
+2025 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    2     of     6   
+I.
+Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear (BFN) Unit 3 was in Mode 1 at approximately 100
+percent power.
+II.
+Description of Event
+A. Event Summary
+On August 19, 2025, at 1128 Central Daylight Time (CDT), during the performance of
+3-SR-3.5.3.3, RCIC System Rated Flow at Normal Operating Pressure, the Reactor Core
+Isolation Cooling system (RCIC) [BN] failed to achieve required flow rate and pump discharge
+pressure due to an issue with the governor control system.  Upon investigation, it was
+determined that the Unit 3 RCIC Ramp Generating Signal Converter (RGSC) [SC][CNV]
+module had failed on July 20, 2025.  On August 23, 2025, at 0108 CDT, the Unit 3 RCIC was
+declared operable following replacement of the RGSC and successful Cold Quick Start Post
+Maintenance Testing (PMT).
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code 
+of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as a condition that was prohibited by the 
+plant’s Technical Specifications (TS). 
+B. Status of structures, components, or systems (SSCs) that were inoperable at the start
+of the event and that contributed to the event
+There were no SSCs whose inoperability contributed to this event.
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+ց
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+00296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+տ
+052 
+2025 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    3     of     6   
+C. Dates and approximate times of occurrences
+DATE AND 
+APPROXIMATE 
+TIMES (CDT) 
+OCCURRENCE 
+July 20, 2025 
+1154 
+Voltage drops on Unit 3 RCIC RGSC, resulting in a deficient condition. 
+August 19, 2025 
+1128 
+During performance of 3-SR-3.5.3.3 RCIC failed to achieve 
+required flow rate and pump discharge pressure due to an issue 
+with the governor control system.   
+August 23, 2025 
+0108 
+Declared Unit 3 RCIC operable following replacement of RGSC and 
+successful Cold Quick Start PMT. 
+D. Manufacturer and model number of each component that failed during the event
+The RGSC that failed was manufactured by the Woodward Governor Company, part number
+9903-015.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F.
+Method of discovery of each component or system failure or procedural error
+This condition was discovered when RCIC failed to achieve the required flow rate and pump
+discharge pressure during the performance of 3-SR-3.5.3.3, RCIC System Rated Flow at
+Normal Operating Pressure.
+G. The failure mode, mechanism, and effect of each failed component
+The RGSC was an obsolete component under a run-to-failure maintenance strategy, which most
+likely failed due to stress over time on the operational amplifiers.
+H. Operator actions
+There were no operator actions associated with this event.
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+ց
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+00296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+տ
+052 
+2025 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    4     of     6   
+I.
+Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III.
+Cause of the event
+The direct cause of this condition was a failure of the Unit 3 RCIC RGSC.
+A. Cause of each component or system failure or personnel error
+The apparent cause of the Unit 3 RCIC RGSC failure was accumulated stress over time on
+the operational amplifiers [AMP].
+Additionally, the failure to implement Preventive Maintenance (PM) to replace the RGSC on a
+frequency conducive to preventing age-related failures was identified as a contributing cause.
+B. Cause(s) and circumstances for each human performance related root cause
+The RCIC System Engineer failed to follow the system monitoring plan for RCIC.
+IV.
+Analysis of the event
+The RCIC provides makeup water to the reactor vessel during shutdown and isolation from the
+main heat sink to supplement or replace the normal makeup sources and operates automatically
+in time to obviate any requirement for the Core Standby Cooling Systems.
+Unit 3 TS Limiting Condition of Operability (LCO) 3.5.3 requires, in Mode 1 or in Modes 2 and 3
+when reactor steam dome pressure is greater than 150 psig, that RCIC be operable.  TS LCO
+3.5.3 Conditions A.1 and A.2 require, when RCIC is inoperable, that the High Pressure Coolant
+Injection system (HPCI) [BJ] be immediately verified operable by administrative means; and that
+the RCIC system be restored to operable status within 14 days or in accordance with the Risk
+Informed Completion Time program.  A Past Operability Evaluation determined that this condition
+existed since July 20, 2025, excluding the period from August 5, 2025, at 0132 CDT to August 9,
+2025, at 0801 CDT when the Unit 3 reactor steam dome pressure was less than 150 psig due to
+an ongoing Unit 3 maintenance outage, which exceeded the TS LCO 3.5.3 A.1 and A.2 required
+completion times.
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+ց
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+00296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+տ
+052
+2025 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    5     of     6   
+Finally, TS LCO 3.0.4 states that when an LCO is not met, entry into a Mode or other specified 
+condition in the Applicability shall only be made when the associated actions to be entered permit 
+continued operation in the Mode or other specified condition in the Applicability for an unlimited 
+period of time. On August 9, 2025, BFN, Unit 3 entered a TS 3.5.3 Applicable Mode when          
+TS 3.5.3 Required Actions were not met. 
+V.
+Assessment of Safety Consequences
+A Probabilistic Risk Analysis determined that this condition was of very low safety significance.
+The health and safety of the public was not affected.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+The periods where the Unit 3 RCIC was inoperable included several windows where the
+Unit 3 HPCI was concurrently inoperable.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+The RCIC system is not credited in the BFN Final Safety Analysis Report.  This event did not
+affect the operability of any safety system.
+VI.
+Corrective Actions
+Corrective Actions are being managed by the TVA’s Corrective Action Program (CAP) under
+Condition Report 2033486.
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+ց
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 3 
+00296 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+տ
+052
+2025 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    6     of     6   
+A. Immediate Corrective Actions
+The Unit 3 RCIC RGSC was replaced under Work Order 125559901.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The corrective actions for this event are as follows:
+1.
+To create new PMs to periodically replace the HPCI and RCIC RGSCs and Electro-
+Governor Magnetic Pickup (EG-M).
+2.
+To replace the following components at the earliest opportunity due to age:
+x
+Unit 1 HPCI EG-M
+x
+Unit 1 HPCI RGSC
+x
+Unit 1 RCIC EG-M
+x
+Unit 2 RCIC EG-M
+x
+Unit 2 RCIC RGSC
+VII.
+Previous Similar Events at the Same Site
+A review of the BFN CAP and Licensee Event Reports for Units 1, 2, and 3 revealed no other
+instances within the past three years of RCIC inoperability due to RGSC failure.
+VIII. Additional Information
+There is no additional information.
+IX.
+Commitments
+There are no new commitments.

@@ -1,0 +1,364 @@
+•
+Entergy Nuclear Operations, Inc.
+Pilgrim Nuclear Power Station
+~Entergy; 600 Rocky Hill Road
+Plvmouth. MA 02360
+November 18, 2016
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report 2016-003-02, Spent Fuel Storage Design Feature
+Exceeded
+Pilgrim Nuclear Power Station
+Docket No. 50-293
+Renewed License No. DPR-35
+LETTER NUMBER: 2.16.071
+Dear Sir or Madam:
+The enclosed Licensee Event Report 2016-003-02, Spent Fuel Storage Design Feature
+Exceeded, is submitted in accordance with 10 CFR 50.73.
+If you have any questions or require additional information, please contact me at (508) 830-8323.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+~{,)~~
+Everett P. Perkins, Jr.
+Manager, Regulatory Assurance
+EPP/sc
+Attachment: Licensee Event Report 2016-003-02, Spent Fuel Storage Design Feature
+Exceeded (6 Pages)
+Entergy Nuclear Operations, Inc. Letter No. 2.16.071
+Pilgrim Nuclear Power Station Page 2 of 2
+cc Mr. Daniel H. Dorman
+Regional Administrator, Region I
+U.S. Nuclear Regulatory Commission
+2100 Renaissance Blvd., Suite 100
+King of Prussia, PA 19406-2713
+Ms. Booma Venkataraman, Project Manager
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 0-8C2A
+Washington, DC 20555
+NRC Senior Resident Inspector
+Pilgrim Nuclear Power Station
+Attachment
+Letter Number 2.16.071
+Licensee Event Report 2016-003-02
+Spent Fuel Storage Design Feature Exceeded
+(6 Pages)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10131/2018
+(11-2015)
+i'_"'..,,.•At,ci"t.,,. Estimated burden per response to comply with this mandatory collection request: 80 hours.
+t¥'1 Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~"""······9.-:-"" LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection. r·
+1. FACILITY NAME 2. DOCKET NUMBER
+PAGE
+Pilgrim Nuclear Power Station 05000293 1 OF6
+4. TITLE Spent Fuel Storage Design Feature Exceeded
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I S E N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR N FA IA C ILITY NAME D N O /A C KET NUMBER
+FACILITY NAME DOCKET NUMBER
+05 12 2016 2016 -003 -02 11 17 2016 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+N D 20.2201{b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) 0 50.73(a){2)(viii)(A)
+D 20.2201{d) D 20.2203(a)(3)(ii) ~ 50.73(a)(2)(ii)(B) 0 50.73(a){2)(viii)(B)
+D 20.2203{a)(1) D 20.2203(a)(4) D 50.73{a)(2)(iii) D 50. 73(a){2)(ix)(A)
+10. POWER LEVEL
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73{a)(2)(v)(A) D 73.71(a)(4)
+100
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a){5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3){ii) 0 50.73(a)(2)(v)(C) D 73.77(a){1)
+0 20.2203(a)(2)(v) D 50.73(a)(2){i)(A) D 50.73(a)(2)(v)(D) D 73.77(a){2)(i)
+0 20.2203{a)(2)(vi) ~ 50.73(a)(2)(i)(B) D 50.73{a)(2)(vii) D 73.77(a){2)(ii)
+D 50.73(a)(2){i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT IELEPHONE NUMER (Include Area Code)
+Mr. Everett P. Perkins, Jr. - Regulatory Assurance Manager 508-830-8323
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TOEPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 12, 2016, at 16:47 EDT, an assessment of Boron Areal Density Gauge for Evaluating Racks
+(BADGER) testing results for spent fuel storage racks revealed a single panel, RR35 South with a gap in
+neutron absorber material that exceeds spent fuel storage design feature assumptions. The assumptions
+ensure compliance with Technical Specification (TS) Section 4.3.1.1.b to maintain a spent fuel pool K-effective
+(Keff) of less than or equal to(</=) 0.95. An extent of condition review indicates additional at-risk rack locations
+that may further challenge compliance with TS 4.3.1.1.b.
+The cause of the noncompliance with TS 4.3.1.1.b is Boraflex degradation greater than assumed in the
+criticality safety analysis. Interim actions include declaring the spent fuel pool rack cells adjacent to the panel
+RR35 South inoperable, installing blade guides into cells adjacent to panel RR35S, and prohibiting fuel
+movement in Boraflex racks. An additional corrective action was taken to perform a criticality evaluation of the
+spent fuel pool (SPF).
+This LER supplement is issued to identify that an additional criticality evaluation has been performed to
+conservatively identify fuel storage configurations within the Boraflex fuel storage racks that will ensure the
+Boraflex racks Keff will be able to be maintained </= 0.95. Fuel movement will be required to establish these
+configurations.
+NRC FORM 366A (11-2015)
+p aQe 2 0 f 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMS: NO. 3150-0104 EXPIRES:
+(11-2015) . 1 0/31/2018
+~rl4a.,~,,, . Estimated burden per response to comply with this mandatory collection request: 80
+!~. .~ hours. Reported lessons learned are incorporated into the licensing process and fed back
+~. ...... ~i LICENSEE EVENT REPORT (LER) to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+CONTINUATION SHEET
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office
+of Management and Budget, Washington, DC 20503. If am eans used to impose an information
+collection does not display ac urrently valid OMB control number, the NRC may not conduct or
+'" . ..
+1. FACILITYNAME 2. DOCKET 3. LERNUMBER
+YEAR SEQUENTIAL REVISION
+NUMBER NUMBER
+Pilgrim Nuclear Power Station 05000293
+2016 003 02
+NARRATIVE
+BACKGROUND:
+Boraflex degradation is a known industry issue that has warranted monitoring and evaluation to ensure the
+margin to criticality is maintained in the Spent Fuel Pool (SFP). The Boraflex Monitoring Program is described
+in Final Safety Analysis Report Appendix S, License Renewal Commitments, as a program that assures
+degradation of the Boraflex panels in the spent fuel racks does not compromise the criticality analysis in
+support of the design of the spent fuel storage racks. The program relies on (1) neutron attenuation testing, (2)
+determination of boron loss through correlation of silica levels in SFP water samples and periodic areal density
+measurements, and (3) analysis of criticality to assure that the required 5% subcriticality margin is maintained.
+RACKLIFE is a commercial software program, based on the degradation mechanism of Boraflex, developed to
+calculate the average Boron loss of a Boraflex panel and to predict the future Boron loss of Boraflex. Boron
+Areal Density Gauge for Evaluating Racks (BADGER) is a commercial in-situ nondestructive diagnostic tool for
+measuring the areal density of Boron and the gaps in a neutron absorber as installed in fuel racks. BADGER
+testing measures the neutron transmission rate through SFP Boraflex panels by placing a neutron source and
+"- neutron detectors on opposite sides of a panel. Measured neutron transmission is related to Boron areal
+density and allows for measurement of gaps in the neutron absorber. Overall, RACKLIFE and BADGER
+approach the loss of Boron areal density from Boraflex from opposite sides. RACKLIFE calculates the percent
+of Boron that is lost while BADGER measures the areal density of Boron that remains. To quantify the loss of
+Boron in spent fuel pool racks, the RACKLIFE and BADGER methods are combined.
+The average number of neutrons that cause new fission events is called the effective neutron multiplication
+factor, denoted by Kettective (Kett). When Kett is equal to 1, the assembly is called critical, if Kett is less than 1 the
+assembly is said to be subcritical, and if Kett is greater than 1 the assembly is called supercritical.
+TS 4.3.1.1.a design criteria for acceptable storage of fuel in the spent fuel storage racks are: 1) Fuel must have
+lattice-average enrichment of 4.6% or less and 2) The Kintinity which is a conservative credit of maximum
+reactivity exposures for fuel burnup in the standard core geometry, calculated at the burn up of maximum
+bundle reactivity, must be 1.32 or less.
+TS 4.3.1.1.b design requirements for spent fuel pool storage provides for a kett less than or equal to (</=) 0.95.
+This satisfies the Nuclear Regulatory Commission's (NRC) criteria for fuel storage racks. With Kett</= 0.95
+there is an assurance that there can be no sustained fission reaction between fuel assemblies stored in the
+spent fuel pool, and they therefore remain substantially subcritical.
+The design of the fuel storage racks assumes that the neutron absorbing material is consistent with gaps size
+and areal density losses assumed in the criticality safety analysis. Prior to 2016 in-situ examinations of Boraflex
+material in the PNPS spent fuel racks confirmed expected gap size and areal density loss assumptions.
+EVENT DESCIPTION:
+During a BADGER test campaign conducted in the spent fuel pool from March 28, 2016 to April 5, 2016, a 38
+inch cumulative gap was found in panel RR35 South that exceeded the maximum analyzed gap size of 10
+p aae 3 0 f 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES:
+(11-2015) 1 0 /31/2018
+a~ w.~- Estimated burden per response to comply with this mandatory collection request: 80
+..a . 1 I
+\ ____I () hours. Reported lessons learned are incorporated into the licensing process and fed back
+LICENSEE EVENT REPORT (LER) to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+CONTINUATION SHEET Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an information
+collection does not display -a· currently valid OMB control number, the N..R C may not conduct or
+- ,_ oL • •
+1. FACILITY NAME 2. DOCKET 3. LER NUlllBER
+YEAR SEQUENTIAL REVISION
+NUMBER NUMBER
+Pilgrim Nuclear Power Station 05000293
+2016 003 02
+inches, and challenged compliance with TS 4.3.1.1.b SFP storage rack Kett requirement of </=0.95. This result
+exceeded the previous results and predictions of total gap size. No other panel tested had a cumulative gap
+size greater than or equal to 6.0 inches nominal. Sixteen panels tested had previously been BADGER tested in
+2006 and 2012. None of these panels were found with a total gap greater than anticipated. The 2016 BADGER
+testing was the first measurement for panel RR35 South which is located in SFP rack E5. Panels in rack E5
+were chosen for testing to ensure that the highest dose Boraflex panel in the SFP was tested. Panel RR35
+South was not the highest dose panel, but was in the region that was cleared for testing and included in the
+test population. Previous BADGER test panels were selected to ensure that the highest predicted boron areal
+density loss panel was tested. Other panels were selected to obtain a sampling of high, medium, and low dose
+and/or Boron loss panels with consideration for the amount of fuel movement required for the test. This most
+recent test used the sam'e approach but also included the panel predicted to have the highest dose. There
+were 71 Boraflex panels tested during the 2016 BADGER testing. These panels were predicted by the
+RACKLIFE model to have varying degrees of Boron loss and accumulated dose. The panel selection was
+made jointly by Reactor Engineering, Fuels Engineering and the BADGER test vendor.
+Fuels Engineering reviewed the preliminary 2016 BADGER test results and determined that additional testing
+was not required at that time since 21 other panels with a similar dose and history were tested during this most
+recent test with a maximum cumulative gap preliminarily reported at 6.7 inches (final value of 6.0 inches).
+These 21 similar panels included all six panels in cells that share the RR35 South panel, as well as several
+other panels within the same rack as RR35 South. Since the 2016 BADGER measurements found only one
+panel out of the 22 similar panels to have a large cumulative gap beyond the analysis basis, the cumulative
+gap measured in panel RR35 South was considered to be an isolated occurrence. There was no fuel in RR34,
+RR35 and other surrounding cells as fuel in this area was removed for the BADGER tests. Therefore, based
+on panel RR35 South test results, the six rack locations surrounding panel RR35 South were declared
+inoperable and blocked with blade guides to preclude inadvertent loading of fuel adjacent to the defective
+panel.
+In order to evaluate the preliminary 2016 BADGER test results, a conservative Boraflex gap model was
+developed based on BADGER and blackness testing measurements performed at Pilgrim Nuclear Power
+Station (PNPS) and blackness testing measurements at Grand Gulf Nuclear Station (GGNS) over the last 28
+years. Both GGNS and PNPS use fuel storage racks designed and manufactured by the same manufacturer
+and installed circa 1986. The model includes site specific factors that affect Boraflex degradation, such as
+gamma dose absorbed by each panel and the fuel storage history of each storage cell. The other key factor
+that impacts Boraflex degradation is the rate which SFP water circulates through the rack volume that
+encapsulates the Boraflex panel. This parameter is a function of the design and manufacturing process so it is
+common to both sites' racks. Application of this model determined the extent of condition to be that
+approximately 534 panels were susceptible to gap losses of 10 inches (maximum gap loss considered in the
+current analysis of record) or larger. Based on these results, all Boraflex racks and any adjacent non-Boraflex
+cells that credit the neutron absorber in the Boraflex racks were declared inoperable. Preliminary analysis of
+the pool configuration by the fuel vendor using the Badger Test gap measurements showed that the SFP was
+maintained subcritical, using actual fuel characteristics, rather than the maximum reactivity allowed by the
+Technical Specifications. Fuel movement in Boraflex racks has been stopped until completion of additional
+criticality analysis that supports movement of fuel within the Boraflex racks. This additional criticality
+evaluation has been performed to conservatively identify fuel storage configurations within the Boraflex fuel
+p aqe 4 0 f 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES:
+(11-2015) 1 0 /31/2018
+~¥~· Estimated burden per response to comply with this mandatory collection request: 80
+~ .... ~ . i / hours. Reported lessons learned are incorporated into the licensing process and fed back
+\ LICENSEE EVENT REPORT (LER) to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+CONTINUATION SHEET Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+collection does
+-
+not disp
+=
+la
+-
+y
+_ _
+a
+...
+currently ·v-alid OMB control number, the N..R C may not conduct or ·
+'" •C '
+1. FACILITY NAME 2. DOCKET 3. LER NUMBER '
+YEAR SEQUENTIAL REVISION
+NUMBER NUMBER
+Pilgrim Nuclear Power Station 05000293
+2016 003 02
+storage racks that will ensure the Boraflex racks Kett will be able to be maintained </= 0.95. This analysis has
+projected the condition of the Boraflex panels until September, 2017 using the BADGER test results,
+RACKLIFE code and the Boraflex gap model. Application of the gap model determined that 886 panels will be
+susceptible to gap losses of 10 inches or larger as of September, 2017. This analysis takes credit for a
+degraded Boraflex absorber in rack panels that have been determined to be non-susceptible to gap losses of
+10 inches or larger but does not take credit for the Boraflex absorber in susceptible panels. This criticality
+analysis takes credit for fuel burn-up in determining fuel storage configurations that are less than 0.95 Kett· Fuel
+will need to be moved to establish the acceptable configurations of this analysis.
+CAUSE OF THE EVENT
+The cause of the potential noncompliance with TS 4.3.1.1.b is Boraflex gaps greater than assumed in the
+criticality safety analysis. Boraflex has been observed to be subject to in-service degradation from the
+combined effects of gamma radiation from spent fuel and long term exposure to the aqueous pool
+environment. Boraflex polymer shrinks due to irradiation beyond certain dose and forms gaps, which may have
+caused flow induc~d washout of the Boraflex material. The synergistic effects of gamma radiation and water
+cause the chemical composition of the polymer matrix of Boraflex to change from polydimethyl siloxane to
+amorphous silica, which is somewhat soluble in water. As the transformed matrix dissolves, it releases Boron
+and crystalline silica filler materials to the interior of the fuel racks and eventually to the SFP, resulting in gap
+growth. A contributing cause of the event is that water infiltration into cell RR35 South could be higher due to
+variation in fabrication quality. This cause would contribute to this condition by enabling boron washout.
+The apparent cause of the unanalyzed condition is reliance on the method of BADGER Testing I RACKLIFE
+alone to determine the condition of Boraflex panels in the SFP.
+CORRECTIVE ACTIONS
+Corrective actions include performing a criticality evaluation to determine acceptable fuel storage
+configurations in Boraflex racks and achieving a SFP arrangement, in accordance with the criticality
+evaluation, to meet and maintain SFP Kett</= 0.95 as required by TS 4.3.1.1.b.
+The BADGER/RACKLIFE method of prediction of cumulative gap was augmented by a gap model based on
+PNPS and GGNS gap measurements to determine that approximately 534 locations were susceptible to gaps
+that could exceed the current analysis assumption. Further criticality analysis utilized BADGER/RACKLIFE and
+the PNPS and GGNS gap model to predict the cumulative gap size and boron areal density used within
+analytical models of the Boraflex racks. Application of the gap model determined that 886 panels will be
+susceptible to gap losses of 10 inches or larger as of September, 2017.
+SFP rack cells with Boraflex panels have been declared inoperable, blade guides have been installed into cells
+adjacent to panel RR35S, and fuel movement in storage racks with Boraflex panels has been discontinued to
+avoid challenging subcriticality margins. A criticality evaluation has been performed to conservatively identify
+fuel storage configurations within the Boraflex fuel storage racks that will ensure the Boraflex racks Kett will be
+maintained </= 0.95. Fuel will be moved to establish the acceptable configurations of this evaluation once an
+analysis that supports movement of fuel within the fuel storage racks with Boraflex panels has been
+completed.
+p aoe 5 0 f 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES:
+(11-2015) 1 0 /31/2018
+/~'.o._ Estimated burden per response to comply with this mandatory collection request: 80
+•. hours. Reported lessons learned are incorporated into the licensing process and fed back
+~;
+""+:,····· ·'" LICENSEE EVENT REPORT (LER) to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+CONTINUATION SHEET Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office
+of Management and Budget, Washington, DC 20503. If am eans used to impose an information
+collection does not display ac urrently valid OMB control number, the NRC may not conduct or
+- ,_ - ,._ ..
+'- 'L • ~
+1. FACILITY NAME 2. DOCKET 3. LERNUMBER
+YEAR SEQUENTIAL REVISION
+NUMBER NUMBER
+Pilgrim Nuclear Power Station 05000293
+2016 003 02
+The current TS 4.3.1.1.a allows loading a fuel assembly with Kint as high as 1.32. PNPS has not loaded any
+assemblies with > 1.27 peak kinf· Since we are unable to show that SFP Kett of</= 0.95 can be met with the
+highest allowed assembly in-core kint of 1.32 due to current degraded status of the SFP Boraflex panels, TS
+4.3.1.1.a Kint specification of the maximum allowed Kint of 1.32 may be non-conservative for racks with Boraflex
+panels. While this is non-conservative relative to the PNPS TS, evaluations document the SFP was maintained
+subcritical and therefore safe.
+Corrective action to perform a criticality evaluation to confirm the acceptability of the configurations of the fuel
+storage racks using the BADGER Test gap measurements in Boraflex panels was completed. A criticality
+evaluation has been performed to conservatively identify fuel storage configurations within the Boraflex fuel
+storage racks which will ensure that the Boraflex racks Kett will be maintained </= 0.95 until September, 2017.
+This analysis was performed without taking credit for the Boron content of the Boraflex panels susceptible to
+high gap formation.
+Additional analysis will be performed to update the criticality analysis of record to either show compliance with
+the TS as written or .we will submit a proposed revision to TS that will cover the characteristics of fuel
+assemblies currently stored or planned to be stored in the SFP, to meet the</= 0.95 Kett limit for the SFP.
+SAFETY CONSEQUENCES
+There was no actual safety consequence related to the event because evaluations have demonstrated the
+current fuel storage configuration is subcritical. This analysis utilized assumptions concerning Boraflex gap
+size and location based upon the results of the most recent BADGER test to model all fuel storage rack cells
+with Boraflex panels. In addition, all Boraflex racks and any adjacent non-Boraflex cells that credit the neutron
+absorber in the Boraflex racks were declared inoperable, blade guides have been installed into cells adjacent
+to panel RR35S pending the now completed additional analysis. The analysis identifies required fuel
+configurations and limitations on regions of the Boraflex storage racks and the fuel to be stored in these
+regions. These fuel configurations ensure that the Boraflex storage racks kett will remain less than 0.95 with
+conservative estimates of future Boraflex absorber changes. Fuel movement in Boraflex racks has been
+stopped until completion of additional analysis that supports movement of fuel within the Boraflex racks.
+REPORTA BILITY
+A condition prohibited by TS occurred when the cumulative gap loss in SFP panel RR35 South invalidated the
+loss limit in the SFP Nuclear Criticality Boron Loss Study and invalidated the conclusion that the Boron loss
+projections would assure the SFP Kett less than 0.95 until July 28, 2016. This was a noncompliance with TS
+4.3.1.1.b and is reportable in accordance with 10 Code of Federal Regulations (CFR) 50. 73(a)(2)(i)(B).
+Condition Report CR-PNP-2016-02205 addresses the noncompliance. Based on initial extent of condition
+review, this event was reported under Event Notification Report Number 51924 on May 12, 2016, as an
+unanalyzed condition in accordance with 10 CFR 50:-72(b )(3)(ii)(B). Based on the unknown condition of other
+panels that are susceptible to gap losses, this condition is reportable as an unanalyzed condition in
+accordance with 10 CFR 50. 73(a)(2)(ii)(B).
+p aQe 6 f 6
+0
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES:
+(11-2015) 1 0 /31/2018
+-·~~,,.' Estimated burden per response to comply with this mandatory collection request: 80
+t~ ~~ ' .. ., ~ · z • · I hours. Reported lessons learned are incorporated into the licensing process and fed back
+~~ ••••••. !' LICENSEE EVENT REPORT (LER) to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+CONTINUATION SHEET Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+collection does not display a currently valid OMB c·-ontrol number, the NRC may not conduct or
+"-.
+1. FACILITYNAME 2. DOCKET 3. LERNUMBER
+YEAR SEQUENTIAL REVISION
+NUMBER NUMBER
+Pilgrim Nuclear Power Station 05000293
+2016 003 02
+. PREVIOUS EVENTS
+None
+ENERGY INDUSTRY IDENTIFICATIONSYSTEM (EllS) CODES
+The EllS codes for Components and Systems referenced in this report are as follows:
+COMPONENTS: None CODES: None
+SYSTEMS: None CODES: None
+REFERENCES: CR-PNP-2016-02205

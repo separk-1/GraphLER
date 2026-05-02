@@ -1,0 +1,476 @@
+Exelon Generation
+Clinton Power Stat on
+8401 Power Road
+Clinton IL 61727
+U-604648 10 CFR 50.73
+SRRS 5A.108
+August I 9, 2021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2021-001-00
+Enclosed is Licensee Event Report (LER) 2021-001-00: Core Monitoring System Software
+Modeling Error Results in Condition Prohibited by Technical Specifications. This report is being
+submitted in accordance with the requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~
+Thomas D. Chalmers
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2021-001-00
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+•• -4.. ., LICENSEE EVENT REPORT (LER) lessons leamed ,n incorporated inlO the l~ensing process and fed back to indusb"(. Send commenls
+:~ '- regarding burden estimate 10 the FOIA. Library, and lnfonnation CoAectons Branch (T-6 AfOM). U.S.
+\ -f \.: - ' ~!~ (See Page 3 for required number of digits/characters for each block) Nucfea, Regulatory Comtrission. Washington. DC 20555-0001, Of by e-mal lo
+~, .. • . .. #;; (See t-· 7 N ; UR ,1,1 E •,., G ·,-. - 1 :-- 0 r- 2 ; 2 :: , r: : R , .3 -: : f a o c r r in !:i s - t r r uc C ll C o c n - : a c n d t: " g :: u c id r a s n . - c f e .lr f : o ,; r 5 c o 3': m .3.~ p le s-: t - i • n J g ; Z th , i . s ~ , f ) o rm A ln f f f o a c ir o s t , t e ( c 3 ls 1 . 5 R 0 e -0 s 1 o 0 u 4 rc ) e , @ At n tn r : c .g D ov e , s k a n a d il : I lle : " 0 ' M , B .r n re s v ~ ie r w ., e ·. r g a ,; t , -c 0 M ~ B :c · O :c f - f , ic . e T o h f e l n N f0 R <m C a m tio a n y a n n o d t c R o e n g d u u la c !O t < ° y '
+sponsor, and a person is not required to respond to, a coUection of information unless the document
+requesting or requiring the collection displays a cunendy valid 0MB con~ol number.
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. Title
+Core Monitoring System Software Modeling Error Results in Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Dockal Number
+Month Day Year Year Month Day Year
+Number No. 05000
+07 20 2021 2021 - 001 - 00 08 19 2021 Facility Name Dockal Number
+05000
+110.
+9. Operating Mode Power Level
+1 098
+11. This Report Is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+(cid:143) 10 CFR P.art 2(1 l 20.2203(a)(2)(vi) so.3s1cI12I 50.73(a)(2)(Iv)(A) 50.73(a)(2)(x)
+D D D
+(cid:143) 20.2201(b) 20.2203(a)(3)(I) (cid:143) 50.46(a)(3)(11) 50.73(a)(2)(v)(A) 10 CFR Part 73
+D D D
+20.2201(d) 20.2203(a)(31(li) (cid:143) 50.69(9) 50.73(a)(2)(v)(B) 73.71(a)(4)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50,73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+D 20.2203(a)(2)(i) 1,0 CFR Part 21 (cid:143) 1:8] 50.73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) D 73.77(a)(1)(i)
+D D D D
+20.2203(a)(2)(ii) 21.2(c) (cid:143) 50.73(a)(2)(i)(C) 50.73(a)(2)(vil) 73.77(a)(2)(1)
+0 D D
+20.2203(a)(2)(iil) (cid:143) 1,0 ,CFR Part 50 (cid:143) 50.73(a)(2)(1i)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+D D
+20.2203(a)(2)(iv) (cid:143) 50.36(c)(1)(i)(A) 50.73(a)(2)(il)(B) 50.73(a)(2)(viii)(B)
+0 0 D
+20.2203(a)(2)(v) 50.36(c)(1)(1i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(Ix)(A)
+0
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+William Brockschmidt, Reactor Engineer (217) 937-3888
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+181 I D 15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 07/20/21, with Clinton Power Station (CPS) operating at 98 percent power, it was determined CPS had operated
+in conditions prohibited by Technical Specifications (TS). This determination was based on a review of operational
+history and General Electric - Hitachi (GEH) Safety Communication SC 21-04, Revision 1, "Fuel Support Side Entry
+Orifice Meta-Stable Flow for 2 Beam Locations in the BWR/6 Reactors." The review concluded there were periods on
+5/25/19, and between 6/22/19 to 8/3/19, when TS 3.2.2, "Power Distribution Limits - Minimum Critical Power Ratio
+(MCPR)" was not met due to a Core Monitoring System software modeling error. The error was identified by GEH and
+was caused by underprediction of Side Entry Orifice (SEO) loss coefficient for some fuel bundle locations which
+impacted the Maximum Fraction of the Limiting Critical Power Ratio (MFLCPR). The current MFLCPR value was
+verified within the recommended limit. Operations Standing Orders were issued to capture recommended actions from
+SC 21-04. The Core Operating Limit Report and Databank Design Analysis were revised and the core monitoring
+system was updated to address SC 21-04. This condition is reportable under 10 CFR 50.73(a)(2)(i)(B), any operation
+or condition which was prohibited by the plant's TSs. There was no impact to the health and safety of the public or
+plant personnel because the Safety Limit MCPR was not exceeded in previous cycles and the available margin was
+sufficient to accommodate the penalty evaluated in SC 21-04.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2(
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours
+Reported lessons learned are incorporated into the licensing process and led back to industry
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections
+Branch (T-6 A10M), U. S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+..... CONTINUATION SHEET e-mail to lnfocollects.Resource@nrc gov, and the 0MB reviewer at: 0MB Office of Informal.on
+and Regulatory Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 725 17th Street NW, Washrnglon, DC 20503. e-mail: o-a ,.er,; crccr~ :eo ~c ,. The NRC
+http Jlwww nrc qovrreading-rrn/doc-collect1ons/nureqs/staft srl 022/r3I) i m nf a o y r m n a o ti l o n c o u n n d le u s c s t o lh r e s d p o o c n u s m or e , nt a n re d q u a e s p t e in r g so o n r r i e s q u n i o ri l n g re l q h u e i re c d o lle lo c tio re n s p d o is n p d la y lo s , a a c u c r o re lle n c tl t y io n va li o c
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2021 - 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Core Monitoring System Software Modeling Error Results in Condition Prohibited by Technical
+Specifications
+A Plant Operating Conditions Before the Event
+Unit: 1 Event Date: July 20, 2021 Event Time: NIA
+Mode: 1 Mode Name: Power Operation Reactor Power: 098
+8. Description of Event
+Minimum Critical Power Ratio (MCPR) is a ratio of the fuel assembly power that would result in the
+onset of boiling transition to the actual fuel assembly power. The Operating Limit MCPR
+(OLMCPR) is established to ensure that no fuel damage results during anticipated operational
+occurrences, and that 99.9% of the fuel rods avoid boiling transition if the limit is not violated.
+Although fuel damage does not necessarily occur if a fuel rod experiences boiling transition, the
+critical power at which boiling transition is calculated to occur has been adopted as a fuel design
+criterion. The core monitoring system applies the appropriate OLMCPR limits incorporating the
+appropriate flow dependent MCPR (MCPRF) or the power dependent MCPR (MCPRP) limits;
+maximum of the two off-rated limits is applied for added conservatism. When this OLMCPR is
+divided by the calculated actual MCPR, this returns the Maximum Fraction of the Limiting Critical
+Power Ratio (MFLCPR). With MFLCPR <1.000, the Core Operating Limits Report (COLR) limits are
+met such that Technical Specification (TS) 3.2.2, Power Distribution Limits - Minimum Critical
+Power Ratio (MCPR), is satisfied. With MFLCPR > 1.000, TS 3.2.2 requires MFLCPR to be
+restored within 2 hours or power reduced to below 21.6% Rated Thermal Power within the next 4
+hours.
+On July 20, 2021, it was determined that a core monitoring system software modeling error resulted
+in multiple entries into a condition prohibited by TS. This determination was reached after detailed
+review of plant operational history and information provided in General Electric - Hitachi (GEH)
+Safety Communication (SC) 21-04, "Fuel Support Side Entry Orifice Meta-Stable Flow for 2 Beam
+Locations in the BWR/6 Reactors," Revision 1, issued on June 17, 2021.
+SC 21-04, Revision 0, issued on April 19, 2021, identified a flow pattern that may periodically form
+under certain core conditions in which fuel bundle bypass flow is not accurately modeled by the
+core monitoring system. This condition is applicable to BWR/6 stations utilizing GEH core
+NRC FORM 366A (08-2020)
+Page_ 2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2(
+(08-2020)
+Esbmated burden per response to comply with this mandatory collection request: 80 hours
+Reported lessons learned are incorporated into the licensing process and fed back to industry
+./'" LICENSEE EVENT REPORT (LER) Send comments regarding b\Jrden estimate to the FOIA, Library, and Information Collectiom
+-~ Branch (T-6 A10M), U, S, Nuclear Regulatory Commission, Washington, DC 20555-0001, orb)
+\ ·· 11.-/
+...... CONTINUATION SHEET e-mail to lnfocollecls.Resource@nrc.gov, and the 0MB reviewer al. 0MB Office of lnformatior
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission .
+725 17th Street NW, Washington, DC 20503: e-mail· c,•3 s.tr,ss.c0C:,;rb c00 'Xll, The NRC
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+may not conduct or sponsor. and a person is not required lo respond to. a collection o
+http 1,www nrc gov:read,ng-rm/doc-collectJons/nureqs, staff/srt022/r3.') information unless the document requesting or requiring the collection displays a currently valic
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2021 - 001 00
+NARRATIVE
+monitoring software, which includes Clinton Power Station (CPS). The condition applies to fuel
+assembly locations which are adjacent to two supporting beams of the core plate. These locations
+represent approximately 25% of the fuel bundles in the CPS core. The condition identified in SC 21-
+04, Revision 0, impacts the limits specified in TS 3.2.2.
+In response to SC 21-04, Revision 0, CPS issued Standing Order 2021-04, "MFLCPR
+Administrative Limit," which implemented a core wide penalty on the MFLCPR thermal limit. The
+Standing Order was based on recommended actions from SC 21-04, Revision 0.
+On June 17, 2021, GEH revised SC 21-04. SC 21-04 (i.e., Revision 1) provided additional guidance
+and clarification on the application of the MFLCPR penalty recommended in Revision 0. Previously,
+GEH recommended a 0.05 penalty be placed on core wide MFLCPR. Upon further investigation SC
+21-04, Revision 1, recommended the MFLCPR penalty be calculated via a plant specific formula,
+which results in differing penalty values for different core power, flow, and equipment out of service
+conditions. The full description of the recommended MFLCPR penalty is contained in Attachment 5
+of SC 21-04, Revision 1. CPS Standing Order 2021-04 was revised to incorporate the new
+recommendations in SC 21-04, Revision 1, to ensure compliance with TS 3.2.2.
+Based on information provided in SC 21-04, Revision 1, and a review of unit operational history, it
+has been determined there were periods on May 25, 2019, and between June 22 -August 3, 2019,
+when TS 3.2.2 was not met because, after implementation of SC 21-04, Revision 1, penalty,
+MFLCPR was greater than 1.0 for longer than 6 hours.
+C. Cause of the Event
+As stated in SC 21-04, Revision 1, GEH notified CPS the Side Entry Orifice (SEO) loss coefficient
+was underpredicted for some fuel bundle locations, which could result in an overprediction of MCPR
+margin in core monitoring applications. The overprediction was a result of not originally including in
+the assessment flow area restrictions associated with instrument support structures in the cross
+beams (structural supports underneath the core plate) in BWR/6 plant designs. The issue was
+identified in evaluations completed as part of follow-on actions from a 2020 Part 21 report (Non
+conservative BWR/6 Side Entry Orifice (SEO) Loss Coefficients, dated June 24, 2020,
+ML20176A432). This condition, the level of details used in vendor calculations, and the basis of the
+data used in the applied application were beyond the control of Exelon to identify, predict or prevent
+because it is a legacy vendor design calculation error. Further, Exelon does not have the capability to
+check these calculations, nor the resources to perform an independent review of GEH calculations.
+D. Safety Consequences
+The condition described in this LER is reportable under 10 CFR 50.7 3(a)(2)(i)(B), any operation or
+condition which was prohibited by the plant's TS. The OLM CPR is set such that if the plant is
+operating at the OLMCPR, the most limiting operational transient for the cycle will not result in
+violation of the Safety Limit MCPR (SLMCPR). Exelon reviewed the unit operating history for
+NRG FORM 366A (08-2020) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2(
+(08-2020)
+............... Estimated burden per response lo comply with this mandatory collection request 80 hours
+Reported lessons learned are incorporated into the licensing process and fed back to industry
+;t LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections
+-
+•
+,_, ..m .... .)
+·:c
+CONTINUATION SHEET e
+B
+-
+r
+m
+an
+a
+c
+il
+h
+to
+( T
+l
+-
+n
+6
+fo
+A
+c
+1
+o
+0
+lle
+M
+c
+)
+ts
+,
+.
+U
+R
+.
+e
+S
+s
+.
+o u
+N
+r
+u
+ce
+cl
+@
+ea
+n
+r
+r c
+R
+.g
+e
+o
+g
+v
+u
+.
+la
+a
+to
+n
+r
+d
+y
+t
+C
+he
+o m
+0
+m
+M
+i
+B
+ss i
+r
+o
+e
+n
+v
+,
+i e
+W
+w
+a
+e
+s
+r
+h
+a
+i
+t
+n
+:
+gto
+0
+n
+M
+.
+B
+D C
+O f
+2
+fi
+0
+c
+5
+e
+5
+o
+5-
+f
+0
+I
+0
+n
+0
+fo
+1
+rm
+. o
+a
+r
+t io
+b
+n
+y
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for ihe Nuclear Regulatory Commission .
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 72517th Street NW, Washington, DC 20503; e-mal ;:.·~ ;ct,~ s;c~iTCi-t) e<:c :,) .. The NRC
+httpJ,,wN1 nrc 901; reading-mi doc-collect1ons/nuregs/staff,sr t022/r3, l
+i
+m
+nf
+a
+o
+y
+r m
+n
+a
+o
+ti
+t
+o n
+c o
+u
+n
+n
+d
+le
+u
+s
+c
+s
+t
+t
+o
+h
+r
+e
+s
+d
+p
+o
+o
+c
+n
+u
+s
+m
+or
+e
+,
+n t
+a n
+re
+d
+q u
+a
+e s
+p
+ti
+e
+n
+r
+g
+s o
+o
+n
+r r
+i
+e
+s
+q u
+no
+iri
+t
+n g
+re
+t
+q
+h
+u
+e
+i re
+c
+d
+o lle
+to
+ct io
+re
+n
+s
+d
+po
+is
+n
+p
+d
+la y
+to
+s
+,
+a
+a
+c u
+c
+r
+o
+re
+lle
+n
+c
+tl
+t
+y
+io n
+va l
+o
+ic
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2021 - 001 00
+NARRATIVE
+limiting transients and other analyzed transients that are close to being limiting in the Supplemental
+Reload Licensing Reports. Exelon concluded that, for the period reviewed, the limiting transients
+were turbine trip without bypass, feedwater controller failure full open, load reject without bypass,
+rod withdrawal error, loss of 100 degree Fahrenheit feedwater heating, and fuel loading/orientation
+error. Because these limiting or near limiting transients did not occur in the period reviewed, the
+margin between the SLMCPR and OLMCPR was adequate for continued SLMCPR protection.
+Therefore, the SLMCPR was not exceeded in previous cycles and the margin between SLMCPR
+and OLMCPR was sufficient to accommodate the penalty evaluated in SC 21-04, Revisions 0
+and 1. As a result, there was no impact to the health and safety of the public or plant personnel
+from this condition. In addition, this event does not meet the criteria for a Safety System
+Functional Failure.
+E. Corrective Actions
+• Verified current MFLCPR value is within recommended limit.
+• Operations Standing Orders issued to capture recommended actions from SC 21-04,
+Revisions O and 1.
+• Revised the Core Operating Limit Report and Databank Design Analysis as necessary to
+address SC 21-04, Revision 1.
+• Updated the core monitoring system to address SC 21-04, Revision 1.
+F. Previous Similar Occurrences
+A review of previous LERs did not identify any events that were similar to the condition described in
+this LER.
+G. Component Failure Data
+Not applicable to this event.
+NRC FORM 366A (08-20201
+Page_4_ of _4_

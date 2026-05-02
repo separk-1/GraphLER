@@ -1,0 +1,343 @@
+=~Exelon
+Generation®
+SVP-20-036 10 CFR 50.73
+May 19, 2020
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-30
+NRC Docket No. 50-265
+Subject: Licensee Event Report 265/2020-001-00 "Loss of Both Divisions of Residual Heat
+Removal Low Pressure Coolant Injection Due to Swing Bus Failure to Transfer''
+Enclosed is Licensee Event Report 265/2020-001-00 "Loss of Both Divisions of Resid1:1al Heat
+Removal Low Pressure Coolant Injection Due to Swing Bus Failure to Transfer," for Quad Cities
+Nuclear Power Station, Unit 2.
+This report is submitted in accordance with 1O CFR 50.73(a)(2)(v)(D) for any event or condition
+that could have prevented the fulfillment of the safety function of structures or systems that are
+needed to mitigate the consequences of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Sherrie Grant at (309) 227-
+4833.
+Re/¥
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply wtth this mandatory collection request: 80 hours.
+.,.,, v '-t>-fll REQ"'-f~ 0 LICENSEE EVENT REPORT (LER) R Se e n p d o r c te o d m l m es e s n o t n s s r e le g a a rn rd e in d g a r b e u i r n d c e o n r p e o s r t a im te a d t e in t t o o t t h h e e li I c n e fo n r s m in a g ti o p n ro S ce e s iv s i c a e n s d B fe r d a n b c a h c k ( T to -6 i n A d 1 u 0 s M try ), .
+<~
+" 'a"
+0
+(See Page 2 for required number of digits/characters for each block) U
+ln
+.
+f
+S
+o
+.
+c o
+N
+lle
+u
+c
+c
+ls
+le
+.R
+ar
+e s
+R
+ou
+e
+r
+g
+c
+u
+e
+la
+@
+to
+n
+ry
+rc .g
+C
+o
+o
+v
+m
+,
+m
+an
+is
+d
+s i
+t
+o
+h
+n
+e
+,
+O
+W
+M
+a
+B
+s h
+r
+in
+e
+g
+v
+t
+ie
+o
+w
+n,
+e r
+D
+a
+C
+t: O
+2
+M
+05
+B
+5 5
+O
+-0
+ff
+0
+ic
+0
+e
+1 ,
+o f
+o
+l
+r
+n f
+b
+o
+y
+n na
+e
+t
+-
+i
+m
+on
+a il
+a n
+to
+d
+\; ~ ; I 'C (See NUREG-1022, R.3 for instruction and guidance for completing this form ~ R 2 e 5 g u 1 la 7 t t o h r y S t A re ff e a t i r N s, W (3 , 1 W 50 a - s 0 h 1 in 0 g 4 t ) o , n A , tt D n C : D 2 e 0 s 5 k 0 3 O ; ff e ic - e m r a f i o l: r o th ir e a N s u u C bm lea is r s R io e n g @ ul o a m to b ry .e o C p o . m go m v i . s s T io h n e ,
+~1'_,. ~o" ht!Q://www.nrc.gov/reading-rm/doc-collections/n u regs/sta fi/sr1 022/r3i) NRG may not conduct or sponsor, and a persofris not required to respond to, a collection of
+~***. infonnation unless the document requesting or requiring the collection displays a currently
+!valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Quad Cities Nuclear Power Station, Unit 2 05000265 1 OF 4
+4. Title
+Loss of Both Divisions of Residual Heat Removal Low Pressure Coolant Injection Due to Swing Bus Failure to Transfer
+~
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Number No. Month Day Year n/a 05000
+- - Facility Name Docket Number
+03 20 2020 2020 001 00 05 19 2020 n/a 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36( c)( 1) (ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203{a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) IZI 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Richard Swart - Regulatory Assurance 309-227-2810
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B BO RLY A109 y n/a
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) IZI No n/a
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On March 20, 2020, at 1025 hours CDT at Quad Cities Nuclear Power Station (QCNPS) Unit 2, a Motor Control Center
+(MCC) failed to transfer between buses during the performance of the Auto-Transfer Logic Operability Surveillance. This
+resulted in declaring both loops of the Residual Heat Removal (RHR) Low-Pressure Coolant Injection (LPCI) safety
+system function inoperable, due to preventing LPCI Motor Operated Valves (MOVs) from opening from the LPCI Loop
+Select Logic.
+The apparent cause of the event was a manufacturing error in the LPCI swing bus time delay relay. The barrel spring,
+which aids in closing the normally closed contacts, was not properly positioned, allowing inconsistent contact closure.
+This is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D), which requires the reporting of any event or
+condition that could have prevented the fulfillment of the safety function of systems needed to mitigate the
+consequences of an accident.
+NRG FORM 366 (04-2020) Page 1of4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatmy collection request: 80 hours. Repartee
+lessons learned are incorporated into the licensing process and fed back to industiy. Send comment~
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-6 A1 O M), U.S. Nuclear Regulate!)
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the
+OMS reviewer at: OMS Office of Information and Regulatoiy' Affairs, (3150-0104), Attn: Desk Office
+for the Nuclear Regulatoiy Commission, 725 17th Street NW, Washington, DC 20503; e-mail
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not requirec
+http:/iwww.nrc.gov/reading-rm/doc-collections/nuregsistaff/sr1022ir31) to respond to, a collection of information unless the document requesting or requiring the collectior
+displays a currently valid OMS control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 2 05000-265 NUMBER NO.
+2020 - 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Loss of Both Divisions of Residual Heat Removal Low Pressure Coolant Injection Due to Swing Bus Failure to
+Transfer
+A. CONDITION PRIOR TO EVENT
+Unit: 2 Event Date: March 20, 2020 Event Time: 1025 hours CDT
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+There were no other structures, systems or components (SSC) inoperable during this event time period that could
+have contributed to this event.
+B. DESCRIPTION OF EVENT
+On March 20, 2020, at 1025 hours, during performance of the Residual Heat Removal (RHR) Low Pressure Coolant
+Injection (LPCl)[BO] swing bus [BU] surveillance, the Motor Control Center (MCC)[MCC] 28/29-5 did not auto
+transfer feed from Bus 29 to Bus 28. At the time of the event, LPCI was already inoperable under Technical
+Specification (TS) 3.5.1 Condition E for two LPCI systems inoperable. However, the failure to auto-transfer would
+have prevented LPCI Loop Select Logic from opening motor operated valves (MOV) 2-1001-29A/B, resulting in the
+loss of the LPCI safety function. Following the failure to transfer, power was restored to MCC 28/29-5 by Operations.
+Operations and Electrical Maintenance (EMs) began troubleshooting following restoration of power. They identified
+that the Bus 29 feed breaker to MCC 28/29-5 did not trip as expected. Upon this discovery they began taking
+voltage and resistance checks along the trip circuitry associated with the feed breaker. The initial results indicated
+that during the surveillance, installation of a jumper per surveillance instructions resulted in the contactor at MCC
+28/29-5 02 opening but the associated feed breaker did not open. This indicated that the most likely causes of
+failure were either the auxiliary contact 2-3 on the M-contactor for the feed from Bus 29 or the LPCI Swing Bus Time
+Delay Relay.
+Operations then performed another swap of MCC 28/29-5 from Bus 29 to Bus 28 to de-energize the Time Delay
+Relay [RL Y] for testing. Resistance checks were performed for Contacts 1-5 for the Bus 28 feed closing circuit and
+Contacts 2-6 for the Bus 29 feed trip circuit. Contacts 1-5 were found closed with a reading of less than 1 ohm, and
+Contacts 2-6 were found open with a reading of 131 mega-ohms. The open reading for Contacts 2-6 indicates that
+they were likely hung-up, which explains why the auto-transfer didn't occur, since the Bus 29 feed breaker never
+received a trip signal. Following this finding, the Time Delay Relay was replaced, and the surveillance was
+NRG FORM 366 (04-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 04/30/2020
+(04·2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Repartee
+lessons learned are incorporated into the licensing process and fed back to industry. Send comment~
+LICENSEE EVENT REPORT {LER)
+regarding burden estimate to the Information Services Branch (T·6 A1 OM), U.S. Nuclear Regulatol)
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and thE
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, {3150-0104), Attn: Desk Office
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person is not requirec
+http://vmw.nrc.gov/reading-rm/doc-collections/nureasistaff/sr1022/r3D to respond to, a collection of information unless the document requesting or requiring the collectior
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 2 05000-265 NUMBER NO.
+2020 - 001 00
+NARRATIVE
+reperformed successfully, supporting the high contact resistance or failure to close of Contacts 2-6 as the cause tor
+the failure to auto-transfer. Detailed failure analysis of the relay revealed a manufacturing error that caused the
+bar.rel spring to be incorrectly positioned. The barrel spring aids in the closure of the normally closed contacts. This
+resulted in the inconsistent closure of Contacts 2-6 and the observed failure to auto-transfer.
+Prior to installation of the relay in 2018, bench testing and calibration were performed with no issues noted.
+Following installation in 2018, post-maintenance testing demonstrated proper function, The March 20, 2020 event
+showed a failure of the Contacts 2-6 to close. During failure investigation of the relay, there was inconsistent
+performance of Contacts 2-6 during repeated tests. The barrel spring is an internal feature of the relay, not visible
+during external inspections. These are the reasons that the condition was not identified during receipt inspection or
+bench testing.
+Part 21 reporting consideration will be discussed with the manufacturer.
+C. CAUSE OF EVENT
+The cause of the failure of MCC 28/29-5 to transfer from Bus 29 to Bus 28 was a manufacturing error resulting in
+failure to close of Contacts 2-6 in the LPCI Swing Bus Time Delay Relay.
+D. SAFETY ANALYSIS
+System Design
+480VAC MCCs are designed to supply power tor equipment vital to sate plant shutdown under accident conditions
+through Buses 28 and 29. Per Updated Final Safety Analysis Report (UFSAR) Section 8.3, the 480V
+MCC 28/29-5 is made up of two MCCs whose buses are connected with a copper link to form one continuous bus.
+The purpose of this common bus is to provide a dual source of power to the residual heat removal (RHR) and
+recirculation valves tor operation in the low-pressure coolant injection (LPCI) mode. MCC 28/29-5 is normally
+supplied from Diesel Generator (DG) 2 through 4160V Bus 24-1 transformer TR-29 and Bus 29 during a LOOP
+with or without an accident signal. Should the DG 2 power source tail, the breaker and contactor feeding
+MCC_-28/29-5 from Bus 29 will open automatically, the breaker and contactor feeding MCC 28/29-5 from Bus 28
+will close automatically restoring power to these buses from DG 1/ 2¥.: through Bus 23-1 , transformer TR-28, and
+Bus 28. Design changes were implemented that supplement the previously described automatic transfer logic to
+initiate an automatic transfer based upon voltage and frequency abnormalities when the 480VAC swing
+MCC_-28/29-5 is supplied from DG 2. This is accomplished with protective relay monitoring and generating a
+transfer signal based up on overvoltage, undervoltage, over frequency and underfrequency conditions.
+Safety Impact
+Per TS Bases 3.8.1, AC Distribution sources are required to be operable in Modes 1, 2, and 3 to ensure that
+acceptable fuel design limits and reactor coolant pressure boundary limits are not exceeded as a result of
+Anticipated Operational Occurrences (AOOs) or abnormal transients and adequate core cooling is provided and
+containment operability and other vital functions are maintained in the event of a postulated OBA. The failure of the
+time delay relay reduced the functionality of the low-pressure injection safety systems by preventing the ability of
+Bus 28/29-5 to auto transfer and cause LPCI to actuate.
+NRC FORM 366 (04·2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04·2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Repartee
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T·6 A 10M), U.S. Nuclear Regulate~
+CONTINUATION SHEET Commission, Washington, DC 20555·0001, or by e·mail to lnfocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Office1
+for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person is not requirec
+http:/!www.nrc.gov/readinq-rm/doc-collections/nureasistaff/sr1022ir3!) to respond.to, a collection of information unless the document requesting or requiring the collectior
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 2 05000-265 NUMBER NO.
+2020 - 001 00
+NARRATIVE
+The loss of both loops of LPCI is a limiting single failure which is analyzed for recirculation line break LOCAs.
+UFSAR Section 8.3 includes discussion that the NRC accepts the design of the LPCI swing bus principally because
+the ECCS acceptance criteria can be met without any LPCI function. Therefore, the safety impact of the event is
+minimal.
+Although the required LPCI function was not operable for a short period of time, this did not create any actual
+plant or safety consequences since Unit 2 was not in an accident or transient condition requiring use of LPCI
+during this period of time.
+This event is a Maintenance Rule Functional Failure (MRFF) and a Safety System Functional Failure (SSFF).
+E. CORRECTIVE ACTIONS
+Immediate:
+1 . Operations restored power to Bus 28/29-5.
+2. Maintenance replaced the degraded time delay relay.
+Follow Up:
+1. Work with relay manufacturer to consider Part 21 reportability.
+F. PREVIOUS OCCURRENCES
+A review of previous QCNPS events reveals a similar event in 2011 in which a different component in the bus
+transfer logic prevented the MCC from properly transferring from Bus 29 to Bus 28. This event took place during
+conditions other than the bus transfer surveillance. Although similar in results, this is not considered a station
+experience which would have directly contributed to preventing the current event.
+1. LER 265/2011-001-00, Loss of Unit 2 Essential Service 480 VAC Bus, 03/10/2011. A worker falling from a
+ladder inadvertently tripped a bus by depressing a switch. The expected transfer of MCC 28/29-5 did not take
+place. The cause was found to be intermittent binding of a plunger on the main contactor for the MCC.
+G. COMPONENT FAILURE DATA
+Failed Equipment: RELAY, TDR; 1" 600# S/N 80349
+Component Manufacturer: Tyco Electronics (Agastat)
+Component Model Number: E7022AD003
+Component Part Number: N/A
+This event will be reported to IRIS.
+NRG FORM 366 (04-2020) Page 4 of 4

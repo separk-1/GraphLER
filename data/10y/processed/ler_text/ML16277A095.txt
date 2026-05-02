@@ -1,0 +1,336 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+October 3, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1, 2, and 3
+Renewed Facility Operating License Nos. DPR-33, DPR-52, and DPR-68
+NRC Docket Nos. 50-259, 50-260, and 50-296
+Subject: Licensee Event Report 50-259/2016-003-00
+The enclosed Licensee Event Report provides details of a 10 CFR 50.48(c) nonconforming
+condition associated with the Browns Ferry Nuclear Plant NFPA 805 analysis and Fire
+Safe Shutdown procedures, which do not consider the potential for fire-induced failure of
+the 4kV Shutdown Board under-voltage trip functions for Emergency Diesel Generator
+power supply alignments. The Tennessee Valley Authority (TVA) is submitting this report
+in accordance with 10 CFR 50. 73(a)(2)(ii)(B), as any event or condition that results in the
+nuclear power plant being in an unanalyzed condition that significantly degraded plant
+safety.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-259/2016-003-00 - Fire Safe Shutdown Procedures
+Do Not Consider Potential for Fire-Induced Failure of 4kV Shutdown Board
+Under-Voltage Trip Functions
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Units 1, 2, and 3
+Licensee Event Report 50-259/2016-003-00
+Fire Safe Shutdown Procedures Do Not Consider Potential for Fire-Induced Failure of 4kV Shutdown
+Board Under-Voltage Trip Functions
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant (BFN), Units 1, 2, and 3 05000259 1 OF 6
+4. TITLE
+Fire Safe Shutdown Procedures Do Not Consider Potential for Fire-Induced Failure of 4kV Shutdown Board Under-Voltage
+Trip Functions
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR BFN Unit 2 05000260
+FACILITY NAME DOCKET NUMBER
+08 03 2016 2016 - 003 - 00 10 03 2016 BFN Unit 3 05000296
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+84 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Baruch Calkin, Licensing Engineer (256) 614-6713
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 3, 2016, at 1300 Central Daylight Time (CDT), during reviews to respond to a NRC information
+request for the 2016 NRC Triennial Fire Protection Inspection regarding Emergency Diesel Generator A
+(EDG) alignment in Fire Safe Shutdown (FSS) procedure 0-FSS-9 (Electrical Battery Board Room 2A and
+250V Battery Rooms EL 621’), it was discovered that the National Fire Protection Association (NFPA) 805
+analysis and FSS procedures do not consider the potential for fire-induced failure of the 4kV Shutdown
+Board under-voltage trip function for EDG power supply alignments. Fire-induced failure of the board under-
+voltage trip function may result in the need for Operations personnel to perform additional actions. These
+actions, to trip board loads, are currently not included in the FSS procedures.
+The cause of this condition was a human error which occurred during the transition of the fire
+protection program from Appendix R to NFPA 805. Corrective actions are to revise fire protection
+calculations, update fire protection models, provide coaching to the individuals involved, and add
+interim compensatory measures to FSS procedures in order to account for this condition. The risk
+significance of this condition was determined to be very low.
+NRC FORM 366A (11-2015)
+Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(11-2015) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+LICENSEE EVENT REPORT (LER) NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+CONTINUATION SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Units 1, 2, 05000259 YEAR NUMBER NO.
+and 3
+2016 - 003 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was operating in Mode 1 at
+approximately 84 percent rated thermal power. BFN Units 2 and 3 were operating in Mode 1 at
+approximately 100 percent rated thermal power.
+II. Description of Events
+A. Event:
+On August 3, 2016, at 1300 Central Daylight Time (CDT), during reviews to respond to a NRC
+information request for the 2016 NRC Triennial Fire Protection Inspection regarding Emergency
+Diesel Generator (EDG)[DG] A alignment in Fire Safe Shutdown (FSS) procedure 0-FSS-9
+(Electrical Battery Board Room 2A and 250V Battery Rooms EL 621’), it was discovered that the
+National Fire Protection Association (NFPA) 805 analysis and FSS procedures do not consider
+the potential for fire-induced failure of the 4kV Shutdown Board (SDBD)[ECBD] under-voltage
+trip function for EDG power supply alignments. Fire-induced failure of the board under-voltage
+trip function may result in the need for Operations personnel to perform additional actions, to trip
+board loads, that are currently not included in the FSS procedures.
+On August 3, 2016, at 2038 CDT, Event Notification 52150 was made to the NRC.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event:
+No inoperable systems, structures, or components contributed to the event.
+C. Dates and approximate times of occurrences:
+June 24, 2016 BFN Transitioned to NFPA 805
+August 3, 2016, Unanalyzed condition discovered during reviews to respond to a NRC
+1300 CDT information request.
+August 3, 2016, Event Notification 52150 made to the NRC
+2038 CDT
+D. Manufacturer and model number (or other identification) of each component that failed
+during the event:
+No component failures were identified that occurred during the event.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected.
+NRC FORM 366A (11-2015)
+Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(11-2015) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+LICENSEE EVENT REPORT (LER) NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+CONTINUATION SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Units 1, 2, 05000259 YEAR NUMBER NO.
+and 3
+2016 - 003 - 00
+NARRATIVE
+F. Method of discovery of each component or system failure or procedural error:
+This condition was discovered during reviews to respond to a NRC information request.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+There were no components that failed during the event.
+H. Operator actions:
+There were no operator actions performed in response to this event.
+I. Automatically and manually initiated safety system responses:
+There were no safety system responses initiated in response to this event.
+III. Cause of the event
+A. The cause of each component or system failure or personnel error, if known:
+The cause of this condition was a human error which occurred during the transition of the
+fire protection program from Appendix R to NFPA 805.
+B. The cause(s) and circumstances for each human performance related root cause:
+Engineers who developed the Nuclear Safety Capability Analysis (NSCA) logic for the 4kV
+SDBDs did not identify the functional requirement for load management when crediting manual
+alignment of EDGs. This was a human error during the large one-time effort to transition the fire
+protection program from Appendix R to NFPA 805. The personnel involved had the necessary
+skill and knowledge but overlooked an important function.
+IV. Analysis of the event:
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with 10 CFR
+50.73(a)(2)(ii)(B), as any event or condition that results in the nuclear power plant being in an
+unanalyzed condition that significantly degraded plant safety.
+The NFPA 805 analyses were derived from the Appendix R Safe Shutdown Analysis (SSA), and
+apply new failure modes such as Multiple Spurious Operation and new FSS strategies. This work
+was performed by a project team dedicated to NFPA 805 transition, and resulted in a deterministic
+compliance model (NSCA) and a Fire PRA risk model. As part of an effort to more specifically
+determine the functional impact of fire damage, the 4kV SDBDs were broken up into multiple
+components and/or functions. During this process, the need for load management was not
+identified as a required function. As a result, the NFPA 805 analyses failed to identify the need to
+clear loads from the 4kV Shutdown Boards, either automatically or manually, prior to connecting
+the EDG. The NSCA model therefore did not identify the appropriate failures and thus did not
+result in disposition of the failures in the form of risk evaluation, operator actions or modifications.
+NRC FORM 366A (11-2015)
+Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(11-2015) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+LICENSEE EVENT REPORT (LER) NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+CONTINUATION SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Units 1, 2, 05000259 YEAR NUMBER NO.
+and 3
+2016 - 003 - 00
+NARRATIVE
+V. Assessment of Safety Consequences
+The engineering analyses and FSS procedures that support the BFN NSCA to demonstrate
+compliance with NPFA 805 do not address the potential to overload EDGs when the EDGs are
+aligned manually. The NSCA does not take credit for automatic transfer of the 4kV SDBDs to the
+EDGs and, instead consistently takes credit for operators manually starting and aligning the EDGs
+when power from the EDG is credited. The Fire Probabilistic Risk Assessment (PRA) credits
+automatic transfer of the 4kV SDBDs to the EDGs. Part of the automatic logic, performed by the
+under-voltage auxiliary relays, includes load management so that the EDG does not become
+overloaded. However, neither the NSCA nor the PRA modeled the function of the under-voltage
+relays to trip 4kV SDBD loads. As a result, the NFPA 805 ‘Credited Operator Actions’ calculation
+and the FSS procedures contain steps for the operators to manually align the EDGs to the 4kV
+SDBDs but do not contain load management steps to trip loads.
+As a result, EDGs relied upon for safe shutdown could have become overloaded during a Fire
+event, resulting in failure of a fire safe shutdown success path.
+A risk sensitivity analysis performed for TVA concluded that the risk significance of this condition
+is very low, with a maximum change in Core Damage Frequency of less than 1E-06 for each unit.
+A. Availability of systems or components that could have performed the same function
+as the components and systems that failed during the event:
+No components or systems failed due to this event.
+B. For events that occurred when the reactor was shut down, availability of safety-
+related systems or components:
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+No safety systems were rendered inoperable as a result of this event.
+VI. Corrective Actions:
+Corrective Actions (CA) are being managed by TVA’s Corrective Action Program (CAP) under
+Condition Report (CR) 1199002.
+The CAs described below address this condition:
+1. Revise the NSCA model (EDQ099920110010) to include the under-voltage load
+breaker trip functions for 4kV SDBDs and to perform Fire Area evaluations.
+2. Update the fire PRA cable selection calculation (EDN0009992012000056) to include
+the under-voltage load breaker trip functions for 4kV SDBDs.
+NRC FORM 366A (11-2015)
+Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(11-2015) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+LICENSEE EVENT REPORT (LER) NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+CONTINUATION SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Units 1, 2, 05000259 YEAR NUMBER NO.
+and 3
+2016 - 003 - 00
+NARRATIVE
+3. Update the Fire PRA model to include the under-voltage load breaker trip functions for
+4kV SDBDs.
+4. Update Fire Risk Evaluation (FRE) calculation to disposition any new Variations from
+Deterministic Requirements for the under-voltage load breaker trip functions for 4kV
+SDBDs and to update the Fire Area risk evaluations.
+5. Revise MDQ0009992014000237 NFPA 805 Credited Operator Actions Calculation as
+needed for any operator action impacts from updated Fire Risk Evaluation.
+6. Issue a design change to update design output, as necessary, for any resulting
+changes required from the updated Fire Risk Evaluation.
+7. Provide and document coaching for the individual(s) involved, including discussion of
+the significance of the errors and the tools in place to prevent future occurrences.
+The Interim Actions described below were initiated in response to this condition:
+1. For Fire Safe Shutdown procedure changes needed to incorporate interim corrective
+actions for CR 1199002, develop Training Needs Analysis (TNA) and present TNA to
+Operations personnel.
+2. Complete a Fire Protection Program Change Evaluation for FSS procedure changes to
+incorporate interim corrective actions for Fire Areas 01-03, 02-03, 02-04, 04, 05, 08,
+and 09 as outlined in the Functional Evaluation for CR 1199002.
+3. Issue FSS procedure changes for 0-FSS-1-3, 0-FSS-2-3, 0-FSS-2-4, 0-FSS-4, 0-FSS-
+5, 0-FSS-8, 0-FSS-9 to incorporate interim corrective actions for Fire Areas 01-03, 02-
+03, 02-04, 04, 05, 08, and 09 as outlined in the Functional Evaluation for CR 1199002.
+VII. Additional Information:
+A. Previous Similar Events:
+A review of the BFN CAP and Licensee Event Reports (LERs) for Units 1, 2, and 3 found
+ten instances within the past five years of degraded or unanalyzed conditions related to
+the fire protection program:
+• BFN LER 259/2013-008-00 – Fire Damage to Cables in Fire Areas Could Cause
+Residual Heat Removal Pumps to Spuriously Start
+• BFN LER 259/2012-009-00 – 480 Volt Shutdown Board Breaker Actions in Safe
+Shutdown Instruction Procedures May Not Work as Written Due to Cable Fire
+Damage
+• BFN LER 260/2012-005-00 – Unanalyzed Conditions Discovered during National
+Fire Protection Association 805 Transition Affecting Division II of the Residual Heat
+Removal System
+• BFN LER 259/2012-007-02 – Routing Errors Found in the Appendix R Separation
+Analysis
+NRC FORM 366A (11-2015)
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(11-2015) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+LICENSEE EVENT REPORT (LER) NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+CONTINUATION SHEET NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Units 1, 2, 05000259 YEAR NUMBER NO.
+and 3
+2016 - 003 - 00
+NARRATIVE
+• BFN LER 259/2012-005-01 – Combustible Materials not in Compliance with the
+20-Foot Exclusion Zone Requirements
+• BFN LER 260/2012-004-01 – Fire Damage to Cables in Fire Areas Could Cause a
+Residual Heat Removal Service Water Pump to Spuriously Start
+• BFN LER 259/2012-003-01 – Reactor Protection System Circuit Potentially remain
+Energized During an Appendix R Fire
+• BFN LER 259/2012-002-01 – Fault Propagation During A Postulated Appendix R
+Event Could Result In An Inability To Close Motor Operated Valves
+• BFN LER 259/2012-001-01 – Unanalyzed Conditions Discovered During NFPA 805
+Transition Review
+• BFN LER 259/2011-010-00 – DC Ammeter Cables Not Adequately Isolated.
+The cause of each of these events was legacy human performance errors. The corrective
+actions could have prevented the error described in this report.
+B. Additional Information:
+There is no additional information.
+C. Safety System Functional Failure Consideration:
+No safety systems were rendered inoperable as a result of this event. Therefore, this event is not
+considered to be a Safety System Functional Failure in accordance with NUREG-1022.
+D. Scram with Complications Consideration:
+This event did not result in a reactor scram.
+VIII. COMMITMENTS
+There are no new commitments.
+NRC FORM 366A (11-2015)

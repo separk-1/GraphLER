@@ -1,0 +1,167 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504
+ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+April 11, 2022
+Attn: Document Control Desk 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388/2021-005-01
+UNIT 2 LICENSE NO. NPF-22
+PLA-7997 Docket No. 50-388
+Attached is Licensee Event Report (LER) 50-388/2021-005-01. The LER supplement reports an
+event in which the Unit 2 'B' Reactor Protection System and Primary Containment Isolation
+System were inoperable for longer than allowed by Technical Specifications (TS). The condition
+is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-388/2021-005-0l
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A. Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+<)P~REc11~
+/~ {Ko~ lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+~ :; ~~ _2 - l I _ r ',; i A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~,.,-:;-•'71 (See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
++01 Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+•it-•~· (See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1.Facility Name 2.Docket Number 3.Page
+Susquehanna Steam Electric Station, Unit 2 05000388 I 1 of 3
+4.Title
+Condition Prohibited by Technical Specification Due to Setpoint Drift Attributed to Age Related Degradation
+5.Event Date 6.LER Number 7.Report Date 8.Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+12 15 2021 2021 - 005 - 01 04 11 2022
+05000
+9.Operating Mode 10.Power Level
+1 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 ☐ 20.2203(a)(2)(vi) ☐ 50.36(c)(2) ☐ 50.73(a)(2)(iv)(A) ☐ 50.73(a)(2)(x)
+☐ 20.2201(b) ☐ 20.2203(a)(3)(i) ☐ 50.46(a)(3)(ii) ☐ 50.73(a)(2)(v)(A) 10 CFR Part 73
+☐ 20.2201(d) ☐ 20.2203(a)(3)(ii) ☐ 50.69(g) ☐ 50.73(a)(2)(v)(B) ☐ 73.71(a)(4)
+☐ 20.2203(a)(1) ☐ 20.2203(a)(4) ☐ 50.73(a)(2)(i)(A) ☐ 50.73(a)(2)(v)(C) ☐ 73.71(a)(5)
+☐ 20.2203(a)(2)(i) 10 CFR Part 21 ☒ 50.73(a)(2)(i)(B) ☐ 50.73(a)(2)(v)(D) ☐ 73.77(a)(1)(i)
+☐ 20.2203(a)(2)(ii) ☐ 21.2(c) ☐ 50.73(a)(2)(i)(C) ☐ 50.73(a)(2)(vii) ☐ 73.77(a)(2)(i)
+☐ 20.2203(a)(2)(iii) 10 CFR Part 50 ☐ 50.73(a)(2)(ii)(A) ☐ 50.73(a)(2)(viii)(A) ☐ 73.77(a)(2)(ii)
+☐ 20.2203(a)(2)(iv) ☐ 50.36(c)(1)(i)(A) ☐ 50.73(a)(2)(ii)(B) ☐ 50.73(a)(2)(viii)(B)
+☐ 20.2203(a)(2)(v) ☐ 50.36(c)(1)(ii)(A) ☐ 50.73(a)(2)(iii) ☐ 50.73(a)(2)(ix)(A)
+☐ Other (Specify here, in Abstract, or in NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Peggy Kramer, Regulatory Affairs Engineer I( 570) 542-3131
+13.Complete One Line for each Component Failure Described in this Report
+Cause I System Component I Manufacturer I Reportable to IRIS I Cause I System I Component I Manufacturer I Reportable to IRIS
+I
+X I JC LIS I B080 I Y I I I I
+14.Supplemental Report Expected I I Month I Day I Year
+15.Expected Submission Date
+☒ No I☐ Yes (If yes, complete 15. Expected Submission Date) I I I I
+16.Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At approximately 13:50 on December 15, 2021, during surveillance testing, personnel at the Susquehanna Steam
+Electric Station, Unit 2, found the setpoint for the Unit 2 ‘B’ Reactor Vessel Water Level Narrow Range Indicator,
+LISB212N024B, had drifted outside of its Technical Specification (TS) Allowable Value (AV). Operators declared the
+Reactor Protection System and the Primary Containment Isolation System inoperable, and entered TS 3.3.1.1,
+Condition A, and TS 3.3.6.1, Condition A. The level indicator’s setpoint was adjusted to within the TS AV, and TS
+3.3.1.1, Condition A, and TS 3.3.6.1, Condition A, were exited at 15:42 on December 15. Based on the information
+available, the condition is considered to have existed for longer than allowed by TS 3.3.1.1 and TS 3.3.6.1. Therefore,
+the condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by the plant’s TS.
+The cause of the event was determined to be an increase in instrument drift due to age related degradation of
+LISB212N024B internal micro switch 1A. Contributing to this was that a work order was previously generated to replace
+the switch but not scheduled. Corrective actions included replacement of LISB212N024B, which included internal micro
+switches 1A and 1B.
+There were no actual safety consequences associated with the described condition.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-388 NUMBER NO.
+Unit 2 2021 - 005 - 01
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 98 percent Rated Thermal Power (RTP)
+Unit 2 – Mode 1, approximately 100 percent RTP
+EVENT DESCRIPTION
+At approximately 13:50 on December 15, 2021, during surveillance testing, personnel at the Susquehanna
+Steam Electric Station, Unit 2, found the setpoint for the Unit 2 ‘B’ Reactor Vessel Water Level Narrow Range
+Indicator LISB212N024B [EIIS System/Component Code: JC/LIS] had drifted outside of its Technical
+Specification (TS) Allowable Value (AV). Operators declared the Reactor Protection System and the Primary
+Containment Isolation System [JM] inoperable, and entered TS 3.3.1.1, “Reactor Protection System (RPS)
+Instrumentation,” Condition A, and TS 3.3.6.1, “Primary Containment Isolation Instrumentation,” Condition A.
+LISB212N024B was adjusted to within the TS AV, and TS 3.3.1.1, Condition A, and TS 3.3.6.1, Condition A,
+were exited at 15:42 on December 15.
+Based on the information available, the condition is considered to have existed for longer than allowed by
+TS 3.3.1.1 and TS 3.3.6.1. Therefore, the condition is being reported in accordance with
+10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by the plant’s TS.
+CAUSE OF EVENT
+The cause of the event was determined to be an increase in instrument drift due to age related degradation
+of LISB212N024B internal micro switch 1A. Contributing to this was that a work order was previously
+generated to replace the switch but not scheduled.
+ANALYSIS/SAFETY SIGNIFICANCE
+While LISB212N024B was outside of the TS 3.3.1.1 and TS 3.3.6.1 allowable value, the other trip system
+channel was available with the exception of a 6.5-hour window when its indicators were out of service for
+surveillance. Excessive drift of LISB212N024B would not have occurred in the approximate 6.5 hours taken
+to satisfactorily surveil the other trip system which immediately followed surveillance of LISB212N024B.
+Therefore, RPS and Primary Containment Isolation System would have performed within their safety
+functions and the condition described herein did not result in a safety system functional failure. Accordingly,
+this event will not be counted as a safety system functional failure in the Reactor Oversight Process
+Performance Indicators. There were no actual consequences to the health and safety of the public as a result
+of this event.
+CORRECTIVE ACTIONS
+The switch was returned to within TS allowable values. Corrective actions included replacement of
+LISB212N024B, which included internal micro switches 1A and 1B.
+Page 2 of 3
+NRC FORM 366A (08-2020)
+.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-388 NUMBER NO.
+Unit 2 2021 - 005 - 01
+NARRATIVE
+COMPONENT FAILURE INFORMATION
+Component: LISB212N024B Reactor Vessel Water Level Narrow Range
+System: Reactor Protection System
+Manufacturer: Barton
+Model: 288A
+Serial No: 28879
+PREVIOUS OCCURRENCES
+None.
+Page 3 of 3
+NRC FORM 366A (08-2020)
+.

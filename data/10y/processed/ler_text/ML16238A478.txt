@@ -1,0 +1,232 @@
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604304 10CFR50.73
+August 22, 2016
+SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+-··-·-· ··· ... NRCDocket No. 50-461
+Subject: Licensee Event Report 2016-009-00
+Enclosed is Licensee Event Report (LER) 2016-009-00:Trip of the Fuel Building Fans Due to
+Damper Failure Results in Loss of Secondary Containment. This report is being submitted in
+accordance with the requirements of 1O CFR 50. 73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+~<:::s
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: Licensee Event Report 2016-009-00
+cc:
+Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRCFORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06·2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
++~r»>•ltfo""'~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+; f J ~i LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+ti• ....... I rr Branch {T·5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+\+,, .. (See Page 2 for required number of digits/characters for each block) to lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an infonnation collection does not display a currenUy valid OMB control
+number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+infonnation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. TITLE
+Trip of Fuel Building Fans Due to Damper Failure Results in Loss of Secondary Containment
+5. EVENT DATE 6. LER NUMBER I 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+FACILITY NAME DOCKET NUMBER
+06 24 2016 2016 - 009 00- 08 22 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUB,MITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201cbl 20.2203(al(3l(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 Cdl 20.2203(al(3l(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203caic1> 20.2203<a><4> so.13<a><2><m> 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D o· D
+10. POWER LEVEL 20.2203(aJc2icni 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11cal<4l
+D D D D
+20.2203<a><2><m> so.36Cc><2> 50. 73(a)(2)(v)(B) 13.11<a><si
+D 20.2203(a)(2)(iv) D so.46(a)(3)(iil [8J 50.73(a)(2)(v)(C) D 13.n<a><1>
+D D D D
+099 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.77(a)(2)(il
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(Q(B) 50.73(a)(2)(vii) 13.11ca><2>Ciil
+D D
+,, -'"1,l ''', :''; ·> ~ 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217-937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX · FACTURER TOEPIX
+B VG SOL A499 y
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 IZJ SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 24, 2016 at 1511 (CST) Clinton Power Station (CPS) was operating at 99 percent reactor power when the
+MCR received two Fuel Building (VF) trouble alarms. An unexpected damper closure resulted in Secondary
+Containment (SC) vacuum degrading, eventually exceeding the Technical Specification {TS) limit of 0.25 inch vacuum
+water gauge. TS Limiting Condition for Operation (LCO) 3.6'.4.1, Secondary Containment, Required Action A.1 and
+Emergency Operating Procedure (EOP) - 08, Secondary Containment Control were entered. At 1512, SC vacuum
+was restored within TS limits with the auto start of VF supply fan 1 VF03CB and exhaust fan 1 VF04CB. An initial
+Investigation determined that the 'A' Exhaust Fan Isolation Damper 1VF11VA had failed to the closed position on loss
+of air due to failure of the associated air supply solenoid, 1 FSVVF005. The apparent cause of this event is the failure
+of the ASCO solenoid valve, 1 FSVVF005, due to a slightly deformed and worn core which resulted in sticking. The
+failed solenoid valve 1 FSVVF005 was replaced and the VF system ventilation was restored. In addition, parts quality
+testing, and preventative maintenance programs are being established to replace VF solenoid operated valves on a
+periodic basis. The temporary loss of SC is reportable under 1O CFR 50. 73{a){2){v)(C) as an event or condition that
+could have prevented fulfillment of a safety function needed to control the release of radioactive material.
+NRG FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours .. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resource@nrc.gov. and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 009 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX]
+EVENT IDENTIFICATION
+Trip of Fuel Building Fans Due to Damper Failure Results in Loss of Secondary Containment
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 06/24/16 Event Time: 1511
+Mode: 1 Mode Name: Power Operation Reactor Power: 99 percent
+B. DESCRIPTION OF EVENT
+On June 24, 2016 at 1511-(CST) Clinton Power Station (CPS) was operating at 99 percent reactor
+power when the MCA received two unexpected annunciators associated with the Fuel Building
+ventilation system (VF), 5042-4D {Trouble VF system local panel 1 PL44J) and 5042-5D (Hi Diff
+Press Fuel Bldg). Subsequent investigation determined that VF exhaust fan isolation damper .
+1V F11 YA had failed closed as a result of a failure of solenoid 1 FSVVF005. As a result, Secondary
+Containment (SC) vacuum degraded, eventually exceeding the Technical Specification {TS) limit of
+0.25 inch vacuum water gauge (WG). Both the Fuel Building (FB) 'B' supply and exhaust fans auto
+started as designed, to restore SC vacuum, however, the sequence was not timely enough to
+prevent the FB differential pressure from exceeding the TS requirement. TS Limiting Condition for
+Operation (LCO) 3.6.4.1, Secondary Containment, Required Action A.1 and Emergency Operating
+Procedure (EOP) - 08, Secondary Containment Control were entered. The momentary loss of the
+VF fans also resulted in no flow through the VF exhaust ductwork and; therefore, duct monitors
+1 RIX-PR006A-D were declared inoperable. The lack of monitored VF exhaust flow associated with
+LCO 3.3.6.2, Secondary Containment Isolation Instrumentation, Fuel Building exhaust radiation
+resulted in a momentary loss of SC isolation capability and Standby Gas Treatment System (SGTS)
+initiation capability on VF exhaust high radiation. As a result of this condition, LCO 3.3.6.2 Required
+Actions A.1 and Action B.1 were entered. At 1512, SC vacuum was restored within TS limits
+following the auto start of supply fan 1V F03CB and exhaust fan 1V F04CB. TS LCO 3.6.4.1
+Required Action A.1-and TS LCO 3.3.6.2 Required Actions A.1 and B.1 were subsequently exited.
+At 1602, EOP-08 was exited.
+CPS replaced failed solenoid valve 1 FSVVF005. In addition, Exelon Powerlabs evaluated a similar
+failed ASCO solenoid valve in determining a cause of component failure. The failure conditions of this
+valve were similar based on observations by field technicians. CPS concluded the apparent cause of
+ASCO solenoid valve 1 FSVVF005 failure was due to sticking as a result of a slightly deformed and
+worn core .. The Powerlabs evaluation further attributed the most likely cause of the initiating event to
+a manufacturing defect in the solenoid valve due to its low inservice time (11 months).
+NAG FORM 366A (06-2016) Page_2_ of_.!__
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+{06-2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~·::P"'°"ll!Q(I'" comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+[ ~ LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+...... lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+~~ CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+') used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct .or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 009 - 00
+NARRATIVE
+C. CAUSE OF EVENT
+The apparent cause of this event is the failure of the ASCO solenoid valve, 1 FSVVFOOS, due to
+sticking as a result of a slightly deformed and worn core. Due to its low inservice time (11 months),
+the most likely cause of the initiating event is a subtle manufacturing defect.
+D. SAFETY ANALYSIS
+There were no safety consequences associated with this event described in this report. The
+event is reportable in accordance with 10CFR50.73(a)(2)(v)(C) as a condition that could have
+prevented fulfillment of a safety function to control the release of radioactive material because
+SC was declared inoperable.
+The SGTS system was fully operable at the time of the event and capable of performing the
+required safety function. Operations entered EOP-08 for SC vacuum less than minus 0.25 inch
+WG and entered TS LCO 3.6.4.1 Required Action A.1. SC vacuum was restored to within TS
+limits within the completion time requirement. The SC vacuum is kept slightly negative relative
+to the atmospheric pressure to prevent leakage to the atmosphere. The VF system is a non
+safety ventilation system which is normally in service to maintain SC vacuum. The SGTS
+system is the safety-related system which is relied upon to perform this function following an
+accident. During the event both VF 'B' supply and exhaust fans auto started as designed and
+restored SC to operability consistent with its design function. In addition, the SGTS system
+remained available to respond to an accident condition throughout this event. Therefore, the
+ability of the station to maintain secondary containment in an accident scenario was never
+jeopardized or challenged by the VF system fan trip.
+Because the SGTS remained available to restore SC vacuum in event of an accident, this event
+report does not constitute a safety system functional failure.
+E. CORRECTIVE ACTIONS
+The failed component, 1F SV-VFOOS, was replaced and the VF system was restored to normal
+operation. Additional maintenance activities are planned for the VF system including
+establishing preventative maintenance tasks for the replacement of solenoid operated valves
+and rebuilding a damper actuator on a periodic basis. Additional parts quality testing is being
+established for VF damper solenoids to identify manufacturing defects prior to placing them in
+service.
+NRG FORM 366A {06-2016) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+{06·2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB·10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 009 - 00
+NARRATIVE
+F. PREVIOUS SIMILAR OCCURENCES
+LER 2014-001-00 Premature Failure of Air Supply Solenoid Results In Isolation Of
+Fuel Building Ventilation System And Loss Of Secondary
+Containment Differential Pressure
+The cause of this event was the VF system inboard exhaust isolation damper 1V F07Y air supply
+solenoid was prematurely degraded and caused the damper to isolate the VF system flow-path
+during the Main Control Room Ventilation (VC) Train B startup, resulting in a VF system trip and
+a subsequent loss of SC. The troubleshooting team concluded that during the VC Train B
+startup, the air supply solenoid on the VF system inboard exhaust isolation damper 1V F07Y
+responded to a minor perturbation of the supply voltage or a surge of current on the bus by
+repositioning (dropping out) because the solenoid was weak or degraded, resulting in isolation
+of the VF system inboard exhaust isolation damper. The VF system inboard exhaust-isolation
+'damper failed closed, thus fulfilling its safety function.
+G. COMPONENT FAILURE DATA
+Component Description: Solenoid Valve (ASCO Red Hat 11)
+Model Number HB8320G001
+NAC FORM 366A {06·2016) Page _4_ of _4_

@@ -1,0 +1,229 @@
+PSEG Nuclear LLC
+P .0. Box 236, Hancocks Bridge, New Jersey 08038-0236
+11Sf~G
+Nuclear LLC
+10CFR50.73
+LR-N16-0176
+OCT 0 4 2016
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station Unit 1
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Licensee Event Report 2016-001-00, High Pressure Coolant Injection
+System Found to be Inoperable During Testing.
+In accordance with the requirements of 10 CFR 50.73(a)(2)(v)(D), PSEG Nuclear LLC is
+submitting the enclosed Licensee Event Report (LER) Number 2016-001-00, High
+Pressure Coolant Injection System Found to be Inoperable During Testing.
+If you have any questions or require additional information, please contact
+Mr. Thomas MacEwen at (856) 339-1097.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+Edward T Casulli
+Plant Manager
+Hope Creek Generating Station
+ttm
+Attachment: Licensee Event Report 2016-001-00
+LR-N16-0176
+10CFR50.73
+Page 2
+Document Control Desk
+cc: Mr. Daniel Dorman, Regional Administrator- Region I, NRC
+Ms. Carleen Parker, Project Manager- US NRC
+Mr. Justin Hawkins, NRC Senior Resident Inspector- Hope Creek (X24)
+Mr. Patrick Mulligan, Manager IV, NJBNE
+Mr. Thomas MacEwen, Hope Creek Commitment Tracking Coordinator (H02)
+Mr. Lee Marabella - Corporate Commitment Tracking Coordinator (N21)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+;~J'IJ:.!\t-(f~ Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER)
+...... «'~< Branch (T-5 F53), U.S, Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+(See Page 2 for required number of internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-01 04), Office of Management and Budget, Washington, DC
+digits/characters for each block) 20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person Is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Hope Creek Generating Station 05000354 1 OF4
+4. TITLE High Pressure Coolant Injection System Found to be Inoperable During Testing
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I SEQUENTIAL I REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+FACILITY NAME DOCKET NUMBER
+04 07 2016 2016 -001 - 00 10 04 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201 (b) D 20.2203(a)(3)(i) D 50.73(a)(2)(i)(C) D 50.73(a)(2)(vli)
+1
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) 0 OTHER
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) X 50.73(a)(2)(v)(D) Specify In Abstract below or in NRC
+Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMER (Include Area Code}
+Thomas MacEwen, Principal Compliance Engineer 856-339-1097
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TO EPIX
+X BJ XCV T147 y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) • NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+A review of plant conditions from April 2016, revealed a condition that could have prevented the fulfillment of a
+safety function. On April 7, 2016, at 0352, with the Hope Creek reactor operating at 100% power, the High
+Pressure Coolant Injection (HPCI) system turbine over-speed assembly did not respond as expected during post
+maintenance testing. The HPCI system was in the process of post maintenance testing following a planned
+maintenance window, and was inoperable at the time of the event. During system testing, the HPCI turbine was
+momentarily tripped by the over-speed assembly, and then reset itself with no operator action. Subsequent
+investigation found that the HPCI over-speed assembly reset spring did not have the correct preload. A review of
+the maintenance completed during the scheduled system outage determined that there was no maintenance
+performed on the over-speed assembly. Therefore, the condition could have been present prior to the start of the
+maintenance window on April 5, 2016 at 0205.
+This report is being submitted under 10 CFR 50.73(a)(2)(v)(D), as an event or condition that could have
+prevented the fulfillment of a safety function of systems that are needed to mitigate the consequences of an
+accident. No specific cause was identified; however there is industry operating experience that the reset spring
+will relax over time, reducing the preload.
+NRC FORM 366 (02-2014).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are Incorporated Into the licensing process and fed back
+to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+LICENSEE EVENT REPORT (LER) Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-01 04), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an information
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the Information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+YEAR I SEQUENTIAL I REVISION
+Hope Creek Generating Station 05000354 NUMBER NUMBER
+2 OF4
+2016 • 001 . 000
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric- Boiling Water Reactor (BWR/4)
+Reactor Protection System- EllS Identifier {BJ/XCV}*
+*Energy Industry Identification System {EllS} codes and component function identifier codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURRENCE
+Event Date: 04/07/2016
+Discovery Date: 09/07/2016
+CONDITIONS PRIOR TO OCCURRENCE
+Hope Creek was in Operational Condition 1 at 100 percent rated thermal power (RTP). HPCI System {BJ} post
+maintenance testing was in progress. The HPCI system was inoperable following planned maintenance.
+DESCRIPTION OF OCCURRENCE
+On April 7, 2016, while performing a post maintenance test of the HPCI turbine and pump, the system did not
+respond as expected. Following startup, the HPCI turbine tripped and reset in an approximate 5 second time span.
+The HPCI turbine and pump then continued to accelerate to normal speed with proper pressure and flow rates.
+Because the turbine tripped and reset, station operators considered the system to remain inoperable, although all
+other test results were satisfactory.
+The HPCI system ensures that the reactor core is not uncovered if there is a small break in the reactor coolant
+pressure boundary (RCPB) that does not result in rapid depressurization of the reactor vessel. The HPCI system
+controls automatically start the system and bring it to design flow rate within 35 seconds from receipt of a reactor
+pressure vessel (RPV) low water level signal or a primary containment (drywell) high pressure signal.
+During the trip and reset event, plant data indicates that the 35 second response time from system initiation to full flow
+would not have been accomplished, because the event delayed the development of full system flow rate, discharge
+pressure, and pump/turbine speed. Troubleshooting determined that the reset spring was set at 1 pound (lb.), which
+is outside the prescribed range of 2 to 5 lbs. The spring preload was adjusted to 3.5 lbs. and the system was retested
+satisfactorily. There was no record of any maintenance performed on the trip mechanism or reset spring during the
+system maintenance window on April 5, 2016 at 0205 through April 7, 2016 at 0352. The last maintenance performed
+on the trip mechanism was during the previous refueling outage which completed in May, 2015. At that time the
+spring was set to 3.5 lbs.
+The HPCI system was run for testing on March 1, 2016, approximately five weeks prior to the trip and reset event. The
+HPCI system is tested quarterly as part of system surveillance testing. It was successfully run in June, September,
+and December, 2015 and March, 2016 with no abnormal operation of the trip mechanism. Based on this, it was
+concluded that the reset spring preload most likely relaxed to less than the required preload during the period between
+March 1, 2016, at 1427, when HPCI was last operated successfully, and April 7, 2016 at 0352 when the event
+occurred. Based on the suspected failure mode, the HPCI system could have been unavailable for a period of time
+prior to April 5, 2016, at 0205, when the system was required to be operable. This meets the reporting criterion of 10
+CFR 50.73 (a)(2)(v)(D), a condition that could have prevented the fulfillment of a safety function to mitigate the
+consequences of an accident. The condition was also reviewed under 10 CFR 50.73 (a)(2)(i)(B), as a condition
+prohibited by Technical Specifications. However, because there is no firm evidence that the system would not have
+worked, the event is not required to be reported under that section.
+NRC FORM 366A (02·2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed back
+to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+LICENSEE EVENT REPORT (LER) Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET the Desk Officer, Office of Information and Regulatory Affairs, NEOB-1 0202, (3150-01 04), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an Information
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the Information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+YEAR I SEQUENTIAL I REVISION
+Hope Creek Generating Station 05000354 NUMBER NUMBER
+3 OF4
+2016 -001 -000
+NARRATIVE
+CAUSE OF EVENT
+No specific cause was identified. However, there is industry operating experience that the reset spring may relax
+over time, reducing the preload on the reset mechanism. Relaxation of the reset spring is considered to be the most
+probable cause.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+This event resulted in inoperability of the single train HPCI system, resulting in the inability of the HPCI system to
+perform its required safety function to mitigate the consequences of an accident. The HPCI system is part of the
+Emergency Core Cooling System (ECCS), and is specifically intended for a small break in the reactor coolant pressure
+boundary (RCPB) that does not result in rapid depressurization of the reactor vessel. The system was found in a
+condition in which it remained capable of Injecting water into the reactor vessel, however because of the momentary
+trip and reset, the system would not have met the full flow injection time limit of 35 seconds.
+In the event that the HPCI system fails, the Automatic Depressurization System (ADS) {SB} uses a number of the
+reactor safety/relief valves to reduce reactor vessel pressure during small or isolated breaks. When reactor vessel
+pressure is reduced to within the design capability of the low pressure systems (Core Spray {BM} and Low Pressure
+Coolant Injection {BO} ), these systems provide reactor vessel coolant inventory makeup, so that acceptable post
+accident reactor core coolant temperatures are maintained.
+During the time period between the last successful HPCI test on March 1, 2016 to until the condition was discovered
+on April 7, 2016, the following ECCS systems were unavailable for scheduled maintenance:
+• The B Low Pressure Coolant Injection (LPCI) system was unavailable due to planned maintenance from
+March 8, 2016 at 0300 until March 9, 2016 at 2140.
+• The B Core Spray subsystem was unavailable due to planned maintenance from March 22, 2016 at 0300
+until March 23, 2016 at 2337.
+ECCS logic requires at least one Core Spray subsystem or one LPCI pump be operating in order for the ADS to
+depressurize the reactor vessel and restore core cooling. At no time during the period of HPCI unavailability was the
+combination of operable low pressure ECCS pumps less than the required number for ADS system operation.
+During the time period that the HPCI system was unavailable, sufficient systems were available to provide the required
+safety functions needed to protect the health and safety of the public.
+SAFETY SYSTEM FUNCTIONAL FAILURE
+This condition is a safety system functional failure as defined in NEI 99-02, Revision 7, Regulatory Assessment
+Performance Indicator Guideline.
+PREVIOUS EVENTS
+A review of events at Hope Creek for the past three years was performed to determine if any similar events had
+occurred. No similar events were identified.
+NRC FORM 366A (02·2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed back
+to industry. Send comments regarding burden estimate to the FOIA, Privacy and
+LICENSEE EVENT REPORT (LER) Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by Internet e-mail to lnfocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-01 04), Office
+of Management and Budget, Washington, DC 20503. If a means used to impose an information
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the Information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+YEAR I SEQUENTIAL I REVISION
+Hope Creek Generating Station NUMBER NUMBER
+05000354 4 OF4
+2016 • 001 • 000
+NARRATIVE
+CORRECTIVE ACTIONS
+The over-speed assembly reset spring was reset to 3.5 lbs., which is within the proper pre-load band.
+The preventative maintenance strategy for HPCI will be reviewed and revised as necessary to include periodic
+replacement of the over-speed assembly reset spring.
+Other corrective actions are being tracked in the licensee's Corrective Action Program.
+COMMITMENTS
+This LER contains no regulatory commitments.
+NRC FORM 366A (02-2014)

@@ -1,0 +1,181 @@
+~ Exelon Generation®
+~y
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604482 10 CFR 50.73
+April 24, 2019 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2018-005-02
+Enclosed is Licensee Event Report (LER) 2018-005-02: Unplanned Reactor Scram During
+Maintenance Outage Due to High Intermediate Range Monitor Flux. This is a supplemental report
+to LER 2018-005-01 submitted to the NRC on March 5, 2019. The updated information in the
+LER is denoted b~ revision bars located in the right-hand margin. This repo~ is being submitted in
+accordance with the requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+RRegulaetory sAsspuran~ce Mlan-ager, at (217) 937-2800.
+John J. Kowalski
+Plant Manager
+Clinton Power Station
+Attachment: Licensee Event Report 2018-005-02
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector -Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+~\
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+· c ~ .:P" ""°< · i4 LICENSEE EVENT REPORT (LER) R Es e t p im or a te te d d l b e u s r s d o e n n s p l e e r a r r n e e s d p o a n r s e e t in o co c r o p m o p ra ly te d w ith in to th is t he m a l n ic d e a n to si r n y g co p l r le o c c t e io s n s r a e n q d u es fe t: d 80 b a h c o k u r t s o .
+industry. Send comments regarding burden estimate to the lnfom,ation Services Branch
+.. ~ ..·. -v, . . ~ ' . ' .· ' ~ , :g .c (See Page 2 for required number of digits/characters for each block) l ( n T f - o 2 c o F l 4 le 3 c ) t , s . U R . e S s . o N ur u c c e le @ a n r r R c. e g g o u v l , a t a o n ry d C to o m th m e is D si e o s n k , W Of a fi s c h e i r n , g O to f n fi , c e D C o f 2 l 0 n 5 fo 5 m 5- , 0 a 0 ti 0 o 1 n , a o n r d b y R e e g -m ul a a i t l o t r o y
+(See NUREG-1022, R.3 for instruction and guidance for completing this form A a f fairs, m N e E a O ns B -1020 u 2 se , d (3 150- t 0 o 1 04), im Of p fi o c s e e o f Ma a n n a geme in n f t o a n n n d a t B io u n d get, c W o a lle s c h t i i n o g n t on, D d C oe 2 s 0 503. n o I t f
+~1'~ . ,_:._. ~o~ httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 cfaplay a currently valid 0MB control number, the NRG may not conduct or sponsor, and a person
+. ****"" is not required to respond to, the information collection .
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 3
+4. Title
+Unplanned Reactor Scram During Maintenance Outage Due to High Intermediate Range Monitor Flux
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year I S N eq u u m e b n e ti r a l I R N e o v . Month Day Year Facility Name 050 D 0 o 0 c ket Number
+10 28 2018 2018
+-
+005
+-
+02 4 24 2019
+Facility Name
+050
+D
+0
+o
+0
+c ket Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply}
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(dJ 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+2
+D 20.2203(a)(1 l D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(iJ 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(aJ(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(mJ 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(sJ
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+001 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 2 .. 0 .2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+...
+.... -~ > " D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LEA
+Licensee Contact !Telephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+;,
+Cause System Component Manufacturer Reportable to ICES . ,. Cause System Component Manufacturer Reportable to ICES
+.
+''::
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On October 28, 2018, at 0445 CDT at approximately 0.5% power while performing a soft shutdown in support of a
+planned maintenance outage (C1 M23), the plant experienced an unplanned Reactor Protection System (RPS) actuation
+due to Intermediate Range Monitors (IRMs) High Flux. At the time of the event Main Steam Line (MSL) drains were
+being closed to control the reactor cooldown rate. When MSL drain isolation valve1 B21-F016 was full closed, pressure
+reduction (cooldown) stopped resulting in a small reactor water level change and the Feedwater system responded by
+injecting a small amount of cold water. This combination of conditions resulted in a positive reactivity change which
+resulted in the reactor scram. A review of the Feedwater system response determined that the system responded as
+designed and no equipment failure initiated the conditions leading to the scram. The cause of the event was pressure
+control guidance was not adequate to address the cooldown rate conditions during a soft shutdown. Corrective actions
+include implementing best practices for pressure control strategies, abort criteria based on reactor pressure, actions to
+minimize time in the region of vulnerability, and associated operator training. This event is reportable under the
+provisions of 1O CFR 50.73(a)(2)(iv)(A) as an "event or condition that resulted in the manual or automatic actuation of the
+Reactor Protection System."
+-J
+I
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+' lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means. used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 005 - 02
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Unplanned Reactor Scram During Maintenance Outage Due to High Intermediate Range Monitor Flux
+A. Plant Operating Conditions Before the Event
+Unit: 1 Eve:nt Date: October 28, 2018 Event Time: 0445
+Mode: 2 Mode Name: Startup Reactor Power: 0.5 percent
+B. Description of Event
+On October 28, 2018 at 0445 CDT at approximately 0.5% power while performing a soft shutdown in
+support of a planned maintenance outage (C1 M23), the plant experienced an unplanned Reactor
+Protection System (RPS) actuation due to Intermediate Range Monitors (IRMs) [IG] High Flux. At the
+time of the event Main Steam Line (MSL) drains were being closed to control the reactor cooldown
+rate. When MSL drain isolation valve1 B21-F016 was full closed, pressure reduction (cooldown)
+stopped resulting in a small reactor water level change and the Feedwater system [SJ] responded by
+injecting a small amount of cold water.
+A review of the motor driven reactor feedwater pump (MDRFP) injection valve 1 FW004 response
+during the event determined that the valve had responded as designed under the low feedwater
+demand conditions that the scram experienced.
+NRG FORM 366A (04-2018) Page_2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the lnfonmation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3D sponsor, and a person is not required to respond to, the infonmation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 005 - 02
+NARRATIVE
+C. Cause of the Event
+The root cause of this event was that procedure pressure control guidance was not adequate to
+address the cooldown rate conditions during a soft shutdown.
+D. Safety Consequences
+This event is reportable in accordance with 1 O CFR 50.73(a)(2)(iv)(A) as "any event or condition that
+resulted in the manual or automatic actuation of the Reactor Protection System."
+The scram caused by increased flux to the IRMs involved no safety consequences or failures of plant
+equipment. Tine condition of the reactor core at the time of the event was stable. Systems necessary
+to maintain the plant per Technical Specification requirements following the automatic plant trip
+performed as expected and remained available to perform their safety function.
+E. Corrective Actions
+As an interim corrective action, following the reactor scram, Procedure 3006.01, Unit Shutdown, was
+revised to include Appendix F, Plant Shutdown Briefing Topics, specific to performance of a soft
+shutdown. The procedure revision indicates that soft shutdowns are prohibited until further notice and
+it prohibits forced cool down until all control rods are fully inserted.
+Further corrective actions taken include revising Procedure 3006.01 to implement best practices for
+pressure control strategies, abort criteria based on reactor pressure, and actions to minimize time in
+the region of vulnerability. Associated operator training has been updated to incorporate the
+procedure changes and lessons learned from this event.
+F. Previous Similar Occurrences
+There were no previous events identified involving a low power RPS actuation similar to the
+occurrence described in this licensee event report.
+G. Component Failure Data
+There were no failed components associated with this event.
+NRG FORM 366A (04-2018) Page _3_ of _3_

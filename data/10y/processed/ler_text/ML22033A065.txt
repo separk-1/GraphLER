@@ -1,0 +1,185 @@
+•
+-P Entergy
+Entergy Operations, Inc.
+P.O. Box 756
+Port Gibson, Mississippi 39150
+Jeffery A. Hardy
+Manager Regulatory Assurance
+Grand Gulf Nuclear Station
+Tel: 802-380-5124
+10 CFR 50.73
+GNRO2022-00006
+February 2, 2022
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Grand Gulf Nuclear Station, Unit 1 Licensee Event Report 2021-005-00,
+Oscillation Power Range Monitors ( OPRMs) Technical Specification
+Noncompliance.
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+Renewed License No. NPF-29
+Attached is Licensee Event Report 2021-005-00, Oscillation Power Range Monitors (OPRMs)
+Setpoint Error Causes Technical Specification Noncompliance. This report is being submitted in
+accordance with 10 CFR 50.73(a)(2)(i)(B), as an operation or condition prohibited by the plant's
+Technical Specification.
+This letter contains no new Regulatory Commitments. Should you have any questions
+concerning the content of this letter, please contact Jeff Hardy, Regulatory Assurance Manager
+at 802-380-5124.
+JAH/fas
+Attachments: Licensee Event Report 2021-005-00
+GNRO2022-00006
+Page 2 of 3
+cc: NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U.S Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+GNRO2022-00006
+Page 3 of 3
+Attachment
+Licensee Event Report 2021-005-00
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+{08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this fonn Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3.Page
+Grand Gulf Nuclear Station, Unit 1 05000416 1 of 3
+14. Title
+Oscillation Power Range Monitors (OPRMs) Setpoint Error Causes Technical Specification Noncompliance
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A 05000 N/A
+Facility Name Docket Number
+12 06 2021 2021 005 00 02 02 2022
+N/A 05000 N/A
+110.
+9. Operating Mode Power level
+1 100
+11. This Repart is Submitted Pursuant to the Reauirements of 10 CFR §: (Check all that aooly)
+10 OFRP.ul,28 D 20.2203(a)(2)(vi) D 50.36(c)(2) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+-
+□ 20.2201(b) D 20.2203(a)(3)(i) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(A) 11 SF 1 R Parrf 713
+□ 20.2201(d) D 20.2203(a)(3)(ii) 0 50.69(g) D 50.73(a){2)(v)(B) D 73.71(a)(4)
+D 20.2203(a)(1) D 20.2203(a)(4) □ 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) D 73.71(a)(5)
+D 20.2203(a)(2)(i) 11§RParl21 18l 50.73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) D 73.77(a)(1 )(i)
+D 20.2203(a)(2)(ii) D 21.2(c) □ 50.73(a)(2)(i)(C) D 50.73(a)(2)(vii) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(iii) 10 efrlR P--art 501 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(iv) 0 50.36(c)(1 )(i)(A) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D D D
+20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Jeff Hardy, Manager Regulatory Assurance I( 802)-380-5124
+13. Complete One Line for each Comoonent Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date N/A N/A NIA
+~ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 21, 2021, while operating in MODE 1 at approximately 100 percent power, Grand Gulf Nuclear Station identified
+that the Detect and Suppress Solution - Confirmation Density (DSS-CD) settings for the Oscillation Power Range
+Monitors (OPRM) had not been updated to the current licensing basis as required per NEDC-33075P Rev 7 Licensing
+Topical Report General Electric Hitachi (GEH) Boiling Water Reactor Detect and suppress Solution - Confirmation
+Density. As a result, the Oscillation Power Range Monitors (OPRM) upscale setting requirements specified in
+Technical Specification (TS) Table 3.3.1.1-1, Reactor Protection System Instrumentation, function 2, Average Power
+Range Monitors (APRM), Sub-Function "f' OPRM upscale limits were not fully met.
+This event is reportable under 10 CFR 50.73(a)(2)(i)(B), any operation or condition prohibited by the plant's Technical
+Specifications.
+The direct cause of this event was that the setpoints were not implemented correctly during Maximum Extended Load
+Line Limit Analysis Plus (MELLLA+) implementation. The direct cause was corrected by changing the Maximum Oscillation ·
+Period, T max setpoint to 4.0 seconds on all four (APRM) channels. This corrected the OPRM setpoints for DSS-CD.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch {T-6 A10M}, U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+httos://www .nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3D sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2021 - 005 - 00
+NARRATIVE
+Plant Conditions:
+Grand Gulf Nuclear Station (GGNS) Unit 1 was operating at 100 percent power in MODE 1. There were no Structures,
+Systems, or Components that were inoperable that contributed to this event.
+Event Description:
+On June 21, 2021, while performing analysis for a future fuel load, GGNS identified that the Detect and Suppress Solution
+- Confirmation Density (DSS-CD) settings had not been updated to the current version of the General Electric Hitachi
+(GEH) recommended report. Additionally, the Instrument and Control (l&C) Calibration procedures were not updated
+for the Average Power Range Monitor (APRM) channels. Specifically, the Maximum Oscillation Period, maximum time
+period (T max), setpoint was set at 3.5 seconds instead of 4.0 seconds as required in the licensing basis per NEDC-
+33075P, Rev 7 Licensing Topical Report GEH Boiling Water Reactor DSS-CD.
+The settings for the maximum period installed in the plant were non-conservative with respect to the licensing basis.
+The Oscillation Power Range Monitors (OPRM) Upscale setting requirements specified in the Technical Specifications
+(TS) 3.3.1.1, Reactor Protection System (RPS) Instrumentation, Table 3.3.1.1-1, Reactor Protection System
+Instrumentation, function 2, Average Power Range Monitors, Sub-Function "f', OPRM Upscale limits were not fully
+met.
+This event is reportable under 10 CFR 50. 73(a)(2)(i)(B), as any operation or condition prohibited by the plant's
+Technical Specifications.
+Safety Assessment:
+The actual consequences for this event were very low. There was no radiological release from the primary
+containment as a result of this calibration error. There were no other actual consequences to safety of the general
+public, nuclear safety, industrial safety, or radiological safety. No Technical Specification Safety Limits were violated.
+Event Cause(s):
+The direct cause of this event was that the setpoints were not implemented correctly during Maximum Extended Load
+Line Limit Analysis Plus (MELLLA+) implementation.
+Causal Factors 1 - The technical basis for the change in OPRM settings was not clearly communicated such that
+consequences of not executing the work were well understood.
+Causal Factors 2 - GGNS-NE-16-00007, the engineering report for the June 17, 2016, OPRM SCRAM, was
+inappropriately revised in a way that contradicted the Power Range Neutron Monitor (PRNM) DSS-CD Settings
+Report causing confusion regarding the actual licensing basis. The report was also inappropriately used to state
+T max = 3.5 seconds was acceptable, also contradicting the PRNM DSS-CD Settings Report.
+. .
+Corrective Actions:
+The direct cause was corrected by changing the T max setpoint to 4.0 seconds on all four APRM channels. This corrected the
+OPRM setpoints for DSS-CD.
+Reperform an extent of condition on MELLLA+ Implementation for settings/setpoint changes. Tracked by the Corrective Action
+Program.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3D sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2021 - 005 - 00
+Revise GGNS-NE-16-00007 to delete the changes made by revision 2 for CR-GGN-2021-06434, CA-0010. Revision
+3 of GGNS-NE-16-00007 evaluates the DSS-CD settings for T min = 1.05 and T max = 3.5 and PBDA Sp= 1.15.
+Converting back to Revision 1 for CR-GGN-2021-6434, CA-10. This action is complete
+Previous Similar Events:
+LER 2016-009-00 I LER 2016-009-01
+Entry into Mode of Applicability with the Oscillation Power Range Monitor Upscale Settings Incorrectly Set. The direct
+cause of this event was the failure to ensure the required procedure changes were incorporated and performed prior
+to the unit entering the mode of applicability.
+Prior corrective actions did not prevent recurrence because, the technical basis for the change was not clearly communicated.
+The settings were updated in an evaluation engineering change. This engineering change type is considered a document only
+change.
+NRC FORM 366A (08-2020) Page 3 of 3

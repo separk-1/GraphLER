@@ -1,0 +1,225 @@
+September 30, 2020 NG-20-0085
+10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Duane Arnold Energy Center
+Docket 50-331
+Renewed Op. License No. DPR-49
+Licensee Event Report 2020-001-01
+On September 11, 2020, Duane Arnold Energy Center (DAEC) submitted Licensee
+Event Report (LER) 2020-001-00 (ML20558A229). Subsequent to filing this report,
+new information was discovered that met additional reporting criteria for this event.
+DAEC is, therefore, submitting revised LER 2020-001-01 with additional reporting
+criteria and description.
+Please find attached the subject report submitted in accordance with 10 CFR
+50.73. This letter makes no new commitments or changes to any existing
+commitments.
+Dean Curtland
+Site Director, Duane Arnold Energy Center
+NextEra Energy Duane Arnold, LLC
+cc: Administrator, Region Ill, USNRC
+Project Manager, DAEC, USNRC
+Resident Inspector, DAEC, USNRC
+NextEra Energy Duane Arnold, LLC, 3277 DAEC Road, Palo, IA 52324
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) ·~
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+... ., >J>~R£011, Reported lessons learned are incorporated into the licensing process and fed back to
+! i ; / / ~. i . . LICENSEE EVENT REPORT (LER) i ( n T d -2 u s F tr 4 y 3 . ), S U en .S d . c N o u m cl m ea e r n t R s e r g e u g la a t r o d r i y n g C o b m ur m de is n s io e n s , t im W a a t s e h in to g to th n e , D In C fo r 2 m 05 a 5 tio 5 n -0 0 S 0 e 1 r , v i o c r e s b y B e ra -m nc a h il
+~ \~ z: (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+.. ,!: Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+~., '+&Jt (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+..... i!. http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/j
+display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+oerson is not reauired to resoond to the information collection.
+1. Facility Name 2. Docket Number I 3._P___ag<>
+Duane 7\rnola Energy Center 05000-331 I 1 OF4
+4. Title
+Notice of Unusual Event and Unit Trip Due to Loss of Offsite Power Due to High Winds
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year
+Number No. N/A N/A
+Facility Name Docket Number
+8 10 2020 2020 0001 01 9 30 2020
+N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that appfv)
+1 D 20.2201 (b) D 20.2203(a)(3){i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii){A)
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) 18:1 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) 18:1 50. 73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+80% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) 18:1 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact rtephone Number (Include Area Code)
+!Bob Murrell Licensina Enaineer I 319-851-7900
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+C EB JX N/A y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+D Yes (If yes, complete 15. Expected Submission Date) [gj No 15. Expected Submission Date N/A N/A N/A
+~bstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On August 10, 2020, at 1246 CDT, while operating at 80% power, NextEra Energy Duane Arnold (DAEC)
+I experienced a generator load reject and subsequent reactor scram as a result of a loss of offsite power
+I
+(LOOP) due to extremely high winds. An Unusual Event was declared at 1258. All Safety Systems performed
+as designed. As a result of the LOOP, the 'A' and 'B' Emergency Diesel Generators automatically started
+and supplied power to the safety related busses. As a result, the High Pressure Coolant Injection (HPCI)
+and Reactor Core Isolation Cooling (RCIC) automatically initiated and injected into the reactor. In addition,
+containment isolations occurred, as expected for this event. This resulted in a 4-hour event report to the
+NRC under 10 CFR 50.72 section 50.72{b)(2)(iv)(A) - ECCS Injection, 50.72(b)(2)(iv)(B) - RPS Actuation -
+Critical, 50.72(b)(3)(iv)(A) - Valid Specific System Actuation (reference EN#54826). The NOUE was exited at
+1600 on August 11, 2020. The cause of the LOOP was an extremely severe storm (called a Derecho) with
+heavy rains and very high winds. This event had no impact on public health or safety. There were no
+systems, structures, or components inoperable at the time of the event that contributed to the event. This
+I event is reportable pursuant to 10 CFR 50. 73(a)(2)(iv)(A), 50. 73(a)(2)(v)(C) and 50. 73(a)(2)(iii). There were
+no radiological releases associated with this event.
+NRG FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+~p·•IU',.,, lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER}
+$t . comments regarding burden estimate to the Information Services, Branch (T-2 F43), U.S. Nuclear
+~I Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+..... ti ..
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/docx:ollections/nuregs/staff/sr1022/r3[) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Duane Arnold Energy Center 05000-331 NUMBER NO.
+2020 -001 -01
+NARRATIVE
+I. Description of Event:
+On August 10, 2020, at 1246 CDT, while operating at 80% power, NextEra Energy Duane
+Arnold· (DAEC) experienced a Generator Load reject and subsequent reactor scram as a
+result of a loss of offsite power (LOOP) due to extremely high winds. An Unusual Event was
+declared at 1258. All Safety Systems performed as designed.
+As a result of the LOOP, the 'A' and 'B' Emergency Diesel Generators (EDGs) automatically
+started and supplied power to the safety related busses. In response to the expected Reactor
+Pressure Vessel (RPV) level transient, the High Pressure Coolant Injection (HPCI) and
+Reactor Core Isolation Cooling (RCIC) automatically started and injected. In addition,
+containment isolations occurred, as expected for this event.
+This resulted in a 4-hour event report to the NRC under 10 CFR 50. 72 section
+50.72(b)(2)(iv)(A) - ECCS Injection, 50.72(b)(2)(iv)(B) - RPS Actuation - Critical,
+50.72(b)(3)(iv)(A) - Valid Specific System Actuation (reference EN#54826).
+The cause of the LOOP was an extremely severe storm ( called a Derecho) with heavy rains
+and very high winds. This event had no impact on public health or safety. There were no
+systems, structures, or components inoperable at the time of the event that contributed to the
+event.
+The Unusual Event was exited at 1600 on August 11, 2020.
+IL Assessment of Safety Consequences:
+In response to the LOOP, the plant experienced a Generator Lockout, Turbine Trip and
+Reactor Scram. The operating crew entered the appropriate emergency procedures.
+The EDG's quickly re-energized tlie safety-related electrical busses and restored
+power. The Reactor Protection System (RPS) power was never lost as the EDG's were
+able to recover power to the essential buses quickly. This prevented a Main Steam
+Isolation Valve (MSIV) isolation signal and thus allowed the Main Condenser to remain
+available post event.
+As expected for this event, RPV level dropped below L2 setpoint (119.5") initiating the
+HPCI and RCIC systems. Reactor level recovered quickly. The Low Low Set System
+functioned as designed initially opening two primary system relief valves to control
+reactor pressure.
+NRG FORM 3668 (02-2018) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+~""""'°""· lessons learned are incorporated into the licensing process and fed back to industry. Send
+{lwl\ LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+i~/ Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+•1t••· lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington. DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http:/lwww.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3l) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+~- DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Duane Arnold Energy Center 05000-331 NUMBER NO.
+2020 -001 -01
+Operators were quickly able to establish pressure control initially via Steam Line Drains
+and RCIC and establish a cooldown rate.
+Both recirculating pumps tripped when power was lost to their associated non-safety
+related electrical busses. The operators followed procedures for cooldown with no
+forced circulation in the core. When Shutdown Cooling was placed in service, forced
+circulation was re-established which resulted in exceeding the bottom head cooldown
+limits of 100 degrees per hour. This was anticipated and could not be avoided.
+On August 12, a small cut was discovered in the Reactor Building 5th floor wall that was
+the result of storm damage. A test of the Secondary Containment boundary was
+conducted to determine the effect of the cut. The vacuum able to be drawn on
+secondary containment with one train of Standby Gas Treatment.System (SGTS) was
+0.24 inches of water. The vacuum required to be drawn by Technical Specification
+Surveillance Requirement is 0.25 inches of water. Secondary Containment was
+declared inoperable with the plant not in the mode of applicability (Mode 4, Cold
+Shutdown). During a review of past operability of Secondary Containment, it was
+determined that the cut in the Reactor Building wall likely existed during the period the
+plant was cooling down in Mode 3, Hot Shutdown. Secondary Containment is required
+to be operable in Mode 3.
+DAEC design basis documents state the design safety criteria for SGTS is to "limit
+exfiltration from the secondary containment during periods of primary and/or secondary
+containment isolation" and "to control outward leakage of the atmosphere from the
+secondary containment". Therefore, the safety function of SGTS and Secondary
+Containment was maintained by the ability to draw a substantial vacuum of 0.24 inches
+of water with the cut in the Reactor Building wall. Although the safety function of
+Secondary Containment and SGTS was maintained throughout this event, the reporting
+criteria in NUREG-1022 for 50.73(a)(2)(v)(C) states" ... a report is required when 1)
+there is a determination that the SSC is inoperable in a required mode or other
+specified condition, 2) the inoperability is due to ... equipment failures ... , and 3) no
+redundant equipment in the same system was operable." Since Secondary
+Containment was declared inoperable, it meets the reporting criteria outlined in
+NUREG-1022.
+This event did not result in a Safety System Functional Failure.
+NRG FORM 366A (06-2016) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3[) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Duane Arnold Energy Center 05000-331 NUMBER NO.
+2020 -001 -01
+Ill. Cause of Event:
+The cause of the LOOP was an extremely severe storm (called a Derecho) with heavy
+rains and very high winds. Wind speeds exceeded 80 mph for over 20 minutes with
+peaks on site at greater than 100 mph. The National Weather Service later estimated
+wind speeds were likely near 130 mph. These winds resulted in all 6 off site power
+sources (4 - 161 kV and 2 - 345 kV) coming into the DAEC switchyard being damaged
+or downed. A separate offsite 69 kV line which feeds non-essential plant loads was
+also damaged.
+IV. Corrective Actions:
+The high winds experienced on August 10, 2020 were not considered a beyond design basis
+event. The systems and components responded as designed and the overall peak wind
+speeds were within the Design Basis Tornado. The damage observed coincides with the
+amount of damage expected for the event. Given this event was outside the control of the
+station staff and that all components worked as designed, no additional corrective actions
+beyond repair/recovery efforts related to the wind storm are needed.
+V. Additional Information:
+Previous Similar Occurrences:
+A review of NextEra Energy Duane Arnold LERs from the previous 5 years identified
+the following event:
+LER 2018-004 -Automatic Reactor Scram due to Feedwater Regulating Valve Failure
+LER 2019-001 -Automatic Reactor Scram due to Loss of Feedwater
+EIIS System and Component Codes:
+EB - Medium-Voltage Power System
+Reporting Requirements:
+This activity is being reported pursuant to the requirements of 10 CFR
+50.73(a)(2)(iv)(A),50.73(a)(2)(iii), and 50.73(a)(2)(v)(C).
+NRG FORM 366A (06-2016) Page 4 of 4

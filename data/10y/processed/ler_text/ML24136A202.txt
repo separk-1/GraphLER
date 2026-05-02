@@ -1,0 +1,331 @@
+Constellation
+10 CFR 50.73
+NMP2L2880
+May 1, 2024
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-410
+Subject: NMP2 Licensee Event Report 2024-001, Automatic Reactor Scram on Turbine
+Trip due to Low Condenser Vacuum
+In accordance with the reporting requirements contained in 10 CFR 50.73(a)(2)(iv)(A), please
+find enclosed NMP2 Licensee Event Report (LER) 2024-001, Automatic Reactor Scram on
+Turbine Trip due to Low Condenser Vacuum.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+m L ~
+~-r-
+tJ,u-,ouJ -,-it
+F or Carl J. Crawford
+Plant Manager, Nine Mile Point Nuclear Station
+CJC/MLR
+Enclosure: NMP2 Licensee Event Report 2024-001, Automatic Reactor Scram on Turbine
+Trip due to Low Condenser Vacuum
+cc: NRC Regional Administrator, Region I
+NRC Resident Inspector
+NRC Project Manager
+\ '
+Enclosure
+NMP2 Licensee Event Report 2024-001,
+Automatic Reactor Scram on Turbine Trip due to Low Condenser Vacuum
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+,,,.. .....' !\ Eslimaled bu'den pe< reSf)OOse to COl!'j)~ wilh !his mandatory coloction request 80 hotxs. Reported lessons
+LICENSEE EVENT REPORT (LER) leaned Ne ilcorpc.-ated into the icensilg process and fed back to industy. Send comments regadtng tuden
+\.~) estimate l:l !he FOIA, Library, and Information Collections ll<anch (T.6 AIOM), U. S. Nuclear Regulatory
+..... (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555--0001, or by email to tnfocollects.ReSOU"ce@nrc.gov, and tie OM3 revM3W8f
+at 0MB Office of Information and Regulaixy Mais, (3150-0104), Alln: Desk Officer tor !he Nuclear Regulat<ry
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 171h S•eet NW, Washington, DC 20503. The NRC may not conduct c, sponsc,, and ap erson ~
+htt11://www.nrc.gov/reading-rmldog-collections/nuregs/stafflsr1022/r3D not requi'ed to respond to, a colection of information unless Ile document requesting or requiilg the colection
+displays a cl.lTentt,, vaid 0MB cooi"ol oomber.
+1. Facility Name rgJ 050 2. Docket Number 3.Page
+Nine Mile Point Unit 2 410 1 OF 5
+□ 052
+4. Title
+LER 2024-001-00, Automatic Reactor Scram on Turbine Trip due to Low Condenser Vacuum
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Re N vi o s . i on Month Day Year Facillty Name □ 050 Docket Number
+03 03 2024 2024 - 001 - 00 04 30 2024 Facility Name Docket Number
+□ 052
+9. Operating Mode
+1 10. Power Level
+MODE1 55%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) □ 50.7 3(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1 )(ii)(A) □ 50.7 3(a)(2)(iii) □ 50. 73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) rgJ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50,46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.69(9) □ 50. 73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50. 73(a)(2)(i)(A) □ 50. 73(a)(2)(v)(C) □ 73. 77(a)(2)(i) □ 73.1200(9)
+□ 20.2203(a)(2)(iv) □ 50. 73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73. 77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50. 73(a)(2)(vii)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. Complete One Line for each Component Failure Described in this Report
+'
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+E TC RBLR M12000 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[8J No □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 3/3/24 at 1942 while performing a plant shutdown in preparation for a refuel outage, Nine Mile Point Unit 2 experienced
+a Reactor Scram due to a Main Turbine trip on low condenser vacuum. The plant was at ~ 55% power at the time of the
+Reactor Scram.
+Following the scram, a Low RPV Level scram and containment isolation signal on Level 3 was received, as expected. The
+containment isolation signal impacted RHR Shutdown Cooling, RHR letdown to radwaste, and RHR sampling. All impacted
+valves were in the closed position at the time the isolation occurred.
+All control rods were fully inserted. Plant response was as expected. Post scram the Main Turbine Bypass Valves were
+used to control decay heat and normal post scram level control via the feed/ condensate system.
+The event notification (EN 57004) was made pursuant to 10 CFR 50.72(b)(2)(iv)(B) RPS Actuation and 10 CFR
+50.72(b)(3)(iv)(A) Specified System Actuation and is reportable pursuant to 1O CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www. nrc.q ov/reading-rm/doc-collecti ons/nuregs/s taff/sr1 022/r30 respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+Nine Mile Point Unit 2 410 NUMBER NO.
+□ 052 2024 - 001 - 00
+NARRATIVE
+THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION IDENTIFIED AND SYSTEM
+NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER ARE ENCLOSED WITHIN [BRACKETS]
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Prior to the event, NMP2 was in Mode 1 (Power Operation) at 55% power.
+B. EVENT:
+At 19:15 on March 3, 2024, NMP2 was continuing with a downpower in preparation for a refueling outage with normal
+gland sealing steam [TC] in service. As expected around 55% reactor power, the extraction steam [SB] pressure lowered
+to the 50 psig setpoint causing the extraction steam valve (2ESS-STV104 REBOILERS 1A &1 B EXTR SUPPLY ISOL
+VLV) to Clean Steam Reboiler A (CSR 'A') [RBLR] to close. By design, a main steam [SB] valve (2ASS-STV112
+REBOILERS 1A & 1 B MAIN STM TRIP VLV) is intended to open as soon as the extraction steam valve closes, raising
+pressure to 95 psig. Upon closure of 2ESS-STV104, 2ASS-STV112 failed to open automatically. Operators attempted to
+open the valve manually by taking the control switch to the open position, however the valve indicated on the main control
+board that it remained closed and steam pressure to the CSR 'A' began to lower rapidly.
+To restore pressure, operators re-opened 2ESS-STV104 to re-establish the extraction steam source. CSR 'A' outlet
+pressure remained adequate to supply turbine seal glands, however pressure was lowering slowly consistent with
+extraction steam pressure. Without operator action, 2ASS-STV112 opened approximately 6 minutes later causing CSR 'A'
+inlet pressure to rise rapidly. Within 40 seconds, the CSR 'A' drain tank [TK] reached the high-level alarm and the hi-hi
+level trip was reached 6 seconds later sending a signal to isolate the inlet steam (2ASS-MOV3A REBOILER 1A STM
+INLET VLV) [ISV] to the CSR.
+The hi-hi level cleared and recurred six additional times. During this time operators attempted to reopen 2ASS-MOV3A to
+CSR 'A', however it auto isolated each time. When regulated turbine gland seal pressure dropped below the 6.3 psig
+setpoint for the Emergency Gland Sealing [SB] steam line, the system was unavailable to support turbine glands as it had
+been isolated due to failures occurring during the September 2023 forced outage.
+While Auxiliary Boilers [SA] were at normal pressure and temperature, valve 2ASS-AOV145 (AUX BLR STM INLET VLV)
+to the clean steam reboilers was gagged closed and not readily available to the operators As a result of degrading CSR
+pressure and unavailability of redundant Emergency Gland Sealing steam supply, gland sealing steam pressure was lost
+at 19:38 and condenser [COND) vacuum rapidly degraded. Operators stopped actions to restore the CSR to brief on a
+manual reactor trip. Prior to initiating the manual trip an automatic trip (JC] occurred at 19:42 at an indicated condenser
+vacuum of 24.5".
+At 19:59, CSR 'A' was restored to service by opening 2ASS-MOV3A. No additional hi-hi level conditions occurred.
+Operators requested maintenance support to close 2ASS-STV112 because it has an interlock that prevents 2ASS
+AOV145 from being opened unless 2ASS-STV112 is closed. Once closed, the gagging device on 2ASS-AOV145 was
+removed and steam was supplied to the CSR from the Auxiliary boilers.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A (04-02-2024)
+Page_2_ of _s_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Commission, Washington, OC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollecls.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Oesk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rmldoc-collections/nuregs/stafflsr1022lr3D respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Nine Mile Point Unit 2 410
+□ 052 2024 - 001 - 00
+NARRATIVE
+C. INOPERABLE SYSTEMS, STRUCTURES, OR COMPONENTS THAT CONTRIBUTED TO THE EVENT:
+The Emergency Gland Sealing Steam supply was out of service.
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURENCES AND OPERATOR ACTIONS:
+The dates, times, major occurrences, and operator actions for this event are as follows:
+March 3, 2024:
+19:15 2ESS-PS112 setpoint reached(< 50 psig Extraction Steam) at 55% reactor power
+2ESS-STV104 closes in auto as expected
+Operators recognize that 2ASS-STV112 did not open in auto
+19:16 Operators attempt to manually open 2ASS-STV112 by taking the control switch to the open
+position after it fails to open in auto
+Valve position does not appear to change
+19:17 2ESS-STV104 Re-opened by taking the control switch out of the auto position and to the
+open position
+Clean Steam Reboiler Pressure discharge pressure recovers from 27 psig to 35 psig
+19:23 2ASS-STV112 Opens unexpectedly
+Clean Steam Reboiler Drain Tank Hi-Hi Level, resulting in CSR isolation.
+19:25 Clean Steam Reboiler Outlet Pressure Peaks and then lowers consistently until turbine trip
+19:29 Clean Steam Reboiler Drain Tank Hi-Hi Level occurs a total of 7 times between 19:23 and 19:42,
+with at least three of these occurring as operators attempt to manually open the CSR steam
+admission valve 2ASS-MOV3A
+19:38 Regulated turbine gland sealing steam pressure O psig
+19:42 Turbine Trip on Low Condenser Vacuum and Reactor Scram
+19:59 Operators successfully open 2ASS-MOV3A and Gland Sealing Steam Pressure recovers
+E. METHOD OF DISCOVERY:
+This event was self-revealed when the turbine tripped on Low Condenser Vacuum
+F. SAFETY SYSTEM RESPONSES:
+NRC FORM 366A (04-02-2024)
+Page_3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET l N n u fo c c le o a le r cts R .R e e g s u o la u t n o : r e y @ lllC C o g m ov m , i a s n si d o n th , e 0 W M a B sh r i e n v g ie to w n e , r at D : C 0M B 2 O 05 ff 5 ic 5 e - 0 o 0 f 0 I 1 n , f orm o a r t ion b a y n d R em eg a u il l ato t r o y
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+d
+re
+is
+s
+p
+p
+l
+o
+a
+n
+y
+d
+s a
+to
+c
+,
+u r
+a
+re
+c
+n
+o
+tl
+l
+y
+le
+v
+ct
+a
+io
+id
+n
+0
+o
+M
+f i
+B
+n f
+c
+o
+o
+rm
+ntr
+a
+o
+ti
+l
+o
+n
+n
+u m
+un
+b
+l
+e
+e
+r
+s
+.
+s the document requesting or requiring the collection
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+Nine Mile Point Unit 2 410 NUMBER NO.
+□ 052 2024 - 001 00
+NARRATIVE
+All safety systems responded as designed.
+II. CAUSE OF THE EVENT
+The direct cause of the event was the isolation of Clean Steam Reboiler 'A.' The loss of gland sealing steam
+and unavailability of the Emergency Gland Sealing steam line resulted in degrading condenser vacuum and
+turbine trip. The isolation was caused by the CSR 'A' drain tank level control system, which was unable to
+maintain level below the Hi-Hi isolation signal. Deficiencies were identified with the level control system and
+drain flow paths, resulting in the inability of the system to respond to Hi and Hi-Hi level conditions rapidly.
+Ill. ANALYSIS OF THE EVENT
+All safety systems responded per design. No principal barriers were degraded or lost. Gland sealing steam
+was returned to service via the Auxiliary Boilers shortly after the scram, and decay heat removal occurred via
+the main condenser. The scram did not have impact to the health or safety of the public.
+Subsequent investigation of the system identified multiple degraded components which, in the aggregate,
+resulted in a loss of the gland sealing steam system. The unavailability of the Emergency Gland Sealing steam
+supply resulted in loss of redundancy. This system was isolated due to failure in September 2023 and was
+unavailable to perform its function on March 3, 2024.
+The normal and dump level control systems for the CSR 'A' drain tank both exhibited partial losses of function
+to respond quickly to level increases. The normal level control solenoid 2CNA-SOV101 was found not
+transmitting full control air signal to level controller 2CNA-LIC101. As a result, the normal drain system would
+only respond partially to high level conditions. The dump valve level transmitter 2CNA-LT 9A was found
+degraded with the inability to begin throttling open the dump valve at the expected setpoint. In this degraded
+condition the valve would not modulate as expected. The combined degraded conditions of the drain systems
+resulted in isolation of the CSR and failure to maintain gland sealing steam pressure to the turbine.
+The CSR and Emergency Gland Sealing Steam supply systems combined have resulted in two prior scrams
+(2006, 2012). In these prior events, different components were the direct cause of the scram.
+IV. CORRECTIVE ACTIONS
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL STATUS:
+The station completed repairs to the Emergency Gland Sealing steam system, replaced 2CNA-SOV101,
+replaced 2CNA-LIC101, and repaired 2CNA-LT 9A.
+B. ACTION TAKEN OR PLANNED TO PREVENT OCCURRENCE:
+The station is implementing a change to the system management strategy to ensure aggregate conditions do
+not preclude satisfactory system operation. A design modification is being developed for later implementation.
+NRC FORM 366A (04-02-2024)
+Page_4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6A10MJ, U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www. nrc. gov/reading-rm/doc-colleclions/nuregs/staff/ sr 10 22/r3D respond to, a collection of information unless the document requesting o, requiring the collection
+displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Nine Mile Point Unit 2 410
+□ 052 2024 - 001 00
+NARRATIVE
+V. ADDITIONAL INFORMATION
+A. FAILED COMPONENTS:
+Clean Steam Reboiler 'A'
+B. PREVIOUS LERs on SIMILAR EVENTS:
+NMP Unit 2 2006-001-00, Automatic Reactor Scram due to a Loss of Main Turbine Gland Sealing Steam
+NMP Unit 2 2012-004-00, Manual Reactor Scram due to a Loss of Main Turbine Gland Sealing Steam
+Resulting in Lowering Condenser Vacuum
+NRC FORM 366A (04-02-2024)
+Page_5_ of _5_

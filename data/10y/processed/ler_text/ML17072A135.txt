@@ -1,0 +1,199 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, New Jersey 08038-0236
+0PSEG
+NucleaT LLC
+10CFR50.73
+LR-N17-0059
+MAR 1 3 2017
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station Unit 1
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Supplemental Licensee Event Report 2016-005-01, Reactor
+· Protection System Actuation While the Reactor Was Shutdown
+In accordance with the requirements of 10 CFR 50.73(a)(2)(iv)(A), PSEG Nuclear LLC
+is sui-ting the enclosed Supplemental Licensee Event Report (LER) Number 2016-
+005-ul~~eactor Protection System Actuation While the Reactor Was Shutdown."
+.::.
+If you h.~?Ve any questions or require additional information, please contact Mr. Thomas ';.
+MacEWen at (856) 339-1097.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+Edward T. Casu IIi
+Plant Manager
+Hope Creek Generating Station
+ttm
+Attachment: Licensee Event Report 2016-005-01
+LR-N17-0059
+10CFR50.73
+Page 2
+Document Control Desk
+cc: Mr. Daniel Dorman, Regional Administrator- Region I, NRC
+Ms. Carleen Parker, Project Manager- US NRC
+Mr. Justin Hawkins, NRC Senior Resident Inspector- Hope Creek (X24)
+Mr. Patrick Mulligan, Manager IV, NJBNE
+Mr. Thomas MacEwen, Hope Creek Commitment Tracking Coordinator (H02)
+Mr. Lee Marabella - Corporate Commitment Tracking Coordinator (N21)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES; 1013112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~AWii'E Reported lessons learned are incorporated Into the licensing process and fed back to Industry.
+f :,-li- ~ ~ LICENSEE EVENT REPORT {LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+l (See Page 2 for required number of digits/characters for each block) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+...... 1< to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NURE G-1 022, R.3 for instruction and guidance for completing this form means used to Impose an information collection does not display a currently valid OMB control
+httQ://WW'N.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person Is not required to respond to, the
+information collection.
+1. FACILITY NAME ~-DOCKET NUMBER 13. PAGE
+Hope Creek Generating Station 05000354 1 OF3
+4. TITLE
+Reactor Protection S stem Actuation While the Reactor Was Shutdown
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR 05000
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+11 5 2016 2016 -005 -01 3 13 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+0 20.2201(b) 0 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A)
+4 - Cold Shutdown
+0 20.2201(d) 0 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+0 20.2203(a)(1) D 20.2203(a)(4) 0 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) • 50.73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+10. POWER LEVEL 0 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) 0 73.71(a)(4)
+0 20.2203(a)(2)(iii) 0 50.36(c)(2) 0 50.73(a)(2)(v)(B) 0 73.71(a)(5)
+0% 0 20.2203(a)(2)(iv) 0 50.46(a)(3)(ii) 0 50.73(a)(2)(v)(C) 0 73.77(a)(1)
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) 0 50.73(a)(2)(v)(D) 0 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) 0 50.73(a)(2)(vii) 0 73.77(a)(2)(ii)
+0 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Thomas MacEwen, Principal Nuclear Engineer 856-339-1097
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O OR E T P A IX B LE CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O OR E T P A IX B LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) • NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 5, 2016, at 0404, a Reactor Protection System (RPS) actuation occurred due to a valid scram discharge
+volume high water level signal. This actuation was the result of a Redundant Reactivity Control System (RRCS)
+Alternate Rod Insertion (ARI) signal that was inadvertently generated during testing. The reactor was in cold shutdown
+at the time of the RPS actuation, with all control rods inserted. The Reactor Coolant System (RCS) pressure was 830
+psig to support excess flow check valve testing, and shutdown cooling was removed from service. When the RRCS/ARI
+actuated, the B reactor recirculation pump tripped as expected, and the scram air header depressurized as expected.
+The depressurization of the scram air header is a design feature of the ARI. The ARI signal established the control rod
+drive (CRD) system scram flow path. This resulted in a high water level in the scram discharge volume (SDV), an
+expected response. High water level in the scram discharge volume is an actuation signal for the RPS.
+This is a condition reportable under 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that resulted in a manual or
+automatic actuation of a listed system. The cause of the RRCS/ARI actuation is inadequate procedural guidance which
+resulted in a personnel error associated with partial procedure performance.
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+ENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LIC Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+Information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+Hope Creek Generating Station 05000-354 YEAR I SE N Q U U M E B N E T R IA L R N E O V .
+2016 -005 -01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric- Boiling Water Reactor (BWR/4)
+Reactor Protection System - EllS Identifier {JC}*
+Redundant Reactivity Control System - EllS Identifier {JC }*
+Reactor Recirculation System - EllS Identifier {AD}*
+Control Rod Drive System - EllS Identifier {AA}*
+Reactor Water Cleanup System - EllS Identifier {CE}*
+*Energy Industry Identification System {EllS} codes and component function identifier codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURRENCE
+Event Date: November 5, 2016
+Discovery Date: November 5, 2016
+CONDITIONS PRIOR TO OCCURRENCE
+Hope Creek was in Operational Condition (OPCON) 4, Cold Shutdown, at 0 percent rated thermal power. No other
+structures, systems or components that could have contributed to the event were inoperable at the time of the event.
+The reactor pressure vessel (RPV) in-service pressure test had been completed and reactor vessel pressure had been
+reduced from 1005 psig to 830 psig. Pressure was being held at 830 psig while excess flow check valve testing was
+being performed. Shutdown cooling was out of service to support the RPV pressure test, and the B reactor recirculation
+{AD} pump was in service to provide forced circulation.
+DESCRIPTION OF OCCURRENCE
+On November 5, 2016 at 0404 a RRCS I ARI {JC} signal was generated while excess flow check valve testing was in
+progress. The RRCS/ARI signal was generated due to trip signals on reactor pressure vessel dome pressure high
+channel "B" (expected for testing) and RPV water level low channel "A" (unexpected for testing condition). The
+unexpected signal was generated during the performance of isolating transmitters during preps for excess flow check
+valve (EFCV) testing. This signal would have been reset in accordance with procedures if followed. There were two
+procedures being executed in parallel by technicians to perform the excess flow check valve testing. The test procedure
+is written to test all EFCV's, with the EFCV's being separated into 21 groups based on channel and instrument rack
+relationships. Only one of the EFCV groups, group J, was to be tested. A second procedure is used to align and
+isolate the instrument racks for testing. Since only one group was to be tested, the evolution required partial procedure
+performance and coordination of both procedures to accomplish the test. In marking up the procedures for partial
+performance, the steps to isolate transmitters that were not to be tested were marked Not Applicable (N/A). In the
+process of marking up the procedure, the steps to reset any RRCS trips was also inappropriately marked N/A. As a
+result, the trip of the "A" channel low RPV water level was not reset prior to performing the test of the "B" channel high
+RPV pressure.
+Upon RRCS initiation, the B reactor recirculation pump tripped as expected. The ARI system depressurized the scram
+air header, establishing the CRD {AA} system scram flow path, and the SDV filled with water that was being discharged
+from the control rod drive mechanisms, as expected. When the water level reached the SDV high level set-point, an
+RPS {JC} actuation occurred. All rods were already inserted. Operators reset the RRCS and RPS signals and then
+lowered RPV pressure in accordance with procedures, and placed shutdown cooling in service.
+All systems operated as expected following the trip of RPS.
+NRC FORM 366A (06-2016) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to Industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to Impose an Information collection does not display a currently valid OMB control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+YEAR I SEQUENTIAL REV
+Hope Creek Generating Station 05000-354 NUMBER NO.
+2016 -005 -01
+NARRATIVE
+CAUSE OF EVENT
+The cause the event was inadequate procedural guidance which resulted in a personnel error associated with partial
+procedure use.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no adverse safety consequences as a result of this event. The RRCS/ARI and RPS actuation did not cause
+any required systems to become inoperable or any design limits to be exceeded. The RRCS is not required to be
+operable in Operational Condition 4. The SDV high level trip is not required to be operable in Operational Condition 4.
+All plant systems responded as designed. The reactor water cleanup (RWCU) {CE} system remained in service,
+providing decay heat removal, as planned, during the pressure test window.
+SAFETY SYSTEM FUNCTIONAL FAILURE
+A review of this condition and the associated evaluations determined that a Safety System Functional Failure (SSFF) as
+defined in Nuclear Energy Institute (NEI) 99-02, "Regulatory Assessment Performance Indicator Guideline," did not
+occur.
+PREVIOUS EVENTS
+A review of events for the past three years at Hope Creek was performed to determine if similar events had occurred.
+On September 28, 2015, a human error resulted in an RRCS/ARI actuation and subsequent RPS actuation with the
+reactor at 100 percent power. The event was reported in LER 2015-005. That event involved a personnel error that
+was associated with incorrect keypad entries during testing on the RRCS system. The keypad entry instructions were
+clearly and accurately described in the procedure that was being performed at the time. In that event, the individual
+recognized his error and then tried to correct it without asking for help, or notifying supervision. In the most recent event,
+the test personnel did not recognize an error made when deciding that a step was not applicable. They believed that
+they were correctly following the procedure by marking the step N/A. The procedural guidance was found to be
+inadequate.
+CORRECTIVE ACTIONS
+The individuals involved in the event were disqualified from performing this and similar duties until remediated.
+The test procedure will be revised to include the required guidance and to ensure the logic sequence is built into the
+procedure to prevent RRCS initiation.
+COMMITMENTS
+There are no regulatory commitments contained in this LER.
+Page 3 of 3
+NRC FORM 366A (06-2016)

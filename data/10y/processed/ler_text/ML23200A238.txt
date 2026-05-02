@@ -1,0 +1,406 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+July 19, 2023
+10 CFR 50.73
+10 CFR 50.4(a)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2023-002-00 – Full Reactor Scram due to an
+Oscillation Power Range Monitor (OPRM) Confirmation Density Algorithm
+(CDA) Trip
+The enclosed Licensee Event Report provides the details of the full reactor scram from 80%
+power due to an Oscillation Power Range Monitor (OPRM) Confirmation Density Algorithm
+(CDA) trip . The Tennessee Valley Authority is submitting this report in accordance with Title 10
+of the Code of Federal Regulations (10 CFR) 50.73(a)(2)(iv)(A), as any event or condition that
+resulted in a manual or automatic actuation of any of the systems listed in paragraph
+(a)(2)(iv)(B).
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact Michael W. Oliver, Acting Site Licensing
+Manager, at (256) 729-7874.
+Respectfully,
+Manu Sivaraman
+BFN Site Vice President
+Enclosure: Licensee Event Report 50-259/2023-002-00 – Full Reactor Scram due to an
+Oscillation Power Range Monitor (OPRM) Confirmation Density Algorithm (CDA)
+Trip
+U.S. Nuclear Regulatory Commission
+Page 2
+July 19, 2023
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+(See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/d oc-collections/nuregs/staff/sr1022/r3/)
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF 7
+4. Title
+Full Reactor Scram due to an Oscillation Power Range Monitor Confirmation Density Algorithm Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000 N/A
+05 20 2023 2023 - 002 - 00 07 19 2023 Facility Name Docket Number
+N/A 05000 N/A
+9. Operating Mode 10. Power Level
+1 080
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Justin K. Garner, Licensing Engineer 256-729-7955
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 20, 2023, at 0315 Central Daylight Time (CDT), while performing quarterly turbine control valve
+(TCV) testing at 80 percent reactor thermal power (RTP) and 70 percent core flow, Unit 1 automatically
+scrammed due to an Oscillation Power Range Monitor (OPRM) Confirmation Density Algorithm (CDA) trip.
+The plant responded to the reactor scram as expected and there were no human performance challenges
+during the turbine control valve testing or subsequent plant shutdown.
+The root cause of the event was determined to be that the sensitivity of the CDA trip during off-normal plant
+conditions was not embedded into processes or procedures, thus preventing development of appropriate risk
+elimination or mitigation actions.
+The Corrective Actions to Prevent Recurrence are to revise Surveillance Requirements for the Turbine
+Control Valve Fast Closure on Turbine Trip and RPT Initiate Logic to specify the appropriate power level and
+associated valve position for performing the test to ensure no control valve oscillations and that conditions
+remain outside of the OPRM trip enabled region when possible; revise Technical Instructions for the
+Reactivity Control Plan Development and Implementation to increase awareness of entry into the OPRM trip
+enabled region due to the risk of spurious scrams from the CDA instability detection method; revise Design
+Criteria for the Turbine Electro Hydraulic Control System (EHC) systems to add details with regards to the
+interrelationship between EHC and OPRM; and revise Design Criteria for Neutron Monitoring Systems to
+add details on OPRM Algorithms.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 2. DOCKET NUMBER 3. LER NUMBER
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 ☐ 00259 NUMBER NO.
+052
+2023 - 002 - 00
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 1 was in Mode 1 at approximately
+80 percent power.
+II. Description of Event
+A. Event Summary
+On May 20, 2023, at 0315 Central Daylight Time (CDT), while performing quarterly turbine
+control valve (TCV) testing at 80 percent Reactor Thermal Power (RTP) and 70 percent core
+flow, Unit 1 automatically scrammed due to an Oscillating Power Range Monitor (OPRM)
+Confirmation Density Algorithm (CDA) trip. The plant responded to the reactor scram as
+expected and there were no human performance challenges during the TCV testing or
+subsequent plant shutdown.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of
+the Code of Federal Regulations (10 CFR) 50.73(a)(2)(iv)(A), as any event or condition that
+resulted in a manual or automatic actuation of any of the systems listed in paragraph
+(a)(2)(iv)(B), including: the reactor protection system (RPS) [EIIS: JC] which includes a
+reactor scram or a reactor trip, and general containment isolation signals affecting
+containment isolation valves in more than one system.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+NRC FORM 366A (08-2020) Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 2. DOCKET NUMBER 3. LER NUMBER
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 ☐ 00259 NUMBER NO.
+052
+2023 - 002 - 00
+NARRATIVE
+C. Dates and approximate times of occurrences
+Dates and Occurrence
+Approximate Times
+October 2018 Implementation of Confirmation Density Algorithm (CDA)
+Option 3. CDA initiated and inhibited during Unit 1 Refueling
+Outage 12 (U1R12) [Engineering Change Package (ECP)
+72409]
+Approximately
+June 2020 Initiated ECP for TCVs and Turbine Stop Valves (TSV) linear
+variable differential transformers (LVDTs). ECP issued.
+(ECP BFN-20-1688)
+October 2020 CDA was enabled during 1R13 (ECP BFN-20-1688,
+Stages 28-31)
+October 2022
+Implemented ECP for U1 during U1R14 to install redundant
+LVDTs to the U1 stop valves and control valves
+(ECP BFN-20-1688, Stage 1)
+February – March
+2023 ECP BFN-20-1688, Stage 2, revised to address concerns
+with installing redundant LVDT on the U2 stop valves and
+control valves. (ECP BFN-20-1688, Stage 2)
+March 2023
+ECP BFN-20-1688, Stage 2, implemented for installing
+redundant LVDTs during U2R22 (ECP BFN-20-1688,
+Stage 2)
+May 20, 2023, at
+0315 Unit 1 Reactor Scram due to an OPRM CDA trip
+D. Manufacturer and model number of each component that failed during the event
+No components failed during this event.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+On May 20, 2023, at 0315, while performing quarterly turbine control valve surveillance
+testing, the Unit 1 RPS received an OPRM CDA trip resulting in an automatic scram.
+NRC FORM 366A (08-2020) Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 2. DOCKET NUMBER 3. LER NUMBER
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 ☐ 00259 NUMBER NO.
+052
+2023 - 002 - 00
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component
+No components failed during this event.
+H. Operator actions
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses
+The Unit 1 RPS received an OPRM CDA trip resulting in an automatic scram. The plant
+responded to the reactor scram as expected, and there were no human performance
+challenges during the TCV testing or subsequent plant shutdown.
+III. Cause of the event
+The BFN Unit 1 OPRM SCRAM occurred as a result of the sensitivity of the CDA trip during
+off-normal plant conditions not being embedded into TVA processes or procedures, thus
+preventing development of appropriate risk elimination or mitigation actions.
+IV. Analysis of the event
+During 1R14 (October 2022), redundant ‘B’ LVDTs were installed on all TCVs via
+ECP BFN-20-1688-01. The redundant LVDTs were a different manufacturer and style than the
+original (Alliance versus GE Kavlico) but performed the same function. Internal manufacturer
+wiring errors in the LVDTs caused discrepancies in indicated valve position. During the quarterly
+TCV test, these deviations caused the three TCVs that remained open to operate in an unstable
+region of the valve curve and resulted in control system instabilities that manifested as TCV
+oscillations. These oscillations resulted in reactor pressure swings, which in turn, caused reactor
+power fluctuations. The OPRM CDA detected these power oscillations and tripped the reactor.
+ECP BFN-20-1688-04 was installed to re-configure the redundant LVDTs to a three-wire
+configuration during the Unit 1 Forced Outage (F110) to match the original LVDTs [Interim Action
+(INTR) 1857715-003]. This resolved issues with position indication discrepancies between the two
+different styles of LVDTs despite internal wiring errors and restored the sensed position to the
+tuned condition. Additionally, 1-SR-3.3.1.1.8(9), Turbine Control Valve Fast Closure or Turbine
+Trip and RPT Initiate Logic, was revised to change the maximum power level to perform testing
+from 84 percent to 72 percent to ensure no TCV oscillations would occur during testing [INTR /
+Procedure Change Request (PCR) 1857840-001].
+The OPRM system has four (4) channels, each channel consisting of 33 core cells for monitoring
+NRC FORM 366A (08-2020) Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 2. DOCKET NUMBER 3. LER NUMBER
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 ☐ 00259 NUMBER NO.
+052
+2023 - 002 - 00
+NARRATIVE
+core thermal-hydraulic instabilities. Thermal-hydraulic core instabilities can exist during periods of
+high power with low core flow. OPRMs provide indications and alarms at low levels of
+thermal-hydraulic instabilities and an automatic reactor scram function trip at higher levels of
+thermal-hydraulic instability.
+Oscillations are detected using any one of four algorithms, Confirmation Density Algorithm (CDA),
+Period-Based Algorithm (PBA), Growth-Rate Based Algorithm (GRBA), and Amplitude-Based
+Algorithm (ABA). The CDA trip is the licensed algorithm for Detect and Suppress Solution –
+Confirmation Density (DSS-CD). The CDA is designed to detect oscillations when they begin and
+generate a trip signal earlier than the other algorithms. The OPRM CDA trip is enabled when
+reactor power is >23 percent RTP and recirc flow is <75 percent of rated flow (Unit 1<90 percent).
+The CDA Amplitude Discriminator Setpoint of 1.10 is just above noise level. The system prevents
+invalid scrams by requiring five (5) cells to confirm the oscillation. A true oscillation will affect
+many cells. CDA counts oscillations with a period of 1.2 to 4 seconds and looks for a value
+exceeding the setpoint of 1.10. The OPRM output for a reactor scram requires two CDA trips or
+two Defense in Depth Algorithm (DIDA) trips. PBA, GRBA, and ABA are grouped together as
+DIDAs, and provide a backup to CDA, but are not required by Technical Specifications.
+Following the Unit 1 scram on May 20, 2023, an evaluation for thermal hydraulic stability was
+conducted by GEH. GEH stated the OPRM trip was not due to a Thermal Hydraulic Instability
+(THI) event but from TCV oscillations that fell within the frequency range of the CDA algorithm for
+the OPRM trip signal. The results revealed that the plant was inherently stable from a thermal
+hydraulic instability perspective. The CDA trip of the Unit 1 OPRM system was initiated by power
+changes driven by control valve oscillations experienced during the performance of
+1-SR-3.3.1.1.8(9), Turbine Control Valve Fast Closure or Turbine Trip and RPT Initiate Logic
+(DC).
+V. Assessment of Safety Consequences
+Defense-in-depth to Nuclear Safety was not compromised by this event. The RPS system worked
+as designed to automatically shut down the reactor once the CDA trip setpoint was exceeded on
+the OPRMs. No loss of safety function occurred, nor were there any equipment failures as a
+result of the event.
+This event did not reduce Defense-in-Depth to Industrial, Radiological, or Environmental safety.
+There were no new radioactive effluent pathways, nor were any new Radiation, Airborne, or
+Contamination Areas created. There was no release, nor potential to release, unmonitored
+gasses or liquids to the environment in excess of established limits of reportability.
+NRC FORM 366A (08-2020) Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 2. DOCKET NUMBER 3. LER NUMBER
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 ☐ 00259 NUMBER NO.
+052
+2023 - 002 - 00
+NARRATIVE
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA’s corrective action program under Condition
+Report (CR) 1857715.
+A. Immediate Corrective Actions
+The Immediate Corrective Actions for this event were:
+ A three-wire modification (ECP BFN-20-1688-04) was implemented during F110 to
+resolve issues with position indication discrepancies between the two different style
+LVDTs.
+ The TCV LVDTs were calibrated during hot conditions during F110 to ensure
+accuracy.
+ 1-SR-3.3.1.1.8(9), Turbine Control Valve Fast Closure or Turbine Trip and RPT Initiate
+Logic, was revised to change the maximum power level to perform testing from 84
+percent to 72 percent to ensure no TCV oscillations would occur during testing.
+ Extent of condition actions were taken to determine the appropriate power level to
+perform control valve testing for Unit 2 on June 3, 2023. The U3 LVDT mod is
+scheduled for March 2024.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Six (6) Corrective Actions to Prevent Recurrence were generated for this event:
+ Revise 1-SR-3.3.1.1.8(9), Turbine Control Valve Fast Closure or Turbine Trip and RPT
+Initiate Logic, to specify the appropriate power level and associated valve position for
+performing the test to ensure no control valve oscillations [based on Engineering Work
+Request (EWR) completed in CR action 1857715-013] and outside of the OPRM trip
+enabled region if required.
+ Revise 2-SR-3.3.1.1.8(9), Turbine Control Valve Fast Closure or Turbine Trip and RPT
+Initiate Logic, to specify the appropriate power level and associated valve position for
+performing the test to ensure no control valve oscillations (based on EWR completed
+in action 1857715-013) and outside of the OPRM trip enabled region if required.
+ Revise 3-SR-3.3.1.1.8(9), Turbine Control Valve Fast Closure or Turbine Trip and RPT
+Initiate Logic, to specify the appropriate power level and associated valve position for
+performing the test to ensure no control valve oscillations (based on EWR completed
+in action 1857715-013) and outside of the OPRM trip enabled region if required.
+ Revise 0-TI-464, Reactivity Control Plan Development and Implementation, to increase
+awareness of entry into the OPRM trip enabled region due to the risk of spurious
+scrams from the CDA instability detection method.
+ Revise Design Criteria BFN-50-7047 – Turbine Elecrto Hydraulic Control System
+(EHC) systems to add details with regards to interrelationship between EHC and
+NRC FORM 366A (08-2020) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME ☒ 2. DOCKET NUMBER 3. LER NUMBER
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 ☐ 00259 NUMBER NO.
+052
+2023 - 002 - 00
+NARRATIVE
+OPRM. Details should include a precaution that incorporates changes to the turbine
+control EHC system (including testing methodologies) could cause periodic
+perturbations. These periodic perturbations can be introduced into the thermal-
+hydraulic behavior of the reactor system (e.g., from control system feedback, System
+gains including controller settings and mechanical components like the diode function
+generator or valve flow position, deviation of process monitoring such as pressure or
+signals between two LVDTs). These changes can impact delay or combined control
+and mechanical gains to create perturbations that can potentially drive prolonged
+neutron flux oscillations within a frequency range expected for reactor instability. The
+presence of these oscillations is recognized by the CDA as reactor instability,
+independent of the actual stability of the reactor.
+ Revise Design Criteria BFN-50-7092 - Neutron Monitoring Systems to add details on
+OPRM Algorithms. Details should include different types of OPRM Trip Algorithms:
+a) CDA, b) PBA, c) GRBA, and d) ABA and an explanation about each. It should also
+include guidance on the sensitivities of CDA trip, GEH information about susceptibility
+to spurious scrams, and discussion about changes to Turbine Control EHC can impact
+OPRM Trip Algorithms.
+VII. Previous Similar Events at the Same Site
+The BFN Unit 1 OPRM scram is not considered to be a Repeat Event or Operating Experience
+(OE) Preventable. The CDA trip was added to the OPRM system with the implementation of
+Maximum Extended Load Line Limit Analysis Plus (MELLLA+) in 2018. Since its implementation,
+this is the first time BFN has received the OPRM CDA trip, which resulted in an automatic reactor
+scram. A search of LERs from BFN Units 1, 2, and 3 over the last five years identified no similar
+events.
+A review of OE and IRIS reports associated with MELLLA+, CDA, EHC Systems, and LVDTs did
+not identify any that would have prevented or mitigated the event, as the CDA trip is relatively new
+to the industry with no known previous SCRAMs.
+All plants in the industry that have implemented MELLLA+ (and therefore CDA logic) were
+benchmarked and determined that none have restrictions on performing either TCV or Scram
+Time Testing inside the OPRM trip enabled region.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (08-2020) Page 7 of 7

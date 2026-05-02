@@ -1,0 +1,444 @@
+William R. Gideon
+Vice President
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.457.3698
+10 CFR 50.73
+June 12, 2017
+Serial: BSEP 17-0054
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject: Brunswick Steam Electric Plant, Unit Nos. 1 and 2
+Renewed Facility Operating License Nos. DPR-71 and DPR-62
+Docket Nos. 50-325 and 50-324
+Licensee Event Report 1-2017-002
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement of 10 CFR 50.73(a)(1) for a written report within sixty (60) days of a reportable
+occurrence.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager – Regulatory
+Affairs, at (910) 457-2487.
+Sincerely,
+William R. Gideon
+SWR/swr
+Enclosure: Licensee Event Report 1-2017-002
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Ms. Michelle P. Catts, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Andrew.Hon@nrc.gov
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP) Unit 1 05000325 1 OF 3
+4. TITLE
+Foreign Material in Switch Results in Unplanned Automatic Start of Emergency Diesel Generators
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR
+SEQUENTIAL REV
+MONTH DAY YEAR Brunswick Unit 2 05000324
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+04 17 2017 2017 - 002 - 00 06 12 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Lee Grzeck, Manager - Regulatory Affairs (910) 457-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B TA 33 N007 Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+ SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 17, 2017, at 0004 Eastern Daylight Time, Unit 1 was in Mode 1 at approximately 100 percent of
+rated power, and Unit 2 was in Mode 1 at approximately 22 percent of rated power and was starting up from
+a refueling outage. Operators manually tripped the Unit 2 main turbine to halt increasing bearing vibration.
+The power circuit breakers (PCBs) for the Unit 2 main generator did not open as expected on the turbine trip,
+but subsequently opened when main generator reverse power relays actuated. This resulted in the
+automatic start of all four emergency diesel generators (EDGs). The EDGs did not tie to emergency busses
+because offsite power was still available. This event resulted from a component which failed due to foreign
+material intrusion. A limit switch associated with a main turbine stop valve failed to change states when the
+turbine was tripped. The limit switch configuration, together with other logic, satisfied the conditions to start
+the EDGs. The limit switch failure resulted from foreign material in the switch. The failed limit switch was
+replaced. Planned corrective actions include inspecting similar switches on both units, and sealing the wire
+entrances of the switch bodies to improve foreign material exclusion.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 002 - 000
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+On April 17, 2017, at 00:04 Eastern Daylight Time (EDT), Unit 1 was in Mode 1 at approximately 100
+percent of rated power, and Unit 2 was in Mode 1 at approximately 22 percent of rated power. Unit 2 was
+restarting following a refueling outage. Personnel were engaged in actions to resolve high bearing
+vibration on the main turbine [TA].
+Reportability Criteria
+This event is reportable per 10 CFR 50.73(a)(2)(iv)(A) because the plant experienced a valid start of its
+four emergency diesel generators (EDGs) [EK].
+This event is also reportable per 10 CFR 50.72(b)(3)(iv)(A) via an 8-hour telephone report. The telephone
+report was completed as Event Number 52683 at 07:40 EDT on April 17, 2017.
+Event Description
+On April 17, 2017, at 00:04 EDT, the Unit 2 main turbine experienced high bearing vibration. Control
+Room personnel tripped the main turbine at a prearranged vibration level. The power circuit breakers
+(PCBs) [FK] for the main generator [EL] did not immediately open on the turbine trip as expected.
+Subsequently, a main generator lockout occurred on reverse power. The generator lockout sends a start
+signal to the plant’s four EDGs. These started as expected but did not tie to their emergency electrical
+buses because there was no loss of offsite power. The EDGs were then manually shut down.
+Event Cause
+This event occurred when a contact in a switch associated with a main turbine stop valve did not close
+correctly in response to a turbine trip. When the switch was disassembled, a small piece of foreign
+material was found inside, which was a fragment of a plastic tie-wrap. This interfered with proper contact
+function. The switch was installed with the wire entrance facing upward which allowed foreign material to
+fall into the switch body. The apparent cause of the event was that vendor guidance does not require any
+special foreign material consideration for installation of this switch with its wire entrance facing upward.
+Safety Assessment
+The site’s Electrical Power Distribution System sources consist of the offsite power sources (i.e., preferred
+and alternate power sources), and the onsite standby power sources, EDGs 1, 2, 3, and 4. The AC
+electrical power system provides independence and redundancy to ensure an available source of power to
+NRC FORM 366A (04-2017) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 002 - 000
+NARRATIVE
+the Engineered Safety Feature (ESF) systems. Offsite sources for both units are supplied via the 230 kV
+switchyard either through a startup transformer or the unit auxiliary transformer. The onsite standby power
+source for 4.16 kV emergency buses E1, E2, E3, and E4 consists of four EDGs. Each EDG is dedicated to
+its associated emergency bus. The EDGs are designed to start on indications of a loss of coolant accident
+or inadequate voltage on the emergency busses. The EDGs also have anticipatory starting signals on
+certain electrical logic conditions such as main generator reverse power, main generator output breaker
+failure, startup transformer lockout, and others. Receiving one of these signals results in the engine
+starting, but the EDGs will not tie to their emergency busses while voltage is adequate from offsite sources.
+In this event, the main turbine was manually tripped at a preplanned setpoint to halt an increase in bearing
+vibration. A reverse power condition resulted in a main generator lockout and a start of all four of the
+site’s EDGs. The EDGs performed as designed given the start signal that was initiated at the time. Since
+there was no loss of offsite power, all onsite electrical busses remained energized via their normal
+supplies. Consequently, the EDGs did not tie to their emergency busses and ran unloaded as designed
+until Operations personnel took action to secure them.
+With the exception of the limit switch contact on a main turbine stop valve, all equipment affected by this
+event performed as expected given the plant condition and logic signals that existed. There was no actual
+safety consequence that resulted from this event.
+Based on this analysis, it is concluded that this event had no adverse impact on nuclear safety.
+Corrective Actions
+Any changes to the corrective actions and schedules noted below will be made in accordance with the
+site's corrective action program.
+Similarly installed limit switches on the main turbine and bypass valves will be inspected, and seals will be
+placed at the wire entrance to the switch bodies. This action will be performed during the next scheduled
+refueling outage on each unit (i.e., Spring 2018 for Unit 1 and Spring 2019 for Unit 2).
+Previous Similar Events
+No events have been reported in the past three years in which foreign material in a component resulted in
+an unplanned automatic actuation of a safety-related system or component.
+Commitments
+This report contains no new regulatory commitments.
+NRC FORM 366A (04-2017) Page 3 of 3

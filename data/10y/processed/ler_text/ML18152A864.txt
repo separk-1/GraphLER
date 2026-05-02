@@ -1,0 +1,197 @@
+•
+~Entergx Entergy Nuclear Operations, Inc.
+Pilgrim Nuclear Power Station
+600 Rocky Hill Road
+Plymouth, MA 02360
+May 14, 2018
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report 2018-004-00, Automatic Emergency Diesel Generator
+System Actuation Caused By Loss of Offsite Power
+Pilgrim Nuclear Power Station
+Docket No. 50-293
+Renewed License No. DPR-35
+LETTER NUMBER: 2.18.031
+Dear Sir or Madam:
+The enclosed Licensee Event Report 2018-004-00, Automatic Emergency Diesel Generator
+System Actuation Caused By Loss of Offsite Power, is submitted in accordance with Title 1O
+Code of Federal Regulations 50.73.
+If you have any questions or require additional information, please contact me at (508) 830-7127.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+I J : ~
+Peter J. er
+Manage Regulatory Assurance
+PJM/sc
+Attachment: Licensee Event Report 2018-004-00, Automatic Emergency Diesel Generator
+System Actuation Caused By Loss of Offsite Power
+Entergy Nuclear Operations, Inc. Letter No. 2.18.031
+Pilgrim Nuclear Power Station
+Page 2 of 2
+cc: Mr. David C. Lew
+Acting Regional Administrator, Region I
+U.S. Nuclear Regulatory Commission
+2100 Renaissance Blvd., Suite 100
+King of Prussia, PA 19406-2713
+Mr. John Lamb, Senior Project Manager
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 0-8C2A
+Washington, DC 20555-0001
+USNRC Senior Resident Inspector
+Pilgrim Nuclear Power Station
+Attachment
+Letter Number 2.18.031
+Licensee Event Report 2018-004-00, Automatic Emergency Diesel
+Generator System Actuation Caused By Loss of Offsite Power
+(3 Pages)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+r : ~~. ' LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+\ rf'J (See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+~4' ...... / Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number,
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D the NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 12. DOCKET NUMBER .PAGE
+Pilarim Nuclear Power Station 05000-293 1 OF3
+14. TITLE 2018-004-00, Automatic Emen:iencv Diesel Generator System Actuation Caused Bv Loss of Offsite Power
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR NIA 1\1/A
+FACILITY NAME DOCKET NUMBER
+03 13 2018 2018 - 004 00 05 14 2018
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that aoolv)
+N D 20.2201 (bl D 20.2203(a)(3)(il D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201 (d) D 20.2203(a)(3)(iil D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1 l D 20.2203(a)(4) D so.73(a)(2)(iiil D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) l:8l 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(iil D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D 20.2203(a)(2)(iii) D so.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(s)
+000 D 20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(il
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Mr. Peter J. Miner-Regulatory Assurance Manager 508-830-7127
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TOEPIX
+C FK y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE) C8] NO SUBMISSION DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 13, 2018 at approximately 10:02 am [EDT], with the reactor in Cold Shutdown, Pilgrim Nuclear
+Power Station experienced a loss of offsite power. The loss of both incoming 345KV lines to the Startup
+rTransformer and the loss of the 23KV line to the Shutdown Transformer were due to weather related
+conditions associated with Winter Storm Skylar. The loss of offsite power lasted long enough for the
+associated Startup Transformer relay to transmit a valid auto start signal to both Emergency Diesel
+Generators and trip the non-safety related buses A 1 through A4. There was minimal impact from this
+occurrence as the Emergency Diesel Generators had been started manually several hours prior to the
+auto start signal being received. The Emergency Diesel Generators were already providing power to the
+A5 and A6 Emergency Buses.
+rThis event is reportable per the requirements of Title 1O Code of Federal Regulations 50.73(a)(2)(iv)(A) due to
+~he receipt of a valid automatic start signal by the Emergency Diesel Generators.
+rThere was no impact to public health and safety.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017), .,Ill~
+Estimated burden per response to comply with this mandatory collection request: 80 hours, Reported
+lessons learned are incorporated into the licensing process and fed back to industry, Send
+/~:... LICENSEE EVENT REPORT (LER)
+• ' 'l comments regarding burden estimate to the Information Services Branch (T-2 F43), U,S, Nuclear
+.....
+~ / CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects,Resource@nrc,gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503, If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection,
+1. FACILITY NAME 2. DOCKET NUMBER · 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Pilgrim Nuclear Power Station 05000-293 NUMBER NO,
+2018 -004 -00
+BACKGROUND:
+rrhe station preferred Alternating Current (AC) power source (Startup Transformer) provides AC power to all
+station auxiliaries required for startup and shutdown and is normally in use when the unit AC power source is
+unavailable. The preferred AC power source is that power supply which furnishes electric energy under
+accident or post-accident conditions. At Pilgrim Nuclear Power Station (PNPS), this is an offsite power source
+(either of two 345KV lines) which supply power to the Startup Transformer.
+The station's auxiliary power system distributes AC power necessary for startup, operation, or shutdown of
+station loads. All portions of this system receive AC power from the unit AC power source or the preferred AC
+power source. The emergency service portions of this distribution system can also receive AC power from the
+secondary AC power source, the standby AC power source, or the station blackout AC power source.
+The standby AC power source provides two independent diesel generators as the onsite source of AC power to
+~he emergency service portions of the station Auxiliary Power Distribution System. Each onsite source provides
+AC power to safely shut down the reactor, maintain safe shutdown conditions, and operate all auxiliaries
+necessary for station safety.
+EVENT DESCRIPTION:
+On March 13, 2018 at approximately 10:02 am [EDT], with the reactor in Cold Shutdown, Pilgrim Nuclear
+Power Station experienced a loss of offsite power. The loss of both incoming 345KV lines to the Startup
+Transformer and the loss of the 23KV line to the Shutdown Transformer were due to weather related
+conditions associated with Winter Storm Skylar. The loss of offsite power (LOOP) lasted long enough for
+the associated Startup Transformer (SUT) relay to transmit a valid auto start signal to both Emergency
+Diesel Generators (EDGs) and trip the non-safety related buses A 1 through A4. There was minimal impact
+rom this occurrence as the EDGs had been started manually several hours prior to the auto start signal
+being received. The EDGs were already providing power to the A5 and A6 Emergency Buses.
+CAUSE OF THE EVENT:
+rrhe direct cause of the event was a loss of offsite power caused by Winter Storm Skyler.
+CORRECTIVE ACTIONS:
+The Corrective Actions taken as part of the Root Cause Evaluation for Winter Storm Juno have been
+evaluated and are acceptable at mitigating risk during severe winter storms. No changes to storm
+preparation or criteria in the procedure are required at this time. The actions taken prior to Winter Storm
+Skylar were proactive in ensuring power was available to Emergency Buses A5 and A6.
+rrhe Station will continue to interface with the transmission operator to improve reliability of 345 kV lines
+prior to storms that can cause a LOOP. The intent of this action is to confirm appropriate steps are being
+~aken prior to a storm to limit faults offsite on the 345 kV lines.
+NRG FORM 366A (04-2017) Page 2 of 3
+,--------
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR SEQUENTIAL REV
+Pilgrim Nuclear Power Station 05000-293 NUMBER NO.
+2018 -004 -00
+SAFETY CONSEQUENCES:
+rThe actual consequence was reliance on onsite emergency AC power to supply safety buses A5 and A6
+and the loss of normal service to buses A 1, A2, A3, and A4. There were no other actual consequences.
+The risk associated with the actual event was considered low because at the time of occurrence the unit
+was offline and safety systems were powered from their associated EDG via emergency buses A5 and
+A6. Since shutdown conditions in the severe weather procedure were met during the storm and a LOOP
+occurred, the procedural guidance was effective in ensuring power was available to appropriate Station
+loads.
+The risk associated with loss of buses A 1 through A4 was low. This is non-safety related equipment, but is
+needed for normal heat sink availability. The risk associated with reliance on onsite emergency AC power
+to supply safety buses A5 and A6 was low. This risk was low since the plant was in Cold Shutdown
+condition with decay heat removal having been previously established using equipment powered from the
+EDG supplied safety buses. In addition the Station Blackout-Diesel Generator remained available to
+provide partial power to Emergency Buses A5 or A6 loading if the respective EDG was lost.
+Therefore, based on the above information there was no adverse impact on the public health or safety.
+REPORTA BILITY:
+rThis event is reportable per the requirements of Title 1 O Code of Federal Regulations 50.73(a)(2)(iv)(A)
+due to the receipt of a valid automatic start signal by the EDGs.
+PREVIOUS EVENTS:
+LER 2015-001-00, Loss of 345KV Power Resulting in Automatic Reactor Scram During Winter Storm Juno
+LER 2013-009-00, Loss of Offsite Power and Reactor Scram
+LER 2013-003-00, Loss of Offsite Power Events Due to Winter Storm Nemo
+REFERENCES:
+CR-PNP-2015-00558
+CR-PNP-2018-02144
+NRC FORM 366A (04-2017) Page 3 of 3

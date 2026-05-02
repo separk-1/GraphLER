@@ -1,0 +1,211 @@
+Paul Fessler
+Senior Vice President and Chief Nuclear Officer
+DTE Energy Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.4153 Fax: 734.586.1431
+Email: Paul.Fessler@dteenergy.com
+DTE
+10 CFR 50.73
+March 1, 2019
+NRC-19-0011
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2019-001
+Pursuant to 10 CFR 50.73(a)(2)(v)(C) and (D), DTE Electric Company (DTE) is
+submitting LER No. 2019-001, Unplanned Loss of Safety Function of Gland Seal
+Exhauster Trip During Planned Maintenance Due to Inadequate Procedure.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Paul essl r
+Senior Vice President and CNO
+Enclosure: Licensee Event Report No. 2019-001, Unplanned Loss of Safety Function
+of Gland Seal Exhauster Trip During Planned Maintenance Due to
+Inadequate Procedure
+USNRC
+NRC-19-0011
+Page 2
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-19-0011
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2019-001
+Unplanned Loss of Safety Function of Gland Seal Exhauster Trip
+During Planned Maintenance Due to Inadequate Procedure
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1.Facility Name 2.Docket Number 3.Page
+Fermi 2 05000 341 1 OF 3
+4.Title
+Unplanned Loss of Safety Function of Gland Seal Exhauster Trip During Planned Maintenance Due to Inadequate Procedure
+5.Event Date 6.LER Number 7.Report Date 8.Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A 05000
+01 01 2019 2019 - 001 - 00 03 01 2019 Facility Name Docket Number
+N/A 05000
+9.Operating Mode 11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+2
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10.Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) ✔ 50.73(a)(2)(v)(C) 73.77(a)(1)
+005 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) ✔ 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Fermi 2 / Scott A. Maglio – Manager, Nuclear Licensing (734) 586-5076
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14.Supplemental Report Expected Month Day Year
+15.Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ✔ No
+Abstract(Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 1/1/2019, while performing planned maintenance on the Feedwater Distributed Control System (FW DCS) at 5 percent
+power, it was discovered that the automatic trip instrumentation of the Gland Seal Exhauster (GSE) was inoperable. The
+automatic GSE trip function is a documented assumption in the safety analysis for the Control Rod Drop Accident and is required
+by Technical Specification (TS) 3.3.7.3 when reactor thermal power is less than or equal to 10 percent. The automatic trip
+function of the GSE was inoperable for 1 minute 19 seconds.
+The impact on the GSE trip function during implementation of the site procedures and the applicable work order was
+inadequately documented prior to starting the planned maintenance on the FW DCS. The unplanned inoperability of the GSE trip
+function is reportable under 10 CFR 50.73(a)(2)(v)(C) and (D). There was no adverse impact to public health and safety or to
+plant employees and there were no radiological releases.
+The cause of the GSE trip inoperability resulted from inadequate procedural guidance during planned maintenance on the FW
+DCS. GSE trip operability was restored automatically by FW DCS without any required actions. Site procedures were revised on
+or before January 11, 2019 to describe the impact of the FW DCS on the GSE trip and reference the applicable TS.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2019 - 001 - 00
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode – 2
+Reactor Power – 5 percent
+DESCRIPTION OF THE EVENT
+On January 1, 2019 at approximately 0454 EST, while the Feedwater Distributed Control System (FW DCS) [[SJ, JK]] was
+being rebooted under a planned maintenance work order (WO), it was discovered that the required automatic trip
+instrumentation of the Gland Seal Exhauster (GSE) [[FAN]] [[TC]] was inoperable. The automatic GSE trip is assumed in
+the safety analysis for the Control Rod Drop Accident (CRDA) and is required by Technical Specification (TS) 3.3.7.3,
+“Gland Seal Exhauster (GSE) Trip Instrumentation,” when reactor thermal power is less than or equal to 10 percent rated
+thermal power (RTP).
+The automatic trip function of the GSE was inoperable for 1 minute, 19 seconds. No control rod movement occurred while
+the automatic trip of the GSE was inoperable.
+Per TS 3.3.7.3, the GSE trip instrumentation is required to be operable in Modes 1 and 2 when any GSE is in service, any
+main steam line is not isolated, and reactor thermal power is less than or equal to 10 percent RTP. The GSE trip
+instrumentation initiates a trip of the GSE breakers following events in which radiation in the main steam lines exceeds a
+predetermined value. Tripping the GSEs limits the offsite and control room doses in the event of a postulated CRDA. If a
+postulated CRDA were to occur in Modes 1 or 2 with a GSE in service, the main steam lines not isolated, and with reactor
+thermal power less than or equal to 10 percent RTP, radiological dose consequences from the CRDA could exceed those
+considered in the Updated Final Safety Analysis Report (UFSAR). Therefore, the GSE trip is credited to ensure
+conformance with the radiological evaluation of the CRDA in the UFSAR. Above 10 percent RTP, the postulated effects of
+a CRDA are not sufficient to cause fuel damage such that the GSE trip is not required.
+The TS Limiting Condition for Operation (LCO) 3.3.7.3 Condition B requires GSE trip capability to be restored within 1
+hour if lost. During the FW DCS maintenance activity on January 1, 2019, the automatic trip function of the GSE was
+inoperable for 1 minute, 19 seconds, which met the TS LCO requirement. The GSE trip capability was restored
+automatically when the FW DCS finished rebooting; no operator action was required.
+The reboot of the FW DCS on January 1, 2019 was a planned maintenance activity to restore failed steam line flow
+signals. The Rod Worth Minimizer (RWM) and GSE control logic both receive feedwater and steam flow digital input from
+the FW DCS. Site procedures at the time of event explicitly discussed the impact of the FW DCS input on the RWM, but
+failed to describe the impact on the GSE trip instrumentation. The impact on the RWM was therefore planned before the
+start of the maintenance activity on the FW DCS and the applicable RWM TS LCO was entered in advance of the FW
+DCS reset. Since impact on the GSE was not identified in advance, entry into the GSE TS LCO 3.3.7.3 was not performed
+before beginning the FW DCS maintenance activity. The inoperability of the GSE trip function was immediately recognized
+when the FW DCS was rebooted based on panel indications in the Main Control Room, and GSE TS LCO 3.3.7.3 was
+then entered promptly.
+The unplanned inoperability of the GSE trip function is reportable under 10 CFR 50.73(a)(2)(v)(C) and (D) as an event or
+condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to control
+the release of radioactive material, and mitigate the consequences of an accident, respectively. An 8-hour non-emergency
+Event Notification (EN 53811) was previously made under the corresponding requirement in 10 CFR 50.72(b)(3)(v)(C) and
+(D).
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2019 - 001 - 00
+NARRATIVE
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+The GSE trip was declared inoperable for a very short period during the planned maintenance evolution to reset the FW
+DCS. The reset of FW DCS was a planned maintenance activity and performed in accordance with site procedures. The
+FW DCS and GSE trip systems both functioned as expected per design. In addition, the relevant TS for RWM and the
+GSE trip were entered and required actions were performed as applicable. No TS allowable times were exceeded during
+the event.
+As described above, no control rod movement took place during the time that the GSE trip was inoperable. This
+compensatory measure due to planned inoperability of RWM would reduce the probability of CRDA occurrence.
+Engineering evaluation of the control rod positions at the time of event determined that the control rod worths were
+insufficient to result in fuel damage even if a postulated CRDA had occurred.
+In addition, although the GSE trip was inoperable, engineering evaluation determined that plant conditions at the time met
+the regulatory limits even without crediting a GSE trip. Specifically, with the plant at 5.2% power, with control room
+emergency filtration (CREF) operable, and with a delay time since last shutdown of approximately 24 days, doses were
+well within regulatory limits without any reliance on the GSE trip. For this reason, the GSE trip was not necessary to
+perform any safety function during the brief period, 1 minute 19 seconds, when it was inoperable on January 1, 2019
+during the FW DCS reset for maintenance.
+Therefore, there was no adverse impact to public health and safety or to plant employees. There were no radiological
+releases.
+CAUSE OF THE EVENT
+The cause of the unplanned GSE inoperability was the interruption of the steam and feedwater flow signals used by the
+GSE instrumentation due to the planned maintenance activity for FW DCS reset.
+The cause of the GSE trip inoperability being unplanned was that the impact on the automatic trip instrumentation for the
+GSE, while halting the FW DCS processors, was not fully documented in site procedures and the applicable WO prior to
+implementation of the WO. Although there were procedures for the FW DCS that included the impact on the RWM, there
+was no procedural guidance that addressed the impact on the GSE trip function or that referenced the applicable GSE trip
+TS LCO 3.3.7.3.
+There were no component failures during this event.
+CORRECTIVE ACTIONS
+No corrective action was required to restore GSE trip operability; operability was automatically restored by design upon
+successful restart of FW DCS.
+Station alarm response and system operating procedures were revised on or before January 11, 2019 to explicitly
+reference the impact of the FW DCS on the GSE trip and provide explicit reference to TS 3.3.7.3. These procedure
+revisions provide guidance to address the potential impacts of FW DCS maintenance activities on the GSE trip function
+and relevant TS. An additional future action includes revision of the applicable maintenance procedure.
+PREVIOUS OCCURRENCES
+No previous site occurrences of reportable conditions were identified with the GSE trip function.
+NRC FORM 366A (04-2018) Page 3 of 3

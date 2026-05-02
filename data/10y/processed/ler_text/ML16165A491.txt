@@ -1,0 +1,221 @@
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604288 10CFR50.73
+June 10, 2016 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2016-006-00
+Enclosed is Licensee Event Report (LER) 2016-006-00: Missed Surveillance Results in a
+Condition Prohibited by Technical Specifications. This report is being submitted in
+accordance with the requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: Licensee Event Report 2016-006-00
+cc:
+Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+~r)J-"~11£0"'•.., Estimated burden per response to comply with this mandatory collection request: 80 hours.
++ o~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+..t
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+•••• ti internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+digits/characters for each block) DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. TITLE
+Missed Surveillance Results in a Condition Prohibited by Technical Specifications
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+MONTH DAY YEAR YEAR I SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME 050 D 0 O 0 C KET NUMBER
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+-
+04 21 2016 2016 - 006 00 06 10 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D 0 0
+20.2201(bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D 0 0
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D 0
+20.2203(a)(1 l 20.2203(a)(4) so. 13(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D 0 0 0
+20.2203(a)(2)(il 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 0 D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50-73(a)(2)(v)(A) 13.11(a)(4l
+D D 0 D
+20.2203(al<2><m> so.3a(c><2> 50.73(a)(2)(v)(B) 13.11<a><s>
+0 D 0 D
+20.2203(a)(2)(iv) so.4a(a)(3)(iil 50.73(a)(2)(v)(C) 13.11(a)(1)
+0 0 D
+085 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) Oso.7 3(a)(2)(v)(D) 13.11<a><2l<i>
+0 20.2203(a)(2)(vi) [8l 50.73(a)(2)(i)(B) 0 50.73(a)(2)(vii) D 13_11(a)(2)(ii)
+.., ' "' 0 D
+'" " 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217-937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8l NO SUB D M A IS TE S ION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 21, 2016, in preparation to reduce power in order to restore the 'B' turbine driven reactor feed pump (TDRFP)
+Operations detected that Technical Specification (TS) Surveillance Requirement (SR) 3.3.2.1.2 had not been performed
+eight days earlier. On April 13, 2016 Operations lowered reactor power below the Control Rod Withdrawal Limiter (RWL)
+High Power Setpoint (HPSP) to remove 'B' TDRFP from service due to high vibrations. TS SR 3.3.2.1.2 requires a
+functional test of the 4-Notch Control Rod Withdraw Limit of the RWL within one hour of resetting the HPSP during a
+power reduction; if it has not been completed within the previous 92 days. The SR was last performed on April 26th,
+2015 and was required to be performed on April 13, 2016. TS 3.3.2.1 Required Action A.1 requires with one or more
+RWL channels inoperable, to immediately suspend control rod withdrawal. Contrary to this requirement, control rods
+were withdrawn to restore power above the HPSP following restoration of the 'B' TDRFP to service. The cause of the
+event was that the SRO responsible for the down power on April 13, 2016 did not validate, by preventative maintenance
+identifier (PMID), that the required surveillance was current. Corrective actions included applying Management
+Associated Results Company, Inc. (MARC) principles to the individuals involved.
+NRC FORM 366 (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017.
+(02-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours .
+•~ ¢VP.•£011"'~q,.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+! i Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~ Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+..... / LICENSEE EVENT REPORT {LER) internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRG may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. I.ER NUMBER 3. PAGE
+I
+YEAR I SE N Q U U M E B N E T R IA L R N E O V .
+Clinton Power Station, Unit 1 05000461 2 OF 4
+2016 - 006 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX]
+EVENT IDENTIFICATION
+Missed Surveillance Results in a Condition Prohibited by Technical Specifications
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 04/21/16 Event Time: 1709
+Mode: 1 Mode Name: Power Operation Reactor Power: 85 percent
+B. DESCRIPTION OF EVENT
+At 1709 hours (CDT) on April 21, 2016, in preparation to reduce power in order to restore the 'B'
+turbine driven reactor feed pump (TDRFP) to service, Operations discovered that Technical
+Specification (TS) Surveillance Requirement (SR) 3.3.2.1.2 had not been performed eight days
+earlier. On April 13, 2016 Operations lowered reactor power below the Control Rod Withdrawal
+Limiter (RWL) High Power Setpoint (HPSP) (approximately 66% rated thermal power)'to
+remove 'B' TDRFP from service due to high vibrations. TS SR 3.3.2.1.2 requires a functional
+test of the 4-Notch Control Rod Withdraw Limit of the RWL within one hour of resetting the
+HPSP during a power reduction; if it has not been completed within the previous 92 days. The
+SR was last performed on April 25th, 2015 and, therefore, was required to be performed, TS
+3.3.2.1 Required Action A.1 requires with one or more RWL channels inoperable, to
+immediately suspend control rod withdrawal. Contrary to this requirement, control rods were
+withdrawn to restore reactor power above the HPSP following restoration of the 'B' TDRFP to
+service.
+The RWL provides protection from control rod withdrawal errors above the Low Power Setpoint
+(LPSP) {29.2% rated thermal power). Above the LPSP and below the HPSP, the RWL initiates
+a control rod withdrawal block every 4 notches. Above the HPSP, the RWL initiates a control
+rod withdrawal block every 2 notches. TS SR 3.3.2.1.2 requires a functional test every 92 days
+of the 4-Notch Control Rod Withdraw Limit when operating above the LPSP but below the
+HPSP, and TS SR 3.3.2.1.1 requires a functional test of the 2-Notch Control Rod Withdraw Limit
+every 92 days when operating above the HPSP.
+Both of the RWL Functional tests are performed by Clinton Power Station (CPS) surveillance
+procedure CPS 9014.01, RPC System Withdrawal Limitation Test. However each SR has a
+unique Preventative Maintenance Identification Number (PMI D) which is listed in the integrated
+operating procedures to support determining whether the SR had been performed within the last
+92 days when reactor power is lowered below the HPSP.
+NRG FORM 366A {02-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+I
+YEAR I SE N Q U U M E B N E T R IA L R N E O V .
+Clinton Power Station, Unit 1 05000461 3 OF 4
+2016 006 - 00
+NARRATIVE
+A review of this event determined that a Senior Reactor Operator (SRO) erroneously identified
+on April 13, 2016 that the previous performance of TS 3.3.2.1.2 surveillance test procedure CPS
+9014.01 was satisfactorily executed on March 4, 2016 based on a review of the operating logs
+rather than a review of the Passport PMID. However, as identified above, this procedure tests
+both the 2-Notch Rod Withdraw Limit (i.e., SR 3.3.2.1.1) and the 4-Notch Control Rod Withdraw
+Limit (i.e., SR 3.3.2.1.2). The March 4, 2016 performance of CPS 9104.01 only tested the 2-
+Notch Control Rod Withdraw Limit. As part of the shift turnover, the SRO communicated the
+work order which documented the last performance of CPS 9014.01 on March 4, 2016 to the
+incoming SRO responsible for directing the power reduction. However, the work order identified
+by the SRO tested only the 2-Notch surveillance test (SR 3.3.2.1.1) and not the required 4-
+Notch surveillance test (SR 3.3.2.1.2).
+When the power reduction process commenced following shift turnover, the responsible SRO
+only verified that the above work order was complete. He did not verify, by PMID, that results for
+the required 4-Notch surveillance test (SR 3.3.2.1.2) were current. The failure to verify by PMID
+that the required surveillance was current was identified as the apparent cause of this event.
+C. CAUSE OF EVENT
+The SRO responsible for the down power on April 13, 2016 did not validate, by PMID, that the
+required surveillance (i.e., SR 3.3.2.1.2) was current. This personnel error resulted in the
+missed surveillance and subsequent violation of TS 3.3.2.1 Required Action A.1. A
+performance analysis (PA) was conducted to determine if there was a possible training
+contributor to this event. This PA concluded that there was no knowledge issue and no training
+actions were required.
+D. SAFETY ANALYSIS
+There were no safety consequences involved with the condition described in this report.
+TS SR 3.3.2.1.2 required that the channel functional test be performed within 1 hour of thermal
+power less than HPSP. The 4-Notch Control Rod Withdraw Limit Test surveillance (SR
+3.3.2.1.2) was not performed on April 13, 2016 due to a human performance error. This
+condition did not adversely impact the function of plant systems, structures, or components or
+the capability to safely shut the reactor down the reactor. Subsequent performance of this test
+on April 21, 2016 confirmed that the 4-notch limiter was operable throughout this event.
+The reactor protection system (RPS) is designed to initiate a rapid, automatic shutdown of the
+reactoL It acts in time to prevent fuel cladding damage and any nuclear system process barrier
+damage following abnormal operational transients. The RPS overrides all operator actions and
+process controls and is based on a fail-safe design philosophy that allows appropriate protective
+action even if a single failure occurs.
+NRC FORM 366A (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(02-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER I 3. PAGE
+I SEQUENTIAL REV
+YEAR NUMBER NO.
+Clinton Power Station, Unit 1 05000461 4 OF 4
+2016 006 00
+NARRATIVE
+There are no known single malfunctions that can cause the unplanned withdrawal of even a
+single control rod. However, if multiple malfunctions are postulated, studies show that an
+unplanned control rod withdrawal can occur at withdrawal speeds that vary with the combination
+of malfunctions postulated. In all cases the subsequent withdrawal speeds are less than that
+assumed in the control rod drop accident analysis as discussed in USAR Chapter 15, "Accident
+Analyses". Therefore, the physical and radiological consequences of such control rod
+withdrawals are less than those analyzed in the control rod drop accident.
+It is concluded that there was no reduction to the health and safety of the public resulting from
+the condition described in this report.
+E. CORRECTIVE ACTIONS
+Management Associated Results Company, Inc. (MARC) principles were applied to the
+individuals involved.
+F. PREVIOUS SIMILAR OCCURENCES
+There are no previous occurrences involving a missed TS SR 3.3.2.1.2 (4-Notch surveillance test)
+for the Control Rod Withdrawal Limiter ..
+G. COMPONENT FAILURE DATA
+There was no component failure associated with this event.
+NRG FORM 366A (11-2015)

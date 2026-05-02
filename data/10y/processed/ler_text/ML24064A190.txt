@@ -1,0 +1,541 @@
+~ ~ DUKE 
+~ ENERGY~ 
+RA-24-0068 
+March 4, 2024 
+U.S. Nuclear Regulatory Commission 
+Attention: Document Control Desk 
+Washington, D.C. 20555 
+Subject: 
+Duke Energy Carolinas, LLC 
+Catawba Nuclear Station, Units 1 and 2 
+Docket Nos. 50-413, 50-414 
+Licensee Event Report (LER) 2024-001-00 
+Nicole Flippin 
+Vice President 
+Catawba Nuclear Station 
+Duke Energy 
+CN01VP 14800 Concord Road 
+York, SC 29745 
+o: 803.701 .3340 
+Nicole.flippin@duke-energy.com 
+10 CFR 50.73 
+Pursuant to 10 CFR 50.73(a)(1) and (d), attached is LER 2024-001-00, entitled "Condition 
+Prohibited by Technical Specifications and Loss of Safety Function due to Failed Damper 
+Controller for the 2A1 Emergency Diesel Generator Room Ventilation Fan." 
+This report is being submitted in accordance with 10 CFR 50. 73(a)(2)(i)(B) and 10 CFR 
+50.73(a)(2)(v)(A), (B), and (D). 
+There are no regulatory commitments contained in this letter or its attachment. 
+There was no impact to the health and safety of the public. 
+Please direct any questions or concerns to Sherry Andrews, Sr. Engineer, at (803) 701-3424. 
+Sincerely, 
+Nicole Flippin 
+Vice President, Catawba Nuclear Station 
+Attachment 
+www.duke-energy.com 
+
+U.S. Nuclear Regulatory Commission 
+RA-24-0068 
+March 4, 2024 
+Page2 
+xc (with attachment): 
+Laura Dudes, Region II Administrator 
+U.S. Nuclear Regulatory Commission 
+Marquis One Tower 
+245 Peachtree Center Ave., NE Suite 1200 
+Atlanta, GA 30303 
+Shawn Williams, Project Manager 
+U.S. Nuclear Regulatory Commission 
+11555 Rockville Pike 
+Mailstop O-881A 
+Rockville, MD 20852 
+David Rivard (without enclosure) 
+NRG Senior Resident Inspector 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 03/31/2024 
+(10-01-2023) 
+Estimated burden per response to comply with this mandatOf}' collection request 80 hours. Reported lessons 
+/ ¥r'"'•,:\ 
+LICENSEE EVENT REPORT (LER) 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear RegulatOf}' 
+~ 
+~ 
+Commissk>n, Washington, DC 2055,-0001 , or by email to lnfocollects.Resource@nrc.gov, and the 0MB reviewer 
+\~ '!/j 
+(See Page 2 for required number of digits/characters for each block) 
+at 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear RegulatO<Y 
+. . 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+Coovrission, 725 17th Street NW, Washington, DC 20503; email: oira submssion@omb.eop.gov. The NRC may 
+....... 
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3!) 
+not conduct or sponsor, and a person is not required to respond to, a colection of informaton unless the document 
+requesting or requiring the colection displays a currently valid 0MB control number. 
+1. Facility Name 
+0 
+050 
+2. Docket Number 
+3.Page 
+Catawba Nuclear Station, Unit 2 
+□ 052 
+00414 
+1 OF 5 
+4. Title 
+Condition Prohibited by Technical Specifications and Loss of Safety Function due to Failed Damper Controller for the 
+2A 1 Emergency Diesel Generator Room Ventilation Fan 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Sequential 
+Revision 
+Facility Name 
+0 
+Docket Number 
+Month 
+Day 
+Year 
+Year 
+Number 
+No. 
+Month 
+Day 
+Year 
+Catawba, Unit 1 
+050 
+00413 
+01 
+02 
+2024 
+2024 
+001 
+00 
+03 
+04 
+2024 
+Facility Name 
+□ 
+Docket Number 
+-
+-
+052 
+9. Operating Mode 
+10. Power Level 
+1 
+100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+10 CFR Part 20 
+D 20.2203(a)(2)(vi) 
+10 CFR Part 50 
+□ 
+50.73(a)(2)(ii)(A) 
+D 50.73(a)(2)(viii)(A) D 73.1200(a) 
+□ 
+20.2201(b) 
+D 20.2203(a)(3)(i) 
+□ 
+50.36(c)(1)(i)(A) 
+□ 
+50.73(a)(2)(ii)(B) 
+D 50.73(a)(2)(viii)(B) 
+□ 
+73.1200(b) 
+□ 
+20.2201(d) 
+D 20.2203(a)(3)(ii) 
+□ 
+50.36(c)(1 )(ii)(A) 
+D 50.73(a)(2)(iii) 
+D 50.73(a)(2)(ix)(A) D 73.1200(c) 
+D 20.2203(a)(1) 
+D 20.2203(a)(4) 
+D 50.36(c)(2) 
+D 50.73(a)(2)(iv)(A) 
+D 50.73(a)(2)(x) 
+□ 
+73.1200(d) 
+D 20.2203(a)(2)(i) 
+10 CFR Part 21 
+D 50.46(a)(3)(ii) 
+0 50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+□ 
+73.1200(8) 
+D 20.2203(a)(2)(ii) 
+D 21.2(c) 
+□ 
+50.69(9) 
+0 50.73(a)(2)(v)(B) 
+D 73.77(a)(1) 
+□ 
+73.1200(f) 
+D 20.2203(a)(2)(iii) 
+□ 
+50.73(a)(2)(i)(A) 
+D 50.73(a)(2)(v)(C) 
+D 73.77(a)(2)(i) 
+□ 
+73.1200(9) 
+D 20.2203(a)(2)(iv) 
+0 50.73(a)(2)(i)(B) 
+0 50.73(a)(2)(v)(D) 
+D 73.77(a)(2)(ii) 
+□ 
+73.1200(h) 
+D 20.2203(a)(2)(v) 
+□ 
+50.73(a)(2)(i)(C) 
+D 50.73(a)(2)(vii) 
+D OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+I
+Phone Number (Include area code) 
+Sherry Andrews, Senior Engineer, Regulatory Affairs 
+803-701-3424 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+8 
+VJ 
+TC 
+L321 
+YES 
+14. Supplemental Report Expected 
+Month 
+Day 
+Year 
+~ No 
+D Yes (If yes, complete 15. Expected Submission Date) 
+15. Expected Submission Date 
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On January 2, 2024, the 2A Emergency Diesel Generator (DG) was unloaded and secured prior to the completion of a 
+periodic 5-hour run due to rising temperatures and air quality conditions in the 2A DG room. It was determined that the 2A1 
+Emergency Ventilation Fan Damper Controller was failed and did not allow the normal amount of outside air to circulate into 
+the room. Additionally, the 2A2 Emergency Ventilation Fan was out of service in support of maintenance activities. As a 
+result, 2A DG room temperatures increased to an off-normal level less than the alarm setpoint. The 2A DG was declared 
+inoperable until the degraded damper controller was repaired. 
+Further investigation revealed Catawba Nuclear Station had evidence the condition of the failed 2A 1 Damper Controller, 
+combined with the out of service 2A2 Ventilation Fan, had existed since December 5, 2023. A review performed for the 
+timeframe between December 5, 2023, and January 2, 2024, identified the 2A DG VD system was non-functional during 
+this time, resulting in the 2A DG being inoperable. This resulted in instances which represented conditions prohibited by 
+Technical Specifications, and instances of a loss of safety function. There was no impact to the health and safety of the 
+public. 
+
+NRC FORM 366A 
+(10-01-2023) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 03/31/2024 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) 
+1. FACILITY NAME 
+Catawba Nuclear Station, Units 1 and 2 
+NARRATIVE 
+BACKGROUND 
+■ 050 
+□ 052 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001 , 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Offcer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 
+20503; email: 
+oira submission@omb.eop.gov. 
+The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00413, 00414 
+2024 -
+3. LER NUMBER 
+SEQUENTIAL 
+NUMBER 
+001 
+REV 
+NO. 
+00 
+The following information is provided to assist readers in understanding the event described in this LER. 
+Applicable Energy Industry Identification System [EIIS] and component codes are enclosed within brackets. 
+Catawba's unique system and component identifiers are contained within parentheses. 
+!This event is being reported under 10 CFR 50. 73(a)(2)(i)(B) for condition prohibited by Technical Specifications 
+(TS) and 10 CFR 50. 73(a)(2)(v)(A), (B), and (D) for an event or condition that could have prevented the fulfillment 
+of a Safety Function. 
+The onsite standby power source for each 4160 volt Engineered Safety Features (ESF) bus at Catawba is a 
+dedicated Diesel Generator (DG)[EK]. For each unit, DGs A and Bare dedicated to ESF buses ETA and ETB, 
+respectively. Each DG starts automatically on a Safety Injection (SI) signal (i.e., low pressurizer pressure or high 
+containment pressure) or on an ESF bus degraded voltage or undervoltage signal. After the DG has started, it will 
+automatically tie to its respective bus after offsite power is tripped as a consequence of ESF bus undervoltage or 
+degraded voltage, independent of or coincident with an SI signal. The DGs will also start and operate in the 
+standby mode without tying to the ESF bus on an SI signal alone. Following the trip of offsite power, a sequencer 
+strips loads from the ESF bus. When the DG is tied to the ESF bus, loads are then sequentially connected to its 
+respective ESF bus by the automatic load sequencer. In the event of a loss of preferred power, the ESF electrical 
+loads are automatically connected to the DGs in sufficient time to provide for safe reactor shutdown and to 
+mitigate the consequences of a Design Basis Accident such as a Loss of Coolant Accident (LOCA). 
+There are also provisions to accommodate the connecting of the Emergency Supplemental Power Source (ESPS) 
+~o one train of either unit's Class 1 E AC Distribution System (ESF). The ESPS consists of two 50% capacity non-
+safety related commercial grade DGs. Manual actions are required to align the ESPS to the station and only one 
+of the station's four onsite Class 1 E Distribution System trains can be supplied by the ESPS at any given time. 
+The ESPS is made available to support extended Completion Times in the event of an inoperable DG as well as a 
+defense-in-depth source of AC power to mitigate a station blackout event. The ESPS would remain disconnected 
+rom the Class 1 E AC Distribution System unless required for supplemental power to one of the four 4.16 kV ESF 
+buses. 
+The primary purpose of the Diesel Building Ventilation System (VD)[VJ] is to maintain the temperature within 
+~he minimum and maximum limits for operation of equipment and personnel access for inspection, testing, and 
+maintenance. The ESF Actuation System actuates the Diesel Building Ventilation System to maintain proper 
+ventilation of the Diesel Building for equipment operation. The Diesel Generator Emergency Ventilation portion 
+of the VD System is required to maintain the Diesel Building temperature between 60 and 120-degrees 
+Fahrenheit during any Design Basis Event (such as a LOCA) coincident with a Loss of Offsite Power (LOOP). 
+Emergency Ventilation Fans 2A 1 and 2A2 automatically start when the 2A DG starts. 
+NRG FORM 366A (10-01-2023) 
+Page_2_ of _5_ 
+
+NRC FORM 366A 
+(10-01-2023) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 03/31/2024 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. nrc. gov/read ing-rm/d oc-collections/nuregs/staff/sr1 022/r3/) 
+1. FACILITY NAME 
+■ 050 
+Catawba Nuclear Station, Units 1 and 2 
+□ 052 
+NARRATIVE 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 
+0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Offcer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 
+20503; email: 
+oira submission@omb.eop.gov. 
+The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+SEQUENTIAL 
+REV 
+00413, 00414 
+NUMBER 
+NO. 
+2024 -
+001 
+-
+00 
+Catawba TS 3.8.1 governs the DGs for each unit that is in Modes 1, 2, 3, and 4. Limiting Condition for Operation 
+(LCO) 3.8.1 (b) requires two operable DGs capable of supplying the Onsite Essential Auxiliary Power Systems. 
+With one LCO 3.8.1 (b) DG inoperable, the inoperable DG must be restored to operable status within 72 hours per 
+Required Action 8.6. LCO 3.8.1 (d) requires two DGs from the opposite unit necessary to supply power to the 
+shared systems and the Nuclear Service Water System (NSWS) pump(s). With one LCO 3.8.1 (d) DG inoperable, 
+the inoperable DG must be restored to operable status within 72 hours per Required Action D.6. Additionally, both 
+Conditions 8 and D contain 4-hour actions to declare supported systems inoperable upon discovery of the 
+inoperability of redundant required features concurrent with DG inoperability, Conditions 8.3 and D.3 respectively. 
+If an inoperable DG is not restored to operable status within 72 hours, the unit must be placed in Mode 3 within 6 
+hours and in Mode 5 within 36 hours per LCO 3.8.1 Required Actions 1.1 and 1.2. 
+In order to extend the Completion Time for an inoperable DG from 72 hours to 14 days, it is necessary to ensure 
+lhe availability of the ESPS within 1 hour of entry into TS 3.8.1 LCO and every 12 hours thereafter. 
+Catawba TS 3. 7 .1 0 governs the Control Room Area Ventilation System (CRA VS). LCO 3. 7.10 requires two 
+CRAVS trains operable in Modes 1 through 6. Condition F states to enter LCO 3.0.3 immediately when two trains 
+of CRAVS are inoperable in Mode 1, 2, 3, or 4 for reasons other than Condition 8. 
+Catawba TS 3.7.11 governs the Control Room Area Chilled Water System (CRACWS). LCO 3.7.11 requires two 
+CRACWS trains operable in Modes 1 through 6. Condition E states to enter LCO 3.0.3 immediately when two 
+lrains of CRACWS are inoperable in Mode 1, 2, 3, or 4. 
+~t the time this condition was identified, Catawba Units 1 and 2 were operating in Mode 1 at approximately 100 
+percent power. No additional significant structures, systems or components were out of service at the time of this 
+event that contributed to this event. 
+EVENT DESCRIPTION 
+On January 2, 2024, at approximately 1440, the 2A Emergency Diesel Generator (DG) was unloaded and 
+secured prior to the completion of a periodic 5-hour run due to rising temperatures and air quality conditions in the 
+room. It was determined the 2A 1 Emergency Ventilation Fan Damper Controller was failed and did not allow the 
+normal amount of outside air to circulate into the room. Additionally, the 2A2 Emergency Ventilation Fan was out 
+of service in support of maintenance activities. As a result, 2A DG room temperatures increased to an off-normal 
+level less than the alarm setpoint. The DG room ventilation systems are design features and thus their 
+Junctionality impacts the operability of the DG system. The 2A DG was declared inoperable until the failed damper 
+controller was repaired. 
+A review of historical room temperatures from the operator aid computer (OAC) for the 2A DG revealed Catawba 
+Nuclear Station had evidence the failed condition with the 2A1 Emergency Ventilation Fan Damper Controller, 
+combined with the out of service 2A2 Emergency Ventilation Fan, had existed since December 5, 2023. 
+herefore, the 2A DG was inoperable between December 5, 2023, and January 2, 2024. 
+NRC FORM 366A (10-01-2023) 
+Page_3_ of _5_ 
+
+NRC FORM 366A 
+(10--01-2023) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 03/31/2024 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-mi/doc-collections/nuregs/staff/sr1022/r3/) 
+1. FACILITY NAME 
+■ 050 
+Catawba Nuclear Station, Units 1 and 2 
+□ 052 
+NARRATIVE 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Ubrary, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 
+0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: 
+Desk Officer tor the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 
+20503; email: 
+oira submission@omb.eop.gov. 
+The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+SEQUENTIAL 
+REV 
+00413, 00414 
+NUMBER 
+NO. 
+2024 -
+001 
+-
+00 
+~ review performed for this timeframe identified that the 2A DG exceeded Required Actions and allowable 
+Completion Times of TS 3.8.1, Condition 8.6 for Unit 2, Condition D.6 for Unit 1, and Conditions 1.1 and 1.2 for 
+both Units 1 and 2. This represents an "operation or condition prohibited by Technical Specifications" reportable 
+under 10 CFR 50.73(a)(2)(i)(8) for both Units 1 and 2. 
+Additionally, instances were identified that represent a "condition that could have prevented fulfillment of a safety 
+function" reportable under 10 CFR 50. 73(a)(2)(v). At the time of discovery on January 2, 2024, the 28 DG and all 
+shared and Unit 2 supported systems were operable. 
+On December 19, 2023, from 0302 until 0445, and 0904 until 1112, the 28 DG was declared inoperable in 
+support of planned testing. Therefore, this represents a "condition that could have prevented fulfillment of a safety 
+unction" reportable under 10 CFR 50.73(a)(2)(v) for Unit 2. 
+From December 17, 2023, at 1543, until December 19, 2023, at 2057, the 8 Train CRAVS and 8 Train CRACWS 
+shared systems were declared inoperable for planned maintenance. LCO 3.8.1, Condition D, Required Action 
+0.3, directs declaring shared systems supported by the inoperable 2A DG inoperable 4 hours from discovery of 
+inoperability of redundant required features. Therefore, A Train CRA VS and CRACWS were inoperable on 
+December 17 at 1943. LC Os 3. 7 .10 (CRA VS) Condition F and 3. 7 .11 (CRACWS) Condition E require immediate 
+entry into LCO 3.0.3 for two inoperable trains. This condition represents a "condition that could have prevented 
+~ulfillment of a safety function" reportable under 10 CFR 50. 73(a)(2)(v), and an "operation or condition prohibit61Df 
+Technical Specifications" reportable under 1 O CFR 50. 73(a)(2)(i)(8) for Unit 1 and Unit 2. 
+CAUSAL FACTORS 
+The cause of the degraded 2A 1 Emergency Ventilation Fan Damper Controller was determined to be faulty 
+internal wiring. A failure analysis, which included a detailed disassembly and inspection, was performed on the 
+controller. The inspection identified internal wiring and soldering quality issues associated with the temperature 
+~ransmitter for the 2A 1 Emergency Ventilation Fan Damper Controller. 
+CORRECTIVE ACTIONS 
+1. Repaired and returned the 2A 1 damper controller to service. 
+2. Returned the 2A2 VD fan to service. 
+3. Evaluate improvements to the commercial grade dedication process for the damper controllers. 
+NRG FORM 366A (10-01 -2023) 
+Page_4_ of _5_ 
+
+NRC FORM 366A 
+(10-01-2023) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 03/31/2024 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. nrc. gov/read ing-rm/d oc-collections/n uregs/staff/sr1 022/r3/) 
+1. FACILITY NAME 
+■ 050 
+Catawba Nuclear Station, Units 1 and 2 
+□ 052 
+NARRATIVE 
+SAFETY ANALYSIS 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 
+0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: 
+Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 
+20503; email: 
+oira submission@omb.eop.gov. 
+The NRG may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+SEQUENTIAL 
+REV 
+00413, 00414 
+NUMBER 
+NO. 
+2024 -
+001 
+-
+00 
+!This event did not result in a plant transient, radiological release, or other challenge to normal plant operation to 
+cause any impacts to the public health and safety. Catawba Units 1 and 2 have a considerable level of defense-
+in-depth besides having two DG trains. The ESPS provides a means to restore AC power to the 2A Essential Bus 
+(2ETA) if the 2A DG failed to run. Similarly, another recovery action is the ability to align offsite power from Unit 1 
+if available via the Shared Auxiliary Transformer SATA. The Safe-Shutdown Facility (SSF) also provides an 
+alternative means of maintaining safe shutdown conditions with the SSF Diesel Generator powering the Standby 
+Makeup Pump for reactor coolant pump (NCP) seal cooling and instrumentation and controls for operation of 
+urbine-Driven Auxiliary Feedwater Pump. The final level of safety is the ability to use FLEX equipment and 
+strategies to provide alternative core cooling to prevent core damage. 
+With these factors taken together, there was no impact to the health and safety of the public. 
+ADDITIONAL INFORMATION 
+Previous Similar Occurrences: 
+~ review of License Event Reports from the past 3 years did not identify any similar occurrences. 
+NRC FORM 366A (10-01-2023) 
+Page_5_ of _5_ 

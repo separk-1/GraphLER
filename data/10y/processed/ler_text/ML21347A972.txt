@@ -1,0 +1,192 @@
+fl
+Energr
+Xcel
+1717 Wakonade Drive
+Welch, MN 55089
+December 13, 2021 L-Pl-21-044
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Prairie Island Nuclear Generating Plant, Units 1 and 2
+Docket Nos. 50-282 and 50-306
+Renewed Facility Operating License Nos. DPR-42 and DPR-60
+Prairie Island Nuclear Generating Plant (PINGP) Unit 1 Licensee Event Report 2021-002-00
+Northern States Power Company, a Minnesota corporation, doing business as Xcel Energy
+(hereafter "NSPM"), hereby submits Licensee Event Report (LER) 50-282/2021-002-00 per
+10 CFR 50.73(a)(2)(iv)(A).
+If you have any questions about this submittal, please contact Carrie Seipp, Senior Regulatory
+Engineer, at 612-330-5576.
+Summary of Commitments
+ew commitments and no revisions to existing commitments.
+Christopher P. Domingos
+Site Vice President, Prairie Island Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure (1)
+cc: Administrator, Region Ill, USNRC
+Project Manager, Prairie Island, USNRC
+Resident Inspector, Prairie Island, USNRC
+State of Minnesota
+ENCLOSURE 1
+PRAIRIE ISLAND NUCLEAR GENERATING PLANT
+LICENSEE EVENT REPORT 50-282/2021-002-00
+3 pages follow
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block)
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Prairie Island Nuclear Generating Plant, Unit 1 05000282 1 OF 3
+4. Title
+Loss of Electrical Bus Results in 121 Motor Driven Cooling Water Pump Auto Start
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year
+Sequential Rev
+Month Day Year
+F
+P
+a
+r
+c
+a
+i
+i
+l
+r
+it
+i
+y
+e
+N
+Is
+a
+l
+m
+a
+e
+n d, Unit 2
+Docket Number
+Number No. 05000306
+Facility Name Docket Number
+10 17 2021 2021 - 002 - 00 12 13 2021
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Carrie Seipp, Senior Regulatory Engineer (612) 330-5576
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 17, 2021, the Prairie Island Nuclear Generating Plant (PINGP) 2RY Transformer was de-energized when
+operations personnel opened the 2RSY Reserve Auxiliary Transformer 34.5KV B Disconnect Switch instead of closing the
+2RSX Reserve Auxiliary Transformer 34.5KV B Disconnect Switch during restoration of the 2RX Transformer in the
+substation. The de-energization of 2RY caused a loss of power to the Unit 2 4.16 KV Bus 23. This led to an auto-start of
+121 Motor Driven Cooling Water Pump on a sensed low header pressure.
+This event is reportable under 10CFR 50.73(a)(2)(iv)(A) due to a valid Emergency Service Water system actuation.
+Outage Shutdown Safety Assessment and Probability Risk Assessment remained green during the event and recovery
+actions.
+The cause of the de-energization of 2RY was individual errors during hard match and concurrent verification.
+The corrective action implemented required all substation switching to be identified as high risk with field supervisor
+oversight required.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Prairie Island Nuclear Generating Plant, 05000282 NUMBER NO.
+Unit 1
+2021 - 002 - 00
+NARRATIVE
+EVENT DESCRIPTION
+On October 17, 2021, the Prairie Island Nuclear Generating Plant (PINGP), Unit 1 was in Mode 1 (Power Operation) at
+100 percent power and Unit 2 was in Mode 6 (Refueling) at 0 percent power. The 2RY Reserve Auxiliary Transformer was
+supplying Safety Related 4.16 KV Bus 25 and the Non-Safety Related 4.16 KV Buses 23 and 24. At 1601 CDT, the 2RY
+Reserve Auxiliary Transformer was de-energized when operations personnel opened the 2RSY Reserve Auxiliary
+Transformer 34.5KV B Disconnect Switch instead of closing the 2RSX Reserve Auxiliary Transformer 34.5KV B
+Disconnect Switch during restoration of the 2RX Reserve Auxiliary Transformer in the substation. The de-energization of
+2RY caused a loss of power to the Unit 2 Buses 23, 24, and 25. Automatic reenergization of Bus 25 via CT12
+Transformer, the other offsite power source, occurred.
+Bus 23 supplies power to Non-Safety Related 21 Cooling Water (CL) pump, which was supporting all the CL system loads.
+Following the trip of 21 CL Pump, 121 Motor Driven Cooling Water Pump (MDCLP) auto started on a sensed low header
+pressure. The 121 MDCLP is designed to start automatically if CL header pressure drops to 80 pounds per square inch
+gauge (psig).
+EVENT ANALYSIS
+121 MDCLP
+The 121 MDCLP is a part of the PINGP CL System (EIIS CODE: BI). The CL system is a ring header which is shared by
+Units 1 and 2 that provides a heat sink for the removal of process and operational heat from safety-related components
+during a design basis accident or transient. During normal and shutdown operation, the CL system also provides this
+function for various safety-related and non-safety related components. The CL system consists of a common CL pump
+discharge header for five CL pumps: two non-safety related pumps, two safety related Diesel Driven Cooling Water Pumps
+(DDCLP), and 121 MDCLP that can be aligned as replacement for either DDCLP by realigning its power supply and
+administratively disabling the CL pump discharge header valves to direct flow to the appropriate train.
+The total Cooling Water (CL) system operating flow rates were in the range that operation of only one CL pump for both
+Units was desired. The ring header valves were open and 121 MDCLP was not aligned as a replacement for either
+DDCLP. The trip of 21 CL Pump resulted in a reduction in header pressure to the 121 MDCLP auto start setpoint.
+This event is reportable per 10CFR 50.73(a)(2)(iv)(A) due to a valid Emergency Service Water system actuation.
+Human Performance
+PINGP Non-Licensed Operators (NLOs) were performing their first-time evolution of the tasks of restoring the 2RX
+Reserve Auxiliary Transformer in the switchyard during the Unit 2 Refueling Outage. After successful closure of the 2RSX
+Reserve Auxiliary Transformer 34.5KV A Disconnect Switch, the NLOs opened the 2RSY Reserve Auxiliary Transformer
+34.5KV B Disconnect Switch instead of closing the 2RSX Reserve Auxiliary Transformer 34.5KV B Disconnect Switch.
+ASSESSMENT OF SAFETY CONSEQUENCES
+Outage Shutdown Safety Assessment (SSA) and Probability Risk Assessment (PRA) remained green during the event and
+subsequent recovery actions.
+The auto start of 121 MDCLP did not challenge nuclear safety as the Cooling Water system responded as designed. This
+event does not represent a safety system functional failure for Unit 1 or Unit 2.
+CAUSE OF THE EVENT
+The cause of the de-energization of 2RY was individual errors during hard match and concurrent verification.
+NRC FORM 366A (06-2016 Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Prairie Island Nuclear Generating Plant, 05000282 NUMBER NO.
+Unit 1
+2021 - 002 - 00
+CORRECTIVE ACTIONS
+The corrective action implemented required all substation switching to be identified as high risk with field supervisor
+oversight required.
+PREVIOUS SIMILAR EVENTS
+N o previous similar events have occurred at PINGP in the prior 3 years.
+NRC FORM 366A (06-2016) Page 3 of 3

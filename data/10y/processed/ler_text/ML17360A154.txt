@@ -1,0 +1,268 @@
+•
+'
+~Entergy
+Entergy Operations, Inc.
+P.O. Box756
+Port Gibson, MS 39150
+Eric A. Larson
+Site Vice President
+Grand Gulf Nuclear Station
+Tel. (601) 437-7500
+GNR0-2017/ 00073
+10CFR50.73
+December 18, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report 2017-004-01, Outside-of-Tech-Spec-Allowable-Value
+Automatic Depressurization System Initiation Timer Relay due to Inadequate
+Procedures ·
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Supplemental Licensee Event Report (LER) 2017-004-01, Outside-of-Tech-Spec
+Allowable-Value Automatic Depressuriz:ation System Initiation Timer Relay due to Inadequate
+Procedures, which is a final report. ·
+This letter contains no new commitments. Should you have any questions or require additional
+information, please contact Douglas Neve at (601) 437-2103.
+Sincerely,
+Eric A. Larson
+Site Vice President
+Grand Gulf Nuclear Station
+EAL/tdf
+Attachment: Licensee Event Report 2017-004-01
+cc: (See Next Page)
+GNR0-2017/00073
+Page 2 of 2
+cc: with Attachment and Enclosures
+Mr. John P. Boska, Project Manager
+Plant Licensing Branch 1-1
+Division of Operating Reactor Licensing
+Office of Nuclear Reactor Regu!ation
+U.S. Nuclear Regulatory Commission
+Mail Stop 0-8-C2
+Washington, DC 20555
+Mr. Kriss M. Kennedy
+U.S. Nuclear Regulatory Commission
+Regional Administrator, Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+Mr. Siva Lingam
+U.S. Nuclear Regulatory Commission
+Mail Stop OWFN 8 81
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+\
+GNR0-2017/00073
+Page 1 of 1
+bee:
+OUTLOOK MAIL: DISTRIBUTION IS ALL ELECTRONIC
+Brown B. (GG-R&PI)
+Chase M.L. (RB-R&PI)
+Couture P. (ECH-NS&L)
+Farrell A. T. (GG-MAINT)
+Ford B. S. (ECH-NS&L)
+Gaston R. W. (Acting - ECH-VP-RA)
+Giacini M.A. (GG-GMPO)
+Gilmore R. B. (W3-R&PI)
+Halter M. (ECH-NS&L)
+Hawkins G.G. (GG-R&PI)
+OTHER - Licensing Files LRS_DOCS (GNRI or GNRO)
+GGN CENTRAL FILE ( )
+GGN PLANT LICENSING
+GGN\RBS SRC ALL LER's
+ALL RESPONSE TO
+VIOLATIONS
+James D. E. (ANO-R&PI)
+Jarrell J.P. (W3-RA)
+Larson E. A. (GG-VP)
+Lauterbur D. J. (GG-TRN)
+Neve D. A. (GG-RA)
+Pyle S.L. (ANO-RA)
+Seiter J. A. (GG-EP)
+Schenk T. A. (RB-RA) I
+Wertz B. (GG-OPS)
+Williams P. J. (GG-ENG)
+INPO Records Center • ALL LER's
+700 Galleria Parkway • MONTHLY OPERATING REPORT
+•
+Atlanta, Georgia 30339-5957 ALL RESPONSE TO VIOLATIONS
+TRG Secretary ALL LER's
+Pl Coordinator/R. Meister ALL LER's
+Required Readinq Coordinator ALL LER's
+Attachment to GNR0-2017/00073
+Licensee Event Report 2017-004-01
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: BO
+hours. Reported lessons learned are incorporated into the licensing process and fed
+<:,'-,.;.!\ REGu("'I;, LICENSEE EVENT REPORT (LER) back to industry. Send comments regarding burden estimate to the Information Services
+Branch (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,
+}! " j ~ " 0 ~ (') , (See Page 2 for required number of digits/characters for each block) o In r f o b rm y a e ti - o m n a i a l nd to R ln e f g o u c la o t ll o e r c y t s A .R ff e ai s r o s, u r N ce E @ O n B r - c 1 . 0 g 2 o 0 v 2 , , a ( n 3 d 1 50 to - 01 th 0 e 4 ), D O es ff k ic e O f o fi f c e M r, a n O ag ff e ic m e en o t f
+". " . i .'. ' i ; ! C : J : · (See NUREG-1022, R.3 for instruction and guidance for completing this a d sp n o o d e n s B s n o u o r d , t g a e d n t i , d s W p a la a p y s e h r a i s n o g c n u to r i n r s e , n n D o tl C t y r e 2 va q 0 l u 5 id i 0 r e 3 0 d . M I t f o B a r e f c T s o !e p n a o t n r n o s d l u t n o s u , e m d th b t e o e r in i , m fo t p h r o e m s a e N t i R a o n G n i c n m o fo l a le r y m c t n a io o t n i t o . n c o c n o d ll u e c ct t i o o n r
+,.....,.~Q 'f"o' form
+****. http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 13, PAGE
+Grand Gulf Nuclear Station, Unit 1 05000 416 1 OF 4
+4. TITLE
+Outside-of-Tech-Spec-Allowable-Value Automatic Depressurization System Initiation Timer Relay due to Inadequate
+Procedures
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I SE N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR N FA / C A I LITY NAME D 0 O 5 C 0 K 0 ET 0 N U N M / B A E R
+FACILITY NAME DOCKET NUMBER
+05 26 2017 2017 -004-01 07 13 2017 N/A 05000 N/A
+11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+9. OPERATING MODE D 20.2201 (b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201 (d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+MODE1
+D 20.2203(a)(1) D 20.2203(a)(4) D so.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D so.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71 (a)(s)
+D 20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER I
+Licensee Contact TELEPHONE NUMBER (Include Area Code)
+Douglas Neve/ Manager, Regulatory Assurance (601) 437-2103
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O O R E T P A IX B LE ! j '1 CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O O R E T P A IX B LE
+D AD RLY2 Agastat Yes ti NA NA NA NA NA
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+D
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 26, 2017, while performing the Automatic Depressurization System (ADS) quarterly surveillance, the time
+delay on the Trip System A (Division 1) ADS initiation timer relay was found outside of its Technical Specification
+(TS) Allowable Value of :5 115 seconds. Specifically, the ADS timer requirements in TS 3.3.5.1, Emergency Core
+Cooling System Instrumentation, Table 3.3.5.1-1, Emergency Core Cooling System Instrumentation, Function 4,
+Sub-function c. ADS Initiation Timer, Allowable Value was not met. The cause was determined to be inadequate
+preventive maintenance and review of the previous test results. This event is reportable as a license event report
+(LER) in accordance with 1 OCFR50.73(a)(2)(i)(B), as a "condition prohibited by Technical Specifications" because
+the same relay failed its previous test and could not be considered as OPERABLE during the full inteNal between
+tests. Corrective actions included replacement of the defective timer relay and planned actions to replace the
+corresponding timer relays in ADS and the Feedwater Control System. In addition, the applicable preventive
+maintenance procedures were revised. The event posed no threat to the health and safety of the general public or
+to nuclear safety as ADS would have performed as designed. No Technical Specification safety limits were
+challenged or violated.
+Page 1 of4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(4-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+~~,.<>•••••,,, LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch (T-2
+. 0 CONTINUATION SHEET F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+/~ ~";' lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and·
+\;; " Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+<;, (See NUREG-1022. R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+-.;~~ "** •• ~ http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) display a currently valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 3. LER NUMBER
+YEAR SEQUENTIAL I REV.
+I
+Grand Gulf Nuclear Station, Unit 1 NUMBER NO.
+05000 416
+2017 -004-01
+NARRATIVE
+DESCRIPTION
+On May 26, 2017, while performing Automatic Depressurization System (ADS) [AD][C23] quarterly
+surveillance, the time delay on the Trip System A ADS initiation timer relay [RL Y2] was found outside of its
+Technical Specification (TS) Allowable Value of :5 115 seconds. Specifically, the ADS timer requirements that
+are specified in Technical Specifications 3.3.5.1, Emergency Core Cooling System (ECCS) Instrumentation,
+Table 3.3.5.1-1, Emergency Core Cooling System Instrumentation, Function 4, Sub-function c. ADS Initiation
+Timer, Allowable Value were not met.
+The failure mechanism is degradation of the timing function in the ADS initiation timer relay (Agastat
+Model TR14D3EC750) that delays initiation of ADS in order to allow time for high pressure injection
+to restore reactor water level. The TS Allowable Value for this timer is less than or equal to 115
+seconds. The as found value was beyond this value. This surveillance is performed on a quarterly
+basis. This same condition was found during the last surveillance performed on February 23, 2017.
+This condition was not found during the surveillance performed prior to that on November 18, 2016.
+The Automatic Depressurization System is required in Modes 1, 2, and 3 with the reactor above
+150 psig. Between November 18, 2016 and January 30, 2017, the plant was in Mode 4. Therefore
+this function was not required from November 18, 2016 to January 30, 2017, which is when the
+reactor reached 150 psig in Mode 2.
+The ADS was required to be Operable from January 30, 2017, until May 26, 2017. ADS initiation is
+accomplished by energization of either the Trip System A (Division 1) or Trip System B (Division 2) solenoids
+[FSW] associated with each of the ADS valves. The logic for each Trip System is separate and either trip
+system will cause all the ADS relief valves to open. Therefore, the automatic safety function would still be
+accomplished within the allowable time provided that the Trip System B was Operable. Trip System B
+initiation logic was taken out of service on March 10, 2017, to support performance of the quarterly ADS
+channel calibration surveillance procedure. An additional review was performed to determine if the Trip
+System A logic would have initiated within the allowable time during the period when the Trip System B logic
+was out of service. The average rate of change of the setpoint between surveillances was 0.402
+seconds/day for the first interval (November 18, 2016 - February 23, 2017) and 0.424 seconds/day for the
+second interval (February 23, 2017 - May 26, 2017). Use of the larger rate of change is conservative, and
+therefore a rate of 0.424 seconds/day was assumed for the second interval. Linearly extrapolating from an
+as left condition of 104 seconds on February 23, 2017, it is concluded that the setpoint would have been
+approximately 110.4 seconds on March 10, 2017. This value is within the 115 second TS AV. Therefore, it is
+I
+concluded that no loss of safety function occurred for this condition.
+REPORT ABILITY
+This event is reportable as a license event report (LER) in accordance with NUREG-1022, Section 3.2.2, and
+1O CFR50.73(a)(2)(i)(B), as a "condition prohibited by Technical Specifications" because the same relay
+failed its previous test and could not have been considered operable for the full interval between tests. The
+timer relay would have been considered inoperable for a time period such that the Technical Specification
+3.3.5.1 completion time would not have been met.
+Page2of4
+NRG FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(6-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+,,.po•••••,.> LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch (T-
+i, / 0 ~. CONTINUATION SHEET 2 ln f F o 4 c 3 o ) l , l e U c . t S s. . R N e u s c o l u e r a c r e R @ e n g r u c l . a g t o o v ry , a C n o d m t m o i t s h s e i o D n e , s W k a O s f h fi i c n e g r t , o n O , f f D ic C e 2 o 0 f 5 In 5 f 5 o - r 0 m 0 a 0 ti 1 o , n o a r n b d y e-mail to
+i
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+~ (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+~.,,4 •-. *" • http:/Jwww.nrc.gov/reading-rm/doc-collections/nureqs/stafflsr1022/r30 display a currently valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 3. LEA NUMBER
+YEAR I SEQUENTIAL I REV.
+Grand Gulf Nuclear Station, Unit 1 NUMBER NO.
+05000 416
+2017 -004 - 01
+NARRATIVE
+CAUSE
+The direct cause of the failure is the degradation of timing function for ADS initiation timer relay 1 B21-K5A,
+most likely due to the electrolytic capacitor degradation. ·. ''"
+The cause of the failure was an inadequate preventive maintenance task and inadequate procedural guidance.
+The procedures did not require periodic replacement of the relay nor did they require an engineering review of
+the test results.
+CORRECTIVE ACTIONS
+Immediate:
+The defective timer relay in Trip System A was replaced.
+Completed:
+Preventive maintenance tasks were revised to require periodic replacement of the relays.
+Surveillance testing was revised to require timely engineering review of the completed quarterly surveillance
+tests.
+Planned:
+The corresponding relays in ADS and the Feedwater Control System will be replaced. This action has been
+entered in the corrective action program and may be modified in accordance with that program.
+SAFETY SIGNIFICANCE
+Initiation of the ADS is accomplished by energizing either the Trip System A or Trip System B solenoids
+associated with each of the ADS valves. Each separate trip system will cause all the ADS relief valves to
+open. Therefore, the automatic safety function would still be accomplished within the allowable time with Trip
+System A inoperable provided that Trip System B was Operable. Trip System B initiation logic was taken out
+of service on March 10, 2017, to support performance of the quarterly ADS Channel B calibration surveillance
+procedure. An additional review was performed to determine if the Trip System A logic would have initiated
+within the allowable time during the period when the Trip System B logic was out of service. The conclusion
+was that the "A" setpoint would have been approximately 110.4 seconds on March 10, 2017. This value is
+within the 115 second TS AV. Therefore, at least one division of ADS was always available to perform the
+safety function. In addition, manual actuation was available, and operators are trained on the conditions
+requiring manual actuation and the associated procedures.
+The ADS acts as a backup to High Pressure Core Spray System [BG] for a small break loss of coolant
+accident. The High Pressure Core Spray System was not impacted by the degraded condition of ADS.
+The event posed no threat to the health and safety of the general public or to nuclear safety as ADS would
+have performed as designed. No Technical Specification safety limits were challenged or violated. Industrial
+safety was not challenged, and there was no potential or actual radiological release during the event.
+Page3 of4
+PREVIOUS SIMILAR OCCURRENCES
+LER 2017-001-00 High Pressure Core Spray Jockey Pump Trip
+· LER 2009-002-00 Emergency Diesel Actuation Caused By Degraded DC Control Battery
+The identified licensee event reports were attributed to inadequate maintenance procedures. The
+events were reviewed and it has been determined that the causes and corrective actions were
+sufficiently different that they could not have predicted or prevented the occurrence of this event.
+Page 4 of4 .

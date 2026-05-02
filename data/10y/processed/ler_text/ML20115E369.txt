@@ -1,0 +1,217 @@
+10CFR 50.73
+CCN: 20-46
+April 24, 2020
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2 and Unit 3
+Renewed Facility Operating License No. DPR-44 and DPR-56
+NRC Docket No. 50-277 and 50-278
+Subject: Licensee Event Report (LER) 2-20-001
+Enclosed is a Licensee Event Report concerning a trip of our E-1 emergency diesel
+generator, which resulted in a violation of Technical Specifications. In accordance with NEI
+99-04, there are no regulatory commitments contained in this correspondence. If you have
+any questions or require additional information, please do not hesitate to contact Matthew
+Rector at 717-456-4351.
+Sincerely,
+Matthew J. Herr
+Site Vice President
+Peach Bottom Atomic Power Station
+MJH/dnd/IR 4321794
+Enclosure
+cc: US NRC, Administrator, Region I
+US NRC, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-6 A10M),
+U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 2 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission,
+725 17th Street NW, Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a currently
+valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station Unit 2
+05000 - 277 1 OF 4
+4. Title
+Emergency Diesel Generator Shutdown Due to Intercooler Low Pressure Results in Condition Prohibited
+by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year Peach Bottom APS Unit 3 05000 278
+02 26 2020 2020 - 001 - 00 04 24 2020 Facility Name Docket Number
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi)  50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Matthew Rector, Regulatory Assurance Manager 717-456-4351
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date)  No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 2/26/20, Emergency Diesel Generator #1 (E-1) was started for a monthly surveillance test. Shortly after reaching
+full speed, E-1 tripped due to low intercooler coolant pressure. Troubleshooting identified air in the coolant system.
+Further investigation determined the air was introduced into the system during maintenance activities earlier in the
+month and not adequately vented at the conclusion of the maintenance.
+The system was vented and returned to an operable status on 2/27/20. Corrective actions include revising
+procedures to improve guidance for venting.
+There were no actual safety consequences as a result of this event. This event is being reported pursuant to the
+requirements of 10 CFR 50.73(a)(2)(i)(B) for an operation or condition prohibited by Technical Specifications.
+NRC FORM 366A (04- Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington,
+DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of
+CONTINUATION SHEET
+Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission,
+725 17th Street NW, Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this form conduct or sponsor, and a person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Peach Bottom Atomic Power 05000- 277 NUMBER NO.
+Station Unit 2 2020 - 001 00
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 2 and Unit 3 were both operating in Mode 1 at approximately 100% rated thermal power. There were no
+structures, systems or components out of service that contributed to this event.
+Description of Event
+On 2/26/20, at approximately 2110, operators began a monthly surveillance test of the E-1 Emergency Diesel
+Generator [EIIS:DG]. At 2126, a slow start of E-1 was performed in accordance with station procedures. Shortly
+after the engine was raised to full speed, a local alarm indicated low pressure in the intercooler coolant system.
+While the equipment operator was in the process of reporting the alarm to the Main Control Room, the engine
+automatically tripped at approximately 2129. The test was aborted and the engine placed in its normal shutdown
+lineup. In accordance with Technical Specifications (TS), offsite and onsite electrical power breaker alignment and a
+power availability check was performed to verify critical loads are connected to their preferred power source and that
+appropriate independence of offsite circuits was maintained.
+Troubleshooting identified air in the intercooler coolant system, which prevented the pump from establishing the
+normal system pressure. A series of venting evolutions was performed to remove the air. During the first venting, it
+was estimated that approximately one cubic foot of air was released. Smaller amounts were released during
+subsequent ventings, which were performed when the diesel was not running, when it was running unloaded and
+running loaded. A final run of the diesel was performed on 2/27/20 at 1436 and the engine ran without incident for
+approximately three hours. A final vent produced no air and E-1 was returned to operable on 2/27/20 at 2030.
+For the above testing and venting, the E-1 diesel was inoperable for approximately 23.3 hours from the start of the
+test on 2/26/20 until the engine was returned to operable on 2/27/20.
+Analysis of Event
+The site’s four Emergency Diesel Generators are standby units that provide adequate power to safely shutdown
+both units in the event of a design basis accident with a loss of offsite power (LOOP). The accident analysis
+assumes one of the four diesel generators fails. Each diesel generator starts automatically on a LOOP, low reactor
+water level or high drywell pressure. Periodic testing ensures the diesel engines can start automatically and reach
+full speed within 10 seconds. The engines can also be started manually for testing and maintenance purposes.
+Each diesel engine has several protective features that automatically trip the engine under the following abnormal
+conditions:
+1. Engine overspeed
+2. Jacket coolant high temperature or low pressure
+3. Lube oil high temperature or low pressure
+NRC FORM 366A (04- Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington,
+DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of
+CONTINUATION SHEET
+Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission,
+725 17th Street NW, Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this form conduct or sponsor, and a person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER
+YEAR SEQUENTIAL REV
+Peach Bottom Atomic Power 05000- 277 NUMBER NO.
+2020 - 001 00
+Station Unit 2
+NARRATIVE
+4. Crankcase high pressure
+5. Engine overspeed
+6. Intercooler coolant low pressure
+7. Fuel oil low pressure
+In the event of a design basis loss of coolant accident (LOCA), all of the above trips are bypassed except for engine
+overspeed, which is considered indicative of a condition that could result in significant equipment damage. The
+remaining trips are considered non-critical and identify potential equipment degradation. Although they are
+bypassed during a LOCA, they are not bypassed during a LOOP with other postulated abnormal operating
+conditions.
+On 1/26/20, the E-1 diesel was taken out of service for planned maintenance, which involved draining both the
+intercooler coolant and jacket water systems. Following maintenance, the systems were filled and vented. During
+post maintenance testing (PMT), the engine was started and stopped a total of nine times to support a series of
+break-in runs required based on the maintenance that had been performed and also to address issues identified
+during the PMT. Following completion of these activities, the E-1 diesel was returned to an operable status on
+2/7/20 at 0230.
+Further investigation of the trip on 2/26/20 determined that the air was likely introduced into the system during the
+maintenance activities performed earlier in the month. Since the engine tripped due to low intercooler coolant
+pressure during the first run of the engine following the maintenance, it is assumed it would have tripped if it had
+been required to perform its safety function during a non-LOCA transient at any time following completion of the
+maintenance on 2/7/20. As a result, it was inoperable from 2/7/20 at 0230 until the intercooler coolant system had
+been fully vented and the diesel generator returned to operable on 2/27/20 at 2030, for a total of 20 days and 18
+hours.
+TS LCO 3.8.1.b requires all four diesel generators to be capable of supplying the onsite Class IE AC electrical
+power distribution system. With one diesel generator inoperable, TS 3.8.1 Condition B requires several actions (B.1
+through B.5) to be completed at varying frequencies, including restoring the diesel generator to operable within 14
+days. Since these actions were not performed between 2/7/20 at 0230 until 2/26/20 at 2110 (19 days, 18.7 hours),
+TS were not complied with during that time period. This event is being reported as a violation of Technical
+Specifications in accordance with 10 CFR 50.73(a)(2)(i)(B).
+During the period where it was determined the E-1 diesel generator was inoperable (2/7/20 to 2/26/20), surveillance
+tests were performed for diesel generator E-2 on 2/7/20, diesel generator E-3 on 2/24/20 and diesel generator E-4
+on 2/18/20 to demonstrate operability in accordance with TS surveillance requirements and the Surveillance
+Frequency Control Program. When performing these surveillance tests, the diesel generator is inoperable for a
+short period of time. For each of these tests, the diesel generators were inoperable for less than five hours. This is
+less than the maximum allowed time in TS 3.8.1 Conditions F and G of 14 hours for two inoperable diesel
+generators. Therefore, there was no inadvertent violation of these two TS conditions.
+There were no actual safety consequences as a result of this event. There was no LOOP during the period of
+inoperability or other condition resulting in a diesel generator start signal.
+NRC FORM 366 (04-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2020
+(04-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington,
+DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of
+CONTINUATION SHEET
+Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission,
+725 17th Street NW, Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this form conduct or sponsor, and a person is not required to respond to, a collection of information unless the
+document requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Peach Bottom Atomic Power 05000- 277 NUMBER NO.
+Station Unit 2 2020 - 001 00
+NARRATIVE
+Cause of the Event
+The cause of the event was inadequate venting of the intercooler coolant system during maintenance. Venting was
+performed during the start of one of the initial PMT runs and not performed when the engine was hot. Following this
+event, the vendor recommended the system should be vented when the engine is loaded, but this was not known
+prior to the maintenance and was not specified in the procedures in use at the time.
+Corrective Actions
+The intercooler coolant system was vented which allowed the diesel generator to be returned to operable. In order
+to improve guidance for venting following maintenance and prior to returning the diesel generator to operable,
+procedures are being revised to require venting to be performed when the engine is hot and loaded. Additional
+corrective actions are documented in the corrective action program.
+Previous Similar Occurrences
+There have been previous cases where E-1 has tripped due to air in the system when the diesel generator was out
+of service for maintenance. In all cases, prior to returning the diesel generator operable, adequate venting was
+performed. This was the first case where post maintenance testing did not identify the condition prior to returning
+the diesel generator to operable.
+NRC FORM 366A (04-2020) Page 4 of 4

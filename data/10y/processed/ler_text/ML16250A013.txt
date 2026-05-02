@@ -1,0 +1,423 @@
+. ,
+Entergy Nuclear Operations, Inc.
+~Entergx
+Pilgrim Nuclear Power Station
+600 Rocky Hill Road
+Plymouth. MA 02360
+August 1~ . 2016
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report 2016-002:.01, Online Maintenance Test Configuration
+Prohibited By Technical Specifications
+Entergy Nuclear Operations, Inc.
+Pilgrim Nuclear Power Station
+Docket No. 50-293
+Renewed License No. DPR-35
+LETTER NUMBER: 2.16.048
+Dear Sir or Madam:
+The attached supplemental Licensee Event Report (LER) 2016-002-01, Online Maintenance
+Test Configuration Prohibited By Technical Specifications, is submitted in accordance with 1O
+CFR 50.73.
+The supplement includes causal evaluation results, planned corrective actions, and editorial
+clarifications.
+If you have any questions or require additional information, contact me at (508) 830-8323.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+·~\?~~
+Everett P. Perkins, Jr. ~
+Manager, Regulatory Assurance
+EPP/jjl
+Attachment: Licensee Event Report 2016-002-01, Online Maintenance Test Configuration
+Prohibited By Technical Specifications (7 pages)
+Entergy Nuclear Operations, Inc. Letter No. 2.16.048
+Pilgrim Nuclear Power Station Page 2 of 2
+cc: Mr. Daniel H. Dorman
+Regional Administrator, Region I
+U.S. Nuclear Regulatory Commission
+2100 Renaissance Blvd., Suite 100
+King of Prussia, PA 19406-2713
+Ms. Booma-Venkataraman, Project Manager
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 0-8C2A
+Washington, DC 20555
+NRC Senior Resident Inspector
+Pilgrim Nuclear Power Station
+Attachment
+Letter Number 2.16.048
+Licensee Event Report 2016-002-01
+Online Maintenance Test Configuration Prohibited By Technical Specifications
+(7 Pages)
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry .
+.............
+!¥s~ Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-
+LICENSEE EVENT REPORT (LER)
+~ ..... :I mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an information collection does not display a currenlly valid OMB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+infmmation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Pilgrim Nuclear Power Station
+05000293 1 OF7
+4. TITLE
+Online Maintenance Test Configuration Prohibited By Technical Specifications
+5. EVENT DATE 6. ILE R NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. N/A N/A
+FACILITY NAME DOCKET NUMBER
+04 19 2016 2016 - 002 - 01 08 18 2016 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR &: fCheck all that ann/vJ
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N
+D D D IRJ
+20.2203(a><1> 20.2203(a)(4) 50.73(a)(2)(m> 50. 73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50. 73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) IRl 50. 73(a)(2)(v)(A) D 13.11(a)(4)
+D D IRl D
+20.2203(a)(2)(m> 50.36(c)(2> 50. 73(a)(2)(v)(B) 73.71(a)(5)
+D D IRl D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii~ 50. 73(a)(2)(v)(C) 13.77(a)(1>
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) IRl 50. 73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D IR] IRl D
+20.2203(a)(2)(vi) 50. 73(a)(2)(i)(B) 50. 73(a)(2)(vii) 73.71(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mr. Everett P. Perkins, Jr. -Regulatory Assurance Manager 508-830-8323
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TOEPIX CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+;
+D EA NA NA YI
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+-D IR] SUBMISSION .
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE
+ABSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 19, 2016, at approximately 1450 hours, it was discovered that a maintenance activity performed between 2010
+hours on August 26, 2014 and 0143 hours on August 27, 2014, had rendered the Startup Transformer (X4) and the standby
+Emergency Diesel Generators (EDG) (X-107 A&B) unable to automatically supply power to Buses A5 and A6, due to the
+breaker interlock that would prevent Startup Transformer breakers (152-504 and 152-604) and standby EDG breakers
+(152-509 and 152-609) from closing, when Bus AB to Bus A5 breaker (152-501) and Bus AB to Bus A6 breaker (52-601) are
+in the TEST position and CLOSED. During the maintenance activity, the plant was operating at 100 percent power and the_
+Unit Auxiliary Transformer (X3) was providing power to Emergency Buses A5/A6.
+The functional testing of negative sequence relays (146-600/A and B) and 23kV feed undervoltage relays (127-600A/1 and
+2, and 127-600B/1 and 2) created a test configuration, lasting less than 1-hour, whereby power to Buses A5 and A6 was not
+automatically available from either the startup transformer or from the EDGs. As a result, Limiting Conditions for Operation
+(LCO) Action Statement 3.9.B.2 was not met.
+The root cause is that the decision to perform the described surveillance testing online, instead of during cold shutdown,
+lacked sufficient rigor to ensure compliance with Technical Specifications. Corrective actions will establish and '
+institutionalize expectations and accountability for station leadership regarding consequence-biased decision-making and
+effective risk manaaement. There was no imoact to nublic health and safetv.
+NRC FORM 366A (06-2016)
+Page 2of7
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~ ~ .... ' .r t) c F o 5 m 3) m , en U ts .S r . e g N ar u d c in le g a r b ur R d e e g n u e la s t t o im ry a te C t o o m t m he is s F io O n I , A , W P a r s iv h a in cy g to a n n , d ln D f C o nn 2 a 0 t 5 io 5 n 5 -0 C 0 o 0 ll 1 e , c tio o n r s b B y r a e n - c m h ai ( l T - to 5
+LICENSEE EVENT REPORT (LER) lnfocollects.Resoun:e@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory Affairs,
+NEOB-10202, (315().0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET used to impose an infonnation collection does not display a currenUy valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the infonnation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016· 002 01
+NARRATIVE
+BACKGROUND
+There are six 4, 160 volt alternating current (AC) buses (A 1, A2, A3, A4, AS, and A6) in the station auxiliary
+power distribution system. The six buses are divided into emergency service and normal service buses. The
+two emergency service buses, AS and A6, supply power to essential loads required during abnormal
+operational transients and accidents. The four normal service buses, "A 1, A2, A3, and A4, supply power to other
+station auxiliaries requiring AC power during planned operations. The maintenance activity had no effect on the
+normal service buses. ·
+When the Pilgrim Nuclear Power Station (PNPS) is on line and buses AS and A6 are powered from the Unit
+Auxiliary Transformer, on a turbine trip or reactor scram, Buses AS and A6 should fast transfer to the startup
+transformer or dead bus transfer to EDGs if the startup transformer is unavailable or dead bus transfer to the
+shutdown transformer if both the startup transformer and EDGs are unavailable.
+Another 4160 volt bus, Bus A8, is powered from either the shutdown transformer through Breaker A802 or the
+Station Blackout Diesel Generator (SBODG) through Breaker A801. Bus A8 provides power to Emergency Bus
+AS through Breakers A600 and AS01 and to Emergency Bus A6 through Breaker A600 and A601. Relays in
+the Bus A8 to Bus AS and Bus A8 to Bus A6 control circuits are tested while the plant is online, at a two year
+interval, in accordance with Procedure 3.M.3-1, AS/A6 Buses 4kV Protective Relay Calibration/Functional Test
+and Annunciator Verification, Attachment 10, Bus A8 to AS & A6 Relays. See Figure 1 for bus and breaker
+arrangement. '
+Procedure 3.M.3-1, Revision 136, step 6.2[S] and Attachment 10, provide a caution that during the performance
+of Attachment 10, with breakers 1S 2-S01 and 1S 2-601 in the TEST position and CLOSED, in the presence of a
+plant Scram neither AS nor A6 would automatically transfer to the Startup Transformer rendering both buses
+unavailable. Based upon this caution, activity risk compensatory measures for the August 2014 maintenance
+activity included a compensatory measure for operators to be briefed such that in the event of a plant trip the
+1S 2-S01 and1 S2-601 breakers would be tripped to restore the automatic load transfer function. The
+compensatory measure is a simple single control switch manipulation for each of the two buses.
+Procedure 3.M.3-29, Shutdown Transformer and 23kV Relay Calibration and Functional Test, Revision 23,
+included, Prerequisite step 7.1[4], which states: "With permission from the Shift Manager (depending on
+weather conditions), the relays in Attachment 1 Step [2] may be calibrated with the Shutdown Transformer on
+line. The relays are to be calibrated one at a time. If plant electrical distribution will require the Shutdown
+Transformer to be loaded, the relay will be installed in an expeditious manner." Consistent with this
+prerequisite, a Control Room Narrative Log entry on February 20, 2014, at 1200 hours 17 seconds, indicates
+that a Pre~Evolution Brief (PEB) was conducted for 3.M.3-29 to bring attention to the following: the limiting
+condition for operation (LCO) for shutdown transformer (SOT) will be entered but SOT will remain available;
+and per procedure, the associated protection relays will be removed from service for functional test and
+calibration, one at a time, with procedures in place to return to service expeditiously in the event that plant
+electrical distribution requires the SOT to be loaded; and that E-lab personnel have been briefed and will
+remain on-site with no concurrent duties while the relays are out of service (OOS)."
+NRG FORM 366A (06-2016)
+Page 3of7
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+,
+(06-2016) ...... Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+\¥)~ lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and lnfonmation Collections Branch (T-5
+..... F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an infonmation collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person. is not required to respond to, the infonmation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 002 01
+NARRATIVE
+For general information, when a 4160 volt breaker is required to be in TEST position, the breaker shall have
+been racked down, test position spindle inserted, test position cable assembly in place, 125 volt direct current
+(DC) control knife blade disconnect in closed position, and 4160 volt breaker springs charged.
+As specified under Limiting Conditions for Operations (LCO) Action Statement 3.9.B.2, "From and after the date
+that incoming power is not available from both startup and shutdown transformers, continued operation is
+permissible, provided both diesel generators and associated emergency buses remain operable, all core and
+containment cooling systems are operable, and reactor power level is reduced to 25 percent of design".
+EVENT DESCRIPTION
+On April 19, 2016, at approximately 1450 hours, it was discovered, and documented in the Corrective Action
+Program under Condition Report CR-PNP-2016-02735, that maintenance activities performed on protective
+relays between 2010 hours on August 26, 2014 and 0143 hours on August 27, 2014, had rendered the Startup
+Transformer (X4) and the standby EDGs (X-107A&B) unable to automatically supply power to Buses A5 and
+A6, due to the breaker interlock that prevents Startup Transformer breakers (152-504 and 152-604) and
+Standby EOG breakers (152-509 and 152-609) from closing when Bus A5 breaker (152-501) and Bus A6
+breaker (52-601) are in the TEST position and CLOSED. With incoming power unavailable from the shutdown
+transformer and power not automatically available from the startup transformer or the standby EDGs, the
+Limiting Conditions for Operation (LCO) 3.9.B.2 was not met. See Figure 1 for bus and breaker configuration.
+During functional testing of negative sequence relays 146-600/A and B undervoltage relays 127-600A/1 and 2
+and 127-600B/1 and 2, breakers 152-501 (shutdown transformer supply to Bus A5) and 152-601 (shutdown
+transformer supply to A6) are closed briefly and tripped on three different occasions in accordance with
+Procedure 3.M.3-1, Attachment 10. Based on a review of associated alarm data, operator logs, and interviews
+with maintenance personnel, the longest single duration when the buses were not operable was approximately
+13 minutes; the combined duration is estimated to be approximately 33 minutes.
+Since this event occurred in the past, no immediate actions were required. Work Order (W0-52581_885) for the
+next scheduled functional test has been placed on administrative hold pending implementation of associated
+corrective actions.
+CAUSE OF THE EVENT
+While performing the extent of condition review for this event it was discovered, and entered into the Corrective
+Action Program under CR-PNP-2016-04139, that surveillance procedure 3.M.3-29, Shutdown Transformer and
+23kV Relay Calibration and Functional Test, places the 4160V AC System in similar test configurations and
+operating conditions as procedure 3.M.3-1, Attachment 10. When the four year interval functional test required
+by procedure 3.M.3-29 was performed in February of 2014 it placed the plant in a configuration where both 4kV
+Emergency Buses A5 and A6 would have been prevented from automatically transferring to back-up power
+sources for approximately 26 minutes. Accordingly, the scope of the causal evaluation addresses the
+surveillance test configurations established by procedure 3.M.3-1, Attachment 10, and procedure 3.M.3-29.
+NRG FORM 366A (06-2016)
+Page 4of7
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150--0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~
+comments regarding burden estimate to the FOIA, Privacy and lnfonnation Collections Branch (T-5
+~ ....~. }
+I F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an infonnation collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the infonnation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 002 01
+NARRATIVE
+The root cause for placing the plant in a configuration where both Emergency Buses A5 and A6 would have
+been prevented from automatically transferring to back-up power sources is that the decision to perform
+3.M.3-1, Attachment 10, and 3.M.3-29 online, instead of during cold shutdown, lacked sufficient rigor to ensure
+compliance with Technical Specifications. A contributing cause of this condition is corrective actions were
+ineffective in resolving identified risks with the online performance of 3.M.3-1Attachment10 and 3.M.3-29
+protective relay functional tests. Another contributing cause is that Senior Reactor Operators have.less than
+adequate task specific knowledge of Limited Conditions.for Operation.
+CORRECTIVE ACTIONS
+The corrective action to prevent recurrence is to establish and institutionalize expectations and accompanying
+accountability for station leadership (i.e., supervisor and above) regarding consequence-biased decision
+making and effective risk management.
+Other correction actions include:
+• Revising procedures 3.M.3-1, Attachment 10, and 3.M.3-29 so that they may only be performed while in
+1
+the cold shutdown condition
+• Providing training to personnel on condition report initiation (Problem Identification) and corrective action
+closure quality (Evaluation and Resolution)
+• Developing and presenting training to SROs on integrated knowledge of operability, availability, risk
+mitigation, and LCO requirements
+SAFETY CONSEQUENCES
+The actual consequences of the procedure 3.M.3-1, Attachment 10, and procedure 3.M.3-29 surveillance test
+configurations placed the plant in a condition not allowed by Technical Specifications. As there was no
+initiating event, there were no actual safety consequences.
+The performance of procedure 3.M.3-1 and procedure 3.M.3-29 surveillance testing placed the plant in a
+configuration where both 4KV Emergency Buses A5 & A6 would have been prevented from automatically
+transferring to back-up power sources upon a plant scram. This testing placed the plant in a condition not
+allowed by Technical Specifications.
+Had there been an initiating event (plant scram) during the performance of procedure 3.M.3-1, both Emergency
+Buses A5 and A6 would be inoperable immediately and until the recovery action (tripping of breakers 152-501
+and 152-601) took place. The recovery action is a simple action, capable of being performed in the main
+control room or locally, and was part of the pre-job brief. Because the test configuration was brief and because
+qualified, dedicated operators were briefed and available to perform simple compensatory measures, the
+potential safety consequence was considered minimal.
+NRC FORM 366A (06-2016)
+Page S of 7
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) ...,... ......: -.. Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+\¥) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T·5
+.....
+F53), U.S. Nuclear Regulatory Commission; Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Of!ice of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an information collection does not display a currenUy valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05°000293
+2016 002 / 01
+NARRATIVE
+The potential safety consequence of this event if the "operator" barrier was removed is a station blackout
+condition. Had the resulting consequence of th'e August 2014 maintenance testing been a station blackout,
+PNPS Procedure S.3.31, Station Blackout, would have been entered and the prescribed immediate and
+subsequent actions taken until the preferred (34S kV Offsite) power source or the standby (onsite) EOG power
+source was restored.
+Had there been an initiating event (plant scram) during the performance of procedure 3.M.3-29, both
+Emergency Buses AS and A6 would be inoperable immediately and until the recovery actions (tripping of
+breakers 1S2-S01and1S2-601) took place. Unlike procedure 3.M.3-1, procedure 3.M.3-29 does not provide
+the following caution: "When breakers 1S 2-S01 and 1S 2-601 are placed in the TEST position and CLOSED, in
+the presence of a plant Scram neither AS nor A6 would automatically transfer to the Startup Transformer
+rendering both buses unavailable". In addition, unlike the testing performed under 3.M.3-1, it does not appear
+that risk activity compen.satory measures were identified to direct specific operator actions in the event of a
+plant scram. However, Bus AS and A6 recovery actions in the event of a plant scram while performing
+procedure 3.M.3-29 testing would be identical to recovery actions identified for procedure 3.M.3-1°, Attachment
+10.
+The potential safety consequence of this event if response (recovery) actions were delayed is the possibility of
+losing 4kV Buses AS & A6 for an extended period of time, resulting in a prolonged station blackout condition.
+Based on the anticipated success of operator action, the risk is considered Low.
+REPORTA BILITY
+This report is submitted in accordance with 10 CFR S0.73(a)(2)(i)(B) as any operation or condition prohibited by
+the plant's Technical Specifications and; 10 CFR S0.73(a)(2)(v)(A), S0.73(a)(2)(v)(B), S0.73(a)(2)(v)(C) and
+SO. 73(a)(2)(v)(D) as an event or condition that could have prevented the fulfillment of the safety function of a
+system needed to shut down the reactor and maintain it in a safe shutdown condition, remove residual heat,
+control the release of radioactive material; or mitigate the consequences of an accident and; 10 CFR
+SO. 73(a)(2)(vii) as any event where a single cause or condition caused at least one independent train or
+channel to become inoperable in multiple systems or two independent trains or channels to become inoperable
+in a single system designed to: (A) Shut down the reactor and maintain it in a safe shutdown condition; (B)
+Remove residual heat; (C) Control the release of radioactive material; or (D) Mitigate the consequences of an
+accident. This condition is also reportable under 1 O CFR SO. 73(a)(2)(ix)(A) as any event or GOndition that as a
+result of a single cause could have prevented the fulfillment of a safety function for two or more trains or '
+channels in different systems that are needed to (1) Shut down the reactor and maintain it in a safe shutdown
+condition; (2) Remove residual heat; (3) Control the release of radioactive material; or (4) Mitigate the
+consequences of an accident.
+NRC FORM 366A (06-2016)
+Page 6of7
+NRG FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~
+comments regarding burden estimate to the FOIA, Privacy and lnfonnation Collections Branch (T-5
+~ .....~
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an infonnation collection does not display a currently valid OMS control number, the
+NRC may not conduct -0r sponsor, and a person is not required to respond to, the infonnation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 002 01
+NARRATIVE
+PREVIOUS EVENTS
+None
+ENERGY INDUSTRY IDENTIFICATION SYSTEM (EllS) CODES
+The EllS codes for Components and Systems referenced in this report are as follows:
+COMPONENTS: N/A CODES: N/A
+SYSTEMS: EA CODES: N/A
+REFERENCES
+• Procedure 3.M.3-1, A5/A6 4kV Protective Relay Calibration/Functional Test and Annunciator
+Verification, Revision 136 "·
+• Procedure 3.M.3-29, Shutdown Transformer and 23kV Relay Calibration and Functional Test, Revision
+23
+• Condition Report CR-PNP-2016-02735
+• Condition Report CR-PNP-2016-04139
+• Work Order (W0-52581885)
+NRC FORM 366A (06-2016)
+Page 7 of 7
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150--0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+,
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+ii .....~ F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Pilgrim Nuclear Power Station 05000293
+2016 002 01
+NARRATIVE
+FIGURE 1
+24KV 24KV 345KV
+~ ~SOT SUT~
+UAT
+~ t
+·a·
+"A" 801
+EOG EOG
+600
+I
+~~ ~001
+1)509 ~501 ~504
+505 604
+PNPS
+REV. 001
+04115/02
+4160 BUS A-5 JEH 4160 BUS A-6
+) 502 ) 503 507 ) soa 603 607 ) 608
+~ ~
+I I
+TO TO
+BUSB·1 PNPS BUSB-2
+EMERGENCY BUS
+COMPOSITE
+(PROVIDED FOR GENERAL REFERENCE PURPOSES)
+NRC FORM 366A (06-2016)

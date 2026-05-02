@@ -1,0 +1,408 @@
+Constellation. 
+10 CFR 50.73 
+LG-25-118 
+August 12, 2025 
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, DC 20555-0001 
+Limerick Generating Station, Unit 1 
+Renewed Facility Operating License No. NPF-39 
+NRC Docket No. 50-352 
+Subject: LER 2025-002-00 Loss of Power to the 1A Reactor Protection System Resulted in 
+Multiple Invalid Primary Containment Isolations 
+In accordance with the requirements of 10 CFR 50. 73(a)(2)(iv)(A), Limerick Generating Station 
+hereby submits the enclosed Licensee Event Report. 
+There are no commitments contained in this letter. 
+If you have any questions, please contact Jordan Rajan at (610) 718-3400. 
+Respectfully, 
+Michael F. Gillin 
+Vice President - Limerick Generating Station 
+Constellation Energy Generation, LLC 
+cc: Administrator Region I, USNRC 
+USNRC Senior Resident Inspector, Limerick Generating Station 
+
+NRC FORM 366
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block)
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported lessons 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer 
+at:  OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory 
+Commission, 725 17th Street NW, Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is 
+not required to respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+1. Facility Name
+052 
+050
+2. Docket Number
+3. Page
+1 OF
+5. Event Date
+Month
+Day
+Year
+6. LER Number
+Year
+-
+Sequential 
+Number
+-
+Revision 
+No.
+7. Report Date
+Month
+Day
+Year
+8. Other Facilities Involved
+Facility Name
+Facility Name
+Docket Number
+Docket Number
+9. Operating Mode
+10. Power Level
+050
+052
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply)
+10 CFR Part 20
+20.2201(b)
+20.2201(d)
+20.2203(a)(1)
+20.2203(a)(2)(i)
+20.2203(a)(2)(ii)
+20.2203(a)(2)(iii)
+20.2203(a)(2)(iv)
+20.2203(a)(2)(v)
+20.2203(a)(2)(vi)
+20.2203(a)(3)(i)
+20.2203(a)(3)(ii)
+20.2203(a)(4)
+10 CFR Part 21
+21.2(c)
+10 CFR Part 50
+50.36(c)(1)(i)(A)
+50.36(c)(1)(ii)(A)
+50.36(c)(2)
+50.46(a)(3)(ii)
+50.69(g)
+50.73(a)(2)(i)(A)
+50.73(a)(2)(i)(B)
+50.73(a)(2)(i)(C)
+50.73(a)(2)(ii)(A)
+50.73(a)(2)(ii)(B)
+50.73(a)(2)(iii)
+50.73(a)(2)(iv)(A)
+50.73(a)(2)(v)(A)
+50.73(a)(2)(v)(B)
+50.73(a)(2)(v)(C)
+50.73(a)(2)(v)(D)
+50.73(a)(2)(vii)
+50.73(a)(2)(viii)(A)
+50.73(a)(2)(viii)(B)
+50.73(a)(2)(ix)(A)
+50.73(a)(2)(x)
+10 CFR Part 73
+73.77(a)(1)
+73.77(a)(2)(i)
+73.77(a)(2)(ii)
+73.1200(a)
+73.1200(b)
+73.1200(c)
+73.1200(d)
+73.1200(e)
+73.1200(f)
+73.1200(g)
+73.1200(h)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact
+Phone Number (Include area code)
+13. Complete One Line for each Component Failure Described in this Report
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+14. Supplemental Report Expected
+Yes (If yes, complete 15.  Expected Submission Date)  
+No 
+15. Expected Submission Date
+Month
+Day
+Year
+Limerick Generating Station, Unit 1
+■
+352
+3
+4. Title
+Loss of Power to the 1A Reactor Protection System Resulted in Multiple Invalid Primary Containment Isolations
+06
+13
+2025
+2025
+002
+00
+08
+12
+2025
+1
+100
+✔
+Jordan Rajan, Regulatory Assurance Manager
+610-718-3400
+B
+JC
+RLY
+A500
+Yes
+✔
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 13, 2025, at 10:23, Limerick Generating Station (LGS) Unit 1 experienced a loss of power to the "A" Reactor Protection 
+System (RPS) 120 VAC Distribution Panel that resulted in a Unit 1 "A" RPS half scram, Main Steam Isolation Valve (MSIV) half 
+isolation signal, and primary containment isolations in multiple systems. The most probable cause of the power loss was due to 
+an under-frequency relay spurious trip condition. The under-frequency relay was replaced and post maintenance testing was 
+completed satisfactorily. Power was restored to the panel and all systems were returned to service.  
+This event caused invalid primary containment isolation signals in multiple systems which is reportable in accordance with 10 
+CFR 50.73(a)(2)(iv)(A).   
+/~•"''"'"•,.,\ 
+\,~ ~j 
+,;, ... ,. ••• + 
+□ 
+□ 
+□ 
+□ 
+I 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1. FACILITY NAME
+2. DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+Unit Condition Prior to Event 
+Prior to the event, Unit 1 was in Operational Condition (OPCON) 1 (Power Operation) at approximately 100 percent 
+power. There were no other structures, systems, or components out of service that contributed to this event. 
+Description of the Event 
+On June 13, 2025, at 10:23, Limerick Generating Station (LGS) Unit 1 was at 100 percent power. The Unit 1 "A" (1A) 
+Reactor Protection System (RPS) [JC] 120 VAC Distribution Panel experienced a loss of power resulting in a 1A RPS half 
+scram, Main Steam Isolation Valve (MSIV) half isolation signal, and multiple primary containment isolations. The following 
+systems isolated: Drywell Chilled Water (DWCW), Reactor Enclosure Cooling Water (RECW), Primary Containment 
+Instrument Gas (PCIG), Reactor Water Cleanup (RWCU), Containment Leak Detection, Drywell Equipment & Floor Sump 
+Drains, and Reactor Enclosure ventilation. A single train of the Standby Gas Treatment System (SGTS) started. All 
+systems responded as designed. 
+Troubleshooting determined the most probable cause to be a spurious trip of an under-frequency relay, 81-CY24801, for 
+a supply circuit breaker to the 1A RPS 120 VAC Distribution Panel. The 1A RPS circuit breaker bypass disconnect switch 
+was closed to restore power to the panel and reset isolation signals. On June 14, 2025, the relay was replaced and the 
+normal alignment was restored. 
+These system actuations were not in response to actual plant conditions or parameters satisfying the requirements for 
+initiation of the system. The plant responded as expected due to loss of power to the 1A RPS 120 VAC Distribution Panel. 
+This event is reportable as an invalid actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A). 
+Analysis of the Event 
+The supply circuit breaker within the 1A RPS 120 VAC Distribution Panel tripped open, due to a spurious actuation of the 
+under-frequency relay, 81-CY24801. System actuations responded to the loss of power condition as expected with no 
+issues. The station performed troubleshooting to identify the cause of the loss of power to the 1A RPS 120 VAC 
+Distribution Panel. Once the problem was identified, the station restored power to the panel, reset the isolations, and 
+returned the systems to service. 
+Safety Consequence 
+There were no actual nuclear safety consequences. The affected systems responded as designed to an invalid under-
+frequency trip signal. No safety functions were lost during this event. 
+Cause of the Event 
+The most probable cause of the loss of power to the 1A RPS 120 VAC Distribution Panel was due to a spurious trip of the 
+under-frequency relay. Failure analysis was unable to determine a definitive cause for the spurious operation.
+2
+3
+Limerick Generating Station, Unit 1
+352
+2025
+002
+00
+■
+,><,,.y-P. AEOt,<.,> 
+• 
+0. 
+f 
+i 
+. 
+. 
+i'+? 
+,i! 
+··••"' 
+I 
+I~ 
+I 
+I□ I 
+11 D 
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1. FACILITY NAME
+2. DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+Corrective Actions Completed 
+The under-frequency relay was replaced. 
+Corrective Actions Planned 
+The station will evaluate implementing a replacement strategy for the under-frequency relay. 
+Previous Similar Occurrences 
+Unit 1 LER 2024-002-00 Invalid Actuation Due to a Trip of 1B RPS Circuit Breaker - This trip was caused by a defective 
+circuit breaker occurring after the completion of testing. 
+Component Data 
+System -            JC (Plant Protection System) 
+Component -     RLY 
+Manufacturer -  A500 (Asea Inc)
+3
+3
+Limerick Generating Station, Unit 1
+352
+2025
+002
+00
+■
+,><,,.y-P. AEOt,<.,> 
+• 
+0. 
+f 
+i 
+. 
+. 
+i'+? 
+,i! 
+··••"' 
+I 
+I~ 
+I 
+I□ I 
+11 D 

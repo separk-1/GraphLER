@@ -1,0 +1,172 @@
+e..l_~
+DUKE John A. Krakuszeski
+Vice President
+ENERGY®
+~ Brunswick Nuclear Plant
+8470 River Rd SE
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+September 21, 2020
+Serial: RA-20-0268
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2020-003
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, is submitting the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Ms. Sabrina Salazar, Manager - Nuclear
+Support Services, at (910) 832-3207.
+Sincerely,
+John A. Krakuszeski
+SBY/sby
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+Ms. Laura Dudes, NRC Regional Administrator, Region II
+Mr. Andrew Hon, NRC Project Manager
+Mr. Gale Smith, NRC Senior Resident Inspector
+Chair - North Carolina Utilities Commission
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 3
+4. Title
+Automatic Specified System Actuations due to Loss of Offsite Power
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year Brunswick, Unit 2 05000324
+08 03 2020 2020 - 003 - 00 09 21 2020 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 019
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Sabrina Salazar, Manager – Nuclear Support Services (910) 832-3207
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 23:02 Eastern Daylight Time on August 3, 2020, with Unit 1 in Mode 1 at approximately 19% power during Hurricane Isaias, a loss
+of the transformer bus powering the Startup Auxiliary Transformer (SAT) resulted in a Loss of Offsite Power (LOOP). By design, all
+Main Steam Isolation Valves closed and an automatic reactor scram occurred. All control rods inserted as expected on the scram. At
+the time of this event the main generator was removed from service due to unrelated generator ground issues and all plant loads were
+being supplied by the SAT.
+By design, the LOOP resulted in automatic actuation of Primary Containment Isolation System (PCIS) Group 1, 2, 3, 6, and 8 isolation
+valves. In addition, all four emergency diesel generators (EDGs) started, with EDGs 1 and 2 loading to their respective emergency
+buses per design. Reactor water level reached low level 1 following the scram resulting in automatic actuation of PCIS Groups 2, 6,
+and 8, by design.
+The electrical fault that caused the transformer bus powering the SAT to trip and subsequent LOOP was determined to be a result of
+storm generated debris.
+There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) due to valid actuation of the Reactor Protection System, PCIS, and EDGs.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000- 325 YEAR NUMBER NO.
+Unit 1
+2020 - 003 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 19 percent rated thermal power. Unit 2 was
+in Mode 1 (i.e., Power Operation), at approximately 100 percent rated thermal power.
+Reportability Criteria
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) because it involved actuation of systems listed in
+10 CFR 50.73(a)(2)(iv)(B). Specifically, the Reactor Protection System (RPS) [JC], Primary Containment Isolation System (PCIS)
+[JM], and the Emergency Diesel Generators (EDGs) [EK] actuated during this event.
+Per 10 CFR 50.72(a)(1)(i), the NRC was notified of an Unusual Event (UE) being declared via Event Notification 54812 at 23:31
+Eastern Daylight Time (EDT) on August 3, 2020. The NRC was notified of the RPS [JC] actuation while critical and the valid
+specified system actuations per 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR 50.72(b)(3)(iv)(A), respectively, via an update to Event
+Notification 54812 at 01:20 EDT on August 4, 2020.
+Event Description
+At 23:02 EDT on August 3, 2020, with Unit 1 in Mode 1 at approximately 19% power during Hurricane Isaias, a loss of the
+transformer bus powering the Startup Auxiliary Transformer (SAT) [EA] resulted in a Loss of Offsite Power (LOOP). By design, all
+Main Steam Isolation Valves (MSIVs) [JM] closed and an automatic reactor scram occurred. All control rods inserted as expected on
+the scram.
+At the time of this event the main generator was removed from service and all plant loads were being supplied by the SAT. Power
+had been lowered to 19% prior to the event in preparation for shutting down for maintenance associated with unrelated generator
+ground issues.
+By design, the LOOP resulted in automatic actuation of Primary Containment Isolation System (PCIS) Group 1 (i.e., main steam),
+Group 2 (i.e., floor and equipment drain), Group 3 (i.e., reactor water cleanup), Group 6 (i.e., monitoring and sampling), and Group 8
+(i.e., shutdown cooling) isolation valves. In addition, all four emergency diesel generators (EDGs) started, with EDGs 1 and 2
+loading to their respective emergency buses per design. Reactor water level reached low level 1 following the scram resulting in
+automatic actuation of PCIS Groups 2, 6, and 8, by design.
+At 23:12 EDT on August 3, 2020, Unit 1 declared a UE due to the LOOP. The UE was exited at 14:54 on August 4, 2020.
+Event Cause
+Extensive investigation and testing concluded that the electrical fault that caused the transformer bus powering the SAT to trip and
+subsequent LOOP was not a result of an equipment failure. The fault was determined to be a result of storm generated debris from
+Hurricane Isaias.
+Safety Assessment
+There was no adverse impact on the health and safety of the public. The safety significance of this event is minimal. The automatic
+reactor trip was as expected, and all safety related systems operated as designed.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000- 325 YEAR NUMBER NO.
+Unit 1
+2020 - 003 - 00
+NARRATIVE
+Corrective Actions
+Testing on all components that could have caused the electrical fault was completed on August 7, 2020. Resetting and re-energizing
+the Unit 1 Transformer Bus and placing load on the Unit 1 SAT was completed on August 9, 2020.
+Previous Similar Events
+No events have occurred within the past three years in which a LOOP has occurred.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (08-2020) Page 3 of 3

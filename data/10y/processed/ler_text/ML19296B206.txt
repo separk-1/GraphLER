@@ -1,0 +1,329 @@
+Exelon Generation.
+SVP-19-074 10 CFR 50.73
+October 23, 2019
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-29
+NRG Docket No. 50-254
+Subject: Licensee Event Report 254/2019-002-00 "Phase to Ground Fault in Isolated Phase
+Bus Duct Led to Generator Trip and an Automatic SCRAM"
+Enclosed is Licensee Event Report 254/2019-002-00 "Phase to Ground Fault in Isolated Phase Bus
+Duct Led to Generator Trip and an Automatic SCRAM," for Quad Cities Nuclear Power Station,
+Unit 1.
+This report is submitted in accordance with 1 O CFR 50.73(a)(2)(iv)(A) for an event or condition that
+resulted in automatic actuation of the reactor protection system (RPS) causing a SCRAM, and
+containment isolation signals affecting containment isolation valves in more than one system.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Rachel Luebbe at
+(309) 227-2813.
+Kenneth S. Ohr
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRG Region Ill
+NRG Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estimated burden per response to compt,r with this mandatory colle<:tion request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated ilto the licensing process and fed back to
+.~ ·¥.,. industry. Send comments regarding burden estinate to the Information Services Blanch
+(See Page 2 for required number of digits/characters for each block) (T·2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+<
+"
+•
+;
+.,
+~
+0 0
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+t
+W R
+o
+e a g s
+ln
+u h
+!
+l i a
+o
+n t
+c
+g o
+o
+t r o y
+lle
+n ,
+c t
+A
+s
+O f
+.
+f
+R
+C ai
+e
+r 2 s
+s
+0 ,
+o
+5
+u
+0 N
+rc
+3 E
+e
+. O
+@
+B I
+n
+f -
+r
+1
+c
+a 0
+.g
+2 m
+o
+0
+v
+2 e
+,
+, a n
+a
+s (
+n
+3
+d
+1 u 5 s
+t
+0 e
+o
+- d 0 1
+th
+t 0 o
+e
+4 ) i , m
+D
+p
+e
+O o
+s
+s f
+k
+f e i c e
+O
+a
+f
+n
+fi
+o
+ce
+f il f
+r
+o
+,
+M rm
+O
+a a
+f
+n
+!K
+t a io
+:
+g
+e
+n e m
+o
+c e
+!
+o n ll t
+I
+e
+n
+c
+fo
+t a io
+r
+n
+m
+n d
+a
+d
+tio
+o B
+n
+e u s d g
+a
+n
+n
+e o
+d
+t. t
+'</""' &!1 http:/fwww.nrc.gov/reading-rm/doc-coltect'1ons/nuregs/staff/sr1022/r3D display a currently varld OMB control number, the NRG may not conduct or sponsor. and a
+"'***"' person is not required 10 respond to, the ilforrnation collection.
+1. F~cility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 4
+4, Title
+Phase to Ground Fault in Isolated Phase Bus Duct Led to Generator Trip and an Automatic SCRAM
+5. Event Date 6, LEA Number 7, Report Date 8. Other Facilities Involved
+Month D•y Year Year I S N eq u u m e b n e ti r a l I " N " o, Month D•y Year n Fa /a c ility Name 05 D 0 o 0 c 0 ke t Number
+- - Facility Name Docket Number
+08 25 2019 2019 002 00 10 24 2019 n/a 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50. 73(a)(2)(ii)(A) D 50. 73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50. 73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50. 73(a)(2)(ix)(A)
+D 20.2203(a){2)(il D 50.36(c){1 )(i)(A) [8] 50. 73(a)(2)(iv)(A) D 50.73(a){2)(x)
+10. Power Level D 20.2203(a){2)(ii) D 50.36(c){1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a){4)
+D 20.2203(a){2)(iii) D 50.36(c){2) D 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+D 20.2203(a){2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+100 D 20,2203(a){2)(v) D 50.73(a)(2)(i)(A) D 50,73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20,2203(a){2)(vi) D 50.73(a){2)(i)(B) D 50. 73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) D 01her (Specify in Abstract below or in NRG Form 366A)
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+Richard Swart - Regulatory Assurance 309-227-2810
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B EL IPBU G080 y N/A
+14. Supplemental Report Expected Month D•y Year
+15. Expected Submission Date
+D Yes (If yes, complete 15. Expected Submission Date) [8] No n/a
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single~spaced typewritten lines)
+On August 25, 2019, at 1102 hours CDT, Quad Cities Nuclear Power Station (QCNPS) Unit 1 experienced an automatic reactor
+SCRAM from 100 percent power. The SCRAM was the result of a generator trip that occurred when leakage current measured by
+the Generator Stator Ground Detection Relay exceeded its threshold and actuated the Generator Primary Lock Out Relay (86
+Device). Following the Reactor SCRAM, water was found in the "A" Isolated Phase Bus Duct (IPBD) between the Unit Aux
+Transformer (UAT) and the wall of the Turbine Building, It was determined that water entered through a degraded access cover
+gasket located on the IPBD and the resulting condensation within the duct caused current leakage through one or more of the
+insulators that support the bus. The corrective ?Ctions include replacement of the insulators that were impacted by the water,
+replacing the degraded gaskets and implementing additional preventative maintenance activities on the IPBD system.
+This is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) for an event or condition that resulted in automatic actuation of
+the reactor protection system (RPS) and containment isolation signals for Groups 2 and 3 affecting containment isolation valves in
+more than one system.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB' NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.$. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555·0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150·0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonnation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http:l/www.nrc.gov/reading-rm/doc-collections/nuregs/stafflsr1022/r30
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2019 - 002 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Phase to Ground Fault in Isolated Phase Bus Duct Led to Generator Trip and an Automatic SCRAM
+A. CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: August 25, 2019 Event Time: 1102 hours
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+There were no other structures, systems or components (SSC) inoperable during this event time period that could
+have contributed to this event.
+B. DESCRIPTION OF EVENT
+On August 251h, 2019, at 07:43, the Main Control Room (MGR) started receiving repeated alarms from the Main
+Generator [TB] Stator Ground Detection Relay. Each time the alarm would clear within 1 second. A total of 8 alarms
+were recorded between 07:43 and 08:40.
+Operators were dispatched to the relay but given the rapid clearing of the alarm condition, with no alarm flags present,
+it was believed the relay was acting erratically and not indicating an actual ground. The concern was mitigated when
+the alarms subsided.
+Approximately 2 hours later at 10:43, the ground relay trouble alarm was again received and cleared, alarming once
+again at 10:52 before alarming and initiating the Generator trip at 11 :02. The Generator trip resulted in a trip of the
+Main Turbine and the subsequent automatic SCRAM of Unit 1. Group 2 and Group 3 containment isolations [JM]
+were caused by lowering Reactor Water Level, which subsequently recovered to normal level via the Feedwater [SJ]
+system.
+Several additional relays annunciated during the event indicating the trip was likely caused by a valid ground
+condition.
+C. CAUSE OF EVENT
+During subsequent troubleshooting it was determined that the ground was located in the Isolated Phase Bus Duct
+(IPBD)[EL] that carries the "A" phase conductor going from the Generator to the Unit Aux Transformer (UAT). The
+ground was specifically located in the outdoor run of the "A" IPBD, between the UAT and the Turbine Building wall.
+Inspections identified standing water and evidence that the water (rain) had entered the duct through degraded
+gaskets located on two hinged covers. The covers are typically not accessed and are not included in the existing
+preventive maintenance (PM) scope for the IPBD system. The lack of a PM for the hinged cover gaskets is the root
+cause for this event.
+NRG FORM 366A (04-2018) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 · EXPIRES: 0313112020
+(04·2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER} regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555·0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/stafftsr1022/r30
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2019 • 002 00
+NARRATIVE
+D. SAFETY ANALYSIS
+System Design
+The IPBD system associated with the UAT utilizes bare aluminum conductors that transfer electrical energy from the
+Main Generator to the UAT. There is a single conductor fer each phase of the circuit and each conductor is housed in
+a grounded aluminum duct thareffectively isolates each phase from the other. The conductors are positioned in the
+center of each bus duct to maintain sufficient air gap between the conductor and the bus duct walls. Insulators
+mounted to the top of the bus duct are used to position and support the conductor. Each insulator consists of a
+porcelain material that provides very high resistance to current flow and maintains the electrical separation between
+the conductor and the bus duct. The bus ducts are designed to be protected from water intrusion to prevent
+condensation from forming on the insulators and degrading their insulative qualities.
+Safety Impact
+The safety significance of this event was minimal. Reactor Water Level lowered following the automatic SCRAM and
+was recovered via the Feedwater system. No relief valves were actuated during the event as Reactor pressure was
+controlled by the Turbine Bypass valves. All post-SCRAM equipment functioned properly.
+The automatic SCRAM resulted in an event notification in accordance with 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR
+50.72(b)(3)(iv)(A). (ENS 54239, 1551 .hours (ET), 8/25/19)
+Risk Insights
+The equipment responsible for monitoring and detecting the presence of a phase to ground fault on the Main
+Generator circuit performed exactly as intended and proactively tripped the Generator as designed. 'There were no
+inoperable systems or Technical Specification action statements in place at that time to complicate the event. The
+operators responded to the event by performing the required actions safely and in accordance with procedures and
+training.
+This event is a Maintenance Rule Functional Failure (MRFF). This event is not a Safety System Functional Failure
+(SSFF).
+E. CORRECTIVE ACTIONS
+Immediate Corrective Actions:
+1. The insulators affected by the water intrusion were replaced
+2. The degraded gaskets on the hinged covers for the "A" IPBD were replaced
+Follow-up Corrective Actions:
+1. Additional PM activities related to gaskets and inspections will be implemented on the IPBDs
+NRC FORM 366A (04·2018) Page_3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB' NO. 3150·0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently va!id OMS control number, the NRG may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Quad Cities Nuclear Power Station Unit 1 05000254 NUMBER NO.
+2019 - 002 00
+NARRATIVE
+F. PREVIOUS OCCURRENCES
+No similar events were identified where a degraded gasket in the IPBD or non-segregated bus duct system allowed
+moisture intrusion or contributed to a fault.
+G. COMPONENT FAILURE DATA
+Failed Equipment - "A" Isolated Phase Bus Duct
+Component Manufacturer - General Electric
+Component Model - Miniflux
+Component Type - Self-Cooled
+This event has been reported to ICES/IRIS.
+NRC FORM 366A (04·2018) Page _4_ of _4_

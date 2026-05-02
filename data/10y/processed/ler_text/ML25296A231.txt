@@ -1,0 +1,296 @@
+Dresden Nuclear Power Station
+6500 North Dresden Road
+Constellation Morris, IL 60450
+October 23, 2025 10 CFR 50.73
+SVPL TR 25-0065
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Dresden Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-19
+NRC Docket No. 50-237
+Subject: Licensee Event Report 237/2024-001-01, Containment Cooling Service Water Valve
+Failure Resulted in a Condition Prohibited by Technical Specifications and Loss of
+Safety Function
+Enclosed is a revision to Licensee Event Report 237/2024-001-01, Containment Cooling
+Service Water Valve Failure Resulted in a Condition Prohibited by Technical Specifications and
+Loss of Safety Function. This report describes an event being reported in accordance with 10
+CFR 50.73(a)(2)(i)(B), 10 CFR 50.73(a)(2)(v)(B) and 10 CFR 50.73(a)(2)(v)(D) for a Condition
+Prohibited by Technical Specifications and Condition that Could Have Prevented Fulfillment of a
+Safety Function.
+There are no regulatory commitments contained in this submittal.
+Should you have any questions concerning this letter, please contact Mr. Daniel J. Murphy,
+Regulatory Assurance Manager, at (779) 231-7443.
+Respectfully,
+Hardik Patel
+Site Vice President
+Dresden Nuclear Power Station
+Enclosure: Licensee Event Report 237/2024-001-01
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+/'~v•.-~:•,\ LICENSEE EVENT REPORT (LER) estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M). U. S. Nuclear Regulatory
+:..~ zl Commission, Washington, DC 20555-0001, or by email to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+.., .? ..... .,.o' (See Page 2 for required number of digits/characters for each block) at: 0MB Office of lnfoonation and Regulatory Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission. 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a cuoently valid 0MB control number.
+1. Facility Name ~ 050 2. Docket Number 3.Page
+Dresden Nuclear Power Station, Unit 2 00237 1 OF 5
+□ 052
+Containment Cooling Service Water Valve Failure Resulted in a Condition Prohibited by Technical Specifications and Loss of
+Safety Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year □ 050
+04 30 2024 2024 001 01 10 23 2025 Facility Name Docket Number
+□ 052
+9. Operating Mode 110. Power Level
+1 - Power Operation 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A) 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1 )(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+D
+□ 20.2201 (d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1 )(ii)(A) □ 50. 73(a)(2)(iii) □ 50.7 3(a)(2)(ix)(A) 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x) □ 73.1200(d)
+D
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)( 3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+D D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.69(g) ~ 50.73(a)(2)(v)(B) 73.77(a)(1) □ 73.1200(f)
+D
+□ 20.2203(a)(2)(i ii) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) 73. 77(a)(2)(i) □ 73.1200(9)
+D
+□ 20.2203(a)(2)(iv) ~ 50.73(a)(2)(i)(B) ~ 50.73(a)(2)(v)(D) 73. 77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+D
+OTHER (Specify here, in abstract, or NRG 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Daniel J Murphy, Manager, Site Regulatory Assurance (779) 231-7443
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B Bl FD 8135 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+~ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 4/30/2024 at 10:07 CST when starting a Containment Cooling Service Water (CCSW) Pump, the Dresden Unit
+2 Containment Cooling Heat Exchanger Division I Tube Side Discharge Valve failed to open. The safety related
+function of the valve is to control cooling water flow through the heat exchanger tubes to remove heat from
+containment. The condition was corrected at 03: 10 on 5/1/2024. The station determined the Division I CCSW
+system was inoperable for 28.5 days, therefore, an Operation or Condition Prohibited by Technical Specifications
+existed for greater than the Limiting Condition of Operation (LCO) time of 7 days. During this period, surveillance
+testing performed on 4/3/2024 resulted in the Division II subsystem being inoperable for 3 hours and 39 minutes
+resulting in an Event or Condition that Could Have Prevented Fulfillment of a Safety Function. The root cause of the
+event was a cracked yoke weld that allowed the actuator to flex away from the valve body. This resulted in
+overtravel of the valve position potentiometer during valve closure, causing an open permissive in the valve's
+control logic. This was corrected by a weld repair, potentiometer and valve stroke length adjustments. This report is
+being submitted under 10 CFR 50. 73(a)(2)(i)(B), 10 CFR 50.7 3(a)(2)(v)(B) and 10 CFR 50. 73(a)(2)(v)(D).
+NRG FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www. n re.gov /reading-rm/doc-collections/nu regs/staffi s r1 022/r3/l displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Dresden Nuclear Power Station, Unit 2 00237
+□ 052 2024 - 001 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 megawatts thermal rated core power
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+CONDITIONS PRIOR TO EVENT
+Unit: 2 Event Date: April 30, 2024 Event Time: 10:07 CST
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100 percent
+No structures, systems, or components were inoperable at the time of the event that contributed to the event.
+A. DESCRIPTION OF EVENT
+On 4/30/2024 at 10:07 CST, with Dresden Unit 2 at 100 percent power, while performing operations to support
+Suppression Pool [BO] level control, no CCSW [Bl] flow was observed on the instrumentation in the Main
+Control Room (MCR) following system start. When 2A CCSW [Bl] Pump was started per Dresden Operating
+Procedures, the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] did not automatically open (dual
+indication) as expected. The system is designed to remove energy from the suppression pool [NH] by rejecting
+heat to the CCSW [Bl] system. Suppression pool cooling [BO] or containment [NH] sprays may be initiated
+following a Loss of Coolant Accident (LOCA) using a portion of the non-selected Low Pressure Coolant
+Injection (LPCI) [BO] loop, which is not required to perform a LPCI [BO] function. When CCSW [Bl] is initiated,
+the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] is designed to open based on demand from a
+Differential Pressure (DP) Controller [PDC].
+A past operability review was completed on 6/20/2024 and determined that the Heat Exchanger [HX] 'A' Tube
+Side Discharge Valve [PDCV] was incapable of performing its function after the valve [PDCV] was opened and
+closed for Post Maintenance Testing (PMT) at 14:24 CST on 4/2/2024. This was not discovered until the past
+operability was reviewed for reporting criteria on 11/27/2024 and determined to be reportable under 10 CFR
+50.73.
+When the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] failed to open on 4/30/2024, Technical
+Specification (TS) 3.7.1 Conditions A and C were entered for Division 1 CCSW [Bl] being declared inoperable.
+Division 1 Suppression Pool Cooling [BO], Suppression Pool [NH] Spray and Drywell [NH] Spray were also
+INOPERABLE (TS 3.6.2.3, 3.6.2.4 and 3.6.2.6 respectively). The Limiting Condition of Operation (LCO) time
+for one subsystem inoperable is 7 days, therefore an Operation or Condition Prohibited by TS existed from
+4/10/2024 02:24 CST to 5/1/2024 03:10 CST. This is being reported under 10 CFR 50.73(a)(2)(i)(B).
+Additionally, from 00:42 to 04:21 CST on 4/3/2024, the opposite Division II CCSW [Bl], Suppression Pool
+Cooling [BO], Suppression Pool [NH] Spray and Drywell [NH] Spray were inoperable due to surveillance
+testing on Unit 2 LPCI [BO] Initiation circuitry. This also resulted in an Event or Condition that Could Have
+NRC FORM 366A (04-02-2024) Page_2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response lo comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001. or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required lo
+(See NUREG-1022, R3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www. n re.g ov /reading-rm/doc-collections/nu regs/staff/ sr1 022/r3Q displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Dresden Nuclear Power Station, Unit 2 00237
+□ 052 2024 - 001 - 01
+NARRATIVE
+Prevented Fulfillment of a Safety Function and is being reported under 10 CFR 50.73(a)(2)(v)(B) and 10 CFR
+50.7 3(a)(2)(v)(D).
+B. CAUSE OF EVENT
+The Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] failed to open from the MCR due to
+potentiometer [FD] over-range feedback causing the downstream relay [RL Y] to remain open_ Without this
+open permissive being made up, the valve [PDCV] was unable to be operated from the MGR. The direct cause
+of the valve [PDCV] failure to operate was the position feedback potentiometer [FD] over-ranging, thus
+preventing the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] from responding to demand from
+the controller [PDC] as required. The root cause of the failures was a cracked weld between the actuator
+mounting plate and the top of the valve [PDCV] yoke. This allowed the actuator to flex away from the valve
+[PDCV] body, effectively increasing the stroke length. This degraded condition resulted in over-ranging of the
+potentiometer [FD]. Contributing, this weld was performed in 1977 following a yoke replacement/repair, and is
+the only one of the four CCSW Heat Exchanger Discharge Valve [PDCV] yokes with any evidence of work
+having been performed. A bad weld was likely introduced in 1977 and was subject to low load cyclic fatigue
+which contributed to the slow propagation of a crack along the heat affected zone on the actuator mounting
+plate side of the weld. The valve [PDCV] stroke length was found to be using nearly the full band of the
+potentiometer [FD] and required little additional movement for overtravel into the dead-band region when the
+valve [PDCV] was taken to the full closed position. The design of the 2(3)-1501-3A(B) valves logic is not fault
+tolerant, where position feedback potentiometers feed into the control logic and, if over-ranged, will cause the
+valve to fail to respond to demand from the controller.
+The valve [PDCV] had previously been cycled open and closed at 14:24 on 4/2/24 as part of PMT. The valve
+[PDCV] was not operated again until the failure was identified at 10:07 on 4/30/24. On 4/2/24 the potentiometer
+[FD] would have over-traveled and caused a failure to open at the next open demand from the Differential
+Pressure (DP) Controller [PDC] within the MGR. This condition would not have been apparent until the next
+attempt to operate the valve [PDCV] via the MGR. With the failure mechanism being associated with the
+potentiometer [FD] over-travelling when the valve [PDCV] is taken to full close, there is reasonable assurance
+the valve [PDCV] would have performed its function prior to 4/2/24.
+C. SAFETY ANALYSIS
+The Dresden Updated Final Safety Analysis Report (UFSAR) long-term Design Basis Accident-LOCA (DBA
+LOCA) analysis assumes one Containment Cooling loop [BO] with one heat exchanger [HX] is available for
+containment [NH] cooling, being manually initiated at 10 minutes. Assuming the suppression pool [NH] and
+CCSW [Bl] initial temperature is at TS limits of 95 degrees Fahrenheit, the peak suppression pool [NH]
+temperature is 196 degrees Fahrenheit. The heat removal capability of one subsystem is sufficient to meet the
+overall OBA cooling requirement for LOCAs and transient events. Additional margin to containment limits is
+provided by nominal plant parameters.
+For 3 hours and 39 minutes, while in Modes 1, 2 and 3, both divisions of Suppression Pool Cooling [BO],
+Suppression Pool [NH] Spray and Drywell [NH] Spray were inoperable. Division I was inoperable due to the U2
+Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV], preventing CCSW [Bl] flow. Division II was
+NRC FORM 366A (04-02-2024) Page _3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024 I
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate lo the FOIA, Library. and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer al: 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW.
+Washington. DC 20503. The NRC may not conduct or sponsor, and a person is not required lo
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www. n re.gov /reading-rm/doc-collections/nu regs/staff/ sr1 022/r3Q displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Dresden Nuclear Power Station, Unit 2 00237
+□ 052 2024 - 001 - 01
+NARRATIVE
+inoperable due to LPCI [BO) pump breakers [BKR) being racked to test. In this condition, LPCI [BO) flow from
+Division I was capable of providing flow to containment [NH) sprays. Without cooling from CCSW [Bl). this
+spray flow would cool noncondensible gases, condense steam, and assist the natural convection and diffusion
+mixing of hydrogen and oxygen in the containment following a postulated LOCA. The flow would also continue
+to provide scrubbing by the containment [NH) sprays to reduce the activity of elemental iodine and aerosols
+released from the core.
+With two subsystems inoperable, an 8 hour Completion Time to restore one is based on the loss of function,
+and is considered acceptable due to the low probability of a OBA and the potential avoidance of a plant
+shutdown transient that could result in the need for the subsystems to operate. Operators were able to cycle
+the U2 Heat Exchanger [HX) 'A' Tube Side Discharge Valve [PDCV) locally using operating procedures.
+Additionally, operators had been briefed, were standing by, and at least one LPCI [BO) pump on Division II
+would have been able to be restored in approximately 10 minutes, with the second LPCI [BO) pump being
+restored two to three minutes later. During a LOCA (assuming conservative 10 CFR 50 Appendix K model
+numbers), peak cladding temperature reaches 2136 degrees Fahrenheit, which will result in some fuel failure
+and an increase in radiation in the areas required to restore at least one division. During nominal plant
+operational parameters, fuel cladding remains below 1500 degrees Fahrenheit following a DBA-LOCA, and
+therefore, based on Engineering Judgement, the radiation and temperatures in these areas is expected at
+levels commensurate with normal operating conditions. During the 3 hours and 39 minutes, suppression pool
+[NH) temperature was a nominal 79 degrees Fahrenheit, CCSW [Bl] was a nominal 77 degrees Fahrenheit,
+providing additional margin to limits.
+A. CORRECTIVE ACTIONS
+Corrective actions adjusted the potentiometer [FD) and the stroke length for the Heat Exchanger [HX) 'A' Tube
+Side Discharge Valve [PDCV). The cracked weld was repaired and extent of condition inspections were
+performed on the other three Heat Exchanger [HX] Tube Side Discharge Valves [PDCV]. Compensatory
+actions have been put in place to verify/validate the logic following each operation until modifications have
+been completed and updates were made to the database sheets with the limitations associated with the
+potentiometer [FD].
+Long-term corrective actions are to perform:
+Modifications to the Heat Exchanger [HX] Tube Side Discharge Valves [PDCV] logic to remove/modify position
+feedback so as to not prevent the valve from performing its function; replacement of the 'A' Tube Side
+Discharge Valve [PDCV] yoke; and adjustments of the other division and Dresden Unit 3 Heat Exchanger [HX]
+Tube Side Discharge Valves [PDCV]. However, these three have been verified to have margin on the
+potentiometers [FD] during valve [PDCV) cycling and have no history of yoke repairs. The modification will also
+support prevention of re-closure due to torque switch relaxation. Additional correctives include replacement of
+the yoke and mounting plate on the 2-1501-3A.
+NRC FORM 366A (04-02-2024) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M). U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov. and the 0MB reviewer al: 0MB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor. and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www. n re.g ov/ read inq-rm/doc-col lections/n uregs/staff/ sr1 022/r3/) displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Dresden Nuclear Power Station, Unit 2 00237
+□ 052 2024 - 001 01
+NARRATIVE
+B. PREVIOUS OCCURRENCES
+A review of NRC LERs and the internal Corrective Action Program (CAP) was performed ranging back to 1971.
+A yoke repair/replacement was performed on the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV]
+which included performing the weld that degraded in 1977, and is the only one of the four CCSW Heat
+Exchanger Discharge Valve [PDCV] yokes with evidence of work being performed.
+The Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] failed to open due to the potentiometer on
+06/03/1977, unknown causes on 12/16/1977, potentiometer on 11/21/1983, and 02/29/1996.
+On 11/14/2023, the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] failed to operate during a
+CCSW [Bl] Loop Flow Verification surveillance, while returning the system to service. The direct cause of the
+valve [PDCV] failure to operate on was the position feedback potentiometer [FD] over-ranging, thus preventing
+the Heat Exchanger [HX] 'A' Tube Side Discharge Valve [PDCV] from responding to demand from the
+controller [PDC] as required. The root cause of the failures was the cracked weld between the actuator
+mounting plate and the top of the valve [PDCV] yoke. This event did not result in result in a reportable
+condition.
+C. COMPONENT FAILURE DATA
+System: Bl
+Component: FD
+Manufacturer: B135
+Nomenclature: Single Turn Potentiometer
+Model Number: 5611R1KL.5
+NRC FORM 366A (04-02-2024) Page _5_ of _5_

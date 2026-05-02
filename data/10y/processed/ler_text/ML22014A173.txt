@@ -1,0 +1,199 @@
+Exelon Generation
+James A. FltzPatrick NPP
+P.O. Box 110
+Lycoming. NY 13093
+Timothy C. Peter
+Site Vice President-JAF
+JAFP-22-0001
+January 14, 2022
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2021-002, Automatic High Pressure Coolant Injection (HPCI)
+System Function Prevented by Control Circuit Relay Failure
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50.73(a)(2)(v)(D).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Richard Sullivan, Regulatory
+Assurance Manager, at (315) 349-6562.
+Since1~
+4':t.
+Peter
+Site Vice President
+TCP/RS/mh
+Enclosure: LER: 2021-002, Automatic High Pressure Coolant Injection (HPCI)
+System Function Prevented by Control Circuit Relay Failure
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-
+(See Page 3 for required number of digits/characters for each block) 6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 3
+4. Title
+Automatic High Pressure Coolant Injection (HPCI) System Function Prevented by Control Circuit Relay Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+11 18 2021 2021 - 002 - 00 01 14 2022 N/A N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+ 20.2201(b)  20.2203(a)(3)(i)  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73
+ 20.2201(d)  20.2203(a)(3)(ii)  50.69(g)  50.73(a)(2)(v)(B)  73.71(a)(4)
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.71(a)(5)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(1)
+ 20.2203(a)(2)(ii)  21.2(c)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)  73.77(a)(2)(i)
+ 20.2203(a)(2)(iii) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.77(a)(2)(ii)
+ 20.2203(a)(2)(iv)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+ 20.2203(a)(2)(v)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ OTHER (Specify in Abstract below or in NRC Form 366A).
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Richard Sullivan, Regulatory Assurance Manager 315-349-6562
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BJ RLY G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 18, 2021, during a simulated actuation test of High Pressure Coolant Injection (HPCI),
+23MOV-19, HPCI Pump Discharge to Reactor Inboard Isolation Valve, failed to open. This was caused by a
+failure of the valve’s control logic circuit relay 23A-K54 to actuate. An investigation identified contacts 3-7 were
+intermittently not closing. The failure of the contacts to close was due to binding between the associated spring
+leave and the contact carrier channel sidewall. The binding was due to dimensional issues that caused chaffing
+on the sidewall of the contact carrier channel. This chaffing worsened over time until binding started to occur
+intermittently within 23A-K54.
+The condition of this relay could have prevented the automatic actuation of HPCI and is reportable per 10 CFR
+50.73(a)(2)(v)(D). Manual actuation of HPCI remained unaffected by this condition; therefore, the system
+remained available.
+Relay 23A-K54 was replaced and HPCI was restored to Operable on November 19, 2021.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 002 – 00
+NARRATIVE
+Background
+The High Pressure Coolant Injection (HPCI) System [EIIS Identifier: BJ] at James A. FitzPatrick Nuclear Power
+Plant (JAF) is a part of the Emergency Core Cooling System (ECCS); HPCI provides and maintains an
+adequate coolant inventory inside the Reactor Pressure Vessel [RPV] to prevent damage to the reactor core
+under postulated accident scenarios. The system is comprised of various components which include pumps,
+valves, piping, and instrumentation. The HPCI System is required to actuate automatically to perform
+their design functions but it may be initiated manually. Automatic initiation occurs for conditions of Reactor
+Vessel Water Level – “Low Low” (Level 2) or Drywell Pressure – “High” (Level 8).
+The Technical Specification (TS) Surveillance Requirement (SR) 3.5.1.10 ensures HPCI actuates on an actual
+or simulated automatic initiation signal by verifying initiation logic will cause the system to operate as
+designed, including actuation of the system throughout its emergency operating sequence, automatic pump
+startup and actuation of all automatic valves to their required positions. This Surveillance also verifies that the
+HPCI System will automatically restart on an RPV low water level signal received subsequent to an RPV high
+water level trip.
+HPCI Pump Discharge to Reactor Inboard Isolation Valve 23MOV-19 is one of the valves that is required to
+open in order for the system to perform its function.
+Event Description
+On November 18, 2021, planned testing was performed in accordance with ST-4E, HPCI and SGT Logic
+System Functional and Simulated Automatic Actuation Test, for SR 3.5.1.10. During the high drywell pressure
+operation test 23MOV-19 was confirmed to open satisfactorily. During the subsequent RPV low water level
+operation test 23MOV-19 failed to open.
+It was determined that the valve failed to change position due to the valve’s control logic circuit relay,
+23A-K54. Troubleshooting determined a high resistance connection between contacts 3-7. Manual cycling of
+the contacts showed that the contacts were intermittently not closing with a visible air gap.
+The intermittent failure of 23A-K54 to actuate is a condition which could have prevented fulfillment of the
+safety function for the HPCI system. This condition was reported in accordance with 10 CFR 50.72(b)(3)(v)(D)
+via ENS 55593.
+Event Analysis
+A failure analysis of 23A-K54 was performed. All contact surfaces appeared to be in very good condition.
+There was no evidence of arcing, pitting, contamination, corrosion, or tarnishing.
+The condition observed during the event was able to be duplicated on 4 of 20 trials. Contacts 3-7 resistance
+were measured high and an air gap was visible between the mating surfaces. Contacts 3-7 are typically open
+because the relay is normally energized (fail safe) and closes to open injection valve 23MOV-19. When the
+contacts did not close the valve did not open. On the instances when Contacts 3-7 was open when expected
+to be closed the associated spring leave moved during relay pickup and bound in a position that caused the
+intermittent issue.
+The spring leave channels were examined and dimensions were collected for the channel associated with
+contacts 3-7 and compared to the neighboring channel.The channel for contacts 3-7 is approximately 2.5 to
+Page 2 of 3
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 002 – 00
+4.5 mils more narrow than the other channel, which would explain the tighter fit and potential for binding. In
+addition, chaffing was evident on the sidewall of the channel for contacts 3-7.
+The binding was due to dimensional issues that caused chaffing on the sidewall of the contact carrier
+channel. This chaffing worsened over time until binding started to occur intermittently within 23A-K54.
+However, there is no firm evidence that the chaffing would have caused binding or prevented the fulfillment
+of a safety function prior to time of discovery.
+The condition of this relay could have prevented the automatic actuation of HPCI, reportable per 10 CFR
+50.73(a)(2)(v)(D). Manual actuation of HPCI remained unaffected by this condition; therefore, the system
+remained available.
+Cause
+The failure of 23MOV-19 to open was caused by binding in relay 23A-K54 contacts 3-7. Dimensional issues
+in the contact spring channel led to tighter fit and intermittent binding.
+Similar Events
+Condition Report: CR-JAF-2011-05502 dated October 28, 2011: evaluation of General Electric Hatchi (GEH)
+Part 21 report SC-11-09. The report identified a defect in the same relay model 12HGA11A52F. For
+FitzPatrick, installed relays were acceptable for continued operation based on physical inspection and
+testing. The component described by this LER was not part of the population of components identified by
+SC-11-09 in 2011.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: General Electric
+Manufacturer Model Number: 12HGA11A52F
+Manufacturer Code: G080
+Component Code: RLY
+FitzPatrick Component ID: 23A-K54
+Corrective Actions
+Completed Actions
+Relay 23A-K54 was replaced and HPCI was restored to Operable status
+Planned Actions
+An extent of condition review will be conducted
+Safety Significance
+Nuclear safety – There were no actual consequences caused by this condition. The potential consequence
+during a postulated accident scenario is when HPCI cycles and the relay may chaff and bind as described in
+this LER, if 23MOV-19 automatically actuates multiple times. This risk is minimized because manual operation
+of HPCI remained unaffected by this condition. In addition, plant operators are trained to control HPCI in order
+to maintain vessel inventory and minimize HPCI cycling during events.
+References
+Issue Report - IR 04461845, 23MOV-19 HPCI Injection Valve did not Function during ST-4E, dated
+November 18, 2021
+Page 3 of 3
+NRC FORM 366A (08-2020)

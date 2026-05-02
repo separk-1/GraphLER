@@ -1,0 +1,219 @@
+Exelon Generation
+GD
+Clinton Power Statton
+8401 Power Road
+Clinton, IL 61727
+U-604508 10 CFR 50.73
+October 1, 2019 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2019-002-00
+Enclosed is Licensee Event Report (LER) 2019-002-00: Turbine Driven Reactor Feed Pump
+Hydraulic Control Failure Results in Automatic SCRAM. This report is being submitted in
+accordance with the requirements of 1 O CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2019-002-00
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+N
+(0
+R
+4-
+C
+20
+F
+18
+O
+)
+RM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3160-0104 EXPIRES: 03131fl020
+LICENSEE EVENT REPORT (LEA) ~ Eltrrellid i b 9 < s m sc r x 1 ll p l e e r ! rn l8 e l d p < 8 R 1 O 8 k f1 l C C O O IJ ! l( ll > ) " ly !le d w i:h n 1: t > i -. m rn a 1 JU 1c l m !o m ly g co p l r e o c ce tm ee r e e m qu es fa t d 80 b o h ck o ln kl
+l'1<ilAy Serd CO<Tl18* regaro,,g tudon -- kl Ile ~ Servcee Br5'd1
+(See Page 2 for required number of dlgrts/characters for each block) (T-2 F-13), US No:leor ~ry Coovrasm. Wmlwlgm. DC 20555-0J01, or by 9-!1111 kl
+kiocollecis Reooon:eOm: fP', lnl kl h> De!k Ollo::or, Oka rj niJlrrmr1 lnl RegJroy
+(See h tt N p U // R w E w G w - 1 n 0 rp 2 2 o , o R v/ r 3 n a fo d1 r n in g s - t r r m u / c d ti o o c n - w a l n J d e c g tJ u o id Q a s n /n c y e r e fo o r s / c s o ta m fV p s le r1 tin 0 g 2 2 t / h r3 is 1 f ) o rm M d a l !J n *, , t l l a N l0 E c ll u O 1 m B i - i 1 -t 0 , 2 , 1 0 v 2 e - , k 1 ( l ' 3 0 1 M 50 B - t 0 o c 1 o 0 o 4 ! ) r , o l O l l 1 ru ) ! 0 D r 9 b 8 o r c j , t . t l h lr , o l . e , ' g f i l im C l J m 1 r !1 t i 1 m e f r r d a o t t E m c l< m . d;, b ,e! : , t c W o C a l .- o s l c p h ! ( r m J \l l ji 9 :J 0( l, , l D 0 ln C 00 l 2 0 a 0 5 p 0 0 3 II O ir l' I t I
+II rot ~ kl rMp<l,'E kl, flo d)ff1E!Dn colocb:Jn
+1. Faclllty Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. Title
+Turbine Driven Reactor Feed Pump Hydraulic Control Failure Results in Automatic SCRAM
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facllltles Involved
+Month Day y...,. Year S9 N Q u U m e b fl e b r a l R N w o Month Day Year Facility Name 060 D 0 o 0 c ket Number
+08 03 2019 2019 - 002 - 00 10 01 2019 Fnclllty Name
+050
+D
+0
+o
+0
+c ket Number
+9. Operating Mode 11. This Report Is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply}
+D 20 2201 (b) D 20 2203(~)(3)(1) D 50.73(a)(2)(n)(A) D 50 73(a)(2)(vm)(A)
+1 D 20 2201 (d) D 20 22D3(a)(3)(n) l'8J 50 73(a)(2)(1Q(B) D 50 73(a)(2)(vrn)(B)
+D 20 2203(a)(1) D 20 22D3(a)(4) D 50 73(a)(2)(111) D 50 73(a)(2)(1x)(A)
+D 20 2203(a)(2)(1) D 50 36(c)(1)(1)(A) l'8J 50 73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. Power Level D 20 2203(a)(2)(n) D 50.36(c)(1)(n)(A) D 50 73(a)(2)(v)(A) D 73 71 caH4l
+D 20 2203(a)(2)(111) D 50.36(c)(2) D 50 73(a)(2)(v)(B) D 73 71 ca)(5)
+D 20 2203(a)(2)(iv) D 50 46(a)(3)(u) [8J 50 73(a)(2)(v)(C) D 73 n(a)(1)
+098 D 20 2203(a)(2)(v) D 50 73(a)(2)(1)(A) [8J 50 73(a)(2)(v)(D) D n77(a)(2)(1)
+D 20.2203(al,(2)(v1) D so 73(a)(2)(1J(Bl D 50.73(a)(2)(vu) D 73 77(a)(2)(n)
+D D
+50 73(a)(2)(1)(C) Other (Specrfy In Abstract below or 1n NRG Fonn 366A)
+12. Licensee Contact for this LER
+Licensee Contact
+Telephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described In this Report
+Cause Component Menufactun,r Reportable to ICES System Component Manufacturer Reportable to ICES
+B p GE y
+14. Supplemental Report Expected
+Month YBBr
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Subrrnss1on Date) ~ No
+Abstract (Umrt to 1400 spaces, 1 e., approximately 14 single-spaced typewrltten lines)
+On August 3, 2019, at 0226 CDT, while operating at approximately 98% power, the Turbine Driven Reactor Feed Pump
+(TDRFP) 8 horizontal hardware connection to the Linear Variable Differential Transformer (LVDT) failed causing loss of
+feedback to the feedwater control system. Flow from TDRFP 8 decreased while TDRFP A flow increased and reactor
+level decreased to the scram setpoint, which caused an automatic Reactor Protection System (RPS) scram. All control
+rods fully inserted. The reactor water Leval 2 setpoint was reached and High Pressure Core Spray (HPCS), Reactor Core
+Isolation Cooling (RCIC), Division 3 diesel generator, Standby Gas Treatment Systems A and 8, and all safety related
+shutdown service water pumps started as expected. RCIC and HPCS injected as expected. All Leval 2 containment
+' isolation valves closed as expected. As a result of automatic isolation of the containment ventilation system, the Primary
+Containment to Secondary Containment and the Drywell to Primary Containment differential pressure limits were
+exceeded. The cause of the event was the design of the horizontal connecting hardware to thaTDRFP 8 operating
+cylinder positron LVDT was not adequate to withstand cyclic loading. The failed LVDT was replaced on TDRFP 8, along
+with associated horizontal connecting hardware. A design change will be developed and installed to strengthen the
+connecting hardware to the TDRFP 8 operating-cylinder LVDT such that it is adequate to withstand cyclic loading. This
+event is reportable under 10 CFR 50.73(a)(2)(iv)(A), 10 CFR 50.73(a)(2)(v)(D), 10 CFR 50.73(a)(2)(ii)(8), and 10 CFR
+50.73 a 2 v C.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPAOVED BY 0MB: NO. 31!50-0104 EXPIRES: 03/31'2020
+(CJ.4-2018!) w\
+/--~ E le s s t s m on a s te l d e a tx rn Jr e d d e n a re p e l/ r 1 1 C '8 O S ! ! J )O X f ) 1 fl S lle e d lo in c to a n Ir p e ly l l ' c M el I l i S l l l r t i d g s p m ro a c n e d 8 a 8 t o e ! o y o c f c e t d B d b l a o c o k r t e o q 1 u n e d s Js t ti 8 y 0 h S o e u o r o s c R or e m po ,a rt n e t d s
+LICENSEE EVENT REPORT (LER) regartlllg burden es1imata to the nlormak,n Sernces Branch (T-2 F43), U.S Nuclear Regulatory
+• \ '*•»• ~·I CONTINUATION SHEET G th o e m D m e l s ss k 1 o ° n '1 , c W er l , ll !h O ln ft g lc t e o n a , D 1 C r1 o 2 r 0 rn 5 a 5 b 5 o - o 0 0 a 0 n 1 d , R or e g b u y a l & o - 1 m y a J A I ff t a o i rs lr , ro N c E d O le B c - t 1 s 0 R 20 e 2 s , ru (3 rc 1 e 5 0 Q - 0 rv 1 c 0 4 IP ), t' O , l a ft n c d e t a o
+Management and Budget, Wa.shil1Jlon, OC 20503 tt a means U88d to mpose 1¥1 mforrnallon
+(See NUREG-1022, R3 for lnstrucbon and guidance for complemg th1S form cdkdon does not c!is?aY a wrently Ya.:! 0MB cc:nrn ntJ11bar, the NRG may not cooducl or
+httpJ!www.nrc.gov/reaclna-rm/doc-cojlecbons/nu reas/staff/sr1022/r3/l sponsor, and a person Is not reqLJred to respond to, the 1rrorrnallon collection
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2019 - 002 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Turbine Driven Reactor Feed Pump Hydraulic Control Failure Results in Automatic SCRAM
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: August 3, 2019 Event Time: 0226
+Mode: 1 Mode Name: Power Operation Reactor Power: 098
+B. Description of Event
+On August 3, 2019, at 0226 CDT, while operating at approximately 98% power, the Turbine Driven
+Reactor Feed Pump [SJ-P] (TDRFP) B horizontal hardware connection to Linear Variable Differential
+Transformer (LVDD 1ZT-FW199 failed causing loss of LVDT feedback fo the feedwater control
+system for TDRFP 8.- Flow from TDRFP B began decreasing due to the control system reducing
+speed demand in response to the LVDT failure. TDRFP A [SJ-P] speed and flow increased to
+maximum and reactor water level decreased to the scram setpoint within 15 seconds, which caused
+an automatic Reactor Protection System (RPS) scram. Operators placed the reactor mode switch in
+shutdown and completed the scram response actions.
+All control rods fully inserted. Due to the failure mode of TDRFP B (i.e., the pump slowed but did not
+trip), a trip 'of the feed pump was not sensed by the Reactor Recirculation [AD] (RR) flow control valve
+[FCV] runback circuitry. With TDRFP A injeding post scram, reactor water level continued to lower to
+below the Level 2 setpoint. When the reactor' water Level 2 setpoint was reached during the event,
+the High Pressure Core Spray (HPCS) system [BG], Reactor Core Isolation Cooling (RCIC) system
+[BN], Division 3 diesel generator [DG] (DG), Standby Gas Treatment Systems [BH] A and B, and all
+safety related shutdown service water pumps [81-P] started as expected. RCIC and HPCS injected
+as expected. All reactor water Level 2 containment isolation signals [JM] occurred as expected and all
+associated containment isolation valves [ISV] closed as expected.
+Following automatic initiation of HPCS as described above, the system was manually secured using
+station procedures after verification that additional Reactor Pressure Vessel [RPV] (RPV) injection
+was no longer required. The Primary Containment to Secondary Containment and the Drywell to
+Primary Containment differential pressure Technical Specification (TS) limits were exceeded as a
+NRG FORM 386A (04-201 B) Page _2_ of _..1._
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3160-o104 EXPIRES: 03/31!2020
+(04-2018)
+~mated burden per response to coo,ply With hs mandatory cdlecbon request 80 hours. Reported
+!~1 LICENSEE EVENT REPORT (LER) r le e s g s a o r n o s n g le a r r u n r e d d e n a re e s ll t l m :O a rp ta o r t a o t a t d he l lll l o rr o th rr e n a il b ce o o o s Jl S 1 a g i v p l r c o e c s e s B s ra a n n c d h f e ( d T - b 2 a c F k 4 3 to ) , 11 U c . i S Js tr N y. u c S le e a n r d R co ag rr u m la a lo n r ts y
+\ , .......... ? J CONTINUATION SHEET Corrmssron, Washrngton, DC 20555--0001, or by &-IT1liJ to ~ Resource O nrc gov, and to
+the Desk Officar, Ofhce al lnfoonaDon md Regulatay Allaira, NEOB-10202, (3150-0104), Office al
+Management and Budget, Wasllngton, DC 20503 If a means used to rnpose an mlormallon
+(See NUREG-1022, R 3 for Instruction and guidance for completmg thJS fonn cc6lc8or1 does not oaplay a ct.rraOtly valid 0MB contrd runber, the NRG may not conwct or
+http· //www n rc.aov/reaclmo-rm/doc-collecbons/nu reos/staff/sr1022/r3/l sponsor, and a persoo IS not re<µred to respond to, the JJTfoonalJon colectlon
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2019 - 002 - 00
+NARRATIVE
+result of the reactor water Level 2 containment isolation of the containment ventilation system. The
+Primary Containment to Secondary Containment and the Drywall to Primary Containment differential
+pressure were restored to within TS limits at 1505 hours on August 3, 2019, within the TS action time
+limits.
+C. Cause of the Event
+The cause of this event was the design of the horizontal connecting hardware to the TDRFP B
+operating cylinder position LVDT was not adequate to withstand cyclic loading.
+D. Safety Consequences
+This event is reportable under 1O CFR 50.73(a)(2)(iv)(A), any event or condition that resulted in
+manual or automatic actuation of any of the systems listed in Section (a)(2)(iv)(B), specifically RPS,
+HPCS, and the Division 3 DG.
+There were no safety consequences associated with the event describ.ed in this report. All plant
+equipment functioned as designed in response to the loss of L VDT feedback to the feedwater control
+system for TDRFP B. The unit entered Mode 3 upon the scram and all TS Limiting Conditions for
+Operation Required Actions were met throughout the event until the Prir:nary Containment to
+Secondary Containment and the Drywell to Primary Containment differential_pressures were restored.
+Secondary Containment vacuui:n remained within limits throughout this event, filtering any potential
+leakage from the Primary Containment in the event of an accident. This condition is reportable under
+1O CFR 50.73(a)(2)(ii)(B), any event or condition that results in the nuclear power plant being in an
+unanalyzed condition that significantly degra_des plant safety, due to Primary Containment to
+Secondary Containment and the Drywell to Primary Containment differential pressure TS limits being
+exceeded; and 10 CFR 50.73(a)(2)(v)(C), any event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to control the release of
+radioactive material.
+As described above, following automatic initiation of HPCS, the system was manually secured using
+station _procedures after verification that additional RPV injection was no longer required. Securing
+HPCS injection prevents auto restart of the system in the event of a subsequent low RPV level
+condition, rendering it inoperable. As the HPCS system is considered a single train safety system,
+this meets-the reportability requirements of 1O CFR 50.73(a)(2)(v)(D), any event or condition that
+could have prevented the fulfillment of the safety function of structures or systems that are needed to
+mitigate the consequences of an accident. The HPCS system remained available to restore RPV
+level manually as directed by operating procedure.
+NRC FORM 366A (04-2018)
+Page J_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 31~104 EXPIRES: 03/'.31fl020
+(04-2018)
+Esmnatad burden per raepollS8 to C001ply '111th hs mandatory ccj8COO(l ffi<1.)8st 80 hours Reported
+!~ \ LICENSEE EVENT REPORT (LEA) l r e e s g s a a r J o s n g le a b r u n r e d d e n a re e s ir m co i r t p e o r t a o t e t d h e m l t n o lo th rm e a ll l c io en n s J S ll e g iv p i r c o e c s e s B s ra a n n c d h f e ( d T - b 2 a c F k 4 3 to ) , u U rl . J S s . t ry N uc S le a a n r d R c e o o o } m .Jl e ar n o t ! s y
+CONTINUATION SHEET CQrmissloo, Wasll~. OC 20555-0'.l01, or by e-mwl to lnloccllecls Resource On rc '¥N, and to
+I ~ i .... f{ .... , ' t M he a m D g e e sk m m O t lo o a e n r d , O B f o fi o ce g et o , l W lnl a o s r l m lrn a g b t o o n n , !n O l C R 2 e 0 g 5 u 0 la 3 t ory tt A a ie m m , e a N ns E O u B s - e 1 d 0 2 t 0 o 2 , rn (3 p 1 o 5 s 0 e - 0 a 1 n 0 4 l ) n , fo O rm lftc a e tr o o n l
+(See NUREG-1022, R.3 for lflstructton and guidance for completing 1h18 form cdlEdon does not ~ a currently valid 0MB contrd nwroer, the NRG may not conruct or
+http://www. nr c.qov/reaclinCHTTl(doc-collectJons/nureos/staff/sr::) 022/r3/l sponsor, and a person rs not ~rad to respood to, the l1lloonalion cole<*on
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2019 - 002 - 00
+NARRATIVE
+E. Corrective Actions
+(1) The failed LVDT was replaced on TDRFP 8, along with associated horizontal connecting
+hardware.
+(2) A design change will be developed and installed to strengthen the connecting hardware to the
+TDRFP B operating cylinder LVDT such that it is adequate to withstand long-term cyclic loading.
+F. Previous Similar Occurrences
+There were no previous events identified involving failure of connecting hardware to LVDTs similar to
+the occurrence described in this licensee event report.
+G. Component Failure Data
+Manufacturer: ABC Bearings
+Component Type: Spherco TRE3 Spherical Rod End
+NRC FORM 366A (04-2018)
+Page _4_ of __...1_

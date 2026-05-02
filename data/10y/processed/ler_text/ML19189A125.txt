@@ -1,0 +1,283 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+July 8, 2019
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRG Docket No. 50-296
+Subject: Licensee Event Report 50-296/2019-001-01
+Reference: Letter from TVA to NRG, "Licensee Event Report 50-296/2019-001-00,"
+dated May 8, 2019 (ML 19128A 102)
+On May 8, 2019, The Tennessee Valley Authority submitted Revision Oto Licensee Event
+Report (LER) 50-296/2019-001-00 (Reference) which provided the details of an automatic
+reactor scram due to a turbine load reject. The enclosed LER has been revised to
+document the causal analysis.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the
+Code of Federal Regulations 50.73(a)(2)(iv)(A), as any event or condition that resulted in a
+manual or automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B).
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+~
+D. L. Hughes
+Site Vice President
+Enclosure: Licensee Event Report 50-296/2019-001-01 - Automatic Reactor Scram Due
+to a Turbine Load Reject
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-f201¥8) \ Estim.red burden per response ID ~ly with 1his mandatory collection request 80 hotJs.
+. Reporled lessons lea-ned ae il"IXJIJ)OOIEd into the licensing process aid fed ba:k il
+. indusvy. Send conm,n1s regading bll"den estimate ID the lnfonnation Services Bnr1ch
+LICENSEE EVENT REPORT (LER) (T-2 F43), U.S. Nuclea' Regulailry Comnisron, Washington, DC 2055!>-0001,(J( by IHlllil
+\ ...../ I R D e l g n u fo la co b l y le c A ts f . f a R irs e , s o N l E lte O @ B- m 10 : 2 .g 02 ov , , ( a 3 n 1 d 5 0 i -0 l 1 t 0 h 4 e ) , D O es f k fi ce O ff c ic j e r M , O an ff a ic g e e m o e f n l t n m a n id a tio B n ud g a e id t.
+Washingiln, DC 20503. ~ a means used ID i~ an irrorrnalion colec1ion does not
+<isplay a cl1181111y valid 0MB ccn1rol number, the NRC may not cooduct (J( spooso,, and a
+person is not required 1D respond il, the infonnation colection.
+1. Facility Name 2. Docket Number 3.Page
+Browns Ferrv Nur:lear Plant Unit 3 0~0002~R 1 OF 5
+4. Title
+Automatic Reactor Scram Due to a Turbine Load Reject
+5. Event Date 6. LER Number I 7. Report Date 8. Other Facilities Involved
+Month Day Year Year I Sequential Rev Month Day Year N Fa I c A il ity Name· NIA D ocket Number
+Number No.
+03 09 2019 2019 - 001 - 01 07 08 2019 N Fa I c A ili ty Name NIA Docket Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check alt that apply)
+0 D 0 D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+0 D 0 D
+1 20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D 0 D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) [8] 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 D D
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.3e(c)(2) D 50.73(a)(2)(v)(B) L J 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 D 0 D D
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D 0 D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+0 0
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mimi King-Patterson, Licensing Engineer 256-614-7225
+13. Complete One Line for each Component Failure Described in this Report
+Cause I System I Component Manufacturer I Reportable to ICES Cause I System I Component Manufacturer I Reportable to ICES
+N/A I N/A I N/A N/A I N/A N/A I N/A I N/A N/A I N/A
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) [8l No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On March 9, 2019, at approximately 2259 Central Standard Time (CST), Browns Ferry Unit 3 received an
+automatic Reactor SCRAM from 100 percent power as a result of a Turbine Load Reject. Browns Ferry Unit 3
+declared a Notification of Unusual Event due to loss of the 500kV offsite source. The automatic SCRAM
+occurred as a Licensed Reactor Operator (LRO) made adjustments to lower incoming reactive power on Unit 3
+at the request of the Balancing Authority. The LRO incorrectly operated a hand switch and changed the
+automatic voltage regulator (AVR) from auto to manual. In this mode of operation, the dynamic limiter is
+removed, which allows Operations personnel to adjust Mega Volt Amps Reactive (MVAR) beyond the Under
+Excitation Limiter (UEL) protection setting. As a result, the generator circuit breaker tripped causing a Turbine
+Load reject and an automatic SCRAM. All safety systems actuated as designed.
+The root cause for this event was determined to be that Operations department leaders have allowed continued
+negative human performance (HU) behaviors by inconsistently providing coaching or reinforcing the use of
+appropriate HU barriers. The corrective action to prevent recurrence is to revise the Operations Excellence
+Program, BFN-ODM-4.28, to require use of a dynamic learning environment to develop Operations Department
+Leaders' skills in coaching and reinforcing the use of appropriate HU barriers. Training will be required prior to
+assuming shift following initial qualification as Nuclear Unit Senior Operators (NUSO) and Shift Managers (SM).
+The currently qualified NUSOs and SMs have received training.
+A plastic cover was placed over the manual/auto select voltage regulator hand switch on all three Units to
+mitigate unintentional operation of the AVR from automatic to manual control. The Operating Instruction
+procedure for the Turbine Generator System was revised to prompt Operations personnel to validate the initial
+status of the AVR prior to adjusting MVAR.
+NRC FORM 366 (04-201B)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION .. ·-·--a, uma: ..... u. v
+(04-2017)) Estima1ed burden per response to comply wi1h this mandatory collection request 80 hours.
+Reported lessons lea-ne<l a-e incaporaled irm the licensing process and fed bai to
+indus1ry. Send commen1s regarding bu-den estimate to the lnbmation SeM:es Br.n:h [T-
+2 F43), U.S. Nuclea-Regulatory Coomssion, Washingtm, 0C 20555-0001,or by e-mail m
+LICENSEE EVENT REPORT (LER) lnfocollecis. Resolll:e@rrc.gov, and to the Desk Officer, Office of Information and
+Reguaxy Affairs, NEOB-10202, (3150--0104), Office of Management and Budget.
+CONTINUATION SHEET WashingtJn, DC 20503. If a means used mi fll)()Se an inbmalion coleclion does not
+display a CIJTel1lly viiid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not reqLired to respond m, the information colection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 05000296 NUMBER NO.
+2019 - 001 01
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 3, was in Mode 1 at
+approximately 100 percent power.
+II. Description of Event
+A. Event Summary
+On March 9, 2019, at approximately 2259 Central Standard Time (CST), Browns Ferry Unit 3
+received an automatic Reactor SCRAM from 100 percent power as a result of a Turbine [TRB]
+Load Reject. The automatic SCRAM occurred as a Licensed Reactor Operator (LRO) made
+adjustments to lower incoming reactive power on Unit 3 at the request of the Balancing Authority
+(BA). The request was made by the BA to address a high voltage condition on the 500kV
+transmission system.
+During the adjustment, a LRO incorrectly operated a hand switch [HS], placing the Automatic
+Voltage Regulator [RG] (AVR) in manual control, and adjusted Mega Volt Amps Reactive (MVAR)
+beyond the Under Excitation [EXC] Limiter (UEL) protection setting. After two seconds, the
+generator excitation remained below the protection setting, which initiated a loss of excitation trip
+resulting in loss of the generator exciter field. Incoming MVAR and current increased on all three
+generator phases resulting in actuation of generator overcurrent protective relays [RLY ] and
+opening of the Unit 3 high-side breakers [BKR]. The generator circuit breaker tripped causing a
+Turbine Load Reject and automatic SCRAM.
+Systems that actuated as a result of the automatic SCRAM include those listed in Title 10 of the
+Code of Federal Regulations (CFR) 50.73(a)(2)(iv)(B). Primary Containment Isolation Systems
+[JE] (PCIS) Groups 1, 2, 3, 6, and 8 isolation signals were received. High Pressure Coolant
+Injection [BG] (HPCI) and Reactor Core Isolation Cooling [BN] (RCIC) initiated on low reactor
+water level. All four Unit 3 Diesel Generators [EK][DG] (DGs) started and loaded as expected and
+supplied AC power to their respective 4kV Shutdown Boards as designed.
+Browns Ferry Unit 3 declared a Notification of Unusual Event (NOUE) due to loss of the 500kV
+offsite source.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 CFR
+50.7 3(a)(2)(iv)(A), as any event or condition that resulted in a manual or automatic actuation of
+any of the systems listed in paragraph (a)(2)(iv)(B).
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this
+event.
+NRC FORM 366A (04-2018) Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION m ___ t:IT UMts: NU. J , ____ • CAr-11<ca:,: U.>l.>11.<U.<U
+(04-2017)) Estima1ed bulden per response to COIJllly with this mandmy collection request 80 hours.
+Reported lessons lea-ned a-e incorpora1ed in1D the licensing process and red back to
+indus1ry. Send convnents regaroing bu-den estimate to the lnlormaon Services Brnh [T-
+2 F43), U.S. Noclea-Regulatory Commission, Washingtm, DC 20555-0001,rx by e-mai ID
+LICENSEE EVENT REPORT (LER) lnfocollects. Resourte@nrc.gov, a-id to the Desk Officer, Office of lnfoonation and
+Regulaby Affairs, NEOB-10202, (3150--0104), Office of Ma-iagement and Budget,
+CONTINUATION SHEET Washingm, DC 20503. ~ a means used ID illl)Ose an information collection does oot
+display a cUITe!1tly valid 0MB conlrol number, the NRC may not conduct rx sponsor, and a
+pe!SOn is not reqLired to respond ID, the information colection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000296
+2019 - 001 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+Dates Time Occurrence
+March 9, 2019 2259 CST Browns Ferry Unit 3 received an automatic
+Reactor SCRAM from 100 percent power.
+March 9, 2019 2312 CST Operations declared a Notification of Unusual
+Event, EN 53922.
+March 10, 2019 0338 CDT Operations personnel performed 4 and 8 hour
+notifications to NRC Headquarters for EN 53923.
+March 10, 2019 1310 CDT Operations Shift Manager exited the Notification of
+Unusual Event.
+D. Manufacturer and model number of each component that failed during the event
+No components failed during this event.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+The root cause investigation identified a lack of procedure clarity regarding the
+under-excitation limit.
+G. The failure mode, mechanism, and effect of each failed component
+No components failed during this event.
+H. Operator actions
+Appropriate operator actions were taken in response to the SCRAM and recovery from the
+SCRAM.
+I. Automatically and manually initiated safety system responses
+Automatic actuation of safety systems included the Reactor Protection System (RPS), HPCI,
+RCIC, PCIS Groups 1, 2, 3, 6, and 8, and the EDGs.
+Ill. Cause of the event
+A. Cause of each component or system failure or personnel error
+The direct cause of this event was determined to be that an LRO incorrectly
+operated a hand switch and changed the voltage regulator from auto to manual.
+B. Cause(s) and circumstances for each human performance related root cause
+The root cause for this event was determined to be that Operations department leaders
+, have allowed continued negative human performance (HU) behaviors by inconsistently
+providing coaching or reinforcing the use of appropriate HU barriers.
+NRC FORM 366A (04-2018) Page _3_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION "' um .. : NU. :s,.,.,_.,,u.. cAr-1"'c.:,: --·-··-·--
+(04-2017)) Estimaled burden per response to comply with this mandalll!y collection request 80 hours.
+Repor1ed lessons leared ,re iraxporaled into the licensing process and fed back to
+indus1ry. Send cooments regarding burden estimate to the lnloonation Services Brooch (T·
+2 F43), U.S. Nuclea-Regulatory Commission, Washingtln, DC 20555-0001,0f by e-mail ID
+LICENSEE EVENT REPORT (LER) lnfocollects. Resoun:e@m:.gov, and to the Desk Officer, Office of lnfoonation and
+Regulatory Affars, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washingt>n, DC 20503. tt a means used to if11)0Se an inloonalion colection does not
+display a currently valid 0MB con1rol nuniler, the NRC may not conduct Of sponsor, and a
+person is not required to respond ID, the information colection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 05000296 NUMBER NO.
+2019 - 001 01
+NARRATIVE
+IV. Analysis of the event
+The voltage regulator manual/auto select hand switch was operated incorrectly, thereby swapping
+the AVR from automatic to manual control mode. In this mode of operation, the dynamic limiter is
+removed, which allows Operations personnel to adjust MVAR below the UEL. The dynamic
+protection setpoint (10 percent protection limit) remains active when in manual mode. After
+reaching the setpoint of the 10 percent protection limit, the AVR swapped active channels.
+Seconds later, with MVAR still below the limit, the AVR tripped the exciter circuit breaker. As
+excitation lowered, the generator began to reverse power, resulting in the Turbine trip and
+automatic reactor SCRAM.
+V. Assessment of Safety Consequences
+This event resulted in the automatic actuation of safety systems. This event did not result in the
+inoperability or unavailability of any system to provide their required safety functions. Therefore, this
+condition was of low safety significance and had negligible impact on the health and safety of the
+public.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+No systems or components failed during this event.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+Safety system availability was not impacted by this event.
+VI. Corrective Actions
+Corrective Actions are being managed by TVA's Corrective Action Program (CAP) under
+Condition Report 1497448.
+A. Immediate Corrective Actions
+• A plastic cover was installed over the manual/auto select voltage regulator hand switch
+[HS] on Units 1, 2, and 3 to mitigate unintentional operation of the AVR from automatic
+to manual control.
+• Units 1, 2, and 3 Operating Instruction procedure for the Turbine Generator System,
+was revised to prompt Operators to validate the initial status of the AVR prior to
+adjusting MVAR.
+NRC FORM 366A (04-2018) Page _4_ of _5_
+;s,..., .....
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION •• ·- --DJ vmc,: l'IV. IU"t CAr'"'"":
+(04-2017)) Estimaled burden per response to comply wi1h this mandal:lry collection request 80 hours.
+Repor1ed lessons leaned a-e iJlCOfJ)Ofaled into the icensing process and led back to
+indus1ry. Send comments rega'ding burden estimate to the lnfoonation Services Branch (T-
+2 F43), U.S. Nuclea-Regulato,y Commission, Washingt,n, DC 20555-0001,or by e-mai ti
+LICENSEE EVENT REPORT (LER) lnfocollects. Resoun:e@nn:.gov, and to the Desk Officer, Office of lnbrmation and
+Regt.tllory Alt.irs, NEOB-10202, (3150-0104), Office of Management and Budget.
+CONTINUATION SHEET Washingm, DC 20503. a a means used ti ilf!)()Se an infoon;mon colec1ion does not
+display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not reqlired to respond ID, the infoonalion colection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000296
+2019 - 001 01
+NARRATIVE
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The corrective action to prevent recurrence is to revise the Operations Excellence Program,
+BFN-ODM-4.28, to require use of a dynamic learning environment to develop Operations
+Department Leaders' skills in coaching and reinforcing the use of appropriate HU barriers.
+Training will be required prior to assuming shift following initial qualification as Nuclear Unit
+Senior Operators (NUSO) and Shift Managers (SM). The currently qualified NUSOs and SMs
+have received training.
+VII. Previous Similar Events at the Same Site
+A revi~w of the BFN CAP and Licensee Event Reports for Units 1, 2, and 3 found no instances of
+reactor SCRAMs similar to this event within the past five years.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2018) Page_5_ of _5_

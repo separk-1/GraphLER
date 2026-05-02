@@ -1,0 +1,251 @@
+~entergy
+Philip Hansett
+Site Vice President
+225-381-437 4
+RBG-48248
+10 CFR 50.73
+September 13, 2023
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 / 2023-002-01, Division I and II Diesel
+Generators Inoperable due to Exceeding Load Sequence Times
+River Bend Station - Unit 1
+NRG Docket Nos. 50-458
+Renewed Facility Operating License No. NPF-47
+On June 29, 2023, Licensee Event Report 50-458 / 2023-002-00, Division I and II Diesel
+Generators Inoperable due to Exceeding Load Sequence Times (ML23180A213) was submitted
+by Entergy Nuclear Operating Inc. This letter is a supplement to the report to provide the
+updated results of the causal evaluation. The updated information is denoted by revision bars
+located in the right-hand margin. The report is submitted in accordance with 10 CFR 50.73.
+This document contains no commitments.
+Should you have any questions, please contact Mr. Randy Crawford, Regulatory Assurance
+Manager, at 225-381-4177.
+Respectfully,
+p ; J ~
+Phil Hansett
+PH/twf
+Enclosure: Licensee Event Report 50-458 / 2023-002-01, Division I and II Diesel
+Generators Inoperable due to Exceeding Load Sequence Times
+cc: NRG Region IV Regional Administrator -Region IV
+NRC Senior Resident Inspector - River Bend Station
+Entergy Operations, Inc., 5485 U.S. Highway 61N. St. Francisville, LA 70775
+Enclosure
+RBG-48248
+Licensee Event Report 50-458 / 2023-002-01, Division I and II Diesel Generators
+Inoperable due to Exceeding Load Sequence Times
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 09/30/2023
+(09-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+(See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name  050 2. Docket Number 3. Page
+River Bend Station, Unit 1
+☐ 052 458 1 OF 3
+4. Title
+Division I and II Diesel Generators Inoperable due to Exceeding Load Sequence Times
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Se
+N
+q
+u
+u
+m
+e
+b
+n
+e
+ti
+r
+a l Re
+N
+vi
+o
+s
+.
+i on Month Day Year F
+N
+ac
+/A
+ilit y Name
+☐ 050
+D
+N
+o
+/
+c
+A
+k et Number
+02 12 2023 2023 - 002 - 01 09 13 2023 Facility Name Docket Number
+N/A ☐ 052 N/A
+9. Operating Mode 10. Power Level
+4 0%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 ☐ 20.2203(a)(2)(vi) 10 CFR Part 50 ☐ 50.73(a)(2)(ii)(A) ☐ 50.73(a)(2)(viii)(A) ☐ 73.1200(a)
+☐ 20.2201(b) ☐ 20.2203(a)(3)(i) ☐ 50.36(c)(1)(i)(A) ☐ 50.73(a)(2)(ii)(B) ☐ 50.73(a)(2)(viii)(B) ☐ 73.1200(b)
+☐
+20.2201(d)
+☐
+20.2203(a)(3)(ii)
+☐
+50.36(c)(1)(ii)(A)
+☐
+50.73(a)(2)(iii)
+☐
+50.73(a)(2)(ix)(A)
+☐
+73.1200(c)
+☐
+20.2203(a)(1)
+☐
+20.2203(a)(4)
+☐
+50.36(c)(2)
+☐
+50.73(a)(2)(iv)(A)
+☐
+50.73(a)(2)(x)
+☐
+73.1200(d)
+☐ 20.2203(a)(2)(i) 10 CFR Part 21 ☐ 50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73 ☐ 73.1200(e)
+☐ 20.2203(a)(2)(ii) ☐ 21.2(c) ☐ 50.69(g) ☐ 50.73(a)(2)(v)(B) ☐ 73.77(a)(1) ☐ 73.1200(f)
+☐ 20.2203(a)(2)(iii) ☐ 50.73(a)(2)(i)(A) ☐ 50.73(a)(2)(v)(C) ☐ 73.77(a)(2)(i) ☐ 73.1200(g)
+☐ 20.2203(a)(2)(iv)  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D) ☐ 73.77(a)(2)(ii) ☐ 73.1200(h)
+☐ ☐ ☐
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+☐
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Randy Crawford 225-381-4177
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X EK N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No ☐ Yes (If yes, complete 15. Expected Submission Date) N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced type written lines)
+On February 12, 2023, with River Bend Station (RBS) in Mode 4 during Refueling Outage 22, testing of the Division II
+Emergency Core Cooling System (ECCS) revealed that both Division II Control Building Chillers (HVK-CHL1B and HVK-
+CHL1D) failed to sequence onto the emergency bus within the Technical Specification (TS) required time. Investigation of
+the issue revealed that the same condition was present for the Division I Control Building Chillers (HVK-CHL1A and HVK-
+CHL1C). The condition described above was caused by a modification that replaced the Control Building Chiller controllers.
+The preliminary root cause identified that when the controllers were replaced, a delay was introduced in the start logic.
+Corrective actions to restore TS compliance were completed prior to the next mode of applicability.
+This condition resulted in the inability to comply with a Surveillance Requirement of TS 3.8.1. At the time of discovery, TS
+3.8.1 was not applicable. An evaluation determined that the TS 3.8.1 Surveillance Requirement was not met prior to time of
+discovery and Required Actions were not taken within the associated allowed Completion Times in accordance with TS
+3.8.1 - AC Sources – Operating.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 09/30/2023
+(09-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+River Bend Station, Unit 1
+050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+458
+☐ 2023 - 002 - 01
+052
+NARRATIVE
+EVENT DESCRIPTION
+On February 12, 2023, RBS performed STP-309-0602, DIVISION II ECCS TEST. During the performance of Section 7.4,
+ECCS/LOP/LOCA Test Initiation, HVK-CHL1B [KM] did not load sequence within the required time. Load sequence time
+was 237.1 seconds with acceptance criteria of 180.9 to 221.1 seconds. During performance of Section 7.25, ECCS/LOP
+Test Initiation, HVK-CHL1D [KM] did not load sequence within the required time. Load sequence time was 241 seconds
+with acceptance criteria of 180.9 to 221.1 seconds. Condition Reports were generated for both issues.
+On May 2, 2023, the station determined that the Division I and Division II Diesel Generators [EK] had been inoperable as
+a result of the chiller controller modification. HVK-CHL1C [KM] and HVK-CHL1D modifications were completed in 2014.
+HVK-CHL1A [KM] and HVK-CHL1B modifications were completed in 2020.
+The discovery date was determined to be February 12, 2023. The event is reportable as an Operation or Condition
+Prohibited by Technical Specifications per 10 CFR 50.73(a)(2)(i)(B) and an Event or Condition that Could Have
+Prevented Fulfillment of a Safety Function per 10 CFR 50.73(a)(2)(v)(A) and (D).
+EVENT CAUSE
+This event was caused by an error that was introduced during a modification to the HVK-CHL1(A)(B)(C)(D) control logic.
+Beginning in 2014, the analog control logic was modified to digital control logic. A bypass timer in the analog logic was
+not replicated in the new digital logic. The bypass timer blocked a low chiller condenser water flow signal for a short
+duration during the chiller start sequence. If received, the low water flow signal causes the chiller start sequence to reset.
+Because the signal was no longer blocked in the digital control logic, the low chiller condenser flow signal was capable of
+causing the chiller start sequence to reset resulting in an extended chiller start sequence.
+SAFETY ASSESSMENT
+The Division I and II Diesel Generators were declared inoperable based on load sequence time of the HVK Chillers
+exceeding TS SR 3.8.1.18 requirements. The following engineering analysis provided evidence that the delay had no
+effect on the generator loading sequence.
+Calculation E-192, STANDBY DIESEL GENERATOR LOADING CALCULATION, evaluates the loading of the standby
+diesel generators during the worst-case loading conditions (LOP concurrent with LOCA). The calculation verifies that the
+maximum magnitude for the load blocks is within the tested values of loading established by the vendor. HVK-CHL1B/D
+are in the 1.5-10-minute load block for the Division II Diesel Generator. The chiller is the last component in the load block
+to start with a listed start time of 211 seconds from the LOP. The next component to start is at the 10-minute mark. HVK-
+CHL1A/C are in the 1.5-10-minute load block for the Division I Diesel Generator. The chiller is the last component to start
+in the 1.5-10-minute load block with a start time of 241 seconds. Even with the additional 40 second delay, the chiller will
+remain in the 1.5-10-minute load block and there will be at least 5 minutes between a chiller start and the start of the next
+component. Therefore, the delay has no effect on the generator loading sequence.
+NRC Form 366A (09-01-2023) Page 2 of 3
+.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 09/30/2023
+(09-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+River Bend Station, Unit 1
+050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+458
+☐ 2023 - 002 - 01
+052
+NARRATIVE
+Based on the engineering analysis, the Division I and II Diesel Generators remained capable of performing their required
+safety function for the duration of the event and the event will not be counted as a Safety System Functional Failure
+(SSFF) for the NRC Performance Indicators. The analysis also supports that there were no consequences to the health
+and safety of the public.
+ADDITIONAL INFORMATION
+The Control Building [NA] Air Conditioning System (CBAC) consists of two independent, redundant subsystems that
+provide cooling and heating of the control building air. The associated control building chilled water subsystem (HVK)
+supplies chilled water to both subsystem AC units, as well as to the Main Control Room AC units.
+The design of the AC electrical power system provides independence and redundancy to ensure an available source of
+power to the Engineered Safety Feature (ESF) systems. Each ESF bus has a dedicated onsite Diesel Generator (DG). A
+DG starts automatically on loss of coolant accident (LOCA) or an ESF bus degraded voltage, undervoltage/loss of power
+(LOP) signal. Certain required plant loads in Divisions I and II (including HVK) are returned to service in a predetermined
+sequence to prevent overloading the DG.
+RBS completed controller modifications for HVK-CHL1C and HVK-CHL1D in 2014. HVK-CHL1A and HVK-CHL1B
+modifications were completed in 2020. A review of historical chiller data logs shows that since the HVK chiller controls
+upgrade, the start of HVK chillers may be delayed past the design start time by approximately 40 seconds.
+TS Surveillance Requirement (SR) 3.8.1.18 states, “Verify sequence time is within +/- 10% of design for each load
+sequencer timer.”
+CORRECTIVE ACTIONS
+Completed Corrective Actions
+1. Engineering Change Modifications were completed for all Control Building Chillers to correct sequence delays as
+detailed below:
+• Work Order 594333-01 Modify HVK-CHL1A Start Logic per EC-95152 - COMPLETE
+• Work Order 594334-01 Modify HVK-CHL1B Start Logic per EC-95151 - COMPLETE
+• Work Order 594335-01 Modify HVK-CHL1C Start Logic per EC-95153 - COMPLETE
+• Work Order 594336-01 Modify HVK-CHL1D Start Logic per EC-95150 - COMPLETE
+PREVIOUS SIMILAR OCCURRENCES
+None.
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. River Bend equipment codes are identified as
+(XX).
+NRC Form 366A (09-01-2023) Page 3 of 3
+.

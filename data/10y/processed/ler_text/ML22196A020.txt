@@ -1,0 +1,187 @@
+Constellation0
+10 CFR 50.73
+CCN: 22-56
+July 15, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 2
+Subsequent Renewed Facility Operating License No. DPR-44
+NRC Docket No. 50-277
+Subject: Licensee Event Report (LER) 2-2022-001-00 Automatic Reactor Scram due
+to Loss of Power to Both RPS Buses
+Reference: ENS 55899
+The subject report is being submitted in accordance with 1O CFR 50.73(a)(2)(iv)(A) for
+actuation of the Reactor Protection System, Containment Isolation Signals affecting multiple
+Main Steam Isolation Valves, Emergency Core Cooling Systems and Reactor Core Isolation
+Cooling.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Manager, Wade Scott at (717) 456-3047.
+Respectfully,
+-~_,...,____,
+Hen~
+-2' .
+David A.
+Site Vice President
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W. DeHaas, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 2 05000 277 1 OF 3
+4. Title
+Automatic Reactor Scram due to Loss of Power to Both RPS Buses
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year
+Number No.
+Month Day Year
+05000
+05 16 2022 2022 001 - 00 07 15 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Wade Scott, Regulatory Assurance Manager 7174563047
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A JC BKR W121 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 5/16/22 at 1537 hours, the Unit 2A reactor protection system motor generator set (RPS MG set) tripped in response to grid
+perturbations, causing a half scram condition as expected. At 1552 hours, Unit 2 experienced an automatic scram and Group 1
+isolation. The scram was the result of a self-revealing technical human performance event during the execution of a procedure to
+return 2A RPS to service. The loss of both RPS buses resulted in a reactor scram, Primary Containment Isolation System Group 1
+Isolation (main steam isolation valve closure), safety relief valve actuation, and loss of the normal heat sink. Emergency Core
+Cooling Systems were utilized to maintain reactor pressure vessel level and pressure.
+At no time was there a public safety risk and there were no safety consequences as a result of the event. All control rods inserted,
+and all safety systems performed as expected. Operations safely stabilized Unit 2 and brought it to a cold shutdown condition. The
+root cause of this event was a breakdown in technical human performance, which led to directing the wrong procedure steps and
+resulted in a reactor scram. Immediate corrective actions included increased oversight and reinforced stop work criteria. Longer
+term corrective actions include procedure and training enhancements.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Peach Bottom Atomic Power Station, YEAR NUMBER NO.
+05000- 277
+Unit 2
+2022 - 001 - 00
+NARRATIVE
+Plant Operating Conditions Before the Event
+Prior to the event Peach Bottom Atomic Power Station Unit 2 was operating at approximately 100% power in MODE 1.
+All 4kV (EIIS: EB) buses were aligned to one source due to a planned offsite source outage window. Because of this
+alignment, the Unit 2 B bus of the Reactor Protection System (RPS)(EIIS: JC) was being powered by an alternate feed.
+The 4kV and RPS power supply alignment had been in this configuration for four weeks prior to the event. There were
+no other structures, systems or components (SSC) that were inoperable at the start of the event that contributed to the
+event.
+Event Description
+At 1532 hours on 5/16/22, an offsite electrical transient(s) occurred which caused a main generator perturbation and
+multiple control room alarms for both units. The 2A Recirculation (EIIS: AD) pump speed lowered slightly (10 RPM). The
+operations crew entered the procedure for unexpected change in core flow. The Unit 2 Reactor Water Cleanup (EIIS:
+CE) system also tripped as a result of the event.
+At 1537 hours on 5/16/22, another offsite electrical transient occurred with a large main generator perturbation, and the
+2A RPS motor generator set output breaker tripped which caused a loss of power to the 2A RPS bus, a half scram, and
+Unit 2 Primary Containment Isolation System Group II/III inboard isolations (EIIS: JM). Loss of RPS power also caused a
+trip of Unit 2 Reactor Building Ventilation (EIIS: VA). One of two main generator output breaker (EIIS: EL) for each unit
+opened and there was a <1K Ohm ground indicated on the 2A/C and 2B/D batteries (EIIS: EJ). In response to the 2A
+RPS trip, operations supervision directed performance of procedures to restore the tripped 2A RPS motor generator set
+to service. During this evolution, a self-revealing technical human performance event occurred when an operator was
+directed by shift management to utilize a version of the procedure that was not annotated to account for the abnormal
+electrical alignment. The operator opened the breakers from the alternate electrical feed to the 2B RPS bus which was
+powering the B RPS at the time.
+At 1552 hours on 5/16/22, the loss of power to the second RPS bus resulted in a Reactor scram and Primary
+Containment Isolation System (EIIS:JM) Group I isolation which closed all main steam isolation valves (MSIVs). All
+safety systems performed as expected in response to the scram. Reactor pressure increased as a result of MSIV
+closure. Safety relief valves (EIIS: SB) initially lifted within their setpoints to control pressure, then the valves were
+utilized manually for pressure control. Closure of the MSIVs isolated the normal heat sink (condenser, EIIS: SG) and the
+steam supply to the feedwater (EIIS: SJ) pumps, so emergency systems were utilized for injection. High Pressure
+Coolant Injection (EIIS: BJ) was manually used for injection into the reactor pressure vessel and was used for pressure
+control. Reactor Core Isolation Cooling (RCIC)(EIIS:BN) was manually utilized for reactor pressure vessel level control.
+Operations safely stabilized Unit 2 and brought it to a cold shutdown condition.
+Unit 3 was affected by the grid transient, with both Unit 3 Recirculation pump speeds lowering and entering speed hold,
+but was unaffected by the Unit 2 scram.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual or automatic actuation of systems listed in
+10CFR50.73(a)(2)(iv)(B) including RPS, containment isolation signals, actuation of an emergency core cooling system
+and RCIC. An ENS notification was made within 4 hours of the event, reference ENS 55899.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Peach Bottom Atomic Power Station, YEAR NUMBER NO.
+05000- 277
+Unit 2
+2022 - 001 - 00
+NARRATIVE
+Safety Consequences
+The scram and response was completed without complication and resulted in no safety consequences. At no time was
+there a public safety risk. The operations crew responded correctly and plant SSC responded as designed in response
+to the event. Although the primary heat sink was lost due to closure of the MSIVs, decay heat was adequately managed
+with the use of other safety systems as described above. The event was within the analysis of UFSAR Chapter 14,
+“Plant Safety Analysis”. There was not a release of radioactivity as a result of this event.
+Corrective Actions
+The root cause of this event was determined to be a technical human performance event. While operating in knowledge-
+based thinking, licensed operators had breakdowns in technical human performance. This led to directing the wrong
+procedure steps and caused a reactor scram. Contributing causes identified included not establishing a deliberate and
+focused pace once plant conditions stabilized due to an elevated sense of urgency and inconsistent use of human
+performance tools. Immediate corrective actions included increased supervisory oversight and peer checks and
+reinforcement of stop work criteria. Corrective actions also include procedure enhancements and ensuring reviews of
+contingency plans for longer system outage windows. Additionally, training will be used to reinforce the transition from
+transient to normal operations as well as appropriate pace control, teamwork and technical human performance
+standards.
+Previous Similar Events
+Peach Bottom has not experienced a scram due to a human performance or technical human performance event in at
+least 10 years.
+NRC FORM 366A (08-2020) Page 3 of 3

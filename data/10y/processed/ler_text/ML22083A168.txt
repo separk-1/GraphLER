@@ -1,0 +1,384 @@
+March 24, 2022
+Kevin Cimorelli 
+Site Vice President 
+Attn: Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, DC 20555-0001 
+Susquehanna Nuclear, LLC 
+769 Salem Boulevard 
+Berwick, PA 18603 
+Tel. 570.542.3795 Fax 570.542.1504 
+Kevin.Cimorelli@TalenEnergy.com 
+SUSQUEHANNA STEAM ELECTRIC STATION 
+LICENSEE EVENT REPORT 50-388/2021-003-0l 
+UNIT 2 LICENSE NO. NPF-22 
+PLA-7993 
+TALEN~ 
+ENERGY 
+10 CFR 50.73 
+Docket No. 50-388 
+Attached is Licensee Event Report (LER) 50-388/2021-003-0l. The LER reports an event 
+involving an automatic scram due to a main turbine trip. The condition is being reported in 
+accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in an automatic actuation 
+of the Reactor Protection System (including a reactor scram). 
+There were no actual consequences to the health and safety of the public as a result of this event. 
+This letter contains no new or revised regulatory commitments. 
+Attachment: LER 50-388/2021-003-01 
+Copy: 
+NRC Region I 
+Ms. A. Klett, NRC Project Manager 
+Mr. C. Highley, NRC Senior Resident Inspector 
+Mr. M. Shields, PA DEP/BRP 
+
+ 
+NRC FORM 366 
+(08-2020) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION  APPROVED BY OMB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+(See Page 3 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this 
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+ 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send 
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+ 
+1. Facility Name 
+2. Docket Number 
+3. Page 
+Susquehanna Steam Electric Station Unit 2 
+05000388 
+1 of 3 
+4. Title 
+ 
+Automatic Reactor Scram Due to Main Turbine Trip Caused by Inadvertent Trip of the Main Generator Output 
+Breakers 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Rev 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+Docket Number 
+ 
+05000 
+10 
+11 
+2021 
+2021 -  003 - 
+01 
+03 
+24 
+2022 
+Facility Name 
+Docket Number 
+ 
+05000 
+9. Operating Mode 
+10. Power Level 
+1 
+095 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: 
+(Check all that apply) 
+10 CFR Part 20 
+☐ 20.2203(a)(2)(vi) 
+☐ 50.36(c)(2) 
+☒ 50.73(a)(2)(iv)(A) 
+☐ 50.73(a)(2)(x) 
+☐ 20.2201(b) 
+☐ 20.2203(a)(3)(i) 
+☐ 50.46(a)(3)(ii) 
+☐ 50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+☐ 20.2201(d) 
+☐ 20.2203(a)(3)(ii) 
+☐ 50.69(g) 
+☐ 50.73(a)(2)(v)(B) 
+☐ 73.71(a)(4) 
+☐ 20.2203(a)(1) 
+☐ 20.2203(a)(4) 
+☐ 50.73(a)(2)(i)(A) 
+☐ 50.73(a)(2)(v)(C) 
+☐ 73.71(a)(5) 
+☐ 20.2203(a)(2)(i) 
+10 CFR Part 21 
+☐ 50.73(a)(2)(i)(B) 
+☐ 50.73(a)(2)(v)(D) 
+☐ 73.77(a)(1)(i) 
+☐ 20.2203(a)(2)(ii) 
+☐ 21.2(c) 
+☐ 50.73(a)(2)(i)(C) 
+☐ 50.73(a)(2)(vii) 
+☐ 73.77(a)(2)(i) 
+☐ 20.2203(a)(2)(iii) 
+10 CFR Part 50 
+☐ 50.73(a)(2)(ii)(A) 
+☐ 50.73(a)(2)(viii)(A) 
+☐ 73.77(a)(2)(ii) 
+☐ 20.2203(a)(2)(iv) 
+☐ 50.36(c)(1)(i)(A) 
+☐ 50.73(a)(2)(ii)(B) 
+☐ 50.73(a)(2)(viii)(B) 
+ 
+☐ 20.2203(a)(2)(v) 
+☐ 50.36(c)(1)(ii)(A) 
+☐ 50.73(a)(2)(iii) 
+☐ 50.73(a)(2)(ix)(A) 
+☐ Other (Specify here, in Abstract, or in NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include Area Code) 
+D. R. Smith, Senior Engineer – Nuclear Regulatory Affairs 
+ 570-542-1377 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+B 
+FK 
+RLY 
+See below (SEL) 
+Y 
+ 
+ 
+ 
+ 
+ 
+14. Supplemental Report Expected 
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+☒  No 
+☐  Yes (If yes, complete 15. Expected Submission Date) 
+ 
+ 
+ 
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+ On October 11, 2021, at approximately 13:21, Susquehanna Steam Electric Station Unit 2 reactor automatically 
+scrammed due to a main turbine trip. Both divisions of the Reactor Protection System (RPS) actuated and all control 
+rods inserted. This event was reported by Event Notification 55514 in accordance with 10 CFR 50.72(b)(2)(iv)(A), 
+(b)(2)(iv)(B) and (b)(3)(iv)(A). This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event 
+that resulted in automatic actuation of a system listed in 10 CFR 50.73(a)(2)(iv)(B). 
+The event was caused by the 500kV switchyard primary plant interface relay inadvertently tripping open the main 
+generator output breakers due to a transient voltage resulting from a ground applied on the primary switchyard battery 
+system. This led to a load reject trip of the main turbine that resulted in an automatic scram.  
+Key corrective actions included removing the ground from the 125 VDC primary switchyard battery system, 
+implementing an increased time delay for trip signals to the primary plant interface relay, and lifting redundant shield 
+grounds on the station side of the relay. Additionally, primary plant interface inputs will be hardened, as appropriate. 
+There were no actual consequences to the health and safety of the public as a result of this event.  
+ 
+NRC FORM 366 (08-2020) 
+<)P~ REc11~ 
+/~ {Ko~ 
+:; 
+_2l_ 
+i 
+~~~-Ir', ; 
+~,.,-:;-•'71 +01 
+•it-•~· 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+
+ 
+NRC FORM 366A   (08-2020) 
+Page  2  of  3 .  
+ 
+NRC FORM 366A 
+(08-2020) 
+ 
+U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104      
+EXPIRES: 08/31/2023 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+2.  DOCKET NUMBER 
+3.  LER NUMBER 
+Susquehanna Steam Electric Station Unit 2 
+05000-388 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 
+- 
+003 
+- 
+01 
+ NARRATIVE 
+ 
+ CONDITIONS PRIOR TO EVENT 
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power  
+Unit 2 – Mode 1, approximately 95 percent Rated Thermal Power  
+There were no structures, systems, or components that were inoperable at the start of the event that 
+contributed to the event.  
+ 
+EVENT DESCRIPTION 
+On October 11, 2021, at approximately 13:21, Susquehanna Steam Electric Station Unit 2 reactor 
+automatically scrammed due to a main turbine [EIIS System/Component Code: TA/TRB] trip. The Unit 2 
+Control Room received indication of a main turbine trip with both divisions of the Reactor Protection 
+System (RPS) [EIIS System Code: JC] actuated and all control rods inserted. The turbine bypass valves 
+[EIIS System/Component Code: JI/PCV] opened automatically to control reactor pressure and 
+subsequently remained open causing the reactor to depressurize; this event is reported in Licensee Event 
+Report 50-388/2021-004. Operations manually closed the Main Steam Isolation Valves (MSIVs) [EIIS 
+System/Component: SB/ISV] to stop reactor depressurization. The High Pressure Coolant Injection 
+(HPCI) [EIIS System Code: BJ] and Reactor Core Isolation Cooling (RCIC) [EIIS System Code: BN] 
+systems were manually initiated to control reactor water level. Operations subsequently maintained 
+reactor water at the normal operating band using RCIC and reactor pressure was controlled with HPCI in 
+pressure control mode and the main steam line drains. The Reactor Recirculation Pumps [EIIS 
+System/Component Code: AD/P] tripped on End of Cycle Recirculation Pump Trip. 
+This event was reported by Event Notification 55514 in accordance with 10 CFR 50.72(b)(2)(iv)(A), 
+(b)(2)(iv)(B) and (b)(3)(iv)(A). This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) 
+as an event that resulted in automatic actuation of a system listed in 10 CFR 50.73(a)(2)(iv)(B). 
+CAUSE OF EVENT 
+The direct cause of the event was an applied ground by the switchyard [EIIS System: FK] owner 
+contractor on the primary switchyard battery system which caused transient voltage at the relay 
+[EIIS Component: RLY] input. The apparent cause was the switchyard owner interface relay design and 
+settings were not in alignment with the vendor / original equipment manufacturer best practices leading to 
+inadequate margin to prevent transient voltages from unintentionally causing a trip signal. 
+ANALYSIS/SAFETY SIGNIFICANCE 
+During the reactor scram off-site power remained available to power all safety related shutdown 
+equipment. All control rods inserted as designed and all safety related equipment operated as designed. 
+There was no loss of function that prevented the safe shutdown of the reactor and to maintain it in a safe 
+shutdown condition. All safety systems were available to mitigate the consequences of an accident. The 
+condition described herein did not result in a safety system functional failure. Accordingly, this event will 
+not be counted as a safety system functional failure in the Reactor Oversight Process Performance 
+Indicators  
+There were no actual consequences to the health and safety of the public as a result of this event. 
+ 
+
+ 
+NRC FORM 366A   (08-2020) 
+Page  3  of  3 .  
+ 
+NRC FORM 366A 
+(08-2020) 
+ 
+U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104      
+EXPIRES: 08/31/2023 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+2.  DOCKET NUMBER 
+3.  LER NUMBER 
+Susquehanna Steam Electric Station Unit 2 
+05000-388 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2021 
+- 
+003 
+- 
+01 
+ NARRATIVE 
+ 
+CORRECTIVE ACTIONS 
+Key corrective actions included the following: 
+1. Removed the ground from the positive terminal of the 125 VDC primary switchyard battery system. 
+2. Implemented an increased time delay for trip signals to the primary plant interface relay to provide 
+additional protection from inadvertent actuation due to electrical noise. 
+3. Lifted redundant shield grounds on the station side of the primary plant interface relay for the Unit 2 
+automatic and manual lockout devices.  
+4. Harden the inputs, as deemed appropriate, to the primary plant interface relay against electrical noise 
+and/or capacitive coupling onto cables. 
+COMPONENT FAILURE INFORMATION 
+Component Identification – 94-U2P Relay 
+Component Name – SEL-2411 Programmable Module 
+Manufacturer – Schweitzer Engineering Laboratories (SEL) 
+PREVIOUS OCCURRENCES 
+None. 
+ 

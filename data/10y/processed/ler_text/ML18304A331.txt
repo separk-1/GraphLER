@@ -1,0 +1,202 @@
+•
+Entergy Nuclear Operations, Inc.
+~Entergx Pilgrim Nuclear Power Station
+600 Rocky Hill Road
+Plymouth, MA 02360
+Peter J. Miner
+Manager, Regulatory Assurance
+Letter Number 2.18.002
+October 25, 2018
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report 2017-012-01, Supplement to Start-Up Transformer
+Degraded Voltage Relay Found Outside Technical Specification Limit
+Pilgrim Nuclear Power Station
+Docket No. 50-293
+Renewed License No. DPR-35
+Dear Sir or Madam:
+The enclosed Licensee Event Report 2017-012-01, Supplement to Start-Up Transformer
+Degraded Voltage Relay Found Outside Technical Specification Limit, is submitted in
+accordance with Title 10 Code of Federal Regulations 50.73.
+If you have any questions or require additional information, please contact me at (508) 830-
+7127.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+PJM/rm
+Attachment 1: Licensee Event Report 2017-012-01, Supplement to Start-Up Transformer
+Degraded Voltage Relay Found Outside Technical Specification Limit
+Entergy Nuclear Operations, Inc. Letter No. 2.18.002
+Pilgrim Nuclear Power Station Page 2 of 2
+cc: Mr. David C. Lew
+Regional Administrator, Region I
+U. S. Nuclear Regulatory Commission
+2100 Renaissance Boulevard, Suite 100
+King of Prussia, PA 19406-2713
+Mr. John Lamb, Senior Project Manager
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 0-8C2A
+Washington, DC 20555
+NRG Senior Resident Inspector
+Pilgrim Nuclear Power Station
+Attachment 1
+Letter Number 2.18.002
+Licensee Event Report 2017-012-01, Supplement to Start-Up Transformer Degraded
+Voltage Relay Found Outside Technical Specification Limit
+(3 Pages)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+I"""°'<., Reported lessons learned are incorporated into the licensing process and fed back to industry.
+•G LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S .
+\; ...... l (See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104). Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number,
+htto://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022lr3D the NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER .PAGE
+Pilgrim Nuclear Power Station 05000-293 1 OF3
+4. TITLE Supplement to Start-Up Transformer Degraded Voltage Relay Found Outside_ Technical Specification Limit
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR F N A /A CI LITY NAME DOCKET NUMBER
+NUMBER NO. 05000 N/A
+FACILITY NAME DOCKET NUMBER
+09 13 2017 2017 -012 -01 10 25 2018
+N/A 05000 N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: 'Check all that aoolv)
+D 2.0.2201 (b) D 20.22os(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+N
+D 20.2201 (d) D 20.22os(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.22os(a)(1) D 20.22os(a)(4) D so.1s(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.22os(a)(2)(i) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.22os(a)(2)(ii) 0 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 1s.11 (a)(4)
+D 20.22os(a)(2)(iii) D so.36(c)(2) D 50.73(a)(2)(v)(B) D 1s.11(a)(s)
+100 D 20.2203(a)(2)(iv) D so.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.22os(a)(2)(vi) [81 S0.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+0 50.73(a)(2)(i)(C) 00THER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT \iELEPHONE NUMBER (Include Area Code)
+Mr. Peter J. Miner- Reaulatorv Assurance ManaQer 508-830-7127
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+B EA 27 ABB y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gj NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 13, 2017 with the unit at 100 percent power, Pilgrim Nuclear Power Station discovered
+during calibration of four Start-Up Transformer Degraded Voltage Relays (ABB model number ITE-
+27N) after the relays had been removed from the plant, relay 127A -604/1 had an as-found setpoint
+value outside the Technical Specifications Table 3.2.B limit of 110.6 plus or minus 0.56 Volts ac (Vac)
+(110.04 -111.16); the as-found value was 109.90 Vac. This relay was replaced with a spare relay that
+was calibrated prior to its installation.
+Pilgrim Nuclear Power Station is submitting this Licensee Event Report in accordance with 1O CFR
+50.73(a)(2)(i)(B) -Any operation or condition that was prohibited by the plant's Technical
+Specifications.
+This event was not risk significant. There was no threat to public health and safety from this condition.
+NRG FORM 366 (04-2017)
+)
+\
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/reading-rm/doc-collect1ons/nuregs/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Pilgrim Nuclear Power Station 05000-293 NUMBER NO.
+2017 -012 -01
+NARRATIVE
+BACKGROUND
+The startup transformer supplies power to the station auxiliary power distribution system whenever the
+main generator is offline. After the main generator has been synchronized to the 345 kV system and has
+been partially loaded, the auxiliary power distribution system is manually transferred from the start-up
+transformer (SUT) to the unit AC power source (unit auxiliary transformer [UAT]).
+Automatic fast transfer capability is provided in the design to restore the auxiliary power distribution system
+lo its preferred offsite AC power source, the SUT, in the event that the unit AC power source (UAT) is lost
+or any reason. The diesel generator load shedding logic will also be actuated immediately upon the fast
+transfer of the safety related buses A5 and A6 to the SUT if a Loss-Of-Coolant-Accident signal is present
+When the SUT secondary voltage is below the degraded voltage alarm reset setpoint.
+The primary function of the 127A -604/1 degraded voltage relays and their settings for the SUT is to
+ensure a minimum voltage at which the emergency buses can be operated indefinitely to provide their
+intended safety functions. If voltage drops below that point for a specified time limit, the degraded voltage
+relays will initiate transfer of the emergency buses from offsite power to the onsite emergency diesel
+generators. 1
+EVENT DESCRIPTION
+During calibration of four SUT Degraded Voltage Relays (ABB model number ITE-27N) after the relays
+had been removed from the plant, relay 127A-604/1 had an as-found setpoint value outside the Technical
+Specifications (TS) Table 3.2.B limit of 110.6 plus or minus 0.56 Volts ac (Vac) (110.04 - 111.16). The as
+found value was 109.90 Vac. This relay was replaced with a spare relay that was calibrated prior to its
+installation.
+CAUSE OF THE EVENT
+A preliminary failure analysis concluded that the relay was exhibiting drift. However, testing at a vendor
+facility concluded that the relay had repeatable good performance with no indication of unacceptable drift.
+Similarly, other identical relays purchased at the same time did not show signs of excessive drift.
+Therefore, the cause of the relay .failure remains inconclusive. However, the failure was .unique to the
+· affected relay, which was replaced. Based on a review of calculations, margins exist to compensate for the
+minor deviation, which indicates that the degraded voltage relay would operate within safety limits but
+outside the TS limits.
+CORRECTIVE ACTIONS
+• I
+The relay was replaced, restoring the safety function of the SUT degraded voltage relay to initiate transfer
+NRC FORM 366A (04-2017)
+Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+J' ~ . . .ll,!1"'1: <;.,, LICENSEE EVENT REPORT (LER) lessons learned are incorporated into . the licensing process and fed back to industry. Send
+.... ) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+\, CONTINUATION SHEET Regulatory Commission, Washington, , DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3l) NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR SEQUENTIAL REV
+Pilgrim Nuclear Power Station 05000-293 NUMBER NO.
+2017 -012 -01
+NARRATIVE
+of the emergency buses from offsite power to the onsite emergency diesel generators.
+SAFETY CONSEQUENCES
+tfhe 127A-604/1 Degraded Voltage Relay As-Found setpoint value was outside the TS limits: However,
+per calculation PS147 "Degraded Voltage Trip Relays, Revised Voltage Setpoint" there was sufficient
+margin, which indicates that the degraded voltage relay would operate within safety limits but outside the
+rrs
+limits. -
+,,
+Calculation PS147 "Degraded Voltage Trip Relays, Revised Voltage Setpoint" establishes the trip
+setpoint, analytical limits, and the no adjust limits for the voltage function of the degraded voltage trip
+relays (127A -504/1,2,3,4 and 127A -604/1,2,3,4). The upper and lower analytical limits are the limit of a
+measured or calculated variable established by the plant safety analysis to ensure that a safety limit is not
+exceeded. The as-found value found for this relay was 109.9 Vac which was outside the TS limits.
+However, per PS147, adequate margin exists in electrical load flow calculations and instrument variable
+uncertainties used in Total Loop Uncertainties, which ensures that the lower analytical limit was not
+exceeded. Therefore, the as-found value for 127A -604/1 does not exceed the established safety limit, and
+~he relay is capable of performing its safety function.
+rThere were no public safety, nuclear safety, industrial safety or radiological safety consequences from this
+event. No actions to reduce the frequency or consequence are necessary.
+REPORTABI LITY
+Pilgrim Nuclear Power Station is submitting this Licensee Event Report (LER) in accordance with 1O CFR
+50.73(a)(2)(i)(B) -Any operation or condition that was prohibited by the plant's Technical Specifications.
+PREVIOUS EVENTS
+A review of PNPS LE Rs for the past five years did not identify any other LE Rs that were submitted for the
+same reason as this submittal.
+REFERENCES:
+CR-PNP-2017-9211
+CR-PNP-2018-5532
+NRG FORM 3668 (04-2017)
+Page 3 of 3

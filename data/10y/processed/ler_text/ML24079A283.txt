@@ -1,0 +1,169 @@
+o
+Robert D. McLaughlin PSEG
+I
+Plant Manager, Hope Creek Generating Station, PSEG Nuclear LLC NUCLEAR
+PO Box 236
+Hancocks Bridge, New Jersey 08038-0221
+10 CFR 50.73
+LR-N24-0027
+March 19, 2024
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Licensee Event Report 2023-003-01, Inadvertent Main
+Turbine Control Valve Closure Caused Reactor Scram
+PSEG Nuclear LLC submits the attached licensee event report supplement per 10
+CFR 50.73(a)(2)(iv)(A).
+There are no regulatory commitments contained in this submittal.
+Please contact Ms. Bernadette Humphrey at (856) 339 - 1308 if you have questions.
+Sincerely,
+Robert D. McLaughlin
+Plant Manager, Hope Creek Generating Station
+Attachment: Licensee Event Report
+cc: USNRC Regional Administrator − Region 1
+USNRC NRR Project Manager – Hope Creek
+USNRC Senior Resident Inspector – Hope Creek
+NJ Department of Environmental Protection, Bureau of Nuclear Engineering
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+~./;(,-,>" ~£<111,.,,.0._ LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+! ~: estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+~ ~ ~+ -? ,..,.11•• ._o $ ' (See Page 2 for required number of digits/characters for each block) C at o : m O m M is B s io O n f , f ic W e a o s f h I i n n f g o t r o m n a , t D io C n 2 a 0 n 5 d 5 R 5- e 0 g 0 u 0 la 1 t , o o ry r b A y ff a e i m rs a , i ( l 3 t 1 o 5 I 0 n - f 0 o 1 c 0 o 4 lle ), c A ts t . t R n: e s D ou e r s c k e O @ f n fic rc e . r g o fo v r , t a h n e d N th u e cl e O a M r R B e r g e u v l i a e t w o e ry r
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 00 050 2. Docket Number 3. Page
+Hope Creek Generating Station
+00354 1 OF 3
+□ 052
+4. Title
+Inadvertent Main Turbine Control Valve Closure Caused Reactor Scram
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year □ 050
+12 14 2023 2023 - 003 - 01 03 19 2024 Facility Name Docket Number
+□ 052
+9. Operating Mode I10 . Power Level
+1 88
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) [{] 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(g)
+□ 20.2203(a)(2)(iv) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Bernadette Humphrey (856)339 - 1308
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[{] No □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On December 14, 2023, at 1939 EST, while attempting to manually close a failed open #4 turbine control
+valve (TCV), the #4 TCV closed rapidly. This caused a scram on average power range monitor (APRM)
+high neutron flux due to a rise in reactor pressure.
+Hope Creek Generating Station (HCGS) repaired the #4 TCV by replacing the servo valve. In addition, the
+fast-acting solenoid (FAS) valve and the shutoff valve were replaced. HCGS synchronized the Main
+Generator to the grid on December 17, 2023, at 1537 EST.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~c,J>P.REGt,(,.>O
+f~t?. LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+~ CONTINUATION SHEET
+~ ,i Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+..;.+-, ••11t•• +O' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+I □ NUMBER D NO.
+Hope Creek Generating Station 00354
+2023 I
+□ 052 I - 003 I - 01
+NARRATIVE
+ABSTRACT (continued)
+A Root Cause Evaluation (RCE) was performed. The root cause of this event was inadequate adherence to applicable
+administrative tools and processes. Corrective actions include procedure revisions and reinforcement of expectations
+regarding procedure adherence.
+HCGS reported this per 10 CFR 50.72(b)(2)(iv)(B) as event notification 56889 and now reports this event per 10 CFR
+50.73(a)(2)(iv)(A).
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor (BWR/4)
+Turbine Control Valve/ Electro-Hydraulic Control System (EHC) - TG
+IDENTIFICATION OF OCCURRENCE
+Event Date: December 14, 2023
+Discovery Date: December 14, 2023
+CONDITIONS PRIOR TO OCCURRENCE
+OPCON 1, POWER OPERATION. Reactor power was at 88 percent.
+No other structures, systems or components that could have contributed to the event were inoperable during the event.
+DESCRIPTION OF OCCURRENCE
+On December 11, 2023, an EHC leak was discovered on the #4 turbine control valve (TCV). Reactor power was reduced
+to 90 percent, the #4 TCV was closed, and EHC was isolated to stop the leak while the plant was at 90 percent power.
+HCGS further lowered power to 70% to facilitate conditions for repairs.
+On December 14, 2023, HCGS was at 88 percent power after #4 TCV FAS oil supply tubing repairs. During restoration,
+foreign material that entered and damaged the servo o-rings during the leak repair caused the #4 TCV to go full open
+despite having a closed demand signal. While taking action to manually close the #4 TCV, the valve unexpectedly closed
+in approximately one second causing an automatic actuation of the reactor protection system (RPS) due to high average
+power range monitor (APRM) high neutron flux.
+All control rods fully inserted into the core. All safety systems responded as designed and expected. There were no
+emergency core cooling system actuations during the event.
+NRC FORM 366A (10-01-2023) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~c,J>P.REGt,(,.>O
+f~t?. LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+~ CONTINUATION SHEET
+~ ,i Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+..;.+-, ••11t•• +O' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+I □ NUMBER D NO.
+Hope Creek Generating Station 00354
+2023 I
+□ 052 I - 003 I - 01
+NARRATIVE
+CAUSE OF EVENT
+Rapid closure of the #4 TCV caused a scram on APRM high neutron flux.
+The direct cause of the full open #4 TCV was foreign material exclusion (FME) practices were not implemented correctly
+by the work groups. Decision makers believed manually operating the FAS could be done in a controlled manner;
+however, the subsequent fast closure of the #4 TCV resulted in the reactor scram.
+The human performance related cause of this event was inadequate adherence to applicable administrative tools and
+processes. Vendor information was acted upon without employing a formal decision-making process.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no safety consequences because of this event. There was no radiological release. All safety equipment
+functioned as designed.
+PREVIOUS EVENTS
+There have been no previous events at HCGS in the last three years where the #4 TCV caused a reactor scram.
+CORRECTIVE ACTIONS
+1.Hope Creek Generating Station (HCGS) repaired the #4 TCV by replacing the servo valve, the fast-acting solenoid
+valve, and shutoff valve. HCGS synchronized the Main Generator to the grid on December 17, 2023, at 1537 EST.
+2.Revise applicable EHC procedures which involve manual FAS valve manipulations while on-line.
+3.Conduct training to review roles and responsibilities of the station duty team during the response to emergent issues.
+Additional actions are being tracked in the licensee’s Corrective Action Program.
+COMMITMENTS
+There are no regulatory commitments in this LER.
+NRC FORM 366A (10-01-2023) Page 3 of 3

@@ -1,0 +1,227 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, New Jersey 08038-0236
+0
+I>SEG
+Nuclear LLC
+10CFR50.73
+LR-N17-0084
+MAY 0 4 2017
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station Unit 1
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Supplemental Licensee Event Report 2016-006-01, Mode Change
+Without B Channel Level Instrumentation Operable
+In accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B), PSEG Nuclear LLC is
+submitting the enclosed Supplemental Licensee Event Report (LER) Number 2016-006- ·
+01, "Mode Change Without B Channel Level Instrumentation Operable."
+If you have any questions or require additional information, please contact Mr. Thomas
+MacEwen at (856) 339-1097.
+There are no regulatory commitments contained in this letter.
+Sincerely,
+Edward T. Casulli
+Plant Manager
+Hope Creek Generating Station
+ttm
+Attachment: Licensee Event Report 2016-006-01
+LR-N17-0084 10CFR50.73
+Page 2
+Document Control Desk
+cc: Mr. Daniel Dorman, Regional Administrator- Region I, NRC
+Ms. Carleen Parker, Project Manager- US NRC
+Mr. Justin Hawkins, NRC Senior Resident Inspector- Hope Creek (X24)
+Mr. Patrick Mulligan, Manager IV, NJBNE
+Mr. Thomas MacEwen, Hope Creek Commitment Tracking Coordinator (H02)
+Mr. Lee Marabella- Corporate Commitment Tracking Coordinator (N21)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+{1 LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~ .. (See Page 2 for required number of digits/characters for each block) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+.~,
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to Impose an information collection does not display a currently valid OMB control
+httQ://vwvw.nrc.gov/reading-rm/doc-collectlons/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Hope Creek Generating Station 05000354 1 OF 4
+4. TITLE
+Mode Chanae Without B Channel Reactor Level Instrumentation Or: erable
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I S EQUENTIAL I REV MONTH DAY YEAR FACILITY NAME D 0 O 50 C 0 KE 0 T NUMBER
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+11 9 2016 2016 -006 -01 4 26 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) · D 50. 73(a)(2)(viii)(A)
+2-Startup
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+0 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) 0 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+<1% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) • 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(il)
+0 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or In NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMBER (Include Area Code)
+Thomas MacEwen, Principal Nuclear Engineer 856-339-1097
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER RE T P O O R E T P A IX B LE CAUSE SYSTEM COMPONENT FA M C A T N U U R - ER REP TO OR E T P A IX B LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) • NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 9, 2016, at 0420 with the Hope Creek reactor in Operational Condition 2, Startup, the B channel reactor
+level instrumentation was found to be inoperable. The inoperable instrumentation was discovered as reactor level was
+being lowered into the normal band in preparation for plant startup. Hope Creek had made a mode change from
+Operational Condition 4, Cold Shutdown, to Operation Condition 2, Startup, on November 9, 2016, at 0317,
+approximately 1 hour prior to discovering the inoperable instrumentation.
+The B Channel reactor level instrumentation is required to be operable in order to enter Oper.ational Condition 2 to
+support the B division of the Reactor Protection System (RPS), the Emergency Core Cooling Systems (ECCS), and the
+Primary Containment Isolation System (PCIS). The cause was determined to be an improperly filled reference leg for
+the B channel reactor level instrumentation. This report is being made under 10 CFR 50.73(a)(2)(i)(B), as a condition
+which was prohibited by the plant's Technical Specifications.
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an Information collection does not display a currently valid OMB control
+http://www. nrc.gov/readi ng-rm/doc-collections/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+YEAR I SEQUENTIAL REV
+Hope Creek Generating Station 05000-354 NUMBER NO.
+2016 -006 -01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric- Boiling Water Reactor (BWR/4)
+Reactor Protection System- EllS Identifier {JC/LI}*
+ESF Actuation System- EllS Identifier {JE/LI}*
+Containment Isolation Control System- EllS Identifier {JM/ Ll}*
+*Energy Industry Identification System {EllS} codes and component function identifier codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURRENCE
+Event Date: November 9, 2016
+Discovery Date: November 9, 2016
+CONDITIONS PRIOR TO OCCURRENCE
+When the inoperable instrumentation was discovered, Hope Creek was in Operational Condition (OPCON) 2, Startup,
+with the reactor sub-critical, and a reactor startup in progress. No other structures, systems or components that could
+have contributed to the event were inoperable at the time of the event.
+DESCRIPTION OF OCCURRENCE
+I
+During the twentieth refueling outage (H1 R20) at Hope Creek, a section of the reference leg for one instrument on the B
+channel reactor vessel level instrumentation was replaced and rerouted using the design change process. The
+reference leg is normally maintained at a constant height of water by a condensing pot connected to the reactor vessel
+steam space. Initially, the reference leg needs to be backfilled with water to remove small pockets of air or voids which
+may be present. On November 9, 2016, the reference leg had not been backfilled following the re-routing of the
+reference leg tubing, resulting in an incorrect level indication on all B channel level instruments.
+Following replacement of the reference leg, the design change package (DCP) did not provide instructions for back
+filling the reference leg. Instead, the DCP relied on the maintenance department to backfill the reference leg while I
+returning the affected instruments to service. The assigned maintenance supervisor was not cognizant of the DCP
+scope, and determined that the step to backfill the reference leg was not required. A second maintenance supervisor,
+who was aware of the work scope, did not question the decision to sign-off the backfill as not required. The B channel
+instruments were returned to service by maintenance without completing the backfill evolution. As a result, the
+reference leg for the B channel was not completely filled with water, and level on this channel indicated higher than
+actual level. The top of the indicating band for Technical Specification required reactor vessel instrumentation is +60
+inches, and water level was being maintained in a band of 60 to 65 inches inches prior to making the mode change.
+Under this condition, all four channels of Technical Specification required vessel level indication indicated off-scale high,
+above 60 inches. Vessel level was being monitored using non-Technical Specification required level instrumentation
+which has a wider indicating range. Under this condition, the incorrect indication on the B channel instrumentation was
+not observable to the plant operators.
+Following the mode change, when vessel level was being lowered into the normal band of 30-39 Inches, the A, C and D
+channels of vessel level instrumentation all tracked together into the indicating range, while the B channel remained off
+scale high.
+At approximately 0420, control room operators recognized the condition, declared the B channel inoperable and directed
+maintenance personnel to investigate. At 0528 a prompt investigation was initiated by the Shift Manager.
+NRC FORM 366A (06·2016) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016 . ) . Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry .
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA. Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocoiiects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Manageme.nt and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://www.nrc.gov/read\ng-rm/doc-co\lections/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+YEAR I SEQUENTIAL REV
+Hope Creek Generating Station 05000-354 NUMBER NO.
+2016 -006 -01
+Plant Technical Specifications require that all four channels of vessel level instrumentation be operable prior to making
+the mode change from OP CON 4, Cold Shutdown to OP CON 2, Startup. The B channel level instruments are required
+for the operability of the B RPS {JC} channel, the B ECCS {JE} channels and B PCIS {JM} channels.
+On November 9, 2016 at 1505, the 81 RPS channel and the B Nuclear Steam Supply Shutoff System (NSSS) {JM} were
+placed in the tripped condition to comply with the 12 hour action for Technical Specification 3.3.1, Reactor Protection
+System actuation instrumentation, and Technical Specification 3.3.2, Primary Containment Isolation actuation
+instrumentation.
+Maintenance technicians completed the backfill of the B channel reference leg and the B channel was returned to
+operable on November 9, 2016 at 2228.
+CAUSE OF EVENT
+The cause of the event involved personnel error. The two maintenance supervisors involved in the event failed to use a
+questioning attitude when determining that the backfill evolution was not required. Contributing to the error was the
+practice of treating the reference leg backfill evolution as a contingency activity, as described in the work schedule. This
+activity is scheduled as a contingency every outage, but would not normally be performed during every refuel outage,
+unless work scope dictated that a backfill was required. In this case, the work scope did require that the backfill be
+performed, but it was not recognized by the supervisor involved.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no adverse safety consequences as a result of this event. The A, C and D channel level instruments were
+all operable throughout the duration of the event. The RPS system would have responded properly to shut down the
+reactor with the 8 channel level instruments inoperable. The A, C and D ECCS subsystems would have responded to
+an actual low level condition, and would have provided sufficient capability to restore and maintain vessel level. The
+reactor coolant system pressure remained within the design capability of the low pressure ECCS systems throughout
+the event. The PCIS system would have successfully isolated primary containment with the B channel level instruments
+inoperable since the A, C and D channels were operable. ·
+The B channel level instrumentation was restored to operable prior to the mode change to Operational Condition 1,
+Run, which occurred on November 1 ( 2016 at 1423.
+SAFETY SYSTEM FUNCTIONAL FAILURE
+A review of this condition and the associated evaluations determined that a Safety System Functional Failure (SSFF) as
+defined in Nuclear Energy Institute (NEI) 99-02, "Regulatory Assessment Performance Indicator Guideline," did not
+occur.
+PREVIOUS EVENTS
+A review of events from the past 3 years was performed. Eleven instances were identified in the corrective action
+program (CAP) in which work was inappropriately closed, and personnel error was cited as causal. None of the
+evaluations associated with these eleven events identified questioning attitude as a cause or contributing cause. None
+of the events involved similar consequences and they were not found to be significant in relation to this event.
+Page 3 of 4
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-01 04), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an Information collection does not display a currently valid OMB control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person Is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL I REV
+Hope Creek Generating Station 05000-354 I NUMBER NO.
+2016 -006 -01
+CORRECTIVE ACTIONS
+1. The B channel reference leg was backfilled and returned to operable status.
+2. The personnel involved in the decision to not perform the backfill were disqualified from performing similar duties
+until remediated.
+3. Additional corrective actions are planned in accordance with the station's corrective action program.
+COMMITMENTS
+There are no regulatory commitments contained in this LER.
+Page 4 of 4
+NRC FORM 366A (06-2016)

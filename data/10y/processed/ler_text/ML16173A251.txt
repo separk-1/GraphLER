@@ -1,0 +1,348 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+June 21, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-296
+Subject: Licensee Event Report 50-259/2016-001-00
+The enclosed Licensee Event Report provides details of the failure of the 4kV Shutdown
+Bus Normal Feeder Breaker, the resulting actuation of C and D Emergency Diesel
+Generators, and the resulting actuation of multiple Containment Isolation Valves. The
+Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations 50.73(a)(2)(iv)(A), as any event or condition that results in manual
+or automatic actuation of any of the systems listed in paragraph (b)(3)(iv)(B) Emergency
+AC Electrical Power Systems including Emergency Diesel Generators, and Containment
+Isolation Valves.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-259/2016-001-00 - Failure of 4kV Shutdown Board
+Normal Feeder Breaker Results in Actuations of Emergency Diesel Generators
+and Containment Isolation Valves
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 1
+Licensee Event Report 50-259/2016-001-00
+Failure of 4kV Shutdown Board Normal Feeder Breaker Results in Actuations of Emergency Diesel
+Generators and Containment Isolation Valves
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant (BFN), Unit 1 05000259 1 OF 6
+4. TITLE
+Failure of 4kV Shutdown Board Normal Feeder Breaker Results in Actuations of Emergency Diesel Generators and
+Containment Isolation Valves
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+04 22 2016 2016 - 001 - 00 06 21 2016 FACILITY NAME DOCKET NUMBER
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Baruch Calkin, Licensing Engineer (256) 614-6713
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 22, 2016, at 1358 Central Daylight Time (CDT), during transfer of the 4160 V (4kV) Shutdown Bus
+from Alternate to Normal, the Normal Feeder Breaker (BKR 1722) failed to close when the Alternate
+Feeder Breaker was manually tripped. 4kV SD Bus 2 de-energized, resulting in the loss of 1B and 2B
+Reactor Protection System (RPS) as well as Steam Jet Air Ejector 1B. Emergency Diesel Generators
+(EDG) C and D started, but did not tie to the 4kV Shutdown Boards due to Operations personnel
+immediately re-closing the Alternate breaker and re-energizing 4kV Shutdown Bus 2. Invalid actuations of
+several Containment Isolation Valves also occurred during this event due to the loss of RPS. At 1530 CDT,
+EDG C and D were shut down. BFN, Unit 1, was returned to normal operating conditions.
+The cause of this event was loose wires in the closing control circuit for BKR 1722 due to work in the
+vicinity of the control circuit termination points. Corrective actions were to terminate loose wires, using a
+ring type lug instead of a forked spade type lug, in the closing control circuit for BKR 1722; and to verify
+Shutdown Bus 2 transferred successfully to BKR 1722. A briefing was provided to Electrical personnel
+who perform modifications to discuss the potential consequences of installing tie wraps and performing
+other activities that could adversely affect existing wiring.
+NRC FORM 366A (11-2015)
+Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was operating in Mode 1 at
+approximately 100 percent rated thermal power. BFN, Units 2 and 3, were unaffected by this event.
+A. Event:
+On April 22, 2016, at 1358 Central Daylight Time (CDT), during transfer of the 4160 V (4kV)
+Shutdown Bus [BU](SD Bus) from Alternate to Normal, the Normal Feeder Breaker
+BFN-0-BKR-211-000C/026 [BKR](BKR 1722) failed to close when the Alternate Feeder Breaker
+(BKR 1712) was manually tripped. 4kV SD Bus 2 de-energized, resulting in the loss of 1B and
+2B Reactor Protection System [JC](RPS) as well as Steam Jet Air Ejector [EJR][SH](SJAE) 1B.
+Emergency Diesel Generators (EDG)[DG] C and D started, but did not tie to the 4kV Shutdown
+Boards (SD BD) due to Operations personnel immediately closing BKR 1712 and re-energizing
+4kV SD Bus 2.
+Upon loss of 4kV SD Bus 2, Primary Containment Isolation System [JM](PCIS) Group 2
+outboard valves [ISV] isolated and BFN, Unit 1, entered Technical Requirement Manual (TRM)
+Limiting Condition for Operation (LCO) 3.4.1 which requires sampling of reactor coolant
+conductivity every four hours. PCIS Group 3 Reactor Water Cleanup [CE](RWCU) and PCIS
+Group 6 isolated; BFN, Unit 1, entered Technical Specification (TS) LCO 3.4.5 Condition D and
+TRM LCO 3.3.10 with required action to enter TS LCO 3.0.3 immediately. Operations
+personnel entered Abnormal Operating Instructions 1-AOI-99-1 (Loss of Power to One RPS
+Bus), 1-AOI-57-5B (Loss of I&C Bus B), and 1-AOI-47-3 (Loss of Condenser Vacuum) [COND].
+On April 22, 2016, at 1436 CDT, Operations personnel noted that Drywell to Suppression
+Chamber differential pressure was reading 0.95 pounds per square inch differential (psid). BFN,
+Unit 1, entered TS LCO 3.6.2.6 Condition A.1 which requires Drywell to Suppression Chamber
+differential pressure to be restored to greater than 1.1 psid within eight hours.
+Operations personnel returned BFN, Unit 1, to normal operating conditions and exited all TS
+LCOs, TRM LCOs, and AOIs. On April 22, 2016, at 1530 CDT, EDG C and D were shut down.
+On April 22, 2015, at 1722 CDT, Event Notification (EN) 51878 was made to the NRC in
+accordance with Title 10 of the Code of Federal Regulations (10 CFR) 50.72(b)(3)(iv)(A).
+II. Description of Events
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event:
+No inoperable systems, structures, or components contributed to this event.
+NRC FORM 366A (11-2015)
+Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+C. Dates and approximate times of occurrences:
+April 22, 2016, at Alternate Feeder Breaker 1712 placed in TRIP, Normal Feeder Breaker
+1358 CDT 1722 failed to close.
+4kV SD Bus 2, 1A and 1B RPS de-energized. EDG C and D started.
+Operations personnel re-closed Alternate Feeder Breaker 1712.
+April 22, 2016, at PCIS Group 2 outboard valves, Group 3 RWCU, and Group 6 isolated.
+1359 CDT
+Loss of SJAE 1B.
+BFN, Unit 1, entered AOI-99-1, AOI-57-5B, and AOI-47-3.
+BFN, Unit 1, entered TS LCOs 3.0.3 and 3.4.5 Condition D; entered TRM
+LCOs 3.4.1 and 3.3.10.
+April 22, 2016, at SJAE 1B returned to service.
+1410 CDT
+Operations personnel exited 1-AOI-47-3.
+April 22, 2016, at BFN, Unit 1, entered TS LCO 3.6.2.6 Condition A.1.
+1436 CDT
+April 22, 2016, at Drywell to Suppression Chamber differential pressure restored to 1.1 psid.
+1441 CDT
+BFN, Unit 1, exited TS LCO 3.6.2.6 Condition A.1
+April 22, 2016, at BFN, Unit 1, exited TS LCOs 3.0.3 and 3.4.5 Condition D; exited TRM
+1444 CDT LCOs 3.4.1 and 3.3.10.
+April 22, 2016, at EDG C and D shut down.
+1530 CDT
+April 22, 2016, at RWCU returned to service.
+1540 CDT
+BFN, Unit 1, exited TRM LCO 3.4.1.
+April 22, 2016, at Provided eight-hour EN #51878 to the NRC.
+1722 CDT
+D. Manufacturer and model number (or other identification) of each component that failed
+during the event:
+No component failures were identified that occurred during the event.
+NRC FORM 366A (11-2015)
+Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+E. Other systems or secondary functions affected:
+• 4kV SD Bus 2 de-energized
+• Loss of SJAE 1B, resulting in lowering vacuum on Unit 1 Main Condenser.
+• Loss of 1B and 2B RPS
+• PCIS Group 2 outboard valves, Group 3 RWCU, Group 6 isolated
+• Lowering Drywell to Suppression Chamber differential pressure
+F. Method of discovery of each component or system failure or procedural error:
+This event immediately resulted in multiple indications in the Unit 1 Main Control Room.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+No component failures were identified that occurred during the event.
+H. Operator actions:
+• Re-closed Alternate Feeder Breaker
+• Re-energized 4kV SD Bus 2
+• Restored all inoperable equipment to service
+• Shut down EDG C and D
+I. Automatically and manually initiated safety system responses:
+EDG C and D started automatically when the BKR 1722 failed to close.
+III. Cause of the event
+A. The cause of each component or system failure or personnel error, if known:
+The Apparent Cause for this event was loose wires in the closing control circuit for
+BKR1722 due to work in the vicinity of the control circuit termination points. This included
+movement of nearby wiring and the installation of a tie wrap which exacerbated the
+situation by providing a pulling force on the termination points.
+A contributing cause for this event was the use of forked spade terminal instead of a ring
+lug, which would have been less susceptible to pulling loose when the tie wrap was
+installed.
+B. The cause(s) and circumstances for each human performance related root cause:
+No human performance related root cause was identified.
+IV. Analysis of the event:
+The Tennessee Valley Authority is submitting this report in accordance with 10 CFR
+50.73(a)(2)(iv)(A), as any event or condition that resulted in manual or automatic actuation of any
+NRC FORM 366A (11-2015)
+Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+of the systems listed in paragraph (a)(2)(iv)(B) of 10 CFR 50.73, except when:
+1. The actuation resulted from, and was part of, a pre-planned sequence during testing or
+reactor operation
+2. The actuation was invalid and occurred while the system was properly removed from
+service, or was invalid and occurred after the safety function had been already completed.
+Because this event resulted in a valid, unplanned actuation of EDG C and D, it is reportable
+according to 10 CFR 50.73(a)(2)(iv)(B)(8). Additionally, this event resulted in the invalid
+actuations of BFN, Unit 1, Primary Containment Isolation Valves in Groups 2, 3 and 6. These
+actuations did not occur while the system was properly removed from service or after their safety
+function had been already completed, and are therefore reportable according to 10 CFR
+50.73(a)(2)(iv)(B)(2).
+The safety objective of the Standby Alternating Current Power System is to provide a
+self-contained, highly reliable source of power, as required for the Engineered Safeguards
+System, so that no single credible event can disable the core standby cooling functions or their
+supporting auxiliaries. The EDGs are designed to support the electrical load of a 4kV SD BD
+upon loss of supply from a 4.16 kV shutdown bus. During this event, EDG C and D performed
+their safety function of automatically starting in order to potentially assume the load of C and D
+4kV SD BDs upon a loss of supply to the boards. The EDGs did not tie to the 4kV SD BDs due
+to Operations personnel immediately closing BKR 1712 and re-energizing 4kV SD Bus 2.
+Troubleshooting determined that the failure mechanism for this event was loose wires in the
+closing control circuit for BKR 1722 due to ongoing work in the vicinity of the control circuit
+termination points. The closing circuit for BKR 1722 had an open circuit due to a loose wire on
+terminal block ZW-8. The loose wire and lug were observed to have pulled loose from the
+terminal block due to a tie wrap that had been installed to secure the wire to an adjacent wire
+bundle. The installation of the tie wrap to the adjacent control wiring exerted a pulling tension on
+the control wire terminated at the terminal block. The wire and lug were susceptible to being
+pulled loose from the terminal block when the control wiring was moved because a spade type
+lug was installed instead of a ring lug, and because the terminal block screw had been loosened
+during previous maintenance or modifications work in the panel.
+V. Assessment of Safety Consequences
+This event resulted in an unplanned automatic start of EDG C and D. The EDGs are designed
+to automatically start upon a loss of offsite power. EDG C and D successfully performed their
+safety functions during this event; therefore, TVA has concluded there was no significant
+increase in risk to the health and safety of the public or plant personnel due to this event.
+NRC FORM 366A (11-2015)
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+A. Availability of systems or components that could have performed the same function
+as the components and systems that failed during the event:
+During this event, all four Unit 1 and 2 EDGs remained available, and all four Unit 1 and 2
+4kV SD BDs were operable.
+B. For events that occurred when the reactor was shut down, availability of safety-
+related systems or components:
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+No safety systems were rendered inoperable as a result of this event.
+VI. Corrective Actions:
+Corrective Actions (CA) are being managed by TVA’s Corrective Action Program (CAP) under
+Condition Report (CR) 1163613. The CAs described below address this condition:
+1. Terminate loose wires, using a ring type lug instead of a forked spade type lug, in the
+closing control circuit for BFN-0-BKR-211-000C/026.
+2. Verify Shutdown Bus 2 transfers to normal feed breaker in accordance with 0-OI-57A.
+A briefing was provided to Electrical personnel that perform modifications to discuss the
+potential consequences of performing activities that could adversely affect existing wiring.
+VII. Additional Information:
+A. Previous Similar Events:
+A review of the BFN CAP and Licensee Event Reports for Units 1, 2, and 3 revealed no
+events over the last three years where a loose wire resulted in actuation of an EDG.
+B. Additional Information:
+There is no additional information.
+C. Safety System Functional Failure Consideration:
+No safety systems were rendered inoperable as a result of this event. Therefore, this event is not
+considered to be a Safety System Functional Failure in accordance with NUREG-1022.
+D. Scram with Complications Consideration:
+This event did not result in a reactor scram.
+VIII. COMMITMENTS
+There are no new commitments.
+NRC FORM 366A (11-2015)

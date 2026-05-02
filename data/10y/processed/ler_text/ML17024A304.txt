@@ -1,0 +1,211 @@
+Keih J. Poison
+Site Vice President
+DTE E nergy Copn
+6400 N. Dix -iihay Newport, Mil 48166
+Tel: 734.586.4849 Fax: 734.586.4172
+Email: keith~poon dteenrgycom
+SDTE Energy
+10 CFR 50.73
+January 23, 2017
+NRC-17-0003
+U. S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Reference: Fermi 2
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2016-001-01
+Pursuant to 10 CFR 50.73(a)(2)(v)(A) and (D), DTE Electric Company (DTE) is
+submitting Revision 01 to LER No. 2016-001, Turbine Stop Valve Closure and Turbine
+Control Valve Fast Closure Reactor Protection System Functions Considered Inoperable
+Due to Open Turbine Bypass Valves. This revision updates the cause of the event and
+corrective actions based on the results of a Failure Modes Analysis.
+No new commitments are being made in this LER.
+Should you have any questions or require additional information, please contact
+Mr. Scott A. Maglio, Manager - Nuclear Licensing, at (734) 586-5076.
+Sincerely,
+Keith J. Polson
+Site Vice President
+Enclosure: Licensee Event Report No. 2016-001-01
+cc: NRC Project Manager
+NRC Resident Office
+Reactor Projects Chief, Branch 5, Region III
+Regional Administrator, Region III
+Michigan Public Service Commission
+Regulated Energy Division (kindschl@michigan.gov)
+Enclosure to
+NRC-17-0003
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report (LER) No. 2016-001-01
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Sendc ommenretsg ardibnugr deens timattoe theF OIA, Privacy and Information Collections
+SBranch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management andB udgeWta,s hington, DC2 0503. Ifa
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose ani nformatcioollenc tion does not display a currently valid OMB control
+tpI./. ^ ~ -rg lrm~pc t o. ~number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Fermi 2 05000 341 1 OF 4
+4. TITLE
+Turbine Stop Valve Closure and Turbine Control Valve Fast Closure Reactor Protection System Functions Considered Inoperable Due
+to Open Turbine Bypass Valves
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N QU U E M N B T E IA R L N __ REV MONTH DAY YEAR N F /A AC ILITYN AME 05 D 0 O 00 CKENT UMBER
+FACILITYN AME DOCKENT UMBER
+01 06 2016 2016 - 001 - 01 01 23 2017 N/A 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1 D20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+Q 20.2203(a)(1) 20.2203(a)(4) 5073(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) / 50.73(a)(2)(v)(A) 73.71(a)(4)
+El 20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) / 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+Q
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify inA bstract below or inN RC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Fermi 2 / Scott A. Maglio - Manager, Nuclear Licensing (734) 586-5076
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FARE REPORTABLE CAUSE SYSTEM COMPONENT FACTURER REPORTABLE
+X IT CON A380 Y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+YES (Ify es, complete 15. EXPECTED SUBMISSION DATE) / NO SUBMISSION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1514 EST on January 6, 2016, while operating at 100 percent Reactor Thermal Power (RTP), the East and West Turbine Bypass
+Valves (TBV) automatically opened as expected for 3 minutes and 32 seconds in response to the number one High Pressure Turbine
+Stop Valve (TSV) drifting from full open to 25 percent open due to an actuator malfunction.
+Per Technical Specification (TS) Bases 3.3.1.1, TBVs must remain shut while RTP is at or above 29.5 percent to consider all channels
+of the TSV closure and Turbine Control Valve (TCV) fast closure Reactor Protection System (RPS) functions operable.
+Reactor Operators lowered RTP to 91.0 percent and at 1518 EST the TBV automatically closed and the TSV closure and TCV fast
+closure RPS functions were no longer considered inoperable. TS 3.3.1.1 requires that the TSV closure and TCV fast closure RPS
+functions be operable at or above 29.5 percent RTP. In this event, during the period of time while TBVs were open, reactor power was
+maintained above 91 percent and the RPS functions were confirmed to be enabled.
+The actuator malfunction was caused by faulty connectors within the actuator. The faulty connectors were replaced.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/3112018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+htttp_: vW nc gov/ea dina-rm/doc- lcoetns rregs_/_saff/sr1022 .3 1 NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341 21
+2016 - 0 - 01
+NARRATIVE
+Initial Plant Conditions
+Mode 1
+Reactor Power 100 percent
+There were no structures, components, or systems that were inoperable at the start of the event that contributed to the
+event.
+Description of the Event
+At 1514 EST on January 6, 2016, while operating at 100 percent Reactor Thermal Power (RTP) the East and West
+Turbine Bypass Valves (TBV) [[V]] automatically opened as expected for 3 minutes and 32 seconds in response to the
+number one High Pressure Turbine Stop Valve (TSV) drifting from full open to 25 percent open due to an actuator
+malfunction.
+Per Technical Specification (TS) Bases 3.3.1.1, TBVs must remain shut while RTP is at or above 29.5 percent to consider
+all channels of the TSV closure and Turbine Control Valve (TCV) fast closure Reactor Protection System (RPS) [JD]
+functions operable.
+A failure analysis revealed that the valve actuator malfunction and TSV position drift was caused by faulty connectors
+[[CON]] within the actuator. Reactor Operators lowered RTP to 91.0 percent and at 1518 EST, the TBVs automatically
+closed and the TSV closure and TCV fast closure RPS functions were no longer considered inoperable.
+TS 3.3.1.1 requires that the TSV closure and TCV fast closure RPS functions be operable at or above 29.5 percent RTP.
+An event notification and follow up notification (No. 51755) were made to the NRC based on meeting the reporting criteria
+of 10 CFR 50.72(b)(3)(v)(A) and (D).
+This event is reportable under 10 CFR 50.73(a)(2)(v), as an event or condition that could have prevented the fulfillment of
+the safety function of systems that are needed to: (A) shut down the reactor and maintain it in a safe shutdown condition
+and (D) mitigate the consequences of an accident.
+In addition, since this event affected all channels of the TSV closure and TCV fast closure RPS functions, this event is
+reportable under 10 CFR 50.73(a)(2)(vii), as an event where a single cause or condition caused two independent
+channels to become inoperable in a single system designed to: (A) shut down the reactor and maintain it in a safe
+shutdown condition and (D) mitigate the consequences of an accident.
+There were no radiological releases associated with this event.
+Significant Safety Consequences and Implications
+There were no significant safety consequences associated with this event. At no time during this event was there a
+potential for endangering the public health and safety.
+NRC FORM 366A (06-2016) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+"E(lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+** NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose ani nformation collection does not display a currently valid OMB control number, the
+hbttp_;/_/v~v nrcaovradirtgm oc-co at actios/engu r staff/srr1022,rdN RC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Fermi 2 341 2016 - 001 -
+NARRATIVE
+Per Chapter 15 of the Fermi 2 Updated Final Safety Analysis Report (UFSAR), the TCV fast closure function is the
+primary scram signal for the generator load rejection event. For this event, the reactor scram reduces the amount of
+energy required to be absorbed and ensures that the Minimum Critical Power Ratio (MCPR) Safety Limit (SL) is not
+exceeded. TCV fast closure signals are initiated by the de-energization of the solenoid dump valve at each control valve.
+This function must be enabled at RTP greater than or equal to 29.5 percent.
+Per Chapter 15 of the Fermi 2 UFSAR, the TSV closure function is the primary scram signal for the turbine trip event. For
+this event, the reactor scram reduces the amount of energy required to be absorbed and ensures that the MCPR SL is not
+exceeded. TSV closure signals are initiated from position switches located on each of the four TSVs. This function must
+be enabled at RTP greater than or equal to 29.5 percent.
+Four Turbine First Stage Pressure (TFSP) transmitters [[PT]] are provided to initiate the automatic bypass of the TCV fast
+closure and TSV closure scrams, when the first stage pressure is below a preset fraction of rated pressure corresponding
+to approximately 29.5 percent of rated power.
+The TBVs, if open at power levels above 29.5 percent RTP, may cause the TSV closure and TCV fast closure RPS
+functions to be inadvertently bypassed due to the diversion of steam flow away from the TFSP transmitters. In this event,
+during the period of time while TBVs were open, reactor power was maintained above 91 percent and the RPS functions
+were confirmed to be enabled. Therefore, there was no actual impact on safety.
+Cause of the Event
+The valve actuator malfunction and TSV position drift was caused by a failed Valve Control Module (VCM) servo driver to
+Unitized Actuator (UA) servo valve loop initiating a valve close position signal. The apparent cause was faulty connectors
+in the UA due to wear and fatigue. The contributing cause was circuit resistance measurement of the VCM to UA servo
+loop was not being performed.
+Corrective Actions
+The faulty connectors were replaced.
+Additional corrective actions included: testing continuity of the servo valve circuit to identify and repair degraded
+conditions, developing a Preventative Maintenance (PM) task to address Extent of Condition on other modulating valves
+during refueling outages, and adjusting the maintenance frequency on the actuators to limit service time to 6 refueling
+outages.
+This event was documented and evaluated in the Fermi 2 Corrective Action Program. All corrective actions have been
+completed.
+Additional Information
+A. Failed Component: UA connectors/wiring
+Function: Route position demand signal to the servo valve
+Manufacturer: Amphenol
+Model Number: MS3106E14S-6P
+Primary Failure Cause: Wear and fatigue
+NRC FORM 366A (06-2016) Page 3 Of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10131/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+CONTINUATION SHEET F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management andB udget, Washington, DC2 0503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+htp //www nr.go/reading _Ticjctons/nuregs/staffr1022// NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341 20im
+206 - 001 - 01
+NARRATIVE
+B. Previous Licensee Event Reports (LERs) or Similar Events:
+There are no previous similar events for UA connectors or wiring failing due to wear and fatigue.
+NRC FORM 366A (06-2016) Page 4 of 4

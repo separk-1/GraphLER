@@ -1,0 +1,264 @@
+Exelon Generation
+10 CFR 50.73
+LG-18-019
+March 13, 2018
+U.S. Nuclear Regulatory Commission
+A TIN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2017-004-01, Core Spray Pump Failed to Start Resulting in Condition
+Prohibited by TS
+Reference: R. Libra (Exelon), letter to NRC (Document Control Desk), "LER 2017-004-00,
+Core Spray Pump Failed to Start Resulting in Condition Prohibited by TS," dated
+December 4, 2017. (ML 17338A041)
+Enclosed is a supplemental Licensee Event Report (LER), 2017-004-01, for Limerick
+Generating Station, Unit 1, for LER-2017-004-00, as referenced. This report expands on the
+cause based on additional information received, as well as provides an additional corrective
+action, from what was submitted in the original referenced document.
+This LER is being submitted pursuant to the requirements of 1O CFR 50.73(a)(2)(i)(B),
+Operation or Condition Prohibited by Technical Specifications.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert 8. Dickinson at (610) 718-3400.
+Respectfully,
+'I-
+·~ ~
+Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-/201¥7) \
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and led back to industry.
+\ } LICENSEE EVENT REPORT (LEA) N Se u n c d le a c r o m R m eg e u n l t a s t o r r e y g a C rd o i m ng m i b s u s r io d n e , n W es a ti s m h a in t g e t o to n , th D e C l nf 2 o 0 n 5 n 5 a 5 t - i 0 o 0 n 0 1 S , e rv o i r c e b s y B e ra -m nc a h il ( t T o - 2 ln F fo 4 c 3 o ). l le U c . t S s . .
+..' ....
+..". \,., •. J! (See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office ot Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to Impose an infonnation collection does not display a currently valid OMB control number, the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r31) NRC may not conduct or sponsor, and a person is not required to respond to, the infonnation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 1 05000352 1 OF 4
+4. TITLE
+Core Spray Failed to Start Resulting in Condition Prohibited by TS
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH OAY YEAR
+FACILITY NAME DOCKET NUMBER
+-
+10 05 17 2017 - 004 01 03 13 18
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(aH3Hil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 i 20.2203(a)(4l so.13(a)(2)(iiil 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11(aJ(4l
+D D D D
+20.2203(a)(2)(iiil so.36(c)(2J 50.73(a)(2)(v)(B) 13.11 (a)(sJ
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3Hiil 50.73(a)(2)(v)(C) 13.11(a}(1>
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.11(a)(2)(il
+D D D
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.77(a)(2)(iil
+D D
+I 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager - Regulatory Assurance {610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+B BM BKR A576 y N/A N/A N/A N/A N/A
+II
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e .. approximately 15 single-spaced typewritten lines)
+On October 5, 2017, when the 1C Core Spray pump breaker hand switch was placed in start, the breaker
+failed to close. The 1C Core Spray Pump was declared inoperable and Limiting Condition for Operation
+(LCO) Action 3.5.1.a.1 was entered. An initial investigation identified that the breaker limit switch which
+energizes the closing springs charging motor became dislodged inside the control device. With the contact
+unable to complete the circuit, the charging motor could not energize to charge the closing springs. An
+Exelon Power Labs analysis identified the cause of the failure to be associated with welding of the
+limit switch contacts eventually resulting in displacement of the limit switch. This condition existed
+since the last time the 1C Core Spray Pump was in service, July 17, 2017, until the discovery on October 5,
+2017. Although this event was not considered to be within the Station's ability to foresee and correct, the
+LCO Actions were not completed in the required time frames provided in Technical Specification (TS).
+Therefore, an Operation or Condition Prohibited by TS existed and is reportable under 1O CFR
+50. 73(a)(2)(i)(B).
+NRG FORM 366 (04·2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Seivices Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required lo respond to, the information
+http:/lwww.nrc.gov/readinq-rm/doc-collectionslnuregslstafflsr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2017 - 004 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 1 was operating in Operational Condition (OPCON) 1 at 100
+percent power at the time of the event. There were no other structures, systems, or components
+inoperable that contributed to the event.
+II. Description of the Event
+On October 5, 2017 at 03:45, LGS, Unit 1 commenced a Pump Valve and Flow (PV&F) test for 1A
+Core Spray [BM] in accordance with Technical Specifications (TS) Surveillance Requirement
+4.5.1.b.1.
+On October 5, 2017 at 04:00, when the 1C Core Spray pump breaker hand switch was placed in
+start, the breaker failed to close. Investigation at the breaker [BKR] showed that the closing springs
+on 1C Core Spray Pump did not indicate as charged. Therefore, the 1C Core Spray Pump was
+declared inoperable due to failure to start when demanded from the Main Control Room (MCA) hand
+switch and Limiting Condition for Operation (LCO) Action 3.5.1.a.1 was entered due to one Core
+Spray Subsystem (CSS) being inoperable.
+On October 5, 2017 at 23:00 the LCO was exited when 1C Core Spray breaker was repaired and the
+PV&F test was completed.
+Investigation of the 4KV breaker identified that the breaker closing springs were not fully charged
+which prevented the breaker from closing. A faulty control device was determined to be the cause
+and the device was replaced.
+The 1C Core Spray pump was last in service on July 17, 2017 to support motor testing. It was
+determined that the 1C Core Spray pump had been inoperable from July 17, 2017 to the time of
+discovery of this condition on October 5, 2017. Exelon Power Labs analysis revealed that during
+the previous operation of the breaker, on July 17, 2017, the breaker retaining spring became
+dislodged as a result of multiple breaker operations and welding action that was occurring
+with the limit switch contact closed.
+Although this event was not considered to be within the Station's ability to foresee and correct, the
+LCO Actions were not completed in the required time frames provided in TS. Therefore, an
+Operation or Condition Prohibited by TS existed and is reportable under 1O CFR 50.73(a)(2)(i)(B).
+Ill. Analysis of the Event
+When the breaker is initially racked into the switchgear, the closing springs will be discharged. As the
+breaker reaches the test position, 125 VDC is applied to the breaker control device and the closing
+springs charging motor will energize due to the closing springs limit switch being closed. After the
+closing springs are charged, the limit switch will open to de-energize the charging motor. The closing
+springs remain charged as the breaker is racked into the connected position. With the closing springs
+NAC FORM 366A (04-2017) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Eshmated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+c:."""" l'lou~.,. comments regarding burden estimate to the Information Services Branch (T-2 F43). U.S. Nuclear
+('~~.:·.;}/·~ LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+..... lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatoiy Affairs,
+·.,;,~A~~; CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http:l/www.nrc.gov/read1ng-rmldoc-collections/nuregslstafflsr1022/r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2017 - 004 - 00
+NARRATIVE
+charged, the breaker is capable of closing on demand.
+Any time the breaker is closed, the closing springs will discharge and as a result, the closing springs
+limit switch will re-close to energize the charging motor. This ensures the breaker is ready for a
+subsequent close signal after each breaker closing operation. In this event, the closing springs limit
+switch was not able to be made up and the charging motor was de-energized with the closing springs
+not fully charged thereby rendering the breaker unable to close.
+The same control device on the failed 4KV breaker is used on all 2.3 KV, 4 KV and 13.2 KV breakers
+on site. These breakers are susceptible to the same failure as the 1C Core Spray breaker, which
+could result in the unavailability of any load powered from one of these sources. The available
+method to determine if the closing springs are charged on any of these breakers is to inspect the
+closing spring tabs on the front of the breaker. The tabs will extend from the front of the breaker as
+the closing springs are charged. For the 1C Core Spray Pump breaker, the closing springs tabs were
+not fully extended when observed in comparison to other breakers. The closing spring tabs for the
+2.3 KV, 4 KV and 13.2 KV switchgear have been inspected and are all in the proper condition;
+therefore, there is not an immediate concern that other breakers have encountered the same failure.
+4 KV Breaker Preventative Maintenance (PMs) include a 6-year clean and examine and a 12-
+year breaker overhaul. During the overhaul PM, the control device is disassembled and the
+contacts are removed to be cleaned and inspected. Following reassembly of the control
+device, undervoltage testing is conducted on the breaker charging motor circuit. This subjects
+the charging motor circuit to higher current which can adversely affect the limit switch
+contacts. This same undervoltage testing is not performed on the 2.3 KV breakers nor the
+13.2 KV breakers.
+IV. Safety Significance
+The CSS is a primary source of emergency core cooling after the reactor vessel is depressurized and
+a source for flooding of the core in case of accidental draining. The CSS, together with Low Pressure
+Coolant Injection (LPCI) mode of Residual Heat Removal (RHR) System, is provided to assure that
+the core is adequately cooled following a loss of coolant accident and provides adequate core cooling
+capacity for all break sizes up to and including the double ended reactor recirculation line break, and
+for smaller breaks following depressurization by the Automatic Depressurization (ADS) System.
+TS Action 3.5.1.a.1 states, 'With one CSS subsystem inoperable, provided that at least two LPCI
+subsystems are OPERABLE, restore the inoperable CSS subsystem to OPERABLE status within 7
+days or be in at least HOT SHUTDOWN within the next 12 hours and in COLD SHUTDOWN within
+the following 24 hours."
+Since 1C Core Spray was inoperable from July 17, 2017-0ctober 5, 2017, the above TS action to
+restore within 7 days was not met. There were minimal safety consequences associated with the
+condition since there were no events during this time period which required CSS. Additionally, at
+least two LPCI subsystems were operable at all times during this time period.
+NRC FORM 366A (04-2017) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+r:..""'""'a11, .. ,
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+~ . i~ ·l . ·v· 011 ~ LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~~S. .. •~J CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk OHicer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+.... .., ••••• .,.l!l
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readmg-rm/doc-collections/nuregs/stafllsr10221r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+VEAR
+Limerick Generating Station, Unit 1 05000352 NUMBER NO.
+2017 - 004 - 00
+NARRATIVE
+During this period of time the other CSS subsystem was operable for a majority of the time period.
+The only time that the other CSS subsystem was inoperable was when 1B and 1D Core Spray were
+each separately inoperable for approximately 2 hours each to conduct PV&F tests. This is within the
+Action times for TS Action 3.5.1.a.2. which specifies that, with both CSS subsystems inoperable, be
+in at least HOT SHUTDOWN within 12 hours and in COLD SHUTDOWN within the next 24 hours.
+V. Cause of the Event
+The cause of the breaker failure to close was due to the breaker closing springs being less
+than fully charged. The breaker was removed, the control device was disassembled for
+inspection, and it was determined that the charging motor limit switch was misoriented which
+prevented the switch from closing to energize the charging motor. The limit switch had
+contact damage associated with arcing. An Exelon Power Labs analysis identified the cause
+of the failure to be associated with welding of the limit switch contacts eventually resulting in
+the limit switch displacement. The cause of the welding is believed to be the result of
+undervoltage testing of the breaker charging motor circuit during preventive maintenance
+which subjects the limit switch contacts to higher than normal current.
+VI. Corrective Actions Completed/Planned
+The immediate action taken was to replace the 4KV Breaker control device and return the breaker to
+service. Additionally, the 2.3 KV, 4 KV and 13.2 KV switchgear breaker spring tabs have been
+inspected to verify tabs are fully extended as expected and have been verified to be in the proper
+condition.
+Based on the damage to the contacts from arcing, the requirements for 4 KV Breaker Charging
+Motor Undervoltage Tests are being evaluated in order to revise the testing requirement to
+minimize impact of testing on the charging motor limit switch or eliminate the testing if
+determined to be not required.
+VII. Previous Similar Occurrences
+There have been no previous similar occurrences in the last 5 years of ECCS systems being
+inoperable for longer than the TS allowable times without following TS required actions. Additionally,
+there have not been any control device failures due to a misoriented limit switch in the last 5 years.
+VIII. Component data
+System: BM Low Pressure Core Spray System
+Component: BKR Breaker
+Component number: D13-BUS-06
+Manufacturer: A576 ABB ATOM AB/A BB SWEDEN
+Model number: 5HK250
+NRC FORM 366A (04-2017) Page _4_ of _4_

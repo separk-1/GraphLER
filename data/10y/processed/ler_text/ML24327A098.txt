@@ -1,0 +1,390 @@
+Constellation. James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Alexander Sterlo
+Site Vice President- JAF
+JAFP-24-0061
+November 22, 2024
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LEA: 2024-003, Turbine Trip and Scram due to Automatic Voltage
+Regulator Protective Device during a Grid Transient
+Dear Sir or Madam:
+This report is being submitted pursuant to 1O CFR 50. 73(a)(2)(iv)(A).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Mark Hawes, Regulatory Assurance,
+at (315) 349-6659.
+Sincerely,
+:~t~~.L );t__
+!).
+Alexander Sterio
+Site Vice President
+ADS/MH
+Enclosure: LEA: 2024-003, Turbine Trip and Scram due to Automatic Voltage
+Regulator Protective Device during a Grid Transient
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER)
+b
+le
+u
+a
+r
+r
+d
+n
+e
+e
+n
+d
+e
+a
+s
+r
+t
+e
+im a
+in
+t
+c
+e
+o
+t
+r
+o
+p o
+t
+r
+h
+a
+e
+t ed
+F O
+in
+I
+t
+A
+o
+,
+th
+L
+e
+ib r
+l
+a
+ic
+r
+e
+y
+n
+,
+s
+a
+i
+n
+n
+d
+g p
+In
+ro
+fo
+c
+r
+e
+m
+ss
+a ti
+a
+o
+n
+n
+d
+C
+fe
+o
+d
+ll e
+b
+c
+a
+ti
+c
+o
+k
+n s
+t o
+B
+in
+r
+d
+a
+u
+n
+s
+c
+t
+h
+ry .
+(T
+S
+-6
+e n
+A
+d
+1
+c
+0
+o
+M
+m
+)
+m
+, U
+e
+.
+n t
+S
+s
+.
+re
+N
+ga
+u
+r
+c
+d
+le
+in
+a
+g
+r
+Regulatory Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and
+(See Page 2 for required number of digits/characters for each block) the OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) t
+c
+o
+u r
+r
+r
+e
+e
+s
+n
+p
+tl
+o
+y
+n
+v
+d
+a l
+t
+i
+o
+d
+,
+O
+a
+M
+c
+B
+o ll
+c
+e
+o
+c
+n
+ti
+t
+o
+ro
+n
+l
+o
+n
+f
+u m
+inf
+b
+o
+e
+rm
+r.
+ation unless the document requesting or requiring the collection displays a
+1. Facility Name  050 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+ 052 05000333
+1 OF 3
+4. Title
+Turbine Trip and Scram due to Automatic Voltage Regulator Protective Device during a Grid Transient
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Ye ar S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year F N ac / il A ity N ame  050 Do N ck / et A Nu mber
+Facility Name Docket Number
+09 23 2024 2024 - 003 - 00 11 22 2024 N/A  052 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.1200(a)
+ 20.2201(b)  20.2203(a)(3)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)  73.1200(b)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)  73.1200(c)
+ 20.2203(a)(1)  20.2203(a)(4)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)  73.1200(d)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73  73.1200(e)
+ 20.2203(a)(2)(ii)  21.2(c)  50.69(g)  50.73(a)(2)(v)(B)  73.77(a)(1)  73.1200(f)
+ 20.2203(a)(2)(iii)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.77(a)(2)(i)  73.1200(g)
+ 20.2203(a)(2)(iv)  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(2)(ii)  73.1200(h)
+ 20.2203(a)(2)(v)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)
+OTHER (Specify in Abstract below or in NRC Form 366A).
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Mark Hawes, Regulatory Assurance 315-349-6659
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 0720 on September 23, 2024, James A. FitzPatrick Nuclear Power Plant (JAF) was at 100% power when an
+automatic scram occurred as a result of a main turbine trip due to an automatic trip of the generator output
+breakers. All control rods inserted and a subsequent Reactor Pressure Vessel (RPV) low water level resulted in
+Group 2 isolation and system initiation of High Pressure Coolant Injection (HPCI) and Reactor Core Isolation
+Cooling (RCIC). RCIC did inject but HPCI did not inject as expected based on RPV water level recovery with the
+Feedwater System.
+The generator output breakers were tripped because of the energization of the digital Automatic Voltage Regulator
+(AVR) protective device crowbar circuit due to an overvoltage condition during a grid transient. A corrective action
+is planned to evaluate and model the event to determine if the min limiter function or software changes to the AVR
+should be implemented.
+This event is reportable in accordance with CFR 50.73(a)(2)(iv)(A) as a Reactor Protection System (RPS)
+actuation, including a general containment Group 2 isolation and HPCI and RCIC system actuation.
+NRC FORM 366 (04-02-2024)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library,
+and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2024 – 003 – 00
+NARRATIVE
+Background
+The main generator [EIIS identifier:TB] has an Exciter System [TL] to stabilize voltages from the electrical
+transmission grid. The excitation is controlled by a Digital Automatic Voltage Regulator (AVR). The AVR has
+two redundant channels.
+Reactive Power is measured in units of "mega volt-amperes reactive", or MVAR, and is taken into account
+when designing and operating power systems. The power associated with reactive power does no net work
+but current must still be supplied by the conductors, transformers and generators. They must be sized to carry
+the total current, not just the current that does useful work (active power). Insufficient reactive power can
+depress voltage levels on an electrical grid and, under certain operating conditions, collapse the network (a
+blackout).
+Therefore, the purpose of the AVR is to control
+the exciter based on changes on the grid,
+including reactive power. AVR may enable
+control parameters such as over excitation Protective Device Threshold – Trip / Disconnect
+limiter (OEL) to prevent overheating from
+excessive current; and an under excitation
+Limiter Threshold – Controls Parameter
+limiter (UEL) to prevent de-synchronization from
+the grid.
+Besides control parameters, the AVR is
+designed with protection devices to trip the
+system to protect components from being
+damaged. The protective device associated with
+this event is the crowbar circuit which is
+Time
+designed to respond to an overvoltage or surge
+condition.
+Event Description
+On September 23, 2024, at 0720 with James A. FitzPatrick Nuclear Power Plant (JAF) reactor operating at
+100 percent power, an automatic reactor shutdown (scram) occurred because of a main turbine trip due to an
+automatic trip of the generator output breakers. All control rods inserted and a subsequent Reactor Pressure
+Vessel (RPV) low water level resulted in Group 2 isolation and system initiation of High Pressure Coolant
+Injection (HPCI) and Reactor Core Isolation Cooling (RCIC). RCIC did inject but HPCI did not inject as
+expected based on RPV water level recovery with the Feedwater System.
+This event was reported at the time of the event by ENS 573331 and is reportable in accordance with CFR
+50.73(a)(2)(iv)(A) as a Reactor Protection System (RPS) actuation, including a general containment Group 2
+isolation and HPCI and RCIC system actuation.
+Page 2 of 3
+NRC FORM 366A (04-02-2024)
+retemaraP
+Trip /
+Protective Device Operation Disconnect
+Limiter Operation
+Control
+Normal Operation
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library,
+and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2024 – 003 – 00
+Event Analysis
+The scram event was analyzed based on a transient event originating from the electrical transmission grid.
+The following describes how electrical systems responded over the course of seconds.
+The grid transient started as a large demand for reactive power (MVAR). This caused the AVR to automatically
+increase reactive power output by increasing exciter field current. When the grid transient ceased, reactive
+power fell and the AVR automatically decreased exciter field current to limit the reactive power output. A back
+electromagnetic field (EMF) was produced when field current reached zero amps, and this caused exciter field
+voltage to spike such that the break over diode (BOD) responded and triggered the protective device crowbar
+circuit to close on overvoltage. The crowbar circuit overvoltage signal sent a signal to the main generator
+lockout relays to trip the generator.
+The AVR current min limiter used for under excitation (UEL) is not enabled. The limiter would theoretically
+prevent the AVR protective devices from engaging by not allowing operating parameters to reach protective
+device limits. It is postulated that this limiter could have aided in preventing this event from occurring (see
+planned action section).
+Cause
+The cause of the Main Turbine trip, including RPS scram and system actuations, was the energization of the
+AVR protective device crowbar circuit due to an overvoltage condition during a grid transient.
+Similar Events
+None
+Corrective Actions
+Completed Actions
+No equipment deficiencies identified at FitzPatrick, allowing the station to return to full power on 9/25/24.
+Planned Actions
+To prevent a similar grid transient from causing a protective device from actuating, an evaluation will be
+conducted to model the event and conclude if the AVR min limiter for under excitation (UEL) or other software
+enhancements should be implemented.
+Safety Significance
+There were no actual nuclear consequences. The turbine protection system actuated in response to a grid
+transient without issue. The RPS responded to the main turbine trip to shutdown the reactor and systems
+actuated as expected.
+References
+Issue Report - IR 04803804, AOP-1 Reactor Scram, dated September 23, 2024
+Page 3 of 3
+NRC FORM 366A (04-02-2024)

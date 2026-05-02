@@ -1,0 +1,169 @@
+~
+Southern Nuclear David R. Vineyard Hatx:h Nuclear Plant
+Vlca President-Plant Hall:h 11028 Halctl Patkv.'Cly North
+~Y-~ 31513
+912 537 5859 tel
+912 366 2077 fax
+June 16, 2017
+Docket Nos.: 50-321 NL-17-1110
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D. C. 20555-0001
+Edwin I. Hatch Nuclear Plant Unit 1
+LEA 2017-005-00
+Automatic Scram Due to Intermediate Range Monitors Spiking Upscale
+Ladies and Gentlemen:
+In accordance with the requirements of 10 CFR 50.73(a)(2)(iv)(A), Southern Nuclear Operating
+Company (SNC) hereby submits the enclosed Licensee Event Report.
+This letter contains no NRC commitments. If you have any questions, please contact Greg
+Johnson at (912) 537-5874.
+Respectfully submitted,
+David A. Vineyard
+Vice President - Hatch
+DAV(jcb
+Enclosure: LEA 2017-005-00
+U. S. Nuclear Regulatory Commission
+NL-17-1110
+Page2
+Cc: Regional Administrator, Region II
+NRR Project Manager- Hatch
+Senior Resident Inspector- Hatch
+RTYPE: CHA02.004
+Edwin I. Hatch Nuclear Plant Unit 1
+LER 2017-005-00
+Automatic Scram Due to Intermediate Range Monitors Spiking Upscale
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours
+, ......i \. Reported lessons learned are incorporated into the licensing process and fed back to industry
+LICENSEE EVENT REPORT (LER)
+\~) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+..... (See Page 2 for required number of digits/characters for each block) Branch (T-5 F53). U.S Nuclear Regulatory Commission. Washington, DC 20555-0001, or by e-mail
+to lnfocollects Resource@nrc.gov, and to the Desk OffiCer, Office of Information and Regulatory
+Affairs, NEOB-1 0202, (3150-01 04), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currenUy valid OMB control
+h!m:Jiwww .nrc.aov/reaging-rrn/doc:!<QIIectionslnur~~taff/sr1 022fr31) number, the NRC may not conduct or sponsor. and a person is not required to respond to, the
+information collection
+1. FACILITY NAME 2. DOCKET NUMBER .PAGE
+Edwin I. Hatch Nuclear Plant Unit 1 05000321 1 OF3
+4. TITLE
+Automatic Scram Due to Intermediate Range Monitors Spiking Upscale
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+4 20 2017 2017 -005 -000 06 16 2017
+9. OPERATING MODE 11. THIS REPORT IS SUBMrrTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+2 D 20.2201(d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+0 20.2203(a)(1) 0 20.2203(a)(4) 0 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+0 20.2203(a)(2){i) 0 50.36{c)(1)(i)(A) ~ 50.73{a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203{a){2){ii) 0 50.36{c)(1)(ii)(A) D 50.73{a)(2)(v)(A) D 73.71{a){4)
+D 20.2203(a){2)(iii) D 50.36(c)(2) D 50.73{a)(2)(v)(B) 0 73.71{a){5)
+0 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) 0 50.73{a)(2)(v)(C) 0 73.77(a)(1)
+001
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) 0 50.73(a)(2)(v)(D) 0 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) 0 50.73{a)(2)(i)(B) D 50.73{a)(2)(vii) 0 73.77{a)(2)(ii)
+0 50.73{a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+ICENSEE CONTACT ~~LEPHONE NUMBER (Include Area Code)
+Edwin I. Hatch/Jimmy Collins-Licensing Supervisor 912-537-2341
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+X IG Jl GOBO y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT (Umit to 1400 spaces. i.e., approximately 15 single-spaced typewritten lines)
+On April 20, 2017 at 0302 EDT with Unit 1 at approximately 1 percent rated thermal power due to a reactor startup
+from a planned maintenance outage, an automatic reactor scram was received due to the "A" and "8" Intermediate
+Range Monitors (IRMs) spiking upscale simultaneously. The instrument's set points for high-high neutron flux were
+reached, giving false trip signals to both channels of the reactor protection system (RPS) trip logic. Upon the
+automatic reactor scram signal, all control rods fully inserted appropriately. No primary containment isolation system
+(PCIS) actuations occurred and none were expected to occur based upon plant conditions following the reactor
+scram.
+The cause of the event is due to the integrity of the IRMs signal cable connectors being in a degraded condition.
+Degradation was found on "A" IRM at the detector connector, while the "8" IRM had connection issues between the
+penetration and the jumper connector. These IRM cable integrity issues allowed a signal path to exist between the
+cables' shielding and center conductors, causing the IRMs to spike upscale. The "A" and "8" IRM jumper cables and
+the associated connections were replaced and all Unit 1 IRM cables and associated trip logics were tested
+satisfactorily.
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMS: NO. 3150-0104 EXPIRES: 10/31/2018
+(06·2016)
+,..... ..... Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+~~~ Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+\~/ CONTINUATION SHEET Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to lnfocollects.Resource@nrc gov, and to the Desk Offtcer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control
+htto:ltwww.nrc.gov/readinq-rm/doc-col!ectionstnuregslstaff/sr1022/f3(} number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Edwin I. Hatch Nuclear Plant Unit 1 05000-321 NUMBER NO
+2017 -005 -00
+NARRATIVE
+Event Description
+On April 20, 2017 at 0302 EDT with Unit 1 at approximately 1 percent rated thermal power due to a reactor
+startup from a planned maintenance outage, an automatic reactor scram was received due to the "A" and
+"B" Intermediate Range Monitors (IRMs) spiking upscale simultaneously. The instrument's set points for
+high-high neutron flux were reached, giving false trip signals to both channels of the reactor protection
+system (RPS) trip logic. Upon the automatic reactor scram signal, all control rods fully inserted
+appropriately. No primary containment isolation system (PCIS) actuations occurred and none were expected
+to occur based upon plant conditions following the reactor scram.
+Event Cause Analysis
+The cause of the event is due to the integrity of the IRMs signal cable connectors being in a degraded
+condition. Degradation was found on "A" IRM at the detector connector, while the "B" IRM had connection
+issues between the penetration and the jumper connector. These IRM cable integrity issues allowed a signal
+path to exist between the cables' shielding and center conductors. The noise signal was magnified when the
+signal was transmitted to the instrumentation's amplifier, causing both the "A" and "B" IRMs to spike upscale
+and trip.
+Safety Assessment
+This event is reportable per 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in the automatic actuation of
+the reactor protection system (RPS).
+The IRMs monitor neutron flux from the upper portion of the source range monitor (SRM) range to the lower
+portion of the power range neutron monitoring (PRNM) range. The IRM system has eight IRM channels,
+each of which includes one detector that can be physically positioned in the core by remote control. The
+detectors are inserted into the core for a reactor startup and are withdrawn after the reactor mode selector
+switch is turned to RUN. The IRM system is capable of generating a trip signal that can be used to prevent
+fuel damage resulting from anticipated operational occurrences (AOOs) that occur while operating in the
+intermediate power range. The independence and redundancy incorporated in the design of the IRMS are
+consistent with the safety design basis of the RPS.
+The IRM system is divided into two groups of IRM channels arranged in the core. IRM channels "A", "C",
+"E", and "G" are associated with trip system A of the RPS and IRM channels "8", "D", "F", and "H" are
+associated with trip system B. While the reactor mode switch is in REFUEL or STARTUP, an IRM upscale
+or inoperative trip signal actuates a neutron monitoring system trip of the RPS.
+All control rods fully inserted and the plant responded as expected. Therefore, this event is considered to
+have very low safety significance.
+Corrective Actions
+As part of corrective actions, the "A" and "B" IRM jumper cables were replaced and all Unit 1 IRM cables
+NRC FORM 366A (06-2016) Page 2 of3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+,.....-...)>, Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons teamed are incorporated into the licensing process and fed back to industry.
+•~ ~!- LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+\: ..... '/ CONTINUATION SHEET Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to lnfocollecls.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503 If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this fonn used to impose an information collection does not display a currently valid OMB control
+httoJ/www.nrc.gov/readinq-nn/doc-collectionslnureaslstaff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Edwin I. Hatch Nuclear Plant Unit 1 05000-321 NUMBER NO
+2017 -005 -00
+and associated trip logics were tested satisfactorily.
+Previous Similar Events
+None.
+Page 3 of 3
+NRC FORM 366A (06-2016)

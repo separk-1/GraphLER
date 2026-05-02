@@ -1,0 +1,264 @@
+·- ------ ------------ ------------- - --,
+,
+Constellation»
+10 CFR 50.73
+NMP2L2812
+June 03, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-41 O
+Subject: NMP2 Licensee Event Report 2022-001, Revision 0, Automatic Reactor
+Scram due to Low Reactor Water Level During Maintenance
+In accordance with the reporting requirements contained in 10 CFR 50.73(a)(2)(v)(B), please
+find enclosed NMP2 Licensee Event Report (LER) 2022-001, Revision 0, Automatic Reactor
+Scram due to Low Reactor Water Level During Maintenance
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+~J-,k__
+Alexander Sterio
+Plant Manager, Nine Mile Point Nuclear Station
+AS/JA
+Enclosure: NMP2 Licensee Event Report 2022-001, Revision 0, Automatic Reactor
+Scram due to Low Reactor Water Level During Maintenance
+cc: NRC Regional Administrator, Region I
+NRC Resident Inspector
+NRC Project Manager
+Enclosure
+NMP2 Licensee Event 2022-001, Revision 0
+Automatic Reactor Scram due to Low Reactor Water Level During Maintenance
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are inc()(porated into the licensing process and fed back to industry Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+httn://www. n rc.nov/read ina-rm/doc-collections/n ureas/staff/sr1 022/r3/l Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000 410 1 OF 5
+Nine Mile Point Unit 2
+4. Title
+Automatic Reactor Scram due to Low Reactor Water Level During Maintenance
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+t------+- - -+----+---+---- --+---+------,f----+-----iNIA NIA
+05000
+04 05 2022 2022 - 001 00 06 03 2022 Facility Name Docket Number
+NIA 05000 NIA
+9. Operating Mode 110. Power Level
+100
+11. This Report is Submitted Pursuant to the Requirements of 1 0 CFR §: (Check all that apply)
+D
+10 CFR Part 20 20.2203(a)(2)(vi) □ 50.36(c)(2) 50.7 3(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+D
+□ 20.2201(b) 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73
+D
+□ 20.2201(d) 20.2203(a)(3)(ii) □ 50.69(9) □ 50. 73(a)(2)(v)(B) □ 73.71{a)(4)
+D
+□ 20.2203(a)(1) 20.2203(a)(4) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.71(a)(5)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73. 77(a)(1 )(i)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.73(a)(2)(i)(C) □ 50. 73(a)(2)(vii) □ 73. 77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50.7 3(a)(2)(ii)(A) □ 50. 73{a)(2)(viii)(A) □ 73. 77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1 )(i)(A) □ 50.7 3(a)(2)(ii)( B) □ 50.7 3(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50.73(a)(2)(iii) □ 50.7 3(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+licensee Contact Phone Number (Include area code)
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D NIA NIA NIA y NIA NIA NIA NIA NIA
+14. Supplemental Report Expected Month Day Year
+0 No ID Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date NA NA NA
+16. Abstract (limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On Thursday, April 5, 2022, at approximately 0222 hours with power level at approximately 100 percent, Nine Mile Point Unit 2
+(NMP2) experienced a feedwater level control transient during maintenance on the Feedwater Flow Control Valve (LV1 OB),
+which resulted in a low reactor water level scram. This event is reportable per 10 CFR 50.7 3(a)(2)(iv)(A) as any event or condition
+that resulted in a manual or automatic actuation of any of the systems listed in 10 CFR50.7 3(a)(2)(iv)(B). Following the reactor
+scram, all plant systems responded per design.
+The root cause of this event was incorrect procedure guidance for nulling the demand and position signal in N2-SOP-06,
+"Feedwater Failures, Attachment 1, Restoration of 2FWS-LV10 Control". Corrective actions included revising N2-SOP-06,
+Attachment 1 to correctly null the demand signal to the potentiometer intended for control.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555,()001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. n rc.gov/reading-rm/doc-collections/n uregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+I1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I DYEA R SEQUENTIAL REV
+Nine Mile Point Unit 2 05000-1 410 I ~-I NUMBER 1-NO0.
+001
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Prior to the event, NMP2 was in Mode 1, operating at approximately 100 percent rated thermal power. Feedwater level
+control was controlling in automatic with Feedwater Level Control Valve LV1 0A controlling in AUTO on the backup position
+sensor due to the primary position sensor being non-functional. Feedwater Level Control Valve LV1 OB was controlling in
+MANUAL with both primary and backup position sensors non-functional.
+Feedwater flow control is provided by a flow control valve in the discharge line of each reactor feed pump. The feedwater
+flow control valves may be controlled either in automatic or manual. Each feedwater flow control valve is provided with a
+primary and a secondary sensor that provides position feedback to the feedwater level control system.
+B. EVENT:
+On Thursday, April 5, 2022, at appr9ximately 0222 hours, NMP2 experienced a reactor scram due to reactor water low
+level while performing maintenance on Feedwater Level Control Valve LV10B.
+The potentiometer of the primary position sensor was being replaced on Feedwater Level Control Valve LV1 OB.
+Feedwater Level Control Valve LV1 OB was placed in a lock-up condition to support replacement of the potentiometer
+primary position sensor to allow Operations to regain automatic valve functionality. After the potentiometer was insta'lled,
+Operations attempted to restore Feedwater Level Control Valve LV1 OB to the primary position using N2-SOP-06,
+Feedwater Failures, Attachment 1. Upon restoring Feedwater Level Control Valve LV1 OB primary positioner, the position
+feedback signal was mismatched (80% open and demanded position was 43%), causing Feedwater Level Control Valve
+LV10B to rapidly close which subsequently caused reactor water level to lower. Feedwater Level Control Valve LV10A
+attempted to open to maintain reactor water level but was unsuccessful, resulting in a low reactor water level scram. High
+Pressure Core Spray and Reactor Core Isolation Cooling systems actuated as designed to maintain level, and plant
+personnel successfully recovered feedwater level control.
+The condition was reported to the NRC on April 5, 2022 at approximately 0608 hours pursuant to the requirements.of
+10 CFR50. 72(b )(2)(iv)(A), 50. 72(b )(2)(iv)(B), and 50. 72(b)(3)(iv)(A) (Event Notification #55821)
+Nine Mile Point Unit 1 (NMP1) was unaffected.
+The event has been entered into the plant's corrective action program as IR 04490223.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO THE EVENT:
+No other systems, structures, or components contributed to this event.
+NRC FORM 366A (08-2020) Page 2 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with !his mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, library, and lnfonmation Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a coliection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l
+requesting or requiring the collection displays a currently valid 0MB control number.
+I1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+DYEA R SEQUENTIAL REV
+I I
+I NUMBER 1-NO0.
+Nine Mile Point Unit 2 05000- 410
+~-, 001
+NARRATIVE
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERATOR ACTIONS:
+The dates, times, major occurrences, and operator actions for this event are as follows.
+April 2, 2022:
+2249 -The primary position feedback for Feedwater Level Control Valve LV1 OB failed
+April 5, 2022:
+0000 -Shortly after midnight, Instrument Maintenance Department (IMD) began the prejob brief and maintenance
+activity for replacement of the Feedwater Level Control Valve LV1 OB primary potentiometer
+0137 -Operations unlocked Feedwater Level Control Valve LV10B by taking the S10B switch to NORMAL to allow IMO
+technicians to get initial position readings. Once readings were captured and documented, Operations placed
+the valve back into the lock-up condition by moving the S10B switch to reset per N2-SOP-06. IMD then
+matched the replacement potentiometer resistance to the originally installed potentiometer and installed the
+new primary potentiometer.
+0222 -After completion of the primary potentiometer replacement and adjustment, Operations repositioned the control
+switch to NORMAL, resetting the lockup condition of the valve and returning Feedwater Level Control Valve
+LV1 OB to service. Upon returning to service, the feedwater flow control system erroneously read the Feedwater
+Level Control Valve LV1 OB position at approximately 800/o versus the required demand signal of 43% causing it
+to drive the valve closed. Feedwater Level Control Valve LV1 DA responded however, reactor water level
+lowered and scrammed on Low Water Reactor Water Level.
+0224 -Turbine tripped
+E. METHOD OF DISCOVERY:
+This event was discovered by Reactor Operators when feedwater flow control valves began moving and Reactor scram
+annunciation was received.
+F. SAFETY SYSTEM RESPONSES:
+All safety systems responded per design.
+NRC FORM 366A (08-2020) Page 3 of 5
+u_s_
+NRC FORM 366A NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back lo industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden esfimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction arid guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-col1ections/nuregs/staff/sr1022/r3D
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NU.MBER 3. LER NUMBER
+I YEAR SEQUENTIAL REV
+I □ NUMBER 1-NO0.
+'Nine Mile Point Unit 2 05000-1 410
+~-, 001
+NARRATIVE
+11.. CAUSE OF THE EVENT
+The root cause of this event was determined to be incorrect procedure guidance for nulling the demand and position
+signal in procedure N2-SOP-06, Feedwater Failures, Attachment 1, Restoration of 2FWS-LV10 Control. When the
+NORMAL/RESET switch (S10B) is placed to reset, the signal sentto the MIA (manual-automatic) station is from the non
+selected position feedback potentiometer and not the potentiometer selected with the corresponding Feedback
+Potentiometer selector switch (S2B). This procedure error was introduced when the modification was implemented and
+not recognized.
+Ill. ANALYSIS OF THE EVENT
+The automatic reactor scram is reportable per 10CFR 50.72(b)(2)(iv)(B) and 10CFR 50.73(a)(2)(iv)(A). It is defined under
+paragraph 10 CFR 50. 73(a)(2)(iv)(A) as any event or condition that resulted in a manual or automatic actuation of any of
+the systems listed in 10 CFR50:73(a)(2)(iv)(B).
+Loss of feedwater transient events are considered in the design basis of the plant with multiple automatic and manual
+recovery paths. The High Pressure Core Spray and Reactor Core Isolation Cooling systems actuated as designed to
+maintain level, and plant personnel successfully recovered feedwater control shortly after the trip. It is judged that the
+safety significance of this event is low, and the event did not pose a threat to the health and safety of the public or plant
+personnel. All other plant systems performed per design without complications.
+IV. CORRECTIVE ACTIONS
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL STATUS:
+A riew model of potentiometers were installed on Feedwater Level Control Valve LV1 0A and LV1 OB.
+B. ACTION TAKEN OR PLANNED TO PREVENT OCCURRENCE:
+Revised N2-SOP.:Q6, Attachment 1 to correctly null the demand signal to the potentiometer intended for control.
+NRC FORM 366A (08-2020) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: ·oa/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80-hours. Reported
+~~~-.,JJ•fl R£O(r~>o lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+?. LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information _Collections Branch (T-6 A1 O M), U. S.
+.
+◄ i .. +f ~ CONTINUATION SHEET N ln u fo c c le o a lle r cts. R R e e g s u o la u t r o c r e y @ nr C c. o g m ov m , is a s n i d o n t , h e 0 W M a B s h r i e n v g i t e o w n e , r at D : C 0 MB 2 0 O 5 f 5 fi 5 c - e 0 0 o 0 f 1 In , form o a r tion b y a nd e R -m eg a u il l ato t r o y
+4 ""** .... Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond' to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3D
+requesting or req~iring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I
+I I YEAR SEQUENTIAL REV
+I □ NUMBER NO .
+Nine Mile Point. Unit 2 05000- 410 1-0
+• ~--' 001
+NARRATIVE
+V. ADDITIONAL INFORMATION
+A. FAILED COMPONENTS:
+No component failures were associated with this event. An IRIS entry was completed for the event. (#525435)
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+None.
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEMS (EIIS) COMPONENT FUNCTION IDENTIFIER AND
+SYSTEM NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER:
+IEEE 803 IEEE 805
+FUNCTION SYSTEM
+COMPONENT IDENTIFIER IDENTIFICATION
+Feedwater Level Control System NIA JB
+Feedwater System NIA SJ
+Reactor Protection System NIA JC
+High Pressure Coolant Injection System NIA BJ
+Reactor Core Isolation Cooling NIA BN
+/
+D. SPECIAL COMMENTS:
+None
+NRC FORM 366A (08-2020) Page 5 of 5

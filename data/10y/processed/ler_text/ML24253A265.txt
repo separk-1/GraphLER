@@ -1,0 +1,347 @@
+Robert D. McLaughlin 
+Plant Manager, Hope Creek Generating Station, PSEG Nuclear LLC 
+PO Box 236 
+Hancocks Bridge, New Jersey 08038-0221 
+10 CFR 50.73 
+LR-N24-0054 
+September 5, 2024 
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, DC 20555-0001 
+Hope Creek Generating Station 
+Renewed Facility Operating License No. NPF-57 
+Docket No. 50-354 
+Subject: Licensee Event Report 2024-001-01, Invalid Primary Containment 
+Integrated Leak Rate As-Found Test (ILRT) Supplement 
+PSEG Nuclear LLC submits licensee event report (LER) 2024-001-01 per 
+10 CFR 50.73(a)(2)(ii)(A) and 10 CFR 50.73(a)(2)(v)(C). 
+There are no regulatory commitments contained in this letter. 
+Please contact Ms. Tammy Morin at (856) 339 -2286 if you have questions. 
+Sincerely, 
+Robert D. McLaughlin 
+Plant Manager, Hope Creek Generating Station 
+Attachment: Licensee Event Report 
+cc:      USNRC Regional Administrator − Region 1 
+USNRC NRR Project Manager – Hope Creek 
+USNRC Senior Resident Inspector – Hope Creek 
+NJ Department of Environmental Protection, Bureau of Nuclear Engineering 
+o PSEG I NUCLEAR 
+
+NRC FORM 366
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block)
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported lessons 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer 
+at:  OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory 
+Commission, 725 17th Street NW, Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is 
+not required to respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+1. Facility Name
+052 
+050
+2. Docket Number
+3. Page
+1 OF
+4. Title
+5. Event Date
+Month
+Day
+Year
+6. LER Number
+Year
+-
+Sequential 
+Number
+-
+Revision 
+No.
+7. Report Date
+Month
+Day
+Year
+8. Other Facilities Involved
+Facility Name
+Facility Name
+Docket Number
+Docket Number
+9. Operating Mode
+10. Power Level
+050
+052
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply)
+10 CFR Part 20
+20.2201(b)
+20.2201(d)
+20.2203(a)(1)
+20.2203(a)(2)(i)
+20.2203(a)(2)(ii)
+20.2203(a)(2)(iii)
+20.2203(a)(2)(iv)
+20.2203(a)(2)(v)
+20.2203(a)(2)(vi)
+20.2203(a)(3)(i)
+20.2203(a)(3)(ii)
+20.2203(a)(4)
+10 CFR Part 21
+21.2(c)
+10 CFR Part 50
+50.36(c)(1)(i)(A)
+50.36(c)(1)(ii)(A)
+50.36(c)(2)
+50.46(a)(3)(ii)
+50.69(g)
+50.73(a)(2)(i)(A)
+50.73(a)(2)(i)(B)
+50.73(a)(2)(i)(C)
+50.73(a)(2)(ii)(A)
+50.73(a)(2)(ii)(B)
+50.73(a)(2)(iii)
+50.73(a)(2)(iv)(A)
+50.73(a)(2)(v)(A)
+50.73(a)(2)(v)(B)
+50.73(a)(2)(v)(C)
+50.73(a)(2)(v)(D)
+50.73(a)(2)(vii)
+50.73(a)(2)(viii)(A)
+50.73(a)(2)(viii)(B)
+50.73(a)(2)(ix)(A)
+50.73(a)(2)(x)
+10 CFR Part 73
+73.77(a)(1)
+73.77(a)(2)(i)
+73.77(a)(2)(ii)
+73.1200(a)
+73.1200(b)
+73.1200(c)
+73.1200(d)
+73.1200(e)
+73.1200(f)
+73.1200(g)
+73.1200(h)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact
+Phone Number (Include area code)
+13. Complete One Line for each Component Failure Described in this Report
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+14. Supplemental Report Expected
+Yes (If yes, complete 15.  Expected Submission Date) 
+No 
+15. Expected Submission Date
+Month
+Day
+Year
+Hope Creek Generating Station
+00354
+2
+Invalid Primary Containment Integrated Leak Rate As-Found Test (ILRT)
+05
+03
+2024
+2024
+001
+01
+09
+05
+2024
+4
+000
+D
+NH
+SEAL
+GE
+N
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 3, 2024, during a refueling outage, Hope Creek Generating Station (HCGS) performed Primary Containment Integrated Leak Rate 
+Testing (ILRT) Type A test as required by Technical Specification 4.6.1.2.  The as-found test was not completed successfully because the 
+stabilization criteria was not met, and the test was invalidated. The as-left test was completed successfully prior to plant start-up. 
+This licensee event report (LER) supplement provides the results of a Root Cause Evaluation (RCE).  The Direct Cause was inadequate 
+bolt seating torque that led to loss of O-ring seal compression.  The Root Cause was identified as inadequate procedural guidance for 
+validating and measuring flange to drywell airlock surface gap.  
+This event was reported to the NRC as an eight-hour, non-emergency per 10 CFR 50.72(b)(3)(ii)(A) in Event Notification number 57103 on 
+May 3, 2024.  Subsequently, LER 2024-001-00 was submitted on July 2, 2024, reporting the event per 10 CFR 50.73(a)(2)(ii)(A).  This LER 
+supplement also identifies additional reporting criterion, 10 CFR 50.73(a)(2)(v)(C).
+Tammy Morin
+(856)-339-2286
+~./;(,-,>" ~£<111,.,,.0._ 
+! 
+~ 
+~ 
+: 
+~ 
+$ 
+~+-? ,..,.11•• ._o' 
+00 
+□ 
+□ 
+□ 
+I 
+□ 
+[{] 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+[{] 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+[{] 
+□ 
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1. FACILITY NAME
+2. DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+PLANT AND SYSTEM IDENTIFICATION 
+General Electric - Boiling Water Reactor (BWR/4) 
+System - Primary Containment  
+IDENTIFICATION OF OCCURRENCE 
+Discovery Date: May 3, 2024 
+CONDITIONS PRIOR TO OCCURRENCE 
+OPCON 4, Cold Shutdown.  No other structures, systems, or components that could have contributed to the event were inoperable. 
+DESCRIPTION OF OCCURRENCE 
+On May 2, 2024, at 10:00 am, the Primary Containment Integrated Leak Test (ILRT) commenced.  At 1:08 pm, the stabilization period 
+started. At 6:30 pm there was evidence of leakage and walkdowns were initiated to determine the location of any leaks. At 8:30 pm a 
+leak was found at the drywell airlock hatch to primary containment flange. At 11:00 pm, in accordance with procedures, an attempt to 
+quantify the leak was made.  
+On May 3, 2024, at 3:05 am, a second attempt to quantify the leak was made and at 4:11 am, it was determined that a step change in 
+the leakage rate had invalidated the as-found test.  
+On May 4, 2024, at 10:00 am, the Type A as-left ILRT was completed with satisfactory results. 
+CAUSE OF EVENT 
+The Direct Cause of the event was identified as inadequate bolt seating torque. This led to loss of O-ring seal compression, which 
+created a leakage path through the air-lock flange.  The RCE identified one Root Cause and one Contributing Cause. 
+The Root Cause was inadequate procedural guidance for validating and measuring flange to drywell airlock surface metal to metal 
+contact. The procedure also did not provide steps to validate the torque values after rigging is relaxed or removed. 
+A Contributing Cause was identified which led to the invalid test.  Individuals involved in the test did not fully assess the risk, 
+consequences, or potential leakage adjustment, of installing a procedurally allowed pressure block on a Type B penetration without 
+knowing the condition of the component. 
+SAFETY CONSEQUENCES AND IMPLICATIONS 
+The event occurred when HCGS was in OPCON 4, Cold Shutdown.  The test was performed in an operating mode where the safety 
+function of the primary containment was not required, and the as-left test was performed successfully prior to entering a mode when 
+the primary containment is required.  This is reportable as a degraded condition of a principal safety barrier because the stabilization 
+criteria were not met.  
+An engineering analysis was performed.  The analysis demonstrates the dose for the control room, exclusion area boundary, and low 
+population zone were within regulatory dose limits under all conditions.  Therefore, there were no safety consequences to site 
+personnel or the public. 
+CORRECTIVE ACTIONS 
+A satisfactory Type A as-left ILRT was performed to verify Primary Containment integrity exists. The procedure for re-installation of the 
+drywell has been revised to ensure metal to metal surface contact after installation of the airlock and an as-left LLRT on the joint will 
+be performed.  The Primary Containment ILRT procedure has been revised to require the program owner and test director to approve 
+the installation of pressure blocks to Type B penetrations. 
+COMMITMENTS  
+There are no regulatory commitments in this LER.
+2
+2
+Hope Creek Generating Station
+00354
+2024
+001
+01
+~c,J>P. REGt,(,.>O 
+f~t? 
+~ 
+. 
+~ 
+,i 
+..;.+-, 
++O' 
+••11t•• 
+I□ 
+~ 
+I 
+I D 
+I 
+□ 

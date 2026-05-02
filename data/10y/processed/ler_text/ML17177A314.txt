@@ -1,0 +1,291 @@
+Entergy Operations, Inc.
+® 1448 S.R. 333
+Russellville, AR 72802
+Tel 479-858-3110
+Richard L. Anderson
+Vice President - Operations
+Arkansas Nuclear One
+1CAN061704
+June 26, 2017
+U. S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-313/2017-001-00
+Arkansas Nuclear One, Unit 1
+Docket No. 50-313
+License No. DPR-51
+Dear Sir or Madam:
+Pursuant to the reporting requirements of 10 CFR 50.73, attached is the subject Licensee Event
+Report concerning the manual reactor trip and the automatic start of emergency diesel
+generators and the emergency feedwater system caused by the loss of offsite power due to
+severe weather for Arkansas Nuclear One, Unit 1.
+There are no new commitments contained in this submittal.
+Should you have any questions concerning this issue, please contact Stephenie Pyle, Manager,
+Regulatory Assurance, at 479-858-4704.
+Sincerely,
+ORIGINAL SIGNED BY RICHARD L. ANDERSON
+RLA/rwc
+Attachment: Licensee Event Report 50-313/2017-001-00
+1CAN061704
+Page 2 of 2
+cc: Mr. Kriss Kennedy
+Regional Administrator
+U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+NRC Senior Resident Inspector
+Arkansas Nuclear One
+P.O. Box 310
+London, AR 72847
+Institute of Nuclear Power Operations
+700 Galleria Parkway
+Atlanta, GA 30339-5957
+LEREvents@inpo.org
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+(See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number,
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Arkansas Nuclear One – Unit 1 05000313 1 OF 5
+4. TITLE Automatic Start of an Emergency Diesel Generator Due to the Loss of Offsite Power due to Severe Weather
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Arkansas Nuclear One, Unit 2 05000368
+FACILITY NAME DOCKET NUMBER
+04 26 2017 2017 001 00 06 26 2017
+N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Stephenie L. Pyle, Manager, Regulatory Assurance 479 858-4704
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 26, 2017, Arkansas Nuclear One, Unit 1 (ANO-1), was operating normally at 100% rated thermal power.
+The 500kV transmission line to the substation at Pleasant Hill, Arkansas was out of service for planned maintenance.
+The area around the plant was experiencing severe weather from thunderstorms and tornado warnings had been
+issued from the National Weather Service for the four county area.
+At approximately 1002 CST switchyard breakers for 500kV lines opened on fault current. High winds had damaged
+the transmission towers approximately 16 miles away from ANO and caused phase to ground faults. This resulted in
+a loss of all offsite power lines to the 500kV bus. The autotransformer also locked out as designed when the 500kV
+transmission lines faulted.
+The Reactor Operator initiated a manual reactor trip about 8 seconds after the 500kV lines tripped and prior to the
+reactor protection system initiating an automatic trip. During this time both emergency diesel generators (EDGs) [EK]
+started as expected. EDG #2 re-energized one Engineered Safeguards bus. EDG #1 ran unloaded until shutdown.
+The plant was stabilized in Mode 3 with Emergency Feedwater (EFW) pumps supplying the steam generators,
+maintaining the water level at the natural circulation setpoint.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Arkansas Nuclear One, Unit 1 05000-313 NUMBER NO.
+2017 001 00
+NARRATIVE
+A. PLANT STATUS
+Arkansas Nuclear One, Unit 1 (ANO-1) was operating at 100% rated thermal power. The 500kV transmission line
+to the substation at Pleasant Hill, Arkansas was out of service for planned maintenance. The area around the
+plant was experiencing severe weather from thunderstorms and tornado warnings had been issued from the
+National Weather Service for the four county area. There were no other structures, systems, or components
+(SSCs) that were inoperable at the time that contributed in the event.
+B. BACKGROUND
+Switchyard and High Voltage Electrical System Description
+The switchyard 500kV bus is a ring bus design, which allows transmission of 500kV power through three
+transmission lines to substations in Mabelvale, Ft. Smith, and Pleasant Hill, Arkansas. A fourth line supplies
+power to the bus tie autotransformer. The autotransformer interconnects the 500kV and 161kV busses. It has two
+tertiary windings to provide 22kV power from the 500kV or 161kV buses to offsite power transformer Startup #1
+(SU1), which supplies power to ANO-1, and to offsite power transformer Startup #3 (SU3), which supplies power
+to ANO, Unit 2 (ANO-2). The 161kV bus is also a ring bus design, and includes two transmission lines to
+substations at Russellville East and Pleasant Hill, Arkansas, and a distribution line to the London, Arkansas,
+substation. It also supplies power to the SU2 which can supply power to both ANO-1 and ANO-2.
+During normal operation of ANO-1, station equipment is supplied from the main generator through the Unit
+Auxiliary Transformer (UAT). During startup and shutdown conditions, the switchyard is used as a means of
+supplying station equipment from the utility grid through one of the startup transformers. Following a turbine
+generator trip, station loads are designed to fast transfer to one of the startup transformers without the loss of
+power to plant loads.
+There are four 4160-volt buses. The main buses, A1 and A2 [EA], provide power to non-Engineering Safeguards
+(ES) motors and supply transformers that feed 480-volt non-ES load centers. The 4160-volt ESF buses, A3 and
+A4 [EB], are also powered through A1 and A2, and supply equipment essential for the safe shutdown of the plant.
+Two 6.9kV buses, H1 and H2 [EA], supply the reactor coolant pumps.
+On an ANO-1 trip, power is automatically fast transferred from the UAT to either SU1 or SU2, whichever is
+selected as the preferred power source. If the selected transformer is not available, the buses will transfer to the
+non-preferred startup transformer. If all normal and backup offsite power sources are lost, ES buses A3 and A4
+are energized from their respective emergency diesel generator (EDG) [EK].
+SU1, which only supplies ANO-1, can support buses A1, A2, H1, and H2 simultaneously. Since SU2 is shared by
+both units, it must be protected from overload. Procedures administratively limit automatic transfer of loads to SU2
+only to ANO-1 buses A1 and A3, and ANO-2 buses 2A1 and 2A3. This is assured by normally maintaining the
+supply breakers from SU2 to ANO-1 buses A2, H1, and H2, and ANO-2 buses 2A2, 2H1, and 2H2 in pull-to-lock.
+In this condition, the associated supply breakers from SU2 to these buses will not close automatically after a loss
+of power from another power source.
+Another source of power to ESF bus A3 / A4 cross-tie is the alternate AC diesel generator (AACDG). The AACDG
+is an independent, non-safety related power source intended to be used in the event of a station blackout (SBO).
+The AACDG is started using a touch screen in the ANO-2 Control Room or the AACDG building.
+NRC FORM 366B (04-2017) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Arkansas Nuclear One, Unit 1 05000-313 NUMBER NO.
+2017 001 00
+C. DESCRIPTION OF EVENT
+On April 26, 2017, ANO-2 was in day 28 of a refueling outage with a complete core off load that had moved all fuel
+to the spent fuel pool (SFP). Power to ANO-2 plant equipment was supplied from SU2 while SU3 was out of
+service for planned maintenance. 500kV lines to Fort Smith and Mabelvale, Arkansas, were in service. 161kV
+transmission lines to Russellville and Pleasant Hill, Arkansas, were also in service.
+ANO-1 was operating normally at full power. The area around the plant was experiencing severe weather from
+thunderstorms, and tornado warnings had been issued from the National Weather Service for the four county area.
+Switchyard work was ceased.
+At approximately 1002 CST switchyard breakers for 500kV lines to Fort Smith and Mabelvale, Arkansas, opened
+on fault current. These two transmission lines run offsite in the same right-of-way. High winds had damaged the
+transmission towers approximately 16 miles away from ANO and caused phase to ground faults. This resulted in
+a loss of all offsite power lines to the 500kV bus. The autotransformer also locked out as designed when the
+500kV transmission lines faulted. The impact of this condition on ANO-2 is addressed in an ANO-2 LER (LER
+05000-368 / 2017-002-00).
+The load rejection was sensed by the ANO-1 main turbine causing all governor valves to close. Generator output
+breakers had not opened when all 500kV power was lost because there was no energy to actuate the reverse
+power trip. During this time plant loads remained powered from the main generator via the UAT. Turbine speed
+and generator frequency rose and peaked at 64.27 Hz (1928 rpm) in approximately 3 seconds. The turbine then
+began slowing down to 1800 rpm (normal speed).
+Approximately two seconds after the loss of 500kV lines, reactor control rod safety groups 1-4 dropped fully into
+the core, while regulating groups remained partially withdrawn. A reactor trip signal had not been initiated, so no
+rods should have dropped. This ratcheting trip condition was due to voltage fluctuations. The Reactor Operator at
+the controls initiated a manual reactor trip about 8 seconds after the 500kV lines tripped and prior to the reactor
+protection system initiating an automatic trip on low reactor coolant system pressure. After initiating the manual
+reactor trip, all remaining control rods fully inserted into the core as expected.
+The turbine tripped immediately following the manual reactor trip, which caused the UAT to trip. SU1 was selected
+as the backup power supply. SU2 was the alternate backup with buses A2, H1, and H2 in pull to lock. SU1 was
+powered from the switchyard autotransformer. During the electrical transient, the autotransformer protective
+relays had actuated due to the transmission line faults which opened the 500kV and 161kV supply breakers. This
+resulted in a loss of all power to the autotransformer and to SU1.
+Because the turbine generator speed had increased above 60 Hz, there was a frequency difference between the
+A1 bus and SU2 that prevented a fast transfer of A1 to SU2. Because A1 was de-energized while awaiting a slow
+transfer of power from SU2, both EDGs [EK] started as expected. EDG #2 re-energized ES bus A4 because the
+breaker from SU2 to bus A2 was in pull to lock. By this time the slow transfer to SU2 had completed and bus A1
+was re-energized; therefore, EDG #1 was not required to connect to the bus and ran unloaded until shutdown by
+Operations.
+NRC FORM 366B (04-2017) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Arkansas Nuclear One, Unit 1 05000-313 NUMBER NO.
+2017 001 00
+Many loads powered from A1 had de-energized during the slow transfer to SU2. This resulted in a temporary loss
+of SFP cooling.
+The plant was stabilized in Mode 3 with Emergency Feedwater (EFW) pumps supplying the steam generators,
+maintaining the water level at the natural circulation setpoint. Operations aligned SU2 to 4160-volt bus A2 and
+restored SFP cooling. SFP cooling was lost for approximately 69 minutes. The SFP temperature increased
+approximately 1 degree F during the 69 minute period. The Emergency Feedwater Initiation and Control (EFIC)
+System controlled EFW flow as designed.
+D. EVENT CAUSES
+The identified condition occurred due to severe weather which caused an electrical fault in the 500kV Fort Smith
+and Mabelvale, Arkansas, transmission lines coincident with an ongoing 500kV Pleasant Hill, Arkansas,
+transmission line maintenance outage.
+SU2 remained operable and capable of performing its required function. The EDGs and the EFW system
+performed as designed and remained capable of performing the respective safety functions.
+E. CORRECTIVE ACTIONS
+The following corrective actions were completed upon identification
+• Restored offsite power
+• Entered the Spent Fuel Pool Emergencies procedure and restarted both SFP cooling pumps
+• Secured the #1 EDG due to running unloaded.
+F. SAFETY CONSEQUENCES
+This event had no actual safety consequences impacting plant or public safety.
+The EDGs automatically started properly when a loss of AC power was detected, as designed. All other systems
+functioned normally.
+NRC FORM 366B (04-2017) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Arkansas Nuclear One, Unit 1 05000-313 NUMBER NO.
+2017 001 00
+G. BASIS FOR REPORTIBILITY
+This event is reportable pursuant to the following criteria:
+10 CFR 50.73(a)(2)(iv)(A) Any event or condition that resulted in manual or automatic actuation
+of any of the systems listed in paragraph (a)(2)(iv)(B) of this section.
+Paragraph (B)(1) lists “Reactor protection system (RPS) including:
+reactor scram or reactor trip”.
+Paragraph (B)(6) states “PWR auxiliary or emergency feedwater
+system”.
+Paragraph (B)(8) lists “Emergency ac electrical power systems,
+including: emergency diesel generators (EDGs)”.
+The guidance provided in NUREG 1022 states under 10 CFR 50.73(a)(1):
+The holder of an operating license for a nuclear power plant (licensee) shall submit a Licensee Event Report
+(LER) for any event of the type described in this paragraph within 60 days after the discovery of the event.
+H. ADDITIONAL INFORMATION
+10 CFR 50.73(b)(5) states that this report shall contain reference to “any previous similar events at the same plant
+that are known to the licensee.” NUREG 1022 reporting guidance states that term “previous occurrences” should
+include previous events or conditions that involved the same underlying concern or reason as this event, such as
+the same root cause, failure, or sequence of events.
+A review of the ANO corrective action program and LERs for the previous three years was performed. There were
+no similar events identified at ANO during this time period.
+It should be noted that the NRC was initially notified of this event in Event Notification (EN) 52710. In this EN it
+was stated that the reactor automatically tripped. Based upon further review, the reactor trip was manually
+initiated as described in this LER.
+Energy Industry Identification System (EIIS) codes and component codes are identified in the text of this report as
+[XX].
+NRC FORM 366B (04-2017) Page 5 of 5

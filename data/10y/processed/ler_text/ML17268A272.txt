@@ -1,0 +1,184 @@
+Exelon Generation
+10 CFR 50.73
+LG-17-128
+September 25, 2017
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 2
+Renewed Facility Operating License No. NPF-85
+NRC Docket No. 50-353
+Subject: LER 2017-006-00, HPCI lnoperability during Post Maintenance Testing
+Enclosed is a Licensee Event Report (LER) which addresses HPCI lnoperability during Post
+Maintenance Testing at Limerick Generating Station (LGS), Unit 2.
+This LER is being submitted pursuant to the requirements of 1O CFR 50.73(a)(2)(v)(D), any
+event or condition that could have prevented the fulfillment of the safety function of structures or
+systems that are needed to mitigate the consequences of an accident.
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Respectfully,
+'
+~ Ub-L-
+Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 03/31/2020
+(04·2017)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+::.'-"'•"•tcu, .. ,. Reported lessons learned are incorporated into the licensing process and led back to industry.
+/~·\ LICENSEE EVENT REPORT (LER) Send commenls regarding burden estimate to the lnlormauon SeJVices Branch IT ·2 F43), U.S.
+~~~. ...·.~ ; Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnlocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc gov, and to the Desk Olficer, Olfice ol lnfonnat1on and Regulatory Affairs,
+NEOB·10202, (3150·0104). Office ol Management and Budget, Wash ngton, DC 20503. II a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently vafid OMB control number, the
+http://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/) NRG may not conduct or sponsor, and a person is not required to respond to, the inlormat1on
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 2 05000353 1 OF 3
+4. TITLE
+HPCI lnoperability during Post Maintenance Testing
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH OAY YEAR YEAR MONTH DAY YEAR
+NUMBER NO
+- - FACILITY NAME DOCKET NUMBER
+07 27 17 2017 006 00 09 25 17
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4l so.13(a)(2)(iiil 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1) (i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1) (ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4l
+D D D D
+20.2203(a)(2)(iiil so.3s(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(S)
+D D D D
+20.2203(a)(2)(iv) so.4s(a)(3)(iil 50.73(a)(2)(v)(C) 13.77(a)(1 l
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) [gJ 50. 73(a)(2)(v)(D) D 13_11(a)(2)(il
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(iil
+D D
+50.73(a)(2)(i)(C) OTHER Spec1ty 1n Abslracl below or m NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT r ELEPHONE NUMBER (Include Area Code}
+Robert B. Dickinson, Manager - Regulatory Assurance (610) 718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU· REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+D BJ ISV A391 y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [gj NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten Imes)
+On July 27, 2017, during Post Maintenance Testing (PMT) following a relay replacement activity, the Unit 2
+High Pressure Coolant Injection (HPCI) system was inoperable when an undesirable valve alignment was
+established as per the PMT instructions resulting in a loss of suction path for the HPCI pump. Work was
+stopped and Operations and Instrument & Controls (l&C) supervision were notified. HPCI was inoperable
+for approximately 20 minutes until Operations restored a HPCI suction path to the Unit 2 Suppression Pool.
+This event is significant because it resulted in an unplanned inoperability of a single train safety system. An
+eight (8) hour ENS notification to the NRG was completed on July 27, 2017 at 1854 hours.
+NRC FORM 366 (04·2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03131/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the lnfonnation Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LEA) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an infonnation collection dces not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/stall/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2017 - 006 - 00
+NARRATIVE
+I. Unit Conditions Prior to the Event
+Limerick Generating Station (LGS) Unit 2 was operating in Operational Condition (OPCON) 1 at 100
+percent power at the time of the event. There were no other structures, systems, or components
+inoperable at the time of the event that contributed to the event.
+11. Description of the Event
+On July 27, 2017, during Post Maintenance Testing (PMT) following a relay replacement activity, the
+Unit 2 High Pressure Coolant Injection (HPCI) system was inoperable when an undesirable valve
+alignment was established as per the PMT instructions resulting in a loss of suction path for the HPCI
+pump. Work was stopped and Operations and l&C supervision were notified.
+On July 27, 2017 at 1335 hours, Operations personnel restored a HPCI suction path to the Unit 2
+Suppression Pool. HPCI was inoperable for approximately 20 minutes. This event is significant
+because it resulted in an unplanned inoperability of a single train safety system. An eight (8) hour
+ENS notification to the NRC was completed on July 27, 2017 at 1854 hours.
+A condition existed that could have prevented the fulfillment of the safety function of structures or
+systems that are needed to mitigate the consequences of an accident and is reportable under 1 O
+CFR 50.73(a)(2)(v)(D).
+Ill. Analysis of the Event
+In 2004 a modification was implemented for both Unit 1 and Unit 2 to increase margin for the HPCI
+suction Primary Containment Isolation Valve (PCIV) stroke time. This modification had taken a
+normally de-energized relay and changed the relay to a normally energized relay for the HPCI suction
+valves. Preventative Maintenance tasks were created to replace the normally energized relays.
+Similar work packages were developed for both the Unit 1 and Unit 2 Preventative Maintenance
+tasks.
+The Unit 1 relay replacement was completed in June 2015 during a HPCI system outage window
+(SOW) with the system inoperable. The PMT closed the suction valves which isolated both HPCI
+suction sources. The Unit 2 relay replacement was planned to be performed with HPCI inoperable;
+however, the work was rescheduled to perform the relay replacement with HPCI operable.
+In July 2017, prior to performing the work, Station Maintenance and Operations personnel performed
+a review of the work package. The review identified that the work package required revision to
+maintain the system operable during the relay replacement. The review did not identify that the PMT
+also required a revision.
+NRC FORM 366A (04-2017) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and ted back to industry. Send
+comments regarding burden estimate to the lnlormation Services Branch (T·2 F43), US Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555·0001, or by e·ma1I to
+lnlocollects.Resource@nrc.gov, and to the Desk Ofticer, Office at Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB·10202, (3150·0104). Office of Management and Budget, Washington, DC 20503. II a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Limerick Generating Station, Unit 2 05000353 NUMBER NO.
+2017 - 006 00
+NARRATIVE
+On July 27, 2017, following the relay replacement per the PMT, Operations personnel closed the
+Suppression Pool suction valve with the Condensate Storage Tank suction valve already closed
+resulting in Unit 2 HPCI being inoperable. Operations personnel realized the inoperability and
+reestablished the HPCI suction source from the Suppression Pool. HPCI was made operable
+approximately 20 minutes after being initially isolated.
+IV. Cause of the Event
+A Root Cause Investigation was performed to determine the cause of Unit 2 HPCI being placed in a
+condition that prevented the fulfillment of the safety function. The investigation concluded that
+Maintenance Planning personnel developed incorrect written instructions for performing post
+maintenance testing of the relay.
+The following contributing causes were identified:
+• The PMT written instructions were not reviewed by Operations
+• There was inadequate technical review of a first-time preventative maintenance activity.
+• There was inadequate Operations shift review of the work activity during work execution.
+V. Corrective Actions Completed/Planned
+The following actions are in place or are planned:
+• Conduct a Technical Human Performance (THU) workshop with the Maintenance Planning
+Department to increase awareness of THU tools.
+• Include THU behavior discussion topics during weekly Maintenance Planning Department all
+hands meetings.
+• The Operations Department will assist the Maintenance Planning Department in developing
+post maintenance tests.
+VI. Previous Similar Occurrences
+There have been no previous similar occurrences of inoperability of a system due to errors in PMT
+written instructions at LGS.
+NRC FORM 366A (04-2017) Page _3_ of _3_

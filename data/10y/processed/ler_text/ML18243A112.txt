@@ -1,0 +1,447 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+August 31, 2018
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-33 and DPR-52
+NRC Docket Nos. 50-259 and 50-260
+Subject: Licensee Event Report 50-259/2018-005-00
+The enclosed Licensee Event Report provides details of the inoperability of the
+Browns Ferry Nuclear Plant Unit 1 and 2 C Emergency Diesel Generator (DG) for longer
+than allowed by Technical Specifications, and the concurrent inoperability of two DGs on
+the same Unit. The Tennessee Valley Authority is submitting this report in accordance with
+Title 10 of the Code of Federal Regulations 50.7 3(a)(2)(i)(B), as any operation or condition
+which was prohibited by the plant's Technical Specifications.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+D. L. Hughes,
+Site Vice President
+Enclosure: Licensee Event Report 50-259/2018-005-00 - lnoperability of Unit 1 and 2
+Emergency Diesel Generators Results in Condition Prohibited by Technical
+Specifications
+U.S. Nuclear Regulatory Commission
+Page 2
+August 31, 2018
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Units 1 and 2
+Licensee Event Report 50-259/2018-005-00
+Inoperability of Unit 1 and 2 Emergency Diesel Generators Results in Condition Prohibited by
+Technical Specifications
+See Enclosed
+CNRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+/¥~~
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+.. industry. Send comments regarding burden estimate to the Information Services Branch
+; \ ~ . ...... . j LICENSEE EVENT REPORT (LER) ( to T -2 In F fo 4 c 3 o ) l , l e U c . t S s. . N R u e c s le o a u r r c R e e @ g n u r la c. t g o o ry v , C o a m nd m i t s o s i t o h n e , W De a s s k h in O g f t f o ic n e , r D , C O f 2 fi 0 c 5 e 5 5 o - f 0 0 In 0 f 1 o , r o m r a b ti y o n e -m an a d il
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Browns Ferry Nuclear Plant (BFN), Unit 1 05000259 1 OF 8
+4. Title
+Inoperability of Unit 1 and 2 Emergency Diesel Generators Results in Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year BFN, Unit 2 05000260
+Number No.
+Facility Name Docket Number
+07 02 2018 2018 - 005 - 00 08 31 2018 N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+(cid:143) (cid:143) (cid:143) (cid:143)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+(cid:143) (cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100
+(cid:143)
+20.2203(a)(2)(v)
+(cid:143)
+50.73(a)(2)(i)(A)
+(cid:143)
+50.73(a)(2)(v)(D)
+(cid:143)
+73.77(a)(2)(i)
+(cid:143) (cid:143) (cid:143)
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+(cid:143) (cid:143)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact ITe lephone Number (Include Area Code)
+Baruch Calkin, Licensing Engineer (256) 614-6713
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+D EK KR7 C&D Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+(cid:143) 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ~ No N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On July 2, 2018, at 1122 Central Daylight Time, it was discovered that the last performed surveillance on the C
+Emergency Diesel Generator (DG) Battery had recorded the specific gravity of Battery Cell 20 at 1.204. This was
+0.025 less than the average battery cell specific gravity of 1.229. The difference in specific gravity between the
+individual cell and the average cell was more than the BFN Unit 1 and Unit 2 Technical Specifications (TS) Limiting
+Conditions for Operation (LCO) 3.8.6, Table 3.8.6-1, Category C, limit of 0.020.
+On August 3, 2018, a past operability evaluation determined that, because of this condition, the C DG had been
+inoperable for longer than the LCO 3.8.1 Condition B, 14 day allowed outage time. Also, during this time, there were
+two periods where a second Unit 1 and 2 DG was inoperable for longer than the two hours allowed by TS LCO 3.8.1
+Condition H for two or more concurrently inoperable Unit 1 and 2 DGs. This condition resulted in a violation of both
+Unit 1 and 2 TS.
+The cause of this event is that the TS 3.8.6 Surveillance Requirement (SR) is non-conservative in regard to checking
+Category C limits. No SR is specified in TS 3.8.6 to check Category C limits. Corrective actions are to replace the
+battery cell, to issue an Operations Standing Order ensuring TS 3.8.6 Category C limits are met when quarterly SRs
+are performed on DG batteries, to revise battery SR procedures, and to revise Unit 1, 2, and 3 TS 3.8 to address the
+discrepancy between the SR and the TS 3.8.6 LCO Condition B required action.
+N RC FORM 366 (04-2018)
+-1
+I NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION I APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+•. ::.<,,J>" Mo"t..i"'to 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+- $ .. . . ~ . : LICENSEE EVENT REPORT (LER) I R n e fo g c u o la ll t e o c r t y s . A R ff e a s ir o s u , rc N e E @ O n B rc -1 .g 0 o 2 v 0 , 2, a n ( d 3 1 t 5 o 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a f n fic a e g em of e n I t n fo a r n m d a tio B n u dg an e d t,
+'l.,.. .... ... n i'' CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+... t! """,,. person is not required to respond to, the information collection. -
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER -
+I I
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+I I 2018 I - 005 I - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Units 1 and 2, were in Mode 1 at
+approximately 100 percent rated thermal power.
+II. Description of Event
+A. Event Summary
+On July 2, 2018, at 1122 Central Daylight Time (CDT), it was discovered that the last
+performed surveillance on the C Emergency Diesel Generator (DG)[EK][DG]
+Battery[BTRY] had recorded the specific gravity of Battery Cell 20 at 1.204. This was
+0.025 less than the average battery cell specific gravity of 1.229. The difference in
+specific gravity between the individual cell and the average cell was more than the BFN
+Unit 1 and Unit 2 Technical Specifications (TS) Limiting Conditions for Operation (LCO)
+3.8.6, Table 3.8.6-1, Category C, limit of 0.020.
+On August 3, 2018, a Past Operability Evaluation (POE) determined that, because of this
+condition, the C DG had been inoperable for longer than the LCO 3.8.1 Condition B, 14
+day allowed outage time. Also, during this time, there were two periods where a second
+Unit 1 and 2 DG was inoperable for longer than the two hours allowed by TS LCO 3.8.1
+Condition H for two or more concurrently inoperable Unit 1/2 DGs. This condition
+resulted in a violation of both Unit 1 and 2 TS.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with
+10 CFR 50.73(a)(2)(i)(B), as any event or condition which was prohibited by the plant TS.
+B. Status of structures, components, or systems that were inoperable at the start of
+the event and that contributed to the event
+There were no structures, components, or systems (SSCs) that were inoperable at the
+time of discovery, which contributed to this condition.
+I , -
+I
+NRC FORM 366A (04-2018) Page 2 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 005 - 00
+NARRATIVE
+C. Dates and approximate times of occurrences
+Time
+Date Event
+(CDT)
+Quarterly check for C DG Battery completed sat.
+The performance noted that Cell 20 specific gravity
+April 10, 2018 0130
+was 1.208, which was 0.019 less than the average
+specific gravity of 1.227.
+June 04, 2018 2000 Declared C DG inoperable for maintenance.
+Quarterly check for C DG Battery completed
+June 06, 2018 0309
+satisfactory.
+Declared C DG Battery system inoperable for battery
+June 06, 2018 1300 performance test.
+Entered TS LCO 3.8.4 Condition C.
+Quarterly check for C DG Battery completed
+June 11, 2018 0225
+satisfactory.
+Declared C DG operable upon completion of
+June 16, 2018 0137
+maintenance window.
+Discovered during review of most recent surveillance
+for the C DG Battery that the lowest cell specific
+July 2, 2018 1122
+gravity was Cell 20 at 1.204, which was 0.025 less
+than the average cell specific gravity of 1.229
+D. Manufacturer and model number of each component that failed during the event
+The battery containing the failed cell was manufactured by C&D Technologies, part
+number KCR 7.
+E. Other systems or secondary functions affected
+There were no other systems or secondary functions affected by this condition.
+F. Method of discovery of each component or system failure or procedural error
+The failure of C DG Battery Cell 20 was discovered during a BFN Engineering review of
+recent DG C Battery surveillances.
+NRC FORM 366A (04-2018) Page 3 of 8
+-1
+I NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION I APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+•. ::.<,,J>" Mo"t..i"'to 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+- $ .. . . ~ . : LICENSEE EVENT REPORT (LER) I R n e fo g c u o la ll t e o c r t y s . A R ff e a s ir o s u , rc N e E @ O n B rc -1 .g 0 o 2 v 0 , 2, a n ( d 3 1 t 5 o 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a f n fic a e g em of e n I t n fo a r n m d a tio B n u dg an e d t,
+'l.,.. .... ... n i'' CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+... t! """,,. person is not required to respond to, the information collection. -
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER -
+I I
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+I I 2018 I - 005 I - 00
+NARRATIVE
+G. Failure mode, mechanism, and effect of each failed component
+The battery cell is considered failed because of a trend of lowering specific gravity
+compared to the average for that battery. This resulted in the past TS inoperability of the
+battery when the difference in specific gravity between the cell and the battery average
+was found to have been greater than 0.020.
+H. Operator actions
+There were no operator actions associated with this condition
+I. Automatically and manually initiated safety system responses
+There were no safety system responses initiated as a result of this condition.
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error
+The direct cause of this condition is a downtrend in C DG Battery Cell 20 specific gravity.
+Additionally, two contributing causes were identified:
+1. The common interpretation of TS 3.8.6 is that Category A and Category B limits
+must be exceeded prior to checking Category C limits.
+2. Procedure 0 SR 3.8.6.2(DG C), "Quarterly check of Diesel Generator C Battery,"
+does not perform a check of TS 3.8.6 Category C limits.
+‐ ‐ ‐
+B. Cause(s) and circumstances for each human performance related root cause
+The apparent cause of this event was that the TS 3.8.6 SR is non-conservative in regard
+to checking Category C limits. No Surveillance Requirements are specified in TS 3.8.6 to
+check Category C limits.
+IV. Analysis of the Event
+The safety objective of the Standby AC Power System is to provide a self-contained, highly
+reliable source of power, as required for the Engineered Safeguards System, so that no single
+credible event can disable the core standby cooling functions or their supporting auxiliaries.
+Control circuit voltage for the DGs is 125-V DC. Each DG has its own battery. The diesel
+batteries are located in the DG Building. Each battery consists of 60 single cell containers. TS
+3.8 (Electrical Power Systems) Table 3.8.6-1, Category C, gives the requirement that the specific
+gravity for each connected battery cell be not more than 0.020 below the average specific gravity
+of all connected cells.
+I, -
+I
+NRC FORM 366A (04-2018) Page 4 of 8
+-1
+I NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION I APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+•. ::.<,,J>" Mo"t..i"'to 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+- $ .. . . ~ . : LICENSEE EVENT REPORT (LER) I R n e fo g c u o la ll t e o c r t y s . A R ff e a s ir o s u , rc N e E @ O n B rc -1 .g 0 o 2 v 0 , 2, a n ( d 3 1 t 5 o 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a f n fic a e g em of e n I t n fo a r n m d a tio B n u dg an e d t,
+'l.,.. .... ... n i'' CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+... t! """,,. person is not required to respond to, the information collection. -
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER -
+I I
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+I I 2018 I - 005 I - 00
+NARRATIVE
+Quarterly Surveillance Procedure 0-SR-3.8.6.2(DG-A/B/C/D) is the procedure for performing
+Surveillance Requirements 3.8.6.1 (Verify battery cell parameters meet Table 3.8.6-1 Category A
+limits), 3.8.6.2 (Verify battery cell parameters meet Table 3.8.6-1 Category B limits), and 3.8.6.3
+(Verify average electrolyte temperature of representative cells is greater than or equal to 60
+degrees F for each Unit and Shutdown Board [ECBD] battery [except Shutdown Board battery
+3EB], and greater than or equal to 40 degrees F for Shutdown Board battery 3EB and each DG
+battery). Neither this procedure nor its parent SRs require plant personnel to verify that battery
+cell parameters meet Table 3.8.6-1 Category C limits, and it was found to be commonly assumed
+by plant personnel that Category A and Category B limits must be exceeded prior to checking
+Category C limits.
+TS LCO 3.8.6 requires that battery cell parameters for the Unit, Shutdown, and DG batteries
+remain within the limits of Table 3.8.6-1 when the associated DC electrical power subsystems
+are required to be operable. TS LCO 3.8.6 Condition B states that if one or more batteries
+contain battery cells with parameters not within Category C values, the associated battery must
+immediately be declared inoperable.
+TS LCO 3.8.4 requires that Unit 1 and 2 DG DC subsystems be operable in Modes 1, 2, and 3.
+TS LCO 3.8.4 Condition C states that, with one or more DG DC electrical power subsystems
+inoperable (including the DG battery), the associated DG must immediately be declared
+inoperable.
+TS LCO 3.8.1 requires that Unit 1 and 2 DGs (DGs A, B, C, and D) be operable in Modes 1, 2,
+and 3. TS LCO 3.8.1 Condition B states that, with one required Unit 1 and 2 DG inoperable, the
+following actions must be taken:
+• Verify power availability from the offsite transmission network within one hour and once
+per eight hours thereafter; AND
+• Evaluate the availability of both temporary diesel generators (TDGs) within one hour and
+once per twelve hours thereafter; AND
+• Declare required feature(s), supported by the inoperable Unit 1 and 2 DG, inoperable
+when the redundant required feature(s) are inoperable within four hours of the discovery
+of Condition B concurrent with inoperability of redundant required feature(s) ; AND
+• Determine operable Unit 1 and 2 DG(s) are not inoperable due to common cause failure
+or perform SR 3.8.1.1 for operable Unit 1 and 2 DG(s) within twenty-four hours; AND
+• Restore inoperable Unit 1 and 2 DG to operable status within fourteen days, and within
+seven days from the discovery of unavailable TDG(s), and within twenty-four hours from
+the discovery of Condition B entry greater than six days concurrent with unavailability of
+TDG(s), and within twenty-one days of discovery of the failure to meet the LCO.
+I, -
+I
+NRC FORM 366A (04-2018) Page 5 of 8
+-1
+I NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION I APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+•. ::.<,,J>" Mo"t..i"'to 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+- $ .. . . ~ . : LICENSEE EVENT REPORT (LER) I R n e fo g c u o la ll t e o c r t y s . A R ff e a s ir o s u , rc N e E @ O n B rc -1 .g 0 o 2 v 0 , 2, a n ( d 3 1 t 5 o 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a f n fic a e g em of e n I t n fo a r n m d a tio B n u dg an e d t,
+'l.,.. .... ... n i'' CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+... t! """,,. person is not required to respond to, the information collection. -
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER -
+I I
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+I I 2018 I - 005 I - 00
+NARRATIVE
+TS LCO 3.8.1 Condition H states that, with two required Unit 1 and 2 DGs inoperable, action
+must be taken to restore all but one Unit 1 and 2 DG to operable status. During the time when C
+DG was inoperable, there were two periods where B DG was inoperable for longer than two
+hours.
+TS LCO 3.8.1 Condition I states that if required actions and completion times are not met for
+Condition A, B, C, D, E, F, or H, action must be taken to be in Mode 3 within twelve hours, and to
+be in Mode 4 within thirty-six hours.
+A review of surveillances performed on June 6, 2018, determined that the specific gravity of C
+DG Battery Cell 20 was 1.204. This was 0.025 below the average cell specific gravity of 1.229,
+and did not meet the requirements of Table 3.8.6-1. Therefore, the C DG Battery was inoperable
+by LCO 3.8.6, and the C DG was inoperable by LCO 3.8.4. A POE determined that, because of
+a declining trend in Cell 20 specific gravity, the battery should be considered inoperable from the
+date of its last satisfactory surveillance on April 10, 2018, to June 4, 2018, when the DG was
+declared inoperable for its planned maintenance window. During this time, the Required Actions
+of TS LCO 3.8.6 Condition B; TS LCO 3.8.4 Condition C; and TS LCO 3.8.1 Conditions B, H, and
+I were not completed. Therefore, BFN was in violation of its TS during this time.
+V. Assessment of Safety Consequences
+A POE was performed for this condition which determined that, even with Cell 20 not meeting the
+TS LCO 3.8.6 Category C value for individual cell specific gravity, the entire battery bank was
+sufficient to supply the power necessary for DG C to perform its safety function for its seven-day
+mission time.
+A probabilistic risk assessment was performed for this condition which determined that this
+condition was of low safety significance.
+A. Availability of systems or components that could have performed the same
+function as the components and systems that failed during the event
+During the period of time when this condition existed, offsite power was continually
+available to the Unit 1 and Unit 2 4kV Shutdown Boards.
+Additionally, three Unit 1 and 2 DGs were available with the following exceptions:
+• B DG inoperable from 1044 CDT on April 23, 2018, to 1113 CDT on May 03,
+2018.
+• B DG inoperable from 0926 CDT on May 22, 2018, to 1330 CDT on May 23,
+2018.
+I, -
+I
+NRC FORM 366A (04-2018) Page 6 of 8
+-1
+I NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION I APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+•. ::.<,,J>" Mo"t..i"'to 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+- $ .. . . ~ . : LICENSEE EVENT REPORT (LER) I R n e fo g c u o la ll t e o c r t y s . A R ff e a s ir o s u , rc N e E @ O n B rc -1 .g 0 o 2 v 0 , 2, a n ( d 3 1 t 5 o 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a f n fic a e g em of e n I t n fo a r n m d a tio B n u dg an e d t,
+'l.,.. .... ... n i'' CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+... t! """,,. person is not required to respond to, the information collection. -
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER -
+I I
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+I I 2018 I - 005 I - 00
+NARRATIVE
+During these periods, at least two Unit 1 and 2 DGs and all four Unit 3 DGs (3A, 3B, 3C,
+3D) remained operable.
+B. For events that occurred when the reactor was shut down, availability of systems
+or components needed to shut down the reactor and maintain safe shutdown
+conditions, remove residual heat, control the release of radioactive material, or
+mitigate the consequences of an accident
+This condition did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the
+elapsed time from the discovery of the failure until the train was returned to service
+This condition is a past operability issue only, affecting the C DG from 0130 CDT on April
+10, 2018, to 2000 CDT on June 4, 2018. The most recent performance of the battery
+check surveillance indicates that the battery is currently operable.
+VI. Corrective Actions
+This condition was entered into the TVA Corrective Action Program (CAP) and is being tracked
+under Condition Report 1427962.
+A. Immediate Corrective Actions
+1. Replace battery cell 20.
+2. Issue Operations Standing Order, OS-201, to verify TS 3.8.6 Category C limits are
+met when reviewing quarterly battery surveillances for Main Bank Batteries 1, 2,
+and 3; Shutdown Board Batteries A, B, C, D, 3EB; Unit 1 and 2 Diesel Generator
+Batteries; and Unit 3 Diesel Generator Batteries.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events
+occurring in the future
+1. Revise battery SR procedures to add a note that Category C specific gravity limits
+can be exceeded without first exceeding a Category A or B limit, and to
+incorporate a check of the TS 3.8.6 Category C limits.
+2. Revise Unit 1, 2, and 3 TS 3.8 to address the discrepancy between the SR and
+TS 3.8.6 Condition C requirements.
+I , -
+I
+NRC FORM 366A (04-2018) Page 7 of 8
+-1
+I NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION I APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+•. ::.<,,J>" Mo"t..i"'to 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+- $ .. . . ~ . : LICENSEE EVENT REPORT (LER) I R n e fo g c u o la ll t e o c r t y s . A R ff e a s ir o s u , rc N e E @ O n B rc -1 .g 0 o 2 v 0 , 2, a n ( d 3 1 t 5 o 0 -0 th 1 e 0 4) D , es O k f fic O e f fic o e f r , M O a f n fic a e g em of e n I t n fo a r n m d a tio B n u dg an e d t,
+'l.,.. .... ... n i'' CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+... t! """,,. person is not required to respond to, the information collection. -
+1. FACILITY NAME I 2. DOCKET NUMBER I 3. LER NUMBER -
+I I
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+I I 2018 I - 005 I - 00
+NARRATIVE
+VII. Previous Similar Events at the Same Site
+A POE performed for extent-of-condition determined that during the past three years, there have
+been thirty-three instances where required 125-V or 250-V battery cells have failed to meet TS
+Table 3.8.6-1 Category C requirements. No adverse trend was observed because, for each
+incident identified, the previous and subsequent recorded values were within TS requirements
+and there were no indications of lowering specific gravity. Since there is no adverse trend, time
+of discovery is used for the purpose of determining past operability. Therefore, these instances
+do not constitute violations of BFN TS.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+I, -
+I
+NRC FORM 366A (04-2018) Page 8 of 8

@@ -1,0 +1,351 @@
+Perry Nuclear Power Plant
+Rod Penfield
+Site Vice President
+10 Center Road
+Perry, Ohio 44081
+440-280-5382
+724-462-0816 (cell}
+June 20, 2024
+L-24-140 1 0CFR50.7 3(a}(2}(i}(B} and 10 CFR50. 73(a}(2}(ii}(B}
+Attention: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 205855-0001
+Subject: Perry Nuclear Power Plant, Docket No. 50-440, License No. NPF-58:
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2024-001, "Operation of the Residual Heat Removal Loops B
+and C 'Alternate Keep Fill' Configuration Was Prohibited by Technical Specifications and Resulted in
+an Unanalyzed Condition." There are no regulatory commitments contained in this letter.
+If there are any questions, or if additional information is required, please contact Mr. Robert Oesterle,
+Manager -Regulatory Compliance, at (419) 321-7462.
+Sincerely,
+Rod L. Penfield
+Enclosure:
+LER 2024-001
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III Regional Administrator
+6555 SIERRA DRIVE IRVING. TEXAS 75039 o 214-812-4600 VISTRACORP.COM
+Enclosure
+L-24-140
+Licensee Event Report 2024-001
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S. Nuclear Regulatory
+{~\ (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB
+; , i reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear
+...... (See NUREG-1022, R.3 for instruction and guidance for completing this form Regulatory Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor,
+""+., ,,.o~ http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name ~ 050 2. Docket Number 3. Page
+Perry Nuclear Power Plant □ 052 00440 1 OF 6
+4. Title:
+Operation of the Residual Heat Removal Loops B and C “Alternate Keep Fill” Configuration Was Prohibited by Technical
+Specifications and Resulted in an Unanalyzed Condition
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l R N e o v . Month Day Year Facility Name □ 050 Docket Number
+Facility Name Docket Number
+04 25 2024 2024 - 001 - 00 06 20 2024 □ 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(g)
+□ 20.2203(a)(2)(iv) ~ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or in NRC Form 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+William Partridge, Regulatory Compliance I 440-280-5913
+13. Complete One Line for Each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+~ No I □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+From March 25, 2024 to March 31, 2024, in Mode 1 at 100% power, Residual Heat Removal (RHR) loops B and C were not configured to the
+dedicated waterleg pump, a condition prohibited by Technical Specifications (TS). This condition, and an unanalyzed condition of the alternate
+keepfill configuration, were determined April 25, 2024.
+Based on the Cause Investigation: Cause 1 was a series of human performance errors processing an improper operating procedure revision;
+Cause 2 was ineffective communication between Operations and Engineering; a Contributing Cause was that past evaluations of the requested
+procedure change had missed the opportunity to clearly state in the procedure that the change did not support single active component failure
+licensing basis requirements
+The RHR procedure was revised to reflect the licensing basis. Planned corrective actions include: implementing an operations procedure
+department’s guidance document; authoring a new Training case study about communications; revising RHR and inservice testing program
+procedures to explain why alternate keep fill configuration causes RHR loop inoperability.
+The March 2024 RHR operational configurations are being reported as a condition prohibited by TS under 10 CFR 50.73(a)(2)(i)(B), and as an
+unanalyzed condition under 10 CFR 50.73(a)(2)(ii)(B).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant
+00440
+2024 - 001 - 00
+□ 052
+NARRATIVE
+Energy Industry Identification System and Component (EIIS) codes are identified in the text as [XX].
+System Description
+The Perry Residual Heat Removal (RHR) System [BO] is part of the Emergency Core Cooling System (ECCS) that is
+designed to provide cooling water (the RHR’s Low Pressure Coolant Injection (LPCI) function) to the reactor vessel [RPV]
+as protection against postulated loss-of-coolant accidents (LOCA).
+The RHR System has three loops (A, B, C), each with its own injection pump [P], which differ from the waterleg pumps. The
+licensing basis, as stated in the Updated Safety Analysis Report (USAR), requires that RHR cooling water flow from the
+Suppression Pool [BT] to the reactor vessel be initiated rapidly when the RHR System is called on to perform its function.
+The lag between the signal to start an RHR pump and the initiation of flow can be minimized by keeping the pumps’
+discharge lines full. The licensing basis credits only the specific safety related, seismically qualified RHR waterleg pumps to
+automatically provide water to the RHR loops, downstream of each loop’s main RHR pump, to maintain the loops water
+solid. One waterleg pump supplies water to the RHR A loop, and another waterleg pump supplies water to both the RHR B
+and RHR C loops.
+An alternate keep fill configuration, relying upon water from non-safety related, non-seismically qualified, and non-essentially
+powered Condensate Transfer and Storage System [KA] piping, can be used to provide initial filling of the RHR discharge
+lines. The Condensate Transfer and Storage System piping water enters, via the alternate keep fill lineup, at each RHR
+loop’s piping downstream of where each loop would receive the waterleg pump’s water. At the interface of RHR and
+Condensate Transfer and Storage piping, each RHR loop has a single 8-inch safety-related check valve [V]. This alternate
+keep fill configuration is not a licensing basis credited method of keeping the RHR discharge lines water solid.
+Perry Technical Specification (TS) 3.5.1 is "ECCS - Operating." Limiting Condition for Operation (LCO) 3.5.1 requires each
+ECCS injection/spray subsystem be Operable in Modes 1, 2, and 3. With one low pressure ECCS injection/spray subsystem
+inoperable, TS LCO 3.5.1 Required Action A.1 requires the subsystem be restored to Operable status in 7 days. With two
+ECCS injection subsystems inoperable, Required Action C.1 requires one subsystem be restored to Operable status in 72
+hours. If the C.1 Required Action and associated Completion Time are not performed and met, Required Action D.1 requires
+the unit be in Mode 3 Hot Shutdown in 12 hours, and Required Action D.2 requires the unit be in Mode 4 Cold Shutdown in
+36 hours.
+DESCRIPTION OF EVENT
+1. Operation in a condition prohibited by Technical Specifications.
+On February 22, 2024, operating procedure SOI-E12 Revision 79, “Residual Heat Removal System,” had been updated to
+Revision 80. The main purpose of that revision had been to delete revision 79’s directives pertaining to waterleg pump and
+alternate keep fill operation.
+Revision 79 reflected the licensing basis by stating as a Precaution and Limitation (P&L) that “If RHR A, B, or C
+are placed on alternate keep fill or the respective Waterleg pump is shutdown the affected RHR loop will be inoperable,”
+and by directing as a procedure step to “DECLARE the affected RHR loop inoperable.”
+Revision 80 of SOI-E12 deleted directives to declare an RHR loop inoperable, whenever that RHR loop has an inoperable
+waterleg pump or is in alternate keep fill configuration. Revision 80 directed in a new Precaution and Limitation that “If RHR
+A, B, OR C are placed on alternate keep fill AND the RHR PUMP A(B,C) DISCHARGE PRESSURE HI/LO. . . is received the
+RHR loop will be inoperable,” thereby allowing the system to be considered operable otherwise.
+NRC FORM 366A (04-02-2024) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant
+00440
+2024 - 001 - 00
+□ 052
+NARRATIVE
+On March 25, 2024 at 2015 hours (Mode 1 Power Operation, 100% power), the RHR waterleg pump, for RHR loops B
+and C, was undergoing scheduled maintenance and was declared inoperable. At this time, RHR loops B and C should have
+been declared inoperable but were not, as the operators were following SOI-E12 revision 80’s directions. TS 3.5.1 LCO
+Conditions A (One low pressure ECCS injection/spray subsystem inoperable) and C (Two ECCS injection subsystems
+inoperable) were not entered.
+On March 25, 2024 at 2020 hours, the RHR alternate keep fill startup was established per SOI-E12 revision 80, to keep RHR
+B and C discharge lines water solid.
+LCO 3.5.1 Condition C Required Action C.1 (Restore one ECCS injection/spray subsystem to OPERABLE status) has a 72
+hour Completion Time, which would have expired on March 28, 2024 at 2015 hours, at which time Condition D
+(Required Action and associated Completion Time of Condition A, B, or C not met) should have been entered but was
+not.
+LCO 3.5.1 Condition D Required Action D.1 (Be in MODE 3, Hot Shutdown) has a 12 hour Completion Time, which would
+have expired on March 29, 2024 at 0815 hours. Required Action D.2 (Be in MODE 4, Cold Shutdown) has a 36
+hour Completion Time, which would have expired on March 30, 2024 at 0815 hours.
+On March 30, 2024 at 2024 hours, anticipating removal from the alternate keep fill configuration and acknowledging
+the inoperability of the RHR waterleg pump for B and C loops pending completion of post-maintenance testing, the
+Operators’ Log stated, “RHR loops B and C are INOPERABLE but AVAILABLE. Technical Specification LCO 3.5.1 is not
+met. Enter Conditions A and C for LPCI B and C.”
+On March 30, 2024 at 2032 hours, RHR loops B and C were removed from the alternate keep fill configuration.
+On March 31, 2024 at 0440 hours, following a surveillance test, the RHR waterleg pump for RHR loops B and C, and the
+associated RHR loops, were declared Operable; LCO 3.5.1 was declared met.
+On April 4, 2024, the Corrective Action Program’s Condition Report (CR) CR-2024-02947, “Potentially Inadequate Review
+of RHR Alternate Keep-fill Allowance in SOI-E12, Rev. 80,” was initiated "to determine if an unanalyzed condition was
+inadvertently permitted by the procedure revision.” The Cause Investigation of this Reportable Event rolled the concerns of
+this CR into the CR-2024-03694.
+On April 11, 2024, CR-2024-03160, “10 CFR 50.59 Review Committee – Failed Product,” was submitted by engineering
+regarding the 50.59 Screen that had helped process revision 80 of SOI-E12. The Cause Investigation of this Reportable
+Event rolled the concerns of this CR into the CR-2024-03694.
+SOI-E12 Revision 81, effective April 11, 2024, and Revision 82, effective April 15, 2024, restored SOI-E12 Revision 79
+Inoperability requirements for RHR loops when in the alternate keep fill configuration.
+On April 25, 2024, design analysis engineering submitted CR-2024-03694, “SOI-E12 Revision 80 RHR Alternate
+Keep-fill Operability Concerns.” This CR prompted making an Event Notification to the NRC of operation in an unanalyzed
+condition. This CR is the foundation for the Reportable Event’s Cause Investigation, which included the April 4 CR and
+April 11 CR concerns into the Investigation scope.
+On April 25, 2024, evaluation of this event concluded that RHR loops B and C should have been declared inoperable, and
+TS LCO 3.5.1 Condition A and Condition C should have been entered when the waterleg pump for RHR loops B and C had
+been declared inoperable on March 25, 2024, at 2015 hours. The waterleg pump was inoperable until March 31, 2024, at
+NRC FORM 366A (04-02-2024) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant
+00440
+2024 - 001 - 00
+□ 052
+NARRATIVE
+0440 hours. RHR loops B and C were not declared inoperable, the Required Actions C.1, D.1, D.2 were not performed, and
+these Actions’ required Completion Times were not met. As a result, this event is being reported in accordance with 10 CFR
+50.73(a)(2)(i)(B) as a condition that was prohibited by the Technical Specifications
+2. Operation in an Unanalyzed Condition
+On April 25, 2024 at 1755 hours, it was determined that the use of alternate keep fill configuration for RHR Loops B and C
+constituted an unanalyzed condition. The site contacted the NRC with a 10 CFR 50.72(b)(3)(ii)(B) Event Notification (ENS
+# 57092) on April 25, 2024 at 2024 hours.
+The details of this unanalyzed condition are discussed in the “Analysis of Event” section below.
+CAUSES OF EVENT
+The Cause Investigation determined:
+ Cause 1: A series of human performance errors during the preparation, review, and approval of
+SOI-E12 RHR Rev 80 being implemented as a Simple Change.
+ Cause 2: Communication of vital information between Operations and Engineering that could have directly
+prevented the procedure change leading to the plant being operated in an unanalyzed condition was not
+effective.
+ Contributing Cause: Previous evaluations of the same requested procedure change to make RHR operable
+using Alternate Keepfill missed the opportunity to embed guidance in SOI-E12 that clearly states that this
+change does not support Design Basis Criteria (SACF) [Single Active Component Failure] USAR Chapter 15
+Requirements.
+ANALYSIS OF EVENT
+This event is reportable due to the plant having operated in an unanalyzed condition under 10 CFR 50.73(a)(2)(ii)(B).
+This unanalyzed condition (the RHR B and C loop operation on the alternate keep fill configuration) occurred from
+March 25, 2024 at 2020 hours, to March 30, 2024 at 2032 hours.
+The Design Basis Accident (DBA) is the sudden break of a main steam line or reactor recirculation line (USAR Table
+3.9-3). USAR Section 15.6.5, “Loss-of-Coolant Accidents (Resulting from Spectrum of Postulated Piping Breaks within
+the Reactor Coolant Pressure Boundary) - Inside Containment,” states that this loss of coolant accident (LOCA) is also
+coincident with a safe shutdown earthquake.
+The USAR’s Chapter 15 “Accident Analysis” directs that “only safety grade equipment is assumed to be used to mitigate
+accidents and safely shut down the reactor.” USAR Table 3.6-3, “Systems To Be Protected Against Piping Failures” lists
+among such systems the RHR (LPCI Injection A, B, and C loops) System, but not the Condensate Transfer and Storage
+System.
+USAR Section 6.3.1.1.3, “ECCS Requirements for Protection from Physical Damage,” states that ECCS “piping and
+components are protected against damage from movement, from thermal stresses, from the effects of the LOCA, and the
+safe shutdown earthquake (SSE).”
+NRC FORM 366A (04-02-2024) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant
+00440
+2024 - 001 - 00
+□ 052
+NARRATIVE
+USAR Section 15.A.2.8, “General Nuclear Safety Operational Criteria,” states, “The plant shall be operated in such a way
+that no Single Active Component Failure (SACF) can prevent the safety actions essential to avoiding the unacceptable
+consequences associated with anticipated or abnormal operational transients or design basis accidents.”
+SOI-E12 Revision 80 allowed the plant to be placed in an alignment that required the RHR System’s B and C check valves
+to not only have a passive function but also to operate as an isolation valve [ISV] with an active function.
+A DBA with Single Active Failure postulation of the 8-inch check valve, in the alternate keep fill alignment (failure of the
+given train’s check valve to fully close), would result in diversion of radioactive Suppression Pool water through RHR
+and Condensate Transfer and Storage System piping to the environment. The quantities of radioactive water and dose
+released outside Containment in this scenario have not been analyzed and would exceed the USAR Loss of Coolant
+Accident analysis values for leakage outside primary Containment.
+The potential drainage from the Suppression Pool, and the diversion of RHR injection flow away from the reactor vessel,
+are also unanalyzed configurations. USAR Section 6.3.1.1.1 (Emergency Core Cooling System Design Bases
+Performance and Functional Requirements) states, “The ECCS is designed to provide protection against postulated loss-of-
+coolant accidents (LOCA) caused by ruptures in primary system piping. . . . In addition, the ECCS is designed to
+following requirements . . . f. A sufficient water source and the necessary piping, pumps and other hardware are provided
+so that the containment and reactor core can be flooded for possible core heat removal following a LOCA.”
+RHR A loop remained operable, in its proper waterleg pump configuration, throughout this event between March 25 and
+March 31, 2024; therefore there was no loss of safety function.
+A probabilistic risk assessment (PRA) evaluation was performed for the March 2024 RHR B and C loop operation in the
+alternate keep fill configuration, using the full power PRA model. High winds and external flooding were qualitatively
+addressed to be of very low safety significance. The dominant fire scenarios were qualitatively expected to be similar to
+that for the seismic analysis. The analysis of this event (the March 2024 operation of RHR B and C loops in the alternate
+keep fill configuration), including both internal events and seismic hazards, results in delta core damage frequency (CDF)
+and delta large early relief frequency (LERF) values that are below the acceptable thresholds of 1.0E-06/yr and
+1.0E-07/yr, as discussed in Regulatory Guide 1.174. Performance of a sensitivity study that added the postulated
+condition of the alternate keep fill configuration existing simultaneously for all three RHR loops did not change this
+conclusion. The risk of this event is therefore considered to be of very low safety significance in accordance with the
+regulatory guidance.
+The RHR B and C waterleg pump was declared inoperable on March 25, 2024 at 2015 hours, and alternate keep fill startup
+commenced on March 25, 2024 at 2020 hours; the unanalyzed condition of the RHR B and C loop operation lasted until
+March 30, 2024, at 2024 hours, when TS LCO 3.5.1 Conditions A and C were entered. This event was determined to
+represent an unanalyzed condition and was reported in accordance with 10 CFR 50.72(b)(3)(ii)(B) to the NRC Operations
+Center on April 25, 2024, at 2024 hours as Event Number 57092. This event is being reported within 60 days from the
+discovery of the reportable issue on April 25, 2024, as an unanalyzed condition per 10 CFR 50.73(a)(2)(ii)(B).
+CORRECTIVE ACTIONS
+Completed Corrective Actions: SOI-E12 was revised (Revision 81, effective April 11, 2024, and Revision 82, effective April
+15, 2024) to reflect the plant’s licensing basis, declaring RHR loop inoperable when in the alternate keep fill configuration.
+Scheduled Corrective Actions:
+NRC FORM 366A (04-02-2024) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Services Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+~ 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant
+00440
+2024 - 001 - 00
+□ 052
+NARRATIVE
+1. The Operations procedure section will develop and implement a WELL [What Excellent Looks Like] sheet for the
+procedure preparation process, 50.59 RAD [Regulatory Applicability Determination], and Screen processes that validates
+cross functional engaging behaviors, proper risk assessment, and Operating Experience review to establish excellence in
+product development and review behaviors.
+2. Develop and deliver a case study on communications. Reference the communication issues identified in this formal
+report. Recommend this be delivered in the Site Supervisor continuing training program.
+3. Anchor the reason why RHR is inoperable on Alternate Keepfill to SOI-E12.
+4. Anchor the reason why RHR is inoperable on Alternate Keepfill to the inservice testing program procedure.
+PREVIOUS SIMILAR EVENTS
+None.
+Of 24 Of
+NRC FORM 366A (04-02-2024) Page 6 of 6

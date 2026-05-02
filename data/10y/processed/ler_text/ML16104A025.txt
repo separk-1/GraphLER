@@ -1,0 +1,227 @@
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) .. Estimated burden per response to comply with this mandatory collection request: 80
+""'·~a...c..: \ hours. Reported lessons learned are incorporated into the licensing process and fed
+\ ; ~. ~ . ...r~ t/ b In a fo ck rm t a o t io in n d u C st o ry ll . e c S tio e n n s d c B o r m an m c e h n ts ( T r - e 5 g a F rd 5 in 3 g ), b U ur . d S e . n N e u s c tim lea a r te R to e g th u e la F to O ry IA , C P o r m iv m ac is y s a io n n d ,
+LICENSEE EVENT REPORT (LER)
+Washington, DC 20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov,
+(See Page 2 for required number of and to the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202,
+(3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+digits/characters for each block) used to impose an information collection does not display a currenUy valid OMB control
+number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3.PAGE
+Perry Nuclear Power Plant
+' 05000-440 1 OF4
+4. TITLE
+Manual Reactor SCRAM Due to Spurious Opening of Safety Relief Valves
+5. EVENT DATE 6. ILE R NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+- FACILITY NAME DOCKET NUMBER
+02 08 2016 2016 -. 002 00 04 08 2016
+05000
+9. OPERAT ING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D 0 0
+20.2201 (b) 20.22o~(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1 D 20.2201 (d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D so.73(a)(2)(iii) 0 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) IZ! 50. 73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) 0 50.36(c)(1)(ii)(A) 0 50.73(a)(2)(v)(A) D 13.11(a)(4)
+D D 0 D
+20.2203(a)(2>0ii> so.3s(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+0 D 0 D
+100 20.2203(a)(2)(iv) so.4s(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+0 0 0 D
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+0 0 0 D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+0
+50.73(a)(2)(i)(C) OoTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+David Lockwood - Regulatory Compliance 440-280-5200
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE I MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TOEPIX
+I
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT (Limitto 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On February 8, 2016, at 1503 hours, control room operators initiated a manual reactor protection system (RPS)
+~ctuation in response to rising temperature in the suppression pool. All control rods full inserted. Prior to the RPS
+actuation the plant was in mode 1 at approximately 96 percent rated thermal power. At 1500 hours, multiple safety
+relief valves (SRVs) partially opened due to an invalid reactor pressure vessel (RPV) pressure signal. Control room
+indications showed two SRVs remained open resulting. in a suppression pool temperature rise. Suppression pool
+cooling was initiated and a plant cooldown to Mode 4 was initiated.
+rThe direct cause of the event was a momentary pressure perturbation limited to the RPV B reference leg that caused
+~he connected transmitters to sense RPV pressure and level changes that resulted in SRV actuation. Corrective actions
+include revision to plant procedures for operation of the RPV refe'rence legs and associated purge panels, and changes
+~o the time constants for the affected RPV transmitters.
+rT°he safety significance of this event is considered to be very small. This event is being reported in accordance with 10
+CFR 50. 73(a)(2)(iv)(A) as an event or condition that resulted in a manual actuation of the RPS.
+NRC FORM 366 (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150..0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or
+by internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of
+LICENSEE EVENT REPORT (LER) Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and
+Budget, Washington, DC 20503. If a means used to impose an information collection does
+CONTINUATION SHEET not display a currently vaiid OMB control number, the NRG may not conduct or sponsor,
+and a oeraon is not reauired to resoond to the information collection.
+3. LER NUMBER
+1. FACILITY NAME 2. DOCKET NUMBER YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant 05000-440 2016 002 0
+Energy Industry Identification System (EllS) codes are identified in the text as [XX]
+INTRODUCTION
+On February 8, 2016, at 1503 hours, control room operators initiated a manual reactor protection system (RPS)
+[JC] actuation in response to rising temperature in the suppression pool. Prior to the RPS actuation the plant was
+in mode 1 at approximately 96 percent rated thermal power. At 1500 hours, multiple safety relief valves (SRVs)
+[RV] partially opened due to an invalid reactOr pressure vessel (RPV) [RCT] pressure signal. Control room
+indications available to the operators showed two SRVs, 1B21F0051C and 1B21F0051D, received open signals
+and remained opened resulting in a suppression pool temperature rise. At 95 degrees Fahrenheit (F) average
+temperature and rising.in the suppression pool, a manual RPS actuation was initiated as required by plant
+procedures. All control rods fully inserted. Safety relief valves 1821 F0051 C and 1821 F0051 D closed following the
+RPS actuation based on RPV pressure lowering below the low-low set reset closure setpoints, as designed. At
+1750 hours, notification was made to the NRC Operations Center (Reference ENF No. 51716) in accordance with
+1O CFR 50. 72(b) (2)(iv)(B), manual actuation of the RPS when the reactor is critical. This event is being reported in
+accordance with 1O CFR 50. 73(a)(2)(iv)(A) as an event or condition that resulted in manual actuation of the RPS.
+·-
+EVENT DESCRIPTION
+On February 8, 2016, at 1500 hours, With the plant in mode 1 at 100 percent rated thermal power, 11 SRVs
+partially opened and immediately closed. Two additional SRV's, 1821 F0051 C and 1821 F0051 D, fully opened as a
+result of the actuation of the low-low set function of the SRVs. With two SRVs open, suppression pool temperature
+began to increase. Initial suppression pool average temperature was approximately 79.6 degrees F. In accordance
+with plant operating procedures, control room operators initiated action to reduce reactor power to less than 96
+percent before attempting to close the open SRVs.
+lAt 1503 hours, with reactor power at approximately 96 percent, suppression pool average temperature reached 95
+degrees F and control room operators initiated a manual RPS actuation by placing the mode switch in the
+shutdown position as required by plant procedures. All control rods fully inserted. SRVs 1821 F0051 C and
+1821 F0051 D closed following the RPS actuation based on RPV pressure lowering below the low-low set reset
+closure setpoints as designed. At 1505 hours, emergency operating procedure, Containment Control, (EOP-02)
+was entered based upon suppression pool temperature greater than 95 degrees F. RPV pressure was stabilized
+and controlled by the turbine bypass valves [JI] exhausting to the main condenser [SG]. Residual Heat Removal
+system A (RHR) [BO] was placed in suppression pool cooling at 1516 hours, and removed from suppression pool
+cooling at 1611 hours, with suppression pool average temperature at 83 degrees F. EOP-02 was exited at 1557
+hours, following actions to lower suppression pool temperature below the entry condition. .
+Subsequent review of plant data identified that:
+• A momentary perturbation occurred (20 to 40 milliseconds) that only affected the RPV B reference
+leg instruments and not a valid reactor level or pressure transient as RPV pressure and level
+remained constant until the SRVs opened.
+• Thirteen SRV's had opened, 11 partially, as indicated by elevated tail pipe temperatures. Plant
+computer indications showed five additional SRV's received an open signal. The initiation signal
+·for the nineteenth SRV was too short in duration to be detected by the plant computer.
+• The division 2 1B21F051C and 1821F051D solenoid indicated energized on control room panels.
+• Division 2 RPV Water Level 8 signal was received.
+• Division 2 SCRAM signal received. (1/2 Scram received)
+• Division 2 Redundant Reactivity Control system [JC] low water level signal was received.
+• Main turbine, feedwater and Reactor Core Isolation Cooling [BN] system level 8 trips were
+received, although no actual' trip occurred, as desianed.
+NRC FORM 366A (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+Reported lessons.learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or
+by internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of
+LICENSEE EVENT REPORT (LER) Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and
+Budget, Washington, DC 20503. If a means used to impose an information collection does
+CONTINUATION SHEET
+not display a currenUy valid OMB control number, the NRG may not conduct or sponsor,
+and a cerson is not reauired to rescond to the information collection.
+3. LER NUMBER
+1. FACILITY NAME 2. DOCKET NUMBER YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant 05000-440 2016 002 0
+Located on the Main Steam Lines, between the RPV and the inboard main steam isolation valves (MSIVs) [SB],
+are 19 SRVs. These valves provide overpressure protection for the RPV. Each SRV is a spring-loaded, seal
+bonnet, angle-globe valve with an externally attached pneumatic operating cylinder. Each SRV can be operated
+either in the 'safety mode' or the 'relief mode'.
+In the 'safety mode', the SRVs open when system pressure rises above the SRV spring closing force. In-the 'relief
+mode' pneumatic operation of an SRV is the result of an electric command to an actuator solenoid. Energizing
+either the division 1 or the division 2 solenoid will open the SRV. The SRV opening logic is initiated on the receipt
+of a high reactor pressure vessel signal from two pressure transmitters. RPV instrumentation is connected to four
+referenc~ legs. The pressure transmitters that actuate the SRV division 2 solenoids are both connected to the
+RPV B reference leg.
+Each reference leg has an associated reference leg purge system. The reference leg purge system provides a
+constant flow of Control Rod Drive system (CRD) [AA] water into the four reference legs which is intended to
+prevent the migration of noncondensable gases into the reference leg. The CRD Purge system taps off the CRD
+charging water header and supplies purge water through separate reference leg purge panels into the reference
+legs.
+In order to reduce the number of SRVs that reopen following a reactor isolation event, 6 of the SRVs have a low
+low set function. This function is armed whenever any SRV opens in the relief mode. When the low-low set
+function is armed, the normal setpoints for the affected SRVs are overridden by the low-low set setpoints. For two
+of the SRVs (i.e., 821 F0051C and B21F0051 D), the low-low set function lowers both the open and'close
+setpoints. For the other 4 valves, only the close setpoint is lowered.
+CAUSE OF EVENT
+The direct cause of the event was a momentary pressure perturbation that was limited to the RPV B reference leg
+which caused the connected transmitters to sense RPV pressure and level changes that resulted in SRV
+actuation.
+~ir intrusion, most likely from not completely venting the B reference leg purge panel, due to not fully
+understanding the design of the purge panels, likely caused the pressure transient in the B RPV reference leg
+pressure transmitters.
+EVENT ANALYSIS
+The inadvertent actuation of all 19 SRVs is not an event that is specifically analyzed in the Perry Updated Safety
+~nalysis Report (USAR). However, the plant response would be similar and would be bounded by existing USAR
+analysis for the inadvertent/stuck open SRV (USAR Section 15.1.4) and MSIV Closure (USAR Section 15.2.4 and
+USAR 158.5.2.2). ,
+For a stuck open SRV event (ref USAR Section 15.1.4), the operators are directed by plant procedures to attempt
+closure of the open SRV to terminate the event but may eventually manually shutdown the reactor based on
+reaching Technical Specification limits on suppression pool temperature. As such; if multiple SRVs Opened, the
+response would be similar with a manual reactor SCRAM inserted based on suppression pool temperature as was
+the case in this event. ,
+For the MSIV closure/reactor over pressurization event (ref. USAR Section 15.2.4 and USAR 158.5.,2.2), all
+available SRVs are assumed to open based on the increasing reactor pressure and the reactor will automatically
+shutdown on high flux (no credit taken for initial shutdown signal with the MSIVs going closed for over- ·
+pressurization analysis). After the shutdown, steam will continue to blow down into the suppressi9n pool to control
+pressure. For this event, the analysis assumes that six SRVs are out of service to maximize the over
+pressurization of the reactor. As such, from an over-pressurization perspective it bounds the opening of all 19
+SRVs.
+NRC FORM 366A (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) Estimated burden per response to comply with this mandatory collection request: BO hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or
+by internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of
+LICENSEE EVENT REPORT (LER) Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and
+Budget, Washington, DC 20503. If a means used to impose an information collection does
+CONTINUATION SHEET not display a curren"y valid OMB control number, the NRC may not conduct or sponsor,
+and a oerson is not reouired to resoond to the information collection.
+3. LER NUMBER
+1. FACILITY NAME 2. DOCKET NUMBER YEAR SEQUENTIAL REV
+NUMBER NO.
+Perry Nuclear Power Plant 05000-440 2016 002 0
+During this event normal operational suppression pool temperature bands were challenged and suppression pool
+cooling was placed into service, however there was no challenge to suppression pool or containment temperature
+design based on the SRVs going closed immediately at the onset of the shutdown. Maximum suppression pool
+temperature was approximately 98.1 degrees F. With the plant in mode 3 at less than one percent thermal power
+the requirements of Technical Specification 3.6.2.1, Suppression Pool Average Temperature, were not exceeded
+as the as average temperature remained less than 11 O degrees F, as required by Limiting Condition for Operation
+3.6.2.1.c. Outside of the initial heat rejection to the suppression pool, no heat rejection to the containment
+structure was encountered as a result of the event.
+IA Probabilistic Risk Assessment (PRA) evaluation was performed for the manual RPS actuation. A conservative
+analysis of this plant shutdown indicates a conditional core damage probability (CCDP) of 2.81 E-7 which
+corresponds to a delta CDF of 2.81 E-7 /year. This delta CDF is well below the acceptable threshold of 1 E-6/year
+as discussed in Regulatory Guide 1.174 . The risk of this event is therefore considered very small in accordance
+with the Regulatory Guidance.
+CORRECTIVE ACTIONS
+Plant procedures will be revised, to ensure proper direction and guidance for when to startup, shutdown, and fill
+and vent of the purge panels. Additionally, a design change will be made to adjustthe time constants for affected
+transmitters to preclude actuation from short duration perturbations in the reference legs.
+PREVIOUS SIMILAR EVENTS
+IA review of LERs and the corrective action database for the past three years identified no previous similar events.
+COMMITMENTS
+There are no regulatory commitments contained in this report. Actions described in this document represent
+intended or planned actions, are described for the NRC's information, and are not regulatory commitments.
+NRC FORM 366A (11-2015)
+Enclosure B
+L:.16-109
+LER 2016-003, Loss of Safety Related Electrical Bus Results in a Loss of Shutdown Cooling

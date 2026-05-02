@@ -1,0 +1,374 @@
+Exelon Generation. ExelonGenerationCompany, LLC
+JamesA. FitzPatrickNPP
+P.O. Box 110
+Lycoming, NY13093
+Tel315-349-6024 Fax315-349-6480
+Timothy C. Peter
+PlantManager JAF
+—
+JAFP-17-0051
+June 5, 2017
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: LER: 2017-003, Inadvertent Isolation ofthe High Pressure Coolant
+Injection System
+James A. FitzPatrick Nuclear Power Plant
+Docket No. 50-333
+License No. DPR-59
+Dear Sir or Madam:
+This report is submitted in accordance with 10 CFR 50.73(a)(2)(v)(D), as a condition that could
+have prevented fulfillment of a safety function.
+There are no new regulatory commitments contained in this report.
+Questions Concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+Sincerely,
+Tin1’othy C. Peter
+Plant Manager
+TCP/WD/ds
+Enclosure: LER: 2017-003, Inadvertent Isolation ofthe High Pressure Coolant
+Injection System
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBY0MB; NO.3150-0104 EXPIRES: 03/3112020
+(06-2016)
+V Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours, Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+- commentsregardingburdenestimatetothe FOIA, PrivacyandInformabon Cotlechons Branch (T
+, 5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mailto
+lntocollectn.Resourcenrc.gov,
+(SeePage2forrequirednumberofdigits/charactersforeach block) NEOB-10202,(3150-0104),Offic a e nd of to M th a e na D g e e s m k e O n f t f a ic n e d r, B O u ff d ic g e et o , f W In a fo sh rm in a g ti t o o n n, an D d C 2 R 0 e 5 g 0 u 3 la . to If ry a A m f e fa a i n rs s ,
+(See NUREG-1022, R.3fori.nstruction and guidanceforcompletingthi.sform usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MB controlnumber,the
+httpilwww.nrc.govlreading-rmldoc-collectionslnuregslstafflsrl0221r3l)
+c
+N
+o
+R
+ll
+C
+ech
+m
+o
+a
+n
+y notconductorsponsor, and a person is notrequired to respond to, theinformation
+1. FACILITYNAME 2. DOCKETNUMBER 3. PAGE
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 4
+4. TITLE
+Inadvertent Isolation of the High Pressure Coolant Injection System
+5. EVENTDATE 6. LER NUMBER 7. REPORTDATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SE N Q U U M EN BE T R IAL RE N V O MONTH DAY YEAR FACILITYNAME DOCKETNUMBER
+N/A N/A
+FACILITYNAME DOCKETNUMBER
+4 4 2017 2017 - 003 - 00 6 5 2017 N/A N/A
+9. OPERATINGMODE 11.THIS REPORT15SUBMITTED PURSUANTTOTHEREQUIREMENTS OF 10 CFR§: (Checkallthatapply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(v8i)(A)
+20.2201(d) 20.2203(a)(3)(H) 50.73(a)(2)(H)(B) 50.73(a)(2)(v8i)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)Øii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)C)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWERLEVEL 20.2203(a)(2)(U) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+U 20.2203(a)(2)(Ui) 50.36(c)(2) 50.73(a)(2)(v)(B) Jj 73.71(a)(5)
+20.2203(a)(2)v) 50.46(a)(3)Øi) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+U
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(0)
+50.73(a)(2)Ø)(C) OTHER SpecifyinAbstractbeloworin NRCForm366A
+12.LICENSEECONTACTFORThIS LER
+LICENSEECONTACT
+TELEPHONENUMBER(IncludeAreaCode)
+Mr. William Drews, RegulatoryAssurance Manager
+315-349-6562
+13. COMPLETEONELINEFOREACH COMPONENTFAILURE DESCRIBED INTHIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A TU NU R - ER REP T O O R E T P A IX BLE CAUSE SYSTEM COMPONENT I FA M C A T N U U R - ER REP T O O R E T P A IX BLE
+A BJ N
+14. SUPPLEMENTALREPORTEXPECTED
+15. EXPECTED MONTH DAY YEAR
+EJ SUBMISSION
+YES (Ifyes, complete 15. EXPECTED SUBMISSIONDATE) NO
+DATE
+ABSTRACT (Limitto 1400spaces,i.e.,approximately15single-spacedtypewnftenlines)
+On April 4, 2017 at 0735, with the James A. FitzPatrick Nuclear Power Plant operating in Mode 1 at 100 percent power
+the High Pressure Coolant Injection System (HPCI) was inadvertently isolated during the performance of l&C testing.
+Technicians were in the process of performing instrument surveillance tests for low pressure emergency core cooling
+systems when a trip signal was applied to the incorrect instrument. This caused a HPCI System isolation signal on High
+Area Temperature, resulting in the closure ofthe HPCI steam isolation valves. The surveillance testing was aborted and
+the HPCI system was restored.
+HPCI is a single-train system; therefore, the inadvertent isolation is being reported as an event or condition that could
+have prevented fulfillment ofthe safety function ofa system needed to mitigate the consequences ofan accident per 10
+CFR 50.73(a)(2)(v)(D).
+NRCFORM366(06-2016)
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVED BY0MB: NO. 3150-0104 EXPIRES: 0313112020
+(06-2016)
+.,&‘“ ‘“c,
+LICENSEE EVENT REPORT (LER) E
+le
+s
+s
+h
+s
+m
+on
+a
+s
+ted
+lea
+b
+r
+u
+n
+r
+e
+d
+d
+en
+ar
+p
+e
+er
+in
+r
+c
+e
+o
+s
+r
+p
+p
+o
+or
+n
+a
+s
+t
+e
+ed
+to
+in
+c
+t
+o
+o
+m
+th
+p
+e
+ly
+li
+w
+ce
+th
+nsi
+th
+n
+i
+g
+n
+p
+m
+r
+a
+o
+n
+c
+d
+es
+a
+s
+tor
+a
+y
+nd
+co
+f
+l
+e
+l
+d
+ect
+b
+io
+ac
+n
+k
+re
+to
+qu
+in
+e
+d
+s
+u
+t:
+st
+8
+ry
+0
+.
+ho
+S
+u
+e
+r
+n
+s
+d
+.
+co
+R
+m
+ep
+m
+o
+e
+rt
+n
+e
+t
+d
+s
+y’ CONTINUPTION SHEET regardingburdenestimatetothe FOIA, PrivacyandIntormation Collections Branch (T-5 F53), U.S.
+‘% ‘ ç /j l N n u fo c c le o a ll r ects. R R e e g s u o l u a r to c r e y @nrc C .g o o m v m , i a s n s d ion to , the W D a e s s h k in O gt f o fi n c , er,O D ff C iceof 20 In 5 f 5 o 5 r - m 0 a 0 t 0 io 1 n , an o d r R by egulato e r - y m A ai f l fairs to ,
+% NEOB-10202, (3150-0104), OfficeofManagementand Budget,Washington, DC 20503. Ifa means
+* usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MB controlnumber,the
+(See NUREG-1022, R.3for instruction and guidanceforcompletingthis form NRCmaynotconductorsponsor.andapersonisnotrequiredtorespondto, theinformahoncollechon.
+http:I/wwvv.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r3/)
+1. FACILITY NAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 333 NUMBER NO.
+—
+2017 —003 —00
+NARRATIVE
+Background
+The High Pressure Coolant Injection (HPCI) System [EllS Identifier: BJJ is part ofthe Emergency Core Cooling
+System (ECCS); HPCI provides and maintains an adequate coolant inventory inside the Reactor Pressure
+Vessel [RPVJ to prevent damage to the reactor core under postulated accident scenarios. The system is
+comprised of various components which include a turbine, pumps, valves, piping, and instrumentation. The
+HPCI System may be initiated by automatic or manual means; although, manual initiation requires
+manipulation of individual pump and valve control switches. Automatic initiation occurs for conditions of
+Reactor Vessel Water Level ‘Low Low” or Drywell Pressure “High.” Automatic isolation occurs upon receipt
+— —
+ofthe following signals: high steam flow, high temperature in the HPCI equipment area, low steam supply
+pressure, high turbine exhaust pressure, and high suppression pool area temperature.
+HPCI area temperatures are provided to detect a leak from the associated system steam piping. The isolation
+occurs when a leak has occurred and is diverse to the high flow instrumentation. Ifthe leak is allowed to
+continue without isolation, offsite dose limits may be reached. The HPCI area isolation function is not assumed
+in any UFSAR transient or accident analysis since bounding analyses are performed for large breaks such as
+recirculation or main steam line breaks. Area Temperature-High signals are initiated from resistance
+temperature detectors (RTD5) that are appropriately located to protect the system that is being monitored. Two
+instruments monitor each area for a total of 16 channels for HPCI. All channels for each HPCI Area
+Temperature High Function are available and are required to be operable to ensure that no single instrument
+-
+failure can preclude the isolation function. The Allowable Values are set high enough above normal operating
+levels to avoid spurious operation but low enough to provide timely detection of a steam leak.
+Event Description
+On April 4, 2017, I&C technicians were performing ISP-i75B1, Reactor and Containment Cooling Instrument
+Functional Test I Calibration, when the HPCI System was inadvertently isolated. ISP-i75B1, Step 9.4.5 directs
+the connection of a DC voltage source on 02-3MTU-252B (Reactor Pressure Interlock CSP/RHR/RHR SDC
+Master Trip Unit). While performing the Core Spray test, the technician at the trip unit mistakenly connected
+the energized voltage source to the adjacent trip unit, 23MTU-217B (HPCI Area Temp Hi Master Trip Unit),
+afterthe lead had become disconnected. Flagging was used at the start ofthe test but when the lead became
+disconnected it removed the installed flagging. The worker identified the incorrect component and installed the
+test lead into the HPCI trip unit. The error was immediately identified by the unexpected receipt of
+annunciators. The test was stopped, the technician at the 09-96 panel was removed from the field and a plan
+was developed and executed to abort the test and restore conditions to normal for HPCI.
+The following is a timeline of pertinent events on April 4, 2017:
+0730— Commencement of ISP-i75B1, Reactor and Containment Cooling Instrument Functional
+Test/Calibration
+0735 HPCI inoperable due to inadvertent isolation; Reactor Core Isolation Cooling (RCIC) [BN] verified
+—
+operable and protected per procedure
+1038 Isolation verification and recovery complete; Hi-Hi Temperature Isolation restored to normal
+—
+1132 Completed NRC Notification ENS 52664, and informed resident
+—
+1238 HPCI restored to operable status
+—
+NRCFORM366A(O6-2016) Page 2 of4
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 0313112020
+(06-2016)
+“r., LICENSEE EVENT REPORT (LER) E le s s t s i o m n a s te l d ea b r u n r e d d en ar p e er in r c e o s r p p o or n a s t e ed to in c t o o m th p e ly li w c i e t n h si t n h g is p m r a o n c d e a ss tor a y nd co f l e l d ect b i a o c n k re to qu in e d st u : st 8 ry 0 . ho S u e r n s d . co R m ep m o e r n te t d s
+y . regardingburdenestimatetothe FOIA, PrivacyandInformation Cotections Branch (1-5 F53),U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+u .,, ’ lnfocollects.Reoourcenrc.gov,andtotheDeskOfficer,OfficeofInformation and RegulatoryAffairs,
+‘ NEOB-10202, (3150-0104),OfficeofManagementand Budget,Washington, DC 20503 If a means
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlynalid0MB controlnumber,the
+(See NUREG-1022, R.3forinstruction and guidanceforcompletingthisform NRCmaynotconductorsponsor.andapersonisnotrequiredtorespondto, theinformatoncotechon,
+http:l/iwiw.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r3/)
+1. FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatriCk Nuclear Power Plant 05000 333 NUMBER NO.
+—
+2017 —003 —00
+Cause
+The active error and event were the result ofthe l&C technician mistakenly connecting the energized voltage
+source to an adjacent trip unit, 23MTU-217B (HPCI Area Temp Hi Master Trip Unit). The error was
+immediately identified by the unexpected receipt of control room annunciatots which indicated the HPCI
+system had isolated. The Senior l&C technician in the Control Room subsequently questioned the l&C
+technician at Panel 09-96 in the Relay Room as to what action had just been performed, and directed all work
+to be stopped immediately.
+The apparent cause was identified as failure to implement the requited human performance tools. The l&C
+technician failed to stop and reverify the correct component priorto re-landing the test lead and proceeding
+with the task after conditions had changed.
+Similar Events
+Browns Ferry Nuclear Plant, Unit 3: LER 2016-006-00, High Pressure Coolant Injection System Found to be
+Inoperable During Testing
+Limerick Generating Station, Unit 2: LER 2015-005-00, Condition that Could Have Prevented Fulfillment of the
+High Pressure Coolant Injection (HPCI) System Safety Function
+Corrective Actions
+Completed Actions
+• All work immediately stopped; RCIC verified operable, and protected per procedure
+• HPCI operability restored per OP-i5, High Pressure Coolant Injection
+• NRC notified via ENS 52664
+• I&C technician qualifications removed
+• Increased observations, peer checks, and validation of l&C activities
+Safety Significance
+Nuclear Safety
+Actual Consequences
+There were no actual nuclear safety consequences during this period as a result ofthis event.
+Potential Consequences
+This event resulted in the inoperability of the single train HPCI system for approximately five (5) hours. The
+HPCI System is provided to ensure that the reactor is adequately cooled to limit fuel clad temperature in the
+event of a small break in the Reactor Coolant System piping with a loss-of-coolant which does not result in
+rapid depressurization ofthe reactor vessel. The HPCI System permits the plant to be shut down while
+maintaining sufficient reactor vessel water inventory until the reactor vessel pressure is below the pressure at
+which either the Low Pressure Coolant Injection (LPCI) [BOJ or Core Spray [BMJ System can maintain core
+cooling.
+Several alternate methods were available to Operations personnel in the event of an emergency to provide
+core cooling, and mitigation of the consequences of an accident. In the event of HPCI inoperability during a
+design basis accident, adequate core cooling is ensured by the operability of the other ECCS injection/spray
+subsystems in conjunction with the Automatic Depressurization System (ADS). The JAF Operations Log was
+reviewed to determine if the ADS orthe low pressure ECCS were inoperable during the period ofthe HPCI
+NRCFORM366A(06-2016) Page 3 of4
+NRC FORM 366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBY 0MB: NO. 3150-0104 EXPIRES: 0313112020
+(06-2016)
+.,&‘ ,, “‘•., LICENSEE EVENT REPORT (LER) E le s s t s i o m n a s te l d ea b r u n r e d d en ar p e er in r c e o s r p p o or n a s t e ed to in c t o o m th pl e y li w c i e t n h si t n h g is p m r a o n c d e a ss tor a y nd co f l e l d ect b io ac n k re to qu in e d st u : st 8 ry 0 . ho S u e r n s d . co R m ep m o e r n te t d s
+‘W’ regardingburdenestimatetothe FOIA, PrivacyandInformation Collections Branch (T-5 F53), U.S.
+.. ,, Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+% - ...‘ N ln E f O oc B o -1 lle 0 c 2 t 0 s 2 .R , e (3 s 1 o 5 u 0 rc -0 e 1 n 0 r 4 c ) .g , o O v f , fi a c n e d of to M th a e na D g e e s m k e O nt ffi a c n e d r, B O u ff d ic g e et o , f W In a f s o h rm in a g t t i o o n n , an D d C 2 R 0 e 5 g 0 u 3 l , at I o f ry a A m f e fa a i n rs s ,
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MB controlnumber,the
+(See NUREG-1022. R.3forinstruction and guidanceforcompleting this form NRCmaynotconductorsponsor.andapersonisnotrequiredtorespondto, theinformahoncollechon.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl022/r31)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 333 NUMBER NO.
+—
+2017 —003 —00
+system inoperability. The ADS, Core Spray and LPCI were confirmed to oe operable during the period of HPCI
+inoperabiIity.
+In addition, the approximate five (5) hours of HPCI inoperability is well belowthe TS LCD 3.5.1 .C completion
+time offourteen (14) days. Based on the above, during the period that the HPCI system was inoperable,
+sufficient systems were available to provide the required safety functions to protect the health and safety ofthe
+public. Therefore, no significant reduction in the health and safety ofthe public or plant personnel is associated
+with this event.
+Radiological Safety
+There was no radiological safety impact associated with this event.
+Industrial Safety
+There was no industrial safety impact associated with this event.
+References
+• Issue Report No. 03993791, Connection ofTest Equipment to Incorrect Component
+• JAF Technical Specifications
+NRCFORM366A(06-20161 Page 4 of4

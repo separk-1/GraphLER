@@ -1,0 +1,186 @@
+-
+"'=' Entergy
+Entergy Operations, Inc.
+P.O. Box 756
+Port Gibson, Mississippi 39150
+Jeff A. Hardy
+Regulatory Assurance Manager
+Grand Gulf Nuclear Station
+Tel: 601-437-7500
+10 CFR 50.73
+G N RO-2021 /00021
+August19,2021
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Grand Gulf Nuclear Station, Unit 1 Revised Licensee Event Report 2020-
+004-01
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+Renewed License No. NPF-29
+Attached is revised Licensee Event Report 2020-004-01, Automatic Reactor Scram Due to
+Reactor Feed Pump Trip. This report is being submitted in accordance with 10 CFR
+50.73(a)(2)(iv)(A), for any event or condition that resulted in manual or automatic actuation of
+the Reactor Protection System (RPS).
+This letter contains no new Regulatory Commitments. Should you have any questions
+concerning the content of this letter, please contact Jeff Hardy, Regulatory Assurance Manager
+at 269-764-2011.
+Sincerely,
+(JA~\~:
+Jeff A. Hardy
+JAH/fas
+Attachments: Revised Licensee Event Report 2020-004-01
+GNRO-2021/00021
+Page 2 of 3
+cc: NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U.S Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+G N RO-2021 /00021
+Page 3 of 3
+Attachment
+Revised Licensee Event Report 2020-004-01
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: BO
+hours. Reported lessons learned are incorporated into the hcensing process and fed back
+<>"'*"lauc., to Industry. Send comments regard ng burden estimate to the Information Services
+/' \. LICENSEE EVENT REPORT (LER) Branch (T-6 A1 O M), U S, Nuclear Regulatory Commission, Washington, DC 20555-0001,
+i ~ ) or by e-mail to lnfocol\ects.Resource@nrc gov, and the 0MB reviewer at: 0MB Office of
+(See Page 3 for required number of digits/characters for each block) Information and Regulatory Affatrs, (3150-0104), Attn: Desk Officer for the Nuclear
+Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-maH,
+\ ,, .•/ (See NUREG-1022, R.3 for instruction and guidance for completing this form oira subm1ss1on@omb.eop gov The NRC may not conduct or sponsor, and a person is
+• ,. * f<" httg://www.nrc.gov/read1ng-rrn/doc-collections/nu r~s/sta ff/sr1022/r3i) not required to respond to, a col ect1on of 1nformat1on unless the document requesting or
+requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number I3.Page
+Grand Gulf Nuclear Station, Unit 1 05000 416 1 OF3
+4. Title
+A, "' ,.;,., ;, RP.;:ir.tnr ~ccarn Due Io Beactor FP.P.rl Pt Jmn Trin
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year F N a / c A il ity Name Docket Number
+Number No. 05000 N/A
+Facility Name Docket Number
+08 24 2020 2020 -004 - 01 08 19 2021
+N/A 05000 N/A
+9. Operatrg Mode 110. Pov.erlewl
+1 14
+11. This Report is Submitted Pursuant to the ReQuirements of 10 CFR §: (Check all that aoo/vJ
+10 CFR Part 20 0 20.2203(a)(2)(vi) D 50.36(c)(2) 15<1 50. 73(a)(2)(iv)(Al 0 50.73(a)(2)(x)
+0 20.2201 (bl D 20.22ostaH3Hil D 50.46taH3Hiil 0 50.73(a)(2)(vl/Al 10CFRPart73
+0 20.2201/dl D 20.22os1aH3Hiil D 50.691n) D 50.73(a)(2)(v)(B) D 73.71/aH4l
+D 20.22oscaH1 l D 20.22oscaH4l 0 50.73(aH2HiHAl D 50.73(al(2)(v)(C) D 73.71/aH5l
+D 20.2203(aH2l(i) 10 CFR Part21 0 50.73(aH2Hil(Bl D 50.73(a)(2)(v)(D) D 73.77{al/1)(i)
+0 20.22osraH2Hiil D 21.2rcl 0 50.73(al/2l/il/Cl n 50.73(a)(2l/viil 0 73.77(a)(2Hil
+0 20.2203(aH2Hiiil 10CFR Part SO 0 50.73/al/2)( i)(Al D 50.73(a)(2)(viii)(A) D 73.77(aH2Hiil
+n 20.2203(aH2l/iv) n 50.36(c)(1 )(i)(A) 0 50.73(a)(2)( il(B) 0 50.73(al(2)(viiil(B)
+0 20.2203(al(2l(v) 0 50.36(cl(1 l(iil(A) D 50.731aH2Hi il 0 50.73(al/2HixHAl
+D
+Other (Soecifv here, in abstract, or NRC 366Al
+12. Licensee Contact for this LER
+Licensee Contact rrephone Number (Include Area Code)
+I J eff Hardy, Manager Regulatory Assurance I ( so1 l 437-2103
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+X SJ V ABB/Bailey y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+□ Yes (If yes, complete 15. Expected Submission Date) [8J No NIA N/A N/A
+~bstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 2305 CT on August 24, 2020, while operating in MODE 1 at approximately 14 percent power, Grand Gulf Nuclear Station
+experienced an automatic Reactor scram after a trip of Reactor Feed Pump (RFP) B and subsequent lowering of reactor water level
+to 11.4 inches Narrow Range.
+The root cause of the event was that the Reactor Feed Pump "B" Minimum Flow Valve positioner installed during
+Preventive Maintenance activities failed due to infant mortality within approximately 29 hours of service. This caused the
+minimum flow valve to close and tripped the pump on low suction flow.
+Immediate action was replacement and satisfactory testing of the positioner for RFP B prior to unit restart. Additionally, the
+positioner for the RFP A Minimum Flow Valve was replaced as part of the initial extent of condition review.
+The corrective action for the root cause is to develop work instructions for those Air Operated Valves (AOV) using
+ABB/Bailey AV1 or AV2 series positioners to inspect the positioners prior to installation.
+There were no consequences to the safety of the public, nuclear safety, industrial safety, or radiological safety. This report was made
+in accordance with 10 CFR 50.73(a)(2)(iv)(A), as any event or condition that results in actuation of the Reactor Protection System.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed
+LICENSEE EVENT REPORT (LER) back to industry. Send comments regarding burden estimate to the Information
+Services Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC
+CONTINUATION SHEET 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+at: 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer
+(See NUREG-1022, R.3 for instruction and guidance for completing this form for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC
+20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.qov/reading-rm/doc-collections/nuregs/staff/sr1022/@/)
+sponsor, and a person is not required to respond to, a collection of information unless
+the document requesting or requiring the collection displays a currently valid 0MB
+control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2020 -004 -01
+NARRATIVE
+Plant Conditions:
+Grand Gulf Nuclear Station (GGNS) Unit 1 was operating at approximately 14 percent power in MODE 1 following forced
+outage FO-23-02. Reactor Feed Pump (RFP) B was in service through the startup level control valve with RFP A in
+standby. The main generator was offline at the time of the event. There were no structures, systems or components that
+were inoperable that contributed to this event.
+Event Description:
+At 2305 CT on August 24, 2020, while operating in MODE 1 at approximately 14 percent power, GGNS experienced an automatic
+Reactor scram after a trip of Reactor Feed [SJ] Pump B, reactor water level subsequently lowered to the scram setpoint of 11.4
+inches Narrow Range.
+Reactor feedwater was being supplied by the RFP B through the Startup Level Control Valve. The RFP A was in standby
+as only one feed pump was required to maintain sufficient inventory for this power level. At 2304, RFP B tripped due to a
+low suction flow condition. Operations personnel initiated immediate actions to place RFP A in service. However, before
+RFP A could be placed in service, an automatic reactor scram occurred on low water level.
+Follow-up investigation revealed that the low feed pump suction flow condition occurred as a result of the RFP B minimum
+flow valve (1 N21 F503B) failing closed. During troubleshooting, an attempt was made to drive the valve locally, but the
+valve was unresponsive. The cover of the valve's positioner (1 N21 R0B5B) was removed, and it was discovered that the
+positioner's pilot valve was stuck. Technicians were able to exercise the pilot valve which allowed the positioner to control
+the valve. The positioner was subsequently replaced, and the failed positioner was sent to a vendor for failure analysis.
+All control rods fully inserted and there were no complications. All systems responded as designed. Main Steam Isolation
+Valves were manually closed to control reactor cooldown rate. Reactor water level was being maintained with the
+condensate system.
+This event was reported under 10 CFR 50.72(b)(2)(iv)(B), as any event or condition that results in actuation of the Reactor
+Protection System when the reactor is crttical. (EN 54855.)
+This report is made in accordance with 10 CFR 50.73(a)(2)(iv)(A), any event or condition that resulted in manual or automatic
+actuation of the Reactor Protection System.
+Safety Assessment:
+The Reactor scram due to the reactor feed pump trip did not result in actual consequences to safety of the
+general public, nuclear safety, industrial safety, or radiological safety. The safety significance of this event is
+determined to be low. There were no actual nuclear safety consequences or radiological consequences during
+the event.
+Event Cause(s):
+The direct cause of the condition was that the pilot valve for the Reactor Feed Pump "B" Minimum Flow Valve's positioner
+stuck in a position that resulted in the minimum flow valve going closed. This directly resulted in the RFP low suction flow
+condition that triooed RFP B.
+NRG FORM 3668 (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80
+_,,,,, ....... ' . . .. hours. Reported lessons learned are incorporated into the licensing process and fed
+LICENSEE EVENT REPORT (LER) back to industry. Send comments regarding burden estimate to the Information
+\.j
+Services Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC
+....... CONTINUATION SHEET 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+at: 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer
+(See NUREG· 1022, R.3 for instruction and guidance for completing this form for the Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC
+20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r31}
+sponsor, and a person is not required lo respond to, a collection of information unless
+the document requesting or requiring the collection displays a currently valid 0MB
+control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENT IA REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO
+2020 -004 -01
+The root cause of the event was that the Reactor Feed Pump "B" Minimum Flow Valve positioner installed during
+Preventive Maintenance activities failed due to infant mortality within approximately 29 hours of service. This caused the
+malfunctioning pilot valve condition, resulting in the minimum flow valve going closed and tripping RFP B on low suction
+flow. The condition was a latent issue (manufacturer defect) not identified by functional testing at the time the part was
+received.
+Corrective Actions:
+The failed positioner for the RFP "B" Minimum Flow Valve was replaced and tested satisfactorily prior to unit restart.
+Additionally, the positioner for the RFP "A" Minimum Flow Valve was also replaced as part of the initial extent of condition
+review. These actions were completed.
+The corrective action to Preclude Repetition was to develop work instructions for those Air Operated Valves (AOV) using
+ABB/Bailey AV1 or AV2 series positioners to inspect the positioners prior to installation. This action has been completed.
+Previous Similar Events:
+None.
+NRC FORM 366A (06-2016) Page 3 of 3

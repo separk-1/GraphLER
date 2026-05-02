@@ -1,0 +1,430 @@
+/
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+January 15, 2019
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2018-004-01
+Reference: Letter from TVA to NRC, "Licensee Event Report 50-259/2018-004-00,"
+dated September 7, 2018
+Pursuant to 10 CFR 50.73(a)(2)(v)(A), (8), and (D), Browns Ferry Nuclear Plant hereby
+submits supplemental Licensee Event Report (LER) 50-259/2018-004-01 which documents
+the inoperability of the Browns Ferry Nuclear Plant, Unit 1, High Pressure Coolant Injection
+system. The enclosed LER has been revised to document a revision of the Level 2
+Apparent Cause Evaluation which was initiated at the time when the referenced report was
+submitted to the NRC.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact M. W. Oliver, Acting Nuclear Site
+Licensing Manager, at (256) 729-7874.
+Enclosure: Licensee Event Report 50-259/2018-004-01 - High Pressure Coolant Injection
+Declared Inoperable due to Steam Supply Valve Isolation
+U.S. Nuclear Regulatory Commission
+Page 2
+January 15, 2019
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 1
+Licensee Event Report 50-259/2018-004-01
+High Pressure Coolant Injection Declared Inoperable due to Steam Supply Valve Isolation
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request 80 hoUlli.
+ReportBd lessons leaned ae incorporated into the licensing process and led back to
+industry. Send comments regarding burden estimale to the Information Services 8raoch
+LICENSEE EVENT REPORT (LER) (T-2 F43). U.S. Nuclear Regulatory Commission, Washington, DC 2055~001,or by e-mail
+to lnfocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+Washington, DC 20503. If a means used to impose an information rolection does not
+display a cU1Ten!y valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF 8
+4. Title
+Hiqh Pressure Coolant Injection Declared Inoperable due to Steam Supply Valve Isolation
+5. Event Date 6. LER Number I 7. Report Date 8. Other Facilities Involved
+I
+Sequential Rev Facilrty Name Docket Number
+Month Day Year Year Month Day Year N/A N/A
+Number No.
+07 09 2018 2018 - 004 - 01 01 15 2019 Facility Name Docket Number
+N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) C8J 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D D C8J D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) C8J 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER !
+Licensee Contact Telephone Number (Include Area Code)
+Justin Garner, Licensing Engineer 256-729-7955
+13. Complete One Line for each Component Failure Described in this Report
+I I I I I I I
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B I BJ I PS S382 I Y I N/A I N/A I N/A NIA I N/A
+14. Supplemental Report Expected Month Day Year
+D Yes (If yes, complete 15. Expected Submission Date) C8J No 15. Expected Submission Date N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On July 9, 2018, during performance of surveillance procedure 1-SR-3.3.6.1.2(38), High Pressure Coolant Injection
+System Steam Supply Low Pressure Functional Test, an unexpected High Pressure Coolant Injection (HPCI) isolation
+occurred. The isolation was discovered at 1111 Central Daylight Time (CDT) during a walkdown of the Unit 1 Control
+Room when the Unit Operator identified that the inboard and outboard HPCI steam supply valves were closed.
+It was determined that the valves had closed at approximately 0958 CDT during performance of 1-SR-3.3.6.1.2(38).
+Unit 1 entered Technical Specifications (TS) Limiting Condition for Operation (LCO) 3.5.1, ECCS -Operating, Condition C,
+at approximately 1111 CDT, which required restoring HPCI to operable status within 14 days and verification that Reactor
+Core Isolation Cooling (RCIC) is operable by administrative means. Following successful completion of the functional test,
+HPCI was placed in standby readiness lineup. The HPCI system was declared operable on July 10, 2018, at 1342 CDT.
+During the period of Primary Containment Isolation, the HPCI system was unable to perform its safety function. However,
+in an emergency, sufficient systems were available to provide the required safety functions.
+The most likely cause of the unexpected HPCI isolation during performance of the HPCI test was determined to be past
+operation of the HPCI steam supply low pressure switches at an electrical current level near the manufacturer's rating,
+which resulted in degradation of the switch electrical contacts. The degradation eventually resulted in momentary arcing
+during functional testing of an adjacent switch, which energized the downstream logic relays causing Unit 1 HPCI to
+isolate. The corrective action for this event is to revise procedures 1/2/3-SR-3.3.6.1.2(3B) to lift a wire for the pressure
+switch under test and then re-land the wire prior to moving to the next pressure switch.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION .. ·- --CH vml:I: l'IV. 31;,u-u IU4 Cl\rl"c;:,: U.01.01/.<U.<U
+(04-2018)) Estimated burden per response to comply with this mandatory collection request 80 oours.
+Reported lessons le11'Tled are incorporated into the licensing process and fed ba,k to
+industry. Send comments regarding burden estimate to the lnfoonation Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 2055!>0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and to the Desk Officer, Office of lnfolTTlation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budge~
+CONTINUATION SHEET Washington, DC 20503. If a means used to ilf!)()Se an infoonation collection does not
+display a cLJTen11y valid OMS control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 004 01
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was in Mode 1 at
+approximately 100 percent rated thermal power.
+II. Description of Event
+A. Event Summary
+On July 9, 2018, at approximately 0920 Central Daylight Time (CDT), BFN Instrumentation
+and Control Maintenance personnel (MIG) commenced a scheduled High Pressure Coolant
+Injection (HPCl)[BJ] System Steam Line Supply Low Pressure Functional Test
+[WO 118568097/1-SR-3.3.6.1.2(3B)]. This Surveillance Requirement (SR) involves closing
+Pressure Switches (PS)[PS] 1-PS-073-0001A and 1-PS-073-0001C, which are in the logic
+circuit for automatic low-pressure induced closure of HPCI isolation valves [ISV].
+At approximately 1111 CDT during a walkdown of the Unit 1 Control Room, the HPCI Steam
+Line inboard and outboard isolation valves (1-FCV-73-0002 and 1-FCV-73-0003)[FCV] were
+found closed. Operations personnel entered Abnormal Operating Instruction 1-AOl-64-2B,
+Group 4 HPCI Isolation. After investigation, it was found that the valves closed at 0958 CDT
+during performance of Surveillance Functional Test; therefore, HPCI was declared inoperable
+retroactive to 0958 CDT. The Primary Containment Isolation System (PCIS) Group 4 Isolation
+was subsequently determined to be caused by a deficiency on the PS which allowed the
+circuit to complete while another PS was taken closed for testing.
+In response to HPCI system inoperability, BFN, Unit 1, entered Technical Specifications (TS)
+Limiting Condition for Operation (LCO) 3.5.1, Emergency Core Cooling Systems (ECCS) -
+Operating, which requires each ECCS injection/spray subsystem and the Automatic
+Depressurization System (ADS) function of six safety/relief valves to be operable in reactor
+Modes 1, 2, and 3. Condition C was entered due to HPCI inoperability, with required actions
+to immediately verify Reactor Core Isolation Cooling (RCIC)[BN] operable by administrative
+means and restore HPCI to operable status within 14 days. RCIC was verified operable by
+Operations personnel.
+On July 9, 2018, at 1310 CDT, MIG completed the HPCI System Steam Supply Low Pressure
+Functional Test satisfactorily. At 1342 CDT on July 10, 2018, Operations personnel declared
+HPCI operable and exited TS LCO 3.5.1 Condition C.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of
+the Code of Federal Regulations (10 CFR) 50.73(a)(2)(v)(A), (B), and (D), as any event or
+condition that could have prevented the fulfillment of the safety function of structures or
+systems that are needed to shut down the reactor and maintain it in a safe shutdown
+condition, remove residual heat, or mitigate the consequences of an accident.
+NRG FORM 366A (04-2018) Page _2_ of _8_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ,. ,-,cu t:IY vmc: ....... v cAr1nc~:
+(04-2018)) Estimated burden per response to comply with this mandato<y collection request 80 hours.
+Reported lessons lea-ned .re incorporated into the licensing process and fed back to
+industry. Send comnnents regarding burden estimate to the lnloonation Services Branch [T-
+2 F43), U.S. Ntx:lea-Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and to the Desk Officer, Office of lnfom,ation and
+Regulato<y Affars, NEOB-10202, (3150-0104), Office of Managennent and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an inloonation collection does not
+display a cITTently valid OMS control number, the NRC may not conduct or sponsor, and a
+person is rot required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 004 01
+NARRATIVE
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+July 9, 2018, 0920 CDT MIG commenced 1-SR-3.3.6.1.2(3B) - HPCI System
+Steam Supply Low Pressure Functional Test.
+July 9, 2018, 0958 CDT Isolation valves closed.
+July 9, 2018, 1111 CDT Isolation valves were found closed. HPCI declared
+inoperable and determined to have been inoperable
+since 0958 CDT. Entered TS LCO 3.5.1
+Condition C.
+July 9, 2018, 1253 CDT HPCI declared available, but inoperable. Exited
+1-AOl-64-2B.
+July 9, 2018, 1310 CDT MIG satisfactorily completed 1-SR-3.3.6.1.2(3B) -
+HPCI System Steam Supply Low Pressure
+Functional.
+July 10, 2018, 1342 CDT HPCI declared operable. Unit 1 exited TS LCO
+3.5.1 Condition C.
+D. Manufacturer and model number of each component that failed during the event
+Two PSs were identified as the potential points of failure (1-PS-073-0001A and
+1-PS-073-0001C). Both were manufactured by Static-0-Ring (SOR). The manufacturer part
+number is 5N6-B3-U8-C1A-JJTTNQ. The electrical portion of the SOR PS used in the HPCI
+steam supply low pressure logic is a Honeywell Micro Switch brand microswitch, part number
+11SM244.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+The unexpected Unit 1 HPCI system isolation was discovered by the Unit Operator on
+observation of the Control Room panel. Light indications in the Control Room include the
+position indication lights for the HPCI inboard steam isolation valve and the HPCI outboard
+steam isolation valve. Additionally, the lamps for Group 4 of the Containment Isolation Status
+System would have illuminated when the isolation signal was present.
+NRC FORM 366A (04-2018) Page _3_ of _8_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION N ,~,cu t:IY vmo: .. v. ~ 1;,u-u ,u.. cAr'IKt::>:
+(04-2018)) Estimated burden per response to comply wi1h this mandatory collection request 80 hours.
+Reported lessons le..-ned ..-e incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. N..:le..-Regulatory Commission, Washing1Dn, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washing1Dn, DC 20503. If a means used to impose an information collection does oot
+display a curently valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 004 01
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component
+The failure mechanism was determined to be electrical contact degradation due to loading
+near the manufacturer's rated values for the microswitch in the HPCI steam supply low PS.
+This resulted in momentary arcing during functional testing of an adjacent switch, which
+energized the logic relays and caused Unit 1 HPCI to isolate.
+H. Operator actions
+Upon receipt of the BFN, Unit 1, PCIS Group 4 Isolation:
+• Entered Abnormal Operating Instruction 1-AOl-064-0002B, Group 4 High Pressure
+Coolant Injection Isolation.
+• Declared BFN, Unit 1, HPCI inoperable and unavailable and entered TS LCO 3.5.1,
+ECCS - Operating Condition C.
+• Verified RCIC was operable.
+I. Automatically and manually initiated safety system responses
+During this event, momentary arcing of a PS resulted in a PCIS Group 4 isolation of the HPCI
+system. PCIS Group 4 isolation closes the steam supply valves to HPCI in the event of high
+steamline space temperature, high steam flow, or low steamline pressure. These signals are
+indicative of a line break in the HPCI system steamline to the turbine or high pressure
+between the diaphragm rupture discs on the HPCI Turbine Exhaust. At the time of the event,
+these conditions did not exist.
+Ill. Cause of the event
+A. Cause of each component or system failure or personnel error
+The most likely cause of the unexpected Unit 1 HPCI isolation during performance of the
+HPCI steam supply low pressure functional test was operation of the switch near the
+manufacturer's electrical contact current ratings. This was a result of a design change that
+added logic relays to the isolation circuit, increasing the current flow through the circuit.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root causes were identified.
+NRC FORM 366A (04-2018) Page _4_ of _8_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ,. ,._ 'CU tH UMB: NU. J1<>u-ui04 CAr-11<c;:,: U.>/.>l/.<U.<U
+(04-2018)) Estimated burden per response to comply with this mandatory collection request 80 oours.
+Reported lessons learned are incorporaled into the licensing process and fed back ID
+industry. Send comments regarding burden estimate to the lnfoonation Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 2055~001,0f by e-mail ID
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and ID the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150--0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used ID inl)OSe an infoonation collection does not
+display a currently valid 0MB control number, the NRC may not conduct Of sponsOf, and a
+person is not required ID respond ID, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 004 01
+NARRATIVE
+IV. Analysis of the event
+The HPCI system is provided to assure that the reactor is adequately cooled to limit fuel cladding
+temperature in the event of a small break in the nuclear system and loss of coolant which does
+not result in rapid depressurization of the reactor vessel. The HPCI system permits the nuclear
+plant to be shut down, while maintaining sufficient reactor vessel water inventory until the reactor
+vessel is depressurized. The HPCI system continues to operate until the reactor vessel pressure
+is below the pressure at which Low Pressure Coolant Injection (LPCl)[BO] operation or Core
+Spray System operation maintains core cooling. Due to the isolation of the HPCI system, this
+system would have been unable to perform its safety function.
+The design discrepancy that resulted in the unexpected isolation is the addition of logic relays to
+the HPCI steam supply low pressure isolation circuit. The design configuration that has been
+evaluated in Tab C-3 of EQ Binder BFNOEQ-IPS-003 as acceptable for the PS electrical contacts
+includes two GE HFA type relays in parallel being energized by the PS contact closure. Since the
+time that the initial evaluation was performed, an Agastat EGP type relay was added to the Unit 1
+circuit, and two GE HGA type relays were added to the Units 2 and 3 circuits. The additional
+current demanded on the circuit to energize the relays has resulted in approaching the switch
+electrical contact rating. Electrical contacts degrade in repeated "make" and "break" cycles by
+pitting, which can affect contact performance and reliability. The pitting is a result of material
+transfer across contacts that occurs from arcing on either contact make or break. In DC circuits,
+the pitting can be more severe than in AC circuits, as one contact is always positive and the other
+is always negative. This pitting is exacerbated in inductive loading applications by the counter
+electromotive force which causes high break currents.
+The electrical portion of the SOR switch used in the HPCI steam supply low pressure logic is a
+Honeywell Micro Switch brand microswitch, part number 11 SM244. The switch is robust enough
+to continue to operate acceptably with some contact degradation; however, the two instances of
+unexpected HPCI isolations during the PS functional testing demonstrates that the degradation
+has affected the switches in a manner that can occasionally result in momentary spurious closure.
+A voltmeter used in the functional testing procedure detects that the switch contacts are open, but
+the voltmeter test voltage across the contacts is very low. However, when approximately 280VDC
+is applied across the contacts, a momentary arc across the air gap of the contacts, which can be
+affected by the pitting, can result in momentary circuit completion and energization of the logic
+relays. The failure mechanism has been difficult to detect because of the intermittent and
+unpredictable frequency.
+The potential for spurious system isolation with the HPCI steam supply low PSs in standby is low
+based on the logic configuration (one-out-of-two-taken-twice). The configuration is changed
+during quarterly functional testing as one-half of the one-out-of-two-taken-twice logic is satisfied
+while each switch is being tested. This can be changed by a minor modification to the testing
+procedure to lift a wire for the switch under test to isolate it from the logic circuit. This is
+acceptable because TS Table 3.3.6.1-1, Primary Containment Isolation Instrumentation, provides
+NRG FORM 366A (04-2018) Page _5_ of _8_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION .. ·- . __ cu vmc: rov. 31;,u-u IU4 t:Jl.t'IKt::S: uJrJ uLuLu
+(04-2018)) Estimated burden per response to comply with this mandatory ccllecticn request 80 hours.
+Reported ~ssons lea-ned a-e incorporated into the l<:ensing process and fed back to
+industry. Send ccmments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuc~a-Regulatory Commission, Washington, DC 20555-0001,or bye-matt to
+LICENSEE EVENT REPORT (LER) lnfoccllects. Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collecticn does not
+display a clJTently valid 0MB ccntrol number, the NRC may not ccnduct or sponsor, and a
+person is not required to respond to, the infonmaticn collecticn.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 004 01
+NARRATIVE
+in Function 3.b for the HPCI Steam Supply Line Pressure - Low, that only 3 channels out of 4 are
+required to remain operable.
+V. Assessment of Safety Consequences
+This event resulted in inoperability and unavailability of the single train of the BFN, Unit 1, HPCI
+system resulting in the inability of the HPCI system to perform its safety functions for shutting
+down the reactor and maintaining it in a safe shutdown condition, mitigation of the consequences
+of an accident, and the removal of residual heat in the event that the reactor was shut down. In
+the event of an emergency, the RCIC system remained operable, and all ADS systems were
+available during this event to facilitate core cooling by low pressure ECCS systems. Based on the
+above, during the time period that the HPCI system was inoperable, sufficient systems were
+available to provide the required safety functions to protect the health and safety of the public.
+There was no significant reduction to the health and safety of the public or plant personnel for this
+event.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+During this event, RCIC was verified as operable by Operations personnel. Additionally, all
+other ECCS and ADS systems remained operable.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+The event resulted in isolation of the BFN, Unit 1, HPCI system at 0958 CDT on July 9, 2018.
+The event was discovered at 1111 CDT on July 9, 2018, at which point Unit 1 was
+retroactively declared inoperable by Operations personnel. However, HPCI remained
+inoperable until 1342 CDT on July 10, 2018. The lapsed time for inoperability of the HPCI
+system was 27 hours and 44 minutes.
+VI. Corrective Actions
+Corrective Actions are being managed by TV/\s corrective action program under Condition
+Reports (CRs) 1429497 (1-FCV-73-2 found closed during board walkdown) and 1437895
+(Discrepancy in HPCI PS contact rating).
+NRG FORM 366A (04-201 B) Page _6_ of _8_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ~• ·- ~~ en vmc: ... v. ;s1:,u-u IU4 t:Jlt'lt<t::;: ... _ ·-
+(04-2018)) Estimated burden per response to comply with this mandatixy collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Se!vices B<anch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 2055!>0001,°" by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and
+Regulatixy Affairs, NEOB-10202, (3150--0104), Office of Management and Budge~
+CONTINUATION SHEET Washington, DC 20503. If a means used to ilTl)Ose an information collection does not
+display a ctrren1!y valid OMS control number, the NRC may not conduct °" sponSD,', and a
+person is not required to respond to, the infonmation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 004 01
+NARRATIVE
+A. Immediate Corrective Actions
+The immediate corrective actions related to this event were to replace the two Unit 1 pressure
+switches that could have failed, resulting in spurious isolation. Based on the one-out-of-two
+taken-twice logic configuration, it was not determined which Unit 1 PS actually failed, but it
+was narrowed down to two of the four switches. Work orders were also initiated to replace the
+other two Unit 1 PSs, as well as Unit 2 PSs and Unit 3 PSs.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The PS functional test procedures for all three units, 1/2/3-SR-3.3.6.1.2(3B), have been
+revised to reduce the chances of inadvertent isolation by lifting a wire for the PS under test
+and then re-landing the wire prior to moving on to the next PS. Lifting a wire for the PS under
+test eliminates the purposeful making up of one-half of the one-out-of-two-taken-twice logic,
+such that a single failure will not result in spurious actuation. In addition to lifting the wires,
+CR 1437895 was initiated to document the discrepancy identified with the electrical contact
+rating for the SOR brand PSs used in the HPCI steam supply low pressure isolation circuit.
+CR Action 1429497-05 is being used to monitor the corrective actions of CR 1437895 to
+ensure resolution of the nonconforming condition related to the HPCI steam supply low
+pressure isolation switches.
+VII. Previous Similar Events at the Same Site
+A search of BFN Licensee Event Reports (LERs) for Units 1, 2, and 3, identified five LERs similar
+to this issue within the last six years.
+• BFN LER 260/2012-004-00 -- High Pressure Coolant Injection Rendered Inoperable Due
+to an Inadvertent Actuation of Primary Containment Isolation System (PER 596706)
+• BFN LER 259/2013-007-00 -- High Pressure Coolant Injection Declared Inoperable Due to
+an Inadvertent Actuation of the Primary Containment Isolation System (PER 794807)
+• BFN LER 296/2015-004-00 -- High Pressure Coolant Injection Inoperable Due to Failed
+Pressure Switch (CR 1024825)
+• BFN LER 296/2016-006-00 -- High Pressure Coolant Injection Found Inoperable During
+Testing (CR 1179483)
+• BFN LER 259/2016-002-00 -- High Pressure Coolant Injection Safety System Functional
+Failure due to lnoperability of Primary Containment Isolation Valve (CR 1193943)
+A review of the corrective actions for the CRs associated with the LE Rs concluded that the
+corrective actions associated with these CRs would not have prevented this event from occurring.
+NRG FORM 366A (04-2018) Page _7_ of _8_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION --t>T UMts: NU. 31ou-ui04 CA,..lr<c;:,: U~l~ll.tU.tU
+(04-2018)) Estima1ed burden per response to comply with this mandatory collecticn request 80 hours.
+Reported lessens learned are iocorpoca1ed into the licensing process and fed back to
+industry. Send commenls regarding burden estimate to the lnfoonation Services Branch [T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mai to
+LICENSEE EVENT REPORT (LER) lnfocollecls. Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an infoonation collecticn does not
+display a cLJTentiy valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 004 01
+NARRATIVE
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2018) Page _8_ of _8_

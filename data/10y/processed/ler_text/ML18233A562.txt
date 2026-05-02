@@ -1,0 +1,209 @@
+• •
+·~Entergy
+Entergy Operations, Inc.
+P. 0. Box756
+Port Gibson, MS 39150
+Gregory G. Hawkins
+Director, R&PI
+Grand Gulf Nuclear Station
+Tel. (601) 437-2443
+· 10CFR50.73
+GNR0-2018/00034
+August 21, 2018
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Licensee Event Report 2016-002-01, Automatic Actuation of the Reactor
+Protection System due to B Main Transformer Wiring
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Licensee Event Report 2016-002-01. This report is being submitted in accordance
+with 1O CFR50. 73(a)(2)(iv)(A) as a condition that resulted in the automatic actuation of the
+. reactor protection system.
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Douglas Neve at 601-437-2103.
+-!d-
+Sinr:_·
+L:o/J.
+~awkins
+Director, R&PI
+Grand Gulf Nuclear Station
+GGH/ram
+Attachment: Licensee Event Report 2016-002-01
+cc: see next page
+GNR0-2018/00034
+Page 2 of 2
+U.S. Nuclear Regulatory Commission
+ATTN: Ms. Lisa M. Regner
+Mail Stop OWFN 8 81
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Kriss Kennedy, NRR/DORL (w/2)
+Regional Administrator, Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+GNR0-2018/00034
+Page 1 of 1
+Attachment
+Licensee Event Report (LER) 2016-002-01
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+c>Plll'IE011~ Reported lessons learned are incorporated into the licensing process and fed back to
++.:j . >o LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+;. I . I '!' . l rJ:I \ 0 (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+,·~ . I l: (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, ·O ffice of Information and
+,,o (See NUREG-1022, R.3 for instruction and guidance for completing this form
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+~~ Washington, DC 20503. If a means used to impose an information collection does not
+lf-,i,*11:• · http://www.nrc.gov/readinq-nn/doc-c:ollections/nuregs/staff/sr1022/r30
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+nerson is not reouired to resoond to the information collection.
+---i. ·Facmty·Name 2. ·Docket"Number lcPage
+Grand Gulf Nuclear Station Unit 1 05000-416 1 OF3
+4. Title
+Automatic Actuation of the Reactor Protection System due to B Main Transformer Wiring
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l R N e o v . Month Day Year F N a / c A ili ty Name D 0 o 5 c 0 k 0 et 0 N N um /A b er
+Facility Name Docket Number
+03 29 2016 2016 002 01 08 21 2018
+N/A 05000N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D 20.2201 (b) D 20.2203(a)(3)(i) D 50. 73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50. 73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1 > D 20.2203(a)(4) D 50. 73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) ~ 50.73(a)(2)(iv)(A) D 50. 73(a)(2)(x)
+10. Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(v)(A) D 73. 11 (a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50. 73(a)(2)(v)(B) D 73.71(a)(5)
+37 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) 0 73.77(a)(2)(iii)
+D 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact ~elephone Number (Include Area Code)
+Douglas A. Neve, Manager Regulatory Assurance 601-437-2103
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+y
+A XFMR XCT N/A N/A NIA NIA N/A N/A
+14. -Supplemental-Report-Expected -Month -Day Year
+D IZJ 15. Expected Submission Date N/A N/A N/A
+Yes (If yes, complete 15. Expected Submission Date) No
+~stract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On March 29, 2016, at 1123 Central Daylight Time, Grand Gulf Nuclear Station was operating in Mode 1 and ascending
+in power at approximately 37 percent rated thermal power when an unplanned uncomplicated automatic reactor SCRAM
+occurred. A generator lockout was received due to a Main Transformer 'B' Differential Relay Trip which was followed by a
+turbine control valve fast closure, turbine trip, and reactor SCRAM. The Reactor Protection System and all other safety
+- -
+systems functioned as designed. The direct cause of this event was the premature actuation of the "B" Main
+Transformer Current Differential Relay ( 1 N41-M703B) that resulted in a main generator lockout, turbine trip, and
+automatic Reactor SCRAM. The root cause of this event is maintenance fundamental procedures for lifting and landing
+leads and troubleshooting were not followed by supplemental personnel performing transformer re-wiring project to
+maintain configuration control. Corrective actions included correcting the transformer wiring issue, revision of
+procedures, and strengthening maintenance training and qualification processes. This event posed no threat to public
+health and safety.
+NRC FORM 366 (02-2018)
+NRC FORM 366A . U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104. EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandato!Y collection request: 80 hours. Reported
+~-'. ~ I. l · !l.oq''<>.o \. LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+, . · . ~ ~ ~ ,,"'~· . ....· () CONTINUATION SHEET c R o e m gu m la e t n o t r s y rega C rd o in m g m b is u s r i d o e n n , esti W ma a t s e h in to g to th n e , Infor D m C a tion 2 S 0 e 5 r 5 v 5 ic - e 0 s 0 0 B 1 r , a nch o ( r T -2 F b 4 y 3), U e . - S m . ai N l uclea to r
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformation,and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R3 for instruction and guidance for completing this form used to impose an information collection does·not display a currently valid OMB control number, the
+http://www. nrc.qov/readinq-rm/doc-collections/nuregs/staff/sr1022/r31) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME · 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station Unit 1 05000-416 NUMBER NO.
+2016 002 01
+NARRATIVE
+PLANT CONDITIONS PRIOR TO THE EVENT
+At the time of th.e event, Grand Gulf Nuclear Station (GGNS) Unit 1 was in Mode 1 and ascending in power at
+-approximately 37 -percent rated thermal ·power. All ·systems, ·structures -and ·components that were ·necessary ·to
+mitigate, reduce the consequences pf, or limit the safety implications of the event were available. No safety significant
+components were out of service.
+DESCRIPTION
+On March 29, 2016, Grand Gulf Nuclear Station (GGNS) was ascending in power for the unit startup following
+I
+Refueling Outage 20 (RF 20). As reactor power reached approximately 37 percent rated thermal power, a generator
+lockout was received followed by a turbine control valve fast closure and turbine trip which resulted in an
+·uncomplicated automatic ·reactor SC-RAM. The -generator ·lockout was ·the ·result of-the Main Transformer 'B' -Differential
+Relay Trip. The reactor protection system (RPS) [JC] and all safety systems functioned as designed and expected.
+During the investigation, it was discovered inside the 'B' Main Transformer control cabinet that the high voltage current
+transformer (CT) [XCT] turns ratio wiring was incorrect. The CT wiring was connected in a manner that produced a
+turns ratio of 1000:5 versus the designed 2200:5. Due to this erroneous configuration the CT trip setpoint was lower
+than designed. Therefore, the CT and current differential relay actuation was not an equipment failure but an actual
+sensed actuation based on an incorrect wiring scheme. Work orders that involved working inside this panel during RF
+20 were reviewed to -determine when the wiring was altered. -No work -on -CT wiring was -intended to -be -performed ·I -
+, during RF 20. Current Transformer ratio wiring work was not within the scope of the transformer rewiring project
+carried out during RF20. The most likely time the wiring was incorrectly removed and re-landed would have been
+during the post modification testing which was performed under a work order at the conclusion of the wiring project.
+REPORTA BILITY
+This Licensee Event Report (LER) is being submitted pursuant to Title 10 Code of Federal Regulations (1 O CFR).50.
+73(a)(2)(iv)(A) for an automatic actuation of the RPS. Telephonic notification was made to the U.S. Nuclear Regulatory
+-Commission-(NRC) Emergency Notification System on March 29, 2016, within-4 hours-of the-event-pursuant-to 10
+CFR 50. 72(b)(2)(iv)(8) and 10 CFR 50.72 (b)(3)(iv)(A) for a valid RPS actuationwhile the reactor was critical.
+CAUSE
+Direct Cause: The direct cause of this event was the premature actuation of the "B" Main Transformer Current
+Differential Relay (1N41-M703B) that resulted in a main generator lockout, turbine trip, and automatic Reactor
+SCRAM.
+-Root.Cause: The root.cause .of .this .event is maintenance fundamental .procedures .for .lifting .and -landing .leads-and
+troubleshooting were not followed by supplemental personnel performing transformer re-wiring project to maintain
+configuration control.
+NRC FORM 366A (04-2017) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT {LER) lessons learned are incorporated into the licensing process and fed back to industry: Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022lr3D NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station Unit 1 05000-416 NUMBER NO.
+2016 002 01
+NARRATIVE
+CORRECTIVE ACTIONS
+·c·
+Corrected the 181 Main Transformer CT wiring and verified all other wiring in the 'A', 181 and Main Transformer
+,
+control cabinets was correct.
+Revised EN-MA-100 Maintenance Fundamentals Program to include an attachment defining the essential knowledge,
+skills, behaviors and practices personnel need to apply to conduct their work properly.
+Conducted a training needs analysis to determine impact on current initial and continuing long range training plans for
+lesson plans related to maintenance fundamentals.
+Implemented a revision to the existing Supervisor qualification oral board process to ensure maintenance
+fundamentals and the role of the Supervisor as oversight to ensure maintenancS" fundamentals and the role of the
+Supervisor as oversight for lifting and landing leads and maintaining high standards and configuration control are
+adequately addressed.
+Verified the training actions that are being tracked outside the corrective action program have been closed with rigor
+and quality.
+SAFETY SIGNIFICANCE
+The event posed no threat to the health and safety of the general public or to nuclear safety as RPS performed as
+designed. All safety systems responded as expected and Operator actions were in accordance with GGNS
+procedures. No Technical Specification safety limits were challenged or violated. Industrial safety was not chaJlenged,
+and there was no potential or actual radiological release during the event.
+PREVIOUS SIMILAR EVENTS
+The Main Transformers were installed in April 2012 to support Extended Power Uprate (EPU). Since the installation,
+there have been three RPS SCRAMs on main turbine trips associated with CTs prior to this event. These are
+documented in LER-2012-008-00, LER-2013-01-00, and LER-2015-001-00.
+The cause of LER-2015-001-00 was not similar to the event being reported, and the corrective actions would not have
+prevented the March 29, 2016 reactor SCRAM.
+The cause of LER-2012-008-00 and LER-2013-001-00 was inadequate workmanship and work instructions that did
+not specify the minimum cold clearance of 0.5 inch between the CT and the micarta plate bolts during installation. The
+corrective actions addressed revising procedures, testing notes, work instructions; and drawings to ensure the
+minimum 0.5 inch cold clearance is maintained. Although these two events were attributed to inadequate work
+instruction, the corrective actions would not have prevented the March 29, 2016 reactor SCRAM.
+NRG FORM 3668 (02-2018) Page 3 of 3

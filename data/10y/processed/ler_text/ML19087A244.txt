@@ -1,0 +1,332 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+March 28, 2019
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2018-002-01
+Reference: Letter from TVA to NRC, "Licensee Event Report 50-259/2018-002-00,"
+dated May 17, 2018
+On May 17, 2018, the Tennessee Valley Authority submitted Revision Oto Licensee Event
+Report (LER) 50-259/2018-002-00 (Reference) which provided the details of an automatic
+reactor scram due to an unanticipated electro-hydraulic control logic condition. The
+enclosed LER has been revised to document a revised causal analysis, which determined
+that the event was due to a failure to identify operational risks.
+The Tennessee Valley Authority is submitting the enclosed Licensee Event Report in
+accordance with Title 10 of the Code of Federal Regulations (10 CFR) 50.73(a)(2)(iv)(A),
+as any event or condition that resulted in a manual or automatic actuation of the RPS and
+general containment isolation signals affecting containment isolation valves in more than
+one system or multiple Main Steam Isolation Valves.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+D. L. Hughes
+Site Vice President
+Enclosure: Licensee Event Report 50-259/2018-002-01 - Automatic Reactor Scram Due
+to an Unanticipated Electro-Hydraulic Control Logic Condition
+U.S. Nuclear Regulatory Commission
+Page 2
+March 28, 2019
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estima1ed burden per response 1D CO<rl)ly wi1h this mandatory collection request BO hours.
+Reported lessons lea-nod ,re incorporaled in1D the licensing process and fed back 1D
+c"''fl.llfOc,<.i, industry. Send comments regarding bunlen estima1e 1D the Information Services Branch
+• l ~~ g LICENSEE EVENT REPORT (LER) (T-2 F43), U.S. Nucklar Regulatory Commission, Washing1Dn, DC 20555--0001,or by e-mail
+\ j 1D lnfocollects. Resource@nrc.gov, and 1D the Desk Officer, Office of Information and
+...... Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+Washing1Dn, DC 20503. If a means used 1D ilf!)ose an infonnation collection does not
+display a currently vaiid OMS control number, the NRG may not conduct or spcosor, and a
+person is not required to respond 1D, the infomnation collection.
+1. Facility Name 2. Docket Number 3.Page
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF 6
+4. Title
+Automatic Reactor Scram Due to an Unanticipated Electro-Hydraulic Control Looic Condition
+5. Event Date 6. LER Number I 7. Report Date 8. Other Facilities Involved
+Month Day Year Year I Sequential Rev Month Day Year N Fa /A cil ity Name N/A D ocket Number
+Number No.
+03 18 2018 2018 - 002 - 01 03 28 2019 N Fa / c A ili ty Name N/A Docket Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+0 D 0 D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+0 D 0 D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1 D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1 )(i)(A) cgj 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 0 D D
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+D 0 D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+D 0 D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+0 0
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. Complete One Line for each Component Failure Described in this Report
+Cause I System I Component Manufacturer I Reportable to ICES I Cause I System I Component Manufacturer I R eportable to ICES
+D I JA I TD EL22 I y I N/A I N/A I N/A N/A I N/A
+14. Supplemental Report Expected Month Day Year
+D Yes (If yes, complete 15. Expected Submission Date) cgj No 15. Expected Submission Date N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On March 18, 2018, at 1158 CDT, the Unit 1 reactor automatically scrammed due to a Reactor Protection
+System (RPS) signal generated from High Reactor Steam Dome Pressure in response to the Electro-Hydraulic
+Control (EHC) system clamping the Turbine Control Valves. All control rods fully inserted into the core. Main
+Steam Isolation Valves (MSIV) remained open with Main Steam Relief Valves operating on the initial transient
+as expected. Main Turbine Bypass Valves controlled reactor pressure. Reactor Feedwater pumps remained in
+service to control reactor water level. Primary Containment Isolation System Groups 2, 3, 6, and 8 containment
+isolation and initiation signals were received. Upon receipt of these signals all required components actuated as
+required. All safety systems operated as expected.
+An investigation determined the event was caused by Operations and Engineering Management failing to track
+and review the aggregate impact of off-normal conditions. There was inadequate procedural guidance to
+assess operational impacts when equipment failures/faults occurred, prior to entering the work management
+process. The normal level of review would not have identified the condition leading to the scram.
+Both megawatt input transducers were replaced prior to Unit 1 restart from the scram. As an interim action, a
+Nuclear Operating Experience Report (NOER) was issued for communication to other TVA sites. This NOER
+stressed the importance of evaluating the full impact of failed digital equipment, which must include software
+logic inputs. As a corrective action to prevent future recurrence, operator responsibilities for performing
+operational impact reviews were clarified in procedures. This included developing a tool or checklist for
+operational impact reviews.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULAT ORY COMMISSION I Al n.vvCU '" UMt>: NU. 31:>U-UlU4 CAl'lr<c;:,: --·-··----
+(04-2017)) Estimated burden per iesponse to comply with this mandatory collection request 80 houis.
+Reported lessons le..-ned ..-e incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Setvices B,anch (T-
+2 F43), U.S. Nucle..-Regulatory Commission, Washington, DC 20555-0001,or by .,.n,aii to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resouice@mc.gov, and to the Desk Officer, Office of lnfonnation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used ID ir1'!)0se an information coleclion does not
+display a cunientiy valid 0MB contro number, the NRC may not conduct or sponsor, and a
+person is not required to iespond ID, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 002 01
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1 was in Mode 1 at 100 percent
+power.
+II. Description of Event
+A. Event Summary
+At 1158 CDT on March 18, 2018, the Unit 1 reactor automatically scrammed due to a Reactor
+Protection System (RPS) [JC] signal generated from High Reactor Steam Dome Pressure in
+response to the Electro-Hydraulic Control (EHC) [JA] system clamping the Turbine Control Valves
+(TCVs) [PCV].
+All control rods [AA] fully inserted into the core. Main Steam Isolation Valves (MSIV) [ISV]
+remained open with Main Steam Relief Valves (MSRVs) [RV] operating on the initial transient as
+expected. Main Turbine Bypass Valves [V] controlled reactor pressure. Reactor Feedwater pumps
+[P] remained in service to control reactor water level.
+Primary Containment Isolation System [JM] Groups 2, 3, 6, and 8 containment isolation and
+initiation signals were received. Upon receipt of these signals all required components actuated
+as required. All safety systems operated as expected.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations (10 CFR) 50.7 3(a)(2)(iv)(A), as any event or condition that resulted in a
+manual or automatic actuation of the RPS and general containment isolation signals affecting
+containment isolation valves in more than one system or multiple MSIVs.
+8. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+The EHC system had no megawatt input logic, because both megawatt input transducers [TD]
+(Nexus modules) were non-functional and had been out of service since January 22, 2018.
+NRC FORM 366A (04-2018) Page _2_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION .. ·--~uar vma: ,.v.310u-vj04 t:l\t'IKt::S:u~,~""u"u
+(04-2017)) Estima1ed burden per response to comply with this mandatory collection request 80 hours.
+Repor1Bd lessons lea-ned a-e ir<:OfPO(a1ed into the licensing process and fed back to
+industry. Send comments regarding burden estima1e to the Information Se!vices Branch (T-
+2 F43), U.S. Nuclea-Regulatory Commission, Washington, DC 20555-0001,0' by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resouri:e@nrc.gov, and to the Desk Officer, Office of lnfonnation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to irT!)OSe an information collection does not
+°"
+display a ct.mmtly valid 0MB control number, the NRC may not conduct sponsO', and a
+person is not required to respond ID, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 1 05000259
+2018 - 002 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+Date Time (CDT} Event
+April 8, 2017 EHC megawatt input transducer 2 became
+non-functional.
+January 22, 2018 EHC megawatt input transducer 1 became
+non-functional.
+March 18, 2018 1158 Unit 1 automatically scrammed due to a RPS signal
+generated from High Reactor Steam Dome Pressure in
+response to the EHC system clamping the TCVs.
+March 18, 2018 1516 Operations personnel reported the scram to the NRC in
+Event Notification 53269.
+D. Manufacturer and model number of each component that failed during the event
+No components failed during this event.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+This reactor scram event was identified through control room indicators and alarms.
+G. Failure mode, mechanism, and effect of each failed component
+No components failed during this event.
+H. Operator actions
+Appropriate operator actions were taken in response to the scram and recovery from the scram.
+I. Automatically and manually initiated safety system responses
+The RPS and containment isolation systems automatically responded due to this event, causing
+Unit 1 to scram and containment isolation.
+NRG FORM 366A (04-2018) Page _3_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ~• ·- --t:IT vmc: NU. 3150-01U4 t:JU'lr<t:;::,: u~,., ,,,u,u
+(04-2017)) Estima1ed burden per response to comply with this mandatory collection request 80 hours.
+Reported lessons learned are incorpora1ed into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the lnfoonation Services Branch (T-
+2 F43), U.S. Noclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used ID impose an infoonation collection does oot
+display a c11Ten1!y valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the infoonation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 002 01
+NARRATIVE
+Ill. Cause of the Event
+A. Cause of each component or system failure or personnel error
+No systems or components failed during this event.
+Operations and Engineering Management failed to track and review the aggregate impact of off
+normal conditions.
+B. Cause(s) and circumstances for each human performance related root cause
+There was inadequate procedural guidance to assess operational impact at the time equipment
+failures/faults occurred, and prior to entering the work management process. The procedural
+guidance only assessed risk in the work management process which was specific to performing
+the work. There was no provision to assess the operational impacts of failed equipment before
+scheduling and planning repair work.
+IV. Analysis of the Event
+The scram was caused by having both U1 Nexus units failed and cycling the Generator 1 Relay
+250V DC Supply Breaker (BFN-0-BKR-282-0024/709), during ground location activities. Opening the
+breaker dropped out relay coils (15221 and 15222), which each have a normally-open contact that
+provides Generator Breaker status to the EHC system. Closing the breaker re-energized these relay
+coils and closed the contact inputs to EHC. Transitioning the Generator Breaker status contacts from
+Open to Closed triggered the Initial Load Pickup logic, which takes the TCV Flow Demand signal
+(LSS Bus) and adds 4.7% (to prevent generator motoring) through a limiter (0-20%) and applies it to
+the LSS Bus. The TCV Flow Demand is then quickly ramped to the new position. In this instance,
+the LSS Bus was ramped from approximately 91 % (which is approximately 59% TCV position) to
+20% (which is approximately 10% TCV position). When the TCVs ramped to 10%, Bypass Valves all
+opened to 100%, but total flow steam flow was not adequate to prevent reactor pressure to raise
+subsequently resulting in an APR High Flux reactor scram.
+The logic design was determined to be robust, in that it did not trip until there was an initiator (power
+cycling the generator breaker position relays) and two failures (the redundant MW devices).
+However, during review it was found that a loss of the only first stage shell pressure indicator would
+cause the same scram when cycling the breaker. The first stage shell pressure can be
+repaired/replaced while the unit is on-line.
+On December 26, 2016, when one Nexus module failed, Operations challenged Engineering to
+identify the operational impact. The answer received was 'The MVAR input is used for indication
+only. The MW input is used for indication only (except when using megawatt control which is
+normally only between speed control and pressure control during startup)". When the second Nexus
+module failed on January 22, 2018, Operations thought that the operational impact was minimal
+based on information previously provided. Identifying the operational impact of two failed Nexus
+NRG FORM 366A (04-2018) Page _4_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ~- ,~wCU l:IY vmc: r,v ... , ..u -v 1U4 t:}U'IKt::S: u .., .. ,,,u,u
+(04-2017)) Estimated burden per response to comply wi1h this mandatory collection request 80 hours.
+Repor1ed lessens leaned are incorporated into the fK:ensing process and fed back to
+industry. Send commenls regaroing burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail ID
+LICENSEE EVENT REPORT (LER) lnfocollecls. Resourre@nrc.gov, and ID the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (31~104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used ID impose an information collection does not
+display a c1m. mtly valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond ID, the information conection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 002 01
+NARRATIVE
+modules would have triggered actions to mitigate risk in accordance with NPG-SPP-07.3, Work
+Activity Risk Management Process.
+The scram could have been prevented by taking risk mitigation actions when two Nexus modules had
+failed. The operational impact for this event was thought to be "none" based upon the system
+engineer's review of only one failed Nexus module. There was no official established process which
+drives detailed engineering reviews for aggregate equipment failures. The system engineer did not
+review the start-up logic because there was no guidance on engineering review depth.
+In discussions with the EHC digital logic subject matter expert (SME), it was determined that it was
+unreasonable to expect the engineer to identify the risk during an operational impact review. These
+logic block diagrams are typically hundreds of pages long, and the engineer would not know which
+specific code or logic block diagrams to review. After the event, the EHC digital logic SME
+recognized the inputs and realized that the EHC logic caused the scram. The TCVs moving to 20% is
+the specific limit for control valves when the Generator Breaker is initially closed during starting up.
+Since the SME was involved in EHC code revisions, he was able to locate the logic in the logic block
+diagrams once this information had became available.
+In hindsight, the risk assessments performed were inconsistent due to the depth of the aggregate
+operational impact review.
+V. Assessment of Safety Consequences
+This event automatically actuated safety systems and did not result in the inoperability or
+unavailability of any system to provide their required safety functions. All withdrawn control rods fully
+inserted into the core. Main Steam Isolation Valves (MSIVs) remained open with MSRVs operating
+during the initial transient as expected. The Main Turbine Bypass Valves controlled reactor pressure.
+Reactor Feedwater pumps remained in service to control reactor water level. Primary Containment
+Isolation Signals Groups 2, 3, 6, and 8 containment isolation and initiation signals were received.
+Upon receipt of these signals the affected components actuated as required. All safety systems
+operated as expected. Therefore, this condition was of low safety significance and had negligible
+impact on the health and safety of the public.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+No systems or components failed during this event.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+NRC FORM 366A (04-2018) Page _5_ of _6_
+v.~1.,.,-v,., ..
+NRC FORM 366A U.S. NUCLEAR REGULA TORY COMMISSION ,A, __ c,vmc: .. t:A1"'1n,a-,:
+(04-2017)) Estimated burden per response to comply with this mandatory collection request 80 hours.
+Repor1Bd lessons lea-ned a-e il1CO<])O(a1ed into the licensing process and led back to
+industry. Send commen1s regarding burden estimate to the Information SeM:es Branch [T-
+2 F43), U.S. Noclea-Regulator, Commission, Washington, DC 2055~001,or by e-mai 1o
+LICENSEE EVENT REPORT (LER) lnfocollec1s. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (31~104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used 1o irt1)0se an information colleclion does oot
+display a c..rently valid 0MB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 002 01
+NARRATIVE
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from the discovery of the failure until the train was returned to service
+Safety system availability was not impacted by this event.
+VI. Corrective Actions
+This event was entered into the TVA Corrective Action Program and is being tracked under
+CR 1397341.
+A. Immediate Corrective Actions
+The immediate corrective actions included:
+• Both megawatt input transducers were replaced prior to Unit 1 restart from the scram.
+• Engineered Solutions, Inc. conducted an independent evaluation for what caused the Unit 1
+scram.
+• A Nuclear Operating Experience Report (NOER) was issued for communication to other TVA
+sites. This NOER stressed the importance of evaluating the full impact of failed digital
+equipment failure, which must include software logic inputs.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events
+occurring in the future
+Operator responsibilities for performing operational impact reviews were clarified in procedures.
+This included developing a tool or checklist for operational impact reviews.
+VII. Previous Similar Events at the Same Site
+A review of the BFN CAP and Licensee Event Reports for Units 1, 2, and 3 found no instances
+of reactor scrams similar to this event within the past five years.
+VIII. Additional Information
+None.
+IX. Commitments
+None.
+NRG FORM 366A (04-2018) Page _6_ of _6_

@@ -1,0 +1,179 @@
+Exelon Generation ®
+10 CFR 50.73
+LG-21-110
+November 22, 2021
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRC Docket No. 50-352
+Subject: LER 2021-001-00 Unit 1 HPCI Inoperable Due to Remote Shutdown Panel Switch
+Failure
+In accordance with the requirements of 10 CFR 50.73(a)(2)(v)(D), Limerick Generating Station
+hereby submits theenclosed Licensee Event Report.
+There are no commitments contained in this letter.
+If you have any questions, please contact Laura Lynch at (610) 718-3400.
+Respectfully,
+Digitally signed by
+Sturniolo, Frank
+Date: 2021.11.19
+09:28:28 -05'00'
+Frank Sturniolo
+Vice President –Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, Limerick Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+l¥\ LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+. . (See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+:., I it
+t-J.'1 "'••·· +0# (Se h e t t N p U :// R w E w G w - . 1 n 0 rc 2 . 2 g , o R v/ . r 3 e a fo d r i n in g s - t r r m uc /d ti o o c n - c a o n l d le c g t u io id n a s n /n c u e r e fo g r s c /s o t m af p f/ l s e r t 1 in 0 g 2 2 th /r is 3 / f ) orm I A n f f f o a c ir o s l , l e ( c 3 t 1 s 5 .R 0 e -0 s 1 o 0 u 4 rc ), e @ At n tn r : c . g D o e v s , k a n a d il: th o e i r O a_ M s B ub r m ev is ie s w io e n r @ a o t: m O b. M eo B p . O go ff v ic . e T o h f e In N fo R rm C a m tio a n y a n n o d t R co e n g d u u la c t t o o ry r
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000 352 1 OF 3
+Limerick Generating Station Unit 1
+4. Title
+Unit 1 HPCI Inoperable Due to Remote Shutdown Panel Switch Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+09 23 21 2021 - 001 - 00 11 22 21 Facility Name Docket Number
+05000
+9. Operating Mode I10 . Power Level
+OPCON 1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+• • • •
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+• • • •
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+• • • • •
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+• • • • •
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+•
+20.2203(a)(2)(i) 10 CFR Part 21
+•
+50.73(a)(2)(i)(B)
+•✔
+50.73(a)(2)(v)(D)
+•
+73.77(a)(1)(i)
+• • • • •
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+• • • •
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+• • • •
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+• • • •
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+•
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Laura A. Lynch 610-718-3400
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BJ HS G223 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+•✔ No ID Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+During the testing of the High Pressure Coolant Injection (HPCI) System, the HPCI pump failed to obtain the Technical
+Specification required pressure and flow as a result of high contact resistance in the HPCI Emergency Shutdown Switch. The
+high resistance was attributed to mechanical switch degradation that was introduced by cycling the switch during the logic
+system functional Surveillance Test, which was completed 1 hour and 32 minutes prior to the HPCI Pump Valve and Flow
+Surveillance Test. The switch was replaced, and testing is being developed to verify the switch is functioning after the switch is
+operated. This event is being reported because it resulted in an unplanned inoperability of a single train safety system that could
+have prevented fulfillment of a safety function. An eight (8) hour ENS notification was completed on September 23, 2021 at
+18:46 hours.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~¥' LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; i CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+_, ~o' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+•YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Limerick Generating Station Unit 1 352 D
+2021 - I 001 - 00
+I I I I
+I
+NARRATIVE
+Unit Condition Prior to the Event
+Unit 1 was in Operational Condition (OPCON) 1 (Power Operation) at approximately 100% power. There were no
+structures, systems, or components out of service that contributed to this event.
+Description of the Event
+On September 23, 2021, two Unit 1 High Pressure Coolant Injection (HPCI) System [BJ] testing activities were scheduled:
+the HPCI Logic System Functional Isolation Logic Test and the HPCI Pump Valve and Flow Test. At 09:25 the HPCI
+system was declared inoperable for the performance of the HPCI Logic System Functional Isolation Logic Test. At 13:09
+the HPCI System was declared Operable after the completion of the test. At 14:43 the HPCI System was declared
+inoperable for the performance of the HPCI Pump Valve and Flow Test.
+During the initial start of the turbine during the HPCI Pump Valve and Flow Test the indicated turbine speed on the plant
+computer point and Main Control Room tachometer was downscale. The pump flow and discharge pressure indications
+were used to establish an acceptable test return valve position while the speed indication issue was investigated. The test
+was aborted when the HPCI Pump was not able to meet the Technical Specification requirements for rated flow and
+discharge pressure. An eight (8) hour ENS notification was completed on September 23, 2021 at 18:46 hours.
+Troubleshooting determined high contact resistance existed in the HPCI Emergency Shutdown Switch located on the
+Remote Shutdown Panel. The purpose of this switch is to terminate or prevent HPCI injection from the Remote Shutdown
+Panel under various Fire Safe Shutdown events. The HPCI Emergency Shutdown Switch is installed in the 48Vdc power
+supply to the HPCI EG-M module but includes additional contacts in the external wiring connections to the Woodward
+governor components including the flow controller demand signal to the Ramp Generator and Signal Converter (RGSC)
+module.
+Analysis of the Event
+The HPCI Emergency Shutdown Switch high resistance was attributed to mechanical switch degradation that was
+introduced by cycling the switch during the HPCI Logic System Functional Isolation Logic Test, which was performed 1
+hour and 32 minutes prior to the HPCI Pump Valve and Flow Surveillance Test. With the unplanned loss of a single train
+system this condition is being reported per 10 CFR 50.73(a)(2)(v)(D), as a condition that could have prevented the
+fulfillment of the safety function of structures or systems required to mitigate the consequences of an accident.
+Safety Consequence
+There were no actual safety consequences associated with this event. The potential safety consequences of this event
+were minimal. The Reactor Core Isolation Cooling (RCIC), Automatic Depressurization System (ADS), Residual Heat
+Removal (RHR), and Core Spray (CS) systems remained operable during the period that HPCI was inoperable.
+Corrective Actions Completed
+The Unit 1 HPCI Emergency Shutdown Switch was replaced. A review of the completed Unit 2 testing verified the HPCI
+Emergency Shutdown Switch is operable.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+~¥' LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+; i CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+..... Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+<--+_, ~o' Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+•YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Limerick Generating Station Unit 1 352 D
+2021 - I 001 - 00
+I I I I
+I
+NARRATIVE
+Corrective Actions Planned
+The Unit 2 HPCI Emergency Shutdown Switch will be proactively replaced during the next scheduled System Outage.
+Testing is being developed to verify the HPCI Emergency Shutdown Switch is operable after the completion of the HPCI
+Logic System Functional Test.
+Previous Similar Occurrences
+There have not been any similar occurrences of this switch failing at Limerick.
+Component Data:
+System: BJ High Pressure Coolant Injection
+Component: HS - Handswitch
+Manufacturer: G223 Grayhill Inc
+NRC FORM 366A (08-2020) Page 3 of 3

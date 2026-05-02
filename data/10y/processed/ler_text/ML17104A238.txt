@@ -1,0 +1,317 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+April 14, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 2
+Renewed Facility Operating License No. DPR-52
+NRC Docket No. 50-260
+Subject: Licensee Event Report 50-260/2017-001-00
+The enclosed Licensee Event Report provides details a spurious High Pressure Coolant
+Injection Safety System Functional Failure due to a blown fuse. The Tennessee Valley
+Authority is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations 50.73(a)(2)(v)(D), as an event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the
+consequences of an accident.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact M. W. Oliver, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-260/2017-001-00- High Pressure Coolant Injection
+Safety System Functional Failure Due to a Blown Fuse.
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 2
+Licensee Event Report 50-260/2017-001-00
+High Pressure Coolant Injection Safety System Functional Failure Due to a Blown Fuse
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours .
+...,...···~ .... Reported lessons learned are incorporated into the licensing process and fed back to industry.
+/~\, LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+\ ~} (See Page 2 for required number of digrtslcharacters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+""'<?·····
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number,
+httQ ://www. n re.govI reading-rm/doc-col lectio ns/n u regs/staff/sr1 022/ r30 the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 2 05000-260 1 OF6
+4. TITLE
+High Pressure Coolant Injection Safety System Functional Failure Due to a Blown Fuse
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR N/A
+NUMBER NO. N/A
+FACILITY NAME DOCKET NUMBER
+02 16 2017 2017 - 001 - 00 04 14 2017
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR &: Check all that aoolv!
+D 20.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A)
+1 D 20.2201 (d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D so.73(a)(2)(iii) 0 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) 0 50.73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+D 0 0 D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+D D 0 D
+202203(a)(2)(iii) so.36(c)(2) 50.73(a)(2)(v)(B) 73. 71 (a)(S)
+0 D 0 D
+076 20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+0 D D
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) 0 50.73(a}(2)(vii) D 73.77(a)(2)(ii)
+0 0
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TO EPIX
+x BJ FU S156 y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) [gj NO SUBMISSION N/A N/A N/A
+DATE
+!ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten fines)
+On February 16, 2017, the spurious failure of a fuse protecting a High Pressure Coolant Injection (HPCI) system
+!flow controller rendered the HPCI system inoperable. Operators replaced both the line and neutral fuses, and
+restored HPCI availability. Following a period of monitoring the current flow through the fuse and HPCI system
+operation tests, Operations declared the Unit 2 HPCI system to be Operable on February 17, 2017.
+Since HPCI is a single-train safety system, any period of unplanned inoperability constitutes a safety-system
+!functional failure affecting accident mitigation, and is reportable. However, in the event of an emergency, the
+Reactor Core Isolation Cooling (RCIC) system remained operable, and all other Emergency Core Cooling
+Systems and the Automatic Depressurization System were available throughout this event to facilitate core
+cooling.
+Failure analysis indicates that the fuse failed when its internal resistor lead and its tension/retraction spring
+became uncoupled at their soldered junction, as a result of age-induced solder creep. Corrective Actions include
+he prompt replacement of the failed fuses, determining the population of fuses on the HPCI system and RCIC
+system that should be replaced on a one-time basis, and to initiate work orders to replace these fuses.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http ://www. n re.g ov /reading-rm/doc-col lectio ns/nu regs/staff/sr1 022/r3[J NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000-260 NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 2, was in Mode 1 at approximately 76
+percent power.
+II. Description of Event
+A. Event Summary
+On February 16, 2017, at 1052 Central Standard Time (CST), while the BFN Unit 2 High Pressure
+Coolant Injection (HPCI) system [BJ] was in standby readiness, Operations received the HPCI
+120VAC POWER FAILURE alarm on Panel 2-9-3F. The crew responded per the Alarm Response
+Procedure and identified that fuse [FU] 2-FU2-073-0033C in the Auxiliary Instrument Room had
+cleared. This fuse protected the HPCI system flow controller (2-FIC-77-33), power supplies to the
+governor controls, and power supplies to various pressure transmitters from overcurrent events.
+Since the HPCI system is a single-train safety system, any period of unplanned inoperability
+constitutes a safety-system functional failure affecting accident mitigation, and is a reportable event.
+Operators replaced both the line and neutral fuses, and HPCI system availability was restored on
+February 16, 2017 at 1145 CST. Following a period of monitoring the current flow through the fuse
+and HPCI system operation tests, Operations declared the Unit 2 HPCI system Operable on
+February 17, 2017 at 1730 CST.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+There were no structures, systems, or components whose inoperability contributed to this event.
+NRC FORM 366A (04-2017) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nu regs/staff/sr1022/r30 NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000-260 NUMBER NO.
+2017 - 001 - 00
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+February 16, 2017, Operations received a HPCI 120VAC POWER FAILURE
+at 1052 CST alarm.
+HPCI system is declared inoperable due to the loss of 120
+VAC power to the HPCI Flow Controller, 2-FIC-73-33.
+The Unit Supervisor immediately verified Reactor Core
+Isolation Cooling (RCIC) system [BN] operability by
+administrative means, in accordance with the Required
+Actions for Technical Specification (TS) Limiting Condition
+for Operation 3.5.1, Condition C.
+February 16, 2017, Operations declared the Unit 2 HPCI system available
+at 1145 CST following fuse replacement for the HPCI system flow
+controller power supply. The Unit 2 HPCI system still
+remained inoperable pending further investigation.
+February 17, 2017, Operations declared the Unit 2 HPCI system Operable
+at 1730 CST following fuse replacement and post-maintenance testing.
+D. Manufacturer and model number of each component that failed during the event
+The failed component was a Shawmut Company fuse, model number AJT-3.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+Failure was discovered on February 16, 2017, at 1052 CST when the 120 VAC power supply circuit
+for HPCI system flow controller fuse cleared, triggering the HPCI 120VAC POWER FAILURE alarm
+on Control Room Panel 2-9-3F.
+G. The failure mode, mechanism, and effect of each failed component
+The fuse failed when its internal resistor lead and its tension/retraction spring became uncoupled at
+their soldered junction. Analysis by the Tennessee Valley Authority (TVA) Central Laboratories
+Services determined that this was a spontaneous failure which was not due to an overcurrent event.
+The presumed failure mechanism is solder creep, which is a time-dependent failure mechanism.
+Page 3 of 6
+NRG FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http ://www. n re.g ov/reading-rm/doc-collections/nu regs/staff/ sr1 022/r30 NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000-260 NUMBER NO.
+2017 - 001 - 00
+The exact age and installation date of the failed fuse was unable to be determined. Based on the
+history of the name brand, the failed fuse was manufactured sometime between 1976 and 1999.
+H. Operator actions
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+Ill. Cause of the event
+A. Cause of each component or system failure or personnel error
+The fuse failed when its internal resistor lead and its tension/retraction spring became uncoupled at
+their soldered junction, which was presumably weakened by solder creep.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root causes were identified.
+IV. Analysis of the event
+TVA is submitting this report in accordance with Title 10 of the Code of Federal Regulations
+50.73(a)(2)(v)(D), as an event or condition that could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an accident. The
+condition was discovered on February 16, 2017, when the spurious failure of the fuse protecting the
+HPCI system flow controller signaled an alarm [FA] in the Control Room [NA]. This loss of power
+rendered Unit 2 HPCI system inoperable. Since HPCI system is a single-train safety system, the
+unplanned inoperability caused by the fuse failure constitutes a reportable event, which is considered a
+safety system functional failure, and a reportable event.
+V. Assessment of Safety Consequences
+This event resulted in inoperability and unavailability of the single train of the BFN Unit 2 HPCI system
+resulting in the inability of the HPCI system to perform its safety function. In the event of an emergency,
+the RCIC system remained operable, and all other Emergency Core Cooling Systems (ECCS) and
+Automatic Depressurization System (ADS) were available during this event to facilitate core cooling.
+Based on the discussion above, during the time period that the HPCI system was inoperable, sufficient
+systems were available to provide the required safety functions to protect the health and safety of the
+public.
+Page 4 of 6
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-collections/nu regs/staff/sr1022/r30 NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. L.ER NUMBER
+YEAR SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000-260 NUMBER NO.
+2017 - 001 - 00
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+The TS Required Actions and Completion Times for HPCI system inoperability is to immediately
+verify that RCIC system is operable by administrative means, and restore HPCI system operability
+within 14 days. If these actions do not meet their Completion Times, then TS requires Unit 2 to enter
+Mode 3 in 12 hours. Operations personnel immediately verified that RCIC was operable by
+administrative means on February 16, 2017 at1052 CST. During this event, all other ECCS,
+including the ADS, were available to mitigate abnormal and accident conditions.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+The HPCI system was determined to be inoperable when a blown fuse resulted in a HPCI 120VAC
+POWER FAILURE alarm actuation on February 16, 2017 at 1052 CST. The HPCI system was
+declared operable on February 17, 2017 at 1730 CST following post-maintenance testing.
+Approximately 31 hours elapsed between the time of discovery and restoring operability.
+VI. Corrective Actions
+Corrective Actions are being managed by TV/\s corrective action program under Condition Report
+(CR) 1263268.
+A. Immediate Corrective Actions
+The Operations crew responded in accordance with the Alarm Response Procedure, and identified
+that fuse 2-FU2-073-0033C in the Auxiliary Instrument Room had cleared. Operators promptly
+replaced both the line and neutral fuses to restore HPCI functionality. The Unit 2 HPCI system was
+declared available by Operations within 1 hour of fuse failure.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Corrective Actions included the prompt replacement of the failed fuses, a determination of the
+population of HPCI system and RCIC system fuses that should be replaced on a one-time basis,
+and the replacement of those fuses.
+Page 5 of 6
+NRG FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the lnlorma\ion SeNicm; Branch (T-2 r43). U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http://www.nrc.gov/reading-rm/doc-col\ections/nuregs/staff/sr1022/r3[J NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000-260 NUMBER NO.
+2017 - 001 - 00
+VII. Previous Similar Events at the Same Site
+In May 2002, the NRC published NUREG-1760, an aging assessment of safety-related fuses. This
+study found that fusible link degradation accounts for approximately 80% of fuse failure events occurring
+below the fuse's rated current.
+A search of the BFN Corrective Action Program identified 12 fuses which spuriously opened since 2010.
+The search did not identify a fuse failure at the location described in this LER.
+A review of BFN LERs for the last five years identified one event where a blown fuse resulted in an
+actual safety system functional failure: LER 50-260/2016-001-01, High Pressure Coolant Injection
+Safety System Functional Failure due to a Blown Fuse and a Failed Relay. For this event, the fuse
+failure was due to test equipment, not aging effects. Therefore, the corrective actions for this previous
+event would not have prevented the current event.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+Page 6 of 6
+NRG FORM 366A (06-2016)

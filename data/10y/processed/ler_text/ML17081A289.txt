@@ -1,0 +1,286 @@
+Lon G n ration
+SVP-17-019 10 CFR 50.73
+March 22, 2017
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-29 and DPR-30
+NRC Docket Nos. 50-254 and 50-265
+Subject: Licensee Event Report 254/2017-001-00, "Secondary Containment Interlock Doors
+Opened Simultaneously"
+Enclosed is Licensee Event Report (LER) 254/2017-001-00, "Secondary Containment Interlock
+Doors Opened Simultaneously," for Quad Cities Nuclear Power Station, Unit 1.
+This report is submitted in accordance with 1O CFR 50.73 (a)(2)(v)(C) which requires the reporting
+of any event or condition that could have prevented the fulfillment of the safety function of structures
+or systems that are needed to control the release of radioactive material.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mr. W. J. Beck at
+(309) 227-2800.
+R#~
+Scott Darin
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 5
+4. TITLE
+Secondary Containment Interlock Doors Opened Simultaneously
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR Quad Cities Nuclear Power Station Unit 2 05000265
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+01 24 2017 2017 - 001 - 00 03 22 2017 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+098 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mark Humphrey – Regulatory Assurance (309) 227-2810
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B NG DR N/A Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 24, 2017, at 10:00 hours, Operations was notified that both doors in the secondary containment interlock on the 595 foot elevation
+between the Reactor Building (RB) and the Unit 2 Reactor Feed Pump room (located inside the Turbine Building (TB)) were opened simultaneously
+for approximately 3 seconds. The failure of this interlock caused a loss of secondary containment per Technical Specification (TS) 3.6.4.1, Condition
+A. The doors were immediately reclosed, and the secondary containment boundary was immediately reestablished. Operators verified the RB
+(secondary containment) differential pressure was maintained operable at greater than 0.10 inches of water vacuum.
+Secondary containment remained available and functional during the event since the secondary containment interlock was immediately restored by
+closing the doors and since the RB differential pressure was maintained during the event. The RB is a common volume to both Units 1 and 2, and an
+interlock failure can impact the secondary containment for both units.
+The cause of the interlock failure was due to a dirty contact that caused the interlock relay to stick. This allowed the second door to open before the
+first door was secured. Corrective actions included inspecting and cleaning of the interlock relay contacts. Steps will be added to the Preventative
+Maintenance Work Orders to perform a visual inspection and cleaning of interlock relays.
+The safety significance of this event was minimal. Given the impact on the secondary containment, this report is submitted (for Units 1 and 2) in
+accordance with the requirements of 10 CFR 50.73 (a)(2)(v)(C), which requires the reporting of any event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to control the release of radioactive material.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Both doors in the secondary containment interlock between the Reactor Building and the Unit 2 Reactor Feed Pump
+room were opened simultaneously and caused a momentary loss of secondary containment.
+A. CONDITION PRIOR TO EVENT
+Unit: 1 / 2 Event Date: January 24, 2017 Event Time: 10:00 hours
+Reactor Mode: 1 / 1 Mode Name: Power Operation / Power Operation Power Level: 98% / 100%
+B. DESCRIPTION OF EVENT
+On January 24, 2017 at 10:00 hours, the Operations Department was notified that both doors [DR] in the secondary
+containment [NG] interlock [IEL] on the 595 foot elevation between the Reactor Building (RB) [NG] and the Unit 2
+Reactor Feed Pump (RFP) [SK] room (located inside the Turbine Building (TB)) [NM] were opened simultaneously for
+approximately 3 seconds. The failure of this interlock caused a loss of secondary containment per Technical
+Specification (TS) 3.6.4.1, Condition A. The doors were immediately reclosed, and the secondary containment
+boundary was immediately reestablished. Operators verified the RB (secondary containment) differential pressure
+was maintained operable at greater than 0.10 inches of water vacuum.
+The Operations Field Supervisor was then dispatched to the interlock to investigate the condition. It was determined
+that the condition that led to both doors being open simultaneously could be recreated. At no time during the initial
+investigation were the doors opened at the same time. The doors were then taken out of service to allow repairs.
+Secondary containment remained available and functional during the event since the secondary containment interlock
+was immediately restored by closing the doors and since the RB differential pressure was maintained during the
+event. A review of the Station Event Recorder (SER) verified that RB low differential pressure alarms were not
+received during this event. The RB is a common volume to both Units 1 and 2, and an interlock failure can impact the
+secondary containment for both units.
+On January 24, 2017, at 14:00 hours, ENS #52508 was made to the NRC under 10 CFR 50.72(b)(3)(v)(C), to report
+this event as an event or condition that could have prevented the fulfillment of a safety function.
+At the time of the event, another individual had traversed through the RB door when a contractor started transitioning
+through the TB door. As they opened the TB-side door the RB-side door was noticed open and in the process of
+closing. At no time during the event were the open door indicating lights illuminated. The door was fully closed in
+three seconds. It was found that the sticking relay made up the logic falsely signaling to the system that the opposite
+door was closed.
+NRC FORM 366A (06-2016) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+Given the impact on the secondary containment, this report is submitted (for Units 1 and 2) in accordance with the
+requirements of 10 CFR 50.73(a)(2)(v)(C), which requires the reporting of any event or condition that could have
+prevented the fulfillment of the safety function of structures or systems that are needed to control the release of
+radioactive material.
+C. CAUSE OF EVENT
+The cause was determined to be a dirty contact on an interlock relay that caused the relay to stick. The contact was
+inspected, cleaned, and tested satisfactory. The door was operated approximately 35 times and the sticking relay
+could not be repeated.
+D. SAFETY ANALYSIS
+System Design
+The function of the secondary containment is to contain, dilute, and hold up fission products that may leak from
+primary containment following a Design Basis Accident (DBA). In conjunction with operation of the Standby Gas
+Treatment System (SBGTS) [BH] and closure of certain valves [V] whose lines penetrate the secondary containment,
+the secondary containment is designed to reduce the activity level of the fission products prior to release to the
+environment, and to isolate and contain fission products that are released during certain operations that take place
+inside primary containment, when primary containment is not required to be operable, or that take place outside
+primary containment.
+Updated Final Safety Analysis Report (UFSAR) Section 6.2.3.1 provides that the safety objective of the secondary
+containment system, in conjunction with other engineered safeguards and nuclear safety systems, is to limit the
+release of radioactive materials so that offsite doses resulting from a postulated DBA will remain below 10 CFR 100
+guideline values.
+The secondary containment interlocks are designed to provide personnel access to the RB from the TB while
+maintaining a negative differential pressure in the RB. The Unit 2 RFP interlock doors are normally secured closed by
+energized electromagnets. The doors are operated by a pushbutton near each door that de-energize the
+electromagnets and start an actuator to open the door. The doors are designed with relay logic so that only one door
+can be opened at a time. A red light near each door illuminates when one of the doors is open.
+Safety Impact
+Both Units 1 and 2 share a common RB (secondary containment). When both RFP interlock doors were opened
+simultaneously, this caused a momentary loss of secondary containment.
+TS 3.6.4.1, Action A.1, requires restoration of secondary containment to operable status within four hours. This four
+hour Completion Time provides a period of time to correct the problem that is commensurate with the importance of
+maintaining secondary containment during Modes 1, 2, and 3, since the probability of an accident occurring during
+this short period where secondary containment is inoperable is minimal.
+The primary purpose of the secondary containment is to minimize the ground level release of airborne radioactive
+materials and to provide a controlled, elevated release of the building atmosphere under accident conditions. An
+engineering analysis was performed to demonstrate that during the short (momentary) time that both doors of the
+corresponding interlock were simultaneously opened, the doors were not open sufficiently long enough to cause a RB
+NRC FORM 366A (06-2016) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+low differential pressure alarm, hence no loss of secondary containment differential pressure occurred. Secondary
+containment would have sufficiently contained radioactive materials during a Loss of Coolant Accident (LOCA) such
+that all current dose limits would remain to be met. As a result, the system safety function of secondary containment
+would have been maintained throughout the event. Therefore, the dose consequence from postulated releases from
+the RB during this short duration would remain to be bounded by the existing design basis LOCA dose analysis. The
+safety significance of this event was minimal.
+The engineering analysis that was performed demonstrated this event did not constitute a Safety System Functional
+Failure (SSFF). (Reference NEI 99-02, Revision 7, Regulatory Assessment Performance Indicator Guideline, Section
+2.2, Mitigating Systems Cornerstone, Safety System Functional Failures, Clarifying Notes, Engineering analyses.) As
+such, this event will not be reported in the NRC Performance Indicator (PI) for safety system functional failures since
+an engineering analysis was performed which determined that the system was capable of performing its safety
+function during this event when both doors of the secondary containment interlock were momentarily simultaneously
+opened.
+Risk Insights
+The plant Probabilistic Risk Assessment (PRA) model gives no credit to the secondary containment and does not
+include it in the model, hence the as-found conditions did not contribute to an increase in risk. In addition, the
+physical integrity of the secondary containment structure was never compromised and the primary containment
+function was never lost.
+Although secondary containment was momentarily inoperable per TS 3.6.4.1, Condition A, when the Unit 2 RFP
+interlock doors were opened simultaneously due to an intermittently binding interlock relay contact, there was no DBA
+condition in progress, and secondary containment function was restored immediately when one of the doors was
+closed. RB differential pressure was maintained during the event.
+In conclusion, the overall safety significance and impact on risk of this event were minimal.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. The dirty contact was inspected, cleaned and tested satisfactorily. The door was operated approximately
+35 times and the issue did not reoccur.
+Follow-up:
+1. Add steps to all interlock Preventive Maintenance and current Work Orders for visual inspection, voltage
+checks, and cleaning of all interlock relays.
+F. PREVIOUS OCCURRENCES
+The station events database, LERs, and INPO Consolidated Event System (ICES) were reviewed for similar events
+at Quad Cities Nuclear Power Station. This event was a failure of a secondary containment interlock door caused by
+a dirty contact on an interlock relay, which allowed two interlock doors to be opened simultaneously. Based on the
+conditions of this event, causes, and associated corrective actions, the events listed below, although similar in topic,
+are not considered significant station experiences that would have directly contributed to preventing this event.
+NRC FORM 366A (06-2016) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 YEAR NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+ LER 254/2014-002-00, 06/02/14, Reactor Building Interlock Doors Opened Simultaneously Cause Loss of
+Secondary Containment (04/1/14) - Both doors in the secondary containment interlock on the 595 foot elevation
+from the Unit 2 Reactor Feed Pump room to the Reactor Building were opened simultaneously. The cause of
+the interlock failure was due to a malfunctioning interlock door hydraulic actuator and time delay relays had
+allowed the second door to open before the first door was secured. Corrective actions included replacing the
+failed actuator, adjusting the limit switch, and a set point change to resolve relay time delay issues. Since this
+event cause is different from the current event cause (sticking relay), the previous interlock failure event is not
+directly applicable to the event of this current LER.
+ LER 254/2015-006-00, 6/24/15, Interlock Doors Opened Simultaneously Cause Loss of Secondary Containment
+(04/28/15) - the control room was notified that the Unit 1/2 emergency diesel generator (EDG) room manual side
+door and the Unit 1 reactor building (RB) side door, as a part of the personnel interlock to the 1/2 EDG room,
+were opened simultaneously. The failure of this interlock caused a temporary loss of secondary containment
+(inoperable) per Technical Specification (TS) 3.6.4.1, Condition A. The 1/2 EDG manual interlock door was
+closed immediately, and the secondary containment boundary was immediately reestablished. Operators
+verified the RB (secondary containment) differential pressure remained negative during this event. It was
+determined that the latch did not engage into the strike plate, hence this failure mechanism is not directly
+applicable to the event of this current LER.
+G. COMPONENT FAILURE DATA
+Failed Equipment: Relay
+Component Manufacturer: General Electric
+Component Model Number: CR122
+Component Part Number: N/A
+This event has been reported to ICES as Report No. 326170
+NRC FORM 366A (06-2016) Page 5 of 5

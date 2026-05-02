@@ -1,0 +1,174 @@
+.a
+energy
+~ harbor
+Energy Harbor Nuclear Corp
+Perry Nuclear Power Plant
+10 Center Road
+Perry, Ohio 44081
+Rod L. Penfield 440-280-5382
+Site Vice President, Perry Nuclear 724-462-0816 (cell)
+February 22, 2023
+L-23-015 10 CFR 50.73(a)(2)(iv)(A)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2023-001, "Manual ECCS Actuation
+Following Automatic Reactor Trip." There are no regulatory commitments contained in
+this submittal.
+If there are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager - Regulatory Compliance, at (440) 280-7538.
+~ ;o;;;t
+Rod L. Penfield
+Enclosure:
+LER 2023-001
+cc: NRG Project Manager
+NRG Resident Inspector
+NRG Region Ill Regional Administrator
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-10-2023) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+. ., lessons learned are incorporated into the licensing process and fed back to industry. Send conments
+lq¥l>"flllfOu, \ LICENSEE EVENT REPORT (LER) regading burden estimate lo the Information Services Branch [T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the 0MB
+(See Page 2 for required number of digits/characters for each block) reviewer at 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+t. ....r. l.i Nuclea Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+(See NUREG-1022, R.3 for instruction and guidance for completing this fomn oira submission@omb.eop.gov. The NRGm ay not conduct or sponSO(, and a person is not required to
+htt11://www.nrc.gov/reading-mn/doc-collections/nuregs/staff/sr1022/r3/ respond to, a collection of information unless the document requesting or requiring the collection displays a
+currently valid 0MB control number.
+1. Facility Name ~ 050 2. Docket Number 3. Page
+Perry Nuclear Power Plant □ 052 00440 1 OF 3
+4. Title:
+Manual ECCS Actuation Following Automatic Reactor Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e tia r l R N e o v . Month Day Year Facility Name □ 050 Docket Number
+01 05 2023 2023 - 001 - 00 02 xx 2023 Facility Name □ 052 Docket Number
+9. Operating Mode 10. Power Level
+1 098
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(vlli)(A) □ 73.1200(a)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.36(c)(1 )(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.36(c)(1)(ii)(A) □ 50. 73(a)(2)(iii) □ 50. 73(a)(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) ~ 50.73(a)(2)(iv)(A) □ 50. 73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.69(g) □ 50. 73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50. 73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(9)
+□ 20.2203(a)(2)(iv) □ 50. 73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50. 73(a)(2)(i)(C) □ 50. 73(a)(2)(vii)
+□ OTHER (Specify here, in abstract, or in NRC Form 366A).
+12. Licensee Contact for this LER I
+Licensee Contact Phone Number (Include area code)
+George Dujanovic, Staff Nuclear Engineering Specialist, Regulatory Compliance 440-280-5200
+13. Complete One Line for Each Component Failure Described in this Report
+Cause System Component Manufacturer I Reportable to IRIS I Cause I System Component I Manufacturer I Reportable to IRIS
+X SJ CPU F180 I y I X I SJ JX I X999 I y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+~ No I □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On January 5, 2023, at 1242, with the reactor in Mode 1 and at 98% rated thermal power, an automatic reactor trip
+occurred due to lowering water level in the reactor vessel. The High Pressure Core Spray (HPCS) and Reactor Core
+Isolation Cooling (RCIC) systems were manually initiated to restore and control water level in the reactor vessel.
+The direct cause of the reactor trip was attributed to the failure of the Digital Feedwater Control System (DFWCS) to
+control reactor water level, following corrective maintenance on one of the power sources to the system.
+A latent configuration control issue in the system caused unexpected indication losses during the maintenance. Upon re-
+energizing the power source, two component failures in DFWCS, and an overloaded communications network, caused the
+system to lower reactor water level, which resulted in a reactor trip.
+The failed components were replaced, and the reactor was re-started on January 8, 2023.
+This event is being reported in accordance with 10 CFR 50. 73(a)(2)(iv)(A) due to an automatic Reactor Protection
+System (RPS) actuation and the manual initiation of two Emergency Core Cooling System (ECCS) systems.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the 0MB
+CONTINUATION SHEET reviewer at: 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of infonmation unless the document requesting or requiring the collection displays
+http://www.n r e.gov /reading-rm/doc-collections/nu regs/staffl s r1 022/r3/ a currently valid 0MB control number.
+2. DOCKET NUMBER ______3 _. _LE_R_N_U_M. .B_ E_R_ ____
+1- FACILITY NAME
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Perry Nuclear Power Plant 00440
+2023 001 00
+□ 052
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT DESCRIPTION
+On January 5, 2023, planned corrective maintenance was being performed on a voltage-regulating transformer [XFMR]
+which is one of the redundant power sources to the Digital Feedwater Control System (DFWCS) [SJ]. When the
+transformer was de-energized for the work to be performed, Operators received some unexpected losses of DFWCS
+indication, resulting in the loss of all of the DFWCS Operator interface screens. Reactor power, pressure and level
+remained stable at this time, indicating that DFWCS maintained control.
+Based on the plant remaining stable, a decision was made to continue with the work on the transformer.
+Upon the post-maintenance energization of the voltage regulating transformer, a reactor water level transient of three
+inches occurred, and then stabilized. A walkdown of DFWCS identified a failed level control processor module [CPU] and a
+degraded power supply [JX]. The decision was made to perform a Nodebus Check (online diagnostic test) to restore the
+lost indication in the system. Due to the loss of all the DFWCS interface screens, the Operators did not recognize that the
+system demanded zero level to the DFWCS controllers during a re-sync of the level control processor modules. This zero
+demand signal was sent to the Reactor Feed Pump Turbines (RFPTs) [Pl governor [65] thereby causing the RFPTs to
+reduce output to idle and minimum flow. The reduced feedwater flow resulted in the reactor water level lowering to Level 3,
+which caused an automatic reactor trip at 1242. Operators then manually initiated two Emergency Core Cooling Systems
+(ECCS), High Pressure Core Spray (HPCS) [BG] and Reactor Core Isolation Cooling (RCIC) [BN] to restore and control
+reactor water level. The Motor Feed Pump became available at 1251 and was started at 1253 to control reactor water level.
+At 1254, the Motor Feed Pump was controlling reactor water level through DFWCS.
+The Condition Report investigation revealed that the cause of the reactor trip was attributed to the failure of a DFWCS level
+control processor module along with a degraded power supply, concurrent with a DFWCS network communications
+overload.
+Additionally, a configuration control issue was found with some of the DFWCS media translators [CNV] being connected to
+the incorrect power source. This resulted in the unexpected loss of additional DFWCS workstations and indications to the
+Operators when power was removed for the maintenance. It also caused increased DFWCS network communication traffic,
+due to the loss of interface screens hindering the Operator's ability to acknowledge alarms.
+NRC notification (EN 56298) was made on January 5, 2023, at 1539, under 10 CFR 50.72(b)(2)(iv)(A) - ECCS Injection and
+10 CFR 50.72(b)(2)(iv)(B) - RPS Actuation.
+The faulty DFWCS power supply and the failed secondary control processor module were replaced. The configuration
+control issue was also corrected with the media translators. Post maintenance testing for DFWCS was performed
+satisfactorily, and a successful reactor startup was completed on January 8, 2023.
+CAUSES OF EVENT
+The direct cause of the automatic reactor trip was attributed to the failure of one of the DFWCS level control processor
+modules, along with an intermittent power supply failure, and combined with a network traffic overload which overall
+resulted in a zero percent output demand signal to the Reactor Feed Pump Turbine (RFPTs) governor, causing the RFPTs
+to reduce speed to idle and minimum flow output.
+Page 2 of3
+NRC FORM 366A (01-01-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 12/31/2023
+(01-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the 0MB
+CONTINUATION SHEET reviewer at: 0MB Office of lnfonmation and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+oira submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection displays
+http://www. nr e.g ov /read in g-rrn/doc-collectio ns in ur egs/staff/ sr1 022/r3/
+a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER t----~....--3._L_E_R_N_U_M.B .._ E_R ____- -t
+181 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Perry Nuclear Power Plant
+00440
+□ 052 2023 001 00
+NARRATIVE
+CAUSES OF EVENT (continued)
+Other cause identified:
+A latent human performance issue occurred during an upgrade of the media translators, and a configuration control issue
+occurred with correct power sources to the media translators. This went undiscovered until this event occurred.
+EVENT ANALYSIS
+A Probabilistic Risk Assessment (PRA) bounding evaluation was performed for the January 5, 2023 event. An analysis of
+this uncomplicated plant scram results in a delta CDF and a delta LERF that are well below the acceptable thresholds of
+1.0E-06/yr and 1.0E-07/yr, respectively, as discussed in Regulatory Guide 1.174. The risk of this event is therefore
+considered to be of very low safety significance in accordance with the Regulatory Guidance.
+CORRECTIVE ACTION
+The DFWCS defective power supply and the secondary control processor module were replaced. Configuration control
+issue with the media translators was corrected.
+PREVIOUS SIMILAR EVENTS
+There have been no Licensee Event Reports in the past three years related to DFWCS.
+NRC FORM 366A (01-01-2023) Page 3 of 3

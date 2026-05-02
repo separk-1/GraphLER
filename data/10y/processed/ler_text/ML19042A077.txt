@@ -1,0 +1,191 @@
+-,..,_
+7 :E.xeton·Ge:neratlon®
+J,a,s,.
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604468 10 CFR 50.73
+February 5, 2019 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATIN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2018-003-01
+Enclosed is Licensee Event Report (LER) 2018-003-01: Load Driver Card Failure Resulting in
+High Pressure Core Spray lnoperability. This is a supplemental report to LER 2018-003-00
+submitted to the NRC on August 17, 2018. The updated information in the LER is denoted by
+revision bars located in the right-hand margin. This report is being submitted in accordance with
+the requirements of 1O CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2018-003-01
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector -Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+l"<',:,P ": REG'!-<., :, LICENSEE EVENT REPORT {LER) R in e d p u o st r r t y e . d S le e s n s d o n c s o m le m a e rn n e ts d r a e r g e a rd in in c g o rp b o u ra rd te e d n i e n s to ti m t a h t e e l t i o c en th s e in g l nf p o r n o n c a es tio s n an S d e rv f i e c d e s ba B c ra k nc to h
+... .. (See Page 2 for required number of digits/characters for each block) (T·2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If
+(See NUREG-1022, R.3 for instruction and guidance for completing this form a means used to impose an infonnation collection does not
+~~'!'4~/;;1;,r,;l httg://www.nrc.gov/reading-rm/doc-col lections/n u regs/staff /sr1 022/r3i) display a currently vaiid 0MB control number, the NRG may not conduct or sponsor, and a person
+is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 3
+4. Title
+Load Driver Card Failure Resulting in High Pressure Core Spray lnoperability
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 05000
+- - Facility Name Docket Number
+06 20 2018 2018 003 01 02 05 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: {Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+099 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) IX! 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+"• ' -~ f : '){: .~ /::
+l\~i . D D
+* ., T 50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+> - - •
+12. Licensee Contact for this LER
+Licensee Contact !Telephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES I;~ Cause System Component Manufacturer Reportable to ICES
+Unknown BG RLY GE y ; ~.I ~ ./~,", i
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D IXJ
+Yes (If yes, c~mplete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On June 20, 2018, at 1145 CDT, during panel walkdown, a reactor operator identified that High Pressure Core Spray
+(HPCS) injection valve 1 E22-F004 was in the open position. Valve 1 E22-F004 is normally closed and receives an open
+signal upon HPCS initiation. Operations personnel verified that the valve was open locally and that the plant computer
+indicated the valve was in the 'not closed' position. No alarms or status lamps indicated why the valve would be open and
+there was no valid demand signal. Reactor power, pressure, level, and feedwater parameters remained steady and
+unchanged, with no indication of HPCS injection having occurred or required. With valve 1 E22-F004 in the open position
+without a demand signal, closure on a high reactor water level condition was not assured. HPCS was, therefore, declared
+inoperable. Technical Specifications (TS) 3.5.1, "Emergency Core Cooling Systems (ECCS)-Operating," and 3.6.1.3,
+"Primary Containment Isolation Valves (PCIVs)," were entered. The HPCS injection valve 1 E22-F004 was subsequently
+observed cycling without operator action. To assure the containment isolation function and closure on a high reactor water
+level condition, 1 E22-F004 was deactivated in the closed position. The apparent cause of the event was the load driver
+transient voltage suppressors failing causing the. open and close circuits to be energized. As a corrective measure, the
+original load driver circuit cards were replaced. This event was reported as an 8-hour non-emergency notification per 10
+CFR 50.73(a)(2)(v)(D) as any event or condition that at the time of discovery could have prevented the fulfillment of the
+safety function of structures or systems that are needed to mitigate the consequences of an accident.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1 D22, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www. n re.gov/reading-rm/doc-collections/nu regs/staff/ sr1 022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO. Ii
+- -
+2018 003 01
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Load Driver Card Failure Resulting in High Pressure Core Spray lnoperability
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: June 20, 2018 Event Time: 1145
+Mode: 1 Mode Name: Power Operation Reactor Power: 099 percent
+B. Description of Event
+On June 20, 2018, at 1145 CDT, the High Pressure Core Spray (HPCS) injection valve 1 E22-F004 was
+observed in the "OPEN" instead of the required "CLOSED" position. A review of computer point HP
+BC801, "HPCS Pump Discharge 1 E22-F004," and Transient Test (TT) Channel 50, "HPCS Injection
+Valve Position," showed the valve opened at approximately 0847 CDT. Operations entered Technical
+Specification (TS) 3.5.1, "EGGS-Operating," and TS 3.6.1.3, "Primary Containment Isolation Valves
+(PCIVs)," Required Actions in response to the event. The HPCS injection valve remained in the OPEN
+position as additional assessment and troubleshooting activities were conducted.
+At approximately 1324 CDT, the HPCS injection valve began cycling "OPEN" and "CLOSED." This
+condition occurred for approximately 13 minutes and 45 seconds at which time the 1 E22-F004 valve
+was de-energized and the valve manually isolated.
+C. Cause of the Event
+Troubleshooting was initiated to determine the cause for the HPCS injection valve OPEN/CLOSE circuit
+operations. The initiating event for the as-found position of valve 1 E22-F004 was that the 1 H 13-P663-B-
+. A 16-A1 23 (A 123) load driver circuit card [RLY ] failed in a manner that caused it to send a spurious
+signal which opened the valve. Troubleshooting also identified unexpected voltages at the output of the
+1H13-P663-B-A1 6-A1 21 (A 121) load driver circuit card. This load driver provided the signal to close the
+valve. When both the A123 and A121 load driver cards were replaced, the voltages in the circuit
+returned to expected values. The apparent cause of the event was the load driver transient voltage
+suppressors suffered a random failure causing the circuits to be energized.
+NRG FORM 366A (04-2018) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1 D22, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 D22/r3/l
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+- - !/
+2018 003 01
+LJ
+NARRATIVE
+D. Safety Consequences
+There were no actual safety consequences associated with the condition described in this report. The
+HPCS system provides and maintains an adequate coolant inventory inside the reactor vessel to limit
+fuel cladding temperatures in the event of breaks in the reactor coolant pressure boundary. The system
+is initiated by either high pressure in the drywell or low water level in the reactor vessel. Though the as
+found HPCS injection valve position rendered the system inoperable, the Reactor Core Isolation Cooling
+(RCIC) system was operable throughout this event. Although no credit is taken in the safety analysis for
+the RCIC system, it performs a similar function as HPCS but has reduced makeup capability. HPCS is
+also backed up by the Automatic Depressurization System in combination with the Low Pressure
+Coolant Injection [BO] and Low Pressure Core Spray [BM] systems. These systems also remained
+operable throughout this event.
+This event is reportable under the provisions of 10 CFR 50.73(a)(2)(v)(D) as a condition that could have
+prevented fulfillment of the HPCS system (a single train safety system) to mitigate the consequences of
+an accident.
+E. Corrective Actions
+The original load driver circuit cards were replaced.
+·'
+F. Previous Similar Occurrences ·.\,..--
+There were no previous similar occurrences involving load driver card failure that resulted in
+HPCS inoperability.
+G. Component Failure Data
+Manufacturer: General Electric Hitachi
+Part Number 14708455 Load Driver Card
+NRG FORM 366A (04-2018) Page _3_ of _3_

@@ -1,0 +1,266 @@
+1_., ouKE
+William R. Gideon
+Vice President
+ENERGYGD
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+JUN 0. 5 2018
+10 CFR 50.73
+Serial: RA-18-0037
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2018-002
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager - Regulatory
+Affairs, at (910) 832-2487.
+William R. Gideon
+MAT/mat
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852 2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(02-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+t>f\AEG(J{ LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to industry.
+.:,V~ "I>o .,, Send comments regarding burden estimate to the Information Services Branch
+.t. i ,L (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+... ("> to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+\j;
+0
+" Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+........ ! (See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+<,..,,,l'J http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 4
+4. Title
+Automatic Reactor Trip during Stator Coolant System Realignment
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+04 07 2018 2018 - 002 - 00 06 05 2018 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+• • • •
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+• • • •
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+• • • •
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+• • •
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level • 20.2203(a)(2)(ii) • 50.36(c)(1)(ii)(A) • 50.73(a)(2)(v)(A) • 73.71(a)(4)
+• • • •
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+• • • •
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 • 20.2203(a)(2)(v) • 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(D) • 73.77(a)(2)(ii)
+• 20.2203(a)(2)(vi) • 50.73(a)(2)(i)(B) • 50.73(a)(2)(vii) • 73.77(a)(2)(iii)
+• 50.73(a)(2)(i)(C) • Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact IT elephone Number (Include Area Code)
+Lee Grzeck, Manager – Regulatory Affairs (910) 832-2487
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+•
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On April 7, 2018, at 0836 Eastern Daylight Time (EDT), Unit 1 automatically tripped during realignment of
+the Stator Cooling System. The trip was uncomplicated with all systems responding normally. Reactor
+water level reached low level 1 (LL1) due to the reactor trip. Per design, the LL1 signal resulted in
+Group 2, Group 6, and Group 8 Primary Containment Isolation System (PCIS) actuations. The Reactor
+Protection System (RPS) and PCIS actuations are being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) as an event or condition that resulted in manual or automatic actuation of
+systems listed in 10 CFR 50.73(a)(2)(iv)(B).
+The direct cause of this event was a design deficiency which resulted in an unanticipated Turbine
+Protection System actuation that caused a main turbine trip and subsequent automatic reactor trip. The
+root cause of the design deficiency was determined to be human performance related. Corrective
+actions include training and procedure revisions.
+NRC FORM 366 (02-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant YEAR
+05000325 NUMBER NO.
+(BSEP), Unit 1
+2018 - 002 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent of rated
+thermal power (RTP). No safety-related equipment was inoperable at the time of the event.
+Reportability Criteria
+The Reactor Protection System (RPS) [JC] and Primary Containment Isolation System (PCIS) [JM]
+actuations are being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that
+resulted in manual or automatic actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B). The event was
+initially reported to the NRC on April 7, 2018 (i.e., Event Number 53319).
+Event Description
+On April 7, 2018, realignment of the Unit 1 Stator Cooling System [TJ] was being performed in accordance
+with plant procedure 0PT-36.1, Stator Cooling System. On a monthly basis, the operating Stator Cooling
+pump is alternated. This is accomplished by starting the reserve pump, followed by shutting down the
+operating pump. When the reserve pump (i.e., the 1B pump) was started, a Loss of Stator Cooling and a
+Stator Coolant Low Flow alarm were received in the control room. Both Stator Cooling pumps were in
+service and reports from the field indicated normal Stator Cooling System pressure. Computer data
+indicated the expected increase in Stator Cooling System flow when the second pump was started. The
+Control Room staff evaluated indications for the Stator Cooling System and found no evidence that there
+were any problems with the system or impact on Stator temperature. The staff continued with restoration
+steps for 0PT-36.1. However, coincident with the alarms, a 120 second timer started; at the completion of
+which an automatic main turbine trip occurred. This resulted in an automatic reactor trip at 0836 Eastern
+Daylight Time (EDT).
+The scram was uncomplicated with all systems responding normally. Reactor water level reached low
+level 1 (LL1) due to the reactor trip. Per design, the LL1 signal resulted in Group 2 (i.e., floor and equipment
+drain isolation valves), Group 6 (i.e., monitoring and sampling isolation valves) and Group 8 (i.e., shutdown
+cooling isolation valves) isolations. The LL1 isolations occurred as designed; the Group 8 valves were
+closed at the time of the event.
+Event Cause
+The direct cause of this event was a design deficiency which resulted in an unanticipated Turbine Protection
+System [JJ] actuation that caused a main turbine trip and subsequent automatic reactor trip. This was the
+first performance of 0PT-36.1 after the recently completed Unit 1 refueling outage during which a new
+Turbine Control System (TCS) [JJ] was installed.
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant YEAR
+05000325 NUMBER NO.
+(BSEP), Unit 1
+2018 - 002 - 00
+NARRATIVE
+The original Stator Cooling System measured flow, pressure, and temperature and provided input to the
+Electro-Hydraulic Control (EHC) Turbine Protection System to initiate a main turbine trip on low flow, low
+pressure, or high temperature. For flow, the Stator Cooling System had a single flow differential pressure
+switch, which represented a single point scram vulnerability. To address the single point vulnerability, the
+flow differential pressure switch was replaced with three differential pressure transmitters, which input to a
+2-out-of-3 trip logic. The differential pressure transmitters have a range of 0 to 600 gpm. The new TCS
+logic is designed to detect faulted instruments and initiate a main turbine trip if all the instruments for the
+protective function are faulted. The high out-of-range faulted instrument setpoint for the differential pressure
+transmitters corresponds to 612 gpm. Normal Stator Cooling System flow is approximately 550 gpm to
+570 gpm with one pump in service but routinely exceeds 612 gpm with two pumps operating. When the
+reserve Stator Cooling pump was started during the performance of procedure 0PT-36.1, system flow
+exceeded 612 gpm and the subsequent main turbine and reactor trips occurred.
+The root cause of the design deficiency was determined to be human performance related. Critical thinking
+tools (i.e., procedure prompts, operating experience application, risk identification, and supervisory
+oversight) were not effectively used to assure successful implementation of the new TCS. This resulted in
+the following shortcomings: (1) design documentation did not include sufficient information to adequately
+assess the impact and risk of the new faulted instrument trip feature such that reviewers could identify the
+vulnerability that was introduced; (2) design documentation did not include an assumption that the span of
+instrumentation bounded operational conditions that would be expected to be experienced, which lead to an
+inadequate evaluation of the high out-of-range faulted instrument setpoint selection and assumptions; and
+(3) operating experience was not effectively used to ensure that all installed instrument spans were identified
+for appropriate adjustments.
+Safety Assessment
+The safety significance of this event is minimal. The automatic reactor trip was not complicated and all
+safety-related systems operated as designed.
+Corrective Actions
+The following corrective actions were completed.
+• A software change was implemented to remove the automatic bypass and trip input of faulted
+high-out-of-range Stator Cooling Flow differential pressure transmitters.
+• The TCS modification was reviewed to verify that process inputs for trip functions in TCS had adequate
+margin to ensure faulted instrument trip setpoints would not be exceeded during postulated operation
+including transients.
+The following corrective actions are currently planned. Any changes to the corrective actions and
+schedules noted below will be made in accordance with the site's corrective action program.
+• Training will be conducted to present a case study of lessons learned from failed barriers for design
+development (i.e., use of procedure prompts, operating experience application, risk identification, and
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER)
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant YEAR
+05000325 NUMBER NO.
+(BSEP), Unit 1
+2018 - 002 - 00
+NARRATIVE
+supervisory oversight) to identification, documentation, and verification of assumptions to appropriate
+Engineering personnel. The case study will be incorporated into backbone Design Control recurring
+training. This action is currently scheduled to be completed by October 31, 2018.
+• Procedure AD-EG-ALL-1157, Engineering of Plant Digital Systems and Components, will be revised to
+provide more specific guidance on evaluation of response to out-of-range or unexpected values to
+consider margin to achievable plant conditions. This action is currently scheduled to be completed by
+December 20, 2018.
+• Procedure AD-EG-ALL-1132, Preparation and Control of Design Change Engineering Changes, will be
+revised to add consideration of new or modified functions that will cause a reactor trip or Engineered
+Safety Feature (ESF) actuation to ensure that methods of initiating the trip or ESF actuation are
+evaluated for unintended actuation. This action is currently scheduled to be completed by
+December 20, 2018.
+Previous Similar Events
+A review of LERs for the past three years identified the following previous similar event where a modification
+introduced an unforeseen consequence.
+• LER 1-2016-002, Revision 1, dated August 8, 2016, reported a condition that could have prevented the
+fulfillment of a safety function and operation prohibited by the Technical Specifications due to
+inoperability of Emergency Diesel Generator (EDG) 3. The root cause of the EDG 3 inoperability was a
+design vulnerability, associated with relaxation of the EDG 3 fuse holder fingers, which was not properly
+mitigated. The corrective actions associated with LER-2016-002, Revision 1, were focused on
+correcting the design vulnerability and the use of fuse block devices. These actions could not have
+reasonably been expected to prevent the condition reported in LER 1-2018-002.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2017) Page 4 of 4

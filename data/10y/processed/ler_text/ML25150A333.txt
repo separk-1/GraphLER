@@ -1,0 +1,269 @@
+Xcel Energy*
+2807 West County Road 75
+Monticello, MN 55362
+May 30, 2025 L-MT-25-022
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Monticello Nuclear Generating Plant
+Docket No. 50-263
+Subsequent Renewed Facility Operating License No. DPR-22
+Monticello Nuclear Generating Plant Licensee Event Report 2024-002-01
+Northern States Power Company, a Minnesota corporation, doing business as
+Xcel Energy (hereafter "NSPM"), hereby submits Licensee Event Report (LER)
+50-263/2024-002-01 per 10 CFR 50.73(a)(2)(i)(B), 10 CFR 50.73(a)(2)(v)(B), and
+10 CFR 50.73(a)(2)(v)(D). This report is a supplement to LER 50-263/2024-002-00 which
+was submitted on August 27, 2024 (ADAMS accession number ML24240A166).
+If you have any questions about this submittal, please contact Carrie Seipp, Senior
+Regulatory Engineer, at 612-330-5576.
+Summary of Commitments
+This letter makes no new commitments and no revisions to existing commitments.
+Greg D. Brown
+Plant Manager, Monticello Nuclear Generating Plant
+Northern States Power Company - Minnesota
+Enclosure
+cc: Administrator, Region III, USNRC
+Project Manager, Monticello, USNRC
+Resident Inspector, Monticello, USNRC
+State of Minnesota
+ENCLOSURE
+MONTICELLO NUCLEAR GENERATING PLANT
+LICENSEE EVENT REPORT 50-263/2024-002-01
+4 pages follow
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+(See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name ■ 050 2. Docket Number 3. Page
+Monticello Nuclear Generating Plant
+263 1 OF 4
+052
+4. Title
+Low Pressure Coolant Injection Inoperable Due To Motor Valve Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+I 06 28 24 2024 - 002 - 01 05 30 25 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) ✔ 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+I 20.2203(a)(2)(iv) ✔ 50.73(a)(2)(i)(B) ✔ 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Carrie Seipp, Senior Nuclear Regulatory Engineer 612-330-5576
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BO ISV L200 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+✔ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 28, 2024 at 0110 CDT, Monticello Nuclear Generating Plant was in Mode 1 at 100 percent power and performing OSP-RHR-0556
+“Residual Heat Removal (RHR) Water Fill Verification” Technical Specification Surveillance Procedure. When the RHR Low Pressure Coolant
+I Injection (LPCI) Motor Valve MO-2012 "RHR Division 1 LPCI Injection Outboard Valve" was attempted to be cycled, the Outboard Motor
+I Valve opened approximately one inch then stopped. With the Outboard Motor Valve incapable of opening, the A LPCI injection path was
+inoperable for injection as an Emergency Core Cooling system; and due to the plant design of the LPCI Loop Select Logic, this rendered both
+I subsystems of LPCI inoperable. Subsequent evaluation determined that the Outboard Motor Valve was considered inoperable when it was
+I configured closed based on the potential to have Reactor pressure on the inboard side of the valve due to leakage past the associated RHR
+I Division 1 LCPI Injection Inboard Motor Valve.
+I The cause of the event was that the Outboard Motor Valve's motor pinion was not secured to the motor shaft because an incorrect-sized set
+screw was installed. The shorter motor pinion set screw relaxed, allowing the motor pinion to move axially along the motor shaft until it no
+longer engaged the worm shaft clutch gear.
+I On June 29, 2024, the Outboard Motor Valve's motor pinion was adjusted back into position on the motor shaft. On August 7, 2024, the
+I incorrect motor pinion set screw on the Outboard Motor Valve was replaced with the correct set screw.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Monticello Nuclear Generating Plant 263
+I 2024
+052 - 002 - 01
+NARRATIVE
+EVENT DESCRIPTION
+On June 28, 2024 at 0110 CDT, Monticello Nuclear Generating Plant (MNGP) was in Mode 1 at 100 percent power and
+performing OSP-RHR-0556 “Residual Heat Removal (RHR) Water Fill Verification” Technical Specification Surveillance
+Procedure. When the RHR Low Pressure Coolant Injection (LPCI) [EIIS CODE: BO] Motor Valve MO-2012 “RHR
+I Division 1 LPCI Injection Outboard Valve” was attempted to be opened via the control room hand switch, the Outboard
+I Motor Valve opened approximately one inch then stopped. With the Outboard Motor Valve incapable of opening, the A
+LPCI injection path was inoperable for injection as an Emergency Core Cooling system; and due to the plant design of
+the LPCI Loop Select Logic, this rendered both subsystems of LPCI inoperable. Specifically, if the B Recirc loop was
+I determined to be broken, the automatic logic would be incapable of opening the path to the A LPCI injection path and
+I neither division would automatically inject. Subsequent evaluation determined that the Outboard Motor Valve was
+I inoperable when it was configured closed based on the potential to have Reactor pressure on the inboard side of the
+I valve due to leakage past the associated Inboard Motor Valve MO-2014 "RHR Division 1 LCPI Injection Inboard valve."
+This event is reportable per 10 CFR 50.73(a)(2)(i)(B) for a condition prohibited by Technical Specifications and 10 CFR
+I
+50.73(a)(2)(v)(B) and 10 CFR 50.73(a)(2)(v)(D) for an event or condition that could have prevented the fulfillment of a
+I
+safety function of structures or systems that are needed to remove residual heat and mitigate the consequences of an
+accident based on the safety function at the RHR LPCI system level. This issue was evaluated for a Safety System
+Functional Failure (SSFF) in accordance with NEI 99-02. This event is a Safety System Functional Failure (SSFF) due to
+meeting reporting criteria per 10 CFR 50.73(a)(2)(v)(B) and 10 CFR 50.73(a)(2)(v)(D).
+DATES AND APPROXIMATE TIMES OF MAJOR OCCURANCES
+I
+• October 18, 2023 at 1407 CDT: The Outboard Motor Valve was closed due to leakage past the Inboard Motor Valve.
+I
+I • October 22, 2023 at 0207 CDT: The required completion time to be in Mode 3 due to Technical Specification 3.5.1
+Condition F, as directed by Condition D.
+I
+I • November 15, 2023 at 1619 CST: The Outboard Motor Valve was opened.
+I • April 14, 2024 at 1455 CDT: The Outboard Motor Valve was closed due to leakage past the Inboard Motor Valve.
+I • April 18, 2024 at 0255 CDT: The required completion time to be in Mode 3 due to Technical Specification 3.5.1
+I Condition F, as directed by Condition D.
+I • June 27, 2024 at 2158 CDT: Technical Specification 3.5.1 Condition D entered for Technical Specification
+I Surveillance Procedure OSP-RHR-0556.
+I • June 28, 2024 at 0110 CDT: Event Date. The Outboard Motor Valve was incapable of fully opening during Technical
+I Specification Surveillance Procedure SP-RHR-0556.
+I • June 29, 2024 at 1533 CDT: Technical Specification 3.5.1 Condition D exited following completion of maintenance
+on the Outboard Motor Valve.
+I
+I • August 05, 2024: Identification that the adjustment made to the Outboard Motor Valve’s motor pinion, completed on
+June 29, 2024, should not have been possible if the motor pinion had been installed per the vendor technical
+I
+manual.
+I
+• August 07, 2024 at 0500 CDT: Technical Specification 3.5.1 Condition B and D entered for investigation of and
+I
+repairs to the Outboard Motor Valve.
+I
+• August 08, 2024 at 1058 CDT: Technical Specification 3.5.1 Condition B and D exited following installation of the
+I
+correct motor pinion set screw on the Outboard Motor Valve.
+I
+I • April 03, 2025: Determination that the Outboard Motor Valve should have been considered inoperable when it was
+I configured closed with the incorrect motor pinion set screw and had the potential to have Reactor pressure on the
+I inboard side of the valve due to leakage past the Inboard Motor Valve.
+NR C FORM 366A (04-02-2024) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Monticello Nuclear Generating Plant 263
+2024
+052 - 002 - 01
+NARRATIVE
+EVENT ANALYSIS
+On June 27, 2024 at 2158 CDT, Technical Specification 3.5.1 "ECCS - Operation" Condition D "Two LPCI subsystems
+inoperable for reasons other than Condition C and G" was entered for performance of Technical Specification
+Surveillance Procedure 0255-04-IA-1-2 “RHR Loop B Quarterly Pump and Valve Tests.” Prior to exiting Condition D of
+I Technical Specification 3.5.1, OSP-RHR-0556 was performed. On June 28, 2024 at 0110 CDT while the Outboard
+I Motor Valve was attempted to be opened via the control room hand switch, the Outboard Motor Valve opened
+approximately one inch then stopped, resulting in the inability to exit Condition D of Technical Specification 3.5.1. The
+plant had no other Structures, Systems, or Components that were inoperable at the start of the event that contributed to
+the event.
+While this was later determined to be incorrect, initial troubleshooting identified that the most likely cause of the
+I Outboard Motor Valve failure to stroke was the clutch mechanism was disengaged partially from the motor pinion as a
+I result of foreign material from failure of the tripper spring. The Outboard Motor Valve was repaired and satisfactorily
+retested, then Condition D of Technical Specification 3.5.1 was exited on June 29, 2024 at 1533 CDT.
+I
+I During performance of the root cause evaluation interviews, it was identified that during the Outboard Motor Valve
+repairs performed on June 29, 2024, the motor pinion was found extended on the motor shaft and prior to reassembly, it
+was adjusted back into position. The vendor technical manual specified that the motor pinion should have a set screw
+and lock wire installed, so it should not have been able to move.
+I Further physical investigation on the Outboard Motor Valve and specifically the motor pinion was performed on August
+I 7, 2024. The Outboard Motor Valve was successfully stroked open and closed, then the motor pinion was found to be
+held in place with a set screw and lock wire, with no movement along the motor shaft. The set screw was removed for
+inspection, and it was determined to be the incorrect set screw. Additionally, indications on the motor shaft revealed
+that motor pinion had potentially moved axially in the past. A review of past maintenance records did not identify a time
+where the set screw had been replaced.
+An incorrect set screw would have allowed the motor pinion to travel axially along the motor shaft and eventually
+disengage with the worm shaft clutch gear. When the motor pinion disengaged with the worm shaft clutch gear, the
+I Outboard Motor Valve could not be operated via the control room hand switch which starts the motor actuator.
+I On April 03, 2025, the determination was made that the Outboard Motor Valve should have been considered inoperable
+I when it was configured closed with the incorrect motor pinion set screw and had the potential to have Reactor pressure
+I on the inboard side of the valve due to leakage past the Inboard Motor Valve. With the Outboard Motor Valve
+I incapable of opening, the A LPCI injection path was inoperable for injection as an Emergency Core Cooling system;
+I and due to the plant design of the LPCI Loop Select Logic, this rendered both subsystems of LPCI inoperable.
+I Technical Specification 3.5.1 Condition D requires restoration of one LPCI subsystem to Operable status within 72
+hours. When Condition D is not met, Condition F requires entry to Mode 3 within 12 hours. Therefore, the plant was in
+I
+I a condition prohibited by Technical specifications in the following time frames:
+I • October 22, 2023 at 0207 CDT through November 15, 2023 at 1611 CST.
+I • April 18, 2024 0255 CDT through June 29, 2024 at 1533 CDT.
+The plant was in a condition that could have prevented the fulfillment of a safety function in the following timeframes:
+I
+• October 18, 2023 at 1407 CDT through November 15, 2023 at 1611 CST.
+I
+• April 14, 2024 at 1455 CDT through June 29, 2024 at 1533 CDT.
+I
+NR. C FORM 366A (04-02-2024) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Monticello Nuclear Generating Plant 263
+2024
+052 - 002 - 01
+NARRATIVE
+ASSESSMENT OF SAFETY CONSEQUENCES
+I Actual safety consequences of the event were very low for both normal operation and design basis event operation.
+I High Pressure Emergency Core Cooling System (ECCS), the Low Pressure ECCS subsystem of Core Spray, and the
+I remaining functions of RHR including Drywell Spray and Suppression Pool Cooling were not affected. A probabilistic
+I risk assessment was performed to estimate the impact of the unavailability of the Outboard Motor Valve on Core
+I Damage Frequency and Large Early Release Frequency. The results were within the bounds of "Very Low Safety
+I Significance" described in NRC Inspection Manual Chapter 0609. There were no radiological or industrial impacts
+associated with this event. The health and safety of the public and site personnel were not impacted during this event.
+CAUSE OF THE EVENT
+I The Outboard Motor Valve failed to operate because the motor pinion was not secured to the motor shaft because an
+incorrect-sized set screw was installed. The shorter motor pinion set screw relaxed, allowing the motor pinion to move
+axially along the motor shaft until it no longer engaged the worm shaft clutch gear.
+CORRECTIVE ACTIONS
+I On June 29, 2024, the Outboard Motor Valve’s motor pinion was adjusted back into position on the motor shaft. On
+I August 7, 2024, the incorrect motor pinion set screw on the Outboard Motor Valve was replaced with the correct set
+screw.
+PREVIOUS SIMILAR EVENTS
+There were no previous similar events in the past three years.
+NRC FORM 366A (04-02-2024) Page 4 of 4

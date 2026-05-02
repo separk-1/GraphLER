@@ -1,0 +1,226 @@
+~,,·
+Clinton Power Station
+Exelon.Generation®
+8401 Power Road ~~¥
+Clinton, IL 61727
+U-604456 10 CFR 50.73
+SRRS 5A.108
+November 21, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRG Docket No. 50-461
+Subject: Licensee Event Report 2018-004-00
+Enclosed is Licensee Event Report (LER) 2018-004-00: Undervoltage Condition Caused by an
+Offsite Ameren Transformer Bushing Failure Initiates an Automatic Start of an Emergency
+Diesel Generator. This report is being submitted in accordance with the requirements of 1O
+CFR 50.73. .
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+KP/lam
+Attachment: License Event Report 2018-004-00
+cc:
+Regional Administrator - Region Ill
+NRG Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply wnh this mandatory collection request: 80 hours.
+,,.~RREOt,i LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+• ! ~ '! :P "'>- 9, ~ , : 0 (See Page 2 for required number of digits/characters for each block) i l ( n n T d f - o 2 u c s o F tr ll 4 y e 3 . c ) t , s S . U R en . e S d s . o N u co r u c m c e le m @ a e n r n r R t c s . e g g o r u e v l , g a a t a o r n r d y d in C g to o m b th u m e rd is e D s n i e o s n e k , s W t O im f a f a i s c t h e e i r n , g to O to f n f t i , h c e e D C o l n f 2 fo l 0 n a 5 fo n 5 a a 5 n t - i 0 o a 0 n ti 0 o 1 n S , e a o r n r v d ic b e y R s e e g - B m u r l a a a i n t l o c t r h o y
+~ Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If
+I ;; (See NUREG-1022, R.3 for instruction and guidance for completing this form a means used to impose an infonnation collection does not
+~-s,~ .......... ,?oo~ httg://www.nrc.gov/reading-rm/doc-col1ections/nuregs/staff/sr1022/r3/) display a currently valid 0MB control number, the NRG may not conduct or sponsor, and a person
+is not required to respond to, the infoanation collection.
+1. Facility Name 2. Docket Number 3.Page
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. Title
+Undervoltage Condition Caused by an Offsite Ameren Transformer Bushing Failure Initiates an Automatic Start
+of an Emergency Diesel Generator -
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Sequential Rev
+Month Day Vear Vear Month Day Vear 05000
+Number No.
+09 26 2018 2018 - 004 - 00 11 21 2018 Facility Name 050 D 0 o 0 c ket Number
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) ·
+D D D D
+20.2201 (bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.22os(a)(1J 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(il 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+1 O. Power Level 20.22os(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4l
+D D D D
+20.2203(~)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(s)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1 i
+D D D D
+099 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)·
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iil
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Mr. Dale Shelton, Regulatory Assurance Manager . (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+ll)
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+1;;
+I:.:
+14. Supplemental Report Expected Month Day Vear
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On September 26, 2018, at 0946 CDT, the Clinton Power Station (CPS) experienced a trip of the Emergency Reserve
+Auxiliary Transformer (ERAT) Static VAR Compensator (SVC). A fault on the 138 kV feed to the station created a
+voltage transient which the ERAT SVC could not compensate for causing it to trip. Approximately 15 seconds following
+the trip of the ERAT SVC, the Division (DIV) 1 Safety Related 4160 kV Bus 1A1 locked out the Reserve Auxiliary
+Transformer (RAT) feed breaker and the ERAT feed breaker causing the DIV 1 Diesel Generator to start and load to the
+1A1 bus due to a sustained degraded (second level) undervoltage condition as designed. Operations entered Technical
+Specification (TS) Limiting Condition for Operation (LCO) 3.8.1, "AC Sources~Operating" Required Actions A.1 and A.2
+as a result of the voltage transient. Th.e cause of the event was a failure of the high side bushing on offsite Clinton
+Route 54 to Substation Transformer No. 2 which caused the south feed to the Tabor Substation to cycle. Cycling of the
+south feed of the Tabor Substation caused the transient on the station 138 kV feed, which resulted in the subsequent
+station equipment responses. Ameren bypassed the affected transformer and restored the station 138 kV feed. The
+ERAT was restored to normal configuration on September 26, 2018, at 1354 CDT. Operations subsequently exited TS
+LCO 3.8.1, Actions A.1 and A.2. Ameren has completed installation of a 138 kV ring bus to improve the reliability of the
+138 kV feed to CPS and is in the process of upgrading the feeds to the new substation. This event is reportable in
+accordance with 10 CFR 50.73(a)(2)(iv)(A) as any event or condition that resulted in manual or automatic actuation of
+emergency electrical power systems.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 004 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric -- Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in text as [XX].
+EVENT IDENTIFICATION
+Undervoltage Condition Caused by an Offsite Ameren Transformer Bushing Failure Initiates an Automatic
+Start of an Emergency Diesel Generator
+A. Plant Operating Conditions Before the Event
+Unit: 1 Event Date: September 26, 2018 Event Time: 0946
+Mode: 1 Mode Name: Power Operation Reactor Power: 099 percent
+B. Description of Event
+On September 26, 2018, at 0946 CDT, the Clinton Power Station (CPS) experienced a trip of the
+Emergency Reserve Auxiliary Transformer (ERAT) Static VAR Compensator (SVC)[COMP]. A fault
+on the 138 kV feed created a voltage transient ERAT SVC causing it to trip. Approximately 15 seconds
+following the trip of the ERAT SVC, the Division (DIV) 1 Safety Related 4160 kV Bus 1A 1 locked out
+the Reserve Auxiliary Transformer (RAT) feed breaker and the ERAT feed breaker causing the DIV 1
+Emergency Diesel Generator (EOG) to start and load to the 1A 1 bus due to a sustained degraded
+(second level) undervoltage condition. Operations entered Technical Specifications (TS) Limiting
+Condition for Operation (LCO) 3.8.1, "AC Sources-Operating" Required Actions A.1 and A.2 as a
+result of the voltage transient.
+A review of the safety related equipment actuation, and the response of the RAT, ERAT, ERAT SVC,
+and EOG, determined that plant equipment responded as designed for the event. Only the DIV 1
+safety related 4160 kV Bus 1A 1 was impacted since DIV 2 and 3 were being supplied by the RAT at
+the time of the event.
+On September 26, 2018 at 1354 CDT the ERAT SVC was returned to Operable status following
+restoration of the offsite 138 kV line by Ameren and TS 3.8.1 Actions were exited.
+NRC FORM 366A (04-2018) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the lnfonmation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an infonmation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the infonmation collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 004 00
+NARRATIVE
+C. Cause of the Event
+The cause of the event was a failure of the high side bushing on offsite Clinton Route 54 Substation
+Transformer No. 2 which caused the south feed to the Tabor Substation to cycle. Cycling of the south
+feed to the Tabor Substation caused the transient on the station 138 kV feed, which resulted in the
+subsequent station equipment responses.
+D. Safety Consequences
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as·any event or condition that
+resulted in manual or automatic actuation of emergency electrical power systems. The failure
+occurred at an offsite Ameren substation and did not directly involve CPS equipment.
+The condition which caused a trip of the 138 kV supply line is bounded by the analysis in the Updated
+Safety Analysis Report section 15.2.6, "Loss of AC Power." The condition described in this report is
+less severe and involved no safety consequences since it only involved a loss of offsite power supply
+and not a trip of the unit. Electrical power sources are designed with sufficient redundancy to ensure
+the availability of necessary power to plant systems, structures, and components. All station
+equipment responded as ,designed to this event with no malfunctions.
+E. Corrective Actions
+The ERAT was restored to normal configuration at 1354 CDT on September 26, 2018. Ameren has
+completed installation of a 138 kV ring bus {Tabor Station) to improve the reliability of the 138 kV feed
+to CPS and is in the process of upgrading the feeds to the new substation.
+NRC FORM 366A (04-2018) Page_3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Clinton Power Station, Unit 1 05000461 NUMBER NO.
+2018 - 004 • 00
+NARRATIVE
+F. Previous Similar Occurrences
+There were no previous occurrences involving the loss of 138 kV line and ERAT trip due to failure of an
+offsite transformer. However, several similar occurrences involving loss of the 138 kV line have
+occurred. These events are summarized below.
+Licensee Event Report 2017-001-00: Failure of the 138 kV Offsite Power Source Results in a Loss
+of Secondary Containment Vacuum
+On February 24, 2017, at approximately 2239 hours CDT the ERAT and the associated SVC
+tripped due to a loss of the 138 kV line owned and maintained by Ameren Illinois. The 138 kV line
+was successfully re-energized at 0053 hours on February 25, 2017 and the ERAT off-site source
+was restored and declared OPERABLE at 0300 hours. The cause of this event was identified by
+Ameren as an air flow spoiler failure.
+Licensee Event Report 2016-004-00: Trip of Emergency Reserve Auxiliary Transformer Static VAR
+Compensator Causes Positive Secondary Containment Pressure Following Lightning Strike on
+138 kV Offsite Source
+On March 30, 2016, at 1545 CDT, the ERAT SVC [COMP] tripped when the 138 kV line cycled
+open and closed due to a lightning strike. During the event, Division 1 Secondary Containment
+(SC) isolation dampers went shut due to the momentary loss of power and SC vacuum exceed o
+inches water gauge (WG). EOP-8 and TS LCO 3.6.4.1, Required Action A.1 were entered as a
+result of this abnormal condition. At 1547, the Standby Gas Treatment System (VG) Train A was
+started per CPS procedures. At 1550, SC vacuum had been restored to TS limits. Procedure
+EOP-8 and TS LCO 3.6.4.1 Required Action A.1 were exited. The ERAT was restored at 1926
+hours and TS LCO 3.8.1 Required Actions A.1 and A.2 were exited.
+The event on September 26, 2018 did result in a momentary reduction in SC vacuum. However,
+due to an approved change to the CPS TS, that event did not require declaring SC inoperable or
+entry into associated TS Actions.
+G. Component Failure Data
+The failed component that caused the fault on the 138 kV feed and subsequent ERAT trip is owned
+by Ameren. There were no CPS component failures associated with this event.
+NRC FORM 366A (04-2018) Page _4_ of _4_

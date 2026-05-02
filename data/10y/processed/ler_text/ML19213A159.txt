@@ -1,0 +1,182 @@
+e.l_~ DUKE William R. Gideon
+Vice President
+ENERGY®
+~ Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+July 31, 2019
+Serial: RA-19-0292
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 2
+Renewed Facility Operating License No. DPR-62
+Docket No. 50-324
+Licensee Event Report 2-2019-003
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Stephen Yodersmith, Brunswick
+Regulatory Affairs, at (910) 832-2568.
+Sincerely,
+L~
+William R. Gideon
+SBY/sby
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Laura Dudes, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 2 05000324 1 OF 3
+4. Title
+High Pressure Coolant Injection (HPCI) Inoperable
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+06 12 2019 2019 - 003 - 00 07 31 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Stephen Yodersmith, Brunswick – Regulatory Affairs (910) 832-2568
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+X BJ 65 W290 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 21:27 Eastern Daylight Time (EDT) on June 12, 2019, during routine testing on Unit 2, the High Pressure Coolant
+Injection (HPCI) turbine experienced an overspeed trip. Following the overspeed trip, the turbine coasted down and
+reset, then restarted and rolled to rated conditions as-designed. As a result, the response time of the system exceeded
+the 60-second acceptance criteria, thereby rendering the system inoperable. Reactor Core Isolation Cooling (RCIC)
+System and Automatic Depressurization System (ADS) remained operable during this event.
+Failure of Unit 2 HPCI to meet the 60 second response time acceptance criteria was caused by a momentary failure of
+the Electric Governor – Remote (EG-R) to control HPCI Turbine speed during the initial turbine roll. The EG-R Actuator
+was replaced and the testing was repeated successfully with the response time acceptance criteria met. Historical data
+was reviewed on Unit 1 and it was confirmed that this condition was isolated to Unit 2.
+The safety significance of this event is minimal. There was no impact on the health and safety of the public or plant
+personnel. This event is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D).
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR
+05000324 NUMBER NO.
+Unit 2
+2019 - 003 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 2 was in Mode 1 (i.e., Power Operation), at approximately 100 percent of rated
+thermal power (RTP). There was no inoperable equipment that contributed to the event.
+Reportability Criteria
+The High Pressure Coolant Injection (HPCI) [BJ] inoperability is being reported in accordance with 10 CFR
+50.73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of the function needed to mitigate
+the consequences of an accident. The event was initially reported to the NRC on June 13, 2019 (i.e., Event
+Number 54116).
+Event Description
+At 21:27 Eastern Daylight Time (EDT) on June 12, 2019, during routine testing, the Unit 2 High Pressure
+Coolant Injection (HPCI) turbine experienced an overspeed trip. Following the overspeed trip, the turbine
+coasted down and reset, then restarted and rolled to rated conditions as-designed. As a result, the response
+time of the system exceeded the 60-second acceptance criteria, thereby rendering the system inoperable.
+Event Cause
+Failure of Unit 2 HPCI to meet the 60 second response time acceptance criteria was caused by a momentary
+failure of the Electric Governor – Remote (EG-R) to control HPCI Turbine speed during the initial turbine roll.
+Safety Assessment
+There was no adverse impact on the health and safety of the public. The safety significance of this event is
+minimal. The event occurred during testing, and Reactor Core Isolation Cooling (RCIC) System and
+Automatic Depressurization System (ADS) remained operable during this event. Though the HPCI system
+did not meet the surveillance requirement response time, the system was available to perform its safety
+function of injecting the required flow rate into the Reactor Pressure Vessel.
+Corrective Actions
+The following corrective actions were completed.
+• On June 15, 2019, the EG-R Actuator was replaced and the testing was repeated successfully with
+the response time acceptance criteria met.
+• Historical data was reviewed on Unit 1 and it was confirmed that this condition was isolated to Unit 2.
+This action was complete on June 13, 2019.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR
+05000324 NUMBER NO.
+Unit 2
+2019 - 003 - 00
+NARRATIVE
+The following corrective actions are currently planned. Any changes to the corrective actions and schedules
+noted below will be made in accordance with the site’s corrective action program.
+• The failed EG-R Actuator was sent to a third-party vendor for post failure analysis. Once the vendor
+report is received, follow-up actions will be initiated as necessary. Initiation of necessary actions is
+scheduled to be complete by August 29, 2019.
+Previous Similar Events
+There have been no events in the past three years in which the HPCI System was made inoperable due to a
+failure with its governor system.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2018) Page 3 of 3

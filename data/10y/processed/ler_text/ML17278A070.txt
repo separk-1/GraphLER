@@ -1,0 +1,182 @@
+FENOC
+PerryNuclearPowerPlant
+P.O. Box97
+10CenterRoad
+FirstEnergyNuclearOperatingCompany Perry- Ohio440a1
+DavidB. Hamilton 440-280-5382
+VicePresident
+October 04, 2017
+L-17-305 10CFR50.73(a)(2)(v)(C)
+10CFR50.73(a)(2)(v)(D)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is Licensee Event Report (LER) 2017-005, "Controller Malfunction results in
+Momentary Degradation of Secondary Containment Pressure". There are no regulatory
+commitments contained in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Nicola Conicella, Manager- Regulatory Compliance, at (440) 280-5415.
+Sincerely,
+David B. Hamilton
+Vice President
+Enclosure:
+LER 2017-005
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III
+Enclosure
+L-17-305
+LER 2017-005
+N (0 R 4- C 201 F 7) ORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER)
+Reported lessonslearnedareincorporatedintothelicensing processandfed backtoindustry.
+(SeePage2forrequirednumberofdigits/charactersforeachblock) SendcommentsregardingburdenestimatetotheInformationServices Branch(T-2F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocoilects!
+Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs, NEOB-
+10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameansused
+(See NUREG-1022, R.3forinstruction andguidanceforcompletingthisform toimposeaninformationcollectiondoes notdisplayacurrentlyvalidOMBcontrol number, the
+http://www.nrc.aov/readinQ-rm/doc-collections/nureqs/staff/sr1022/r3/ NRCmaynotconductorsponsor, and a person isnotrequiredto respondto, theinformation
+collection.
+1.FACILITYNAME
+2. DOCKETNUMBER 3.PAGE
+Perry Nuclear Power Plant
+05000-440 1 OF
+4.TITLE:
+Controller Malfunction results in Momentary Degradation ofSecondary Containment Pressure
+5.EVENTDATE 6. LERNUMBER 7. REPORTDATE 8.OTHERFACILITIESINVOLVED
+MONTH DAY YEAR YEAR SE N Q U U M EN B T E I R AL R N E O. V MONTH DAY YEAR FACILITYNAME DOCKETNUMBER
+05000
+08 14 2017 2017 - 005 00 10 04 2017 FACILITYNAME DOCKETNUMBER
+05000
+9.OPERATINGMODE 11.THIS REPORTISSUBMITTEDPURSUANTTOTHEREQUIREMENTSOF10CFR§: (Checkallthatapp/j
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A)
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 50.36(c)(1)(i)(A) □ 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+10. POWERLEVEL □ 20.2203(a)(2)(ii) □ 50.36(c)(1)(ii)(A) □ 50.73(a)(2)(v)(A) □ 73.71(a)(4)
+□ 20.2203(a)(2)(iii) □ 50.36(c)(2) 50.73(a)(2)(v)(B) □ 73.71(a)(5)
+□ 20.2203(a)(2)(iv) □ 50.46(a)(3)(ii)
+50.73(a)(2)(v)(C) 73.77(a)(1)
+100
+□ 20.2203(a)(2)(v) □ 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(vi) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(vii) □ 73.77(a)(2)(ii)
+□ 50.73(a)(2)(i)(C) □ OTHER
+SpecifyinAbstractbelov iNRCForm366A
+12. LICENSEECONTACTFORTHIS LER
+TELEPHONENUMBER(IncludeAreaCode)
+George Dujanovic - Regulatory Compliance
+440-280-5200
+13.COMPLETEONELINEFOREACHCOMPONENTFAILUREDESCRIBEDINTHISREPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U RER CAUSE SYSTEM COMPONENT MANU
+FACTURER
+B vc PC B040
+14.SUPPLEMENTALREPORTEXPECTED
+15. EXPECTED MONTH DAY YEAR
+□ YES (Ifyes, complete 15. EXPECTEDSUBMISSIONDATE) SUBMISSION
+NO
+DATE
+ABSTRACT (Limitto1400spaces,i.e., approximately15single-spacedtypewrittenlines)
+On August 14, 2017 at 2257, with both trains ofthe Annulus Exhaust Gas Treatment System (AEGTS)
+running in parallel, Secondary Containmentvacuum momentarily degraded to 0.52" watergauge when
+AEGTS B was shutdown to Standby Readiness. After an approximately 15 second delay, AEGTS A
+responded to maintain the propervacuum. Technical Specification (TS) Surveillance Requirement (SR)
+3.6.4.1.1 requires a minimum of0.66" watergauge differential pressure to be maintained between ambient
+and annulus pressure. The failure to comply with SR 3.6.4.1.1 caused Secondary Containmentto be
+inoperable resulting in Technical Specification 3.6.4.1 not being met.
+The cause was determined to be equipment age-related degradation ofthe AEGTS A controllercircuitcard
+which was subsequently replaced. There were no otherevent-related equipment malfunctions.
+Since AEGTS is not a core damage mitigation system and is not credited in the PRA model to mitigate large
+and early containment releases, the inoperability ofthe AEGTS is determined to be ofsmall safety
+significance. This event is being reported in accordance with 10CFR50.73(a)(2)(v)(C) and
+10CFR50.73(a)(2)(v)(D) as an event orcondition that could have prevented the fulfilment ofa safetyfunction
+NRCFORM366(06-2016)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reporte
+LICENSEE EVENTREPORT(LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+commentsregardingburdenestimatetotheInformationServices Branch(1-2F43),U.S.Nuclea
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalidOMBcontrolnumber,the
+http://www.nrc.aov/readina-rm/doc-coHections/nureqs/staff/sr1022/r3/ NRC may notconductorsponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+Perry Nuclear Power Plant Unit 1 05000-440 YEAR NUMBER NO.
+2017 - 005 00
+NARRATIVE
+Energy Industry Identification System (ElIS) codes are identified in the text as [XX].
+INTRODUCTION
+On August 14, 2017 at 2257, with both trains ofthe Annulus Exhaust Gas Treatment System [VC] (AEGTS)
+running in parallel, Secondary Containment [NH] vacuum momentarily degraded to 0.52" watergauge
+differential pressure when AEGTS B was shutdown to Standby Readiness. After an approximate 15 second
+delay, AEGTS A responded to maintain the normal vacuum. Technical Specification (TS) Surveillance
+Requirement (SR) 3.6.4.1.1 requires a minimum of0.66" watergauge differential pressure to be maintained
+between ambient and annulus pressure atall times. The failure to comply with SR 3.6.4.1.1 caused
+Secondary Containmentto be inoperable resulting in Technical Specification 3.6.4.1 not being met.
+EVENT DESCRIPTION
+On August 14, 2017 at2019 hours, with the plant in mode 1 and at 100% power, AEGTS Awas manually
+started in parallel with AEGTS B in support offlow switch calibration testing.
+At2257 hours, AEGTS B was shutdown to standby. During the shutdown, Operations personnel received an
+unexpected Annulus Differential Pressure Lowalarm. Secondary Containmentvacuum dropped to 0.52"
+watergauge forapproximately 15 seconds. Afterthe approximate 15 second delay, AEGTS A responded to
+maintain the normal vacuum. Technical Specification (TS) 3.6.4.1 "Secondary Containment" condition Awas
+entered. Condition A addresses secondary containment being inoperable in modes 1, 2, or 3, with operability
+to be restored within 4 hours. Surveillance Requirement (SR) 3.6.4.1.1 was not metwhich states, "Verify
+secondary containmentvacuum is > 0.66 inch ofvacuum watergauge".
+On August 15, 2017 at 0458 hours, event notification EN# 52903 was made to the NRC Operations Center in
+accordance with 50.72(b)(3)(v)(C) & 50.72(b)(3)(v)(D) for loss ofsafety function.
+CAUSE
+A causal analysis was conducted and determined the most likely cause to be age-related degradation ofthe
+Bailey [B040] controllercard [PC] transformer nylon screw, resulting in less than optimum response.
+EVENTANALYSIS
+With respect to the degraded controllerand the resulting sluggish response ofthe AEGTS A subsystem, the
+Loss ofCoolantAccident (LOCA) analysis assumes the bypassing ofthe Secondary Containmentforthe first
+40 seconds ofthe LOCA. Additionally, since the gap release (radiological release due to core damage) does
+notoccur until 120 seconds, the capability ofthe AEGTS A subsystem has been shown to support recovery of
+the negative pressure in the annulus to greaterthan the required minimum of0.66 inches vacuum water
+gauge within the required analytical assumptions. The LOCA is the only Design BasisAccident (DBA) for
+which secondary containment is credited and therefore, the recovery within two minuteswill supportthe
+LOCAanalysis. There is reasonable assurance that Secondary Containment can perform the required
+design and license functions. As a result, this condition was not a safety system functional failure.
+NRCFORM366A (06-2016) Page 2 of3
+U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+LICENSEE EVENT REPORT(LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+commentsregardingburdenestimatetotheInformationServices Branch(T-2F43),U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs
+NEOB-10202,(3150-0104),OfficeofManagementandBudget,Washington,DC20503.Ifameans'
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid0MBcontrolnumber,the
+http://www.nrc.oov/readino-iTn/doc-collections/nureas/staff/sr1022/r3/ NRCmay notconductorsponsor, and a person is notrequired to respond to, the information
+1. FACILITYNAME
+2. DOCKETNUMBER 3.LERNUMBER
+Perry Nuclear Power Plant Unit 1 05000-440 YEAR SE N Q U U M EN B T E I R AL R N E O. V
+2017 - 005 00
+NARRATIVE
+From the Probabilistic RiskAssessment perspective, AEGTS is not a core damage mitigation system and is
+notcredited in any PRA models in mitigating large and early containment releases. Additionally from an
+availability /functionality perspective, AEGTS was fully capable of performing its' function. On this basis the
+inoperabihty ofthe AEGTS forthe period of 15 seconds is determined to be ofsmall risk (safety)
+significance.
+This event is being reported in accordance with 10CFR50.73(a)(2)(v)(C) and 10CFR50.73(a)(2)(v)(D) as an
+event orcondition that could have prevented the fulfilment ofa safety function.
+CORRECTIVE ACTIONS
+Corrective actions in response to the event include: closure ofthe Prompt Operability Determination (POD)
+following replacement ofthe Bailey controllercircuit card (completed), revise the Preventative Maintenance
+(PM) plan for 1M15R0060A/B-1 to replace the transformer nylon screwevery six years versus as required,
+and create PM tasks for other same-type controllers to change the transformer nylon screw every six years.
+PREVIOUS SIMILAR EVENTS
+A review of LERs and the CorrectiveAction database forthe past three years identified no similarevents.
+COMMITMENTS
+There are no regulatory commitments contained in this report. Actions described in this document represent
+intended or planned actions, are described forthe NRC's information, and are not regulatory commitments.
+NRCFORM366A (06-2016) Page 3 of3

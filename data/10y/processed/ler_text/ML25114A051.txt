@@ -1,0 +1,383 @@
+Post Office Box 2000, Decatur, Alabama 35609-2000
+April 24, 2025
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRC Docket No. 50-296
+Subject: Licensee Event Report 50-296/2024-004-01
+Reference: Letter from TVA to NRC, “Licensee Event Report 50-296/2024-004-00,”
+dated December 4, 2024 (ML24339B794)
+The enclosed Licensee Event Report provides details of the Reactor Coolant System
+Pressure Boundary Leakage Identified from Recirculation System Small Bore Piping. The
+Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant’s Technical Specifications. Revision 1 to this report includes
+information obtained during performance of the cause evaluation for the event that was not
+previously reported nor available.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact David J. Renn, Site Compliance
+Manager, at (256) 729-2636.
+Respectfully,
+Daniel A. Komm
+Site Vice President
+Enclosure: Licensee Event Report 50-296/2024-004-01 – Reactor Coolant System
+Pressure Boundary Leakage Identified from Recirculation System Small Bore
+Piping
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 3
+Licensee Event Report 50-296/2024-004-01
+Reactor Coolant System Pressure Boundary Leakage Identified from Recirculation System Small
+Bore Piping
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+(See Page 2 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 52. Docket Number 3. Page
+050
+Browns Ferry Nuclear Plant, Unit 3
+052
+00296 1 OF 7
+4. Title
+Reactor Coolant System Pressure Boundary Leakage Identified from Recirculation System Small Bore Piping
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000XXX
+10 05 2024 2024 - 004 - 01 04 24 2025 Facility Name Docket Number
+N/A 05000XXX
+9. Operating Mode 10. Power Level
+4 0
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Justin Garner, Site Compliance Engineer 256-729-7955
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+4. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 3, 2024, an increase in Browns Ferry (BFN) Unit 3 Drywell Unidentified Leakage was identified.
+This condition was monitored and trended from June 3, 2024, to October 4, 2024. The unidentified
+leakage came from two different sources. Prior to shutdown, total drywell unidentified leakage was
+approximately 1.0 gallon per minute.
+On October 5, 2024, at 0456, during the initial drywell entry of BFN Unit 3 Planned Outage 13 for
+replacement of a suspected defective fuel bundle, the drone operator observed water leaking from the
+elbow near the 1-inch sensing line off the 3B recirculation pump. In addition to this, the drone operator
+also observed water leaking from near the 3A recirculation pump vent line on a 3/4-inch elbow.
+The direct cause of the code class boundary leakage were cracks in two socket welds. The corrective
+actions for the direct cause were to replace the small bore piping elbows. The apparent cause was
+high-cycle fatigue. The corrective actions to address this are to implement modifications on the 3A and
+3B Recirculation Pump Vent and Seal Vent Line Piping and sensing lines.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 00296 NUMBER NO.
+☐
+052
+2024 - 004 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 3 was in Mode 4 at 0 percent
+power.
+II. Description of Event
+A. Event Summary
+On June 3, 2024, an increase in BFN Unit 3 Drywell Unidentified Leakage was identified. This
+condition was monitored and trended from June 3, 2024, to October 4, 2024. The unidentified
+leakage came from two different sources. Prior to shutdown, total drywell unidentified leakage
+was approximately 1.0 gallons per minute (gpm).
+On October 21, 2024, Tennessee Valley Authority (TVA) completed a Past Operability Evaluation
+(POE). Technical Requirements Manual (TRM) Limiting Condition of Operability (LCO) 3.4.3,
+Structural Integrity states that the structural integrity of American Society of Mechanical Engineers
+(ASME) Code Class 1, 2, and 3 equivalent components shall be maintained in accordance with
+Technical Specification Requirement (TSR) 3.4.3.1 and TSR 3.4.3.2 throughout the life of the
+plant. Technical Specification (TS) 3.4.4 LCO (a) states that Reactor Coolant System (RCS)
+operational leakage shall be limited to no pressure boundary leakage while in Modes 1, 2, and 3.
+The structural integrity of the Reactor Coolant Pressure Boundary (RCPB) was inoperable for
+both TRM LCO 3.4.3 and TS LCO 3.4.4 (a) due to the cracks in the 1-inch elbow on the high
+pressure side sensing line for 3-PDT-068-0082 (BFN-3-VTV-068-0255) and the 3/4-inch
+recirculation pump vent elbow weld, which are both ASME Code Class 2 pipes. The starting date
+of inoperability is June 3, 2024, when Unit 3 showed an increase in Drywell Unidentified Leakage,
+and the ending date is October 5, 2024, when Unit 3 shutdown for BFN Unit 3 Planned Outage 13
+(F313) and the sources of the leaks were discovered.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant’s Technical Specifications.
+NRC FORM 366A (10-01-2023) Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 00296 NUMBER NO.
+☐
+052
+2024 - 004 - 01
+NARRATIVE
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+C. Dates and approximate times of occurrences
+DATE AND
+APPROXIMATE
+OCCURRENCE
+TIMES
+An increase in BFN Unit 3 Drywell Unidentified Leakage was
+June 3, 2024
+identified.
+June 3, 2024 –
+Data was trended and monitored to evaluate the leakage
+October 4, 2024
+October 4, 2024, Main Generator Breaker was opened to begin BFN Unit 3 F313 for
+at 2300 replacement of a suspected defective fuel bundle.
+During the initial drywell entry of BFN Unit 3, the drone operator
+October 5, 2024, observed water leaking from the elbow near the 1-inch sensing line off
+at 0456 the 3B recirculation pump and from the 3A recirculation pump vent line
+on a 3/4-inch elbow.
+The leak sources were repaired by Work Orders (WOs) 124871621
+October 10, 2024
+and 124871622.
+D. Manufacturer and model number of each component that failed during the event
+There were no failed components related to this event.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+On June 3, 2024, an increase in BFN Unit 3 Drywell Unidentified Leakage was identified. This
+condition was monitored and trended from June 3, 2024, to October 4, 2024. The unidentified
+NRC FORM 366A (10-01-2023) Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 00296 NUMBER NO.
+☐
+052
+2024 - 004 - 01
+NARRATIVE
+leakage came from two different sources. Prior to shutdown, the total drywell unidentified leakage
+was approximately 1.0 gpm.
+On October 5, 2024, at 0456, during the initial drywell entry of the F313 outage for replacement of
+a suspected defective fuel bundle, the drone operator observed water leaking from the elbow near
+the 1-inch sensing line off the 3B recirculation pump. In addition to this, the drone operator also
+observed water leaking from the elbow near the 3A recirculation pump vent line on a 3/4-inch
+elbow.
+G. The failure mode, mechanism, and effect of each failed component
+The failure mode was determined to be reactor recirculation system small bore pump vent and
+sensing line piping developed through-wall leakage from cracking due to high-cycle fatigue failure.
+H. Operator actions
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The direct cause of the code class boundary leakage from the 3/4-inch and 1-inch elbows
+were cracks in the socket weld, and the apparent cause was high-cycle fatigue. The primary
+stresses driving the fatigue cracking were likely operating stresses exacerbated by uprates in
+plant power and implementation of Maximum Extended Load Line Limit Analysis Plus
+(MELLLA+) which resulted in changes in recirculation pump speed. These operating changes
+increase vibrational loads and can cause pipes and systems to fall into resonant frequencies
+of the area.
+B. Cause(s) and circumstances for each human performance related root cause
+There were no human performance related causes.
+NRC FORM 366A (10-01-2023) Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 00296 NUMBER NO.
+☐
+052
+2024 - 004 - 01
+NARRATIVE
+IV. Analysis of the event
+The Recirculation System [AD] is designed to provide forced coolant circulation through the
+reactor core. Adjustment of the core coolant flow rate changes reactor power output which
+provides a means of following plant load demand without adjusting control rods.
+On October 5, 2024, the visual inspection of the weld interface between the elbow near the
+BFN-3-VTV-068-0255 and weld interface on the BFN-3-SHV-068-6603, (VTV-68-6601 Shut Off
+Valve) marked the time of discovery for this condition. The condition was first identified on June
+3, 2024, when BFN Unit 3 showed an increase in unidentified leakage. The condition was
+monitored and trended from June 3, 2024, to October 4, 2024.
+V. Assessment of Safety Consequences
+The safety significance of this event is low. The cracks in both the 1-inch Elbow on the High
+Pressure Side Sensing Line for 3-PDT-068-0082 and the 3/4-inch Recirculation Pump Vent
+elbow weld are bounded by two calculations. Calculation MDQ0999950033 Rev. 3, Exclusion
+Criteria for In-Service Inspection (ISI) Scope, shows that the normal reactor coolant makeup
+systems, Reactor Core Isolating Cooling (RCIC)[BN], Control Rod Drive (CRD)[AA], and
+Feedwater (FW)[SJ] have adequate capacity to makeup reactor coolant in the worst-case
+scenario of a small break loss of coolant accident (LOCA). Calculation NDQ0074880118 Rev.
+8, Evaluation of Low Pressure Coolant Injection (LPCI)[BO] Flow to Reactor Pressure Vessel
+(RPV) with Failed Open Min Flow Bypass Valve, shows that the LPCI mode of the Residual
+Heat Removal (RHR)[BO] system can still meet the required LPCI flow to the RPV in the
+worst-case scenario of a small break LOCA for the duration of its mission time.
+Probabilistic Risk Analysis (PRA) personnel were notified of the condition and reported the
+following results of likelihood of core damage frequency event (CDF) to be very small at
+5.33E-8/year or once every 533,000,000 years. Similarly, the likelihood for a large early
+release frequency (LERF) to be 6.88E-9/year or once every 6,880,000,000 years.
+Based on the above, TVA has concluded that sufficient systems were available to provide the
+required safety functions needed to protect the health and safety of the public.
+NRC FORM 366A (10-01-2023) Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 00296 NUMBER NO.
+☐
+052
+2024 - 004 - 01
+NARRATIVE
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+The Reactor Recirculation System shall be designed so that failure of piping integrity does
+not compromise the ability of the reactor vessel internals to provide a re-floodable volume.
+The normal reactor coolant makeup systems, RCIC, CRD, and FW have an adequate
+capacity to makeup reactor coolant in the worst-case scenario of a small break LOCA.
+During the time period from June 3, 2024, until BFN Unit 3 was depressurized below
+150 psig on October 5, 2024, at 0207, the BFN Unit 3 RCIC System was unavailable for
+0.6 hours on July 31, 2024. The unavailability time was during the performance of
+3-SR-3.5.3.3, RCIC System Rated Flow at Normal Operating Pressure. This period of
+RCIC System unavailability was due to the closure of 3-FCV-071-0009, RCIC Turbine
+Stop Valve, and the valving out of service of 3-FT-071-0036, RCIC Flow Transmitter, in
+accordance with procedure 3-SR-3.5.3.3. The CRD system was available as a makeup
+source during the time RCIC was unavailable. Also, a complete failure of the 3/4-inch
+Recirculation Pump Line Vent Valve elbow weld or the 1-inch Elbow on the High Pressure
+Side Sensing Line for 3-PDT-068-0082 would result in a high drywell pressure SCRAM
+which would affect the capability of the FW system as a makeup water source.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+The starting date of inoperability was June 3, 2024, when Unit 3 showed an increase in Drywell
+Unidentified Leakage, and the ending date was October 5, 2024, when Unit 3 shutdown for F313
+and the leak was discovered.
+NRC FORM 366A (10-01-2023) Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒
+050
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 3 00296 NUMBER NO.
+☐
+052
+2024 - 004 - 01
+NARRATIVE
+VI. Corrective Actions
+Corrective Actions are being managed by the TVA’s Corrective Action Program (CAP) under
+Condition Reports (CRs) 1963793, 1963794, and 1965828.
+A. Immediate Corrective Actions
+The leak source documented by CR 1963793 was repaired by WO 124871621, and the other
+leak source documented by CR 1963794 was repaired by WO 124871622.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The following corrective actions have been completed or are planned:
+1. Replace 3/4-inch small bore piping elbow located between the 3A Recirc Pump and
+the Pump Vent Shutoff Valve.
+2. Replace 1-inch small bore piping elbow located on the 3B Recirc Pump sensing line
+(high pressure side) prior to the branch connection.
+3. Implement a design change on 1A, 2A, 3A, 1B, 2B, and 3B Recirc Pump Vent and
+Seal Vent Line Piping and sensing lines.
+VII. Previous Similar Events at the Same Site
+A review of the BFN Licensee Event Reports (LERs) for Units 1, 2, and 3 over the last four
+years revealed three (3) previous, similar events. (LERs 259/2022-001-01, 260/2023-001-01,
+and 296/2022-003-01).
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (10-01-2023) Page 7 of 7

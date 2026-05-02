@@ -1,0 +1,234 @@
+Robert J. Franssen Susquehanna Nuclear, LLC
+Plant Manager 769 Salem Boulevard TALEN~
+Berwick, PA 18603
+Tel. 570.542.3170 Fax 570.542.1504 ENERGY
+robert.franssen@talenenergy.com
+JAN l 2 2017
+U.S. Nuclear Regulatory Commission 10 CFR 50.73
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387(388)/2016-016-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF- 22 Docket Nos. 50-387
+PLA-7567 50-388
+Attached is Licensee Event Report (LER) 50-387(388)/2016-016-00. The LER reports
+an event involving failure of a bus synchronizing select hand switch. This event was
+determined to be reportable in accordance with 10 CFR 50.73(a)(2)(v)(A), (B), (C), and
+(D) as a condition that could have prevented fulfilment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of
+this event.
+This letter contains no new regulatory commitments.
+R. J. Franssen
+Attachment: LER 50-387(388)/2016-016-00
+Copy: NRC Region I
+Mr. J. E. Greives, NRC Sr. Resident Inspector
+Ms. T. E. Hood, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandala!)' collection requesl: 80 hours.
+,.-:~\ LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and led back to indus!!)'.
+Send comments regarding burden estimate to the FOIA, Privacy and lnlonmalion Collections
+~~ ~j (See Page 2 for required number of digits/characters for each block) Branch (T-5 F53), U.S. Nuclear RegulatoJY Commission, Washington, DC 20555-0001, or by e-mail
+\ ........ ot to lnfocollecls.Resource@nrc.gov, and to the Desk Officer, Office of Information and RegulalaJY
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control
+httQ://www. nrc.gov/reading-rm/doc-collections/nur~s/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Susquehanna Steam Electric Station Unit 1 05000387 1 OF 4
+4. TITLE Bus Synchronizing Select Hand Switch Failure Due to Less than Adequate Life Cycle Management
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR 1S E N Q U U M E B N E T R IA L 1 R N E O V . MONTH DAY YEAR S FA us C q I u L e IT h Y a n N n A a M S E te am Electric Station Unit 2 D 0 O 50 CK 0 E 0 T 3 8 N 8 UM BER
+FACILITY NAME DOCKET NUMBER
+11 16 2016 2016 016 00 01 1;2 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+D 20.2201(b} D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+1
+D 20.2201(d} D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1) (i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) 0 50.36{c)(1 )(ii)(A) [8J 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) [8J 50.73(a)(2)(v)(B) D 73.71(a)(5)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) [8J 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2}(v) 0 50.73(a)(2)(i)(A) [8J 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+0 50.73(a}(2}(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMBER (Include Area Code)
+C. E. Manges, Jr., Senior Engineer- Nuclear Regulatory Affairs (570) 542-3089
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TOEPIX
+E EK SEL E155 Yes
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+fl\BSTRACT (Umit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 16, 2016 at 10:45, Unit 1 and 2 entered Technical Specification (TS) 3.8.1 Conditions B, C, D, E,
+and G and TS 3.0.3 due to failure of a bus synchronizing select hand switch.
+The failed switch prevented manual transfer between electrical sources to the Emergency Safety Switchgear
+(ESS) buses resulting in both offsite sources and all four diesel generators (D/Gs) being declared inoperable
+due to failure to meet Surveillance Requirement (SR) 3.8.1.8 and SR 3.8.1.16. This condition was reported as
+a condition that could have prevented fulfillment of a safety function in accordance with 10 CFR
+50.72(b)(3)(v)(A), (B), (C), and (D) (EN 52369). The condition also requires this Licensee Event Report (LER)
+in accordance with the corresponding 10 CFR 50.73 requirements.
+The direct cause was mechanical failure of an internal subcomponent of the bus synchronizing select hand
+switch. The apparent cause was less than adequate life cycle management. The failed switch was replaced
+as a corrective action. Replacement of other synchronization selector switches within the extent of condition
+will also be completed.
+There were no actual consequences to the health and safety of the public as a result of this event.
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection requesl: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+htto://www. nrc.gov/readi nq-rm/doc-collections/nu reas/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2016 -016 -00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 - Mode 1, approximately 100 percent Rated Thermal Power
+There were no structures, systems, or components that were inoperable at the start of the event that
+contributed to the event.
+EVENT DESCRIPTION
+On November 16, 2016 at 10:45, Unit 1 and 2 entered TS 3.8.1 Conditions B, C, D, E, and G and TS 3.0.3
+due to failure of a bus synchronizing select hand switch [EllS System I Component Identifier: EKISEL]. A
+detailed timeline of events is provided as follows:
+November 15, 2016 at 03:51 - Units 1 and 2 entered TS 3.8.1 due to Transformer 211 [EllS System I
+Component Identifier: EK I XFMR] being taken out of service for scheduled maintenance (loss of one offsite
+source).
+November 16, 2016 at 05:38- During transfer of ESS Bus 2B (2A202) [EllS System I Component Identifier:
+EK I BU] to its preferred source (OX213) [EllS System I Component Identifier: EK I XFMR], both the phase
+and voltage spiked and then returned to normal (in phase I matched voltage) when Transformer 211 Bus 2B
+synchronization selector keyswitch (HS-00049B) was taken to the ON position. The transfer was completed
+and 2A202 was powered from its normal power supply. After the transfer, voltage was observed spiking
+and oscillations were observ'ed. The indication would spike and then return to normal. The handswitch was
+returned to the OFF position.
+November 16, 2016 at 10:45-During investigation of the spiking, HS-00049B was turned to the ON
+position. During performance of this action, the operator reported that the switch did not feel like it went to
+the proper position. When the switch was taken to the OFF position, the synchroscope [EllS System I
+Component Identifier: EK I SYN] remained energized and the associated alarm [EllS Component Identifier:
+ALM] remained locked in, which was not the expected response. Units 1 and 2 entered TS 3.8.1 Conditions
+B, C, D, E, and G and TS 3.0.3. The applicable off normal procedure was entered to pull fuses associated
+with the defective synchroscope keyswitch and restore operability to the A, C, and D DIGs and one offsite
+power circuit.
+November 16, 2016 at 11 :30- HS-00049B was disabled in accordance with the off normal procedure by
+pulling fuses [EllS Component Identifier: FU] to isolate the 2B bus synchronization switches from energizing
+the synchronization bus. Unit 1 and 2 exited TS 3.8.1 Conditions C and E and TS 3.0.3.
+November 16,2016 at 14:17-Unit 1 exited TS 3.8.1 Conditions Band D (these LCO Conditions remained
+in effect for Unit 2).
+November 16, 2016 at 22:34- HS-00049B was replaced and the associated clearance order was removed
+restoring full operability of the diesel synchronization switch for the 2B bus.
+NRC FORM 366A (06-2016) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Eslimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and lnformalion Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://WNW.nrc.gov/reading-rrn/doc-collections/nureas/staff/sr1 022/r3!) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+infonmation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2016 -016 -00
+The failed switch prevented manual transfer between electrical sources to the ESS buses resulting in both
+offsite sources and all four D/Gs being declared inoperable due to failure to meet SR 3.8.1.8 and
+SR 3.8.1.16. This condition was reported as a condition that could have prevented fulfillment of a safety
+function in accordance with 10 CFR 50.72(b)(3)(v)(A), (B), (C), and (D) (EN 52369). The condition also
+requires this LER in accordance with the corresponding 10 CFR 50.73 requirements.
+CAUSE OF EVENT
+The direct cause was mechanical failure of an internal subcomponent of HS-00049B. The plastic piece that
+interfaces the keyed portion of the switch to the steel shaft of the switch deck was found broken. This plastic
+piece most likely failed when the key was taken to the ON position while investigating the spiking.
+The apparent cause was less than adequate life cycle management.
+ANALYSIS/SAFETY SIGNIFICANCE
+HS-00049B failed in the energized position, which prevented any other manual synchronization from being
+performed for 4.16kV, 13.8 kV, and the DGs as required by SR 3.8.1.8 and SR 3.8.1.16. The failure would
+not have prevented any automatic functions from occurring in the 4.16kV, 13.8 kV, or DG systems. The
+DGs were still able to start and load to the 4kV buses. The automatic transfer of the 4kV buses from
+primary to alternate supply was unaffected. The 13.8kV auxiliary bus fast and slow transfer logic was not
+impacted.
+An engineering evaluation was performed and concluded that the failure of HS-000498 in the ON position
+would not have prevented the fulfillment of any safety functions. Details of this evaluation are as follows:
+The 13.8kV system is non-Class 1 E and provides power to non-safety related plant auxiliary loads. As a
+result, there was no safety system functional failure associated with the 13.8kV system.
+The ability of the A, B, C, D DGs (and E DG, if aligned) to start, load, and run in the event of an emergency
+(such as a LOCA/LOOP) was not impacted by the failure of HS-00049B. The failed switch does not impact
+the automatic closure of the DG output breakers. After the emergency condition is terminated (i.e., offsite
+power restored), the DGs are required by SR 3.8.1.16 to be able to synchronize back to offsite power.
+Although this function could not be met, it is not described in the design bases as being required to fulfill any
+safety functions. Based on this discussion, there was no safety system functional failure associated with the
+Emergency Diesel Generators.
+The ability of the 4kV buses to automatically transfer and to provide power to essential loads in the event of
+an emergency (such as a LOCA/LOOP) was not impacted by the failure of HS-00049B. The two offsite
+sources to each bus were not impacted: both the primary power supplies were available (Transformer 211
+was available but not yet Operable following the scheduled maintenance) and the buses were able to
+automatically transfer to the alternate supplies. The ability to shed load (if required) was also not impacted.
+Although the function of manually transferring power supplies on each 4kV bus is required by SR 3.8.1.6, it
+is not described in the design bases as being required to fulfill any safety functions. Based on this
+discussion, there was no safety system functional failure associated with 4kV.
+NRC FORM 366A (06-2016) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this fonm means used to impose an information collection does not display a currently valid OMB control
+http://'N'NVV.nrc.gov/reading-nm/doc-collections/nureas/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2016 -016 -00
+Based on the engineering evaluation that concluded that the failure would not have prevented the fulfillment
+of any safety functions, this event will not be counted as a safety system functional failure (SSFF) for the
+NRC performance indicator based on the engineering analysis that shows there was no loss of ability to
+fulfill the safety function.
+CORRECTIVE ACTIONS
+Key corrective actions include the following:
+1. HS-00049B was replaced.
+2. Synchronization selector switches within the extent of condition will be replaced.
+COMPONENT FAILURE INFORMATION
+The failed handswitch was labeled as follows:
+Manufacturer: Electroswitch
+Series: 20
+Type: PR-20
+PREVIOUS SIMILAR EVENTS
+There have been two previous failures of synchronization selector switches at Susquehanna. The failures are as
+follows:
+HS-00048B failed in the ON position May 1998 during performance of a Residual Heat Removal (RHR) Division I
+logic system functional test. The switch was replaced as a corrective action.
+HS-00040B failed in the synchronization position in May 2013 during a monthly D/G test. This event was described
+in LER 50-387(388)/2013-001-01, "Diesel Generator 'B' to Bus '2B' Synchronizing Selector Switch Failure," dated
+November 4, 2013. A causal factor in the evaluation of the 2016 event was that corrective actions from previous
+failures did not implement a plan for preventing future failures.
+NRC FORM 366A (06-2016) Page 4 of 4

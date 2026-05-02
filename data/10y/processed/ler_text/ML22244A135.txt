@@ -1,0 +1,422 @@
+Constellation,,,, 
+SVP-22-054 
+September 1, 2022 
+U,S, Nuclear Regulatory, Commission 
+ATTN: Document Control Desk 
+Washington, D,C, 20555 
+Quad Cities Nuclear Power Station, Unit 2 
+Renewed Facility Operating License No. DPR-30 
+NRC Docket No. 50-265 
+10 CFR 50,73 
+Subject: 
+Licensee Event Report 265/2022-002-00 "Manual Scram Due To Feedwater Regulator 
+Valve Failure Decreasing Reactor Water Level" 
+Enclosed is Licensee Event Report 265/2022-002-00 "Manual Scram Due To Feedwater Regulator 
+Valve Failure Decreasing Reactor Water Level," for Quad Cities Nuclear Power Station, Unit 2. 
+This report is being submitted in accordance with 10 CFR 50. 73(a)(2)(iv)(A) for an event or 
+condition that resulted in manual or automatic actuation of the reactor protection system 
+including a reactor scram. 
+There are no regulatory commitments contained in this letter. 
+Should you have any questions concerning this report, please contact Mark Humphrey at 
+(309) 227-2800. 
+Brian Wake 
+Site Vice President 
+Quad Cities Nuclear Power Station 
+cc: 
+Regional Administrator- NRC Region Ill 
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station 
+
+ManNRC FORM 366 
+U.S. NUCLEAR REGULA TORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+(08-2020) 
+1. Facility Name 
+LICENSEE EVENT REPORT (LER) 
+(See Page 3 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3i) , 
+Quad Cities Nuclear Power Station Unit 2 
+4. Title 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of lnfonmation and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRG may not conductor sponsor, 
+and a person is not required to respond to, a collection of infonmation unless the document requesting or 
+requiring the collection displays a currently valid 0MB control number. 
+2. Docket Number 
+3.Page 
+05000 - 265 
+1 OF 4 
+Manual Scram Due To Feedwater Regulator Valve Failure Decreasing Reactor Water Level 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Revision 
+Month 
+Day 
+Year 
+Facility Name 
+Docket Number 
+1----+---+-----+----1---N_u_m_b_er_+-_N_o._-+----+-----1----1 n/a 
+05000 
+07 
+04 
+2022 
+2022 -
+002 -
+00 
+09 
+01 
+2022 
+Facility Name 
+Docket Number 
+n/a 
+05000 
+9. Operating Mode 
+1 - Power Operation 
+10. Power Level 
+100% 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+• 
+20.2203(a)(2)(vi) 
+• 
+50.36(c)(2) 
+~ 
+50.73(a)(2)(iv)(A) 
+D 50.73(a)(2)(x) 
+• 20.2201(b) 
+• 
+20.2203(a)(3)(i) 
+• 
+50.46(a)(3)(ii) 
+• 
+50.73(a)(2)(v)(A) 
+• 20.2201(d) 
+• 
+20.2203(a)(3)(ii) 
+• 
+50.69(g) 
+• 
+50. 73(a)(2)(v)(B) 
+D 73.71(a)(4) 
+D 20.2203(a)(1) 
+• 
+20.2203(a)(4) 
+• 
+50. 73(a)(2)(i)(A) 
+• 
+50. 73(a)(2)(v)(C) 
+• 
+73.71(a)(5) 
+D 20.2203(a)(2)(i) 
+• 
+50.73(a)(2)(i)(B) 
+• 
+50. 73(a)(2)(v)(D) 
+• 
+73.77(a)(1)(i) 
+D 20.2203(a)(2)(ii) 
+• 
+50.73(a)(2)(i)(C) 
+D 50.73(a)(2)(vii) 
+• 
+73.77(a)(2)(i) 
+D 20.2203(a)(2)(iii) 
+• 
+50. 73(a)(2)(ii)(A) 
+• 
+50.73(a)(2)(viii)(A) 
+D 73.77(a)(2)(ii) 
+D 20.2203(a)(2)(iv) 
+• 
+50.36(c)(1 )(i)(A) 
+• 
+50.73(a)(2)(ii)(B) 
+• 
+50.73(a)(2)(viii)(B) 
+D 20.2203(a)(2)(v) 
+• 
+50.36(c)(1)(ii)(A) 
+• 
+50.73(a)(2)(iii) 
+• 
+50. 73(a)(2)(ix)(A) 
+D OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include area code) 
+Richard Swart 
+309-227-2810 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+X 
+JB 
+FSV 
+P070 
+y 
+14. Supplemental Report Expected 
+Month 
+Day 
+Year 
+[8J No 
+D Yes (If yes, complete 15. Expected Submission Date) 
+15. Expected Submission Date 
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 s[ngle-spaced typewritten lines) 
+On July 4, 2022, Unit 2 was at 100% power with no surveillance activities in progress that contributed to the event. At 0103 hours 
+the 2A Feedwater Regulating Valve (FRV) failed in the closed position and locked up, causing a decrease in reactor vessel water 
+level. Attempts at manual control of the feedwater system to increase level were not successful. At 0104, a manual scram was 
+inserted in accordance with operating procedures. All control rods inserted, and the scram was uncomplicated. 
+The cause of this event is foreign material partially or completely blocking hydraulic oil flow internal to a servo valve in the 2A FRV 
+that caused it to move rapidly from the half open position to the full closed position. This caused Unit 2 reactor vessel water level to 
+rapidly lower until it reached the established scram criteria of +11 inches, at which time a manual scram was inserted. 
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A) for an event or condition that resulted in manual or 
+automatic actuation of the reactor protection system including a reactor scram. 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 0!!/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.govlreading-rmldoc-collectionslnuregslstafflsr1022/r31) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Quad Cities Nuclear Power Station Unit 2 
+05000-
+265 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+-
+NARRATIVE 
+PLANT AND SYSTEM IDENTIFICATION 
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power 
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. 
+EVENT IDENTIFICATION 
+002 
+Manual Scram Due To Feedwater Regulator Valve Failure Decreasing Reactor Water Level 
+CONDITION PRIOR TO EVENT 
+Unit: 2 
+Event Date: July 4, 2022 
+Reactor Mode: 1 Mode Name: Power Operation 
+Event Time: 0104 CDT 
+Power Level: 100% 
+No structures, systems or components were inoperable at the start of this event that contributed to the 
+event. 
+A. DESCRIPTION OF EVENT 
+On July 4, 2022, Unit 2 was operating at 100% power. There were no surveillances in progress that 
+contributed to the event. At 0103 hours, main control room (MCR) alarms indicated the 2A Feedwater 
+(FW) [JB] Regulating Valve (FRV) [FCV] failed in a manner that drove it to a closed position and 
+caused the valve to lock up. As a result, reactor vessel water level began to decrease. MCR 
+Operators took manual control of the FW system in an effort to increase water level prior to reaching 
+the scram threshold. The 2A FRV was locked up in the closed position. 
+The 2B FRV rapidly opened to maintain level, but the single FRV was incapable of passing sufficient 
+flow to maintain vessel level at full reactor power. Manual control of the FRVwas not successful at 
+maintaining level. It is noted that there was a potential missed opportunity to perform an emergency 
+power reduction which could have reduced reactor power, allowing the single FRV to maintain 
+sufficient vessel level. 
+At 0104 hours, the decreasing water level reached the +11 inches threshold at which a manual scram 
+was ordered. All control rods inserted, and the scram was not complicated. 
+The NRC was notified via ENS Report 55975 at 0557 EDT. 
+Following replacement of the 2A FRV, Unit 2 returned to power operations on July 6, 2022. 
+00 
+NRG FORM 366A (08-2020) 
+Page_2_. of _4_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A 10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503: e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Quad Cities Nuclear Power Station Unit 2 
+05000-
+265 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 -
+002 
+NARRATIVE 
+B. CAUSE OF EVENT 
+The cause of the FRV failure was attributed to foreign material partially or completely blocking the 
+hydraulic oil flow internal to a servo valve [FSV] associated with the 2A FRV assembly. This caused 
+the FRV to move rapidly from the half open position to the full closed position, leading to the decrease 
+in reactor water level. The foreign material introduction has been reduced to two potential sources: 
+particulate in the hydraulic oil system (poor hydraulic fluid quality), and a parting line deformity in the 
+servo's end seal ring. 
+00 
+An additional contributing cause of the scram is a failure of the control room operators to perform an 
+emergency power reduction which could have reduced reactor power to a level within the capabilities of 
+a single FRV. The failure mechanism encountered - in which a FRV failed in the. closed position 
+without first locking up based on position/demand deviation - was a previously unrecognized failure 
+mechanism. Operators were unfamiliar with this failure mechanism and were unable to diagnose the 
+fault and take appropriate action to mitigate the transient in the 30-seconds available before the 
+Reactor Water Level transient became unrecoverable. 
+C. SAFETY ANALYSIS 
+System Design 
+The feedwater control system is designed to regulate feedwater flow to the reactor vessel such that the 
+reactor vessel water level is maintained at an operator controlled setpoint. Flow rates are controlled 
+using hydraulically controlled flow regulating valves. Feedwater to the reactor is controlled by throttling 
+the feedwater regulating valves. Two 14-inch full-flow feedwater regulating valves are provided for 
+power operation. One 4-inch low-flow regulating valve is used for lower power operation, and is normally 
+set to automatically maintain reactor water level. Both 14-inch feedwater regulating valves are 
+hydraulically operated. 
+Safety Impact 
+The safety significance of this event is minimal. The operators performed actions in accordance with 
+applicable procedures and training. During the transient, the manual scram was inserted at +11 inches 
+decreasing in accordance with station procedures. All control rods inserted to bdng the reactor to a 
+safe shutdown condition. Adequate make up to the vessel remained available at all times from the 
+feedwater system as well as Emergency Core Cooling Systems sources. The event was within the 
+analysis of UFSAR Chapter 15. Standby Gas Treatment system initiated as expected but failed to 
+achieve required flow rates, however secondary containment vacuum was maintained and there were 
+no radiological leaks associated with the event; reference LER 05000-254/2022-003-00 for additional 
+information. 
+This event is not a Safety System Functional Failure per NEI 99-02, Revision 7. 
+NRG FQgM 366A (08-2020) 
+Page _3 _ of _·_4 _ 
+
+NRC FORM 366A 
+(08-2020) · 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+,,,.~~,.,.._ ...... R:l2~t'(~ 
+1 
+: LICENSEE EVENT REPORT (LER) 
+\, 
+.. ' 
+CONTINUATION SHEET 
+*it* .... 
+(See NUREG-1022, R3 for instruction and guidance for completing this form 
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the OMS reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a coUection of information unless the document 
+requesting or requiring the collection displays a currently valid OMS contrDI number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Quad Cities Nuclear Power Station Unit 2 
+05000-
+265 
+NARRATIVE 
+D. CORRECTIVE ACTIONS 
+Immediate: 
+1. Replace the 2A FRV Servo. (Complete) 
+2. Initiate additional hydraulic fluid filtering. (Complete) 
+Follow up: 
+YEAR 
+2022 
+-
+SEQUENTIAL 
+NUMBER 
+002 
+REV 
+NO. 
+00 
+1. Evaluate and implement servo manufacturer corrective actions and install new components at next 
+refuel outages if appropriate. 
+2. Evaluate and implement hydraulic oil quality improvement actions including preventive maintenance 
+frequency on oil filter replacement. 
+3. Revised Abnormal Operating Procedures to prioritize an Emergency Power Reduction before 
+attempting to restore Reactor Water Level with manual control of the FRVs. 
+E. PREVIOUS OCCURENCES 
+The station events database, LERs and INPO Industry Reporting Information System (IRIS) were 
+reviewed for similar events at Quad Cities Nuclear Power Station in the last three years. This event 
+was caused by foreign material in a hydraulically operated valve. No previous occurrences were 
+identified. 
+F. COMPONENT FAILURE DATA 
+Servo 
+Manufacturer: Parker 
+Supplier: Black Limited Advanced Controls/Blac 
+Nomenclature: Servo Valve 
+Model/Part Number: DES 1071, 1 0-S-80/50/7.2 
+NRC FORM 366A (08-2020) 
+Page_4_ of _4_ 

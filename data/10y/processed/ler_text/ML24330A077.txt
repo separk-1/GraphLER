@@ -1,0 +1,848 @@
+Post Office Box 2000, Decatur, Alabama  35609-2000 
+November 25, 2024 
+10 CFR 50.73 
+ATTN:  Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, D.C.  20555-0001 
+Browns Ferry Nuclear Plant, Unit 2 
+Renewed Facility Operating License No. DPR-52 
+NRC Docket No. 50-260 
+Subject: 
+Licensee Event Report 50-260/2024-002-01 – High Pressure Coolant 
+Injection Inoperable and Isolated due to Rupture Disc Failure 
+References: 
+1. Letter from NRC to TVA, “Browns Ferry Nuclear Plant – NRC 
+Inspection Report 05000260/2024090; and Apparent Violation” 
+dated September 17, 2024. (ML24255A027) 
+2.
+Letter from TVA to NRC, “Licensee Event Report 50-260/2024-002-00
+– High Pressure Coolant Injection Inoperable due to Rupture Disc
+Failure and Resulting System Isolation,” dated May 20, 2024
+(ML24141A246)
+The enclosed Licensee Event Report provides details of an isolation of the High Pressure 
+Coolant Injection (HPCI) system on Browns Ferry Nuclear Plant, Unit 2. The Tennessee 
+Valley Authority is submitting this report in accordance with Title 10 of the Code of Federal 
+Regulations (10 CFR) 50.73(a)(2)(v)(D), as any event or condition which could have 
+prevented the fulfillment of the safety function of a system that is needed to mitigate the 
+consequences of an accident; and 10 CFR 50.73(a)(2)(i)(B), as any operation or condition 
+which was prohibited by the plant’s Technical Specifications. 
+There are no new regulatory commitments contained in this letter. Should you have any 
+questions concerning this submittal, please contact David J. Renn, Nuclear Site Licensing 
+Manager, at (256) 729-2636. 
+Respectfully, 
+Daniel A. Komm 
+Site Vice President 
+
+U.S. Nuclear Regulatory Commission 
+Page 2 
+November 25, 2024 
+ 
+ 
+ 
+Enclosure:  Licensee Event Report 50-260/2024-002-01 – High Pressure Coolant Injection 
+Inoperable due to Rupture Disc Failure and Resulting System Isolation. 
+ 
+ 
+cc (w/ Enclosure): 
+ 
+NRC Regional Administrator - Region II  
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant 
+NRC Project Manager - Browns Ferry Nuclear Plant 
+ 
+ 
+
+ENCLOSURE 
+Browns Ferry Nuclear Plant 
+Unit 2 
+Licensee Event Report 50-260/2024-002-01 
+HPCI Inoperable due to Rupture Disc Failure and Resulting System Isolation. 
+See Enclosed 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024)
+ 
+APPROVED BY OMB:  NO. 3150-0104         
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+ 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+ 
+1. Facility Name 
+    Browns Ferry Nuclear Plant, Unit 2 
+ 
+         050 
+ 
+         052 
+52. Docket Number 
+ 
+00260 
+3. Page 
+1   OF  8 
+4. Title 
+    High Pressure Coolant Injection Inoperable due to Rupture Disc Failure and Resulting System Isolation 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Revision 
+ No. 
+Month 
+Day 
+Year 
+Facility Name 
+ 
+ N/A 
+Docket Number 
+ 
+05000XXX 
+03 
+19 
+2024 2024 - 
+002 
+- 01 
+11 
+25 
+2024 
+Facility Name 
+ 
+N/A 
+Docket Number 
+ 
+05000XXX 
+9. Operating Mode 
+     1 
+10. Power Level 
+      100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply) 
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.1200(a) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  73.1200(b) 
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  73.1200(c) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  73.1200(d) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  73.1200(e) 
+  20.2203(a)(2)(ii) 
+  21.21(c) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.77(a)(1) 
+  73.1200(f) 
+  20.2203(a)(2)(iii) 
+ 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.77(a)(2)(i) 
+  73.1200(g) 
+  20.2203(a)(2)(iv) 
+  50.73(a)(2)(i)(B)  
+  50.73(a)(2)(v)(D) 
+  73.77(a)(2)(ii) 
+  73.1200(h) 
+  20.2203(a)(2)(v) 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+ 
+  OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Baruch Calkin, Licensing Engineer 
+Phone Number  (Include area code) 
+256-278-1031 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+D 
+73 
+RPD 
+F103 
+Y 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+4. Supplemental Report Expected)      
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+ No 
+ Yes (If yes, complete 15. Expected Submission Date 
+N/A 
+N/A 
+N/A 
+16. Abstract  (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On March 19, 2024, at 1030 Central Daylight Time (CDT), during performance of 2-SR-3.5.1.7, High Pressure 
+Coolant Injection (HPCI) Flowrate at Rated Reactor Pressure, after operating the Unit 2 HPCI system for 
+approximately 37 minutes at rated pressure and flow, BFN Unit 2 received indications of high rupture disc pressure, 
+HPCI Turbine trip, and HPCI isolation.  Operations personnel verified HPCI isolated as expected, declared HPCI 
+inoperable, verified BFN Unit 2 Reactor Core Isolation Cooling (RCIC) operability, and entered 2-AOI-64-2B for 
+isolation.   On March 19, 2024, at 1719 CDT, Event Notification 57036 was made to the NRC.  BFN Unit 2 remained 
+in Technical Specification (TS) Limiting Condition for Operation (LCO) 3.5.1 until the rupture disc was replaced and 
+the HPCI system was declared operable at 1051 CDT on March 25, 2024. 
+ 
+The root cause of this event was that the operating ratio of the rupture disc was not used to develop effective operating 
+limits to protect the integrity of the disc. The corrective actions taken to prevent recurrence will be to create or revise a 
+design output document to determine the operating pressure limit for the HPCI and RCIC System turbine exhaust line 
+rupture discs, to revise affected drawings and procedures to specify the operating pressure limit for the rupture discs, and 
+to revise installation and maintenance instructions to include all pertinent operating limits for operating rupture discs on 
+HPCI systems. 
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+☒
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐
+052
+2024 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    2     of     8   
+I.
+Plant Operating Conditions before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 2 was in Mode 1 at approximately
+100 percent power.
+II.
+Description of Event
+A. Event Summary
+On March 19, 2024, at 1030 Central Daylight Time (CDT), during performance of 2-SR-3.5.1.7,
+High Pressure Coolant Injection (HPCI) [BJ] Flowrate at Rated Reactor Pressure, after operating
+the Unit 2 HPCI system for approximately 37 minutes at rated pressure and flow, BFN Unit 2
+received indications of high rupture disc [RPD] pressure, HPCI Turbine [TRB] trip, and HPCI
+isolation.  Operations personnel verified HPCI isolated as expected, declared HPCI inoperable,
+verified BFN Unit 2 Reactor Core Isolation Cooling (RCIC) [BN] operability, and entered
+2-AOI-64-2B for isolation.  On March 19, 2024, at 1719 CDT, Event Notification 57036 was made
+to the NRC.  BFN Unit 2 remained in Technical Specification (TS) Limiting Condition for Operation
+(LCO) 3.5.1 until the rupture disc was replaced and the HPCI system was declared operable at
+1051 CDT on March 25, 2024.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code 
+of Federal Regulations (10 CFR) 50.73(a)(2)(v)(D), as any event or condition which could have 
+prevented the fulfillment of the safety function of a system that is needed to mitigate the 
+consequences of an accident; and 10 CFR 50.73(a)(2)(i)(B), as any operation or condition which 
+was prohibited by the plant’s Technical Specifications. 
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+☒
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐
+052
+2024 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    3     of     8   
+C. Dates and approximate times of occurrences
+DATE AND 
+APPROXIMATE 
+TIMES 
+OCCURRENCE 
+December 14, 
+2021, 0200 CST 
+Unit 2 HPCI System declared inoperable for an online maintenance 
+outage. 
+December 14, 
+2021, 2227 CST 
+Maintenance personnel replaced Unit 2 HPCI System Inner and Outer 
+Rupture Discs (BFN-2-RPD-073-0729 & 0730) per PM 500121473. 
+December 15, 
+2021, 1336 CST 
+HPCI Steam Supply valve, 2-FCV-73-16, was placed in the open 
+position. While open, HPCI exhaust pressure rose to a maximum of 
+161.4 psig. 
+December 19, 
+2021, 0300 CST 
+Unit 2 HPCI System declared operable following successful PMT. 
+March 19, 2024, 
+0900 CDT 
+BFN Unit 2 HPCI declared inoperable for scheduled performance of 
+2-SR-3.5.1.7, HPCI Main and Booster Pump [P] Set Developed Head
+and Flow Rate Test at Rated Reactor Pressure.  Unit 2 entered TS
+LCO 3.5.1 Condition C.
+March 19, 2024, 
+1030 CDT 
+After operating the Unit 2 HPCI system for approximately 37 
+minutes at rated pressure and flow, BFN Unit 2 received indications 
+of high rupture disc pressure, HPCI Turbine trip, and HPCI 
+isolation.  Operations personnel verified HPCI isolated as expected 
+and declared HPCI inoperable. 
+March 19, 2024, 
+1719 CDT 
+EN 57036 made to the NRC.  
+March 20, 2024, 
+1151 CDT 
+Work completed to replace rupture discs 2-RPD-073-0729 and  
+2-RPD-073-0730 under Work Order (WO) 124373923.
+March 25, 2024, 
+1051 CDT 
+BFN Unit 2 HPCI declared operable, exited TS LCO 3.5.1 Condition C. 
+August 22, 2024 
+It was recognized that the pressure excursion which had occurred in 
+December 2021 most likely resulted in damage to the rupture disc and 
+rendered the Unit 2 HPCI system inoperable. 
+
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104       
+EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME
+☒
+050
+2. DOCKET NUMBER
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐
+052
+2024 -
+002
+-
+01
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+Page    4     of     8   
+D. Manufacturer and model number of each component that failed during the event
+The failed disc was a Fike Metal Products 16-inch Rupture Disc, part number 16-CPV-C.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F.
+Method of discovery of each component or system failure or procedural error
+Relays 73-10A, 73-14A, 73-27A, and 73- 28A picked up at the time of the Unit 2 HPCI Isolation,
+indicating that pressure switches [PS] had tripped in response to the failure of 2-RPD-073-0729,
+the Unit 2 HPCI inner rupture disc.  Further troubleshooting confirmed that the inner rupture disc
+had failed and steam was leaking through the disc.
+G. The failure mode, mechanism, and effect of each failed component
+The inner rupture disc failure was due to exceeding its recommended operational ratio and the
+lower tolerance of the burst pressure, resulting in the deformation of the rupture membrane and
+the eventual failure of the rupture disc during the performance of HPCI flowrate testing.
+H. Operator actions
+There were no operator actions associated with this event.
+I.
+Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 - 
+002 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    5     of     8    
+III. 
+Cause of the event 
+ 
+The direct cause of the event was leakage through the 2-RPD-073-0729 inner rupture disc. 
+ 
+A. Cause of each component or system failure or personnel error 
+ 
+The root cause of this event was that the operating ratio of the rupture disc was not used to 
+develop effective operating limits to protect the integrity of the disc.  
+ 
+B.  Cause(s) and circumstances for each human performance related root cause 
+ 
+No human performance related root cause was identified. 
+ 
+IV. 
+Analysis of the event 
+ 
+The HPCI system is provided to assure that the reactor is adequately cooled to limit fuel cladding 
+temperature in the event of a small break in the nuclear system and loss of coolant which does 
+not result in rapid depressurization of the reactor vessel. The HPCI system permits the nuclear 
+plant to be shut down, while maintaining sufficient reactor vessel water inventory until the reactor 
+vessel is depressurized. The HPCI system continues to operate until the reactor vessel pressure 
+is below the pressure at which Low Pressure Coolant Injection [BO] operation or Core Spray 
+System [BG] operation maintains core cooling. 
+ 
+During the March 2024 event, turbine exhaust header pressure remained considerably less than 
+the Operating Ratio Pressure Limit of 115 psig.  HPCI flowrate surveillances were reviewed during 
+the timeframe of December 2021 to December 2023 and the maximum turbine exhaust header 
+pressure was approximately 48 psig.  All surveillances from December 2021 – December 2023 
+were satisfactory and met the acceptance criteria as required by 2-SR-3.5.1.7, and no other 
+pressure transients were recorded that could have challenged the integrity of an undamaged disc.  
+However, the design basis maximum HPCI Exhaust pressure during an accident is 53.3 psig, 
+greater than the tested pressure used when determining that the HPCI system was operable.  If 
+an accident were to have occurred from December 15, 2021, to March 19, 2024, Operability of the 
+HPCI System to perform under accident conditions could not be assured. 
+ 
+BFN, Unit 2 TS Limiting Condition for Operation (LCO) 3.5.1, ECCS - Operating, requires that 
+each ECCS injection/spray subsystem and the Automatic Depressurization System (ADS) 
+function of six safety/relief valves shall be OPERABLE in Mode 1, and in Modes 2 and 3 except 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 - 
+002 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    6     of     8    
+high pressure coolant injection (HPCI) and ADS valves are not required to be OPERABLE with 
+reactor steam dome pressure less than or equal to 150 psig.  TS LCO 3.5.1 Condition C.2 
+requires, when the HPCI system is inoperable, that the system be restored to Operable status 
+within 14 days or in accordance with the Risk Informed Completion Time Program.  A Past 
+Operability Evaluation (POE) determined that this condition is likely to have existed since 
+December 15, 2021, which exceeded the 3.5.1.C.2 required completion time. 
+ 
+Additionally, BFN, Unit 2 TS LCO 3.5.3, RCIC System, requires that the RCIC System shall be 
+OPERABLE in Mode 1, and in Modes 2 and 3 with reactor steam dome pressure greater than 150 
+psig.  TS LCO 3.5.3.A.1 requires that, when the RCIC system is inoperable, that the operability of 
+HPCI be immediately verified by administrative means.  On several occasions between  
+December 15, 2021, and March 19, 2024, Operations personnel did not identify that HPCI was 
+inoperable when performing an administrative verification of HPCI operability.  In each of these 
+instances, RCIC was inoperable for less than twelve hours. 
+ 
+Finally, TS LCO 3.0.4 states that when an LCO is not met, entry into a Mode or other specified 
+condition in the Applicability shall only be made when the associated actions to be entered permit 
+continued operation in the Mode or other specified condition in the Applicability for an unlimited 
+period of time. On March 21, 2023, at 1520 CDT, and also on March 22, 2023, at 0417 CDT, 
+BFN, Unit 2 entered a TS 3.5.1 Applicable Mode when TS 3.5.1 Required Actions were not met. 
+ 
+V. 
+Assessment of Safety Consequences 
+ 
+This event resulted in unplanned inoperability and unavailability of the single train of the BFN, 
+Unit 2, HPCI system to perform its safety function for mitigation of the consequences of an 
+accident.  In the event of an emergency, the RCIC system remained operable, and all other 
+ECCS and ADS valves were available during this event to facilitate core cooling except during 
+periods of planned inoperability for maintenance and testing. Based on the above, TVA has 
+concluded that sufficient systems were available to provide the required safety functions 
+needed to protect the health and safety of the public. 
+ 
+A. Availability of systems or components that could have performed the same function as 
+the components and systems that failed during the event 
+ 
+In the event of an emergency, the RCIC system remained operable, and all other ECCS 
+and ADS valves were available during this event to facilitate core cooling except during 
+periods of planned inoperability for maintenance and testing.  
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 - 
+002 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    7     of     8    
+B. For events that occurred when the reactor was shut down, availability of systems or 
+components needed to shutdown the reactor and maintain safe shutdown conditions, 
+remove residual heat, control the release of radioactive material, or mitigate the 
+consequences of an accident 
+ 
+This event did not occur when the reactor was shut down. 
+ 
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed 
+time from discovery of the failure until the train was returned to service 
+ 
+The BFN, Unit 2 HPCI system was determined to be inoperable from the time the rupture disc 
+experienced a pressure excursion on December 15, 2021, until the successful completion of the 
+HPCI surveillance on March 25, 2024, approximately two years and one hundred and two days. 
+ 
+VI. 
+Corrective Actions 
+ 
+Corrective Actions are being managed by the TVA’s Corrective Action Program (CAP) under 
+Condition Report (CR) 1917980. 
+ 
+A. Immediate Corrective Actions 
+ 
+HPCI rupture discs 2-RPD-073-0729 and 2-RPD-073-0730 were replaced. 
+ 
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events 
+occurring in the future 
+ 
+BFN plans to implement the following Corrective Actions to Prevent Recurrence (CAPR): 
+1. Create or revise a design output document to determine the operating pressure limit 
+for the HPCI and RCIC System turbine exhaust line rupture discs.  
+2. Revise the following drawings to update the NOTES section to specify the operating 
+pressure limit for the turbine exhaust line rupture discs:  
+a. 1-, 2-, 3-47E812-1, Flow Diagram High Pressure Coolant Injection System 
+b. 1-, 2-, 3-47E610-73-1 Mechanical Control Diagram HPCI System 
+c. 1-, 2-, 3-47E813-1, Flow Diagram Reactor Core Isolation Cooling System 
+d. 1-, 2-, 3-47E610-71-1 Mechanical Control Diagram RCIC System 
+
+ 
+NRC FORM 366A              U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)  
+APPROVED BY OMB:  NO. 3150-0104        
+EXPIRES: 04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503; e-mail:  oira_submission@omb.eop.gov.  The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+1. FACILITY NAME 
+☒ 
+050 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Browns Ferry Nuclear Plant, Unit 2 
+00260 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+☐ 
+052 
+2024 - 
+002 
+- 
+01 
+NARRATIVE 
+NRC FORM 366A (10-01-2023) 
+ 
+Page    8     of     8    
+3. Revise the following procedures to specify the operating pressure limit for the turbine 
+exhaust line rupture discs: 
+a. 
+1-, 2-, 3-OI-71, Reactor Core Isolation Cooling System [Note: Changes needed 
+for Section 3.0 Precautions and Limitations, and Section 8.4. RCIC Turbine Trip] 
+b. 
+1-, 2-, 3-OI-73, High Pressure Coolant Injection System [Note: Changes 
+needed for Section 3.0 Precautions and Limitations, and Section 8.3 HPCI 
+Turbine Trip] 
+c. 
+1-, 2-, 3-ARP-9-3B, Alarm Response Procedure [Note: Changes needed for 
+Window 28 alarm response. (RCIC)] 
+d. 
+1-, 2-, 3-ARP-9-3F, Alarm Response Procedure [Note: Changes needed for 
+Window 25 alarm response. (HPCI)] 
+4. Revise Vendor Manual BFN-VTD-F103-0050, Installation and Maintenance Instructions for 
+Fike Rupture Disc Assemblies, to include all pertinent operating limits for operating rupture 
+discs on HPCI systems.  
+ 
+Additionally, BFN plans to implement the following Corrective Actions to address contributing 
+causes: 
+1. Revise Vendor Manual BFN-VTD-F103-0050, Installation and Maintenance Instructions for 
+Fike Rupture Disc Assemblies, to include all pertinent operating limits for operating rupture 
+discs on RCIC systems.   
+2. Revise ODM 4.7, Operation’s Work Control Interface, Attachment 2, to warn against the 
+possibility of over pressurizing low pressure system components during online 
+maintenance, such as when closing the HPCI/RCIC steam exhaust isolation valve with 
+potential valve leak by. 
+ 
+VII. Previous Similar Events at the Same Site 
+ 
+A review of the BFN CAP and Licensee Event Reports (LERs) for Units 1, 2, and 3 revealed no 
+rupture disc failures resulting in the inoperability of BFN HPCI systems for the last three years. 
+ 
+VIII. Additional Information 
+ 
+There is no additional information. 
+ 
+IX. Commitments 
+ 
+There are no new commitments. 

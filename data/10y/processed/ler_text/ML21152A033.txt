@@ -1,0 +1,149 @@
+Entergy EntergyOperations, Inc.
+St. Francisville, LA70775
+Tel 225-381-4374
+KentScott
+SiteVice President
+10 CFR 50.73
+RBG-48095
+May 28, 2021
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 I 2021-02-00, ‘Automatic Reactor Scram due
+to Turbine Control System Communication Fault”
+River Bend Station Unit 1
+—
+NRC Docket No. 50-458
+Renewed Facility Operating License No. NPF-47
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report. This
+document contains no commitments. If you have any questions, please contact Mr. Tim Schenk
+at 225-381-4177.
+Respecifully,
+KCSIdmw
+Enclosure: Licensee Event Report 50-458 I 2021-02-00, “Automatic Reactor Scram due to
+Turbine Control System Communication Fault”
+cc: NRC Regional Administrator Region IV
+-
+NRC Project Manager River Bend Station
+-
+NRC Senior Resident Inspector River Bend Station
+-
+Louisiana Department of Environmental Quality
+Public Utility Commission of Texas
+Enclosure
+RBG-48095
+Licensee Event Report 50-458 I 2021-02-00, “Automatic Reactor Scram due to Turbine
+Control System Communication Fault”
+__________________________________
+_______________________ -- _____________________________
+NRC FORM366 U.S. NUCLEARREGULATORYCOMMISSION APPROVED BY0MB: NO.3150-0104 EXPIRES: 0813112023
+(08-2020) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+,.
+regardingburdenestimatetotheFOIA,Library,andInformationCollectionBranch)T-6A1OM),U.S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+/ (SeePage3forrequirednumberofdigichamctereforeachblock) A ln f f f o ai c r o s, lle ( c 3 l 1 s 5 .R 0. e 0 s 1 o 0 u 4 rc ), e( A ff t i t n n: rc D ,0 e 0 s v k , O an ff d ic t e h r e fo 0 r M th B e r N ev u i c e l w ea e r r R at e : g 0 u M lat B ory Of C fi o ce m o m f i I s n s f i o o r n m , a 7 t 2 io 5 n 1 a 7 n t d hS R t e r g e u et la N to W ry ,
+(SeeNUREG-1022,R.3forinstruchonandguidanceforcompletingthisform Washington, DC 20503; e-mail: oira oubmisoionAcmbnpp. TheNRCmaynotconductor
+https:/vw.nrc.gov/resdinq_rm/doc-collectionsInures/staff/sr1022.Ir3/) sponsor,andapersonisnotrequiredtorespondto,acoieclionofinformationunlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalid0MBcontrolnumber.
+1. FacilityName 2. DocketNumber 3. Page
+RiverBendStation—Unit1
+05000 458 1 OF 2
+4.Title
+due Turbine Control Fault
+Automatic ReactorScram to System Communication
+5. Event Date I 6. LER Number 7. ReportDate 8. OtherFaci!ities Involved__________
+Month Day Year Year , . S N eq u u m en b t e i r al , R N e o v . Month ‘ I Day Year . , F N a A cilityName I 5000 Docket N N A umbe
+I
+Facility Name DocketNumbe
+04 02 2021 2021 -002- 00 05 28 2021 NA 05000 NA
+9.OperatingMode I10.PowerLevel
+1 86
+11.ThisReportisSubmittedPursuanttotheRequirementof10CFR§: (Checkallthatapply)
+10 CFR Part 20 El 20.2203(a)(2)(vi) El 50.36(c)(2) 50.73(a)(2)(iv)(A) El 50.73(a)(2)(x)
+El 20.2201(b) El 20.2203(a)(3)O) El 50.46(a)(3)Oi) El 50.73(a)(2)(v)(A) 10 CFR Part 73
+El 20.2201(d) E] 20.2203(a)(3)(8) El 50.69(g) El 50.73(a)(2)(v)(B) El 73.71(a)(4)
+El 20.2203(a)(1) El 20.2203(a)(4) LI 50.73(a)(2)(i)(A) El 50.73(a)(2)(v)(c) El 73.71(a)(5)
+El 20.2203(a)(2)O) 10 CFR Part 21 El 50.73(a)(2)(i)(B) El 50.73(a)(2)(v)(D) El 73.77(a)(1))
+El 20.2203(a)(2)(ii) El 21.2(c) El 50.73(a)(2)O)(c) El 50.73(a)(2)(vii) El 73.77(a)(2)O)
+El 20.2203(a)(2)(iii) 10 CFR Part 50 El 50.73(a)(2)Oi)(A) El 50.73(a)(2)(viit)(A) El 73.77(a)(2)(O)
+El 20.2203(a)(2)(iv) El 50.36(c)(1)O)(A) El 50.73(a)(2)Oi)(B) El 50.73(a)(2)(vHi)(B)
+El 20.2203(a)(2)(v) El 50.36(c)(1)Oi)(A) El 50.73(a)(2)O8) El 50.73(a)(2)(ix)(A)
+El Other(Specifyhere, inAbstract,orin NRC366A).
+12. Licensee Contactforthis LER
+LicenseeContact PhoneNumber(IncludeAresCode)
+Tim Schenk, Manager—RegulatoryAssurance 225-381-4177
+13.CompOneUneforeachConiponentFaiftreDescibedinthisRepoct
+-
+Cause System Component Manufacturer ReportableToIRIS cause System - Component Lufacturer ReportableToIRIS
+D JJ SC E558 Y NA NA NA NA NA
+- -
+14. Supplemental ReportExpected Month Day Year
+15. ExpectedSubmission Date
+No Yes (Ifyes,Complete 15. Expected Submission Date) -- NA NA NA
+16. Abstract(Limitto1560spaces,i.e.,approximately15single-spacedtypewnttenlines)
+On April 2, 2021 1017 CT, Bend 86%
+at River Station was operating at reactor powerwhen a turbine trip signal
+caused a Main Turbine trip and an automatic reactorscram. All control rods fully inserted and there were no
+All
+complications. systems responded as designed.
+The Main Turbine trip and reactor scram were caused by a random, spurious communication errorwithin the Ovation
+Turbine Control System. The condition was repaired by replacing a communication module in the remote panel.
+NRCFORM366A (08-2020) Page 1 of 2
+C FORM 366A U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 08/31/2023
+(08.2020)
+.. Estimated burden per responseto complywith this mandatory collection request: 80 hours, Reported
+/ LICENSEE EVENT REPORT (LER)
+lessonslearnedareincomorated intothelicensing procesnand fed bato industry. Send comments
+‘\ regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A1OM), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555.0001, or by e-mail to
+lvfvcollects.ResvurceWnrc.qov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150.0104), Attn: Desk Officerforthe NuclearRegulatory Commission, 725 17th Street NW,
+(SeeNUREG-1022,R.3forinstructionand guidanceforcompletingthisform Washington,DC 20503;e-mail: oira vvbmissionornb.eopy. TheNRCmaynotconductorsponsor,
+https:/Jwv.rw.nrc.qov/reading-rm/doc-coltections/nuregslstaffisrl0221r31) andapersonisnotrequiredtorespondto,acollectionofinformationunlessthedocumentrequestingor
+requiringthecollectiondisplaysacurrentlyvalid0MBcontrolnumber.
+1. FACILITYNAME Z DOCKETNUMBER 3. LERNUMBER
+7
+YEAR SEQUENTIAL REV
+05000-458 NUMBER NO.
+River Bend Station Unit 1
+—
+2021 - 002 - 00
+NARRATIVE
+EVENT DESCRIPTION
+On April 2,2021 at 1017 CT, while operating at 86% reactor power, a random, spurious communication errorwithin the
+Ovation Turbine Control System (referred to as Ovation) (JJ) caused a Main Turbine (TA) trip and an automatic reactor
+scram. All control rods fully inserted and there were no complications. All systems responded as designed.
+Following the scram, reactor pressure was maintained by the Turbine Bypass Valves (JI) and reactorwater level was
+maintained by the Feedwater (SJ) system.
+This event was reported under 10 CFR 50.72(b)(2)(iv)(B), as any event orcondition that results in actuation ofthe
+Reactor Protection System when the reactor is critical and 10 CFR 50.72(b)(3)(iv)(A) Specified System Actuation as a
+result of expected post scram level 3 isolations. (EN 55169)
+This report is made pursuant to 10 CFR 50.73(a)(2)(iv)(A), any event or condition that resulted in manual or automatic
+actuation ofthe Reactor Protection System.
+SAFETYASSESSMENT
+There were no actual Nuclear or Radiological safety consequences due to this event. Thus, this event was of minimal
+significance to the health and safety ofthe public. The plant response to this event was bounded by the Updated Safety
+Analysis Report analysis of a Main Turbine Trip with Steam Bypass Valves/Pressure Regulators in service. Post scram
+reactor level and pressure control functioned as expected.
+EVENT CAUSE
+This event was caused by a remote communications module that erroneously sent a turbine front standard manual
+pushbutton trip signal by making the normally energized input appear de-energized.
+Investigation into this event identified that communication errors were coming into Ovation from a remote panel following
+RF-21. These communication errors were causing random, spurious alarms to come in on Ovation. The condition was
+not detected because the Ovation alarms did not last long enough to trigger a main control room annunciator and there
+was no procedural guidance to periodically review the Ovation alarm log. Afterthe faulty remote communication module
+was replaced, system operation returned to normal. This was also determined to be a single point vulnerability.
+CORRECTIVE ACTIONS
+• The defective remote communication module was replaced.
+• A temporary modification was installed to eliminate the Front Standard Ovation push button inputs (single point
+vulnerability) as Turbine trip signals.
+• Procedure revisions are planned to provide the following (tracked by Corrective Action Process):
+Improved Ovation system shutdown and restoration instructions. (Prevents damage to modules)
+-
+- Improved guidance for Ovation alarm monitoring.
+Direction to place Ovation controllers in service before Turbine shell and chest warming to allow
+-
+monitoring prior to plant startup.
+PREVIOUS SIMILAR EVENTS
+None

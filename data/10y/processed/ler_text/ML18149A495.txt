@@ -1,0 +1,334 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+May 29, 2018
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1, 2, and 3
+Renewed Facility Operating License Nos. DPR-33, DPR-52, and DPR-68
+NRC Docket Nos. 50-259, 50-260, and 50-296
+Subject: Licensee Event Report 50-259/2018-003-00
+The enclosed Licensee Event Report provides details of an unanalyzed condition
+associated with the Browns Ferry Nuclear Plant Emergency Equipment Cooling Water
+(EECW) System. During postulated fire events where the C3 EECW pump is credited for
+Control Room Abandonment scenarios, combined with a loss of offsite power, the pump
+could trip on undervoltage and fail to restart. This would cause a loss of the EECW
+system's credited function for these events. The Tennessee Valley Authority is submitting
+this report in accordance with 10 CFR 50. 73(a)(2)(ii)(B), as any event or condition that
+results in the nuclear power plant being in an unanalyzed condition that significantly
+degraded plant safety.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Respectfully,
+LL~lFOR.\
+D. L. Hughes,
+Site Vice President
+Enclosure: Licensee Event Report 50-259/2018-003-00 - Unanalyzed Condition due to an
+Incorrectly Wired Breaker on Emergency Equipment Cooling Water Pump
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+NRC Project Manager - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Units 1, 2, and 3
+Licensee Event Report 50-259/2018-003-00
+Unanalyzed Condition due to an Incorrectly Wired Breaker on Emergency Equipment Cooling Water
+Pump
+See Enclosed
+CNRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory colk!ction request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+<il~Rllla(I<.,,.. industry. Send commenls regarding burden estimate to the Information Services Branch
+/'¥.\ LICENSEE EVENT REPORT (LER) (T-2 F43), U.S. Nuclear Regulatory Commissk>n, Washington, DC 20555-0001,or by e-mail
+~~~~ ....... ' . : l.., i t R o e g ln u f l o a c to o r l y k !c A ls f . f a R irs e , s o N ur E c O e@ B- n 1 r 0 c 2 . 0 g 2 ov , , ( a 3 n 1 d 5 0 t - o 0 1 t 0 h 4 e ) , D O es ff k ic e O ff o ic f e r M , a O n ff a i g ce e m o e f n I t n fo a r n m d a ti B on u dg a e nd t
+'
+Washington, DC 20503. If a means used to impose an information colk!ction does not
+display a currently valid OMB control number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Browns Ferry Nuclear Plant (BFN), Unit 1 05000259 1 OF 6
+4. Title
+Unanalyzed Condition due to an Incorrectly Wired Breaker on Emergency Equipment Cooling Water Pump
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year BFN, Unit 2 05000260
+Number No.
+03 29 2018 2018 - 003 - 00 05 29 2018 B Fa F c N ilit , y U Na n m it e 3 050 D 0 o 0 c 2 ke 9 t 6 N umber
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+D D D
+20.2201 (d) 20.2203(a)(3)(ii) ~ 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1 l D 20.2203{a){4) D 5o.73(a)(2){iii) D 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.7 3(a)(2)(iv)(A) 50.7 3(a)(2)(x)
+D D D D
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50. 73(a)(2)(v)(A) 73. 71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 5o.36(c)(2) 50.73(a)(2){v)(B) 13.11(a)(5)
+D D D D
+20.2203{a){2)(iv) 50.46(a)(3)(ii) 50.7 3(a){2)(v)(C) 13.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50. 73(a)(2)(v)(D) D 73. 77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i){B) 50.73(a)(2)(vii) 73. 77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Baruch Calkin, Licensing Engineer (256) 614-6713
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ~No N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On March 8, 2018, at 0130 Central Standard Time (CST), during a relay functional test of the C3
+Emergency Equipment Cooling Water (EECW) Pump trip circuit, incorrect wiring was discovered on the C3
+EECW Pump breaker. This condition would have prevented the breaker closing springs from recharging
+while the transfer switch was in the emergency position. On March 10, 2018, at 2042 CST, Maintenance
+personnel completed work to correct the wiring for the pump breaker.
+On March 29, 2018, at 1344 Central Daylight Time (CDT), BFN Engineering determined that an unanalyzed
+condition, which significantly affected plant safety, had existed from October 28, 2015 to March 10, 2018.
+For postulated fire scenarios that could cause a Loss of Offsite Power and also result in Main Control Room
+Abandonment, the required EECW pumps utilized in the Fire Safe Shutdown procedure may not have been
+available. On March 29, 2018, at 2128 CDT, Event Notification# 53300 was made to the NRC.
+The cause of this condition was a legacy human performance (HU) error involving a failure to properly utilize
+HU tools. Corrective actions were to correctly rewire the circuitry for the C3 EECW Pump breaker, and to
+revise plant procedures in order to add HU tools which verify, during testing, that the breaker springs will
+recharge while the transfer switch is in the emergency position.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ,. ·- 'CU tH UMts: NU. 31ou-ui04 CAt'1 ..c ;:,: --·-,, ___ _
+(04-2018)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons le<W"ned <W"e incorpo.-ated into the licensing process and fed back to
+induslry. Send comments regarding burden estimate to the Information Se!vices Branch (T-
+2 F43), U.S. Nucle<W" Regulatory Commission, Washington, DC 2055~001,or bye-ma~ to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov, and to the Desk Office<, Office of lnfonnation and
+Regulatory Mairs, NEOB-10202, (315().0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to ilT!JOse an information collection does not
+display a ctrrenlly valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 003 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Units 1 and 2, were in Mode 1 at
+approximately 100 percent rated thermal power, and BFN, Unit 3, was in Mode 5 for a refueling
+outage at zero percent power.
+II. Description of Event
+A. Event Summary
+On March 8, 2018, at 0130 Central Standard Time (CST), during a relay [RL Y] functional
+test of the C3 Emergency Equipment Cooling Water (EECW) [Bl] Pump [P] trip circuit,
+incorrect wiring was discovered on the C3 EECW Pump breaker [BKR]. This condition
+would have prevented the breaker closing springs from recharging while the transfer
+switch was in the emergency position.
+On March 10, 2018, at 2042 CST, Maintenance personnel completed work to correct the
+wiring for the pump breaker.
+On March 29, 2018, at 1344 CDT, BFN Engineering determined that even though the C3
+EECW pump had been unavailable since August 23, 2012, an unanalyzed condition
+which significantly degraded plant safety actually existed from October 28, 2015 to
+March 10, 2018. This is based on the fact that the C3 EECW Pump was not credited in
+the backup control mode until 10CFR50.48(c) - National Fire Protection Association 805
+became effective October 28, 2015. For postulated fire scenarios that could cause a Loss
+of Offsite Power (LOOP) and also result in Main Control Room (MCR) [NA]
+Abandonment, the required EECW pumps utilized in the Fire Safe Shutdown (FSS)
+procedure may not have been available. On March 29, 2018, at 2128 CDT this condition
+was reported to the NRC as Event Notification # 53300.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with
+10 CFR 50.73(a)(2)(ii)(B), as any event or condition that results in the nuclear power
+plant being in an unanalyzed condition that significantly degraded plant safety.
+B. Status of structures, components, or systems that were inoperable at the start of
+the event and that contributed to the event
+There were no structures, components, or systems (SSCs) that were inoperable at the
+time of discovery, which contributed to this condition.
+NRC FORM 366A (04-2018) Page _2_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION Al "~ cu l:H vmD: "V· ~ "'u-v OU'+ t:A.-lr<t::>:"
+(04-2018)) Estimated burden per response to comply with this mandatoiy collection request 80 hours.
+Reported lessons learned are inC<XpOfated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43). U.S. Nuclea-Regulatory Commisson, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects. Resource@nrc.gov. and to the Desk Officer, Offiice of Information and
+Regulator/ Affairs, NEOB-10202, (3150-0104), Office of Management and Budge~
+CONTINUATION SHEET Washington, DC 20503. If a means used to ilrl)Ose an information collection does not
+display a clJTently valid OMB con1rol number, the NRG may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 003 00
+NARRATIVE
+C. Dates and approximate times of occurrences
+Date Time Event
+Work complete on Work Order 113567386. This
+1247
+August 23, 2012 was the last work performed on the C3 EECW Pump
+CDT
+breaker prior to discovery of this condition.
+Incorrect wiring discovered on C3 EECW Pump
+0130
+March 8, 2018 breaker during a relay functional test of the trip
+CST
+circuit.
+2042 Maintenance personnel completed work to correct
+March 10, 2018
+CDT the field wiring for the pump breaker.
+A Past Operability Evaluation (POE) determined that
+1344
+March 29, 2018 an unanalyzed condition existed which affected the
+CDT
+C3 EECW Pump.
+2128
+March 29, 2018 Event Notification # 53300 made to the NRC.
+CDT
+D. Manufacturer and model number of each component that failed during the event
+This condition did not involve any failed components.
+E. Other systems or secondary functions affected
+There were no other systems or secondary functions affected by this condition.
+F. Method of discovery of each component or system failure or procedural error
+There were no component failures, system failures, or procedural errors associated with
+this condition.
+G. Failure mode, mechanism, and effect of each failed component
+This condition did not involve any failed components.
+H. Operator actions
+There were no operator actions taken as a result of this condition.
+I. Automatically and manually initiated safety system responses
+There were no safety system responses initiated as a result of this condition.
+NRG FORM 366A (04-2018) Page _3_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION •. ·-·--t:IY umc: l'IU. J IDU·U1U4 t:J\l'IKt::S:
+(04-2018)) Estimated burden per response to comply with this mandatory col~tion request 80 hours.
+Repcr1ed lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T·
+2 F43), U.S. Nuclear Regulat0<y Commission, Washington, DC 20555-0001,or by e-mai to
+LICENSEE EVENT REPORT (LER) lnfocol~ts. Resourte@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affars, NEOB-10202, (315().0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information col~n does not
+display a c1.mm1ly valid OMB control number, the NRG may no1 conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 003 00
+NARRATIVE
+Ill. Cause of the Event
+A. Cause of each component or system failure or personnel error
+Human performance tools which could have prevented this condition were not utilized.
+8. Cause(s) and circumstances for each human performance related root cause
+This issue was a legacy human performance issue which could have been prevented
+through the use of the "Stop When Unsure" HU tool. The use of the "Stop When Unsure"
+HU tool has since been covered under the Procedure Adherence rollout in 2017.
+IV. Analysis of the Event
+The safety objective of the EECW System is to provide cooling water to the Standby Diesel [DG]
+engine [ENG] coolers [LB], the Residual Heat Removal [BO] pump seal coolers and pump room
+coolers, the Core Spray [BG] pump room coolers, the Unit 3 Control Bay chillers [CHU], Unit 3
+Shutdown Board (SDBD) [ECBD] Room Chillers, Unit 3 Electrical Board Room Air Conditioning
+Units, and additional makeup for the fuel pool. There are four service water pumps dedicated to
+the EECW system that supply two independent headers.
+The C3 EECW Pump Breaker was wired in an incorrect manner that prevented the breaker
+closing springs from recharging while the transfer switch was in the emergency position. The
+manual action of taking the transfer switch to the emergency position would occur locally at the
+breaker if the MCR was abandoned during an event resulting in an entry into the Fire Safe
+Shutdown (FSS) procedures. Because of the incorrect wiring, no wiring connection existed from
+the emergency DC control power to the closing spring charging motor. As a result, the breaker
+closing springs would be unable to be recharged with the transfer switch in the emergency
+position. Since power was available to the close charging spring with the transfer switch in the
+normal position, the closing spring would have been charged when the operators placed the
+transfer switch in emergency. With the spring charged when the transfer switch was taken to
+emergency, the breaker could be closed one time. However, there are postulated scenarios
+where the breaker would have to close more than once with the transfer switch in emergency.
+The closing spring would not have recharged resulting in unavailability of the C3 EECW pump.
+BFN FSS procedures for MCR Abandonment require that at least two EECW pumps are in
+service, and include steps to align the A3 and C3 EECW Pumps from Backup Control.
+Assuming the C3 EECW pump had to be started once with the transfer switch in emergency, a
+subsequent LOOP during a MCR Abandonment scenario could have resulted in a condition
+where the C3 EECW Pump would trip and fail to restart, causing a loss of safety function for a
+required EECW pump during a fire event.
+NRC FORM 366A (04-2018) Page _4_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ts T UMts: NU. 31'i0·0104 CAr-1. .c <:>: U.>I.> 11.tU.tU
+(04-2018)) Estimated burden per response to comply with this mandatu<y collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back ID
+industry. Send commenll; regarding burden estimate ID the Information Services Branch [T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or bye-ma~ 1o
+LICENSEE EVENT REPORT (LER) lnfocollecll;. Resource@nrc.gov, and to the Desk Officer, Office of lnfonnation and
+Regulator/ Mairs, NEOB-10202, (315().0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a cITTentiy valid OMB control number, the NRG may not conduct or sponsor, and a
+person is not required 1o respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 003 00
+NARRATIVE
+V. Assessment of Safety Consequences
+A Probabilistic Risk Assessment performed by TVA determined that the risk significance of this
+condition was negligible, corresponding to a maximum change in Core Damage Frequency of
+less than 1E -6/yr and change in Large Early Release Frequency less than 1E -7/yr. Therefore,
+there is no significant impact to the health and safety of the public from this condition.
+A. Availability of systems or components that could have performed the same
+function as the components and systems that failed during the event
+Two EECW pumps are required for aligning the EECW system from backup control.
+The FSS procedure for Units 1, 2, and 3 includes steps for aligning A3 and C3 EECW
+pumps from backup control. While 4160V Shutdown Board C would be aligned for
+abandonment and the 83 EECW Pump would have been available, the FSS procedure
+for control room abandonment does not contain steps for starting the B3 EECW Pump
+from backup control.
+The POE determined that even with the C3 EECW backup control function lost, the
+system was not operated outside the TS limitations since the 83 and D3 EECW Pumps
+and their backup control functions would have been restored within seven days per TS
+LCO 3.7.2.
+B. For events that occurred when the reactor was shut down, availability of systems
+or components needed to shut down the reactor and maintain safe shutdown
+conditions, remove residual heat, control the release of radioactive material, or
+mitigate the consequences of an accident
+During the period when this condition existed there were multiple time periods when one
+or more 8FN reactors were shut down. However, the EECW system's Backup Control
+functions are only required to be Operable in Modes 1 and 2.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the
+elapsed time from the discovery of the failure until the train was returned to service
+This condition did not result in the TS inoperability of any safety system. However, this
+condition rendered the C3 EECW Pump, which is credited for some fire scenarios,
+unavailable for the purposes of those scenarios.
+VI. Corrective Actions
+This condition was entered into the TVA Corrective Action Program (CAP) and is being tracked
+under Condition Report 1394604.
+NRC FORM 366A (04-2018) Page _5_ of _6_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ~· --CT vmc: NU. ;JH>U·Ul04 t:At"ll<t::::>: vv•v
+(04-2018)) Estimated burden per response to comply with this mandatnry collection request 80 hours.
+Reported lessons le..-ned ..-e incorporated into the licensing process and fed back ID
+industry. Send commenls regarding burden estimate to the lnfoonation Se<vices Branch (T·
+2 F43), U.S. Nucle..-Regulatory Commission, Washington, DC 20555-0001,or by e-mail ID
+LICENSEE EVENT REPORT (LER) lnfocollecls. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatnry Affairs, NEOB-10202, (3150-0104), Office of Management and Budget
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an infoonation collection does not
+display a currentiy valid OMB comm number, the NRC may not conduct or sponsor, and a
+person is not required to respond ID, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 003 00
+NARRATIVE
+A. Immediate Corrective Actions
+The immediate corrective action was to correctly rewire the circuitry for the C3 EECW
+Pump breaker. The circuitry was repaired on March 10, 2018.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events
+occurring in the future
+Plant procedures will be revised in order to add HU tools which verify, during testing, that
+the breaker springs will recharge while the transfer switch is in the emergency position.
+VII. Previous Similar Events at the Same Site
+A review of the BFN CAP and Licensee Event Reports for Units 1, 2, and 3 found no instances
+within the past five years of degraded or unanalyzed conditions on the EECW Pumps which
+resulted from improper wiring.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2018) Page _6_ of _6_

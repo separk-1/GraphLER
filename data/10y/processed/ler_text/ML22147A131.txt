@@ -1,0 +1,438 @@
+Constellation~ 
+RA22-019 
+May 27, 2022 
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, DC 20555-0001 
+LaSalle County Station, Unit 1 
+Renewed Facility Operating License No. NPF-11 
+NRC Docket No. 50-373 
+LaSalle County Station 
+2601 North 21 " Road 
+Marseilles, IL 61341 
+815-415-2000 Telephone 
+10 CFR 50.73 
+Subject: 
+Licensee Event Report 2022-001-00, Turbine Stop Valve Limit Switch 
+Failure due to Lubricant Degradation 
+In accordance with 10 CFR 50.73(a)(2)(i)(B), Exelon Generation Company, LLC 
+(EGC) is submitting Licensee Event Report (LER) Number 2022-001-00 for LaSalle 
+County Station, Unit 1. 
+There are no regulatory commitments in this letter. Should you have any questions 
+concerning this report, please contact Mr. Dan Mearhoff, Regulatory Assurance 
+Manager, at (815) 415-2800. 
+Respectfully, 
+fr?i,.~ 
+John Van Fleet Jr 
+Plant Manager 
+LaSalle County Station 
+Enclosure: 
+Licensee Event Report 
+cc: 
+Regional Administrator- NRC Region Ill 
+NRC Senior Resident Inspector - LaSalle County Station 
+
+NRCFORM366 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+(08-2020) 
+;..,,."'4 ... , 
+Estimatsd burden per response to co1111ly with this mandatnry collection request 80 holfS. Repoosd 
+LICENSEE EVENT REPORT (LER) 
+lessons learned are illCOfJ)Ofilled inlD ltoe licensing process and fed back to induslly. Send ccmments 
+!'~/s 
+regarding burden es~mate I:> ltoe F0IA, Libraly, and Information Collections Branch [T-6 A10M), U.S. 
+. 
+. . 
+(See Page 3 for required number of digits/characters for each block) 
+Nuclear 
+Regulatory 
+CollllTisslon, Washington, DC 
+20555--0001, 
+Of 
+by 
+e-mai 
+ID 
+\. 
+'I 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+lnfccollects.Resouroe@M:.gov, and ltoe 0MB reviewer at 0MB Office of Information and Regulafnly 
+..... 
+http://www.nrc.gov/reading-rm/docxollections/nuregs/staff/sr1022/r3/) 
+Affairs, (3150-0104), Alln: Desk ail: Qira subrrission@omb.eoo.gov. The NRC may no1 conduct o, 
+sponso,, and a person is not required ID respond to, a collection of information unless ltoe document 
+requesting Of requiring ltoe colecilon displays a curren11y vaid 0MB con1rol number. 
+1. Faclllty Name 
+2. Docket Number 
+3.Page 
+LaSalle County Station, Unit 1 
+05000 -373 
+1 OF 5 
+4. Title 
+Turbine Stop Valve Limit Switch Failure due to Lubricant Degradation 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facllltles Involved 
+Sequential 
+Revision 
+Facility Name 
+Docket Number 
+Month 
+Day 
+Year 
+Year 
+Number 
+No. 
+Month 
+Day 
+Year 
+NA 
+NA 
+2 
+4 
+2022 
+2022 
+001 
+00 
+5 
+27 
+2022 
+Facility Name 
+Docket Number 
+-
+-
+NA 
+NA 
+9. Operating Mode 
+1 
+110. Power Level 
+100 percent 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+II 
+11 
+110 CFR P.al't,20 .. ;T: • D 20.2203(a)(2)(vl) 
+D 50.36(c)(2) 
+D 50.73(a)(2)(1v)(A) 
+D 50.73(a)(2)(x) 
+• 20.2201(b) 
+• 20.2203(8)(3)(1) 
+• 50.46(8)(3)(11) 
+D 50.73(a)(2)(v)(A) 
+1-·j·li 
+1~. 9~R Part 13 
+. r 
+;1 ·., 
+• 20.2201(d) 
+• 20.2203(8)(3)(11) 
+• 50.69(g) 
+D 50.73(a)(2)(v)(B) 
+D 73.71(a)(4) 
+0 20.2203(a)(1) 
+D 20.2203(a)(4) 
+• 50.73(a)(2)(1)(A) 
+D 50.73(a)(2)(v)(C) 
+• 73.71(a)(S) 
+0 20.2203(a)(2)(I) 
+, r 10 qh~ P.,.~;211 ,1 ' [8J 50.73(a)(2)(I)(B) 
+D 50.73(a)(2)(v)(D) 
+D 73.77(a)(1)(1) 
+i 
+0 20.2203(a)(2)(11) 
+D 21.2(c) 
+• 50.73(a)(2)(I)(C) 
+D 50.73(a)(2)(vll) 
+D 73.77(a)(2)(I) 
+D 20.2203(a)(2)(111) 
+-i: ·10 CFRlP.artlso .. 
+' 
+• 
+·1 
+>-
+- • 50.73(a)(2)(11)(A) 
+D 50.73(a)(2)(vlll)(A) 
+D 73.77(a)(2)(11) 
+0 20.2203(a)(2)(1v) 
+D S0.36(c)(1)(I)(A) 
+• 50.73(a)(2)(11)(B) 
+D 50.73(a)(2)(vlll)(B) 
+0 20.2203(a)(2)(v) 
+• 50.36(c)(1)(11)(A) 
+• 50.73(8)(2)(111) 
+D 50.73(a)(2)(Ix)(A) 
+0 OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include area code) 
+CJ Smith, Operations Director 
+(815) 415-2200 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component Manufacturer Reportable to IRIS I•• .. 
+Cause 
+System 
+Component Manufacturer Reportable to IRIS 
+B 
+TA 
+33 
+N007 
+y 
+~:•.: 
+NA 
+NA 
+NA 
+NA 
+NA 
+14. Supplemental Report Expected 
+Month 
+Day 
+Year 
+181 No 
+I D Yes (If yes, complete 15. Expected Submission Date) 
+15. Expected Submission Date 
+
+6. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines) 
+On 12/4/21 during suNeillances of the turbine stop valves (TSV), limit switch 1 C71-N006C failed. The component was 
+sent offsite for failure analysis. Component failure analysis was complete on 2/4/2022 and determined that the cause was 
+attributed to degradation of switch lubricant which established firm evidence that a past inoperability condition existed. 
+The component 1C71-N006C is the TSV-3 Closure Reactor Protection System (RPS) channel A2 scram limit switch. This 
+device is required by technical specifications to support LCO 3.3.1.1 function 8 (RPS) and LCO 3.3.4.1 (End of Cycle -
+Recirculation Pump Trip or EOC-RPT). Each TSV position is monitored by two limit switches (for TSV-3, A2 and 81 
+channels). This condition results in the TSV-3 input to RPS A2 as well as one channel of the EOC-RPT trip being 
+INOPERABLE. The appropriate LCO Conditions and Required Actions were entered and tracked. The RPS and EOC-
+RPT functions were maintained due to the redundant channels remaining OPERABLE. There were no reportability 
+thresholds applicable to this issue at the time of the event, and there was no loss of safety function. The condition is 
+reportable in accordance with 10 CFR 50. 73(a)(2)(i)(B) for operation or condition prohibited by Technical Specifications. 
+Immediate corrective actions were taken to replace the component and restore the associated channel to OPERABLE. 
+NRC FORM 366A (08-2020) 
+Page_2_ of _5_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+,,,,. ...... 
+lt~;t.1.,l.\ LICENSEE EVENT REPORT (LER) 
+\~~
+; 
+CONTINUATION SHEET 
+/) ..... 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. nrc.g ov/reading-rm/doc-collections/nuregs/staff/sr1 022/r31) 
+Estimated burden per response lo comply with lhis mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and led back to industry. Send comments 
+regarding burden estimate to lhe FOIA, library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required lo respond lo, a collection of infonnation unless the document 
+requesting or requiring the collection displays a currently valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+LaSalle County Station, Unit 1 
+05000-
+373 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2022 
+-
+001 
+NARRATIVE 
+Plant and System Identification 
+LaSalle Country Station Unit 1 is a General Electric Boiling Water Reactor with 3546 Megawatts Thermal Rated 
+Core Power. The affected system was the main turbine system. The affected component was the turbine stop 
+valve (TSV) limit switch 1C71- N006C. This is the limit switch for the TSV number 3 Closure Reactor Protection 
+System (RPS) A2. channel. 
+Condition Prior to Event 
+Unit(s): 1 
+Reactor Mode(s): 1 
+Description 
+Date: 
+Mode(s) Name: 
+Feb 4, 2022 
+Power Operation 
+Time: 
+00:00 CDT 
+Power Level: 100 percent 
+On 12/4/21 the limit switch on unit 1 TSV-3 failed to actuate during surveillance testing. The limit switch is 
+normally held in the actuated position during unit operation and only allowed to return to the relaxed, shelf state 
+position, once per 6 months. The component (1 C71-N006C) was replaced and sent offsite for component 
+testing and failure analysis. The component failure analysis (documented in report dated Feb 4, 2022) verified 
+the limit switch malfunction and determined the cause was attributed to degradation of switch lubricant. 
+Cause 
+The failure analysis functional testing verified the limit switch malfunction. The switch cam would rotate but no 
+electrical switching occurred and no audible "clicking" sound was heard. Based on internal component 
+inspection, the failure mode was attributed to the slide and base plate having considerable corrosion products. 
+The internal components were covered with a black, sticky material of dried-out grease and steel corrosion 
+products. 
+Reportabllity and Safety Analysis 
+The component 1C71-N006C is the TSV-3 Closure RPS channel A2 scram limit switch. This device is required 
+to be OPERABLE per LCO 3.3.1 .1 function 8 (RPS) and LCO 3.3.4.1 (EOC-RPT). TSV-3 was fully closed 
+during the surveillance, which should have resulted in the 1 C71-N006C switch being open. Each TSV position is 
+monitored by two limit switches (for TSV-3, A2 and B1 channels). This condition results in the TSV-3 input to 
+RPS A2 as well as one channel of the EOC-RPT trip being INOPERABLE. The appropriate LCO Conditions and 
+Required Actions were entered and tracked. The RPS and EOC-RPT functions were maintained due to the 
+redundant channels remaining OPERABLE. There were no reportability thresholds applicable to this issue at the 
+time of the event, and there was no loss of safety function. 
+00 
+Upon receipt of the failure analysis on February 4, 2022, the station was made aware that a past inoperability period 
+existed from the test failure that occurred on December 4, 2021. The inoperability period was greater than allowed by 
+TS LCO 3.3.1.1 and 3.3.4.1, as indicated below. This event is reportable in accordance with 10 CFR 50. 73(a)(2)(i)(B) 
+as a condition prohibited by the plant's TS. 
+• 
+LCO 3.3.1.1 requires that the RPS instrumentation for each function is OPERABLE, and Condition A applies to 
+one or more required channels being inoperable requires that the channel or its associated trip system is placed 
+in trip within 12 hours. In this case, the station had exceeded the completion time of 12 hours, when the 
+NRC FORM 366A (08-2020) 
+Page_3_ of _s_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http:/twww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r3/) 
+Estimated burden per response to comply wilh lhis mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to induslly. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currenUy valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+LaSalle County Station, Unit 1 
+05000-
+373 
+NARRATIVE 
+YEAR 
+2022 
+-
+SEQUENTIAL 
+NUMBER 
+001 
+malfunctioning channel was found inoperable during December 2021 surveillance testing. In addition, LCO 
+3.3.1.1 Condition D was not entered for the Completion Time of Condition A not met. 
+REV 
+NO. 
+00 
+• 
+LCO 3.3.4.1 requires that the EOC-RPT instrumentation is OPERABLE, which includes two channels of TSV 
+closure and TCV fast closure or Minimum Critical Power Ratio (MCPR) limits are applied. 
+Corrective Actions 
+Corrective actions taken in response to the conditions were: 
+• 
+A work order was completed to replace the component, and to restore the associated channel to OPERABLE. 
+• 
+Performed component failure analysis at off-site testing facility. 
+• 
+Action generated for Engineering to evaluate surveillance frequency with possible restoration to a quarterly 
+frequency in accordance with station procedural guidance. 
+Previous Occurrences 
+Unit 1 LER 373-2019-001-00 
+During quarterly surveillances of TSV limit switch 1 C71-N006C, the component exhibited degraded performance 
+on May 20, 2018 and a failure on September 9, 2018. The component was replaced; and subsequent component 
+failure analysis determined the cause was attributed to degradation of the switch lubricant due to exposure from a 
+high temperature environment, which established firm evidence that the sluggish performance exhibited in May 
+2018 was related to the failure in September 2018 and that a past inoperability condition existed. Immediate 
+corrective actions were taken to replace the component and restore the associated channel to OPERABLE. 
+Additional actions included performance of a causal investigation, identification of a new limit switch model that 
+has greater heat tolerance, with a component replacement schedule starting in 2019. 
+Unit 1 LER 373-2019-002-00 
+On March 23, 2019, during quarterly scram functional surveillances of turbine stop valves (TSV), the limit switch 
+associated with TSV number 3 failed to return to shelf state when the lever arm was released. The failed 
+component was replaced and sent offsite for component testing and failure analysis. The component failure 
+analysis completed on May 3, 2019 determined the cause was attributed to insufficient lubrication in the shaft to 
+bushing section of the limit switch. This established firm evidence that the failure mechanism and past inoperability 
+condition may have existed since its last successful surveillance on December 15, 2018. Immediate corrective 
+actions were taken to replace the component and restore the associated channel to OPERABLE. Additional actions 
+included performance of a component failure analysis and to complete scheduled limit switch replacements of the 
+current model with a new limit switch model that has greater heat tolerance. 
+2C71-N006G failure 
+On June 13, 2019, during functional testing surveillances of the turbine stop valves (TSV), the limit switch 
+associated with TSV number 4 failed to return to shelf state when the lever arm was released. The failed 
+component was replaced in the next available outage and sent offsite for component testing and failure analysis. 
+The component failure analysis completed on March 24, 2021 found only a small amount of grease on the internal 
+components. It was determined the switch failed due to dried out and gritty grease, likely due to a missing boot 
+which could have cause the limit switch to dry out. Immediate corrective actions were taken to restore the 
+associated channel to OPERABLE. 
+NRC FORM 366A (08-2020) 
+Page_4_ of _5_ 
+
+NRC FORM 366A 
+(08-2020) 
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 08/31/2023 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+http:/twww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31) 
+requesting or requiring the collection displays a currenUy valid 0MB control number. 
+1. FACILITY NAME 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+LaSalle County Station, Unit 1 
+05000-
+373 
+2022 
+-
+NARRATIVE 
+Component Failure Data 
+Manufacturer: NAMCO Controls Corporation 
+Device: Unit 1 Turbine Stop Valve limit switch (Model: EA?00-80154) 
+Component ID: 1C71-N006C, Unit 1 Turbine Stop Valve Position Switch (Cat. ID 0001791228) 
+NRC FORM 366A (08-2020) 
+SEQUENTIAL 
+NUMBER 
+001 
+REV 
+NO. 
+00 
+Page_S_ of _s_ 

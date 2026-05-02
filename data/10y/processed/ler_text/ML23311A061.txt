@@ -1,0 +1,185 @@
+_,,,,,
+_,,,,,
+Constellation .
+~,1c
+10 CFR 50.73
+CCN: 23-78
+November 7, 2023
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 3
+Subsequent Renewed Facility Operating License No. DPR-56
+NRC Docket No. 50-278
+Subject: Licensee Event Report (LER) 2023-001-00 Standby Liquid Control Pump
+Inoperable for Greater than LCO Window due to Gas Intrusion
+The subject report is being submitted in accordance with 50.73(a)(2)(i)(B) for any operation
+or condition which was prohibited by the plant's Technical Specifications.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Manager, Mr. Wade Scott at (717) 456-304 7.
+Respectfully,
+4-,r:2-
+Jeremy C. Searer
+Acting Plant Manager
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W. DeHaas, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station, Unit 3 00278 1 OF 3
+052
+4. Title
+Standby Liquid Control Pump Inoperable for Greater than LCO Window due to Gas Intrusion
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year NA 050
+09 09 2023 2023 - 001 - 00 11 07 2023 Facility Name Docket Number
+NA 052
+9. Operating Mode 10. Power Level
+1 91
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Wade Scott, Regulatory Assurance Manager (717) 456-3047
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X BR ACC G250 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On September 9, 2023, during performance of a functional test, the Unit 3 ‘B’ Standby Liquid Control Pump did not produce
+discharge pressure. The pump was declared inoperable and Technical Specification Limiting Condition for Operation (LCO)
+3.1.7 Condition B was entered. Troubleshooting identified that the pump and part of the discharge piping was not sufficiently
+filled with water. The most likely source of gas intrusion was the nitrogen filled accumulator located on the discharge piping
+between the pump and the discharge check valve. The piping was refilled and the accumulator was replaced, after which the
+pump was run successfully. The system was restored to operable and the LCO was exited on September 12, 2023. The gas
+leakage rate was slow and therefore, the system was likely inoperable longer than the LCO-allowed outage time (i.e., 7 days).
+Therefore, the condition is being reported under 10CFR 50.73(a)(2)(i)(B). There were no other systems which were inoperable
+during this identified condition that contributed to this event. There were no actual safety consequences as a result of this
+event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station, Unit 3 00278
+ 052 2023 - 001 - 00
+NARRATIVE
+Event Description
+On September 9, 2023, during performance of a functional test, the Unit 3 ‘B’ Standby Liquid Control (SLC,
+EIIS: BR) Pump (EIIS: P) did not produce discharge pressure. The pump was declared inoperable and
+Technical Specifications (TS) Limiting Condition for Operation (LCO) 3.1.7 Condition B was entered at 20:32
+hours. Troubleshooting identified that the pump and part of the discharge piping was not sufficiently filled with
+water. The most likely source of gas intrusion was a leaking bladder inside the pneumatic-hydraulic
+accumulator (EIIS: ACC). The device is installed on the piping near the SLC pump discharge relief valve to
+dampen pulsations from the pumps to protect the system piping. Nominal accumulator pressure is between
+325 psig and 450 psig. The accumulator bladder was replaced, after which the pump and discharge piping
+were filled and the pump was run successfully. The system was restored to operable and the LCO was exited
+on September 12, 2023 at 17:39 hours.
+At the time of discovery, Unit 3 was operating in MODE 1 at approximately 91% power, due to end-of-cycle
+coast down.
+Peach Bottom TS LCO 3.1.7 Required Action B.1 requires that a SLC subsystem be restored to operable
+status within 7 days or in accordance with the Risk Informed Completion Time Program. If this action is not
+met, the plant is required to be in MODE 3 within 12 hours and MODE 4 within 36 hours.
+The most likely cause of the condition is gas leakage through the accumulator bladder. The estimated leak
+rate was small, because no visible sources of leakage were found on the accumulator bladder and the rate of
+pressure decay within the accumulator was slow. Failure analysis is being performed on the bladder, but at
+this time, the exact cause of the leakage is unknown. The 3B SLC subsystem was last run successfully on
+May 29, 2023. Trending of available accumulator pressure data did not provide a conclusive time of failure.
+Due to the slow nature of the leakage and the volume of gas intrusion present, it is highly likely that the
+condition existed longer than the LCO-allowed outage time.
+Since the 3B train of SLC was likely inoperable for greater than the LCO-allowed outage time, this condition is
+being reported under 10CFR 50.73(a)(2)(i)(B).
+The Energy Industry Identification System component function identifier and name of each component or
+system:
+EIIS: Standby Liquid Control System, BR
+3BT076, Standby Liquid Control N2 Accumulator
+Manufacturer: Greer Hydraulics, Inc
+Model: A68514-200
+Safety Consequences
+The SLC System is designed to provide the capability of bringing the reactor, at any time in a fuel cycle, from
+full power and minimum control rod inventory (which is at the peak of the xenon transient) to a subcritical
+condition with the reactor in the most reactive, xenon free state without taking credit for control rod movement.
+The SLC System satisfies the requirements of 10 CFR 50.62 on anticipated transient without scram using
+highly enriched boron. The SLC System is also used to maintain suppression pool pH at or above 7 following
+NRC FORM 366A (10-01-2023) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Peach Bottom Atomic Power Station, Unit 3 00278
+ 052 2023 - 001 - 00
+NARRATIVE
+a loss of coolant accident (LOCA) involving significant fission product releases. The SLC system consists of
+two redundant trains, either of which is sufficient to perform its safety function.
+There were no other systems which were inoperable during this identified condition. The 3A SLC train
+demonstrated full functional capability by performance of a surveillance test on September 3, 2023. There
+were no actual safety consequences as a result of this event, because the redundant train maintained
+operability.
+Corrective Actions
+The Unit 3 ‘B’ SLC accumulator bladder was replaced to restore the subsystem to full function. Investigation
+into the cause of the bladder leakage is ongoing. If the results of this investigation substantially change the
+assessment of this condition or planned corrective actions, a supplement to this LER will be submitted.
+The remaining SLC discharge lines (2A, 2B, and 3A) were examined by ultrasonic testing on October 9, 2023.
+All three discharge lines contained gas voids, which were significantly less than what was discovered on the
+3B line. None of the discovered gas voids extended to the pump casings or internals. The 3A pump was
+operated with gas voids present, successfully demonstrating that this volume of gas intrusion posed no
+adverse impact to the pump function. The 3B pump was also examined at this time, and the piping was full of
+water. The SLC pump discharge process piping will be periodically monitored until replacement accumulator
+bladders can be procured and installed.
+Previous Similar Events
+Peach Bottom has not previously experienced a failure of a SLC system accumulator bladder that adversely
+impacted pump performance.
+NRC FORM 366A (10-01-2023) Page 3 of 3

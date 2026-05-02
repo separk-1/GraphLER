@@ -1,0 +1,190 @@
+'l·
+fil i '
+!2ii -F,.:;,-i F-'.:;,, '.:; SL<:-::! )n
+o~i·~ l :=-ic.-,2r Q"':1a•"-:
+C:;if"":~J(] !!_ 617"2:7
+U-604815 10 CFR 50.73
+September 24, 2024
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2023-002-01
+Enclosed is Licensee Event Report (LER) 2023-002-01: Reactor Core Isolation Cooling
+Inoperable Prior to Mode Change, Revision 1. This report is being submitted in accordance with
+the requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. David Livingston,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Q_y_~
+Norha Z. Plumey
+Site Vice President
+Clinton Power Station
+Attachment: Licensee Event Report 2023-002-01
+cc:
+Regional Administrator - Region Ill
+NRC Senior Resident Inspector -Clinton Powe·r Station
+Office of Nuclear Facility Safety - Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to compty with this mandatory collection request: 80 hours. Reported lessons
+(ij)
+LICENSEE EVENT REPORT (LER) l e e s a ti r m ne a d te ar l e o in th c e o rp F o O ra IA te , d L in ib to ra r t y h . e a li n c d e ns I i n n f g o rm pr a o t c io e n s s C a o n ll d e c f t e io d n s b ac B k r a t n o c h in d ( u T s -6 tr y. A S 1 e 0M nd ) , co U m . m :, e . nt N s u r c e le g a a r r din R g e g b u u la rd to e r n y
+Commission, Washington, DC 20555-0001, or by email to lnfoco!lects.Resource@nrc.gov, and the 0MB reviewer
+(See Page 2.for required number of digits/characters for each block) at 0MB Office of Information and Regulatory Affa,s, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+....... (See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRG may not conduct or sponsor, and a person is
+htt2:!!'ilVW\.V. nr::;.g ov/readinq-rrn/dcc--:oH ectior:s/nuregs.l staffr sr ! o·:::i2/r3i) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMS Control number.
+1. Facility Name [g] 050 2. Docket Number 3.Page
+Clinton Power Station 00461 1 OF 3
+□ 052
+4. Title
+Reactor Core Isolation Cooling System Inoperable Prior to Mode Change
+5, Event Date 6. LER Number • 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Re N vi o s . i on Month Day Year Facility Name □ 050 Docket Number .
+12 19 2023 2023 - 002 - 01 09 24 2024 Facility Name Docket Number
+□ 052
+9. Operating Mode 110. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part io □ 20.2203(a)(2)(vi) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73.1200(a)
+□ 20.2201 (b) □ 20.2203(a)(3)(i) □ 50.36(c)(1)(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viii)(B) □ 73.1200(b)
+□ 20.2201(d) □ 20.2203(a)(3l(ii) □ 50.36(cl(1 l(ii)(A) □ 50.73(a)(2)(iii) □ 50. 73(al(2)(ix)(A) □ 73.1200(c)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.36(c)(2) □ 50. 73(a)(2)(iv)(A) □ 50. 73(a)(2)(x) □ 73.1200(d)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50.46(a)(3)(ii) □ 50. 73(a)(2)(v)(A) 10 CFR Part 73 □ 73.1200(e)
+D
+□ 20.2203(a)(2)(ii) 21.2(c) □ 50.69(9) □ 50. 73(a)(2)(v)(B) □ 73.77(a)(1) □ 73.1200(f)
+□ 20.2203(a)(2)(iii) □ 50. 73(a)(2)(i)(A) □ 50. 73(a)(2)(v)(C) □ 73.77(a)(2)(i) □ 73.1200(9)
+□ 20.2203(a)(2)(iv) [g] 50. 73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73. 77(a)(2)(ii) □ 73.1200(h)
+□ 20.2203(a)(2)(v) □ 50. 73(a)(2)(i)(C) □ 50. 73(a)(2)(vii)
+D
+OTHER (Specify here, in abstract, or NRG 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+David Livingston, Regulatory Assurance Manager (217) 937-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[gj D
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 10, 2023, at 23:02 CST, the Reactor Core Isolation Cooling (RCIC) system tripped during performance of
+Surveillance Requirement (SR) 3.5.3.3. This SR is performed when RCIC steam supply pressure is at the higher operating
+ranges of the system to verify that the RCIC pump can develop the required flow rate against a system head corresponding to
+reactor pressure. The system was restored to operable on October 16, 2023, at 02:51 CST following replacement and
+calibration of the Electric Governor-Remote (EG-R). Engineering personnel suspected that the RCIC system trip was due to a
+faulty EG-R; however, subsequent failure analysis identified no significant issues with the EG-R. On December 19, 2023,
+Engineering personnel determined that work performed on August 28, 2023 affected functionality of the EG-R and caused
+RCIC to be inoperable per Technical Specifications (TS) 3.5.3, "RCIC System."
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS 3.0.4. Specifically, on
+October 9, 2023, at 05: 14 CST, during unit startup following a refueling outage, the Applicability for TS 3.5.3 was entered (i.e.,
+Mode 2 with reactor steam dome pressure greater than 150 psig) with the RCIC system inoperable. In addition, the unit was
+taken to Mode 1 on October 10, 2023.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMIS APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+il tto ://wwv1. n re. qov.1r e 81j ina-rm/d oc-collecti ons/nureosist a ffi s r 1 022/ r3/) displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Clinton Power Station 00461
+□ 052 2023 - 002 01
+NARRATIVE
+CONDITION PRIOR TO THE EVENT
+Unit: 1 Event Date: December 19, 2023 Event Time: 0800 CST
+Mode: 1 Mode Name: Power Operation Reactor Power: 100
+EVENT DESCRIPTION
+On October 8, 2023, Operations commenced reactor startup following a refueling outage. On October 10, 2023, at 23:02
+CST, the Reactor Core Isolation Cooling (RCIC) system tripped on low suction pressure during performance of
+Surveillance Requirement (SR) 3.5.3.3 and the RCIC system was declared inoperable. This SR is performed when RCIC
+steam supply pressure is at the higher operating ranges of the system to verify that the RCIC pump can develop the
+required flow rate against a system head corresponding to reactor pressure. Troubleshooting activities commenced to
+determine the cause of the RCIC system trip. As part of the troubleshooting activities, the RCIC Electric
+Governor - Remote (EG-R) was replaced and calibrated. Following replacement of the EG-R, SR 3.5.3.3 was re
+performed satisfactorily and the RCIC system was declared operable at 02:51 CST on October 16, 2023.
+Based on the successful re-performance of SR 3.5.3.3 following replacement of the EG-R, Engineering personnel
+suspected that the RCIC system trip on low suction pressure was due to a faulty EG-R. The suspect EG-R was sent
+offsite for failure analysis. Results from the failure analysis were documented in a failure analysis report that was issued
+on November 17, 2023. The report stated that the EG-R showed no signs of degradation and that the sharp, rapid
+changes in the EG-R output that were observed on October 10, 2023, could not be replicated.
+Efforts continued to determine the cause of the RCIC system low suction pressure trip. On December 19, 2023, a review
+of Plant Process Computer data revealed an anomaly to the Electric Governor - Magnetic Pickup (EG-M) output that
+occurred on August 28, 2023. Further investigation determined that on August 28, 2023, with Unit 1 in Mode 1 at 100%
+power, work associated with a plant modification on the transient test system disturbed electrical connections for the
+EG-M. Transient Test is a high-speed data acquisition system which monitors and records analog and digital signals from
+various plant systems. The EG-M is the flow control system component that transmits an electrical signal to the EG-R
+proportional to the error signal developed between turbine speed demand and actual turbine speed. When the electrical
+connections were disturbed, EG-M output fell to 0% scale, indicating a loss of functionality of that component. This was
+unrecognized by station personnel at the time of occurrence.
+Further investigation has also found that between September 11, 2023 and October 8, 2023, through various
+maintenance activities performed on the RCIC system, there is a potential for air to have been entrained in the lubricating
+oil system. Air entrainment in the lubricating oil control subsystem can cause governor speed and ramp control issues.
+On December 19, 2023, at approximately 08:00 CST, it was determined that the work performed on August 28, 2023,
+affected functionality of the EG-M and potentially caused the RCIC system to be inoperable per Technical Specifications
+Section 3.5.3, "RCIC System." Condition A of TS 3.5.3 applies when the RCIC system is inoperable, with a Required
+Action to restore the RCIC system to operable status within 14 days. The Completion Time for this Required Action was
+not exceeded because the Applicability for TS 3.5.3 was exited prior to the expiration of the 14-day Completion Time to
+support the unit shutdown for a planned refueling outage.
+However, this event is reportable in accordance with 1 O CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS 3.0.4.
+Specifically, on October 9, 2023, at 05: 14 CST, during unit startup following the refueling outage, the Applicability for TS
+3.5.3 was entered (i.e., Mode 2 with reactor steam dome pressure greater than 150 psig) with TS 3.5.3 not met because
+the RCIC system was inoperable. In addition, the unit was taken to Mode 1 on October 10, 2023.
+NRC FORM 366A (04-02-2024) Page_2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMIS APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library. and Information Collections Branch (T-6 A1 O M). U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov. and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Atln: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor. and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+h tto:! /v·,"vvv1 nrc. a ov /reac1ina-rn1/doc-co\!ectf ons/nur·eo.s/staffi:3 r 102 2! r 0il displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+■ 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Clinton Power Station 00461
+□ 052 2023 - 002 01
+NARRATIVE
+CAUSE OF THE EVENT
+The probable cause of the RCIC Turbine Trip was either:
+1. An electrical disturbance on the EG-M resulting from the Transient Test system modification that resulted in a loss of
+control output to the EG-R
+2. Outage activities (system cooldown and tagout blocking) that resulted in air formation in the RCIC lubricating oil
+system
+SAFETY CONSEQUENCES
+The condition described in this LER is reportable under 10 CFR 50.73(a)(2)(i)(B), any operation or condition which was
+prohibited by the plant's TS, due to entering the Applicability for TS 3.5.3 with the RCIC system inoperable. There were no
+actual safety consequences associated with the event. The RCIC system is not an engineered safety feature and no credit
+is taken in the safety analysis for its operation. Furthermore, RCIC does not meet the threshold for a failure of a single train
+safety system since it is not included in the safety analysis. High Pressure Core Spray (HPCS) system remained operable
+and therefore able to perform its safety function during the entire period that RCIC was inoperable. There were no actual
+demands for either RCIC or HPCS during this period.
+CORRECTIVE ACTIONS
+The EG-R was replaced and the replacement unit calibrated in accordance with the Electric Power Research Institute
+(EPRI) Terry Turbine Maintenance Guide.
+Update maintenance procedures to expand direction to fill and vent lube oil subsystem following all forms of maintenance
+Update maintenance procedures to expand direction to calibrate the EG-M following any work that could result in even
+minor changes to the RCIC governor electrical circuit
+Implement BWR Owners Group recommendation for a modification to insert a 7 second time delay on RCIC low suction
+pressure.
+PREVIOUS OCCURENCES
+A review of Licensee Event Reports for the past five years identified no previous similar occurrences at Clinton Power
+Station.
+NRC FORM 366A (04-02-2024) Page _3_ of _3_

@@ -1,0 +1,272 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+August 7, 2019
+WBL-19-039
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and 2
+Facility Operating License Nos. NPF-90 and NPF-96
+NRC Docket Nos. 50-390 and 50-391
+Subject: Licensee Event Report 390/2019-002-00, Loss of Control Room
+Emergency Air Temperature Control System Due to Air Filter Failure
+This submittal provides Licensee Event Report (LER) 390/2019-002-00. This LER provides
+details concerning an incident where both trains of the Control Room Emergency Air
+Temperature Control System (CREATCS) were lost. This condition is being reported as an
+event or condition that could have prevented fulfillment of a safety function needed to
+mitigate the consequences of an accident in accordance with 10 CFR 50.7 3(a)(2)(v)(D).
+There are no regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Tony Brown, WBN Licensing Manager, at (423) 365-7720.
+nthony L. Williams IV
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc: See Page 2
+U.S. Nuclear Regulatory Commission
+WBL-19-039
+Page2
+August 7, 2019
+cc (Enclosure):
+NRG Regional Administrator - Region II
+NRG Senior Resident Inspector -Watts Bar Nuclear Plant
+NRC, .F ORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018 . ) . ...... Es1inated bu'den per response ID COITl)ly wl1h lhis mandalDry collection request 80 halls.
+Reponld lessons leaned n incorporated inlD lhe licensing precess aid fed back m
+"¥~ indllfff. Send comments rega-ding blJ'den estimale ID lhe lnbmalion Services Branch
+~ ~ ....... 1 g LICENSEE EVENT REPORT (LER) I R ( D T e -2 g ln l F A fo 4 I c D 3 o ) f l , y l e U c . A t S s. f . f N a R r u s e , c s l o e N o a o E r : R O e@ B e - g n 1 u n 0 : 2 l . m g 0 o 2 y v , , C ( a o 3 n m 1 d 5 n 0 i - m s -0 s 1 lo l 0 h n 4 e , ) , W D O a e s s f k f h ic in e O g l l D l d i n e , « D , M C O a l f 2 a fi 0 c g 5 e e 5 m 5 o e - f 0 n 0 l t n 0 m 1 a , i n o d r a b ti y o B n u e- d m g a e a id i t l .
+Washingmn, DC 20503. ff a means used ID irrciose an inbmalion collection does not
+display a currenly vald 0MB contol number, lhe NRC may not conduct or sponsor, and a
+person is not required to respond t>, lhe infonnalion colection.
+1. Facility Name 2. Docket Number 3.Page
+Watts Bar Nuclear Plant, Unit 1 05000390 1 OF 5
+4. Title
+Loss of Control Room Emergency Air Temperature Control System Due to Air Filter Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Year Year Month Day Year Watts Bar Nuclear Plant, Unit 2 05000391
+Number No.
+- - Facility Name Docket Number
+06 12 2019 2019 002 00 08 07 2019 NA 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201<b> 20.2203<a><3><i> 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 <d> 20.2203<a><3>(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203<a><1 > 20.2203<a><4> 50.13<a><2><m> 50.73(a)(2)(ix)(A)
+D D D D
+20.2203<a><2><i> 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. Power Level 20.2203<a><2>(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11<a><4>
+D D D D
+20.2203<a><2><m> 5o.3s<c><2> 50. 73(a)(2)(v)(B) 13.11<a><5>
+D D D D
+20.2203(a)(2)(iv) 5o.4s<a><3>(ii) 50. 73(a)(2)(v)(C) 13.11<a><1>
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) D 13.11<a><2><i>
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50. 73(a)(2)(vii) 13.11<a><2>(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Llcen-Contact relephone Number (Include Area Code)
+Dean Baker, Licensing Engineer (423) 452-4589
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+y
+X LE FLT IONEX
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) ~No N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On June 12, 2019 at 0849 Eastern Daylight Time (EDT) a significant air leak on an inline air filter was
+identified. At 0908 EDT the leak on the filter was bypassed. This air leak impacted operation of the Control
+Room Emergency Air Temperature Control System (CREATCS) A Train. Two CREATCS trains are required
+to be operable in accordance with Technical Specification 3.7.11. At the time of this event, CREATCS B Train
+iwas out of service for planned maintenance.
+The direct cause of this event is an air filter gasket leak. As corrective action, a different vendor approved
+gasket has been installed.
+This condition is being reported as an event or condition that could have prevented fulfillment of a safety
+function needed to mitigate the consequences of an accident in accordance with 10 CFR 50.73(a)(2)(v)(D).
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION •n u•a: nu. ,nau-u1U4 ~,no:o: --··---
+(04-2018) Estlmald 11u111n pa,-'8lpOlll8 mC llllff will 1111s mandaby co1111ct1on n,qUIII: eo IIDln.
+Repcrllld lessons la11ld n lnc:orpar-,cl Intl Ille llcanalng prl)Cllll8 and 111d back m
+{\;v:".".""!tI.t: \ lndusty. Send CIIIIIIIBlll llglldng IJullln eatlmall mI lle lnbmalon Slrvlclls Bnllch (T·
+..... LICENSEE EVENT REPORT (LER) l 2 n l F a 4 c 3 a ) l , l e U c . l S l. . N R u ll d o e u a 1 " : R IQ eg m u : la .g lD a r v y , C a o n n d rn l m salo t n ie , W D m e l s ll k n g O m l n ll , c a D r, C O 20 t 5 b 55 -0 D 0 I 0 l 1 n , b cr m b a J l 1 o -1 n 111 11 a 1 n m d
+\~--/ CONTINUATION SHEET W Ra m g l u ll l n lD gm y n , A D ll C an 2 . 0 50 N 3 E . O w B- a 10 , 2 , 02 . , . . ( 3 U 15 lll 0 d - 0 m 104 , ) . . . .. O ,. ll . c :e an D ln I b M ma IN llo Q n l ln c: l a n l l la c a la n n d do B l u ls d g n a o t t
+. d . ll . p . l . a . , • a C no ll t l n ll , l q l l y il v ll a d li d m 0 II M I IIP B O c n o d r m n , l I l n le u m ln b fD er n , n t l i ll e la n N R co C ll ll m c1 a l y o n n . ot conduct er sparm", and a
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 1 05000390 YEAR NUMBER NO.
+2019 - 002 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+Both Watts Bar Nuclear Plant (WBN) Units 1 and 2 were at 100 percent rated thermal power
+(RTP).
+11. Description of Event
+A. Event Summary
+On June 12, 2019 at 0849 Eastern Daylight Time (EDT) a significant air leak on an inline
+air filter {EIIS:FLT } was identified. At 0908 EDT the leak on the filter was bypassed. This
+air leak impacted operation of the Control Room Emergency Air Temperature Control
+System (CREATCS){EIIS:VI} A Train. Two CREATCS trains are required to be operable
+in accordance with Technical Specification (TS) Limiting Condition for Operation (LCO)
+3. 7 .11. At the time of this event, the B Train of CREAT CS was out of service for planned
+maintenance.
+This event is being reported to the Nuclear Regulatory Commission (NRC) under
+10 CFR 50. 73(a)(2)(v)(D) as an event or condition that could have prevented fulfillment of
+a safety function needed to mitigate the consequences of an accident.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+The B-8 MCR chiller was out of service for maintenance when this event occurred.
+C. Dates and approximate times of occurrences
+Date Time Event
+!§ill
+6/03/19 NIA Preventative Maintenance (PM) Work Order (WO) 119539837
+performed to replace 0-FLT R-32-393 charcoal filter.
+6/11/19 0400 Entered TS LCO 3. 7 .11 Condition A due to placing a clearance on
+the 8-8 Main Control Room (MCR) chiller in support of
+maintenance.
+6/12/19 0325 Received 1058 and 1068 MCR HVAC SYSTEM A/8 ABNORMAL
+alarms.
+6/12/19 0332 Discovered O-FCV-31-3, MCR Outside Air Isolation damper, had
+closed.
+6/12/19 0345 Initiated B Train Control Room Isolation (CRI) in accordance with
+the Annunciator Response Instruction (ARI).
+6/12/19 0844 MCR temperatures are above limit of 76 degrees Fahrenheit.
+NRC FORM 366A (04-2018)
+Page _2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION t:IT "'mD: ""'· v ·--- - i:::Ar-nu::o: --·-··----
+(04-2018) Estimaled bllden per response 1D comply with this mandalllly collection request 80 hours.
+Reporled lessons leaned are inccrporaled in1D the icensing process 111d fed back 1D
+industy. Send cornrnen1s rega'ding burden estimate 1D the lnfoonalion Services lnlch (T-
+2 F43), U.S. Nuclea-RegulalDry Convnission, Washing1Dn, DC 2055&-0001,or by e-mal t>
+LICENSEE EVENT REPORT (LER) lnfocollec1s. Resolm!@rrc.gov, 111d ID tile Desk Officer, Office of lnfoonalion a1CI
+Reguaby Affairs, NEOB-10202, (3150-0104), Office of Management 111d Budget
+CONTINUATION SHEET Washingt>n, OC 20503. W a means used ID ifl'IJ()S8 an infoonalion colection does not
+lisplay a clflllnlly valid 0MB control number, the NRC may not conduct or sponsor, and a
+person is not required 1D respond ID, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2019 - 002 00
+NARRATIVE
+6/12/19 0849 Found significant air leak on 0-FLT R-32-393. Multiple TS entries
+made, including TS 3.0.3 for both train of CREATCS being
+inoperable.
+6/12/19 0908 Bypassed 0-FLT R-32-393, isolating leak and restoring operability
+of affected plant equipment. Multiple TS exited.
+6/12/19 1037 Reset B Train CRI.
+D. Manufacturer and model number of each component that failed during the event
+The leaking filter was manufactured by lonex Research Corporation, gasket Part
+D-1440-4.
+E. Other systems or secondary functions affected
+The excessive filter leakage resulted in the closure of MCR ventilation dampers.
+F. Method of discovery of each component or system failure or procedural error
+The failure was identified by plant personnel investigating the closure of the MCR outside
+air damper.
+G. Failure mode, mechanism, and effect of each failed component
+A gasket failure occurred. The effect of the filter leakage was that downstream dampers
+closed.
+H. Operator actions
+Operations personnel responded in accordance with annunciator response instructions.
+Upon identifying the leaking air filter, the filter was promptly bypassed.
+I. Automatically and manually initiated safety system responses
+In response to low control room pressurization, operations personnel manually initiated a
+Train B CRI.
+111. Cause of the Event
+A. Cause of each component or system failure or personnel error
+The direct cause of this event is an air filter housing gasket leak.
+NRC FORM 366A (04-2018) Page _3_ of _5_
+..
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ..,, ·- --DI vm1:1: "'""'· V ..,.,..,"._ : ... ··-·-
+(04-2018) Es1inaled b~n per response ID comply wl1h this mandmy collection request 80 hours.
+Reponed lessons leaned a-e incorporaled inlD the icensing process aid fed ba:k ID
+induSiy. Send comments regring bu"den estimate ID the lnfilnnalion Se!vices Branch (T-
+{l".1"u.'AM:G(I.C} \ 2 F43), U.S. Nuclea-Regulalay Commssion, WashinglDn, DC 20555-0001,ar by e-mail 1D
+LICENSEE EVENT REPORT (LER) lnfccollects. Resollte@m:.gov, and ID the Desk Officer, Office of Information and
+ReglkDy Allan, NEOB-10202, (3150-0104), Office ri Maiagement and Budget,
+\~.....~.... ; CONTINUATION SHEET WashinglDn, DC 20503. " a means used 1D i~ an infoonalion colection does not
+dsplay a cunently valid 0MB conlrol number, the NRC may not conduct ar sponsor, and a
+person is not reqtired 1D respond 1D, the infarmation colection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2019 - 002 00
+NARRATIVE
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related cause has been identified for this event.
+IV. Analysis of the Event
+The WBN MCR is provided with redundant trains of temperature control (CREATCS). In
+addition, redundant trains of control room emergency ventilation (CREV) are provided to support
+accident conditions to protect control room personnel from the release of airborne radioactive
+material. The air operated dampers that support operation of both of these systems are provided
+with safety related air from the auxiliary control air system (ACAS){EIIS:LE} which has redundant
+trains.
+On June 12, 2019, at 0325, MCR HVAC abnormal alarms were received in the Main Control
+Room. Operations personnel responded in accordance with the appropriate ARI, and initiated a
+CRI Train B when the MCR Outside Air Isolation damper (O-FCV-31-3-A) was discovered closed
+and an attempt to re-open the damper failed. Investigation into the failed damper revealed that
+the gasket to the A train essential control air control building rad filter (0-FLT R-32-393) had failed
+which caused a loss of air pressure to multiple dampers serving CREATCS and CREVs. With
+the loss of air pressure, these dampers, including the MCR Outside Air Isolation damper and the
+modulating damper for the A train MCR cooling coil, went to the closed position. The closure of
+the modulating damper O-FC0-31-82 effectively resulted in the loss of cooling from A train
+CREATCS
+Un-recognized at the time the MCR Outside Air Isolation damper was discovered closed, was the
+loss of A train CREATCS. With the B-B MCR chiller out of service for maintenance, this resulted
+in both trains of CREATCS being inoperable, but was not recognized due to the slow heat up of
+the MCR. Operation of Train A of CREATCS was restored within TS LCO 3.0.3 requirements.
+The A train of CREATCS was restored in less than 6 hours and MCR design temperature limits
+were not exceeded.
+V. Assessment of Safety Consequences
+Both Trains of MCR temperature control (CREATCS) were lost for less than six hours. The
+temperature rise in the MCR was limited to a maximum temperature of approximately 77 degrees
+Fahrenheit, with the design limit being 104 degrees Fahrenheit.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+There are no other systems that would perform the function of CREATCS.
+NRC FORM 366A (04-2018) Page _4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION ,. DJ u111a: NU. 31DU. ..1 04 CAl'll'lCl:i: _
+(04-2018) Estinaled birden per response to comply with this mandmy collection request 80 hours.
+Reporled lessons uned n incorporated into the ic:ensing process nl fed ba:k to
+indus1ry. Send COIM180IS regll'ding bu'den estimate to the lnmnalion Services Bra,ch (T-
+{\"~"P.fl&(ot,°( \ 2 F43), U.S. Nuclell' Regulatory Comnission, Washington, DC 20555-0001,at by e-mai m
+LICENSEE EVENT REPORT (LER) lnfccollects. Resource@rvc.gov, im to the Desk Officer, Offic:e of lnbmalion im
+RegtJatory Affairs, NEOB-10202, (3150-0104), Office of Ma,agement im Budget.
+t~....... / CONTINUATION SHEET Washington, DC 20503. W a means used mi n,,ose an inbmalion collection does not
+lisplay a c111enlly valid 0MB comol number, the NRC may not conduct at sponsor, and a
+person is not required to respond m, the infunnalion collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2019 - 002 00
+NARRATIVE
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+Not applicable.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from the discovery of the failure until the train was returned to service
+For this event the CREATCS was returned to service in less than six hours.
+VI. Corrective Actions
+These events were entered into the Tennessee Valley Authority (TVA) Corrective Action
+Program and are being tracked under Condition Report (CR) 1524270.
+A Immediate Corrective Actions
+Operations personnel responded in accordance with plant annunciator response
+instructions. Upon identifying the air leak, personnel promptly isolated and bypassed the
+leaking filter, restoring operability of Train A CREAT CS.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events
+occurring in the future
+As corrective action, a different vendor approved gasket has been installed.
+VII. Previous Similar Events at the Same Site
+An event with a similar cause was not identified.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2018) Page _5_ of _5_

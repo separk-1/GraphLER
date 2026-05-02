@@ -1,0 +1,211 @@
+~
+Entergy
+=.c?S
+EntergyOperations,Inc.
+P.O.Box756
+PortGibson,MS 39150
+DouglasNeve
+Manager, RegulatoryAssurance
+GrandGulfNuclearStation
+Tel. (601)437-2103
+GNRO-2017/00030
+August 16, 2017
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Supplemental Licensee Event Report LER 2016-009-01, Entry into Mode of
+Applicability with the OPRM Upscale Settings Incorrectly Set
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+License No. NPF-29
+Dear Sir or Madam:
+Attached is Supplemental Licensee Event Report LER 2016-009-01, Entry into Mode of
+Applicability with the Oscillation Power Range Monitor (OPRM) Upscale Settings incorrectly set.
+This letter contains no new commitments. If you have any questions or require additional
+information, please contact Douglas Neve at 601-437-2103.
+Sincerely,
+~~
+Manager Regulatory Assurance
+Grand Gulf Nuclear Station
+DAN/ram
+Attachment: Licensee Event Report (LER) 2016-009-01
+cc: see next page
+GNRO-2017/00030
+Page 2 of 2
+U.S. Nuclear Regulatory Commission
+ATTN: Mr. Siva Lingam
+Mail Stop OWFN 8 B1
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Kriss Kennedy, NRR/DORL (w/2)
+Mail Stop OWFN 8 B1
+Washington, DC 20555-0001
+NRCFORM366 U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB:NO.3150-0104 EXPIRES: 10/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request:80
+hours. Reported lessons learned are incorporated into the licensing processand fed
+LICENSEE EVENT REPORT (LER) backtoindustry.SendcommentsregardingburdenestimatetotheInformationServices
+Branch(T-2F43),U.S.NuclearRegulatoryCommission,Washington, DC20555-0001,
+(SeePage2forrequirednumberofdigits/charactersforeachblock) or bye-mail to tnfocollects,Resource@nrc.gov, and to the Desk Officer, Office of
+Information and Regulatory Affairs, NEOB-10202, (3150-0104), OfficeofManagement
+andBudget,Washington,DC20503.Ifameansusedtoimposeaninformationcollection
+does notdisplay acurrently validOMBcontrol number,the NRCmaynotconductor
+(SeeNUREG-1022,R3forinstructionandguidanceforcompletingthis
+sponsor,andapersonisnotrequiredtorespondto,theinformationcollection.
+form
+http://www.nrc.gov/reading-rm/doc-collectionslnuregs/staff/sr1022/r3/)
+1.FACILITY NAME 2.DOCKETNUMBER 3.PAGE
+GrandGulfNuclearStation, Unit1 05000416 1OF 3
+1
+4.TITLE
+Entry into Mode ofApplicability with the Oscillation Power Range Monitor Upscale Settings Incorrectly Set
+5.EVENTDATE 6.LER NUMBER 7.REPORT DATE 8.OTHER FACILITIESINVOLVED
+I
+SEQUENTIAL REV FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR I NUMBER. NO. MONTH DAY YEAR N/A 05000 N/A
+FACILITYNAME DOCKETNUMBER
+03 27 2016 2016-009-01 8 16 2017 N/A 05000 N/A
+11.THISREPORTISSUBMITTEDPURSUANTTOTHEREQUIREMENTSOF10CFR§:(Checkallthatapply)
+o
+9.OPERATINGMODE 20.2201(b) D20.2203(a)(3)(i) D50.73(a)(2)(ii)(A) D50.73(a)(2)(viii)(A)
+o
+20.2201(d) D20.2203(a)(3)(ii) D50.73(a)(2)(ii)(B) D50.73(a)(2)(viii)(B)
+MODE1 o
+20.2203(a)(1) 0 20.2203(a)(4) 0 50.73(a)(2)(iii) 0 50.73(a)(2)(ix)(A)
+o
+20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) D50.73(a)(2)(iv)(A) D50.73(a)(2)(x)
+o
+20.2203(a)(2)(ii) D50.36(c)(1)(ii)(A) D50.73(a)(2)(v)(A) D73.71(a)(4)
+o
+10.POWERLEVEL 20.2203(a)(2)(iii) D50.36(c)(2) D50.73(a)(2)(v)(B) D73.71(a)(5)
+o
+20.2203(a)(2)(iv) D50.46(a)(3)(ii) D50.73(a)(2)(v)(C) D73.77(a)(1)
+100% o
+20.2203(a)(2)(v) D50.73(a)(2)(i)(A) D50.73(a)(2)(v)(D) D73.77(a)(2)(i)
+o
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) D50.73(a)(2)(vii) D73.77(a)(2)(ii)
+o 50.73(a)(2)(i)(C) 0 OTHER SpecifyinAbstractbeloworinNRCForm366A
+12.LICENSEECONTACTFORTHIS LER
+I
+FACILITYNAME TELEPHONENUMBER(tnctuoeAreaCode)
+DouglasNeve/Manager, RegulatoryAssurance (601)437-2103
+13.COMPLETEONE LINE FOREACH COMPONENTFAILUREDESCRIBEDINTHIS REPORT
+o MANU- REPORTABLE ~ MANU- REPORTABLE
+CAUSE SYSTEM COMP NENT FACTURER TOEPIX ~ CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+I
+A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14.SUPPLEMENTALREPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+SUBMISSION 1-----+----+------1
+D YES(Ifyes, complete 15.EXPECTEDSUBMISSIONDATE) ~ NO DATE N/A N/A N/A
+ABSTRACT(Limitto1400spaces, i.e.,approximately15single-spacedtypewrittenlines)
+OnMarch27,2016, Entergy, while returning the GGNS Unit 1to power operations atthe conclusion of Refueling
+Outage 20, reactor thermal power was allowed to exceed 16.8 percent without first calibrating the Oscillation Power
+Range Monitor (OPRM) to include the new limits required bythe adoption and implementation ofthe Maximum
+Extended Load Limit Line Plus (MELLLA+) operating range. Specifically, the OPRM Upscale setting requirements
+specified inTechnical Specification 3.3.1.1, Reactor Protection System (RPS) Instrumentation, Table 3.3.1.1-1,
+Reactor Protection System Instrumentation, Function 2, Average Power Range Monitors, Sub-Function f. OPRM
+Upscale were notfully met. The direct cause of this event was the failure to ensure the required procedure changes
+were incorporated and performed prior tothe unit entering the mode of applicability. The apparentcause was
+personnel involved with the modification did not communicate adequately and follow-up to ensure technical
+information was incorporated into the appropriate procedures. Corrective Actions include: Updating of the
+procedures, correctly setting and fully testing the OPRM upscale settings, performance of briefings with personnel on
+theon lessons learned, and conducting follow-up reviews to ensure the briefings were understood. This event is
+reportable as a licensee event report (LER) inaccordance with 1OCFR50.73(a)(2)(i)(B).
+Page 1of3
+NRCFORM 366A U.S.NUCLEAR REGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES:3/31/2020
+(6-2016)
+Estimated burden perresponsetocomplywiththismandatorycollectionrequest:80hours.
+Reported lessonslearnedareincorporatedintothelicensingprocessandfedbackto
+industry. Sendcomments regardingburdenestimatetotheInformationServicesBranch(T-2
+LICENSEE EVENT REPORT(LER) F43),U.S.NuclearRegulatoryCommission,Washington,DC20555-0001, orbye-mailto
+CONTINUATIONSHEET Infocoliects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationand
+RegulatoryAffairs,NEOB-10202,(3150-0104),OfficeofManagementandBudget,
+Washington,DC20503. Ifameansusedtoimposeaninformationcollectiondoesnot
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthisform displayacurrentlyvalidOMBcontrolnumber,theNRCmaynotconductorsponsor,anda
+htlp:/Iwww.nrc.gov/reading-rm/doc-colledions/nuregslstaff/sr10221r3/) personisnotrequiredtorespondto,theinformation collection.
+1.FACILITY NAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL REV.
+I I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016 - 009 - 01
+NARRATIVE
+On March 27,2016, Entergy, while returning the GGNS Unit 1to power operations atthe conclusion of
+Refueling Outage 20, reactor thermal power was allowed to exceed 16.8 percent without first fully
+calibrating the Oscillation Power Range Monitor (OPRM) to include the new limits required bythe adoption
+and implementation of the Maximum Extended Load Limit Line Plus (MELLLA+) operating range.
+Specifically, the OPRM Upscale setting requirements specified inTechnical Specification 3.3.1.1, Reactor
+Protection System (RPS) Instrumentation, Table 3.3.1.1-1, Reactor Protection System Instrumentation,
+Function 2,Average Power Range Monitors, Sub-Function f. OPRM Upscale were notfully met.
+This error was subsequently discovered on November 17,2016 during a review of General Electric Hitachi
+(GEH) Report 0000-0158-7807, Revision 0000, PRNM System DSS-CD Settings against the settings in
+GGNS Procedures 06-IC-1C51-R-0077A1B/C/D, Average Power Range Monitor Calibration. Based on GE
+analysis GGNS-NE-16-00007 Revision 001 performed for this issue, the deviation inTMIN and TMAX
+values did notaffect the system's ability to safely perform itsfunction. A new TMIN value of 1.05 seconds
+hasbeen recommended.
+REPORTABIL1TY
+This event isreportable as a licensee event report (LER) inaccordance with 1OCFR50.73(a)(2)(i)(B) as an
+operation orcondition prohibited byTechnical Specifications.
+An analysis was performed for this issue, the deviation intime minimum (TMIN) and time maximum (TMAX)
+values did notaffect the system's ability to safely perform itsfunction. Therefore, Entergy is retracting the
+reportingofthis LER against 1OCFR50.73(a)(2)(v)(A). Based on this re-analysis and a review ofthe
+performance indicator reporting criterial this condition does not count against the performance indicator
+MS05,Safety System Functional Failure. This performance indicatorwill be supplemented atthe end ofthe
+secondquarter 2017 to remove the reporting of this event.
+CAUSE
+DirectCause:
+Thedirect cause of this event was the failure to ensure the required procedure changes were incorporated
+and performed priorto the unit entering the mode of applicability.
+Apparent Cause:
+Cause 1:
+Entergyfailed to maintain an adequate lineof sight for this modification. Due to the time required to
+complete the modification a numberof different individuals were assigned as ownerof the modification,
+resulting a loss of important information between owners.
+Cause2:
+The personnel involved did notcommunicate efficiently to allow adequate traceability, document important
+information accordingly, orfollow upand assure that changes were completed correctly.
+Page20f3
+NRCFORM 366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 3/31/2020
+(6-2016)
+Estimatedburdenperresponsetocomplywiththismandatorycollection request:80hours.
+Reportedlessonslearnedareincorporatedintothelicensingprocessandfedbackto
+industry.Sendcomments regardingburdenestimatetotheInformationServicesBranch(T-2
+LICENSEEEVENTREPORT(LER) F43),U.S.NuclearRegulatoryCommission, Washington, DC20555-0001, orbye-mailto
+CONTINUATIONSHEET Infocoliects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationand
+RegulatoryAffairs,NEOB-10202,(3150-0104), OfficeofManagementandBudget,
+Washington,DC20503.Ifameansusedtoimposeaninformationcollectiondoesnot
+(SeeNUREG-1022,R.3forinstructionandguidanceforcompletingthisform displayacurrentlyvalidOMBcontrolnumber,theNRCmaynotconductorsponsor,anda
+http://www.nrc.gov/reading-rm/doc-collectionslnuregs/staff/sr10221r3D personisnotrequiredtorespondto,theinformationcollection.
+1.FACILITYNAME 2.DOCKET 3.LER NUMBER
+YEAR SEQUENTIAL REV.
+I I
+Grand Gulf Nuclear Station, Unit 1 05000416 NUMBER NO.
+2016 - 009 - 01
+NARRATIVE
+CORRECTIVE ACTIONS
+Completed:
+Updating the procedure and correctly setting and fully testing the OPRM upscale settings.
+Perform a briefwith personnel qualified to perform a Design Change onthe importance of understanding
+thefull scope of a Mod and what a lack of rigorwill result in.Also address the importance of effective
+communication and documentation.
+Performa briefwith applicable personnel to address the importance of effective communication and
+documentation for obtaining cross-discipline inputs, reviews and comments.
+Performafollow upaction 6 months later to review 6 modifications done after the briefing to ensure the
+issuewas corrected and all applicable personnel fully understood the importance of obtaining reviews and
+comments.
+Scheduled
+Perform afollow upaction 6 months later to review 6 modifications done after the briefing to ensure the
+issuewas corrected and all applicable personnel fully understood the importance of obtaining reviews and
+comments.
+SAFETY SIGNIFICANCE
+Therewere noactual nuclear safety consequences or radiological consequences as a result ofthis
+calibration error. NoTechnical Specification Safety Limits were violated.
+PREVIOUSLY SIMILAR EVENTS
+LER2013-006-00, Primary Containment Inoperable Dueto an Inadequate Surveillance Procedure
+Resultingina Loss of Safety Function
+The causes and corrective actions implemented as a result of LER2013-006-00 were reviewed and it has
+beendetermined that the corrective actions were acceptable and could not have prevented the event
+documented inthis LER.
+Page3of3

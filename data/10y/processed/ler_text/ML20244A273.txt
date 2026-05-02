@@ -1,0 +1,408 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+August 31, 2020
+10 CFR 50.73
+10 CFR 50.4(a)
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 2
+Renewed Facility Operating License No. DPR-52
+NRC Docket No. 50-260
+Subject: Licensee Event Report 50-260/2020-001-00 – Core Spray System Inoperable
+for Longer than Permitted by Technical Specifications
+The enclosed Licensee Event Report provides details of the inoperability of the Core Spray
+system for longer than allowed by plant Technical Specifications. The Tennessee Valley
+Authority is submitting this report in accordance with Title 10 of the Code of Federal Regulations
+(10 CFR) 50.73(a)(2)(i)(B), as any operation or condition which was prohibited by the plant’s
+Technical Specifications. The TVA is also submitting this report in accordance with 10 CFR
+50.73(a)(2)(v)(D), as an event or condition that could have prevented the fulfillment of the safety
+function of structures or systems that are needed to mitigate the consequences of an accident.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Site Licensing Manager, at
+(256) 729-2636.
+Respectfully,
+S. M. Bono
+Site Vice President
+Enclosure: Licensee Event Report 50-260/2020-001-00 – Core Spray System Inoperable for
+Longer than Permitted by Technical Specifications
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Browns Ferry Nuclear Plant, Unit 2 05000260 1 OF 8
+4. Title
+Core Spray System Inoperable for Longer than Permitted by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000260
+07 01 2020 2020 - 001 - 00 08 31 2020 Facility Name Docket Number
+N/A 05000 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X BM FAN B343 Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected) Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 1, 2020, the motor thermal overloads associated with the 2A Core Spray Room Cooler Fan were
+found tripped during a surveillance test. The breaker was not tripped, and was found still in the "on" position.
+Operators reset the thermal overloads, which restarted the room cooler fans without resetting the breaker.
+The thermal overloads were replaced on July 2, 2020.
+After a recurrent trip on July 6, 2020, troubleshooting determined that mechanical binding within the motor
+sporadically increased the running current, which tripped the thermal overloads. An engineering evaluation
+later determined that the non-functional Core Spray Room Cooler Fan rendered the Loop I Core Spray
+subsystem inoperable from May 29, 2020 until July 12, 2020, which is longer than allowed by Technical
+Specification (TS) 3.5.1, “Emergency Core Cooling Systems (ECCS) -- Operating”. On June 13, 2020 a
+planned surveillance rendered the Loop II Core Spray System inoperable. This resulted in a period of time
+with both Loops I and II of the Core Spray System concurrently inoperable resulting in a Safety System
+Functional Failure (SSFF) of systems that are needed to mitigate the consequences of an accident.
+As a corrective action, the motor, thermal overloads, temperature switch, and starter coil were replaced.
+As a corrective action to prevent recurrence, BFN is creating a new Preventative Maintenance (PM) to
+measure the motor current readings to the thermal overloads every two years, during the summer months
+when the fan is in high use. This will detect possible changes in continuous running current prior to
+overcurrent trips or motor damage.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN) Unit 2 was in Mode 1 at approximately
+100 percent power.
+II. Description of Event
+A. Event Summary
+On July 1, 2020, at 2240 Central Daylight Time (CDT), the motor thermal overloads [TS]
+associated with the 2A Core Spray Room Cooler Fan (BFN-2-FAN-064-0072) [FAN] were found
+tripped during the performance of a surveillance test. This trip prevented the fan from starting.
+The breaker [BKR] was not tripped, and was found still in the "on" position. This resulted in the
+inoperability of the 2A and 2C Core Spray pumps [P], which the fan supported, and rendered the
+Loop I Core Spray system inoperable. Operators were dispatched to reset the thermal overloads,
+and the room cooler fans started without resetting the breaker. The thermal overloads were
+replaced on July 2, 2020 at 2010 CDT. An engineering evaluation determined that the thermal
+overload replacement provided a reasonable assurance of restoring and maintaining operability in
+the absence of contrary information.
+After a recurrent trip on July 6, 2020, the breaker was reset and instrumentation was installed to
+determine the cause of the trip. This additional troubleshooting determined that mechanical
+binding within the motor [MO] was sporadically increasing the running current, and tripping the
+thermal overloads. This challenged the previous assumption of operability. An engineering
+evaluation later determined that the 2A Core Spray Room Cooler Fan had been inoperable since
+May 29, 2020.
+Operators declared the 2A Core Spray Room Cooler functional, and the 2A and 2C Core Spray
+pumps and Loop I Core Spray system operable on July 12, 2020, after replacing the motor,
+thermal overloads, temperature switch, and starter coil.
+Technical Requirement Manual (TRM) 3.3.3.2, Low Pressure ECCS Area Cooler Instrumentation,
+states that the non-functionality of the Core Spray Area Cooler Fan Thermostat Instrument
+Channel is a requirement for Core Spray system [BM] operability. Additionally, Technical
+Specification (TS) 3.5.1, ECCS – Operating, requires that each Emergency Core Cooling System
+(ECCS) injection/spray subsystem shall be operable when BFN, Unit 2 is in Modes 1, 2 and 3.
+An engineering evaluation determined that the Low Pressure ECCS Area Cooler
+Instrumentation was non-functional between May 29, 2020 and July 12, 2020, and incapable
+of performing its required safety function. This resulted in the inoperability of the 2A and 2C
+Core Spray pumps, which rendered the BFN, Unit 2 Loop I Core Spray system inoperable for
+longer than permitted by TS 3.5.1.
+NRC FORM 366A (08-2020) Page 2 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+On June 6, 2020, Unit 2 entered Mode 4 to begin Unit 2 Forced Outage 7 (F207), to address
+unrelated challenges involving high temperatures in the Low Pressure Turbine Hood. On June 7,
+2020, the Unit 2 Loop II Core Spray system was declared inoperable from 1240 CDT to
+1255 CDT for routine surveillance testing. Both Core Spray subsystems were inoperable during
+this time, and could not have performed their required safety function. By entering Mode 2, BFN,
+Unit 2 entered a TS 3.5.1 Applicable Mode when LCO TS 3.5.1 Required Actions were not met,
+which is contrary to the requirements of TS LCO 3.0.4. During the June 11, 2020 surveillance, two
+or more low pressure ECCS spray subsystems were inoperable while in Mode 1. TS LCO 3.5.1,
+Condition H required an immediate entry into TS LCO 3.0.3. This Required Action was unmet.
+On June, 13, 2020, the Unit 2 Loop II Core Spray system was declared inoperable from
+0257 CDT to 0315 CDT for routine surveillance testing. Both Core Spray subsystems were
+inoperable during this time, and could not have performed their required safety function.
+The TVA is submitting this report in accordance with Title 10 of the Code of Federal
+Regulations 50.73(a)(2)(i)(B), as any operation or condition which was prohibited by the
+plant’s TS. The TVA is also submitting this report in accordance with 10 CFR
+50.73(a)(2)(v)(D), as an event or condition that could have prevented the fulfillment of the
+safety function of structures or systems that are needed to mitigate the consequences of an
+accident.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+On June 7, 2020, and again on June 13, 2020, Operators declared the Unit 2 Loop II Core
+Spray system inoperable for routine surveillance testing. This rendered both Core Spray
+subsystems inoperable, unable to perform their required safety function.
+NRC FORM 366A (08-2020) Page 3 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+C. Dates and approximate times of occurrences
+Dates Occurrence
+May 29, 2020 Operators performing a routine surveillance test found that the 2A Core
+Spray Room Cooler Fan thermal overloads had tripped. The Operators
+reset the thermal overloads.
+The Loop I Core Spray subsystem was determined to be operable, based
+on the evidence which was available at the time.
+June 6, 2020 Unit 2 entered Mode 4 to begin F207.
+June 10, 2020 Unit 2 entered Mode 2 after completing F207.
+June 13, 2020 The Loop II Core Spray system was inoperable from 0257 CDT to
+0315 CDT for routine surveillance testing.
+July 1, 2020 During a surveillance test, Operators found that the 2A Core Spray
+Room Cooler Fan thermal overloads had tripped. The Operators reset
+the thermal overloads.
+July 2, 2020 2A Core Spray Room Cooler Fan thermal overloads were replaced.
+July 6, 2020 Operators declared the 2A Core Spray Room Cooler non-functional
+after failing to autostart in response to elevated room temperatures.
+Manual start attempts also failed, rendering the Loop I Core Spray
+system inoperable.
+The thermal overloads had tripped again. Troubleshooting revealed
+motor binding caused abnormally high starting current.
+July 12, 2020 The 2A Core Spray Room Cooler was declared functional after the
+completion of repair work and their associated post-maintenance tests.
+July 17, 2020 An engineering evaluation determined that the non-functional 2A Core
+Spray Room Cooler caused the inoperability of the Loop I Core Spray
+system from May 29, 2020 until July 12, 2020.
+D. Manufacturer and model number of each component that failed during the event
+The failed component was a fan manufactured by the Bohn Aluminum and Brass Corporation,
+model number HCS-221LF.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+NRC FORM 366A (08-2020) Page 4 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+F. Method of discovery of each component or system failure or procedural error
+The 2A Core Spray Room Cooler Fan motor failure was discovered while troubleshooting the
+thermal overloads, which were found tripped after failing to respond to automatic and manual
+start signals, despite previous resets and replacements.
+G. The failure mode, mechanism, and effect of each failed component
+Troubleshooting determined that the 2A Core Spray Room Cooler Fan failed due to mechanical
+binding within its motor. This binding was sporadically increasing the running current, and tripping
+the thermal overloads. A motor bearing inner race looseness issue caused the bearing to spin on
+motor shaft after motor began producing heat, and the resulting increase in motor current caused
+overcurrent trips on the motors thermal overloads. This motor bearing issue persisted because it
+was not detectable from monitoring vibration data.
+H. Operator actions
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+Troubleshooting determined that the 2A Core Spray Room Cooler Fan failed due to mechanical
+binding within its motor. This binding sporadically increased its running current, which tripped the
+thermal overloads.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root causes were identified.
+IV. Analysis of the event
+BFN, Unit 2 TS LCO 3.5.1 requires that each ECCS injection/spray subsystem and the six
+Automatic Depressurization System (ADS) safety/relief valves shall be operable during Mode 1;
+and in Modes 2 and 3, excluding the high pressure coolant injection (HPCI) system and the ADS
+valves, which are not required when the reactor steam dome pressure is less than or equal to
+150 psig. If one low pressure ECCS injection/spray subsystem becomes inoperable, or one low
+NRC FORM 366A (08-2020) Page 5 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+pressure coolant injection (LPCI) pump in both LPCI subsystems becomes inoperable, Required
+Action A.1 requires restoring the affected low pressure ECCS injection/spray subsystem(s) to
+operable status within 7 days.
+The recurrent thermal overload failures invalidated the previous presumptions of operability, and
+the Unit 2 Loop I Core Spray system was later determined to have been inoperable from
+May 29, 2020 to July 12, 2020, which is longer than permitted by TR 3.3.3.2 and TS 3.5.1.
+Unit 2 Loop II Core spray system was removed from service on June 7, 2020, and again on
+June 13, 2020, to perform surveillance testing. Each test lasted approximately 15 minutes. During
+these tests, neither Core Spray system was available to perform their required safety function to
+mitigate the consequences of an accident.
+TS LCO 3.0.4 states that when an LCO is not met, entry into a Mode or other specified condition in
+the Applicability shall only be made when the associated actions to be entered permit continued
+operation in the Mode or other specified condition in the Applicability for an unlimited period of time.
+On June 10, 2020, following the completion of a forced outage to address unrelated challenges
+involving high temperatures in the Low Pressure Turbine Hood, BFN, Unit 2 entered a TS 3.5.1
+Applicable Mode when LCO TS 3.5.1 Required Actions were not met. Therefore, Unit 2 was in
+violation of TS 3.0.4 when Mode 2 was entered on June 10, 2020.
+During the June 13, 2020 surveillance, two or more low pressure ECCS spray subsystems were
+inoperable while in Mode 1. TS LCO 3.5.1, Condition H required an immediate entry into
+TS LCO 3.0.3. This Required Action was unmet.
+V. Assessment of Safety Consequences
+The 2A Core Spray Room Cooler Fan would not have performed its specified safety function to
+maintain the ambient air temperature in the area of the ECCS motors below 148 degrees F in an
+accident condition. Both automatic start functions to respond to pump starts and high room
+temperatures were affected. The 2A Core Spray Room Cooler Fan would not have met its mission
+time of 30 days. Therefore, the Core Spray 2A and 2C pump motors could not perform their specified
+safety functions while the room cooler was unavailable in an accident condition, and were declared
+inoperable.
+A Probabilistic Risk Assessment (PRA) evaluation has determined that having the air cooling unit
+subsystem affected by this event (2-ACU-064-0072) unavailable for 44 days results in an
+Incremental Conditional Core Damage Probability (ICCDP) of 4.08-07, and a Total Incremental
+Conditional Large Early Release Probability (ICLERP) of 6.71E-10. These risk estimates indicate
+a Green significance. Based on the above, the TVA has concluded that the increase in risk was
+small, and posed no threat to the protection of the health and safety of the public.
+NRC FORM 366A (08-2020) Page 6 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+Each BFN Unit contains two independent Core Spray subsystems, and the Unit 2 Loop II Core
+Spray system was unaffected by this event.
+However, on June 7, 2020, and again on June 13, 2020, the Unit 2 Loop II Core spray system
+was removed from service to perform surveillance testing. Each test lasted approximately
+15 minutes. During these tests, neither Core Spray system was available to perform their required
+safety function in response to an accident.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+On June, 7, 2020, during F207, the Unit 2 Loop II Core Spray system was declared inoperable
+from 1240 CDT to 1255 CDT for routine surveillance testing. Both Core Spray subsystems
+were inoperable during this time, and could not have performed their required safety function.
+When two or more low pressure ECCS spray subsystems are inoperable while in Mode 4,
+TS LCO 3.5.2, Condition C requires immediately suspending any Operations with the Potential to
+Drain the Reactor Vessel, and to restore one ECCS spray subsystem to operable status within
+4 hours. This Required Action was met.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+The Unit 2 Loop I Core Spray system was inoperable for approximately 44 days from the time of
+inoperability, and 12 days from the time of discovery.
+VI. Corrective Actions
+The Corrective Actions for this event were entered into the TVA’s corrective action program under
+Condition Reports (CRs) 1612226, 1620331, 1620905, 1621239.
+A. Immediate Corrective Actions
+The motor, thermal overloads, temperature switch, and starter coil were replaced.
+NRC FORM 366A (08-2020) Page 7 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 2 05000260 NUMBER NO.
+2020 - 001 - 00
+NARRATIVE
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+BFN is creating a new Preventative Maintenance to measure the motor current readings to the
+thermal overloads every two years, during the summer months when the fan is in high use.
+This will prevent reoccurrence for motor and thermal overload trips by detecting possible
+changes in continuous running current prior to overcurrent trips or motor damage.
+VII. Previous Similar Events at the Same Site
+A search of BFN Units 1, 2, and 3 LERs for the last five years identified no LERs associated with
+Core Spray Room Cooler Fan failures. A review of CRs and WOs did not identify any issues with
+operability in the past 3 years. All previous predictive maintenance monitoring over the last 3 years
+indicated that the motor’s performance was satisfactory.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There is no additional information.
+NRC FORM 366A (08-2020) Page 8 of 8

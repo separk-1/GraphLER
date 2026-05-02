@@ -1,0 +1,382 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+January 30, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 1
+Renewed Facility Operating License No. DPR-33
+NRC Docket No. 50-259
+Subject: Licensee Event Report 50-259/2016-005-00
+The enclosed Licensee Event Report provides details of the inoperability of three Main
+Steam Relief Valves for longer than allowed by plant Technical Specifications. The
+Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant's Technical Specifications.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact M. W. Oliver, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-259/2016-005-00 - Main Steam Relief Valves Lift
+Settings Outside of Technical Specifications Required Setpoints
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 1
+Licensee Event Report 50-259/2016-005-00
+Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(06-/20¥16) \
+Estimated burden per response to comply with this mandatory collection recuest: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+\, ':Ii Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+......
+"'"" ~o to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfomnation and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an infomnation collection does not display a currently valid OMB control
+number, the NRC may not conduct or sponsor, and a person is not recuired to respond to, the
+infomnation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF 7
+4. TITLE
+Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints
+5. EVENT DATE 6. LER NUMBER I 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR FACILITY NAME N/A DOCKET N N U I M A B ER
+11 30 2016 2016 - 005 - 00 01 30 2017 FACILITY NAME N/A DOCKET NUMBER
+NIA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.7 3(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.7 3(a)(2)(iv)(A) 50.7 3(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73. 71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73. 71 (a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.7 7(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.7 3(a)(2)(v)(D) D 73.77(a)(2)(i)
+D IZ! D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT lTELEPHONE NUMBER (Include Area Code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+B SB RV T020 y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D IZI SUBMISSION NIA N/A N/A
+YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 30, 2016, the Tennessee Valley Authority was presented with as-found testing results indicating
+that three of the thirteen Main Steam Relief Valves (MSRVs) from Browns Ferry Nuclear, Unit 1, exceeded the
++/- 3 percent setpoint required for their operability. Troubleshooting determined that the MSRV discs failed by
+corrosion bonding to their valve seats. The valve discs were previously platinum coated to prevent this, but the
+valve seat's rough Stellite surface caused the coating to delaminate.
+These three MS RVs were found to have been inoperable for an indeterminate period of time between
+October 29, 2014, and October 1, 2016, and longer than permitted by Technical Specifications. The affected
+valves remained capable of maintaining reactor pressure within American Society of Mechanical Engineers
+code limits. Additionally, the valves' ability to open under remote-manual operation, activation through the
+!Automatic Depressurization System, or MSRV Automatic Actuation Logics was not affected. The valves
+remained capable of performing their required safety function.
+Corrective Actions were to replace all Unit 1 MSRV pilot valves, to analyze the pilot valves of the inoperable
+MSRVs, and to revise procedures to verify the pilot disc finish meets its requirements prior to valve assembly.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was in Mode 1 at 100 percent
+power.
+II. Description of Event
+A. Event Summary
+On November 30, 2016, National Technical Systems (NTS) Laboratories provided Tennessee
+Valley Authority (TVA) with the as-found testing results of the thirteen Main Steam Relief Valves
+(MSRVs) [RV] which were removed during the Fall 2016 Unit 1 Refueling Outage 11 (U1R11).
+Three of the Main Steam Line C and D Relief Valves (BFN-1-PCV-001-0030, BFN-1-PCV-001-
+0041, and BFN-1-PCV-001-0180) had as-found lift settings which exceeded the+/- 3 percent
+setpoint required for their operability.
+Technical Specification (TS) 3.4.3 requires twelve of the thirteen Safety/Relief Valves (S/RVs) to
+be operable for S/RV system operability. These three MSRVs were found to have been
+inoperable for an indeterminate period of time between October 29, 2014, and October 1, 2016,
+and longer than permitted by TS 3.4.3.
+MSRV operability was restored on November 4, 2016, upon completion of a post-maintenance
+testing (PMT) following the biennial scheduled replacement of the MSRV pilot valves with
+refurbished valves which were certified to lift within +/- 1 percent of their setpoints.
+Throughout this event, the two-stage MSRV pilot valves remained capable of maintaining the
+reactor pressure below 1375 psig, which is the American Society of Mechanical Engineers
+(ASME) code limit of 110 percent of the vessel design pressure. The valves remained capable of
+performing their required safety function.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this
+event.
+NRC FORM 366A (06-2016) Page _2_ of _7_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection recuest: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104). Offce of Management and Budget. Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy valid OMS control number, the
+NRG may not conduct or sponsor, and a person is not recuired to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+October 9, 2014 The MSRV pilot valves are replaced, as part of the Unit 1
+Refueling Outage 10. PMT was delayed until after the
+outage ends, since the surveillance used as a PMT requires
+a minimum reactor pressure of 935 psig.
+October 29, 2014 Unit 1 enters Mode 1, beginning the fuel cycle.
+October 30, 2014 The MSRVs complete their PMT.
+October 1, 2016 BFN, Unit 1 enters Mode 5, to begin the U1 R11 refueling
+outage.
+November 4, 2016 Replacement of MSRV pilot valves and their associated post
+maintenance testing is completed, as part of the U1 R11
+refueling outage.
+November 30, 2016 NTS Laboratories provided TVA with the as-found testing
+results of the thirteen Unit 1 MSRV pilot valves removed
+during the U1 R11 outage.
+D. Manufacturer and model number of each component that failed during the event
+The failed components were all Target Rock Corporation two-stage pressure control valves,
+model number 7567F.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+Failure was discovered at NTS Laboratories, during their as-found testing of the thirteen MSRV
+two-stage pilot valves which were removed during the Fall 2016 U1 R11.
+G. The failure mode, mechanism, and effect of each failed component
+The two-stage pilot valves failed due to the corrosion bonding of the valve disc to the valve seat.
+NRc; FORM 366A (06-2016) Page _3_ of _7_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+H. Operator actions
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses
+There were no automatic or manual safety system responses associated with this event.
+Ill. Cause of the event
+A. Cause of each component or system failure or personnel error
+The two-stage pilot valves failed due to the valve disc corrosion bonding to the valve seat.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance related root causes were identified.
+IV. Analysis of the event
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code of
+Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was prohibited by the
+plant's TS. It was determined that the MSRV pilot valve inoperability resulted from their setpoints
+gradually drifting during the course of their operating cycle, which began on October 29, 2014, and
+lasted until October 1, 2016, when Unit 1 entered Mode 4.
+BFN, Unit 1, TS Limiting Condition for Operation (LCO) 3.4.3 requires twelve Operable S/RVs during
+Modes 1, 2, and 3. If one or more required S/RVs becomes inoperable, Required Action A.1 requires
+BFN, Unit 1, to enter Mode 3 within 12 hours, and Required Action A.2 requires entering Mode 4
+within 36 hours. S/RV Operability is defined as being within +/- 3 percent of their setpoint values, in
+accordance with Surveillance Requirement (SR) 3.4.3.1. BFN, Unit 1, has thirteen MSRVs to satisfy
+this requirement with margin.
+After their installation on October 9, 2014, the as-left lift setpoint for Main Steam Line C Relief Valve
+was 1145 psig, and the Main Steam Line D Relief Valves had as-left lift setpoints of 1155 psig.
+However, during as-found testing at NTS Laboratories, the lift setpoint for Main Steam Line C Relief
+Valve BFN-1-PCV-001-0030 was found to be 1181 psig (+ 3.14 percent), and the setpoints for Main
+Steam Line D Relief Valves BFN-1-PCV-001-0041 and BFN-1-PCV-001-0180 were found to be
+1278 psig (+10.65 percent) and 1209 psig (+4.68 percent), respectively. During the fuel cycle, these
+valve lift setpoints gradually drifted outside of the +/- 3 percent margin which is required for their
+operability. This failure was due to corrosion bonding between the valve discs and their seats which
+occurred after their installation but before Unit 1 entered Mode 4 on October 1, 2016. Therefore, BFN,
+Unit 1, operated with inoperable S/RVs for longer than what is allowed by TS.
+NRG FORM 366A (06-2016) Page _4_ of _7_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+On October 9, 2014, all thirteen BFN, Unit 1 MSRV pilot valves were replaced with refurbished valves
+which were certified to lift within +/- 1 percent of their setpoint. Operating experience (OE) has shown
+that Target Rock two-stage MSRV setpoint drift is not a uniform, linear process. The corrosion
+bonding increases at a random rate. Without an accurate and reliable model for predicting or
+estimating the setpoint drift development, the point in time where the setpoint exceeded the +/- 3
+percent limit cannot be reliably determined. Since this drift occurred between the beginning of the fuel
+cycle on October 29, 2014, and October 1, 2016, when Unit 1 entered Mode 4, the MSRV
+inoperability was conservatively declared to have been inoperable for an indeterminate period of time
+between October 29, 2014, and October 1, 2016, and longer than permitted by plant TS 3.4.3.
+V. Assessment of Safety Consequences
+System availability was not impacted by this event. The failure of BFN-1-PCV-001-0030, an
+Automatic Depressurization System (ADS) valve, to meet the mechanical setpoint identified in TS
+3.4.3 does not impact its remote-manual operation, or activation through the ADS or MSRV Automatic
+Actuation Logics since these operating modes and functions rely upon an electrical signal to energize
+the MSRV control air solenoid which electrically opens the pilot valve.
+TS Bases 3.4.3 states that the overpressure protection system must accommodate the most severe
+pressurization transient. The MSRVs remained capable of maintaining the reactor pressure below
+1375 psig, which is the ASME code limit (110 percent of the vessel design pressure). The valves
+remained capable of performing their required safety function.
+The bounding maximum over-pressurization analyses are performed each fuel cycle to show that the
+requirements of the ASME code regarding overpressure protection are met. The analyses are
+performed specifically to show that the dome pressure TS limit of 1325 psig is not exceeded and that
+the vessel pressure does not exceed the limit of 1375 psig. In addition, the Anticipated Transient
+Without Scram (AT WS) pressurization analyses are also performed to demonstrate that the 1500 psig
+peak vessel pressure limit is not exceeded.
+NUREG-0800 defines bases the acceptance criteria for reactor coolant pressure on the ASME
+Service Level C limits, which are approximately 10.3 MPa (1500 psig) for BWRs. For the ATWS
+analysis, the setpoint groupings conservatively bound the ten lowest as-found MSRV opening
+setpoints; however, the three highest valve setpoints fall outside the bounds of the valve groupings.
+Therefore the limiting ATWS overpressurization event, identified as the ATWS pressure regulator
+failed open at 100% rated power and 81% rated flow at the beginning of cycle exposure, was
+re-analyzed by AREVA. The results from this analysis indicate that despite the three MSRV pilot
+valves which exceeded their as-found setpoint, the maximum vessel pressure and maximum dome
+pressure reaches a maximum of 1398 psig, and therefore does not exceed the A TWS vessel
+pressure limit of 1500 psig. Therefore, there was no impact on the MSRVs to perform their specified
+safety function.
+NRi.; FORM 366A (06-2016) Page _5_ of _7_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+Based on the above, TVA has concluded that sufficient systems were available to provide the
+required safety functions needed to protect the health and safety of the public.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+Each BFN operating unit has a non-safety related, electrical logic system (MSRV Actuation Logic)
+installed, which provides defense-in-depth against MSRV setpoint drift by electrically opening
+MSRV groups based upon setpoints at 1135 psig, 1145 psig and 1155 psig. Therefore, during a
+reactor pressure transient event, the four 1135 psig group MSRVs, followed by the four 1145 psig
+group MSRVs, and finally the five 1155 psig group MSRVs would receive an electrical open
+signal, providing a defense-in-depth function to allow the valves to perform their safety function.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+TS 3.4.3 requires twelve of the thirteen S/RVs to be operable for S/RV system operability. The
+three failed MSRV pilot valves rendered the entire S/RV system inoperable for the duration of the
+fuel cycle, from October29, 2014, to October 1, 2016.
+VI. Corrective Actions
+Corrective Actions are being managed by TVA's corrective action program under Condition Report
+(CR) 962223.
+A. Immediate Corrective Actions
+All thirteen of the Unit 1 MSRV pilot valves were replaced with refurbished valves during the
+U1R11 Refueling Outage. As-left testing verified that these refurbished pilot valves were within
+1 percent of their name plate setpoints.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The discs from the previous failed pilot valves were analyzed, and their results were documented
+under CR 962223.
+NRC FURM 366A (06-2016) Page _6_ of _7_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 1 05000259 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+Steps were added to procedure MCl-0-001-VLV002, Main Steam Relief Valves Target Rock
+Model 7567 Disassembly, Inspection, Rework and Reassembly, to use a borescope, microscope
+and a Root Mean Square (RMS) optical comparator and a microscope to verify that the pilot disc
+finish quality is 32 RMS or better, optimally 16 RMS, prior to platinum coating
+VII. Previous Similar Events at the Same Site
+A search of BFN LERs for Units 1, 2, and 3, identified eight LERs for this same issue within the last
+eight years. This is a common issue throughout the industry, as corrective actions have only been
+able to mitigate the problem. By documenting and trending the issue, incremental improvement is
+being made towards a resolution.
+A search of the Corrective Action Program for BFN, Units 1, 2, and 3, identified seventeen MSRV
+failure events since 1999. These failures were captured by CRs 37328, 59786, 50084, 61823, 81376,
+102298, 124944, 146189, 175990, 159200,226627,294506, 372047, 558488, 962223, 1157981 and
+1237184. These individual failures were collectively evaluated and addressed by CR 112190.
+CR 55557 identified that corrosion bonding between the valve discs and their seat surfaces were
+strong enough to cause significant drifts in their opening pressure and reset setpoints. As a corrective
+action, a design change was implemented to update/install a safety related pressure switch logic that
+was endorsed by the BWR Owners Group to resolve setpoint drift issues.
+CR 56793 identifies the corrosion-prone materials used in the construction of Target Rock two-stage
+safety-relief valves presented a fundamental design deficiency. An alternate MSRV
+design/logic/manufacturer was sought, but industry OE demonstrated that the use of platinum coated
+valve discs provided the best results.
+The Corrective Actions for CR 146189 required platinum coated MSRV discs to be installed in future
+outages to prevent reoccurrence. CR 166147 verified that these platinum coatings were in place.
+While the use of platinum coated valve discs has mitigated the occurrence of corrosion-induced
+setpoint, drift, it continues to occur. Industry OE shows that this is a result of platinum coatings flaking
+off due to the rough Stellite surfaces of valve discs.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (06-2016) Page _7_ of _7_

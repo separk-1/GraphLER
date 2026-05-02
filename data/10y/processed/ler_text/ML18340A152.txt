@@ -1,0 +1,269 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+December 6, 2018
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Units 1, 2, and 3
+Renewed Facility Operating License Nos. DPR-33, DPR-52, and DPR-68
+NRC Docket Nos. 50-259, 50-260, and 50-296
+Subject: Licensee Event Report 50-259/2018-006-00
+The enclosed Licensee Event Report provides details of the Standby Gas Treatment
+System Train C being inoperable for longer than allowed by plant Technical Specifications.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the
+Code of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant's Technical Specifications.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact M.W. Oliver, Acting Nuclear Site
+Licensing Manager, at (256) 729-7874.
+Enclosure: Licensee Event Report 50-259/2018-006-00 - Standby Gas Treatment System
+Train C Inoperable Longer Than Allowed by Technical Specifications
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Units 1, 2, and 3
+Licensee Event Report 50-259/2018-006-00
+Standby Gas Treatment System Train C Inoperable Longer Than Allowed by Technical Specifications
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+LICENSEE EVENT REPORT (LER) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail
+to Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Browns Ferry Nuclear Plant, Unit 1 05000259 1 OF 5
+4. Title
+Standby Gas Treatment System Train C Inoperable Longer Than Allowed by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Month Day Year BFN, Unit 2 05000260
+Number No.
+Facility Name Docket Number
+10 06 2018 2018 - 006 - 00 12 06 2018
+BFN, Unit 3 05000296
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+80 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Baruch Calkin, Licensing Engineer 256-614-6713
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B BH HS G080 Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No N/A N/A N/A
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On October 6, 2018, at approximately 0001 Central Standard Time (CST), Standby Gas Treatment (SGT)
+System train C failed to automatically start in response to a Primary Containment Isolation signal which was
+received after Unit 3 was manually scrammed in support of the Unit 3 Cycle 6 forced outage. SGT train C
+was manually started. SGT trains A and B started automatically as expected.
+On October 18, 2018, a Past Operability Evaluation determined that SGT Train C was inoperable for longer
+than the Unit 1, 2, and 3 Technical Specifications (TS) Limiting Condition of Operation (LCO) 3.6.4.3 seven
+day allowed outage time for a single inoperable SGT subsystem. The apparent cause of this event was the
+failure of a handswitch contact to close because of a loose cracked phenolic barrier plate inside the switch
+which impeded switch rotation. This crack was most likely the result of external forces on the switch and
+existed prior to the failure.
+Corrective actions for this condition are to replace the failed handswitch, to replace all other handswitches
+affected by this condition, and to add a log note to the switch’s catalog ID to inspect new switches for barrier
+plate damage prior to installation.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 006 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 1, was in Mode 1 at
+approximately 80 percent power. BFN Unit 2 was in Mode 1 at 100 percent power and Unit 3 was
+in Mode 3 at approximately 0 percent power for the Unit 3 Cycle 6 forced outage.
+II. Description of Event
+A. Event Summary
+On October 6, 2018, at approximately 0001 Central Standard Time (CST), Standby Gas
+Treatment (SGT) System train C failed to automatically start in response to a Primary
+Containment Isolation signal which was received after Unit 3 was manually scrammed in
+support of the Unit 3 Cycle 6 forced outage. SGT train C was manually started. SGT trains A
+and B started automatically as expected.
+On October 18, 2018, a Past Operability Evaluation determined that SGT Train C was
+inoperable for longer than the Unit 1, 2, and 3 Technical Specifications (TS) Limiting Condition
+of Operation (LCO) 3.6.4.3 seven day allowed outage time for a single inoperable SGT
+subsystem.
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of
+the Code of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant’s TS.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no structures, systems, or components (SSCs) whose inoperability contributed to
+this event.
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+September 27, 2018 Last known successful use of hand switch [HS]
+2345 CDT HS-66-69A/2.
+October 06, 2018 SGT C started manually after failing to start
+0002 CDT automatically. SGT C declared inoperable.
+October 8, 2018 SGT C declared operable.
+0954 CDT
+NRC FORM 366A (04-2018) Page 2 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 006 - 00
+NARRATIVE
+D. Manufacturer and model number of each component that failed during the event
+The failed component during this event was the SGT train C hand switch 0-HS-065-069A/2.
+The model number for the hand switch is SB-10, and it is manufactured by the General
+Electric Company.
+E. Other systems or secondary functions affected
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error
+On October 6, 2018, SGT System train C fan motor failed to start automatically after Unit 3
+was manually scrammed in support of the Unit 3 Cycle 6 forced outage. The SGT System
+train C had to be manually started from panel 2-9-25.
+G. The failure mode, mechanism, and effect of each failed component
+The switch contact failed to close because of a loose cracked phenolic barrier plate inside the
+switch which impeded switch rotation. This crack most likely existed prior to the failure and
+was most likely the result of external forces on the switch.
+H. Operator actions
+SGT train C was manually started from panel 2-9-25.
+I. Automatically and manually initiated safety system responses
+No safety system responses resulted from this event.
+III. Cause of the event
+SGT C failed to start because of the failure of the hand switch contact to close.
+A. Cause of each component or system failure or personnel error
+The most likely cause of the hand switch failure was a crack in a phenolic barrier plate inside
+the switch due to external forces during handling or maintenance.
+B. Cause(s) and circumstances for each human performance related root cause
+There was no human performance related root cause.
+NRC FORM 366A (04-2018) Page 3 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 006 - 00
+NARRATIVE
+IV. Analysis of the event
+The safety objective of the SGT System is to provide a means for minimizing the release of
+radioactive material from the containment to the environment by filtering and exhausting the air
+from any or all zones of the Reactor Building and maintaining the building at a negative pressure
+(such that air leakage is into, not out of, the building) during containment isolation conditions.
+Elevated release is assured by exhausting to the plant stack. The three redundant 50-percent
+capacity SGT trains share a common suction manifold. In this way, each of the three trains is
+connected to all three reactor zones and the refueling zone. Upon an accident signal, all three
+SGTS units will start.
+TS LCO 3.6.4.3 requires that three SGT subsystems shall be operable in Modes 1, 2, and 3,
+and/or during operations with a potential for draining the reactor vessel. TS LCO 3.6.4.3
+Condition A requires that, with one SGT subsystem inoperable, the subsystem must be restored
+to operable status within seven days. Condition B requires, with the required action of Condition
+A not met in Modes 1, 2, or 3, that the applicable Unit be in Mode 3 within twelve hours and Mode
+4 within thirty-six hours.
+A Past Operability Evaluation determined that SGT C was inoperable from September 27, 2018
+when the switch was last manipulated successfully, to October 8, 2018 when SGT C was
+declared operable following maintenance. During this time the Required Actions of TS LCO
+3.6.4.3 Conditions A and B were not completed. Therefore, BFN was in violation of its TS during
+this time.
+V. Assessment of Safety Consequences
+A qualitative Probabilistic Risk Assessment (PRA) was performed and concluded that automatic
+start of SGT is not credited in the Internal Events PRA Model of Record Revision 8. It is also not
+credited in the Fire PRA model of record to prevent core damage or large early release.
+Therefore, failure of SGT train C to automatically start is considered to be of low safety
+significance.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+SGT trains A and B remained available to automatically start during the time SGT train C
+failed to automatically start.
+NRC FORM 366A (04-2018) Page 4 of 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001,or by e-mail to
+LICENSEE EVENT REPORT (LER) Infocollects. Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Browns Ferry Nuclear Plant, Unit 1 05000259 NUMBER NO.
+2018 - 006 - 00
+NARRATIVE
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shut down the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+This event did not involve or result in the unavailability of any required systems or components
+needed to shut down the reactor and maintain safe shut down conditions, remove residual
+heat, control the release of radioactive material, or mitigate the consequences of an accident.
+SGT A and B remained operable. Operations personnel were able to manually start SGT C.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+This event resulted in inoperability of the SGT Train C for a time longer than allowed by TS
+from the last time the SGT train C hand switch was operated on September 27, 2018, until the
+SGT train C was declared inoperable on October 6, 2018. The switch was replaced and SGT
+C was returned to service on October 8, 2018.
+VI. Corrective Actions
+Corrective actions for this event are being managed under Condition Report 1454001.
+A. Immediate Corrective Actions
+The SGT train C hand switch was replaced.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+1. All other switches affected by this condition will be replaced.
+2. A log note will be added to the switch’s catalog ID to inspect new switches for barrier
+plate damage prior to installation.
+VII. Previous Similar Events at the Same Site
+A search of LERs and the BFN Corrective Action Program found no instances within the past five
+years of SGT inoperability resulting from a failed switch.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRC FORM 366A (04-2018) Page 5 of 5

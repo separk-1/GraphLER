@@ -1,0 +1,236 @@
+James A. FilzPatrick NPP
+Constellation~ PO Box110
+Lycoming. NY 13093
+Timothy C. Peter
+Site Vice President-JAF
+JAFP-23-0001
+January 10, 2023
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2021-001-01, Inadequate Protection Devices for DC Motor Field
+Shunt Cables Through Separate Fire Areas
+Reference: FitzPatrick letter, LER: 2021-001, Inadequate Protection Devices for DC
+Motor Field Shunt Cables Through Separate Fire Areas, JAFP-21-0096,
+dated October 22, 2021
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50.73(a)(2)(ii)(B). This supplement is being
+submitted to clarify and add more detail to the reported condition and does not change the intent
+of the original report.
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Mark Hawes, Regulatory Assurance
+Manager (acting), at (315) 349-6659.
+TCP/mh
+Enclosure: LER: 2021-001-01, Inadequate Protection Devices for DC Motor Field
+Shunt Cables Through Separate Fire Areas
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-
+(See Page 3 for required number of digits/characters for each block) 6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 4
+4. Title
+Inadequate Protection Devices for DC Motor Field Shunt Cables Through Separate Fire Areas
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+08 24 2021 2021 - 001 - 01 01 10 2023 N/A N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+ 20.2201(b)  20.2203(a)(3)(i)  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73
+ 20.2201(d)  20.2203(a)(3)(ii)  50.69(g)  50.73(a)(2)(v)(B)  73.71(a)(4)
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.71(a)(5)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(1)
+ 20.2203(a)(2)(ii)  21.2(c)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)  73.77(a)(2)(i)
+ 20.2203(a)(2)(iii) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.77(a)(2)(ii)
+ 20.2203(a)(2)(iv)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+ 20.2203(a)(2)(v)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ OTHER (Specify in Abstract below or in NRC Form 366A).
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Mark Hawes, Regulatory Assurance Manager (acting) 315-349-6659
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacture Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+During an extent of condition review for unprotected circuits, the James A. FitzPatrick Nuclear Power Plant
+(JAF) staff identified three cables for which a postulated fire event could potentially short circuit and cause
+secondary cable damage. The main circuit breakers in the motor control center compartment do not provide
+adequate protection of the shunt field circuit cable. This condition affects the DC motors to 27MOV-123, torus
+exhaust isolation bypass valve, 23MOV-14, HPCI turbine steam inlet isolation valve, and 23MOV-24, HPCI full
+flow test return to condensate storage isolation valve. The cables for these circuits are routed thru fire areas in
+South Cable Tunnel, Reactor Building Eastside, and Reactor Building West Crescent; where safe shutdown
+equipment could be affected by this condition.
+The cause of the condition is that the original plant design, prior to 10 CFR 50 Appendix R, did not include
+overcurrent protection for DC motor shunt field cables in all applicable Safe Shutdown Analysis circumstances.
+Compensatory actions were established for the affected Fire Zones and modifications were completed for the
+affected circuits.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 001 – 01
+NARRATIVE
+Background
+The James A. FitzPatrick Nuclear Power Plant (JAF) 10 CFR 50 Appendix R Safe Shutdown Analysis is based
+on the occurrence of a single fire. The only failures that are considered are those directly attributable to the
+fire, and spurious operations that can be postulated to occur as a result of the fire. No other concurrent failures
+are assumed to occur (i.e., single failure).
+Fire areas are established to meet the separation requirements of Section III.G of Appendix R for safe
+shutdown systems. The fire areas at JAF are further sub-divided into fire zones.
+It is postulated that a fire in one fire area could
+cause a short-circuit, cause overcurrent and
+overheat cables, then produce secondary
+damage to adjacent cables in other fire areas
+where the cables are routed. Fuses in electrical
+circuits prevent this type of propagation.
+Secondary cable failures are outside the
+assumptions of the 10 CFR 50 Appendix R Safe
+Shutdown Analysis.
+In a direct current (DC) shunt motor, the
+armature and field (shunt) windings are
+connected in parallel. The shunt (field) windings
+of a DC shunt motor are made of smaller gauge
+wire, but they have many more turns than a
+series-wound DC motor. The high number of
+turns allows a strong magnetic field to be
+generated, but the smaller gauge wires provide
+a high resistance and limit the current flowing
+through the shunt coil.
+Event Description
+On August 24, 2021, an extent of condition evaluation from the condition reported by LER: 2020-002,
+identified three additional circuits, vulnerable to a potential hot short condition impacting secondary fire areas.
+The three circuits identified are associated with DC Motors with field shunt cables that transverse multiple fire
+areas. The feeder breaker protects the armature cables but the smaller 12 AWG (American Wire Gauge)
+field shunt cables are inadequately protected by the feeder breaker. In the event of a fire-induced hot short,
+the potential exists, based on the available fault current, cable size, and characteristics of the protective
+device, for the shunt cable to be overheated.
+This situation has the potential to cause secondary cable failures that are outside the assumptions of the
+10 CFR 50 Appendix R Safe Shutdown Analysis. This condition was reported to the NRC on August 24,
+2021 (ENS 55427) per 10 CFR 50.72(b)(3)(ii)(B). The required actions of the Technical Requirement Manual
+(TRM) 3.7.M, Fire Barrier Penetrations, were established for the affected fire areas.
+Page 2 of 4
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 001 – 01
+Event Analysis
+This condition identified the smaller gauge cables connected to the DC motor shunt field. The cables
+connected to the armature and series field are of sufficient size to be protected by a 40 or 70 ampere (A)
+breaker at the Motor Control Center (MCC) and the control circuits are protected by 15 A fuses in series with
+the breaker.
+The 12 AWG shunt field cables were evaluated using the guidance of NUREG-1805 and NUREG/CR-5384.
+For thermoset insulated cable failures to impact adjacent cables, the temperature that the conductor reaches
+at given specified current, for a specified time duration, needs to be conducive to this type of damage
+propagation. At higher fault currents, the DC motor breaker would likely trip prior to cable ignition. However,
+under some fault current circumstances, the evaluation discovered that these 12 AWG cables are vulnerable
+to this type of failure. The evaluation further identified that the vulnerable cables were within common
+enclosures with other equipment cables required for safe shutdown in secondary fire areas.
+The following DC motor field shunt cables may impact credited safe shutdown equipment for fires initiated in
+the following areas:
+Cable Equipment Noncompliant Fire Area
+1PCPARK107 71BMCC-1 to 27MOV-123 09 – Reactor Building Eastside
+Torus exhaust isolation valves 27AOV- 11 – South Cable Tunnel
+117 and 27AOV-118 outbound bypass
+valve
+1HPIBBK006 71BMCC-2 to 23MOV-14 18 – Reactor Building West Crescent
+HPCI turbine steam inlet isolation valve
+1HPIBBK024 71BMCC-4 to 23MOV-24 18 – Reactor Building West Crescent
+HPCI Full Flow test return to
+condensate storage downstream
+isolation valve
+Since the degree of separation for redundant safe shutdown trains is lacking, the event is reportable as an
+unanalyzed condition that significantly degraded plant safety. Therefore, this report is being submitted in
+accordance with 10 CFR 50.73(a)(2)(ii)(B), a condition that resulted in the plant being in an unanalyzed
+condition that significantly degraded plant safety.
+Cause
+The overcurrent protection is not sufficient in all applicable DC shunt field cables which can impact the
+10 CFR 50 Appendix R Safe Shutdown Analysis. This condition has existed since original plant design.
+Page 3 of 4
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2021 – 001 – 01
+Similar Events
+FitzPatrick, LER: 2013-003-00, Unfused DC Ammeter Circuits Result in Unanalyzed Condition,
+JAFP-13-0158, dated December 26, 2013.
+FitzPatrick, LER: 2020-002-00, Unanalyzed Condition due to Unprotected Control Circuits Running through
+Multiple Fire Areas, JAFP-20-0032, dated April 14, 2020.
+The condition being reported in this report was identified during a Corrective Action Program (CAP) extent of
+condition review from LER: 2020-002-00. These two LER and the condition reported address unprotected
+cables which may potentially cause secondary fires such that the safe shutdown analysis is impacted.
+Corrective Actions
+Compensatory actions for the affected fire areas were established in accordance with TRM 3.7.M.
+Modifications to add protective devices (i.e, fuses) to the affected circuits was completed in October 2021
+(Engineering Change (EC) 634899).
+Other DC Motor shunt field cables that were evaluated to not affect safe shutdown analysis are being
+addressed in the corrective action process (IR 04442380).
+An alternating current (AC) extent of condition evaluation concluded that no AC circuit affects the safe
+shutdown analysis. Circuits evaluated as not fully protected is addressed in CAP.
+Safety Significance
+Nuclear safety – There were no actual consequences caused by this condition. The potential consequence of
+a hot short condition is for a fire damage in one fire area to damage other cables in more than one fire area.
+This may cause a loss of safe shutdown capability outside the analysis of the Safe Shutdown Analysis. The
+risk of fire damage is mitigated by fire protection equipment and the availability of Fire Brigade members
+trained to respond to fire accident scenarios.
+References
+JAF Issue Report IR 04442380, August 24, 2021
+JAF-RPT-FPS-01975, Revision 5, 10CFR50 Appendix R Safe Shutdown Analysis Report (SSAR)
+Page 4 of 4
+NRC FORM 366A (08-2020)

@@ -1,0 +1,229 @@
+Nebraska Public Power District
+Always there when you need us
+NLS2019007
+January 24, 2019
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555.:.000l
+Subject: Licensee Event Report No. 2017-004-01
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2017-004-01.
+There are no new commitments contained in this letter.
+Sincerely,
+~1h?Ww ({ - h;y (f1 kV\- p.wJ-
+John Dent, Jr.
+Vice President Nuclear
+Chief Nuclear Officer
+/jo
+Attachment: Licensee Event Report 2017-004-01
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC -Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC -NRR Plant Licensing Branch IV via ICES entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+P.O. Box 98 / Brownville, NE 68321-0098
+Telephone: (402) 825-381i / Fax: (402) 825-5211
+www.nppd.com •
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+/'-..,._ Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed back to
+• LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+\;. ...... '/ (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or bye-
+mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See NUREG-1022, R 3 for instru<;lion and guidance for completing this form Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3/) Washington, DC 20503. If a means used to impose an information collection does not display
+a currently valid 0MB control number, the NRG may not conduct 6r $ponsor, and a person is
+not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Cooper Nuclear Station 05000298 1 of 4
+4. TITLE
+Torus to Drywall Vacuum Breaker Failure to Indicate Full Closed Causes Loss of Safety Function
+5. EVENT DATE 6. LER NUM~ER 7. REPORTDATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR ISEQUENTIALI
+REV
+MONTH DAY YEAR
+FACILITY NAME DOCKET
+NUMBER NO. 05000
+FACILITY NAME DOCKET
+06 19 2017 2017 - 004 - 01 01 24 2019 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE Rl;QUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201(b) D 20.i203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(ii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) 0 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50. 73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) 0 50. 73(a)(2)(v)(C) D 73.77(a)(1)
+100
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) [2) 50.73(a)(2)(v)(D) D 73. 77(a)(2)(i)
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+I
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Jim Shaw, Licensing Manager (402) 825-2788
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+;
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE r' CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+i~
+y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (ff yes, complete 15. EXPECTED SUBMISSION DATE) ~ NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 19, 2017, during performance of surveillance 6.PC.207, the control switch for vacuum breaker PC-AOV-
+NRV21 was cycled open then closed. When the control switch was taken to close, the vacuum breaker failed to
+indicate closed. Operations declared Primary Containment (PC) and PC-AOV-NRV21 inoperable and entered
+Technical Specification (TS) Limiting Condition for Operation (LCO) 3.6.1.1 Condition A and LCO 3.6.1.8 Condition
+Bat 21 :15 hours. In addition, TS LCO 3.6.1.1 Condition B was entered at 22:15 hours due to PC-AOV-NRV21 still
+indicating intermediate. The control switch for PC-AOV-NRV21 was cycled open, and then closed a second time.
+At this time, PC-AOV-NRV21 indicated closed. Operations declared PC and PC-AOV-NRV21 operable at 23:11
+hours and exited TS LCO 3.6.1.1, Condition A and Condition B, and TS LCO 3.6.1.8, Condition B.
+Two potential causes were identified during troubleshooting activities. The first is increased internal friction in the
+valve air operator of the vacuum breaker could cause the operator to close too slowly,and limit the ability to fully
+close. The second is the solenoid operated valve (SOV) could bleed vented air off slowly causing the vacuum
+breaker to not fully close. Both the valve air operator and the SOV were replaced during troubleshooting activities.
+'
+There were no· safety consequences associated with this condition.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+............I \. Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+f~i LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+\ ..... "/ Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R 3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid 0MB control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2017 -004 -01
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operations, 100 percent power, at the time of
+discovery; i.e., June 19, 2017.
+BACKGROUND
+The function of the Torus to Drywall Vacuum Breaker [EIIS:VACB] is to relieve vacuum in the drywall.
+There are 12 internal vacuum breakers which allow air and steam flow from the suppression chamber
+(torus) to the drywall when the drywall is at a negative pressure. Torus to Drywall Vacuum breakers
+prevent an excessive negative differential pressure across the drywall boundary. Each vacuum breaker
+is a self-actuating valve [EIIS:V], similar to a check valve, which can be remotely operated for testing
+purposes.
+A negative differential pressure across the drywall wall is caused by rapid depressurization of the drywall.
+Design Bases Accident (OBA) analyses assume the vacuum breakers to be closed initially and to remain
+closed and leak tight, until the suppression pool is at a positive pressure relative to the drywall. The
+requirement that the vacuum breakers be closed ensures that there is no excessive bypass leakage
+should a Loss of Coolant Accident (LOCA) occur.
+The function of the primary containment [EIIS:NH] is to isolate and contain fission products released from
+the Reactor Primary System following a design basis LOCA and to confine the postulated release of
+radioactive material. The safety design basis for the primary containment is that it must withstand the
+pressures and temperatures of the limiting OBA without exceeding the design leakage rate. The leakage
+from the drywall to the suppression chamber must be limited to ensure the pressure suppression function
+is accomplished and the suppression chamber pressure does not exceed design limits.
+The vacuum breaker has a safety function in the closed position to limit the amount of bypass flow to
+ensure proper containment response on a postulated LOCA event and an open safety function post
+LOCA to limit negative differential pressure between the drywall and the suppression chamber. With the
+valve partially open, the LOCA containment response cannot be assured.
+EVENT DESCRIPTION
+On June 19, 2017, during performance of surveillance 6.PC.207, "Torus to Drywall Vacuum Breaker
+Operation," the control switch for vacuum breaker PC-AOV-NRV21 was cycled open, then closed. When
+the control switch was taken to close, the vacuum breaker failed to indicate closed. As such, Operations
+declared Primary Containment and PC-AOV-NRV21 inoperable and entered Technical Specification (TS)
+Limiting Condition for Operation (LCO) 3.6.1.1 Condition A and Leo 3.6.1.8 Condition Bat 21: 15 hours.
+In addition, TS LCO 3.6.1.1 Condition B was entered at 22: 15 hours due to PC-AOV-NRV21 still
+indicating intermediate.
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED· BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION Estimated burden per response lo comply with this mandatory collection request: 80
+(04-2017) hours. Reported lessons learned are incorporated into the licensing process and fed back to
+.
+industry. Send comments regarding burden estimate lo the Information Services Branch (T-
+,/~ "...'" <~. . 2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+• i LICENSEE EVENT REPORT (LER)
+..... lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+\ '/ CONTINUATION SHEET Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503 .
+If a means used to impose an information collection does not display a currently valid 0MB
+(See NUREG-1022, R 3 for instruction and guidance for completing this form control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/J the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2017 -004 -01
+NARRATIVE
+The control switch for PC-AOV-NRV21 was cycled open, then closed a second time. At this time, PC
+AOV-NRV21 indicated closed. Operations declared Primary Containment operable at 23:11 hours and
+exited TS LCO 3.6.1.1, Condition A and Condition B, and TS LCO 3.6.1.8 Condition B.
+BASIS FOR REPORT
+CNS is reporting this event under 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of
+an accident.
+CNS also reported this event to the Nuclear Regulatory Commission Operations Center per Event
+Notification 52813. ·
+CNS subsequently performed an engineering evaluation which concluded that PC-AOV-NRV21 would
+have completed its closure under forces resulting from reactor blowdown. As such, this event is not
+considered a Safety System Functional Failure. ·
+SAFETY SIGNIFICANCE
+There were no safety consequences associated with this condition. With the vacuum breaker closed, all
+blowdown flow would be directed under the suppression pool water level, consistent with the assumptions
+in the Licensing Basis Accident Analyses.
+Once closed, the vacuum breaker design provides increasing seal pressure and leak tightness on
+increasing drywell pressure. Bypass leakage would have been less than the one inch diameter limit
+demonstrated by the most recent surveillance tests. Critical containment parameters including peak
+wetwell pressure, peak drywell and wetwell structural temperatures, and peak suppression pool
+temperatures would remain within the design limits.
+CAUSE
+A specific cause of the vacuum breaker failing to close could not be determined at the time of the event
+due to the inability to access the vacuum breaker. Troubleshooting was performed during Refueling
+Outage 30 (RE30). PC-AOV-NRV21 was cycled open and closed three times during troubleshooting.
+The vacuum breaker cycled smoothly and consistently each time with no discrepancies recorded, thus a
+direct:cause for PC-AOV-NRV21 failing to indicate closed was not identified. Two potential causes were
+identified. ·
+NRG FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION Eslimaled burden per response to comply with this mandatory colleclion request: 80
+(04-2 1 017) ¥\ hours. Reported lessons learned are.incorporaled into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the lnformalion Services Branch (T-
+2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER)
+..... / lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and Regulatory
+\~ CONTINUATION SHEET Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC20503.
+If a means used to impose an information collection does not display a currently valid 0MB
+(See NUREG-1022, R 3 for instruction and guidance for completing this form control number, the NRC may not conduct or sponsor, and a person is not required to respond lo;
+htlo://www.nrc.oov/readina-rm/doc-collections/nureos/staff/sr1022/r3/) the information colleclion.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2017 -004 -01
+NARRATIVE
+The first potential cause is increased internal friction in the valve operator of the vacuum breaker could
+cause the operator to close too slowly and limit the ability of the operator to fully close. Although during
+troubleshooting the valve operator responded satisfactorily, it was replaced, as there was not enough
+evidence to refute this as a possible cause of failure.
+The second potential cause is if the solenoid operated valve (SOV), which controls air supply to the
+pneumatic cylinder located on the top of the valve assembly, slowly or partially changes state, vented air
+from the operator could bleed off slowly causing the vacuum breaker to not fully close. During
+troubleshooting, the SOV responded satisfactorily. However, it was observed that it was an olde9model
+and a search back to 2001 showed no maintenance had been performed on this SOV./This SOV ~as
+replaced with the same series of SOV as installed on the other torus to drywell vacuum breakers.
+CORRECTIVE ACTIONS
+Following the event on June 19, 2017, personnel ensured that PC-AOV-NRV21 was not disturbed in the
+closed state. A Caution tag was assigned to the valve selector switch to maintain the closed position.
+The instrument air valves that supply air to the pneumatic operation were Danger tagged closed to isolate
+air and disable any possible opening action.
+The valve air operator and the solenoid operated valve were replaced during troubleshooting activities
+performed during RE30.
+PREVIOUS EVENTS
+There have been no events reported in the last three years related to torus to drywell vacuum breaker
+operation.
+NRC FORM 366A (04-2017) Page 4 of 4

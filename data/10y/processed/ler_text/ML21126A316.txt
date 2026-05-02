@@ -1,0 +1,172 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+May 6, 2021
+Attn: Document Control Desk 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387 /2021-001-00
+UNIT 1 LICENSE NO. NPF-14
+PLA-7939 Docket No. 50-387
+Attached is Licensee Event Report (LER) 50-3 87/2021-001-00. The LER reports an event
+involving the inoperability of the High Pressure Coolant Injection System (HPCI) due to the
+HPCI Turbine Exhaust Inboard Vacuum Breaker Valve failing to stroke fully closed on demand.
+The condition is being reported in accordance with 10 CFR 50.73(a)(2)(v) as an event or
+condition that could have prevented fulfillment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-387/2021-001-00
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. S. Goetz, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+c,<-..p~ nc.,111~, Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+t/ _o~ lessons learned are incorporated Into the licensing process and fed back to Industry. Send
+"~ !; , , i ". LICENSEE EVENT REPORT (LER) c A o 1 m 0M m ) e , nt U s .S re . ga N rd u i c n le g a b r ur R d e e g n u e la s t t o im ry a t C e o to m m th i e s s F io O n I , A , W L a ib s r h a i r n y g , to a n n , d I D n C fo rm 20 a 5 ti 5 o 5 n - 0 C 0 o 0 l 1 le , c ti o o r n s b y B ra e n -m ch a i ( l T- t 6 o
+0 ~6" ' (See Page 3 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+t4,,., Affairs, (3150-0104), Attn: Desk ail: oira submlssion@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+*it.i,~ sponsor, and a person Is not required to respond to, a collection of information unless the document
+fomn httgs:/lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3{)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 13. Page
+Susquehanna Steam Electric Station 05000387 1 of 3
+4. Title
+Unplanned lnoperability of the High Pressure Coolant Injection (HPCI) System due to a Primary Containment Isolation
+(PCIV) Valve Failure to Stroke Full Closed On-demand due to an Intermittent Break in the Close Control Circuitry
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+03 09 2021 2021 001 00 05 06 2021
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+.10•CFR Part20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) D 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A) ._ 10 CFR Part 73
+□ 20.2201 (d) □ 20.2203(a)(3)(ii) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.71(a)(4)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.71(a)(5)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 · ... □ 50.73(a)(2)(i)(B) igJ 50.73(a)(2)(v)(D) □ 73. 77(a)(1 )(i)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii) □ 73. 77(a)(2)(i)
+.. ,
+□ 20.2203(a)(2)(iii) 10 CFR.Part,S0 □ 50. 73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1)(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50.73(a)(2)(iii) D 50. 73(a)(2)(ix)(A)
+□ Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+I
+Licensee Contact Phone Number (Include Area Code)
+Derek R. Smith, Senior Engineer - Nuclear Regulatory Affairs (570) 542-1377
+13. Complete One Line for each Component Failure Described in this Report
+Cause I System Component I Manufacturer I Reportable to IRIS I Cause I System I Component I Manufacturer I Reportable to IRIS
+X I BJ VACB I A391 I y I I I I I
+14. Supplemental Report Expected I I Month I Day I Year
+15. Expected Submission Date
+[gJ No I□ Yes (If yes, complete 15. Expected Submission Date) I I I
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 9, 2021 at approximately 03:13, during performance of quarterly Unit 1 High Pressure Coolant Injection System
+(HPCI) valve exercising, dual indication was received in the control room for the HPCI Turbine Exhaust Vacuum Breaker
+inboard isolation valve (HV155F079) due to the valve failing to stroke fully closed on demand. Upon discovery of the condition,
+Operations entered Unit 1 Technical Specification (TS) 3.6.1.3, Condition A for one or more penetration flow paths with one
+Primary Containment Isolation Valves (PCIV) inoperable. The HPCI Turbine Exhaust Vacuum Breaker inboard isolation valve
+was then closed, resulting in unplanned inoperability of HPCI. At the time the condition was identified, Unit 1 was already in TS
+3.5.1, Condition D, HPCI system inoperable, due to the planned surveillance testing.
+This event was reported by Event Notification 55128 in accordance with 10 CFR 50.72(b)(3)(v)(D). The condition is also being
+reported in accordance with 10 CFR 50.73(a)(2)(v) as an event or condition that could have prevented fulfillment of a safety
+function. The cause of the event was an intermittent break in the valve's close control circuitry likely due to dirty contacts on
+HPCI Turbine Exhaust Vacuum Breaker inboard isolation valve hand switch. Key corrective actions include planned
+replacement of hand switch (HS15579). There were no actual consequences to the health and safety of the public as a result
+of this event.
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are Incorporated Into the licensing process and fed back to Industry. Send comments
+LICE NS EE EVE NT RE PORT { LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submisslon@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person Is not required to respond to, a collection of Information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/n ur egs/staff/sr1 022/r3D
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO.
+Unit 1 2021 001 00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 - Mode 1, approximately 75 percent Rated Thermal Power
+There were no structures, systems, or components that were inoperable at the start of the event that
+contributed to the event.
+EVENT DESCRIPTION
+On March 9, 2021 at approximately 03:13, during performance of quarterly High Pressure Coolant Injection
+System (HPCI) [EIIS System Code: BJ] valve exercising, dual indication was received in the control room for
+the HPCI Turbine Exhaust Vacuum Breaker inboard isolation valve (HV155F079) [EIIS Component Code:
+VACB] due to the valve failing to stroke fully closed on demand. Upon discovery of the condition, Operations
+entered Unit 1 Technical Specification (TS) 3.6.1.3, Condition A for one or more penetration flow paths with
+one Primary Containment Isolation Valve (PCIV) inoperable. The HPCI Turbine Exhaust Vacuum Breaker
+inboard isolation valve was then closed, resulting in unplanned inoperability of HPCI. At the time the condition
+was identified, Unit 1 was already in TS 3.5.1, Condition D, HPCI system inoperable, due to the planned
+surveillance testing. After the initial failure, operations personnel were dispatched to the valve and no issues
+were observed. The valve was successfully stroked open and closed within acceptance times. In addition,
+maintenance investigations observed and monitored the valve and valve closure circuitry during multiple
+subsequent valve strokes and no issues were noted. TS 3.6.1.3, Condition A was exited on March 10, 2021
+at approximately 18:13 and TS 3.5.1 was exited on March 10, 2021 at approximately 18:59.
+This event was reported by Event Notification 55128 in accordance with 10 CFR 50.72(b)(3)(v)(D). The
+condition is also being reported in accordance with 10 CFR 50. 73(a)(2)(v) as an event or condition that could
+have prevented fulfillment of a safety function.
+CAUSE OF EVENT
+The direct cause of the event was an intermittent break in the valve's close control circuitry likely due to dirty
+contacts on HPCI Turbine Exhaust Vacuum Breaker inboard isolation valve hand switch (HS15579).
+NRC FORM 366A (08-2020) Page _l_ of .1..
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatorY collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to indust(Y. Send comments
+LICE NS EE EVE NT RE PO RT ( LE R) regarding burden estimate to the FOIA, LlbrarY, and Information Collections Branch (T-6 A1 O M), U.S.
+CONTINUATION SHEET Nuclear RegulatorY Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and RegulatorY
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person Is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO.
+Unit 1 2021 001 00
+NARRATIVE
+ANALYSIS/SAFETY SIGNIFICANCE
+An engineering evaluation was completed to analyze the HPCI Turbine Exhaust Vacuum Breaker valve's
+failure to stroke closed. The turbine exhaust header is equipped with a three-inch tap that forms the turbine
+exhaust vent header. The vent header contains two primary containment isolation valves HV155F079
+(inboard) and HV155F075 (outboard). The open function of these valves supports HPCI operation and is not
+of concern since the valve successfully stroked open. The closure function of the valves supports primary
+containment isolation. Closure of any one valve is sufficient to achieve containment isolation. Review of the
+completed valve exercising surveillance determined valve HV155F075 (outboard) did successfully stroke
+closed and therefore would have performed the containment isolation function. With the containment isolation
+function successfully performed, the condition did not represent a safety system functional failure and all
+design requirements associated with the penetration continued to be met. Accordingly, this event will not be
+counted as a safety system functional failure in the Reactor Oversight Process Performance Indicators.
+There were no actual consequences to the health and safety of the public as a result of this event.
+CORRECTIVE ACTIONS
+Key corrective actions include planned replacement of the HPCI Turbine Exhaust Vacuum Breaker inboard
+isolation valve hand switch (HS15579).
+COMPONENT FAILURE INFORMATION
+Component Identification - HV155F079
+Component Name - HPCI Turbine Exhaust Inboard Vacuum Breaker Valve
+Valve Manufacturer - Anchor Darling
+Valve Type - 3" Flex Wedge Gate Valve
+Actuator Manufacturer - Limitorque Corporation
+Actuator Size - SMB-000
+PREVIOUS OCCURRENCES
+None.
+NRC FORM 366A (08-2020) Page,.1.of ,.1.

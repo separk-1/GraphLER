@@ -1,0 +1,211 @@
+(~ DUKE William R. Gideon
+Vice President
+ENERGY®
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport. NC 28461
+o: 910.832.3698
+10 CFR 50.73
+May 23, 2019
+Serial: RA-19-0220
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2019-002
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Jerry Pierce, Manager - Nuclear
+Support Services, at (910) 832-7931.
+; i J
+William R. Gideon
+SBY/sby
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 3
+4. Title
+Degraded Principal Safety Barrier, Technical Specification Shutdown, and Automatic System Actuation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+03 28 2019 2019 - 002 - 00 05 23 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Jerry Pierce, Manager – Nuclear Support Services (910) 832-7931
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+X AD CPLG R098 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 14:19 Eastern Daylight Time (EDT) on March 28, 2019, with Unit 1 in Mode 1 at approximately 100 percent power, drywell pressure
+and floor drain leakage began to increase. Operators proceeded with a controlled shutdown per procedures. The reactor was
+scrammed at 16:03 EDT to complete the shutdown. At 16:54 EDT, following the scram, Primary Containment Isolation System (PCIS)
+actuation occurred, closing the outboard Main Steam Isolation Valves (MSIVs) due to low condenser vacuum. Subsequently, Reactor
+Protection System (RPS) actuation occurred due to low reactor water level. The safety function of the MSIVs and RPS had already
+been completed. There was no impact on the health and safety of the public or plant personnel.
+This event was a result of a steam leak in the drywell caused by the failure of a 1-inch cryogenic pipe coupling. The failure was due to
+hydrogen embrittlement from long-term exposure to high temperature and elevated hydrogen levels. A Unit 1 and Unit 2 extent of
+condition evaluation was performed; susceptible cryogenic couplings were replaced with welded fittings.
+As a result of the Technical Specification-required shutdown, the valid actuations of PCIS and RPS, and the degradation of a principal
+safety barrier, this event is being reported in accordance with 10 CFR 50.73(a)(2)(i)(A), 10 CFR 50.73(a)(2)(iv)(A), and 10 CFR
+50.73(a)(2)(ii)(A) respectively.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000325 YEAR NUMBER NO.
+Unit 1
+2019 - 002 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent rated thermal power.
+Reportability Criteria
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(i)(A) because a Technical Specification-required shutdown was
+completed. Technical Specification Action 3.4.4.A, Unidentified Reactor Coolant System (RCS) [AD] leakage increase not within
+limit, requires RCS leakage to be reduced to within limits within 8 hours. The shutdown was required because the leakage would not
+have been reduced to within limits within the required Technical Specification Completion Time.
+In addition, this event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) because, subsequent to the shutdown, with
+the Unit in Mode 3 at 0 percent power, it involved actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B). Specifically, the outboard
+MSIVs [JM] automatically closed, per design, in response to low condenser vacuum, and RPS [JC] actuation occurred, per design,
+in response to low reactor water level.
+This event is also being reported in accordance with 10 CFR 50.73(a)(2)(ii)(A) because it was the result of a degraded principal
+safety barrier (i.e., the RCS pressure boundary [AD]). The steam leak in the drywell was caused by the failure of a 1-inch cryogenic
+pipe coupling located on the steam side of the reference leg for the N004B reactor level instruments which is part of the RCS
+pressure boundary.
+During this event the Unit 1 unidentified RCS leakage was greater than 10 gallons per minute (gpm) for greater than or equal to
+15 minutes and, as a result, an Unusual Event (UE) was declared. The NRC was notified of this per 10 CFR 50.72(a)(1)(i) via Event
+Notification number 53961 at 15:07 EDT on March 28, 2019.
+Event Description
+At 14:19 EDT on March 28, 2019, while operating at approximately 100 percent reactor power, the Brunswick Nuclear Plant Unit 1
+N004B narrow range reactor water level instrument (1-C32-LI-R606B) failed high, and drywell pressure and drywell floor drain
+leakage began to increase. Operators vented the drywell and proceeded with a controlled shutdown in accordance with procedures.
+The reactor was scrammed at 16:03 EDT to complete the shutdown.
+At 16:54 EDT, during implementation of post scram actions, actuation of PCIS occurred, closing the outboard MSIVs due to low
+condenser vacuum. The MSIVs had been manually closed, per procedure, during the shutdown evolution to control reactor pressure
+and were in the process of being reopened when actuation occurred. The inboard MSIVs had not been reopened when the isolation
+occurred. Subsequently, at 16:58 EDT, a RPS actuation occurred due to reactor water level dropping below the actuation setpoint
+due to the increased steam demand associated with equalizing and opening MSIVs. All control rods were already inserted at the
+time of the actuation. The safety function of both the MSIVs and RPS had already been completed.
+During the shutdown, the unidentified RCS leakage was greater than 10 gpm for greater than or equal to 15 minutes and a UE was
+declared in accordance with Brunswick Emergency Action Level SU 5.1. The UE was terminated at 02:59 EDT on March 29, 2019,
+once RCS leakage was reduced to less than 10 gpm.
+Event Cause
+Investigation revealed that a 1-inch cryogenic (Cryofit) pipe coupling on the steam side of the reference leg for the N004B reactor
+level instruments experienced a 360 degree circumferential separation at the approximate center of the coupling. This opened a
+path for steam from the reactor to leak into the drywell.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000325 YEAR NUMBER NO.
+Unit 1
+2019 - 002 - 00
+NARRATIVE
+Cryofit couplings are devices used to connect small bore piping (i.e., 1-inch nominal pipe size and less). Cryofit couplings are
+fabricated from a shape memory alloy material composed primarily of Nickel-Titanium-Iron (Tinel) which experiences a phase
+change at cryogenic temperatures. The Cryofit coupling design allows for in an interference fit that does not require welding.
+Examination of the failed coupling was conducted at the McGuire Island Metallurgical lab. Microhardness testing, visual microscopy,
+and scanning electron microscopy were used to characterize the failed material. The conclusion from these examinations is that the
+failure was caused by hydrogen embrittlement. This is supported by the transgranular cleavage on the fracture surface, high
+hardness values in the region exposed to the process fluid, and a hydrogen rich environment, which are all consistent with hydrogen
+embrittlement.
+The root cause of this event was that the selection of Tinel was inappropriate for long term application in a high temperature process
+that contains elevated hydrogen. The potential for hydrogen embrittlement of Cryofit couplings was not recognized when they were
+selected to be installed in reactor water level instrument lines (i.e., steam to condensing chamber). Information on the vulnerability of
+Tinel to hydrogen embrittlement was not available when the fittings were selected, which was in the 1980s. Accordingly, this is an
+historical (legacy) issue.
+Safety Assessment
+There was minimal safety consequence associated with this event. The reactor was safely shutdown in accordance with plant
+procedures, the RCS inventory level was not challenged, primary containment pressure was maintained below the Alert threshold,
+and the radiological release associated with venting containment was within Technical Specification limits.
+Corrective Actions
+The failed Unit 1 Cryofit coupling was replaced with a welded fitting. In addition, an evaluation was performed to address the
+couplings installed on both Unit 1 and Unit 2. Couplings exposed to reactor steam for many years may be susceptible to hydrogen
+embrittlement; therefore, couplings in these locations were removed and replaced with welded fittings.
+In addition to the aforementioned completed corrective actions, the following corrective actions are currently planned.
+• The Brunswick piping specification will be revised to restrict the use of Cryofit couplings to locations that are not subject to high
+temperatures and elevated hydrogen levels. This action is scheduled to be completed by July 25, 2019.
+• Hydrogen embrittlement of Cryofit couplings will be added to the Brunswick License Renewal Aging Management Program.
+This action is scheduled to be completed by September 26, 2019.
+Also, a procedure enhancement, associated with reopening MSIVs, has been initiated to address the automatic PCIS and RPS
+actuations.
+Any changes to corrective actions or completion schedules will be made in accordance with the site’s corrective action program.
+Previous Similar Events
+No events have occurred within the past three years in which inappropriate material selection resulted in a LER.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2018) Page 3 of 3

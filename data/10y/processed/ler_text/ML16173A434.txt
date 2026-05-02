@@ -1,0 +1,247 @@
+(l
+Xcel
+Energy®
+Prairie Island Nuclear Generating Plant
+1717 Wakonade Drive East
+Welch. MN 55089
+06/21/2016 L-PI-16-052
+10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Prairie Island Nuclear Generating Plant, Units 1 and 2
+Docket Nos. 50-282 and 50-306
+Renewed Facility Operating License Nos. DPR-42 and DPR-60
+Licensee Event Report 50-282/2016-004-00. Missing Fire Barrier Between Fire Area (FA) 59 and
+85 I Fire Hazard Analysis Drawings Do Not Match Boundary Description
+Northern States Power Company, a Minnesota corporation, doing business as Xcel Energy
+(hereafter "NSPM"), encloses Licensee Event Report (LER)
+50-282/2016-004-00, Missing Fire Barrier Between Fire Area (FA) 59 and 85/ Fire Hazard Analysis
+Drawings Do Not Match Boundary Description.
+If there is any question or if any additional information is needed, please contact
+Frank Sienczak, at 651-267-1740.
+Summary of Commitments
+This letter contains no new commitments and no changes to existing commitments
+Scott Northard
+Acting Site Vice President
+Prairie Island Nuclear Generating Plant
+Northern States Power Company-Minnesota
+Enclosures:
+cc: Regional Administrator, Region Ill, USNRC
+Project Manager, Prairie Island Nuclear Generating Plant, USNRC
+Resident Inspector, Prairie Island Nuclear Generating Plant, USNRC
+Department of Commerce, State of Minnesota
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) <¥\ EsUmated burden per response to comply with this mandatory collecUon request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+\.; .... r/ Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER)
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+(See Page 2 for required number of internet e-mail to lnfocollecls.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an informaUon collecUon does not display a currenlly valid
+OMB control number, the NRC may not conduct or sponsor, and a person is not required to respond
+to, the informaUon collection.
+1. FACILITY NAME 2. DOCKET NUMBER ~-PAGE
+Prairie Island Nuclear Generating Plant Unit 1 05000 282 1 OF4
+4. TITLE
+Missina Fire Barrier Between Fire Area (FA) 59 and 85/ Fire Hazard Analvsis Drawinas Do Not Match Boundarv Descriotion
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I SE N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR F P A r C a I i L r I i T e Y I N s A la M n E d Unit 2 D 0 O 5 C 0 K 0 E 0 T NU 3 M 0 B 6 E R
+FACILITY NAME DOCKET NUMBER
+04 21 2016 2016 -004 -00 06 21 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+Unit 1 Mode 1 D 20.2201(d) . D 20.2203(a)(3)(ii) ~ 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+Unit 2 Mode 1 D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D 20.2203(a)(2)(ii) D 50.36(c)(1)(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+Unit 1 100% D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+Unit 2 100% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) D 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT ~ELEPHONE NUMER (lndude Area Code)
+Frank Sienczak 651-267-1740
+13. COMPLETE ONE UNE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) -~NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April21, 2016, during a walkdown of fire barriers for the National Fire Protection Association (NFPA) 805 project, it was
+determined that the fire barrier between Fire Area (FA) 59 (Auxiliary Building Mezzanine Unit 1) and FA 85 (Holdup Tank/
+Demineralizer Area) is not a rated barrier due to unsealed combustible pathway penetrations in the barrier.
+The walkdown also identified that penetrations in the fire barriers between FA 68 (Unit 1 Annulus) and FA 60 (Auxiliary
+Building Operating Level Unit 1) , FA 68 and FA 61A (Auxiliary Building Hatch Area), FA 72 (Unit 2 Annulus) and FA 75
+(Auxiliary Building Operating Level Unit 2), and FA 72 and 61A are not sealed with fire rated materials.
+Both conditions were reported under 10 CFR 50. 73(a)(2)(ii)(B) as an unanalyzed condition that significantly degrades plant
+safety due to the missing fire barrier between redundant Appendix R safe shutdown trains.
+The apparent cause was determined to be that the Engineering Manual 3.4.2 does not require Appendix R program owner review of
+Fire Protection Engineering Evaluations that depend on Appendix R Safe Shutdown analysis.
+The corrective action is to revise the Engineering Manual 3.4.2 to require Appendix R review when the program is
+impacted.
+NRC FORM 366 (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+I
+YEAR I SEQUENTIAL REV
+Prairie Island Nuclear Generating Plant 05000-282 NUMBER NO.
+Unit 1 2016 -004 -00
+NARRATIVE
+BACKGROUND
+The original Fire Hazards Analysis (FHA) was submitted to the NRC with drawings that show the walls (between Fire Area
+(FA) 59 & 85, 74 & 85, FA 68 & 60, FA 72 & 75, 68 & 61A, 72 & 61A) are fire area boundaries.
+[Northern States Power (NSP)-NRC Fire Hazards Analysis report dated March 11, 1977]
+Sections 3.1.1 (2) through (4) of the Fire Protection Safety Evaluation Report (SER) require fire barrier modifications to
+upgrade penetration seals in various plant areas, to install qualified seal designs in the future, and to replace or modify
+existing seals which contain polyurethane foam.
+[NRC Safety Evaluation Report dated September 6, 1979]
+In response to the requirements above from the September 6, 1979, NRC SER, NSP committed to review and upgrade
+seals as necessary, to use 3-hour rated seal designs for new seals and to upgrade seals in specific areas. Among the
+areas listed were the Elevation 735' Auxiliary Building barriers shared with Turbine Building and Hatch Area (FA 61)
+barriers shared with parts of the Auxiliary Building. The barriers that are the subject of this event were not included in the
+list of areas where seals would be upgraded. The details of the penetration seal upgrades laid out in the November 30,
+1979, letter was accepted in NRC SER dated April21, 1980.
+[NSP letter to the NRC dated November 30, 1979; NRC Safety Evaluation Report dated April21, 1980]
+Revision 12 to the FHA updated the FHA Boundary drawings to reflect boundaries discussed in licensing correspondence
+and the results of the Safe Shutdown Analysis (GEN-PI-026 Rev.1 dated December 15, 1997, and F5 App E Rev. 4). The
+FHA drawings were updated to remove and add Appendix R barriers. The barriers between FA 59 & 85, FA 74 & 85, FA
+68 & 60, FA 72 & 75, FA 68 & 61A and FA 72 & 61A were not addressed in the FHA or Safety Evaluation 502.
+[Safety Evaluation (SE) 502, F5 Appendix F Rev.12- Fire Hazards Analysis dated March 12, 1999]
+On August 16, 2012, Fire Protection Engineering Evaluation (FPEE) 12-006 Rev. 1 was completed. The FPEE evaluated
+the fire area boundaries between FA 85 and FA 59. The evaluation concludes that the fire area boundary is not required
+for separation of safe shutdown equipment therefore the barrier is acceptable as is.
+The safe shutdown analysis section of the FPEE states, "All the cabling for required equipment in FA 85, except for CV-
+31198, is also routed in FA 59. FA 59 does not contain cabling for the component redundant to CV-31198. As such, fire
+safe shutdown capability is identical between FA 59 and FA 85 for the identified components and there is no impact on
+fire safe shutdown capability should a fire spread between FA 59 and FA 85." The methodology used to justify the
+condition was inappropriate because it considered availability of safe shutdown components in the fire area instead of
+availability of the entire safe shutdown train.
+The evaluation was prepared in accordance with Engineering Manual 3.4.2 which provides guidelines for completing
+FPEEs in accordance with NRC Generic Letter 86-10. The preparer and reviewer were assigned in accordance with the
+procedure which does not require an Appendix R program owner to review FPEEs. An Appendix R program owner review
+would have identified that the evaluation was not consistent with the Appendix R Safe Shutdown Analysis.
+[FPEE 12-006; AR 1311038-03 Evaluate change to F5 App K barrier]
+NRC FORM 366 (11-2015)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-1 0202, (3150-01 04), Office of Management and Budget, Washington, DC 20503. tf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY.NAME 2. DOCKET NUMBER 3. LERNUMBER
+l
+YEAR SEQUENTIAL I REV
+Prairie Island Nuclear Generating Plant NUMBER NO.
+05000-282
+Unit 1
+2016 -004 -00
+DESCRIPTION OF EVENT
+At the time of discovery, both units were operating in Mode 1 at 100 percent power. There were no other structures,
+systems or components inoperable that contributed to the condition.
+On April21, 2016, walkdowns were performed to support the NFPA 805 License Amendment Request. Specifically, fire
+barriers that will be credited for the NFPA 805 licensing basis that were not credited for Appendix R separation were
+inspected to identify required upgrades. During review of the fire barrier between FA 59 (Auxiliary Building Mezzanine Unit
+1) I FA 74 (Auxiliary Building Mezzanine Unit 2) and FA 85 (Holdup Tank/ Demineralizer Area), the vendor questioned the
+conclusion of FPEE 12-006, which states that the fire barrier between FA 59 and 85 is not required for separation of
+Appendix R safe shutdown equipment.
+The walkdowns also identified that the fire barriers identified in the FHA drawing for FAs 68 and 72 do not agree with the
+boundary description in the FHA for each fire area. The FHA drawing shows the FA 68 Containment Annulus Unit 1) and
+FA 72 (Containment Annulus Unit 2) boundary as the shield building wall up to the containment airlock. The descriptions
+in the FHA show the boundary between FA 68 (Unit 1 Annulus) and FA 60 (Auxiliary Building Operating Level Unit 1) , FA
+68 and FA61A (Auxiliary Building Hatch Area), FA 72 (Unit 2 Annulus) and FA 75 (Auxiliary Building Operating Level Unit
+2), and FA 72 and 61A at the shield building vent zone boundary since the personnel and maintenance airlock doors are
+listed as part of the boundary. The annulus airlock doors are 3-hour fire rated and the airlock is constructed of concrete
+thick enough to qualify as a 3-hour fire barrier; however, there are unnumbered penetrations 1 in the barrier that have not
+been sealed with fire rated materials.
+The fire barriers above were evaluated and it was determined that the fire barriers between FA 59 & 85, FA 68 & 60, FA
+68 & 61A, FA 72 & 75 and FA 72 and 61A separate redundant Appendix R safe shutdown trains. The fire barrier between
+74 and 85 does not separate redundant Appendix R safe shutdown trains.
+On April 21, 2016, at 2303 CST this condition was reported to the NRC in EN# 51877.
+EVENT ANALYSIS
+This condition is being submitted in accordance with 10 CFR 50.73(a)(2)(ii)(B) as an "Unanalyzed Condition That
+Significantly Degrades Plant Safety" due to a missing fire barrier between redundant trains of Appendix R safe shutdown
+equipment. As a result of the non-functional fire barrier, a fire in one area could propagate to the adjacent fire area.
+SAFETY SIGNIFICANCE
+PINGP has procedures and controls in place to minimize the likelihood and severity of fires occurring, and a significant fire
+impacting the ability to safely shutdown did not occur. This is a postulated event and there were no nuclear,
+environmental, radiological or industrial safety consequences related to this event.
+The postulated fire scenarios for FA 59 and 85, 60 and 68, 75 and 72, require that a significant fire of sufficient size and
+intensity to propagate between the fire areas. The in-situ combustible loading in FA 59, 60 and 75 is low and is primarily
+IEEE-383 qualified electrical cable insulation. The combustible loading in FA 85, 68 and 72 is very low. The combustible
+loading in Fire Area 61A is low except during outages when it is frequented by personnel. The walls, albeit with unrated
+penetrations, continue to provide some fire confinement of a postulated fire and fire detection is available on one side of
+each of these barriers in Fire Areas 59, 74, 60, 75, and 61A, to initiate a prompt response by the fire brigade.
+1
+(1EEE Code- PEN)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+I
+YEAR I SEQUENTIAL REV
+Prairie Island Nuclear Generating Plant 05000-282 NUMBER NO.
+Unit 1 2016 -004 -00
+The fire modeling performed to support the Fire PRA for the NFPA 805 LAR indicates that a hot gas layer would not be
+developed in Fire Compartment 59GRP (Fire Areas 59 and 74), Fire Compartment 85, Fire Compartment 60, Fire
+Compartment 75, Fire Compartment 68, Fire Compartment 72 or Fire Compartment 4GRP (which includes Fire Area
+61A). Based on this information, the risk of a fire propagating between these areas is low. Therefore, the overall risk to the
+site is very low.
+CAUSE
+Apparent Cause
+Engineering Manual (EM) 3.4.2 does not require Appendix R program owner review of FPEEs dependent on Appendix R analysis.
+Contributing Causes
+• The scope of fire barrier upgrades was determined based on protection of safety related equipment and fire loading
+adjacent to fire barriers instead of Appendix R separation.
+• The risk of introducing errors was not assessed during the pre-job brief and Subject Matter Expert review was not
+obtained.
+CORRECTIVE ACTION
+Immediate Actions
+For compensatory measures a fire watch was established for the fire barrier impairments per F5 Appendix K,
+Fire Protection System Functional Requirements.
+Corrective Actions
+• Engineering Change Request (ECR) 8790 submitted to upgrade 13 penetration seals. The ECR has been reviewed in
+ECR Screening and approved to be a Work Order (WO) Modification.
+• Revise safe shutdown analysis in FPEE 12-006
+• Track Procedure Change Request (PCR) for F5 Appendix F- airlock penetrations
+• Track Resolution for the Operation Status Non-Functional (OSNF) OPS Status
+Corrective Actions to Preclude Repetition (CAPR)
+The corrective action is to revise the Engineering Manual 3.4.2 to require Appendix R review when the program is
+impacted.
+PREVIOUS SIMILAR EVENTS
+LER 50-282/2014-006-00, identified a missing fire barrier. The missing fire barrier is related to separation of redundant
+pressurizer heater cables credited for safe shutdown in FA 32 (Unit 1, Train 8 Aux Feedwater Pump Room).
+The cause of the foam material in the seismic joint seals is consistent with the cause identified in Root Cause Evaluation
+for "Aux Feedwater Pump Room Penetration Left Unsealed Without Compensatory Measures," which was due to lack of
+rigor in the 1979 design change.
+The corrective action had the combustible foam material in the seismic gap seals replaced with fire rated material by
+implementation of a design change with work orders.
+NRC FORM 366 (11-2015)

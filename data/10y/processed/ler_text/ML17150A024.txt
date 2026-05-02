@@ -1,0 +1,289 @@
+TennesseeValleyAuthority, PostOfficeBox2000, Decatur,Alabama35609-2000
+May 30, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 2
+Renewed Facility Operating License No. DPR-52
+NRC Docket No. 50-260
+Subject: Licensee Event Report 50-260/2017-003-00
+The enclosed Licensee Event Report provides details of a manual reactor scram initiated
+during startup due to multiple rods inserting. The Tennessee Valley Authority is submitting
+this report in accordance with Title 10 ofthe Code of Federal Regulations
+50.73(a)(2)(iv)(A), any event or condition that resulted in a manual or automatic actuation
+ofthe Reactor Protection System.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact M. W. Oliver, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+ctfully,
+S.M.
+Site
+Enclosure: Licensee Event Report 50-260/2017-003-00 Manual Reactor Scram Initiated
+-
+During Startup Due to Multiple Rods Inserting
+cc (w/ Enclosure):
+NRC Regional Administrator Region II
+-
+NRC Senior Resident Inspector Browns Ferry Nuclear Plant
+-
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 2
+Licensee Event Report 50-260/2017-003-00
+Manual Reactor Scram Initiated During Startup Due to Multiple Rods Inserting
+See Enclosed
+NRCFORM366 U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+/' ' Reported lessons learned are incorporated into the licensing process and fed back to industry.
+.j. I Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001 or by e-mail to Infocollects.
+Resoarce@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1.FACILITYNAME 2.DOCKETNUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 2 05000260 1 OF 5
+4.TITLE
+Manual Reactor Scram Initiated During Startup Due to Multiple Rods Inserting
+5. EVENTDATE 6. LERNUMBER 7. REPORTDATE 8.OTHERFACILITIESINVOLVED
+FACILITYNAME DOCKETNUMBER
+MONTH DAY YEAR YEAR SEt'UENTIAL REV MONTH DAY YEAR N/A
+NUMBER NO. N/A
+FACUJTYNAME DOCKETNUMBER
+03 29 2017 2017 -003 -00 05 30 2017
+aOPERA11NGMODE 11.ThIsREPORTISSUBMITFEDPURSUANTTOThEREQUIREMENTSOF10CFR:(Checkallthatapply)
+o
+20.2201(b) 0 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) 0 5O73(a)(2)(viii)(A)
+2 0 20.2201(d) 0 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) 0 50.73(a)(2)(viii)(B)
+o
+20.2203(a)(1) El 20.2203(a)(4) 0 50.73(a)(2)(iii) 0 50.73(a)(2)(ix)(A)
+o
+20.2203(a)(2)(i) 0 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 0 50.73(a)(2)(x)
+____________________ 10.POWERLEVEL 0 20.2203(a)(2)(ii) 0 50.36(c)(1)(ii)(A) 0 50.73(a)(2)(v)(A) 0 73.71(a)(4)
+o
+20.2203(a)(2)(iii) 0 50.36(c)(2) 0 50.73(a)(2)(v)(B) 0 73.71(a)(5)
+000 0 20.2203(a)(2)(iv) 0 50.46(a)(3)(ii) El 50.73(a)(2)(v)(C) 0 73.77(a)(1)
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) 0 50.73(a)(2)(v)(D) 0 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) 0 50.73(a)(2)(vU) 0 73.77(a)(2)(ii)
+U 50.73(a)(2)(i)(C) 0 OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACTFORTHIS LER
+LICENSEECONTACT TELEPHONENUMBER(IncludeAreaCode)
+Ryan Coons, Licensing Engineer 56-729-2070
+13.COMPLEFEONEUNEFOREACHCOMPONENTFAAJLUR DESCRIBEDINThISREPORT
+REPORTABLE REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER FACTURER
+B JC AMP G080 Y B JC 57 G080 Y
+14.SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+LI YES (Ifyes,complete 15. EXPECTEDSUBMISSIONDATE) II NO SUBMSION N/A N/A N/A
+BSTRACT(Limitto1400spaces,i.e.,approxImately15single-spacedtypewrittenlines)
+On March 29, 2017, at 1842 Central Daylight Time (CDT), during Unit 2 start-up, Operations personnel received
+annunciators for an Intermediate Range Monitor (IRM) Downscale and a Control Rod Withdrawal Block.
+Operations personnel noticed that IRM 'G' was reading downscale and adjusted the range down one position
+with no immediate reaction. At 1844 CDT, an upscale spike on IRM 'G' caused a half scram on Reactor
+Protection System (RPS) 'A' trip system. Afterverifying that the IRM 'G' High-High trip signal was cleared,
+Operations personnel reset the half scram on RPS 'A'. An immediate, concurrent trip signal from IRM 'F' was
+then received on the RPS 'B' trip system, resulting in multiple rods inserting into the core. When Operations
+personnel identified multiple rods inserting, a manual reactor scram was inserted at 1844 CDT.
+The root cause was determined to be a lack of performing electromagnetic and radio-frequency interference
+noise testing to detect nuclear instrumentation abnormalities.
+Corrective Action to Prevent Recurrence is to perform routine pre-outage and outage-related preventive
+maintenance tasks for noise-induced cable teststo verifythe noise has been removed.
+NRCFORM366 (04-2017)
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burdenperresponsetocomplywiththismandatorycollectionrequest: 80hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry, Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocoIlects.Resourcenrc.gov,andtotheDeskOfficer, OfficeofInformation and RegulatoryAffairs,
+NEOB-10202, (3150-0104), OfficeofManagementand Budget, Washington, DC20503. Ifa means
+usedtoimposean informationcollectiondoes notdisplayacurrentlyvalid 0MBcontrol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME I 2. DOCKETNUMBER I 3. LERNUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 2 05000-260
+2017 -003 -00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 2, was in Mode 2 at zero percent
+power, after completing a refueling outage.
+II. Description of Event
+A. Event Summary
+On March 29, 2017, at 1842 Central Daylight Time (CDT), during Unit 2 start-up, Operations
+personnel received annunciators for an Intermediate Range Monitor (IRM) Downscale and a Control
+Rod Withdrawal Block. Operations personnel noticed that IRM 'G' was reading downscale and
+adjusted the range down one position with no immediate reaction. At 1844 CDT, an upscale spike
+on IRM 'G' caused a halfscram on Reactor Protection System (RPS) 'A' trip system. Afterverifying
+that the IRM 'G' High-High trip signal was cleared, Operations personnel reset the half scram on
+RPS 'A'. An immediate, concurrent trip signal from IRM 'F' was then received on the RPS 'B' trip
+system, resulting in multiple rods inserting into the core. When Operations personnel identified
+multiple rods inserting, a manual reactor scram was inserted at 1844 CDT.
+B. Status ofstructures, components, or systems thatwere inoperable at the start ofthe event
+and that contributed to the event
+There were no structures, systems, or Components whose inoperability contributed to this event.
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+March 29, 2017, BFN, Unit 2, achieved criticality, as part of startup activities.
+at 1651 CDT
+March 29, 2017, Operations personnel received annunciators for an IRM
+at 1842 CDT Downscale and a Control Rod Blockfor IRM 'G' and
+adjusted the range down one position for IRM 'G'.
+March 29, 2017, lRM 'G' read upscale when ranged down, resulting in an
+at 1844 CDT unexpected half scram on RPS 'A'. The IRM reading
+stabilized at this highervalue. Operations personnel reset
+the halfscram on RPS 'A' and a trip signal from IRM 'F' was
+received on the RPS 'B' trip system, resulting in multiple
+rods inserting into the core. When Operations personnel
+identified multiple rods inserting, a manual reactor scram
+was inserted.
+NRCFORM366A(04-2017) Page 2 of 5
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION IAPPROVEDBY0MB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden perresponsetocomplywiththismandatorycollectionrequest: 80hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, andtotheDeskOfficer, OfficeofInformation and RegulatoryAffairs,
+NEOB-10202, (3150-0104), Office ofManagementand Budget, Washington, DC 20503. Ifa means
+usedtoimposeaninformationcollectiondoes notdisplayacurrentlyvalid 0MBcontrol number,the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+I 1. FACILITYNAME I 2. DOCKETNUMBER I 3. LERNUMBER I
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 2 05000-260
+2017 003
+-
+D. Manufacturer and model number of each componentthatfailed during the event
+The failed component was a General Electric pre-amplifier, manufacturer part number
+112C2218G001.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected by this event.
+F. Method ofdiscovery ofeach component or system failure or procedural error
+Operations personnel received annunciators, IRM Downscale and Control Rod Withdrawal Block, fo
+IRM 'G'. Additionally, when Operations personnel were directed to reset RPS 'A', multiple rods were
+inserting into the core.
+G. The failure mode, mechanism, and effect ofeach failed component
+A faulty pre-amplifier [AMP] gave the IRM 'G' the appearance of a low signal. When the lRM 'G'
+experienced a spike on this new setting, it caused a half scram.
+The faulty high-voltage connector [57] and degraded grounding inside ofthe IRM 'F' drawer allowed
+for spurious signals induction from adjacent and/or overlapping cables.
+H. Operator actions
+After a spike on IRM 'G' caused a halfscram on the RPS 'A' trip system, Operations personnel
+verified that no trip condition was present, and manipulated the RPS 'A' scram reset switch. When
+resetting RPS 'A', a spurious IRM 'F' signal caused a half scram on RPS 'B' system. This caused
+multiple rods to insert into the core, requiring Operations personnel to manually scram the reactor.
+I. Automatically and manually initiated safety system responses
+Operations personnel inserted a manual reactor scram upon noticing multiple rods inserting into the
+reactor.
+Ill. Cause ofthe event
+A. Cause ofeach component or system failure or personnel error
+The root cause was determined to be a lack of performing electromagneticand radio-frequency
+interference noise testing to detect abnormalities in nuclear instrumentation.
+NRCFORM366A(04-2017) Page 3 of 5
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest: 80hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (1-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocoIlects.Resource@nrc.gov, andtotheDeskOfficer, OfficeofInformation and RegulatoryAffairs,
+NEOB-10202, (3150-0104), Office ofManagementand Budget, Washington, DC 20503. Ifa means
+usedtoimposeaninformationcollectiondoes notdisplayacurrentlyvalid 0MBcontrol number,the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME I 2. DOCKETNUMBER I 3. LERNUMBER
+YEAR I SE N Q U U M E B N E T R IAL I I R N E O V . I I
+I
+Browns Ferry Nuclear Plant, Unit 2 05000-260
+2017 003 -00
+-
+B. Cause(s) and circumstances for each human performance related root cause
+There were no human performance related root causes associated with this event.
+IV. Analysis ofthe event
+The Tennessee Valley Authority (WA) is submitting this event in accordance with Title 10 ofthe Code
+of Federal Regulations 50.73(a)(2)(iv)(A), any event or condition that resulted in a manual or automatic
+actuation ofthe RPS. The condition was discovered on March 29, 2017, when IRM 'C' appeared to have a
+downscale signal, from whatwas later determined to be a result ofa pre-amplifierfailure. Upscaling the IRM
+'G' caused an RPS 'A' halfscram. Signal noise from the RPS 'A' scram reset switch inadvertently induced a
+currentthrough a faulty high voltage connector on IRM 'F'. This spurious current spike on IRM 'F' tripped a
+RPS 'B' half-scram signal, before the 'A' signal had cleared. Upon noticing control rod motion, Operations
+personnel were procedurally required to insert a manual reactor scram, which constitutes a reportable event.
+V. Assessment ofSafety Consequences
+This event resulted in the manual actuation of a safety system. This event did not result in the
+inoperability or unavailability of any system to provide their required safety functions. No Emergency
+Core Cooling Systems [BC] [BJ] [BO] or Reactor Core Isolation Cooling [BN] reactorwater level
+initiation set points were reached. Primary Containment Isolation Systems did not receive an actuation
+signal and performed as designed. All safety systems remained in standby readiness configuration and
+were capable of performing their required safety functions. Therefore, this condition had a negligible
+impact on the health and safety ofthe public.
+A. Availability ofsystems or components that could have performed the same function as the
+components and systems thatfailed during the event
+Each RPS train had three additional IRMs which remained operable throughout this event.
+B. For events that occurred when the reactorwas shut down, availability ofsystems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences ofan accident
+Safety system availability was not impacted by this event.
+C. Forfailure that rendered a train of a safety system inoperable, estimate ofthe elapsed time
+from discovery ofthe failure until the train was returned to service
+Safety system operability was not impacted by this event.
+NRCFORM366A(04-2017) Page 4 of 5
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBY0MB: NO.3150-0104 EXPIRES: 3131/2020
+(04-2017)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects,Resourcenrc.gov, andtotheDeskOfficer, OfficeofInformationand RegulatoryAffairs,
+NEOB-10202, (3150-0104), OfficeofManagementand Budget, Washington, DC20503. Ifameans
+usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid 0MBcontrol number,the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITYNAME I 2. DOCKE1 NUMBER I a LERNUMBER
+YEAR I SEQUENTIAL REV I I
+NUMBER I No.
+I
+Browns Ferry Nuclear Plant, Unit 2 05000-260
+2017 003 -00
+-
+VI. Corrective Actions
+CorrectiveActions are being managed by IVA's corrective action program under Condition Report
+(CR) 1278595.
+A. Immediate Corrective Actions
+Troubleshooting was performed priorto re-commencing startup. During that effort, the high voltage
+connector in the IRM 'F' drawerwas replaced, and the IRM 'G' pre-amplifierwas replaced and its
+range switch was correlated.
+B. Corrective Actions to Prevent Recurrence orto reduce the probability ofsimilar events
+occurring in the future
+CorrectiveAction to Prevent Recurrence is to perform routine pre-outage and outage-related preventive
+maintenance tasks for noise-induced cable teststo verifythe noise has been removed.
+VII. Previous Similar Events atthe Same Site
+As described in CR 558437, a similar event occurred on May 24, 2012, at BFN, Unit 3, during startup
+following a refueling outage. Troubleshooting activities identified that lRM 'A' and Source Range
+Monitors (SRMs) 'A', 'C' and 'D' received period alarms due to scram reset switch actuation with a half
+scram signal. The subsequent investigation revealed that a high voltage cable in the IRM 'A' main
+control room drawer had a broken insulating shield, and that the scram reset switch induced electronic
+noise on the control room common ground. The high impedance ofthe ground, acting through this
+degraded connector, caused an electronic spike on IRM 'A', leading to a RPS 'A' actuation while
+Operations personnel reset a previous RPS 'B' half-scram signal, resulting in a halfscram.
+Corrective maintenance involved adding ferrite beads to the SRM ground wires and to the reset switch
+ground wire. It was determined that the Unit 3 IRM 'A' and SRMs were only vulnerable to scram reset
+switch noise when actually resetting a valid halfscram. To prevent recurrence, a significant number of
+connectors were repaired or replaced on all three units. However, these efforts did not focus on finding
+the noise causes, and were insufficientto prevent recurrence. While nuclear instrumentation is largely
+standardized, there can be unforeseen problems, especially as components degrade or are replaced
+overtime.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+NRCFORM366A(04-2017) Page 5 of 5

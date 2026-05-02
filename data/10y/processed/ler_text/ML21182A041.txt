@@ -1,0 +1,196 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504
+ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+Attn: Document Control Desk 10 CFR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388/2017-010-02
+UNIT 2 LICENSE NO. NPF-22
+PLA-7951 Docket No. 50-388
+Attached is the second supplement to Licensee Event Report (LER) 50-388/2017-010
+that reported an event involving drifting of Reactor Pressure Steam Dome - Low pressure
+switches (Microswitch 2). The condition was reported as a condition prohibited by
+Technical Specifications in accordance with 10 CFR 50.73(a)(2)(i)(B), a condition that
+could have prevented fulfillment of a safety function in accordance with 10 CFR
+50.73(a)(2)(v)(D), a common cause inoperability of independent trains or channels in
+accordance with 10 CFR 50.73(a)(2)(vii), and a single cause that could have prevented
+fulfillment of safety functions of trains or channels in different systems in accordance
+with 10 CFR 50.73(a)(2)(ix)(A). The reason for this supplement is a revised causal
+analysis that resulted in a modification to the cause and associated corrective actions.
+There were no actual consequences to the health and safety of the public as a result of
+this event.
+Attachment: LER 50-388/2017-010-02
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station 2 05000388 1 of 3
+4. Title Condition Prohibited by Technical Specifications Due to Drift of Reactor Pressure Switches
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+12 05 2017 2017 010 02 07 01 2021
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 ☐ 20.2203(a)(2)(vi) ☐ 50.36(c)(2) ☐ 50.73(a)(2)(iv)(A) ☐ 50.73(a)(2)(x)
+☐ 20.2201(b) ☐ 20.2203(a)(3)(i) ☐ 50.46(a)(3)(ii) ☐ 50.73(a)(2)(v)(A) 10 CFR Part 73
+☐ 20.2201(d) ☐ 20.2203(a)(3)(ii) ☐ 50.69(g) ☐ 50.73(a)(2)(v)(B) ☐ 73.71(a)(4)
+☐ 20.2203(a)(1) ☐ 20.2203(a)(4) ☐ 50.73(a)(2)(i)(A) ☐ 50.73(a)(2)(v)(C) ☐ 73.71(a)(5)
+☐ 20.2203(a)(2)(i) 10 CFR Part 21 ☒ 50.73(a)(2)(i)(B) ☒ 50.73(a)(2)(v)(D) ☐ 73.77(a)(1)(i)
+☐ 20.2203(a)(2)(ii) ☐ 21.2(c) ☐ 50.73(a)(2)(i)(C) ☒ 50.73(a)(2)(vii) ☐ 73.77(a)(2)(i)
+☐ 20.2203(a)(2)(iii) 10 CFR Part 50 ☐ 50.73(a)(2)(ii)(A) ☐ 50.73(a)(2)(viii)(A) ☐ 73.77(a)(2)(ii)
+☐ 20.2203(a)(2)(iv) ☐ 50.36(c)(1)(i)(A) ☐ 50.73(a)(2)(ii)(B) ☐ 50.73(a)(2)(viii)(B)
+☐ 20.2203(a)(2)(v) ☐ 50.36(c)(1)(ii)(A) ☐ 50.73(a)(2)(iii) ☒ 50.73(a)(2)(ix)(A)
+☐ Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+C. E. Manges, Jr., Principle Engineer – Nuclear Regulatory Affairs (570) 542-3089
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JE PS GE/Cameron Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+☒ No ☐ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On December 5, 2017, the Unit 2 “C” and Unit 2 “D” Reactor Steam Dome Pressure – Low permissive pressure switches,
+Microswitch 2 (SW2), were found outside of the Technical Specification (TS) 3.3.5.1 allowable value. Both drifted outside of
+the upper allowable value which is intended to ensure that the reactor dome pressure has fallen to a value below the Core
+Spray and Residual Heat Removal (RHR)/Low Pressure Coolant Injection (LPCI) maximum design pressures to preclude
+over-pressurization of the low pressure systems prior to low pressure injection initiation.
+Based on the information available, the condition existed for longer than allowed by TS 3.3.5.1 and TS 3.5.1. As such, this is
+a condition prohibited by TS and is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B). This is also considered a
+common cause inoperability of independent trains or channels (10 CFR 50.73(a)(2)(vii)), a condition that could have
+prevented fulfillment of a safety function (10 CFR 50.73(a)(2)(v)(D)), and a single cause that could have prevented fulfillment
+of safety functions of trains or channels in different systems (10 CFR 50.73(a)(2)(ix)(A)).
+The cause was determined to be instrument setpoint drift due to temperature/humidity changes and mechanical hysteresis as
+a result of the original design inputs not accounting for temperature and humidity effects on the switch. Interim compensatory
+actions include performing calibration using the quarterly calibration procedures every 45 days on Unit 1 and every 30 days
+on Unit 2. Final corrective action will revise the allowable value for TS 3.3.5.1, Functions 1.c, 1.d, 2.c, and 2.d.
+There were no actual consequences to the health and safety of the public as a result of this event.
+N RC FORM 366 (08-2020)
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSIONAPPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-388 NUMBER NO.
+Unit 2 2017 010 02
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 – Mode 1, approximately 100 percent Rated Thermal Power
+There were no structures, systems, or components that were inoperable at the start of the event that
+contributed to the event.
+EVENT DESCRIPTION
+Susquehanna Steam Electric Station (SSES) had been utilizing International Telephone and Telegraph
+(ITT)-Barton 288A pressure switches in the Reactor Steam Dome Pressure – Low channels that provide the
+injection permissive for the Core Spray system [EIIS System Identifier: BM] (Technical Specification (TS)
+3.3.5.1, Function 1d) and the Residual Heat Removal (RHR)/Low Pressure Coolant Injection system (LPCI)
+[EIIS System Identifier: BO] (TS 3.3.5.1, Function 2d). Each pressure switch has two microswitches, low
+(SW1) and high (SW2). All eight obsolete ITT-Barton 288A pressure switches were replaced with General
+Electric (GE) recommended Cameron-Barton 288A pressure switches between September 6, 2017 and
+November 15, 2017. The Cameron Barton 288A switches were bench tested prior to installation and
+calibration checked at the time of installation. Subsequent calibration checks were performed at intervals
+more frequent than the quarterly TS required calibrations. During these subsequent calibration checks,
+SW2 of the Unit 2 “C” (PIS-B21-2N021C) and Unit 2 “D” (PIS-B21-2N021D) pressure switches [EIIS
+System/Component Identifier: JE/PS], were found outside of the TS allowable value. A timeline of events is
+as follows:
+September 20, 2017 - the obsolete ITT-Barton 288A pressure switch for PIS-B21-2N021C was replaced
+with a GE recommended Cameron-Barton 288A pressure switch.
+October 9, 2017 - the obsolete ITT-Barton 288A pressure switch for PIS-B21-2N021D was replaced with a
+GE recommended Cameron-Barton 288A pressure switch.
+October 20, 2017 - PIS-B21-2N021C and PIS-B21-2N021D were calibration checked and were found within
+the TS allowable value.
+December 5, 2017 - PIS-B21-2N021C and PIS-B21-2N021D were found outside of the TS allowable value
+during the calibration check. Both drifted outside of the upper allowable value which is intended to ensure
+that the reactor dome pressure has fallen to a value below the Core Spray and RHR/LPCI maximum design
+pressures to preclude over-pressurization of the low pressure systems prior to low pressure injection
+initiation. PIS-B21-2N021C exceeded the TS allowable value by 1.3 psi. PIS-B21-2N021D exceeded the
+TS allowable value by 2.8 psi. Both switches were adjusted to within the TS allowable value.
+After submitting LER 50-388/2017-010-00, two additional instances of drift outside of the TS allowable value
+were identified. Specifically, the Unit 1 “B” (PIS-B21-1N021B) switch was found outside the TS allowable
+value on June 5, 2018 and the Unit 2 “C” (PIS-B21-2N021C) switch was again found outside of the TS
+allowable value on June 6, 2018. These conditions are addressed in LER 50-387(388)/2018-005.
+Page 2 of 2
+NRC FORM 366A (08-2020)
+.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSIONAPPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-388 NUMBER NO.
+Unit 2 2017 010 02
+NARRATIVE
+Based on the information available, the condition existed for longer than allowed by TS 3.3.5.1 and TS
+3.5.1. As such, this is a condition prohibited by TS and is being reported in accordance with 10 CFR
+50.73(a)(2)(i)(B). In addition, since two Unit 2 channels were outside of the TS allowable values and
+impacted both Core Spray and LPCI functions, this is also considered a common cause inoperability of
+independent trains or channels (10 CFR 50.73(a)(2)(vii)), a condition that could have prevented fulfillment of
+a safety function (10 CFR 50.73(a)(2)(v)(D)), and a single cause that could have prevented fulfillment of
+safety functions of trains or channels in different systems (10 CFR 50.73(a)(2)(ix)(A)).
+CAUSE OF EVENT
+The direct cause was determined to be instrument setpoint drift due to temperature/humidity changes and
+mechanical hysteresis. The apparent cause involved the original design inputs not accounting for
+temperature and humidity effects on the switch.
+ANALYSIS/SAFETY SIGNIFICANCE
+An engineering evaluation concluded that all components in the RHR/LPCI and Core Spray would have
+been able to withstand a pressure of 457.8 psig, which was the maximum recorded pressure for the
+instrument drift. Therefore, Core Spray and RHR/LPCI would have been able to perform their safety
+function. This event will not be counted as a safety system functional failure for the NRC performance indicator
+based on the engineering analysis that shows there was no loss of ability to fulfill the safety function.
+CORRECTIVE ACTIONS
+Interim compensatory actions include performing calibration using the quarterly calibration procedures every
+45 days on Unit 1 and every 30 days on Unit 2.
+Final corrective action will revise the allowable value for TS 3.3.5.1, Functions 1.c, 1.d, 2.c, and 2.d.
+COMPONENT FAILURE INFORMATION
+The switches that drifted are Cameron-Barton 288A pressure indicating switches manufactured by
+Cameron.
+PREVIOUS SIMILAR EVENTS
+LER 50-388(387)/2015-001-01, “Condition Prohibited by Technical Specifications Due to Drift of Reactor
+Pressure Steam Dome-Low Switches”, dated February 10, 2016.
+LER 50-387(388)/2018-005-01, “Condition Prohibited by Technical Specifications Due to Drift of Reactor
+Pressure Switches”, dated December 16, 2019.
+Page 3 of 3
+NRC FORM 366A (08-2020)
+.

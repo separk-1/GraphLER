@@ -1,0 +1,475 @@
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+ 
+LICENSEE EVENT REPORT (LER) 
+ 
+APPROVED BY OMB:  NO. 3150-0104 
+EXPIRES:  04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer 
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory 
+Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is 
+not required to respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number. 
+1. Facility Name 
+    Calvert Cliffs Nuclear Power Plant, Unit 1 
+ 
+050 
+2. Docket Number 
+    05000317 
+3. Page 
+1 OF 4 
+ 
+052 
+4. Title 
+    1A Diesel Generator Inoperable Due to Potential Transformer Failure 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential  
+Number 
+Revision 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+Calvert Cliffs Nuclear Power 
+Plant, Unit 2 
+ 
+050 
+Docket Number 
+05000318 
+07 
+08 
+2024 
+2024 - 003 
+- 
+0 
+09 
+06 
+2024 
+Facility Name 
+N/A 
+ 
+052 
+Docket Number 
+ 
+9. Operating Mode 
+  1 – Power Operation   
+10. Power Level 
+    100 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply) 
+10 CFR Part 20 
+  20.2203(a)(2)(vi) 
+10 CFR Part 50 
+  50.73(a)(2)(ii)(A) 
+  50.73(a)(2)(viii)(A) 
+  73.1200(a) 
+  20.2201(b) 
+  20.2203(a)(3)(i) 
+  50.36(c)(1)(i)(A) 
+  50.73(a)(2)(ii)(B) 
+  50.73(a)(2)(viii)(B) 
+  73.1200(b) 
+  20.2201(d) 
+  20.2203(a)(3)(ii) 
+  50.36(c)(1)(ii)(A) 
+  50.73(a)(2)(iii) 
+  50.73(a)(2)(ix)(A) 
+  73.1200(c) 
+  20.2203(a)(1) 
+  20.2203(a)(4) 
+  50.36(c)(2) 
+  50.73(a)(2)(iv)(A) 
+  50.73(a)(2)(x) 
+  73.1200(d) 
+  20.2203(a)(2)(i) 
+10 CFR Part 21 
+  50.46(a)(3)(ii) 
+  50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+  73.1200(e) 
+  20.2203(a)(2)(ii) 
+  21.2(c) 
+  50.69(g) 
+  50.73(a)(2)(v)(B) 
+  73.77(a)(1) 
+  73.1200(f) 
+  20.2203(a)(2)(iii) 
+ 
+  50.73(a)(2)(i)(A) 
+  50.73(a)(2)(v)(C) 
+  73.77(a)(2)(i) 
+  73.1200(g) 
+  20.2203(a)(2)(iv) 
+ 
+  50.73(a)(2)(i)(B) 
+  50.73(a)(2)(v)(D) 
+  73.77(a)(2)(ii) 
+  73.1200(h) 
+  20.2203(a)(2)(v) 
+ 
+  50.73(a)(2)(i)(C) 
+  50.73(a)(2)(vii) 
+ 
+  OTHER (Specify here, in abstract, or NRC 366A).    
+12. Licensee Contact for this LER 
+Licensee Contact 
+    Travis E. Lefton, Principal Regulatory Engineer 
+Phone Number (Include area code) 
+667-313-6402 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+ 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+B 
+EK 
+XPT 
+G090 
+Y 
+ 
+ 
+ 
+ 
+ 
+14. Supplemental Report Expected 
+15. Expected Submission Date 
+Month 
+Day 
+Year 
+  No 
+  Yes (If yes, complete 15. Expected Submission Date) 
+ 
+ 
+ 
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On July 2, 2024, the Main Control Room received alarm “4KV BUS U/V, 480V BUS U/V, 125V DC,” Window AA06. Initial 
+investigation using the Alarm Response Manual (ARM) did not identify any abnormal degraded conditions and the 1A 
+Emergency Diesel Generator (EDG) was immediately determined to be operable. Follow-up investigation and troubleshooting 
+identified a failed potential transformer associated with the 17 4KV bus protective relays, which would result in the 1A EDG 
+output breaker tripping open on overcurrent during load sequencing in an emergency scenario. The 1A EDG was promptly 
+declared inoperable on July 8, 2024, and the station entered Technical Specification Condition 3.8.1.B for Unit 1 and 3.8.1.E for 
+Unit 2. After entering the Technical Specification Conditions the site took all requisite Required Actions. The potential 
+transformer was replaced on July 10, 2024, and following a successful surveillance run, the 1A EDG was declared operable on 
+July 11, 2024. 
+ 
+Prior to entering the Technical Specification Conditions and taking the associated requisite Required Actions, in the period 
+between July 2, 2024, and July 8, 2024, the station exceeded the completion time for Technical Specification LCO 3.8.1 for Unit 
+1 and 3.8.1 for Unit 2; therefore, this event is reportable under 10CFR50.73(a)(2)(i)(B) as an operation or condition which was 
+prohibited by the plant's Technical Specifications.   
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB:  NO. 3150-0104 
+EXPIRES:  04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number. 
+1. FACILITY NAME 
+ 
+050 
+ 
+052 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Calvert Cliffs Nuclear Power Plant, Unit 1 
+05000317 
+YEAR 
+2024 - 
+SEQUENTIAL 
+NUMBER 
+003 
+- 
+REV 
+NO. 
+00 
+NARRATIVE 
+NRC FORM 366A (04-02-2024) 
+Page     2      of      4     
+PLANT AND SYSTEM IDENTIFICATION  
+ 
+Calvert Cliffs Nuclear Power Plant, Units 1 and Unit 2 are Combustion Engineering Pressurized Water Reactors 
+with a licensed maximum power level of 2737 megawatts thermal, respectively. The Energy Industry 
+Identification System code used in the text is identified as EK.  
+ 
+A. CONDITION PRIOR TO EVENT  
+ 
+Unit: 1  
+Date: July 2, 2024 
+Power level:  100 
+Mode:  Unit 1 was in Mode 1 when the condition was discovered 
+ 
+Unit: 2  
+Date: July 2, 2024 
+Power level:  100 
+Mode:  Unit 2 was in Mode 1 when the condition was discovered 
+ 
+B. DESCRIPTION OF EVENT  
+ 
+On 7/2/24 an alarm, “4kV Bus U/V, 480 V Bus U/V, 125 VDC,” was received in the Control Room.  This is a 
+general alarm associated with the 17 4kV bus, the 07 480V bus and the 125VDC systems which support 
+operation of the 1A Emergency Diesel Generator (EDG).  Investigation using the Alarm Response Manual 
+(ARM) in the field and in the Control Room did not identify an apparent cause of the alarm.  Information 
+provided to the Unit Supervisor was that the failure involved the alarm circuit and did not impact operability of 
+the 1A EDG.  Initial assessment performed by Shift SROs was that the 1A EDG remained operable.   
+ 
+Investigations into the 1A EDG alarm were performed by Fix-it-Now (FIN) personnel on 7/2 and 7/3/24.  The 
+potential transformer (PT) supporting the protection circuit and synchronizing circuit was identified as the failed 
+component and the cause for the alarm.  On 7/8/24 Electrical Maintenance and Engineering identified the 
+voltage input to the voltage-restraint overcurrent device as being impacted by the failed PT which would cause 
+an overcurrent trip of the 1A EDG output breaker during an accident scenario.  Shift Senior Reactor Operators 
+(SROs) reviewed the new information and promptly declared the 1A EDG inoperable and entered Technical 
+Specification (TS) Condition 3.8.1.B for Unit 1 and LCO 3.8.1.E for Unit 2.  
+ 
+C. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES 
+ 
+Event Timeline: 
+ 
+7/02/2024 02:00 
+“4kV Bus U/V, 480 V Bus U/V, 125 VDC” received in the Main Control Room.   
+ 
+ 
+ 
+
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB:  NO. 3150-0104 
+EXPIRES:  04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number. 
+1. FACILITY NAME 
+ 
+050 
+ 
+052 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Calvert Cliffs Nuclear Power Plant, Unit 1 
+05000317 
+YEAR 
+2024 - 
+SEQUENTIAL 
+NUMBER 
+003 
+- 
+REV 
+NO. 
+00 
+NARRATIVE 
+NRC FORM 366A (04-02-2024) 
+Page     3      of      4     
+7/02/2024  
+Maintenance walked down 1A EDG looking for indications of what was causing the hanging alarm. Based on 
+history and past experience, the battery charger/monitor was thought to be the most likely cause. No alarms on 
+the battery charger were noted. No errors on the battery monitor noted and all measured points were within 
+band.  No abnormal indications noted on the 480v U/V relay.  
+ 
+7/03/2024 
+Maintenance calibrated the undervoltage relay with the dropped flag (127-1 UV relay). Calibration was 
+performed satisfactorily with no adjustments needed. The issue appeared to be coming from the PT drawer, 
+either a blown primary fuse or an issue with the PT itself.  
+ 
+7/05/2024 
+Discussions were held between the technicians and the FIN-SRO in which it was decided to implement a 
+temporary configuration change for UV relay 127-1 to eliminate the hanging alarm.  
+ 
+7/08/2024   
+Print reviews indicated a 127 (undervoltage) relay pickup for control power and determined this is consistent 
+with the UV alarm. The 127/151/B17 IFCV, Induction Disc Time-Overcurrent Relay with Voltage Restraint and 
+Inverse Time Characteristics, type relay which was further evaluated and concluded that a loss of the ‘A’ phase 
+would impact pickup amperage of the device, potentially tripping the diesel output breaker 152-1703 during an 
+accident scenario. Maintenance and engineering provided this information to the Control Room. 
+ 
+TS Condition 3.8.1.B was entered for Unit 1 and TS Condition 3.8.1.E was entered for Unit 2 at 1315. 
+ 
+7/11/2024 
+Completed PT transformer replacement and verified proper voltage indication on all three phases.  Performed a 
+1-hour loaded run for post maintenance operability test.  The 1A EDG was restored to operable status at 0418 
+and the associated TS Conditions were exited. 
+ 
+D. CAUSE OF EVENT 
+ 
+The direct cause of the Potential Transformer failure is attributed to age-related degradation of the 
+winding insulation causing turn-to-turn shorts on the primary and secondary winding. The turn-to-turn shorts 
+caused increased currents on the primary side of the PT required to maintain secondary side voltage resulting 
+in the upstream fuse on the primary side of PT-1 to overheat.  The downstream effect was a loss of voltage to 
+the 127-1 undervoltage relay, issuing the 1A EDG alarm, and the 127/151 voltage-restraint overcurrent relay, 
+rendering the 1A EDG inoperable.  
+ 
+Contributing causes included gaps in determining the operability impact and a lack of independence during the 
+initial operability determination. 
+ 
+ 
+ 
+ 
+
+NRC FORM 366A 
+U.S. NUCLEAR REGULATORY COMMISSION 
+(04-02-2024) 
+ 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+APPROVED BY OMB:  NO. 3150-0104 
+EXPIRES:  04/30/2027 
+ 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number. 
+1. FACILITY NAME 
+ 
+050 
+ 
+052 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+Calvert Cliffs Nuclear Power Plant, Unit 1 
+05000317 
+YEAR 
+2024 - 
+SEQUENTIAL 
+NUMBER 
+003 
+- 
+REV 
+NO. 
+00 
+NARRATIVE 
+NRC FORM 366A (04-02-2024) 
+Page     4      of      4     
+E. SAFETY ANALYSIS 
+ 
+The subject event satisfies the criteria in NUREG-1022, Revision 3, for any operation or condition that was 
+prohibited by the plant’s technical specifications. The 4kV Bus U/V, 480 V Bus U/V, 125 VDC” received in the 
+Main Control Room on 7/2/2024 at 2 am. The 1A EDG was declared inoperable on 7/8/2024, and the station 
+entered TS Condition 3.8.1.B for Unit 1 and 3.8.1.E for Unit 2. After entering the TS Conditions the site took all 
+requisite Required Actions. The 1A EDG was declared operable on July 11, 2024. However, prior to entering 
+the TS Conditions and taking the associated requisite Required Actions on 7/8/2024, Unit 1 exceeded the 
+completion time for TS Condition 3.8.1.B and the completion time for the subsequently Required Actions. 
+Additionally, Unit 2 exceeded the completion time for TS Condition 3.8.1.E and the completion time for the 
+subsequently Required Actions. Therefore, this event is reportable pursuant to 10CFR 50.73(a)(2)(i)(B). This 
+event did not result in any actual nuclear safety consequences. 
+ 
+F. CORRECTIVE ACTIONS 
+  
+The potential transformer was replaced on 7/10/2024, and following a successful surveillance run the 1A EDG 
+was declared Operable on 7/11/2024. Training, observations, and procedure change actions have been taken 
+to address the human performance factors that contributed to the event. 
+ 
+G. PREVIOUS OCCURRENCES 
+ 
+A review of previous Calvert Cliffs’ events was performed for the last three years.  The review did not identify 
+any events stemming from the failure of a potential transformer which resulted in a condition prohibited by the 
+plant’s Technical Specifications. 
+ 
+H. COMPONENT FAILURE DATA  
+ 
+Component  
+ 
+ 
+ 
+ 
+IEEE 803 
+ 
+ 
+IEEE 805 
+ 
+ 
+ 
+ 
+ 
+ 
+         FUNCTION ID  
+         SYSTEM ID 
+Transformer, Potential. 
+ 
+ 
+ 
+     XPT 
+ 
+ 
+      EK 
+ 

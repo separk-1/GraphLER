@@ -1,0 +1,419 @@
+Constellation®
+10 CFR 50.73
+NMP2L2829
+December 20, 2022
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-41 O
+Subject: NMP2 Licensee Event Report 2022-002, Revision 1, Reactor Protection
+System Actuation While Shutdown
+In accordance with the reporting requirements contained in 10 CFR 50.73(a)(2)(iv)(A), please
+find enclosed NMP2 Licensee Event Report (LER) 2022-002, Revision 1, Reactor Protection
+System Actuation While Shutdown.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+~ M O y
+Peter M. Orphanos
+Site Vice President, Nine Mile Point Nuclear Station
+PMO/JRA
+Enclosure: NMP2 Licensee Event Report 2022-002, Revision 1, Reactor Protection
+System Actuation While Shutdown
+cc: NRC Regional Administrator, Region I
+NRC Resident Inspector
+NRC Project Manager
+Enclosure
+NMP2 Licensee Event 2022-002, Revision 1
+Reactor Protection System Actuation While Shutdown
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+·~¥~
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and lnfonnation Collections Branch (T-6 A1 0M), U.S.
+, \ . ....~. ) a
+(See N
+(S
+U
+ee
+R E
+Pa
+G
+g
+-
+e
+1 0
+3
+2
+fo
+2
+r
+,
+r
+R
+e
+.
+q
+3
+u i
+f
+r
+o
+e
+r
+d
+i n
+n
+s
+u
+t
+m
+ru
+b
+c
+e
+ti
+r
+o
+o
+n
+f
+a
+d
+n
+ig
+d
+i ts
+g
+/
+u
+c
+i
+h
+d
+a
+a
+r
+n
+a
+c
+c
+e
+te r
+fo
+s
+r
+f o
+c
+r
+o
+e
+m
+a
+p
+c
+l
+h
+e t
+b
+in
+lo
+g
+c k
+th
+)
+is form
+N
+ln
+u
+fo
+c
+c
+le
+o
+a
+ll
+r
+e cts
+R
+.R
+e
+e
+g
+s
+u
+o
+la
+u
+t
+r
+o
+c
+r
+e
+y
+@ nr
+C
+c.
+o
+g
+m
+ov
+m
+,
+is
+a
+s
+n
+i
+d
+o n
+th
+,
+e 0
+W
+M
+a
+B
+s h
+r
+i
+e
+n
+v
+g
+ie
+to
+w
+n
+e
+,
+r at
+D C
+0 MB
+2 0
+O
+5
+f
+5
+fi
+5
+c
+-
+e
+0 0
+o
+0
+f
+1
+ln
+,
+fon
+o
+n
+r
+a tion
+b y
+a nd
+e
+R
+-m
+eg
+a
+u
+il
+lator
+to
+y
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D. Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eoo.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of infonnation unless the document
+I requesting or requiring the collectipn displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000 410 1 OF 4
+Nine Mile Point Unit 2
+4. Title
+Reactor Protection System Actuation While Shutdown
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S N eq u u m e b n e ti r a l Re N vi o s . io n Month Day Year Faclllty Name Docket Number
+05000
+- -
+09 04 2022 2022 002 01 12 20 2022 Facility Name Docket Number
+05000
+9. Operating Mode 110. Power Level
+3 000
+11. This Report Is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 □ 20.2203(a)(2)(vi) □ 50.36(c)(2) 0 50.7 3(a)(2)(iv)(A) □ 50. 73(a)(2)(x)
+□ 20.2201(b) □ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.7 3(a)(2)(v)(A) 10 CFR Part 73
+□ 20.2201(d) □ 20.2203(a)(3)(ii) □ 50.69(g) □ 50. 73(a)(2)(v)(B) □ 73. 71 (a)(4)
+□ 20.2203(a)(1) □ 20.2203(a)(4) □ 50. 73(a)(2)(i)(A) □ 50.7 3(a)(2)(v)(C) □ 73. 71 (a)(5)
+□ 20.2203(a)(2)(i) 10 CFR Part 21 □ 50. 73(a)(2)(i)(B) □ 50. 73(a)(2)(v)(D) □ 73. 77(a)(1 )(i)
+□ 20.2203(a)(2)(ii) □ 21.2(c) □ 50. 73(a)(2)(1)(C) □ 50.7 3(a)(2)(vii) □ 73. 77(a)(2)(i)
+□ 20.2203(a)(2)(iii) 10 CFR Part 50 □ 50. 73(a)(2)(ii)(A) □ 50. 73(a)(2)(viii)(A) □ 73.77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1 )(i)(A) □ 50. 73(a)(2)(ii)(B) □ 50. 73(a)(2)(viil)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1 )(ii)(A) □ 50. 73(a)(2)(1ii) □ 50. 73(a)(2)(ix)(A)
+□ OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+[Z] No ID Yes (If yes, complete 15. Expected Submission Date) 15. Expected Submission Date
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On Sunday, September 4, 2022, at approximately 1638 hours with reactor power at 0%, Nine Mile Point Unit 2 (NMP2)
+experienced a Reactor Protection System (RPS) actuation on Reactor Pressure Vessel (RPV) Low Water Level (Level 3) of
+159.3 inches. At the time of the RPS actuation, the reactor was already in a shutdown condition with all rods fully inserted. The
+Level 3 condition also initiated an isolation signal to Groups 4 and 5 Primary Containment Isolation Valves (PCIVs), which were
+already closed. Operators took action to restore RPV water level to the normal operating band. This event is reportable per
+10 CFR 50.73(a)(2)(iv)(A).
+The cause of the event was due to a lack of procedural guidance in N2-SOP-101 C, Reactor SCRAM, the Control Room staff did
+not utilize the proper pressure reduction detail section for a planned cooldown. The Turbine Bypass Valve response to a
+pressure reduction strategy of 1.5 psig/second caused a rapid opening and closure of bypass valves that complicated level
+control resulting in Level 3 and RPS actuation.
+The event described in this LER is documented in the plant's Corrective Action Program (CAP) as IR 04520704.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08--2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and lnfonnation Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+I Affairs, (3150-0104), Atjn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http·t/www nrc.govtreading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I • DYEA R SEQUENTIAL REV
+~- I NUMBER 1- 0N O.
+05000- 10
+I
+002
+NARRATIVE
+THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION IDENTIFIER AND SYSTEM
+NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER ARE ENCLOSED WITHIN [BRACKETS]
+L DESCRIPTION OF EVENT
+A PRE-EVENT PLANT CONDITIONS:
+Prior to the event, NMP2 was in Mode 3 (Hot Shutdown}, performing a cooldown to support a planned maintenance
+outage.
+8_E VENT:
+On Sunday, September 4, 2022, at approximately 1638 hours, NMP2 experienced an actuation of the Reactor Protection
+System (RPS) [JC] due to Reactor Low Water Level (Level 3) while in Mode 3, Hot Shutdown. At the time of the RPS
+actuation, all control rods were already fully inserted and Groups 4 and 5 PCIVs were already closed. The Containment
+Isolation [JM] signal impacted Residual Heat Removal (RHR) [BO], Shutdown Cooling, RHR letdown to radwaste, and
+RHR sampling valves. Following the RPS actuation, Operators restored reactor water level utilizing level control valve
+CNM-LV137_
+Nine Mile Point Unit 1 (NMP1) was unaffected by the NMP2 RPS actuation.
+On September 4, 2022 at approximately 2131 hours, this event was reported to the NRG via Event Notification #56089
+pursuant to the requirements of of 10CFR50.72(b)(3)(iv)(A) Specified System Actuation of any of the systems listed in
+10 CFR50.7 2(b )(3)(iv)(B).
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO THE EVENT:
+None.
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURENCES AND OPERATOR ACTIONS:
+September 4, 2022:
+1506 - NMP2 entered Mode 3 on a planned reactor SCRAM to enter a maintenance outage.
+1512 -Operators manually close the Main Steam Line (MSL) drain system due to reactor pressure lowering.
+1534 -Operators suspected leak by past Feedwater Level Control Valve, Feedwater Pump 'B' Level Control Valve
+(2FWS-LV1 OB) and subsequently manually closed the blocking valve which stabilized reactor water level.
+1556 - Reactor water level continued to rise. Operators suspected leak by past High Pressure - Low Feedwater Level
+Control Valve (2FWS-LV55B}, and subsequently manually isolated the valve which stabilized reactor water level.
+NRG FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+1Q··~
+, lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U. S.
+Nuclear Regulatory Commission, Washington, DC 205~1. or by e-mail to
+\.~. ...... } CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs! (3150-0104), Attn: Oesk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http·//www nrc.gov/reading-rm/doc-collections/nuregs/stafftsr1022/r30
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I I DYEA R SEQUENTIAL REV
+05000- 410 ~-I NUMBER 1- 0 N O.
+I
+002
+NARRATIVE
+September 4, 2022 (continued):
+1631 -A planned reduction in reactor pressure was performed using Detail 7 of N2-SOP-101 C, Reactor SCRAM,
+which directed a pressure reduction of 1.5 psig/second. Operators had not fully transitioned to N2-OP-101 C,
+Plant Shutdown, due to equipment challenges that affected reactor pressure and level control.
+1634 - Operators attempted to maintain stable water level and pressure. During this evolution, reactor water level
+exceeded Level 8 (202.3") twice. The running Feedwater Pump (2FWS-P1 B), tripped on the first Level 8 signal.
+The trip of the running Feedwater pump also drove the Operators decision to lower pressure to 550 psig using
+Detail 7.
+1636 -Operators recommenced pressure reduction at 0.5 psig/second after lowering level to 165". Bypass valve
+position reached approximately 1.25 valves open and level rose to 186", with Low Pressure-Low Flow Level
+Control Valve (2CNM-LV137), closed in AUTO while level was in band.
+1638 - Reactor water level continued to lower to 175" while 2CNM-LV137 was responding and turbine bypass valves
+began to close as pressure reduced to approximately 550 psig. When the bypass valves went full closed,
+reactor water level lowered to Level 3 (159.3"), resulting in an automatic RPS actuation.
+1639 - Reactor water level was returned to 160-200" normal level band by Operators per Emergency Operating
+Procedures.
+E. METHOD OF DISCOVERY:
+This event was self-revealing via Main Control Room reactor water level indications and RPS related annunciators.
+F. SAFETY SYSTEM RESPONSES:
+All safety systems responded per design.
+II. CAUSE OF THE EVENT
+Due to a lack of procedural guidance in N2-SOP-101C, Reactor SCRAM, the Control Room staff did not utilize the proper
+pressure reduction detail section for a planned cooldown. The Turbine Bypass Valve response to a pressure reduction
+strategy of 1.5 psig/second caused a rapid opening and closure of bypass valves that complicated level control resulting in
+Level 3 and RPS actuation.
+The station identified the two following contributing causes. Operations leadership did not follow OP-AA-101-111-1001
+Attachment 15, Proficiency Model / Assessment, for knowledge gaps and mixed crew lineup. A lack of operator trust in the
+Digital Feedwater Level Control System has led to a common practice to leave Feedwater components "as is" if an
+unexpected response is obtained, which resulted in a key component, 2FWS-LV55B, being deemed non-functional for this
+event.
+NRC FORM 366A (08-2020) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and lnfonnation Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+I Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street N/M
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+hllp·U www ore.gov/read ing-rm/doc-collections/nuregststaff /sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+DYEA R SEQUENTIAL REV
+I 05000-I
+~-I NUMBER 1-NO0.
+!Nine Mile Point Unit 2 410
+I 002
+NARRATIVE
+Ill. ANALYSIS OF THE EVENT
+The crew executed the pressure control and cool down strategy allowed by N2-SOP-101 C, Reactor SCRAM. However,
+there is no guidance in the pressure control leg that direct/informs the crew to use a specific section of pressure reduction
+based on the plant conditions. The crew chose to execute Detail 7 -Adjusting Pressure Set and Establishing Manual
+Depressurization Rate based on simulator performance with a rapid pressure reduction and consensus with the control
+room staff. The pressure control section of the Special Operating Procedure should incorporate guidance and notes to
+inform operators of which detail to use based on the plant configuration and parameters at the time of cooldown. This
+procedure allowed the team to select a cooldown section of their choosing without specific notes for bypass valve
+operation for the observed plant conditions. The RPS actuation occurred while the reactor was already shutdown and all
+safety systems responded per design; therefore the event had no impact to health or safety of the public.
+IV. CORRECTIVE ACTONS
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL STATUS:
+Operators restored reactor level to normal.
+B. ACTION TAKEN OR PLANNED TO PREVENT OCCURRENCE:
+N2-SOP-101 C, Reactor SCRAM has been revised to include details on when to use Detail 3 through 7 and what rates are
+applicable for plant conditions and complete an Effectiveness Review.
+The Station will incorporate and train on this event in Licensed Operator Re-qualification Training as a missed opportunity
+to be intrusive and to align on the pressure reduction strategy for various Feedwater configurations. Additionally, the
+Station will implement a Digital Feedwater Taskforce to drive corrective actions on Digital Feedwater deficiencies.
+V. ADDITONAL INFORMATION
+A. FAILED COMPONENTS:
+None
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+None
+NRG FORM 366A (08-2020) Page 4 of 4

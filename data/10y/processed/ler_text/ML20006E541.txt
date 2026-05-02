@@ -1,0 +1,214 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, New Jersey 08038-0236
+PSEG
+Nuclear LLC
+LR-N19-0110 10CFR50.73
+JAN O 6 2020
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Hope Creek Generating Station
+Renewed Facility Operating License No. NPF-57
+Docket No. 50-354
+Subject: Licensee Event Report 2019-002-00,
+Safety Relief Valve (SRV) As-found Set-point Failures
+In accordance with 10 CFR 50.73(a)(2)(i)(B), PSEG Nuclear LLC is submitting Licensee
+Event Report (LER) Number 2019-002-00, "Safety Relief Valve (SRV) As-found Set
+point Failures."
+If you have any questions or require additional information, please contact Mr. Francis
+D. Possessky at (856) 339-1160.
+There are no regulatory commitments contained in this letter.
+s~~
+Steven R. Poorman
+Plant Manager
+Hope Creek Generating Station
+Attachment: Licensee Event Report 2019-002-00
+cc: Regional Administrator- Region I, NRG
+US NRG NRR Project Manager - Hope Creek
+US NRG Senior Resident Inspector - Hope Creek
+NJ Department of Environmental Protection, Bureau of Nuclear Engineering
+Commitment Coordinator, Hope Creek Generating Station
+Corporate Commitment Coordinator, PSEG Nuclear LLC
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BYOMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+,J,:,..IJ,,,,..i,~,(. . Reported lessons learned are incorporated into the licensing process and fed back to industry.
+I i !' ; · . '- r i Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+-;1:, ... ,,,., LICENSEE EVENT REPORT (LER)
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. If a means used to impose an information collection does not display a currently valid
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 0MB control number, the NRC may not conduct or sponsor, and a person is not required to
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1 022/r30 respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Hope Creek Generating Station
+05000354 1 OF 3
+4. TITLE
+Safety Relief Valve (SRV) As-found Set-point Failures
+5. EVENT DATE 6. IL ER NUMBEIR 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR FACILITY NAME DOCKET NUMBER
+NUMBER NO. 05000
+11 07 2019 2019 - 002 - 00 01 06 2020 FACILITY NAME DOCKET NUMBER
+05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+4 - Cold Shutdown r r
+20.2201(b) 20.2203(a)(3)(i) 50. 73(a)(2)(ii)(A) 50. 73(a)(2)(viii)(A)
+r
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+r r r r
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+r r r r
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+r r r r
+10. POWER LEVEL
+20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+r r r r
+000 20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+r r
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+r r r r
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+r r r
+P'
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+r
+50.73(a)(2)(i)(C) OTHER Specify in Abstract belcmor in NRG FOfm 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Francis D. Possessky, Regulatory Compliance Specialist (856) 339-1160
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+B SB RV T020 y
+1 r 4 . SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+P'
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 08, 2019, Hope Creek Generating Station (HCGS) received results that the second 'as-found' set-point
+test for safety relief valve (SRV) pilot stage assemblies had exceeded the lift setting tolerance prescribed in Technical
+Specification (TS) 3.4.2.1. The TS requires the SRV lift settings to be within +/-3% of the nominal set-point value.
+During the twenty-second refueling outage (H1 R22), all fourteen SRV pilot stage assemblies were tested at an offsite
+facility. Between October 22 and November 25, 2019, HCGS received the test results for all fourteen of the SRV pilot
+valve assemblies. A total of six of the fourteen SRV pilot stage assemblies were outside of the TS 3.4.2.1 specified
+values. All of the valves failing to meet the limits were Target Rock Model 7567F two-stage SRVs.
+Exceeding the set points for five of the six SRV pilot stage assemblies is attributed to corrosion bonding between the pilot
+discs and seating surfaces, which is consistent with industry experience. The cause of exceeding the sixth SRV set-point
+was pilot failure or spindle/disc contact wear.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION
+Estimated burden per response to comply with this mandatory collection request: 80
+(04-2018)
+hours. Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the FOIA, Privacy and Information
+Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC
+20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer,
+LICENSEE EVENT REPORT (LER) Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management
+and
+CONTINUATION SHEET
+Budget, Washington, DC 20503. If a means used to impose an information collection does not
+(See NUREG-1022, R.3 for instruction and guidance for completing this form display a currently valid 0MB control number, the NRC may not conduct or sponsor, and a person
+http://www. nrc.qov/reading-rm/doc-collectio ns/n ur egs/staff/sr1 022/r30 is not required to respond to, the information collection.
+1. FACILITYNAME 2. DOCKET 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REVISION
+Hope Creek Generating Station NUMBER NUMBER
+05000354
+2019 - 002 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor (BWR/4)
+Main Steam - EIIS Identifier {SB}*
+Safety Relief Valves - EIIS Identifier {SB/RV}*
+*Energy Industry Identification System {EIIS} codes and component function identifier codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURRENCE
+Event Date: November 7, 2019
+Discovery Date: November 8, 2019
+CONDITIONS PRIOR TO OCCURRENCE
+When the reports of the 'as-found' results were received, Hope Creek was in Operational Condition (OPCON) 4, Cold
+Shutdown, at O percent rated thermal power. No other structures, systems or components that could have contributed to
+the event were inoperable at the time of the event.
+DESCRIPTION OF OCCURRENCE
+During the twenty-second refueling outage (H1 R22) at Hope Creek Generating Station (HCGS), all fourteen Main Steam
+safety relief valves (SRV) pilot stage assemblies {SB/RV} were tested at NWS Technologies. The SRVs are Target Rock
+Model 7567F two-stage SRVs. During the period from October 22 through November 25, 2019, HCGS received the
+results of the 'as-found' set pressure testing required by Technical Specification (TS) Surveillance Requirement (SR)
+4.4.2.2. A total of six of the fourteen SRV pilot stage assemblies had set-point drift outside of the required TS 3.4.2.1
+tolerance values of +/-3% of nominal value.
+The 'as-found' test results for the six SRVs not meeting the TS requirements are as follows:
+Valve ID As Found TS Lift Setting Acceptable Band
+% Difference
+(psig) (psig) (psig)
+Actual
+F013A 1187 1130 1096.1-1163.9 5.04%
+F013C 1209 1130 1096.1-1163.9 6.99%
+F013D 1166 1130 1096.1-1163.9 3.19%
+F013H 1194 1108 1074.8-1141.2 7.76%
+F013J 1191 1120 1086.4 - 1153.6 6.34%
+F013K 1055 1108 1074.8-1141.2 -4.78%
+Technical Specification (TS) 3.4.2.1 requires that the safety function of at least 13 of 14 SRVs be operable with a
+specified code safety valve function lift setting, within a tolerance of+/- 3%. Action (a) of TS 3A.2.1 specifies "With the
+safety valve function of two or more of the above listed fourteen safety/relief valves inoperable, be in at least HOT
+SHUTDOWN within 12 hours and in COLD SHUTDOWN within the next 24 hours." This is a condition reportable under
+10 CFR 50.73(a)(2)(i)(B).
+The extent of condition for this event is to expand the scope of the SRV Group 1 valve testing, per ASME OM Code
+Section 1-1320 for Class 1 Pressure Relief Valves. All fourteen SRV pilot stage assemblies were removed and replaced
+with tested spares during the refueling outage (H1R22), therefore the extent of condition was satisfied.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION
+Estimated burden per response to comply with this mandatory collection request: 80
+(04-2018) hours. Reported lessons learned are incorporated into the licensing process and fed back lo
+industry. Send comments regarding burden estimate to the FOIA, Privacy and Information
+Collections Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC
+20555-0001, or by internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer,
+LICENSEE EVENT REPORT (LER) Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management
+and
+CONTINUATION SHEET
+Budget, Washington, DC 20503. If a means used to impose an information collection does not
+(See NUREG-1022, R.3 for instruction and guidance for completing this form display a currently valid 0MB control number, the NRG may not conduct or sponsor, and a person
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REVISION
+Hope Creek Generating Station NUMBER NUMBER
+05000354
+2019 - 002 - 00
+NARRATIVE
+CAUSE OF EVENT
+Exceeding the set points for five of the six SRV pilot stage assemblies is attributed to corrosion bonding between the pilot
+discs and seating surfaces, which is consistent with industry experience. This conclusion is based on previous causal
+evaluations, the second lift test being within the acceptable band and the repetitive nature of this condition at HCGS and
+within the BWR industry.
+The cause of exceeding the 'K' SRV set point was pilot failure or spindle/ disc contact wear. This conclusion is based on
+a review and disposition of Electrical Power Research Institute (EPRI) TR-105872, "Safety and Relief Valve Testing and
+Maintenance Guide", Section 3.1, Failure Modes and Failure Cause Analysis.
+SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no instances during Cycle 22 that resulted in any of the fourteen SRVs being declared inoperable and there
+were no events during that cycle that required operation of the SRVs. All SRVs lifted well below the Safety Limi(
+providing reasonable assurance that accident analysis conclusions would remain valid. The BWR Owners Group has
+recognized that corrosion bonding occurs during the operating cycle. Once an SRV lifts, the corrosion bond breaks and
+subsequent openings occur very close to the set point as demonstrated during testing.
+Five of the six as-found set-point SRVs are within their Maximum Allowable Percent Increase (MAPI) above SRV nominal
+set-point criteria established in GE document NEDC-32511 P, "Safety Review for Hope Creek Generating Station
+Safety/Relief Valve Tolerance Analysis"; these SRVs are bounded by their MAPI value.
+The 'A' SRV as-found set-point was outside the MAPI above SRV nominal set-point criteria established in GE document
+NEDC-32511 P, "Safety Review for Hope Creek Generating Station Safety/Relief Valve Tolerance Analysis", and a
+Technical Evaluation was performed. This evaluation concluded that the 'A' SRV set-point drift of 5.04% did not
+adversely affect the design function of the 'A' Main Steam Line or any segment of the 'A' SRV discharge line.
+PREVIOUS EVENTS
+Similar events occurred during the 2015 (H1 R 19), 2016 (H1 R20) and 2018 (H1 R21) Hope Creek refueling outages when
+multiple SRVs were found out of the TS required limits of+/- 3%. These events were reported as LER 354/2015-004-00,
+LER 354/2016-003-00 and LER 354/2018-002-01.
+CORRECTIVE ACTIONS
+1. All 14 SRV pilot stage assemblies were removed and replaced with pre-tested, certified spare pilot valves in
+H1 R22. The replacement pilot valve discs were coated with a platinum coating applied using Plasma Enhanced
+Magnetron Sputtering (PEMS) to prevent corrosion bonding, which is the most current and effective method
+endorsed by the BWROG.
+2. Replace the remaining installed Target Rock two-stage SRVs with the three-stage SRV model evaluated and
+implemented through Design Change Package 80122932 during the next Hope Creek Refuel Outages.
+COMMITMENTS
+There are no regulatory commitments contained in this LER.
+NRG FORM 366A (04-2018) Page 3 of 3

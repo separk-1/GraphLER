@@ -1,0 +1,379 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+June 17, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRC Docket No. 50-296
+Subject: Licensee Event Report 50-296/2016-005-00
+The enclosed Licensee Event Report provides details of the inoperability of an Automatic
+Depressurization System Valve for longer than allowed by plant Technical Specifications.
+The Tennessee Valley Authority is submitting this report in accordance with Title 10 of the
+Code of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was
+prohibited by the plant's Technical Specifications.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-296/2016-005-00 - Automatic Depressurization
+System Valve lnoperability Exceeded Technical Specification Limits.
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 3
+Licensee Event Report 50-296/2016-005-00
+Automatic Depressurization System Valve lnoperability Exceeded Technical Specification Limits
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(11-2015)
+.:;,c,..J."f',REG(<('f_.. Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+; . ..~ ' ,o... . ' . O . lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+:;;~ i regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5 F53), U.S .
+..~- s.,., ......... .,._o~ LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 3 05000296 1 OF7
+4. TITLE
+!Automatic Depressurization System Valve lnoperability Exceeded Technical Specification Limits
+5. EVENT DAT E 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I SEQUENTIAL I REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+- - FACILITY NAME DOCKET NUMBER
+04 18 2016 2016 005 00 06 17 2016
+11.1/!1 N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50. 73(a)(2)(ii)(A) 50.7 3(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.7 3(a)(2)(ii)(B) 50.7 3(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50. 73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(iil D 50.36(c)(1 )(ii)(A) D 50. 73(a)(2)(v)(A) D 73.7 1 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 5o.36(c)(2) 50.73(a)(2)(v)(B) 13.11(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50. 73(a)(2)(v)(C) 73. 77(a)(1)
+100 D D D D
+20.2203(a)(2)(v) 50.7 3(a)(2)(i)(A) 50.7 3(a)(2)(v)(D) 73.77(a)(2)(i)
+D D D
+20.2203(a)(2)(vi) ~ 50. 73(a)(2)(i)(B) 50. 73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.7 3(a)(2)(i)(C) OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT I TELEPHONE NUMBER (Include Area Code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+x SB RV T020 y D SB BKR G080 y
+I I
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) ~NO SUBMISSION DATE N/A I N/A I N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 18, 2016, during a scheduled surveillance, the power to the Main Steam Line (MSL) B Relief Valve failed to
+transfer to its alternate feeder breaker when the normal feeder breaker was opened. The Automatic Depressurization
+System (ADS) function of the MSL B Relief Valve was declared inoperable. It was determined that the ADS valve
+was inoperable from March 26, 2016 to April 19, 2016. The valve's ability to open under normal power was not
+affected. Five of the six ADS valves remained operable. Only four ADS valves are required to meet the ADS function
+in the Loss of Coolant Analysis described in the Final Safety Accident Report.
+The unavailability of the ADS alternate power source was directly caused by a bus stab on the back of the Molded
+Case Circuit (MCC) breaker not fully engaging with the bus. This was apparently caused by improper performance of
+previous post-maintenance testing. The stab was adjusted, the MCC breaker was returned to service, and the MSL
+B Relief Valve's ADS function was declared operable upon verification of its alternate power supply.
+Corrective actions were to determine which load-feeding MCC breakers have a normal and alternate power source,
+and revise their preventative maintenance procedures to verify that post-maintenance testing includes power source
+isolation prior to closing the breaker under load. Breaker bus stabs will be replaced.
+NRG FORM 366A (11-2015)
+Page 2 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 3, was in Mode 1 at 100 percent
+power.
+II. Description of Events
+A. Event:
+On April 18, 2016, during a scheduled surveillance of the Automatic Depressurization System
+(ADS) [SB] Logic System, the power to the Main Steam Line (MSL)[SB] B Relief Valve [RV]
+(3-PCV-001-0022) failed to transfer to the alternate feeder breaker when the normal feeder
+breaker was opened. Operations subsequently declared the ADS function of the MSL B Relief
+Valve inoperable, and entered Technical Specification (TS) Limiting Condition of Operability
+(LCO) 3.5.1 Condition E, a 14 day shutdown LCO action statement. Troubleshooting determined
+that the bus stab on the back of the alternate feeder Molded Case Circuit (MCC) breaker [BKR]
+(3-BKR-001-0022A) was not properly engaged with the bus. The stab was adjusted, the MCC
+breaker was returned to service, and MSL B Relief Valve was verified to have proper power. The
+valve's ADS function was declared operable on April 19, 2016 at 1400 Central Daylight Time
+(CDT).
+Since the failure was discovered during surveillance testing, a past operability evaluation (POE)
+was performed to determine the duration of inoperability. The POE determined that the breaker
+was working properly until it was racked out for preventative maintenance (PM) performed during
+the previous Unit 3 refueling outage in March 2016. This failure went undetected due to improper
+post-maintenance testing (PMT). Prior to the outage, the associated breaker passed all required
+surveillances. The POE concluded that the time of inoperability began on March 26, 2016 at
+2300 CDT and ended on April 19, 2016 at 1400 CDT.
+Since the BFN, Unit 3 ADS system only requires four of the six ADS valves to remain operable,
+the ADS system was operable throughout this entire event. MSL B Relief Valve actuation through
+the ADS or Main Steam Relief Valve (MSRV) Automatic Actuation Logics were not affected under
+normal power. The valve's mechanical setpoints were unaffected by this event, and they
+remained capable of lifting.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event:
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this
+event.
+NRC FORM 366A (11-2015)
+Page 3 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+C. Dates and approximate times of occurrences:
+Dates and Approximate Times Occurrence
+April 22, 2014 Last successful performance of 3-SR-3.3.5.1.6(ADS A),
+ADS Logic System Functional Test.
+March 9, 2016 Performed breaker inspection and PM on 250V DC Motor
+Operated Valve Board 3A.
+March 26, 2016 at 2300 CDT Plant mode and conditions require ADS valve operability.
+April 18, 2016 During scheduled performance of 3-SR-3.3.5.1.6(ADS A),
+Power to the MSL B Relief Valve failed to transfer to its
+alternate feeder breaker when the normal feeder breaker
+was opened. The ADS valve was declared inoperable.
+April 19, 2016 at 1400 CDT Troubleshooting found a stab on the back of the MCC
+breaker which required adjustment. Following adjustment,
+the ADS valve was returned to operable status.
+D. Manufacturer and model number (or other identification) of each component that failed
+during the event:
+The inoperable valve was a Target Rock Corporation two-stage pressure control valve, model
+number 7567F. The breaker was manufactured by General Electric, model number THEF136015.
+E. Other systems or secondary functions affected:
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+Valve inoperability was discovered during the scheduled performance of 3-SR-3.3.5.1.6(ADS A),
+ADS Logic System Functional Test, when Operations opened the normal feeder breaker for the
+MSL B Relief Valve on 250V DC Motor-Operated Valve Board 3A, and its associated green light
+did not remain illuminated. Breaker inoperability was discovered during troubleshooting for the
+inoperable ADS valve.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+The MSL B Relief Valve failed when its associated MCC breaker, which supplied alternate power
+from 250V DC Motor-Operated Valve Board 3A, became unavailable. The MCC breaker failed
+because the bus stabs were not properly engaged with the bus.
+NRG FORM 366A (11-2015)
+Page 4 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Offce of Management and Budget, Washington, DC 20503. If a means
+used to impose an information oollection does not display a currently valid OMS control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+H. Operator actions:
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual safety system responses associated with this event.
+Ill. Cause of the event
+A. The cause of each component or system failure or personnel error, if known:
+The direct cause for the ADS valve failure was the unavailability of its alternate power source due
+to a bus stab on the back of the MCC breaker not fully engaging with the bus. The most apparent
+cause for the valve failure was improper implementation of previous PMT.
+8. The cause(s) and circumstances for each human performance related root cause:
+Previous PMT was not properly performed, and failed to check if load operation was transferred
+upon breaker closure.
+IV. Analysis of the event:
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations 50.73(a)(2)(i)(B), as any operation or condition which was prohibited by the
+plant's TS. It was determined that the ADS valve was inoperable from March 26, 2016 to
+April 19, 2016, due the failure of the valve's associated MCC breaker to supply alternate power
+because of a misaligned bus stab.
+BFN, Unit 3, TS LCO 3.5.1 requires six Operable ADS Safety/Relief Valves (S/RVs) during Modes 1,
+and in Modes 2 and 3 when reactor steam dome pressure exceeds 150 psig. If one or more required
+ADS valve becomes inoperable, Required Action E.1 requires that valve to be restored to operability
+within 14 days. Based on this evaluation, BFN, Unit 3, operated with an inoperable ADS valve for
+longer than allowed by TS.
+The condition was assumed to have begun on March 9, 2016, during routine breaker inspection, as
+part of refueling outage maintenance activities. ADS valve operability was not required until
+March 26, 2016, when BFN, Unit 3 entered Mode 2 and reactor dome pressure exceeded 150 psig.
+Therefore, the ADS valve was considered inoperable from March 26, 2016 to April 19, 2016, when
+the breaker stabs were readjusted. The duration of ADS system inoperability was longer than allowed
+by plant TS LCO 3.5.1.
+NRC FORM 366A (11-2015)
+Page 5 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+V. Assessment of Safety Consequences
+System availability was not impacted by this event. While one ADS valve was inoperable, the
+remaining five ADS valves remained operable for the duration of this event. Only four ADS valves are
+required to meet the ADS function in the Loss of Coolant Accident analysis described in the Final
+Safety Accident Report. This condition did not affect the Appendix R Function. However, due to the
+failure of its alternate power source, the MSL B Relief Valve was not able to perform its specified
+safety function under all conditions.
+The MSL B Relief Valve remained operable for its required "Overpressure safety and relief protection
+for the nuclear system" function. The lack of reliable alternate power, from the MCC breaker had no
+effect on the mechanical setpoint of the valve, and it would have opened if reactor pressure exceeded
+1145 psig.
+The MSL B Relief Valve was inoperable for its "Automatic nuclear system depressurization" function.
+All ADS valves are equipped with a logic circuit to automatically open the valve on concurrent high
+drywell pressure and low reactor water level or sustained reactor low water level when one of the
+Residual Heat Removal pumps is available in the Low Pressure Coolant Injection mode or two of the
+appropriate core spray pumps are available. Additionally, four of the six ADS valves have alternate
+power sources for manual actuation. The MSL B Relief Valve normal power source was aligned and
+operating as designed. However, during testing it was found that the alternate power source was not
+working as designed. The fuel vendor analyses of record assume between four and six available ADS
+valves, depending upon the applicable assumed single failure. A single failure of 250V DC Motor
+Operated Valve Board 3A, which feeds the MSL B Relief Valve normal power supply would still have
+resulted in all six S/RVs remaining available for their ADS function.
+The Main Steam system is required by TS 3.5.1 to have six operating S/RVs for ADS. TS Bases 3.5.1
+states that each of the ADS S/RVs must be equipped with one air accumulator and associated inlet
+check valves, in order to provide pneumatic actuation. TS Bases 3.5.1 cites NEDC-32484P, "Browns
+Ferry Nuclear Plant Units 1, 2, and 3, SAFER/GESTR-LOCA Loss-of-Coolant Accident Analysis,"
+which evaluated the effect of one ADS valve being out of service. Based on this analysis, five
+operable ADS valves will provide the required depressurization. However, the overall reliability of the
+ADS system is reduced, because any further valve failure could result in a reduction of
+depressurization capability. Therefore, operation is only allowed for a limited time. The 14 day
+completion time was based on a reliability study cited in "Recommended Interim Revisions to LCOs
+for ECCS Components" and has been found to be acceptable through operating experience.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+The ADS system consists of six S/RVs as a defense-in-depth measure; only four of the six ADS
+valves are required for system operability. The five remaining S/RVs were unaffected by this
+event and were operable throughout the duration of this event. MSL B Relief Valve actuation
+NRG FORM 366A (11-2015)
+Page 6 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMS: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Offce of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 - 005 00
+NARRATIVE
+through the ADS or MSRV Automatic Actuation Logics were not affected under normal power.
+The valve's mechanical setpoints were unaffected by this event, and they remained capable of
+lifting.
+8. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shut down the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+While one ADS valve was inoperable for longer than permitted by TS, the ADS system itself
+remained operable throughout the duration of this event. Approximately one day elapsed between
+the time of discovery and returning the valve to service.
+VI. Corrective Actions:
+Corrective Actions are being managed by TVA's corrective action program under Condition Report
+(CR) 1161911.
+A. Immediate Corrective Actions
+A troubleshooting work order was initiated, which found a stab on the back of the MCC breaker
+cubicle that required adjustment. After adjusting the MCC bucket stab, the green light operated as
+designed.
+8. Corrective Actions to Prevent Recurrence
+Corrective actions to prevent recurrence include determining the scope of MCC breakers that
+feed loads that have a normal and alternate power source. Preventative Maintenance Change
+Requests were initiated for these MCC Breakers to revise their maintenance PMs to verify PMT
+includes power source isolation prior to closing the breaker under load. Additionally, a work order
+will be generated to replace the breaker bus stabs. Finally, a Performance Analysis and Training
+Needs Analysis will be prepared to develop targeted needs that will close the apparent knowledge
+gap associated with the implementation of breaker PMT.
+NRC FORM 366A (11-2015)
+Page 7 of 7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMS control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 3 05000296 YEAR NUMBER NO.
+2016 005 00
+NARRATIVE
+VII. Additional Information:
+A. Previous Similar Events:
+There were no previous similar events.
+B. Additional Information:
+There is no additional information.
+C. Safety System Functional Failure Consideration:
+In accordance with NUREG-1022, this event is not considered a safety system functional failure.
+While one ADS valve was inoperable for longer than permitted by TS, the remaining five ADS
+valves remained operable throughout this event.
+D. Scram with Complications Consideration:
+This event did not result in a reactor scram.
+VIII. COMMITMENTS
+There are no new commitments.
+NRG FORM 366A (11-2015)

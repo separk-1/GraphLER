@@ -1,0 +1,208 @@
+( ~ DUKE William R. Gideon
+Vice President
+ENERGY®
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+June 19, 2019
+Serial: RA-19-0263
+U.S. Nuclear Regulatory Commission
+ATIN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 1
+Renewed Facility Operating License No. DPR-71
+Docket No. 50-325
+Licensee Event Report 1-2019-003
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Jerry Pierce, Manager - Nuclear
+Support Services, at (910) 832-7931.
+il/J
+William R. Gideon
+SBY/sby
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Dennis J. Galvin
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+LICENSEE EVENT REPORT (LER) Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch
+(See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 3
+4. Title
+False High Reactor Water Level Results in Automatic Specified System Actuations
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year
+Number No.
+Month Day Year 05000
+Facility Name Docket Number
+04 21 2019 2019 - 003 - 00 06 19 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Jerry Pierce, Manager – Nuclear Support Services (910) 832-7931
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 23:07 Eastern Daylight Time on April 21, 2019, with Unit 1 in Mode 1 at approximately 100 percent power, the Main Turbine and
+both Reactor Feed Pumps (RFPs) tripped resulting in a reactor scram and reactor water level dropping below Low Level (LL) 1 and 2.
+The LL1 resulted in Group 2 (i.e., floor and equipment drain isolation valves), Group 6 (i.e., monitoring and sampling isolation valves),
+and Group 8 (i.e., shutdown cooling isolation valves) isolations. The LL2 resulted in Group 3 (i.e., Reactor Water Cleanup) isolation, a
+secondary containment isolation signal, and High Pressure Coolant Injection and Reactor Core Isolation Cooling (RCIC) automatically
+starting and injecting into the vessel. All control rods inserted as expected during the scram and all systems responded as designed.
+The Main Turbine and both RFPs tripped due to two out of three level instruments sensing a false high reactor water level. The false
+signal was a result of hydrogen deflagration in the reactor level condensing chamber due to a flaw in the original design.
+There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) due to actuations of the Reactor Protection System, Primary Containment Isolation System, Emergency
+Core Cooling System, and RCIC.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000325 YEAR NUMBER NO.
+Unit 1
+2019 - 003 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent rated thermal power.
+Reportability Criteria
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) because it involved actuation of systems listed in
+10 CFR 50.73(a)(2)(iv)(B). Specifically, the Reactor Protection System [JC], Primary Containment Isolation System [JM], Emergency
+Core Cooling System [BJ], and Reactor Core Isolation Cooling [BN] actuated during this event.
+The NRC was notified of this event per 10 CFR 50.72(b)(2)(iv)(A), 10 CFR 50.72(b)(2)(iv)(B), and 10 CFR 50.72(b)(3)(iv)(A) via
+Event Notification 54016 at 01:51 Eastern Daylight Time (EDT) on April 22, 2019.
+Event Description
+At 23:07 EDT on April 21, 2019, in Mode 1 at approximately 100 percent reactor power, Unit 1 automatically tripped due to a Main
+Turbine trip. The Main Turbine trip was a result of two out of three reactor level instruments sensing a false high reactor water level.
+All control rods inserted as expected during the scram. Safety Relief Valves G and K lifted per design. The same level instruments
+that failed also tripped both Reactor Feed Pumps. As a result, reactor water level dropped below the Low Level (LL) 1 and 2
+actuation setpoints. Per design, the LL1 signal resulted in Group 2 (i.e., floor and equipment drain isolation valves), Group 6 (i.e.,
+monitoring and sampling isolation valves) and Group 8 (i.e., shutdown cooling isolation valves) isolations. The LL2 signals resulted
+in Group 3 (i.e., Reactor Water Cleanup) isolation, a secondary containment isolation signal, and an automatic start of Standby Gas
+Treatment and Control Room Emergency Ventilation. Also, the LL2 resulted in High Pressure Coolant Injection (HPCI) and Reactor
+Core Isolation Cooling (RCIC) System automatically starting and injecting into the Reactor Pressure Vessel (RPV).
+Event Cause
+The direct cause of the false high reactor water level signal on two out of three level instruments was hydrogen deflagration in the
+associated condensing chambers. The root cause of this event was a flaw in the original design of the reactor level instrument
+condensing chambers that made them susceptible to accumulation of a flammable mixture of hydrogen and oxygen under certain
+conditions. A contributing cause to this event was that the Brunswick evaluation of General Electric (GE) Service Information Letter
+(SIL) 643, “Potential for radiolytic gas detonation,” did not fully address the vulnerability to hydrogen accumulation in the reactor
+level instrument condensing chambers.
+The two level instruments that sensed the false high reactor water level both have reference legs connected to the N12A RPV
+nozzle. These reactor level instruments indicated high level for a few seconds, then returned to normal. There was no actual high
+reactor level condition as verified by other indications.
+At the time of the event, Unit 1 had been on-line for approximately 10 days. The previous outage (i.e., approximately 10 days before
+the event) was the result of the failure of a cryogenic fitting on the steam line to the reactor level instrument condensing chambers
+on the N12B nozzle. During the outage, cryogenic fittings on the steam lines from the N12A and N12B nozzles were replaced.
+When the cryogenic couplings were replaced with welded fittings, the RPV level was reduced to below the N12A and N12B nozzles
+and air was introduced into the steam lines and condensing chambers for the level instruments. Air is rarely introduced into the
+condensing chambers; before this event the last maintenance that resulted in air introduction occurred in 1989. For deflagration to
+occur in the condensing chambers, hydrogen and oxygen must be present. The oxygen generated during normal operation does not
+support deflagration. During normal operation and refueling outages, there is effectively no opportunity for air to be introduced into
+the RPV level instrument reference leg condensing chambers. No air is present in the RPV during operation, and reactor water level
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000325 YEAR NUMBER NO.
+Unit 1
+2019 - 003 - 00
+NARRATIVE
+is maintained above the instrument nozzles when the reactor is shutdown except for a brief period during reactor startup when the
+vessel level is lowered with the head vents open. There is no flow path through the condensing chamber during this period, so the
+amount of exchange within the chamber is minimal.
+When the replacement work was complete, the reference leg was refilled using demineralized water via the Control Rod Drive
+System reference leg backfill system. The RPV level instruments were calibrated and verified to be working properly. Unit 1 was
+started up, synchronized to the grid on April 11, and operated at full power prior to this event.
+The condensing chambers are a local high point for the level instrument piping. Therefore, hydrogen will accumulate in the
+condensing chamber and steam piping as steam is condensed. Because of the introduction of air during the coupling replacement
+work, over time the hydrogen mixed with the trapped air, creating a more unstable mixture than the typical steam/hydrogen mixture.
+At 23:06 on April 21, the hydrogen-air mixture ignited releasing energy and resulting in a pressure spike followed by a collapse of
+the gas volume which created a vacuum in the condensing chambers and resulted in the indicated reactor level to register an
+increase on the affected instruments connected to the N12A nozzle.
+Safety Assessment
+There was no adverse impact on the health and safety of the public. The safety significance of this event is minimal. The automatic
+reactor trip was not complicated and all safety related systems operated as designed.
+Corrective Actions
+Prior to restart from this event, the Unit 1 level instrument reference legs connected to the N12A and N12B RPV nozzles were
+flushed with high velocity demineralized water to remove trapped air. In addition, Unit 2 was verified to not be vulnerable to a similar
+event.
+In addition to the aforementioned completed corrective actions, the following corrective actions are currently planned.
+• Applicable procedures and drawings will be revised to include information that hydrogen may be present in the steam lines and
+condensing chambers connected to the N12A and N12B RPV nozzles and that purging these lines may be required if air is
+allowed to enter this area. These actions are scheduled to be completed by November 14, 2019.
+• The original GE SIL 643 response will be reassessed using current Operating Experience and Vendor Technical Information
+Program guidance to ensure other vulnerabilities are adequately addressed and adequate technical rigor is applied. This action
+is scheduled to be completed by November 14, 2019.
+Any changes to corrective actions or completion schedules will be made in accordance with the site’s corrective action program.
+Previous Similar Events
+No events have occurred within the past three years in which a flaw in the original design resulted in a LER.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (04-2018) Page 3 of 3

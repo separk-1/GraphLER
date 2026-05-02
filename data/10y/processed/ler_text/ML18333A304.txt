@@ -1,0 +1,171 @@
+Exelon Generation
+10CFR 50.73
+CCN: 18-121
+November 29, 2018
+U. S. Nuclear Regulatory Commission
+A TIN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 3
+Renewed Facility Operating License No. DPR-56
+NRC Docket No. 50-278
+Subject: Licensee Event Report (LER) 3-18-003
+Enclosed is a Licensee Event Report concerning an automatic reactor scram following the
+loss of two condensate pumps. In accordance with NEI 99-04, the regulatory commitment
+contained in this correspondence is to restore compliance with the regulations. The specific
+methods that have been planned to restore and maintain compliance are discussed in the
+LER. If you have any questions or require additional information, please do not hesitate to
+contact Matt Retzer at 717-456-4351.
+Patrick D. Navin
+Site Vice President
+Peach Bottom Atomic Power Station
+PDN/dnd/IR 4178845
+Enclosure
+cc: US NRC, Regional Administrator, Region I
+US NRC, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+D. Tancabel, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2016)
+Estlnated burden per response lo comply with th~ mandatory collection request: BO hours.
+...v. " REcu, LICENSEE EVENT REPORT (LER) Reported lessons learned are ilcorporated into the licensing process and fed back to
+~v .,,,.. industry. Send comments regarding burden estimate to the lnfomnation ServK:es Branch
+f:J.::f., ~~o~ (T-2 F43), U.S. Nuclear Regulatory Commission. Washngton. DC 20555-0001, or by e-mai to
+:~ ~ ; ~ . ...... ;· .: :n 0 ; (See ( S N e U e R P E a G g - e 1 0 2 2 f 2 o , r R re . q 3 u f i o r r e d in n st u r m uc b ti e o r n o a f n d d ig g its u / i c d h a a n r c a e c t fo e r r s c o fo m r p e l a e c ti h n g b l t o h c is k ) f orm D A ln f C f f o a 2 c ir 0 o s 5 l , le 0 c N 3 ts E . O R S e - s 1 I o f 0 u 2 rc a 0 e 2 @ . m n ( e r 3 c a 1 . n g 5 s o 0 v -0 , 1 u a 0 s n 4 e d ) d . to O t t o h f e f ic D e '1 e 1 s p o k o f s O e M ffi a c a n e n a r , g O e i m n ff l i o e c r n e m t o a f < t i I l o n 1 n d fo rm B c a u o d t " i e o g c n e t i t o a , n n d W R d a o s e h e g i s u n l g a t t o n o n o ry t .
+...'.+ -? ':} o/-0~ httg:l/www.nrc.gov/reading-rm/doc-collections/nuregsistaff/srl 022/r3/) d~lay a currently valid OMB control number. the NRC may not conduct or sponsor, and a
+person ~not required to respond to, the '1formalion collection
+1. Facility Name 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station Unit 3 05000278 1 OF 3
+4. Title
+Automatic Reactor Scram Due to Loss of Two Condensate Pumps
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Vear Vear Number No. Month Day Vear 05000
+- - Facility Name Docket Number
+09 30 2018 2018 003 0 11 29 2018 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) ~ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+1O . Power Level 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50. 73(a)(2)(v)(B) 73.71 (a)(S)
+D ·D D D
+20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) 13.77(a)(1)
+100% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2}(v)(D) D 73.77(a}(2)(i)
+D D D D
+20.2203(a}(2}(vi) 50.73(a)(2}(i)(B) 50.73(a)(2)(vii) 73.77(a)(2}(ii)
+D D
+50.73(a}(2)(i)(C) Other {Specify in Abstract below or in NRC Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Matthew E. Retzer, Regulatory Assurance Manager 717-456-4351
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B EA CBLS NA Yes
+14. Supplemental Report Expected Month Day Vear
+15. Expected Submission Date
+D
+Yes {If yes, complete 15. Expected Submission Date) ~No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 9/30/18, an automatic reactor scram of Unit 3 occurred due to low reactor vessel water level following the
+loss of two condensate pumps. Plant equipment responded properly. The High Pressure Coolant Injection
+and Reactor Core Isolation Cooling systems automatically initiated on reactor low water level and restored
+level, in addition to the '3C' condensate pump and feedwater system. Reactor cooldown commenced in
+accordance with plant procedures.
+The cause of the event was determined to be due to an electrical fault in the power cable for '38' condensate
+pump a.nd actuation of ground protective circuitry for the '3A' condensate pump. The electrical fault in power
+cables for the '38' pump caused a ground current transient that raised the ground potential of the '3A'
+condensate pump transformer, resulting in a trip of the '3A' pump. Subsequently, power cables for the '38'
+pump were replaced and ground circuitry for the '3A' pump was corrected to prevent such interaction.
+There were no actual safety consequences as a result of this event. The '3C' condensate pump and reactor
+feedwater remained available for post-scram recovery.
+NRG FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04·2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocotlects.Resource@nrc.gov, and to
+the Desk Officer, Oflice ol Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http:l/www.nrc.gov/readinq-rmldoc-collectionslnuregs/staff/srl 022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2018 - 003 0
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 3 was operating in Mode 1 at approximately 100% rated thermal power. There were no structures,
+systems or components out of service that contributed to this event.
+Description of Event
+On 9/30/18, at approximately 1128 hours, Condensate [EllS:SO] Pumps '3A' and '38' both tripped. With the
+loss of two of the three condensate pumps, reactor water level lowered as expected from the normal 23
+inches to the automatic reactor scram setpoint of 1 inch. Plant equipment responded as expected. The
+High Pressure Coolant Injection (HPCI) [EllS:BJ] and Reactor Core Isolation Cooling (RCIC) [EllS:BN]
+systems automatically initiated on reactor low water level. Group II and Ill containment isolation signals
+were received, resulting in valve closures for several systems, including portions of Residual Heat Removal
+(AHR) shutdown cooling, reactor water cleanup, drywell drains and drywell purge. HPCI and RCIC were
+secured and reactor level was maintained with the '3C' condensate pump and a reactor feed pump.
+Reactor cooldown commenced in accordance with plant procedures.
+Analysis of Event
+Initial investigation of the event revealed the '38' condensate pump trip occurred first and the '3A'
+condensate pump tripped immediately (approximately 0.009 seconds) afterwards. A visual inspection of the
+cables at the cubical identified a degraded section of insulation on the 8 phase cable. The insulation
+showed a scorch mark where an electrical arc occurred. When the cable was cut, water was observed in
+the area between the aluminum conductors. The cable had been replaced in October 2017 and was pulled
+through underground conduit. The end of the cable was not adequately sealed to prevent water from
+entering the cable during the cable pull.
+A ground overcurrent relay for the '3A' condensate pump was found to be tripped. Ground fault detection
+circuitry for the '3A' condensate pump uses a zero-sequence current transformer (CT), which requires the
+ground wire for the cable shield to pass through the CT. When ground wires were installed for the '3A'
+condensate pump power cables in October 2015, the ground wire was not properly routed through the CT.
+As a result, when the ground fault occurred at the '38' pump transformer, a ground potential rise occurred
+which actuated the '3A' ground detection circuitry.
+This event is being reported in accordance with the following:
+• 1O CFR 50. 73(a)(2)(iv)(A) - any event or condition that resulted in manual or automatic actuation of
+systems including HPCI, RCIC, the reactor protection system (reactor scram) or containment
+isolation.
+There were no safety consequences as a result of this event. All safety systems responded as expected.
+The '3C' condensate pump and reactor feedwater remained available for post-scram recovery.
+NRG FORM 366A (04-2018) Page_2_ of~
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and led back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the lnlormation Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnlocollects.Resource@nrc.gov, and to
+the Desk Ollicer, O!lice of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an inlormation
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the inlormation collection.
+http ://www. n re. gov/reading-rm/doc-collections/nu regs/staff/s r1 022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2018 - 003 0
+NARRATIVE
+Cause of the Event
+Both conditions that led to the reactor scram (water in a cable for the '38' condensate pump transformer and
+an incorrectly routed ground wire for the '3A' condensate pump) were due to failure to comply with Electrical
+Specification E-1317, 'Wire and Cable - Notes and Details," when work was being performed. This
+specification contains requirements for waterproofing the ends of cables when they are being pulled through
+underground conduits and requirements for routing grounding wires when using zero-sequence CTs.
+Corrective Actions
+The affected equipment has been repaired. Cables have been replaced for the '38' condensate pump and
+the '3A' cable shield ground wire has been routed through the CT. Additional corrective actions are
+documented in the Corrective Action Program.
+Previous Similar Occurrences
+No previous similar occurrences have been identified.
+NRC FORM 366A (04-2018) Page _3_ of _L

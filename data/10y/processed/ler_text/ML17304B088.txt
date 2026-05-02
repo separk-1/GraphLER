@@ -1,0 +1,461 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+October 31, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 3
+Renewed Facility Operating License No. DPR-68
+NRC Docket No. 50-296
+Subject: Licensee Event Report 50-296/2017-001-00
+The enclosed Licensee Event Report provides details on the inoperability of a Residual
+Heat Removal Pump resulting in a condition prohibited by Technical Specifications. The
+Tennessee Valley Authority is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations 50.73 (a)(2)(i)(B).
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-296/2017-001-00 - Inoperable Residual Heat
+Removal Pump Results in Condition Prohibited by Technical Specifications
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 3
+Licensee Event Report 50-296/2017-001-00
+Inoperable Residual Heat Removal Pump Results in Condition Prohibited by Technical Specifications
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Browns Ferry Nuclear Plant, Unit 3 05000296 1 OF 8
+4. TITLE
+Inoperable Residual Heat Removal Pump Results in Condition Prohibited by Technical Specifications
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR
+SE
+N
+Q
+U
+U
+M
+E
+B
+N
+E
+T
+R
+IA L R
+N
+E
+O
+V
+.
+MONTH DAY YEAR N/A
+N/A
+FACILITY NAME DOCKET NUMBER
+09 01 2017 2017 - 001 - 00 10 31 2017
+N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100 20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mimi King-Patterson, Licensing Engineer (256) 614-7225
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B BO BKR S125 Y N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO N/A N/A N/A
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 1, 2017, at approximately 1006 Central Daylight Time (CDT), Browns Ferry Nuclear Plant (BFN)
+Unit 3 3A Residual Heat Removal (RHR) system pump failed to start during performance of Surveillance
+3-SR-3.5.1.6 (RHR I), Quarterly RHR System Rated Flow Test Loop I. The apparent cause was the Electrical
+Preventive Maintenance Instruction for 4kV Wyle/Siemens Horizontal Vacuum Circuit Breaker (Type-3AF) and
+Compartment Maintenance was revised to include steps to secure the breaker’s mounting hardware which caused
+internal binding of the indication flag. Binding of the indication flag prevented the closing spring of the breaker from
+charging and the breaker from closing on demand. As a result, automatic start of the 3A RHR pump was
+prevented. On September 1, 2017, at approximately 1633 CDT, the 3A RHR Pump was declared operable
+following lubrication and testing of the breaker’s indication flag mounting bolt.
+A Past Operability Evaluation concluded that the 3A RHR Pump was inoperable from July 26, 2017 to
+September 1, 2017, which exceeded the Technical Specification allowed outage time. During this time, the 3B, 3C,
+and 3D RHR pumps would have started automatically upon receipt of an Emergency Core Cooling System (ECCS)
+initiation signal or from an Operator manual start demand from the Control Room. Based on results from the
+Probability Risk Assessment and Engineering inspections, there was no significant risk to the health and safety of
+the public or plant personnel for this event. The Corrective Action to reduce the probability of similar events
+occurring in the future will be addressed by revising the Electrical Preventive Maintenance Instruction for 4kV
+Wyle/Siemens breakers to ensure freedom of movement of the indication flag is present during the breaker
+inspection.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 3 was in Mode 1 at 100 percent power.
+II. Description of Event
+A. Event Summary
+On September 1, 2017, at approximately 1006 Central Daylight Time (CDT), BFN Unit 3 3A
+Residual Heat Removal (RHR)[BO] system pump [P] failed to start during the performance of
+Surveillance, 3-SR-3.5.1.6 (RHR I), Quarterly RHR System Rated Flow Test Loop I. Maintenance
+troubleshooting revealed that the 3A RHR pump motor breaker’s [BKR] closing spring failed to
+charge preventing the breaker from closing on demand. Malfunction of the 3A RHR pump motor
+breaker resulted in 3A RHR pump failing to start during manual or automatic actuation. Operations
+personnel declared 3A RHR pump inoperable.
+A Past Operability Evaluation (POE) was performed for the 3A RHR pump failure. The POE
+concluded that the 3A RHR pump was inoperable from July 26, 2017 to September 1, 2017. BFN
+Technical Specifications (TS) Limiting Condition of Operability (LCO) 3.5.1 Required Action A.1
+requires, with one required Emergency Core Cooling System (ECCS) injection/spray subsystem
+inoperable, that the required ECCS injection/ spray subsystem be restored to operable status within
+seven days. Additionally, BFN TS LCO 3.6.2.3 Required Action A.1 requires, with one RHR
+suppression pool cooling subsystem inoperable, restore the RHR suppression pool cooling
+subsystem to operable status within 30 days. The 3A RHR pump was inoperable for a time longer
+than allowed by TS. Therefore, The Tennessee Valley Authority (TVA) is submitting this report in
+accordance with Title 10 of the Code of Federal Regulations (10 CFR) 50.73(a)(2)(i)(B), as any
+operation or condition which was prohibited by the plant’s TS.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+No inoperable systems, structures, or components contributed to this event.
+Page 2 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+C. Dates and approximate times of occurrences
+Dates & Approximate Times Occurrence
+July 26, 2017, 0859 CDT 3A RHR pump was started in Suppression Pool
+cooling mode to support Reactor Core Isolation
+Cooling (RCIC) [BN] flowrate surveillance testing.
+July 26, 2017, 1110 CDT 3A RHR pump was removed from service following
+RCIC flowrate testing.
+September 1, 2017, 1006 CDT During performance of Surveillance 3-SR-3.5.1.6
+(RHR I), 3A RHR pump failed to start. Operations
+personnel declared 3A RHR pump inoperable.
+September 1, 2017, 1633 CDT Operations personnel placed 3A RHR pump in service
+following Maintenance troubleshooting and post
+maintenance testing (PMT).
+D. Manufacturer and model number of each component that failed during the event
+The failed component during this event was the 3A RHR pump motor breaker. The model number
+for the 3A RHR pump motor breaker is 5-3AF-GEH-250-1200-58, manufactured by Siemens.
+E. Other systems or secondary functions affected
+There were no other systems or secondary functions affected by this condition.
+F. Method of discovery of each component or system failure or procedural error
+On September 1, 2017, during performance of Surveillance 3-SR-3.5.1.6 (RHR I), 3A RHR pump
+failed to start. Maintenance troubleshooting determined that the closing spring on 3A RHR pump
+motor breaker failed to charge due to internal binding of the breaker’s indicating flag. The as-found
+condition of the breaker prevented the breaker from closing on demand. Due to the malfunction of
+3A RHR pump motor breaker, the 3A RHR pump was unable to perform its design basis function.
+G. The failure mode, mechanism, and effect of each failed component
+This event was the result of internal binding of the 3A RHR pump motor breaker’s
+charged/uncharged indication flag, which prevented the closing spring from charging and the
+breaker from closing on demand. With the breaker’s actuating spring discharged, manual and
+automatic start of the 3A RHR pump was prevented.
+It was discovered that although the 3A RHR pump motor breaker indicated charged and ready to
+close, the breaker actuating spring was actually discharged. Additional troubleshooting revealed that
+the breaker’s charged indicating flag was bound, preventing actuation of the internal breaker
+Page 3 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+charging limit switches. Since the limit switches could not change position following the last
+operation of the breaker, the ready to close light never extinguished and the charging motor never
+charged the breaker’s actuating spring. This failure mechanism resulted in a false indication of the
+status of the breaker.
+H. Operator actions
+In response to indication that the 3A RHR pump was not functional, Operations personnel declared
+3A RHR pump inoperable.
+I. Automatically and manually initiated safety system responses
+No safety system responses resulted from this event.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The Electrical Preventive Maintenance Instruction for 4kV Wyle/Siemens Horizontal Vacuum Circuit
+Breaker (Type-3AF) and Compartment Maintenance was revised on September 30, 2010 to include
+steps to verify that the breaker’s spring charging motor mounting screws were secure. The
+procedure did not specify a step to inspect the indication flag mounting bolts. The mounting bolts are
+installed and inspected at the vendor’s facility and are not normally adjusted during Preventive
+Maintenance (PM). Therefore, torque requirements were never provided for the indication mounting
+bolts. The inclusion of steps in the procedure to secure the spring charging motor mounting screws,
+without providing torque requirements, could have inadvertently caused overtightening of the
+indication flag. Therefore, any Wyle/Siemens breaker tested after September 30, 2010, would be
+more susceptible to binding of the indication flag. Thus, the apparent cause was the Electrical
+Preventive Maintenance Instruction for 4kV Wyle/Siemens Horizontal Vacuum Circuit Breaker
+(Type-3AF) and Compartment Maintenance provided a potential inaccurate step to secure all
+mounting hardware.
+A 20 year old breaker test specimen was inspected at the vendor’s facility. The vendor simulated the
+same failure mode of the breaker by tightening the indication flag mounting screw. When the
+mounting screw was tightened, it caused the indication flag to bind and become resistant to
+movement. However, loosening of the mounting screw allowed freedom of range of movement and
+the indication flag operated as designed.
+The direct cause of this event was binding of the charged/uncharged indication flag, which
+prevented the closing spring from charging and the 3A RHR pump motor breaker from closing on
+demand. Malfunction of the breaker resulted in the 3A RHR pump failing to start during manual or
+automatic actuation.
+Page 4 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+B. Cause(s) and circumstances for each human performance related root cause
+There were no human performance root causes related to this event. All vendor guidance and
+maintenance procedures were followed. Although the apparent cause was an inaccurate step in the
+Electrical Preventive Maintenance Instruction for 4kV Wyle/Siemens Horizontal Vacuum Circuit
+Breaker (Type-3AF) and Compartment Maintenance to secure all mounting hardware, it was not
+reasonably foreseeable that slight tightening of the mounting bolts would cause binding of the
+indication flag. This step was included to preclude breaker inoperability due to loose bolts.
+IV. Analysis of the event
+This event resulted in BFN, Unit 3, 3A RHR Pump being inoperable for longer than allowed by the TS.
+With the 3A RHR pump motor breaker actuating spring discharged, the ability of the 3A RHR pump to
+automatically start or manually start was prevented.
+The Safety objectives of the RHR System are as follows:
+a. To restore and maintain the coolant inventory in the reactor vessel so that the core is
+adequately cooled after a loss-of-coolant accident. The RHR System also provides cooling
+for the pressure suppression pool so that condensation of the steam resulting from the
+blowdown due to the design basis loss-of-coolant accident is ensured.
+b. To further extend the redundancy of the Core Standby Cooling Systems by providing for
+containment cooling.
+The Low Pressure Coolant Injection (LPCI) subsystem is an integral part of the RHR System. It
+operates to restore and, if necessary, maintain the coolant inventory in the reactor vessel after a
+loss-of-coolant accident so that the core is sufficiently cooled. The LPCI mode of operation of the RHR
+System pumps water into the reactor vessel in time to flood the core and limit fuel clad temperature.
+During the period when 3A RHR pump was inoperable, 3B, 3C, and 3D RHR pumps were operable and
+available to perform this function.
+A POE was performed for the 3A RHR pump. The POE concluded that the 3A RHR pump was
+inoperable from July 26, 2017 to September 1, 2017. BFN, Unit 3, TS LCO 3.5.1 requires that each
+ECCS injection/spray subsystem and the Automatic Depressurization System (ADS) function of six
+safety/relief valves shall be Operable in Mode 1, and Modes 2 and 3, except High Pressure Coolant
+Injection (HPCI) [BJ] and ADS valves are not required to be operable with reactor steam dome pressure
+less than or equal to 150 pounds per square inch gauge (psig). Required Action A.1 requires, with one
+required ECCS injection/spray subsystem inoperable, that the required ECCS injection/ spray
+subsystem be restored to operable status within seven days. Additionally, BFN TS LCO 3.6.2.3 requires
+that four RHR suppression pool cooling subsystems shall be operable. Required Action A.1 requires,
+with one RHR suppression pool cooling subsystem inoperable, restore the RHR suppression pool
+cooling subsystem to operable status within 30 days. The 3A RHR Pump, credited as a required low
+Page 5 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+pressure ECCS Injection/spray and suppression pool cooling subsystem, was inoperable for a time
+longer than allowed by TS. Therefore, Unit 3, was in violation of TS 3.5.1 and 3.6.2.3 Required
+Action A.1.
+V. Assessment of Safety Consequences
+A Probabilistic Risk Assessment (PRA) was performed to evaluate the failure of the 3A RHR pump. The
+PRA concluded that the risk thresholds for the 3A RHR Pump was GREEN during the time of
+inoperability. The total change in Core Damage Frequency (CDF) and Large Early Release Frequency
+(LERF) for the failure of the 3A RHR pump from July 26, 2017 to September 1, 2017 was 3.06E-07 and
+7.39E-08, respectively. The 1E-6 (CDF) and 1E-7 (LERF) thresholds for green were met.
+There are a total of 93 safety related 4kV Wyle/Siemens breakers located in the plant. PMs were
+performed on 60 of the 93 breakers after the Electrical Preventive Maintenance Instruction for 4kV
+Wyle/Siemens Horizontal Vacuum Circuit Breaker (Type-3AF) and Compartment Maintenance was
+revised to include steps to secure the breaker’s mounting hardware. These 60 breakers could be more
+susceptible to binding of the indication flag. Engineering performed a visual inspection of 43 out of the
+60 safety related horizontal Wyle/Siemens breakers. These 43 breakers were chosen because they
+were in a non-protected status, were in the open position to preclude the potential trip of a closed
+breaker, and did not present a high safety risk to plant personnel. The inspection verified that the closing
+spring of the breakers were charged as expected. Work orders have been created to perform more
+intrusive inspections on all 60 breakers to test the indication flag. The 17 breakers that were excluded
+from the initial visual inspection will also be inspected to verify the closing springs are charged. These
+inspections will occur during planned outages to mitigate personnel safety risks and the potential of a
+plant trip or transient. While common mode failure in the remaining breakers is not expected, if the
+inspections result in identifying similar failures, a supplement will be provided to this LER.
+Based on the above discussion, TVA has concluded that, during the time period that 3A RHR Pump was
+inoperable, there was no significant risk to the health and safety of the public or plant personnel for this
+event.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+During this event, RHR Pumps 3B, 3C, and 3D retained the ability to automatically start upon receipt
+of an ECCS Initiation signal or from an Operator manual start demand from the Control Room.
+Additionally, the 3A, 3B, 3C and 3D Core Spray pumps remained available and operable except
+during minimal periods where the core spray pumps were inoperable due to Surveillances being
+performed.
+Page 6 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+These conditions did not occur during a shutdown.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed time
+from discovery of the failure until the train was returned to service
+This event resulted in inoperability of the 3A RHR pump for a time longer than allowed by TS, from
+the last time the 3A RHR Pump was started in Suppression Pool Cooling Mode to support RCIC
+Flowrate Surveillance testing on July 26, 2017, until the time of discovery of the condition on
+September 1, 2017.
+VI. Corrective Actions
+Corrective Actions (CAs) are being managed by TVA’s corrective action program under Condition
+Report (CR) 1334534.
+A. Immediate Corrective Actions
+The indication flag mounting bolt was inspected, lubricated and tested. Engineering performed initial
+inspections of 43 risk significant, safety related horizontal Wyle/Siemens breakers to address
+common mode failure. The closing springs of the 43 breakers inspected were all charged as
+expected with no indication of common mode failure.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+The Corrective Action to reduce the probability of similar events occurring in the future will be
+addressed by revising the Electrical Preventive Maintenance Instruction for 4kV Wyle/Siemens
+Horizontal Vacuum Circuit Breaker (Type-3AF) and Compartment Maintenance to ensure freedom
+of movement of the indication flag is present during the Breaker inspection. If binding is present,
+adjustment of the indication flag mounting bolt will be made until freedom of movement is obtained.
+Additional corrective actions include:
+Inspections on all safety related Wyle/Siemens breakers will be performed to inspect freedom of
+movement of the indication flags and to ensure no other common mode failures exist.
+A failure analysis of the breaker will be performed to determine cause of the 3A RHR Pump failure.
+Page 7 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Browns Ferry Nuclear Plant, Unit 3 05000-296
+2017 - 001 - 00
+VII. Previous Similar Events at the Same Site
+A review of the BFN CAP and Licensee Event Reports (LERs) for Units 1, 2, and 3 revealed three
+similar events over the last four years:
+LER 50-296/2014-003-00 describes a RHR Shutdown Cooling Inboard Suction Valve Isolation Relay
+[RLY] which was rendered inoperable for longer than allowed by TS due to improper landing of leads
+during PM. The event is similar because an improperly connected wire resulted in a long period
+of inoperability for a safety system. Corrective Actions were to develop and deliver a case study to the
+Maintenance, Modifications, and Operations departments based on the details of this event.
+LER 50-260/2015-001-00 describes a failure of the 2A RHR Pump to manually start from the
+control room due to a loose fastener. The event is similar because an improperly latched
+hand switch resulted in a long period of inoperability for a safety system. Corrective Actions for
+this event were to discipline the individuals responsible, to tighten the loose fastener, and to
+revise maintenance instructions to reduce the probability of recurrence.
+LER 50-296/2016-001-00 describes a failure of the 3A RHR Pump which was rendered inoperable for
+longer than allowed by TS due to failure of the 3A RHR Pump Motor Breaker Transfer Switch (MBTS) to
+fully latch due to binding. Binding of the MBTS resulted from being installed greater than it’s twenty-one
+year service life with no PM performed. Corrective Actions were to verify similar SB-1 transfer switches
+are latched in the NORMAL position on BFN, Units 1, 2, and 3, and to create a PM activity to
+periodically replace GE SB-1 transfer switches similar to the 3A RHR Pump MBTS on a 20 year
+frequency.
+Corrective Actions from these LERs would not have prevented this event.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+Page 8 of 8

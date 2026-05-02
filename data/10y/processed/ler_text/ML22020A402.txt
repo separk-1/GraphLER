@@ -1,0 +1,199 @@
+( -, DUKE John A. Krakuszeski
+Vice President
+~ ENERGY®
+Brunswick Nuclear Plant
+8470 River Rd SE
+Southport, NC 28461
+o: 910.832.3698
+10 CFR 50.73
+January 20, 2022
+Serial: RA-21-0344
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit Nos. 1 and 2
+Renewed Facility Operating License Nos. DPR-71 and DPR-62
+Docket Nos. 50-325 and 50-324
+Licensee Event Report 1-2021-001
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, is submitting the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Mark DeWire, Manager - Nuclear
+Support Services, at (910) 832-6641.
+Sincerely,
+John A. Krakuszeski
+SBY/sby
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+Ms. Laura Dudes, NRC Regional Administrator, Region II
+Mr. Luke Haeg, NRC Project Manager
+Mr. Gale Smith, NRC Senior Resident Inspector
+Chair - North Carolina Utilities Commission
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Brunswick Steam Electric Plant (BSEP), Unit 1 05000325 1 OF 3
+4. Title
+Automatic Specified System Actuation due to Loss of Power to Emergency Bus E3
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year Brunswick, Unit 2 05000324
+12 06 2021 2021 - 001 - 00 01 20 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Mark DeWire, Manager – Nuclear Support Services (910) 832-6641
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 11:25 Eastern Standard Time (EST) on December 6, 2021, during a planned Emergency Diesel Generator (EDG) 3 maintenance
+outage, with Unit 1 and 2 in Mode 1 at approximately 100% power, electrical power was lost to 4160V emergency bus E-3. By design
+this resulted in automatic isolation of various Unit 2 Primary Containment Isolation System (PCIS) Group 2, 3, 6, and 10 isolation
+valves, and Unit 1 PCIS Group 6 isolation valves. EDG 3 received an automatic start signal by design but was under clearance for
+planned maintenance and therefore did not start.
+Electrical power to emergency bus E-3 was lost due to an inadvertent undervoltage signal generated during a planned relay
+replacement as part of the EDG 3 maintenance outage. During removal of a support bar to facilitate relay replacement, a washer was
+released contacting terminals directly below the bolt being removed causing control power fuses to blow. This resulted in an
+undervoltage signal and the loss of electrical power to emergency bus E-3. The washer that was released was not on any design
+drawings and its location, behind the support bar, precluded viewing and establishment of preventative measures.
+Emergency bus E-3 was re-energized on December 6, 2021, at 13:12 EST via its normal power source (i.e., Unit Auxiliary
+Transformer). There was no impact on the health and safety of the public or plant personnel. The safety significance of this event is
+minimal.
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) due to actuation of the PCIS and EDG 3.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000- 325 YEAR NUMBER NO.
+Unit 1
+2021 - 001 - 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of the event, Unit 1 was in Mode 1 (i.e., Power Operation), at approximately 100 percent rated thermal power. Unit 2 was
+in Mode 1 (i.e., Power Operation), at approximately 100 percent rated thermal power.
+Reportability Criteria
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) because it involved actuation of systems listed in
+10 CFR 50.73(a)(2)(iv)(B). Specifically, the Unit 1 and 2 Primary Containment Isolation System (PCIS) [JM], and Emergency Diesel
+Generator (EDG) [EK] 3 actuated during this event.
+The NRC was notified of this event per 10 CFR 50.72(b)(3)(iv)(A) via Event Notification 55627 at 18:14 Eastern Standard Time
+(EST) on December 6, 2021. An update was provided on December 6, 2021, at 20:28 EST.
+Event Description
+At 11:25 EST on December 6, 2021, during a planned maintenance outage on EDG 3, with Unit 1 and 2 in Mode 1 at approximately
+100% power, electrical power was lost to 4160V emergency bus [EB] E-3. EDG 3 received an automatic start signal by design but
+was under clearance for planned maintenance and therefore did not start.
+By design the loss of power to emergency bus E-3 and corresponding loads resulted in automatic isolation signals to various Unit 2
+PCIS Group 2 (i.e., Drywell Equipment and Floor Drain, Residual Heat Removal (RHR) Discharge to Radwaste, RHR Process
+Sample, and Traversing Incore Probe), Group 3 (i.e., Reactor Water Cleanup), Group 6 (i.e., Containment Atmosphere
+Control/Dilution, Containment Atmosphere Monitoring, and Post Accident Sampling Systems), and Group 10 (i.e., Drywell
+Pneumatics) isolation valves. In addition, automatic isolation of the Unit 1 PCIS Group 6 isolation valves occurred due to the
+resulting loss of power to the Main Stack High Radiation logic which is powered from Unit 2. Appropriate primary containment
+isolation valves closed as expected.
+Other Unit 1 and 2 actuations included Reactor Building Ventilation System [VA] isolation (i.e., Secondary Containment isolation)
+and automatic start signals to the Standby Gas Treatment System [BH] and Control Room Emergency Ventilation System [VI]. The
+affected equipment responded as designed.
+Event Cause
+As part of the planned EDG 3 maintenance outage, the EDG 3 Synchronization (Sync) Check Relay was being replaced. Inside the
+associated electrical compartment, a metal support bar connects the Sync Check Relay, the Over/Undervoltage Relay, and the
+Undervoltage Relay. Installation of the new Sync Check Relay required removal of the metal support bar to facilitate modification of
+the support bar to accommodate the slightly different bolting configuration of the new Sync Check Relay. During removal of the
+support bar, a washer was released contacting the Undervoltage Relay terminals directly below the bolt being removed causing
+control power fuses to blow. This resulted in an undervoltage signal to the protective relay logic which tripped the incoming breaker
+resulting in the loss of electrical power to emergency bus E-3.
+The washer that was released was not on any design drawings and its location, behind the support bar, precluded viewing and
+establishing measures to prevent the event. Work history was reviewed following the event and no work has been performed on
+these relays which would have disturbed the relay cases or the associated support bar, indicating that this washer configuration was
+part of original plant construction.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), 05000- 325 YEAR NUMBER NO.
+Unit 1
+2021 - 001 - 00
+NARRATIVE
+The cause of this event was insufficient rigor in documenting the as-built configuration of the equipment with the washer located
+behind the support bar. This condition has existed since original plant construction and is considered a historical condition.
+Safety Assessment
+There was no impact on the health and safety of the public or plant personnel as a result of this event. The safety significance of this
+event is minimal. The automatic system actuations occurred as expected, and all safety related systems operated as designed.
+Corrective Actions
+Emergency bus E-3 was re-energized on December 6, 2021, at 13:12 EST via its normal power source (i.e., Unit Auxiliary
+Transformer [EA]) following replacement of the associated control power fuses. The modified relay support bar was reinstalled on
+December 7, 2021.
+In addition, on December 16, 2021, signs were installed inside the Sync Check Relay cabinets associated with emergency bus E-3
+and E-4 identifying the potential for washers to be present behind relay support bars. Also, to prevent recurrence during the
+remaining Sync Check Relay replacements associated with emergency bus E-1 and E-2, work orders were updated on January 20,
+2022, to install signs inside the cabinets identifying the potential for washers to be present behind relay support bars, and to place
+insulating material behind the terminals of the adjacent relays prior to removing hardware from the relay support bar.
+Any revisions to corrective actions will be made in accordance with the site’s corrective action program.
+Previous Similar Events
+A review of events for the past three years identified the following previous similar events related to automatic system actuations
+during planned maintenance activities.
+• Event Notification 54144, completed on July 3, 2019, reported an invalid actuation of EDG 1 during planned maintenance
+when the starting air clearance was being lifted while simultaneously performing a Post Maintenance Test (PMT) where an
+external DC power source was applied to a relay that provided continuity directly to the starting air solenoids resulting in
+the energization of the air start solenoids causing EDG 1 to start. The event resulted from insufficient risk recognition for a
+first time PMT and shortfalls in the scheduling process.
+• Event Notification 54675, completed on April 22, 2020, reported an invalid actuation of PCIS Group 6 isolation valves
+during a planned refueling outage. The invalid actuation occurred when power was lost as a result of removal of the
+inboard isolation logic fuse during a planned clearance hang to support maintenance. The event resulted from inadequate
+procedure use and adherence in clearance development.
+The corrective actions associated with these previous similar events could not have reasonably been expected to prevent the
+condition reported herein.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (08-2020) Page 3 of 3

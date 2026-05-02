@@ -1,0 +1,302 @@
+TennesseeValleyAuthority,Sequoyah NuclearPlant, P.O. Box 2000,Soddy Daisy, Tennessee37384
+October 3, 2016
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed FacilityOperating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report 50-327 and 50-328/2016-004-01, Emergency Diesel
+Generator Fire Dampers and Crankcase Pressure Switches Not Analyzed for
+Withstanding the Effects of aTornado
+Reference: Letter from TVAto NRC, "Licensee Event Report 50-327 and 50-328/2016-004-
+00, Emergency Diesel Generator FireDampers and Crankcase Pressure
+Switches Not AnalyzedforWithstanding the Effectsofa Tornado,"dated
+July 15, 2016
+The enclosed Licensee Event Report has been revised with supplemental information
+concerning the Emergency Diesel Generatorfire dampersand crankcase pressure switches
+not being analyzed for withstanding theeffects of atornado. This revised report reflects the
+results oftheapparentcause analysis along with further corrective actions. This report is being
+submitted inaccordance with 10 CFR 50.73(a)(2)(ii)(B), as an event or conditionthat resulted
+in the nuclearpowerplant beingin an unanalyzed condition thatsignificantly degraded plant
+safety. Changes tothereference report areindicated by revision bars on theright side margin
+of the page.
+Thereare noregulatory commitments contained in thisletter. Should you haveanyquestions
+concerning this submittal, pleasecontact Michael McBrearty, Site Licensing Manager, at
+(423)843-7170.
+Preston P. Pratt
+Plant Manager
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2016-004-01
+cc: NRC Regional Administrator- Region II
+NRC Senior Resident Inspector- Sequoyah Nuclear Plant
+printedonrecycledpaper
+NRC FORM366 U.S. NUCLEAR REGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burdenper response tocomply with thismandatory collection request:80 hours.
+Reported lessonslearnedareincorporated intothelicensing processandfedbacktoindustry.
+Sendcommentsregarding burdenestimatetotheFOIA, Privacy andInformation Collections
+V Branch(T-5F53),U.S.Nuclear Regulatory Commission, Washington, DC20555-0001, orby
+LICENSEE EVENT REPORT (LER)
+internete-mailtolnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationand
+RegulatoryAffairs, NEOB-10202, (3150-0104), Office ofManagementandBudget, Washington,
+DC20503.Ifameansusedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvalid
+OMB control number, the NRC maynotconductorsponsor,anda personis notrequired to
+respondto,theinformationcollection.
+1. FACILITY NAME 2. DOCKETNUMBER 3. PAGE
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. TITLE
+Emergency Diesel Generator Fire Dampers and Crankcase Pressure Switches Not Analyzed for Withstanding the
+Effects ofa Tornado
+5. EVENTDATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITYNAME DOCKETNUMBER
+SEQUENTIAL REV
+MONTH NUMBER NO MONTH Sequoyah Nuclear Plant Unit 2 05000328
+FACILITYNAME DOCKETNUMBER
+05 16 2016 2016 - 004 - 01 10 03 2016 NA
+9.OPERATING MODE 11.THIS REPORT ISSUBMITTED PURSUANTTO THE REQUIREMENTSOF 10 CFR§: (Checkallthatapply)
+• 20.2201(b) • 20.2203(a)(3)(i) • 50.73(a)(2)(ii)(A) • 50.73(a)(2)(viii)(A)
+• 20.2201(d) • 20.2203(a)(3)(i E3 50.73(a)(2)(ii)(B) • 50.73(a)(2)(viii)(B)
+• 20.2203(a)(1) • 20.2203(a)(4) • 50.73(a)(2)(iii) • 50.73(a)(2)(ix)(A)
+• 20.2203(a)(2)(i) • 50.36(c)(1)(i)(A) • 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x)
+10. POWERLEVEL • 20.2203(a)(2)(ii) • 50.36(c)(1)(ii)(A) • 50.73(a)(2)(v)(A) • 73.71(a)(4)
+• 20.2203(a)(2)(iii) • 50.36(c)(2) • 50.73(a)(2)(v)(B) • 73.71(a)(5)
+• 20.2203(a)(2)(iv) • 50.46(a)(3)(H) • 50.73(a)(2)(v)(C) • 73.77(a)(1)
+100 • 20.2203(a)(2)(v) • 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(D) • 73.77(a)(2)(i)
+• 20.2203(a)(2)(vi) • 50.73(a)(2)(i)(B) • 50.73(a)(2)(vii) • 73.77(a)(2)(H)
+• 50.73(a)(2)(i)(C) | | OTHER SpecifyinAbstractbeloworinNRCForm366A
+12. LICENSEECONTACT FORTHIS LER
+LICENSEECONTACT TELEPHONENUMBER (IncludeAreaCode)
+Rebecca L. Travis 423-843-8335
+13. COMPLETE ONELINE FOR EACH COMPONENT FAILURE DESCRIBED INTHIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A T N U U RER REP T O O R E T P A IX BLE CAUSE SYSTEM COMPONENT FA M C A T N U U RER REP T O O R E T P A IX BLE
+14. SUPPLEMENTAL REPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+• YES (Ifyes, complete 15. EXPECTEDSUBMISSIONDATE) [X] NO
+DATE
+ABSTRACT (Limitto1400spaces, i.e., approximately15single-spacedtypewrittenlines)
+On May16, 2016, at 2105 Eastern DaylightTime (EDT),Sequoyah Nuclear Plant (SQN) identified a nonconforming
+condition involvingthe Emergency Diesel Generator (EDG) firedampers installed for Units 1and 2. Specifically, ithas
+been identified that ifa tornado causes a differential pressure across the east and west sides of the EDG Building, the
+associated ventilation fire dampers have not been analyzed to withstand the corresponding high airflow rate that could
+result from this condition and could possibly failina way that impedes airflow for EDG cooling. On June 8, 2016, at
+1526 EDT, SQN determined that a tornado could potentially cause actuation of the EDG crankcase pressure trip due to
+a low barometriccondition thatcould result in an EDG lockout condition. The EDG lockout condition prevents
+subsequent EDGstarts (normal or emergency) untiloperators manually reset the lockout condition locallyat the EDG.
+Correctiveactions include establishing compensatory measures to block the fire dampers inthe open position inthe
+eventthata Tornado Watch/Warning is issued for the Hamilton County, Tennesseearea. Inaddition, a compensatory
+measure has been established, that upon notification ofa Tornado Warning, the EDGs will be emergency started and
+operated during the time the Tornado Warning is ineffect to bypass the crankcase pressure tripfunction and allowthe
+EDGs to perform their required safetyfunction. The apparentcause ofthese events is misjudgment regarding the
+intent ofthe Regulatory Issue Summary2006-23. The corrective actions developed in response to the RIS were too
+narrowlyfocused on ductwork and ventilating dampers withstanding the effects ofa tornado.
+NRCFORM366(11-2015)
+Page2 of 6
+NRCFORM366A U.S.NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest80hours.Reported
+lessonslearned are incorporated into the licensing processandfed backto industry. Send
+commentsregardingburdenestimatetotheFOIA,PrivacyandInformationCollectionsBranch(T-5
+vw/ F53), U.S. NuclearRegulatoryCommission, Washington, DC20555-0001,orbyinternete-mailto
+LICENSEE EVENT REPORT (LER) lnfocollects.Resource@nrc.gov,andtotheDeskOfficer,OfficeofInformationandRegulatoryAffairs,
+NEOB-10202,(3150-0104),OfficeofManagementandBudgetWashington, DC20503.Ifameans
+CONTINUATION SHEET usedtoimposeaninformationcollectiondoesnotdisplayacurrentlyvaldOMBcontrolnumber,the
+NRC maynotconductorsponsor,anda personis notrequired torespondto,theinformation
+collection.
+1.FACILITYNAME 2. DOCKETNUMBER 3. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah NuclearPlantUnit1 05000327
+2016 004 01
+NARRATIVE
+PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Atthe time ofthe events, Sequoyah Nuclear Plant (SQN) Unit1 and Unit2 were in Mode 1 at 100
+percent rated thermal power.
+DESCRIPTION OF EVENTS
+A. Event:
+On May16, 2016, at 2105 Eastern DaylightTime(EDT), Sequoyah Nuclear Plant (SQN)
+identifieda nonconforming condition involving the Emergency Diesel Generator(EDG)[ElIS
+Code EKand DG]firedampers [ElISCode DMP] installedfor Units1and 2. Specifically,ithas
+been identifiedthat ifa tornado causes a differential pressure across the east and west sides of
+the EDGBuilding, this couldcreate a highairflow rate through the EDGBuilding ventilationpath.
+The firedampers foreach EDGbay have notbeen analyzed to withstand highairflowsresulting
+from a tornado and could possibly failina waythat impedes airflowfor EDGcooling. This isan
+unanalyzed condition that potentially significantlydegrades plantsafety and couldprevent all
+EDGsfromsupplyingelectrical poweras designed duringa tornado orother similarweather
+events.
+On June 8, 2016, at 1526 EDT,anotherissue was identifiedinvolving the potential impact ofa
+tornado on the EDGs. The EDGs are designed witha crankcase pressuretrip[EMS Code PS],
+which isbypassed during an emergencystart. Atornadocould potentially cause actuation ofthe
+crankcase pressuretripdue to a low barometriccondition. Ifan emergency start signalhas not
+previously occurred,then during a tornado,actuation ofthe crankcase pressure trip would
+energizethe shutdownrelaycausing an EDG lockout condition. The EDG lockout condition
+prevents subsequent EDG starts (normal oremergency) until operators manuallyresetthe
+lockout condition locally at the EDG. Thiscondition places bothunitsinan unanalyzed condition
+that potentially significantly degrades plantsafetyand could potentially affectall fourEDGs
+simultaneously.
+B. Status ofstructures, components, orsystems that were inoperable at the start ofthe event
+and contributed to the event:
+Noinoperablestructures, components, orsystems contributedtothis event.
+NRCFORM366A(11-2015)
+Page 3 of 6
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah NuclearPlant Unit 1 05000327
+2016 004 01
+NARRATIVE
+C. Dates and approximatetimes of occurrences:
+Dateffime (EDT) Description
+May 16, 2016 at SQN determined that a tornado could potentially causefailure of the EDG
+2105 EDT building fire dampers.
+May 16, 2016 at An 8-hour non-emergency notification was madeto the NRC to reportthe
+2217 EDT event as an unanalyzed condition that significantly degrades plant safety
+per 10 CFR 50.72(b)(3)(ii)(B).
+June 8, 2016 at SQN determined that a tornado could potentially cause actuation of the
+1526 EDT EDG crankcase pressure trip.
+June 8, 2016 at An 8-hournon-emergency notification was made to the NRC to report the
+1710 EDT event as an unanalyzed condition that significantly degrades plantsafety
+per 10 CFR 50.72(b)(3)(ii)(B).
+D. Manufacturer and model numberof each componentthatfailed during the event:
+There were no componentfailures.
+E. Othersystems or secondaryfunctions affected:
+There were no othersystems or secondaryfunctions affected by this event.
+F. Method ofdiscovery of each component or system failure or procedural error:
+The unanalyzed conditions were discovered as a result ofquestions asked during the NRC
+Component Design Bases Inspection.
+G. Thefailure mode, mechanism, and effect of each failed component, ifknown:
+Therewere no componentfailures.
+H. Operatoractions:
+Upon determination ofeach unanalyzed condition, operators promptlymade NRC notifications.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual system responses associated with this event.
+NRCFORM366A(11-2015)
+Page 4 of 6
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah NuclearPlant Unit1 05000327
+2016 004 01
+NARRATIVE
+II. CAUSE OFTHE EVENT
+A. The cause of each component orsystem failure or personnel error, ifknown:
+The apparent cause ofthese events is misjudgment regarding the intent of Regulatory Issue
+Summary (RIS) 2006-23, "Post-Tornado Operability ofVentilating and Air-Conditioning Systems
+Housed in Emergency Diesel Generator Rooms." The corrective actions developed in response
+to RIS 2006-23were too narrowlyfocused on ductwork and ventilating dampers withstanding the
+effects ofa tornado, and did not conservatively expand the analysis limitsto include all safety
+related components within the ventilating system.
+B. The cause(s) and circumstancesfor each human performance related root cause:
+The human performance issuethat contributed to the cause was a wrong assumption or
+preconceived idea. The decision to analyze the ductwork and dampers, as opposedto all
+components ofthe ventilation system, appearsto have been a non-conservative decision;
+however, the decision also appears to have been more of a misunderstanding ofthe intent ofthe
+RIS. Sincethe licensee response that prompted RIS 2006-23 only analyzed vulnerable duct
+segments, itled to a predisposition ofthe initiatorofthe CR to suggestthat onlythe ductwork
+and dampers needed to be analyzed. These precursors led to a faultyscope. The decision
+does not appearto be deliberately non-conservative. The personnel involvedwiththe response
+to the CR were adequatelytrained inboth general engineering principles and workgroup specific
+training.
+IV. ANALYSIS OF THE EVENT
+All 4 EDGs are required to be operable by both units' Technical Specifications to provide electrical
+powerto safe shutdown/safety related equipmentfollowing accident conditions coincident witha loss
+ofoffsite power. The Current Licensing Basis (CLB) requires thattornado effects be considered in
+the design ofsafety related structures, systems, and components. Itcould not be demonstrated at
+the time ofthe eventsthatthe fire dampers and crankcase pressure switches would withstand the
+design basis tornado.
+The EDGs are operable, but degraded and have successfully passed their required surveillances
+within the appropriate frequency. The occurrence ofsuch an event involvingfailureofthe fire
+dampers orthe crankcase pressure switches is highly unlikely and there was no imminentconcern
+regarding severeweatherinvolving tornadoes.
+Inorderto prevent any operabilityissues with the EDGdue totornado damageto the EDGbuilding or
+components, compensatory measures have been developed to address the associated
+nonconformance. These compensatory measures will be accomplished by physically blockingopen
+the firedampers, and removingan access portdownstream ofone ofeach pairofthe EDGexhaust
+fan dampers. Itwill be implemented promptly upon site notification ofa Tornado Watch orWarning.
+Acompensatory measure has also been established, that upon notification ofa TornadoWarning,the
+EDGswill be emergencystarted and operated duringthe timethe Tornado Warning is ineffect to
+NRCFORM366A(11-2015)
+Page 5 of 6
+NRCFORM366A U.S. NUCLEARREGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah NuclearPlantUnit1 05000327
+2016 004 01
+NARRATIVE
+bypass the crankcase pressure tripfunction and allow the EDGs to be able to perform their required
+safetyfunction.
+V. ASSESSMENT OF SAFETY CONSEQUENCES
+The EDGs are located inside the power plant structure and are capable of performing their
+safetyfunction. The occurrence ofsuch an event involvingfailure ofthe fire dampers or the
+crankcase pressure switches is highly unlikely and there was no imminent concern regarding
+severe weather involving tornadoes atthe time ofthe events.
+A risk assessment has been completed and has determined thatthe change in core damage
+frequency is less than 1E-6for failures of both the EDG fire dampers and crankcase pressure
+switches, which is of very low safety significance.
+A. Availabilityof systems orcomponents that could have performed the samefunction as the
+components and systems thatfailed during the event:
+There were no componentfailures.
+B. Forevents that occurred when the reactorwas shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+These events did not occurwhen the reactorwas shutdown.
+C. Forfailure that rendered a train of a safety system inoperable, an estimate of the elapsed
+timefrom discovery ofthe failure until the train was returned to service:
+Withthe compensatory measures in place, the EDGs will remain capable offulfilling theirdesign
+basisfunction following a tornado.
+VI. CORRECTIVEACTIONS
+This eventwas entered into the Tennessee ValleyAuthority CorrectiveAction Program under
+Condition Reports (CR) 1170545, 1178891, and 1181710.
+A. Immediate CorrectiveActions:
+8-hour non-emergency notifications were made to the NRC to report the events as
+unanalyzed conditions that significantly degrade plant safety per 10 CFR 50.72(b)(3)(ii)(B).
+B. Corrective actions to reduce probability of similarevents occurring inthe future:
+Corrective actions include establishing compensatory measures to blockthe fire dampers
+inthe open position inthe eventthat a Tornado Watch/Warning is issued for the Hamilton
+NRCFORM366A(11-2015)
+Page 6 of 6
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION
+(11-2015) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1.FACILITYNAME 2. DOCKET 6. LERNUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Sequoyah NuclearPlantUnit 1 05000327
+2016 004 01
+NARRATIVE
+County, Tennessee area. Inaddition, a compensatory measure has been established,
+that upon notification of a TornadoWarning, the EDGs willbe emergency
+started and operated during the time the TornadoWarning is ineffectto bypass the
+crankcase pressure trip function and allow the EDGs to perform their required safety
+function.
+Furthercorrective actions include establishing the bounding criteria for evaluation of other
+componentsthat are subjectto the effects of a tornado that could impactthe safe
+operation of safety related equipment inCategory Istructures, fullyevaluating the
+components ofthe EDG building ventilation system, and fullyevaluating the components
+inthe EDG building that are subjectto the effects of a tornado that could impactthe
+operation ofthe EDGs.
+VII. ADDITIONAL INFORMATION
+A. Previous similarevents atthe same plant:
+There have been no similarevents at SQN inthe pastthree years that resulted in an unanalyzed
+condition on the EDGs due to a tornado.
+B. Additional Information:
+None.
+C. SafetySystem Functional Failure Consideration:
+These events did not result in a safety system functional failure in accordance with
+10CFR50.73(a)(2)(v).
+D. Scramswith Complications Consideration:
+There were no scrams associated with these events.
+VIII. COMMITMENTS
+None.
+NRCFORM366A(11-2015)

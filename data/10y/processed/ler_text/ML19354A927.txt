@@ -1,0 +1,208 @@
+Exelon Generation.
+10CFR 50.73
+CCN: 19-142
+December 19, 2019
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Unit 3
+Renewed Facility Operating License No. DPR-56
+NRC Docket No. 50-278
+Subject: Licensee Event Report (LER) 3-19-001
+Enclosed is a Licensee Event Report concerning a condition prohibited by Technical
+Specifications. In accordance with NEI 99-04, the regulatory commitment contained in this
+correspondence is to restore compliance with the regulations. The specific methods that
+have been planned to restore and maintain compliance are discussed in the LER. If you
+have any questions or require additional information, please do not hesitate to contact Dan
+Dullum at 717-456-3339.
+Patrick D. Navin
+Site Vice President
+Peach Bottom Atomic Power Station
+PDN/dnd/lR 4289548
+Enclosure
+cc: US NRC, Administrator, Region I
+US NRC, Senior Resident Inspector
+R. R. Janati, Commonwealth of Pennsylvania
+D. Tancabel, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+bee: Sr. Vice President, Mid-Atlantic Operations
+Site Vice President-PBAPS
+Plant Manager-PBAPS
+Director Operations-PBAPS
+Sr. Mgr. - Operations Spt & Svcs
+Shift Ops Superintendent - PBABS
+Operations Support Manager - PBAPS
+Director, Site Training-PBAPS
+Manager, PBAPS Operations Training
+Manager, Regulatory Assurance-PBAPS
+Sr. Regulatory Assurance Engineer-PBAPS
+Manager, Licensing
+Manager, PBAPS Nuclear Oversight - PB, SMB4-5
+Commitment Coordinator
+Director, Mid-Atlantic Licensing
+Sr. Manager, PRA -Corporate
+Greenlee, Scot
+Krueger, Greg
+INPO Records via IRIS Report (Site OPEX Coordinator)
+Records Management - PB
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response lo comp~ wnh lh~ mandatory collection request BO hours
+~..._t>~ AECul..., LICENSEE EVENT REPORT (LER) Repo~ed lessons learned are ncorporaled inlo lhe l~ensing process and fed back 10
+.. industry. Send comments regarding burden eslimale lo the lnfonmalion Services Branch
+.~ · . ~. ~ ·· n :0 (See Page 2 for required number of digits/characters for each block) ( ln T f - o 2 c o F l 4 le 3 c ), t s U .R .S e . s N ou u r c c l e e @ ar n R rc e . g g u o la v. t o a r n y d C 1 o 0 m t m he is D si e o s n k , W Of a fi s c h e n r. g O to f n fic , e D C of 2 ln 0 f 5 o 5 rm 5- a 0 l 0 io 0 n 1 , a o n r d b R y e e g -m ula a t i o l r lo y
+:.~ Affairs. NEOB-10202, (315().()104), Office of Management and Budgel. Washngton.
+~ ....... ii; (See NUREG-1022, R.3 for instruction and guidance for completing this form DC 20503. If a means used lo impose an information coHection does not
+,:..+.., +o~ httQ ://www.nre.gov/readi ng-rm/doc-collections/nu regs/staffi s r1 022/r3D d~play a currenl~ valid 0MB control number lhe NRC may not conduct or sponsor. and a
+person ~ not required 10 respond to. the nformalion collect,on
+1. Facility Name 2. Docket Number 3.Page
+Peach Bottom Atomic Power Station Unit 3 05000278 1 OF 3
+4. Title
+Failure of Reactor Mode Switch Results in Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I Sequential I Rev Facility Name Docket Number
+Month Day Vear Vear Number No. Month Day Vear 05000
+- - Facility Name Docket Number
+10 21 2019 2019 001 0 12 16 2019 05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 1O CFR §: (Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50. 73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50. 73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+1o . Power Level D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+5% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50. 73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D
+20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Dan Dullum, Regulatory Assurance Engineer 717-456-3339
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+X JC HS GOSO Yes
+14. Supplemental Report Expected Month Day Vear
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On 10/21/19, Unit 3 was being shut down for a scheduled refueling outage. When the Reactor Mode Switch
+was moved to the Shutdown position, a reactor scram did not occur as expected. The operator depressed
+the nearby manual scram pushbuttons in accordance with plant procedures, which resulted in a successful
+scram of the reactor.
+An Unusual Event was declared as a result of this condition. Local, State and NRC notifications were made
+(ENS #54340).
+Investigation determined an internal connection in the switch had failed. The switch was repaired during the
+refueling outage. There were no actual safety consequences as a result of this condition.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Otticer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Ottice of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor. and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2019 - 001 0
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 3 was operating in Mode 1 at approximately 5% rated thermal power. There were no structures, systems or
+components out of service that contributed to this event.
+Description of Event
+On 10/21 /19, Unit 3 was being shut down for a scheduled refueling outage in accordance with plant operating
+procedures. At approximately 0039 hours and approximately 5% of rated thermal power, the reactor operator
+rotated the Reactor Mode Switch [EIIS:HS] from Run (Mode 1) to Shutdown (Mode 3). The Mode Switch is a
+pistol grip type switch located on the reactor operator's console in the main control room. The switch is part of
+the Reactor Protection System (RPS) [EIIS:JC] instrumentation and provides input to each of the two manual
+scram logic channels. When the Mode Switch was rotated to Shutdown, a reactor scram did not occur as
+expected. The reactor operator pressed the nearby scram pushbuttons, which initiated a successful scram. It
+was determined that the internals of the Mode Switch had only partially rotated and where in the Startup (Mode 2)
+position.
+In accordance with site emergency plan procedures, an Unusual Event was declared on 10/21 /19 at 0050 hours
+for a manual scram failing to shut down the reactor. Local, State and NRG notifications were made (ENS
+#54340).
+The Mode Switch failure resulted in the following equipment becoming inoperable as required by the plant
+Technical Specifications (TS):
+• Reactor Mode Switch -TS 3.3.1.1, Condition C was entered at 0039 hours, which requires the Mode
+Switch trip capability to be restored in one hour. The Mode Switch was not repaired within one hour,
+which resulted in Condition G being entered at 0139 hours, requiring the unit to be in Mode 3 in 12 hours.
+• Control Rod Scram Accumulators - although all control rods were fully inserted and the scram
+accumulators were not needed, TS 3.1.5 requires the scram accumulators to be operable when in Mode
+2. Since the Mode Switch was in Mode 2, TS 3.1.5, Condition C was entered at 0039 hours, which
+requires all control rods to be fully inserted and the control rods to be declared inoperable in one hour.
+• Control Rods - as required by the above, TS 3.1.3, Condition C was entered at 0139 hours, which
+requires control rods to be inserted and the control rod drives to be disarmed. All control rods had
+previously been inserted and they were disarmed in accordance with plant procedures.
+The Unusual Event was terminated at 0230 hours on 10/21/19.
+Station personnel were able to access the internal portion of the Mode Switch and manually rotate the switch to
+the Shutdown position, which placed the unit in Mode 3. The TS requirements for the equipment identified above
+are no longer applicable in Mode 3 and TS required actions were exited at 0724 hours on 10/21 /19. The
+equipment was inoperable for approximately 6 hours and 45 minutes as a result of this event.
+NRG FORM 366A (04-2018) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LEA) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mait to lnfocollects.Resoorce@nrc.gov, and to
+lhe Desk Officer, Office ol lnlormalion and Regulatory Affairs, NEOB-10202, (3150-0104), Off!Ce of
+Managemenl and Budge!, Washington, DC 20503. II a means used to impose an informalion
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does nol display a currently valid 0MB conlrol number, the NRC may nol conduct or
+sponsor, and a person is not required to respond lo, lhe information colleclion.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station Unit 3 05000278 NUMBER NO.
+2019 - 001 0
+NARRATIVE
+Analysis of Event
+The RPS monitors a number of plant parameters and initiates a reactor scram if the parameters are outside of
+their expected range. The system consists of two trip systems with two automatic channels and one manual
+channel per trip system. The Reactor Mode Switch provides input signals to each of the manual channels and
+causes a scram when placed in the Shutdown position. The Mode Switch also interlocks functions such as
+control rod blocks and refueling equipment restrictions. In the Shutdown position, it bypasses various scram
+signals such as the main steam line isolation scram and the main condenser low vacuum scram.
+The Mode Switch was last operated during a Unit 3 outage in October of 2018. It was rotated from Run to the
+Shutdown position on 9/30/18 and operated several times during the outage for control rod testing. It was
+operated twice during startup, from Shutdown to Startup on 10/9/18 and Startup to Run on 10/10/18. The switch
+was not used between that time and when it failed on 10/21 /19.
+As described further in the Cause section below, the switch failed due to wear. No failure mechanism was
+identified that caused degradation of the switch when it was not being manipulated and the evidence suggest that
+it would not have been able to perform its safety function at any time after it was operated on 10/10/18. As a
+result, the Mode Switch was inoperable from 10/10/18 to 10/21 /19. The Mode Switch is required to be operable
+by TS 3.3.1.1 (Table 3.3.1.1-1, Function 12). If inoperable, it is required to be restored in one hour or the unit
+needs to be placed in Mode 3 in 12 hours. Since these times were exceeded, the event is being reported as a
+violation of TS in accordance with 1O CFR 50.73(a)(2)(i)(B).
+Although the Mode Switch was inoperable, the overall risk to the plant was very low. The RPS relies primarily on
+input from instrumentation and performs protective functions automatically, which were not affected by this
+condition. The Mode Switch is not specifically credited in the accident analysis, but provides overall redundancy
+and diversity for the RPS. There are several other methods to manually scram the reactor, including the manual
+scram pushbuttons, which were used successfully.
+Cause of the Event
+Due to the number of functions the switch controls, there is a large number of electrical contacts that change
+position when the switch is operated, requiring more force to rotate than is typical for a similar switch. A coupling
+between the handle and the shaft internal to the switch showed wear and deformation, allowing it slip around the
+square shaft of the switch.
+Corrective Actions
+The shaft coupling on the Mode Switch was replaced. Additional corrective actions are documented in the
+corrective action program.
+Previous Similar Occurrences
+No previous similar occurrences have been identified.
+NRC FORM 366A (04-2018) Page _3_ of _3_

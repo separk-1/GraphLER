@@ -1,0 +1,200 @@
+energy
+EnergyHarborNuclear Corp
+PerryNuclearPowerPlant
+10CenterRoad
+Perry, Ohio44081
+RodL. Penfleld 440-280-5382
+Site VicePresident, PerryNuclear 724-462-0816(cell)
+May 11,2021
+L-21-132 10 CFR 50.73(a)(2)(v)(A)
+10CFR50.73(a)(2)(v)(D)
+10CFR50.73(a)(2)(i)(B)
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Perry Nuclear Power Plant
+Docket No. 50-440, License No. NPF-58
+Licensee Event Report Submittal
+Enclosed is revision 1 to Licensee Event Report (LER) 2020-002, "Standby Liquid
+Control System Rendered Inoperable due to Valve Misposition", which is being
+submitted to provide additional information regarding the subject occurrence. The
+changes are marked with a revision bar in the margin. The original LER was submitted
+in accordance with 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D).
+There are no regulatory commitments contained in this submittal.
+Ifthere are any questions or if additional information is required, please contact
+Mr. Glendon Burnham, Manager - Regulatory Compliance, at (440) 280-7538.
+Sincerely,
+Rod L. Penfield
+Enclosure:
+LER 2020-002-01
+cc: NRC Project Manager
+NRC Resident Inspector
+NRC Region III Regional Administrator
+Enclosure
+L-21-132
+LER 2020-002-01
+NRC FORM 366 U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reported
+„*►■" LICENSEE EVENT REPORT (LER) lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcomments
+m (SeePage3forrequirednumberofdigits/charactersforeachblock) N re u g c a l r e d a i r ngb R u e r g d u e l n at e o s r t y imat C e o t m o mi th s e si F o O n I , A,Li W b a r s a h r i y, ng a t n o d n, Info D rm C ation 20 C 5 o 5 ll 5 e - c 0 t 0 i 0 o 1 ns , Bra o n r ch( b T y -6A e 1 - 0 m M a ) i , l U.S t . o
+(See NUREG-1022, R.3forinstructionandguidanceforcompletingthisform lnfocollects.Resource@nrc.gov,andtheOMBreviewerat:OMBOfficeofInformationandRegulatory
+http://www.nrc.qov/readina-rm/doc-collections/nureqs/staff/sr1022/r3/) Affairs, (3150-0104),Attn: Deskail: oira submission@omb.eoD.gov.TheNRCmaynotconductor
+sponsor,andapersonisnotrequiredtorespondto,acollectionofinformationunlessthedocument
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1.FacilityName 2.DocketNumber 3.Page
+05000 00440 1 OF
+Perry Nuclear Power Plant
+4.Title
+Standby Liquid Control System Rendered Inoperable duetoValve Misposition
+S.EventDate 6.LERNumber 7.ReportDate 8.OtherFacilitiesInvolved
+Day Year Year Sequential Day Year FacilityName DocketNumber
+Number No.
+05000
+08 21 2020 2020 - 002 - 01 05 11 2021 FacilityName DocketNumber
+05000
+9.OperatingMode 10.PowerLevel
+1 100
+11.ThisReportisSubmittedPursuanttotheRequirementsof10CFR§: (Checkallthatapply)
+□
+10CFRPart20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) i50.73(a)(2)(v)(A) 10 CFR Part73
+□ □ □ □
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2Hv)(B) 73.71(a)(4)
+□ II □ I 50.73(a)(2)(v)(C) □
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 73.71(a)(5)
+□
+20.2203(a)(2)(i) 10 CFR Part21 50.73(a)(2)(i)(B) l50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+□ □ 21. □ D
+LJ 50.73(a)(2)(i)(C)
+20.2203(a)(2)(ii) 2(c) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+□
+20.2203(a)(2)(iii) 10 CFR Part50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+□ □
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+□ □ 50.
+20.2203(a)(2)(v) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+] OTHER(Specifyhere,inabstract, orNRC366A).
+12. LicenseeContactforthisLER
+LicenseeContact PhoneNumber(Includeareacode)
+George Dujanovic, StaffNuclear Engineering Specialist, Regulatory Compliance 440-280-5200
+13.CompleteOneLineforeachComponentFailureDescribedinthisReport
+Cause System Component Manufacturer ReportabletoIRIS Cause System Component Manufacturer ReportabletoIRIS
+14.SupplementalReportExpected Month Day Year
+15.ExpectedSubmissionDate
+No Yes(Ifyes,complete15. ExpectedSubmissionDate)
+16.Abstract(Limitto1560spaces,i.e.,approximately15single-spacedtypewrittenlines)
+OnAugust20, 2020, while performing testing on the Standby Liquid Control (SLC) system, waterwas inadvertently added tothe
+SLC storagetank causing an unintended dilution ofthe boron solution. On August21, 2020 at 0953 hours, sampling ofthe boron
+solution concentration revealed thatTechnical Specification (TS) Limiting Condition ofOperation (LCO) 3.1.7 was not met, and
+Action Condition B was entered fortwo SLC subsystems INOPERABLE. Boron addition and sampling were performed, with SLC
+returning to OPERABLE on August21, 2020 at 1307.
+The directcause ofthe unintentional addition ofwatertothe SLC StorageTank during testing was avalve mis-position dueto
+human error. Acorrective action will add independentverification tothe procedureforclosing oftheTransfer Line Isolation valve.
+The safety significance ofthis event is considered to be ofvery low safety significance, in accordancewith the Regulatory
+Guidance. This event is reported in accordancewith 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an eventor
+condition that prevented thefulfillment ofthe safetyfunction ofthe Standby Liquid Control System. The eventwas alsofound to
+be reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation orcondition prohibited by Technical Specifications.
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVED BYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reporte
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcommeni
+LICENSEE EVENT REPORT (LER) regardingburdenestimatetotheFOIA,Library,andInformationCollectionsBranch(T-6A10M),U.S
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail t
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov,andtheOMBreviewerat:OMBOfficeofInformationandRegulator
+Affairs,(3150-0104),Attn:DeskOfficerfortheNuclearRegulatoryCommission,72517thStreetN\A
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform Washington, DC 20503; e-mail: oira submission@omb.eop.Qov. The NRC may not conduct c
+sponsor,andapersonisnotrequiredtorespondto,acollectionofinformationunlessthedocumer
+http://www.nrc.qov/readina-rm/doc-collections/nureas/staff/sr1022/r3/)
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+SEQUENTIAL REV
+05000- NUMBER NO.
+Perry Nuclear Power Plant
+002 01
+NARRATIVE
+Energy Industry Identification System (ElIS) codes are identified in thetext as [XX].
+INTRODUCTION
+The purpose ofthe Standby Liquid Control (SLC) System [BR] is to provide an alternate method ofshutting down the
+reactor, independentofthe Control Rod Drive System [AA]. This is accomplished by pumping a neutron absorbing
+solution intothe reactor in sufficient concentration and quantityto providethe required shutdown margin withoutcontrol
+rod movementand toovercomethe maximum positive reactivity resulting from cooldown and xenon decay.
+EVENT DESCRIPTION
+On August 20, 2020, while the plantwas at 100 percent rated thermal power, PeriodicTest Instruction, PTI-C41-P0001,
+Standby Liquid Control TransferSystem Pump and Valve OperabilityTest, was being performed on the Standby Liquid
+Control (SLC) system. During thetest, the Transfer Line Isolation valve [ISV], was directed to be closed, but instead was
+left open dueto a human performance errorby a plantoperator. The errorled tothe inadvertent addition ofapproximately
+226 gallons ofdemineralizedwatertothe existing 4872 gallons ofboron solution in the SLC Storage Tank [TK].
+Subsequently, preparationswere made to perform sampling ofthe boron solution in thetankto verify SLC system
+operability.
+On August21, 2020, at 0953 hours, whilethe plantwas at 100 percent rated thermal power, the SLC system was
+declared INOPERABLE duetothe sampleforthe SLC storagetank boron solution concentration not meeting Technical
+Specification (TS) criteria. Condition B ofTS 3.1.7was entered fortwo SLC subsystems being INOPERABLE.
+SLCwas declared OPERABLE on August21, 2020 at 1307 hours, following boron addition tothe SLC StorageTank and
+sampleverification thatthe boron solution concentration waswithin TS limits.
+CAUSE
+Direct Cause:
+The direct cause ofthe unintentional addition ofapproximately 226 gallons ofwatertothe SLC Storage Tank during the
+performance ofPTI-C41-P0001 was avalve mis-position dueto human error. A procedure step in the PTI directed the
+Non-Licensed Operator(NLO) to Unlock and ClosetheTransfer Line Isolation valve. The NLO unlocked thevalve but
+failed to closethevalve. A subsequent step opened the Transfer Line Outboard Containment Isolation valve aligning the
+discharge ofthe running transferpumptothe SLC StorageTank, which caused the Storage Tankto fill with waterfrom the
+TransferTank.
+Contributing Cause:
+Acontributing causetothe eventwasa latent procedural risk evaluation errorthat occurred in 2011. The Maintenance
+Plan for PTI-C41-P0001 was classified as a GREEN RISK activity, however, a single error resulted in the inoperability ofa
+safety system. Per procedure NOP-OP-1007, Risk Management, an "activity ifperformed incorrectly (i.e. any single
+unrecoverable error) thatwould cause a loss ordefeat ofa safety system. Ifyes, this activity shall beYellow Risk". Had
+the PTI been classified as aYellow Risk activity, increased oversight and monitoring usually associated with Yellow Risk
+activities may have eliminated orminimized the impact ofthe error.
+NRCFORM366A (08-2020) Page of
+NRC FORM366A U.S. NUCLEARREGULATORYCOMMISSION APPROVEDBYOMB: NO.3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimatedburdenperresponsetocomplywiththismandatorycollectionrequest:80hours.Reporte
+lessonslearnedareincorporatedintothelicensingprocessandfedbacktoindustry.Sendcommen
+LICENSEE EVENT REPORT (LER) regardingburdenestimatetotheFOIA,Library,andInformationCollectionsBranch(T-6A10M),U.£
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+CONTINUATION SHEET
+V 7 lnfocollects.Resource@nrc.gov,andtheOMBrevieweratOMBOfficeofInformationandRegulator
+Affairs,(3150-0104),Attn:DeskOfficerfortheNuclearRegulatoryCommission,72517thStreetNV\
+(SeeNUREG-1022, R.3forinstructionandguidanceforcompletingthisform Washington, DC 20503; e-mail: oira submission@omb.eoD.aov. The NRC may not conduct i
+http://www.nrc.aov/readinq-rm/doc-collections/nureas/staff/sr1022/r3/) sponsor,andapersonisnotrequiredtorespondto,acollectionofinformationunlessthedocume
+requestingorrequiringthecollectiondisplaysacurrentlyvalidOMBcontrolnumber.
+1. FACILITYNAME 2. DOCKETNUMBER 3.LERNUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Perry Nuclear Power Plant 00440
+2020
+002 01
+NARRATIVE
+A subsequent interviewwith the NLOfound thattherewas notimeorsituational pressure related tothe incident.
+EVENTANALYSIS
+The eventwas reported tothe Nuclear Regulatory Commission (NRC) on August 21, 2020 at 1242 hours, as an event or
+condition thatatthetime ofdiscoverycould have prevented thefulfillmentofa system needed to shut down the reactor
+and maintain it in a safeshutdown condition (10 CFR 50.72(b)(3)(v)(A)) and mitigatethe consequences ofan accident (10
+CFR 50.72(b)(3)(v)(D)).
+Based upon theeventtimeline, this eventwas alsofound to be reportable under 10 CFR 50.73(a)(2)(i)(B) as an operation
+orcondition prohibited byTechnical Specifications, dueto exceeding the completion timeforLimiting Condition of
+Operation ofTS 3.1.7, Condition B, Two SLC subsystems inoperable.
+A Probabilistic RiskAssessment (PRA) evaluation was performed fortheAugust 21, 2020 Standby Liquid Control
+Inoperability event. The analysis ofthis event results in delta Core Damage Frequency (CDF) and delta Large Early
+Release Frequency (LERF) values that arewell belowthe acceptablethresholds of 1.OE-06/yrand 1.OE-07/yr, as
+discussed in Regulatory Guide 1.174, An Approach for using Probabilistic RiskAssessment in Risk Informed Decisions on
+Plant-Specific Changestothe Licensing Basis. Therefore, this event is considered to be ofvery lowsafety significance in
+accordancewith the Regulatory Guidance.
+A Reactor Engineering evaluation was performed, following the event. The analysis showed thatthe reactorwould have
+been shut down had the SLC tank been injectedwith a 2.6% boron concertation with sufficient margin totheanalytical
+requirement. As such, the reactorwould have been shutdown with the measured SLC tank boron concentration of
+2.73%.
+This event is reportable under 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an event orcondition that
+prevented thefulfillmentofthe safetyfunction ofthe Standby Liquid Control System, and 10 CFR 50.73(a)(2)(i)(B) as an
+operation orcondition prohibited byTechnical Specifications.
+CORRECTIVEACTIONS
+The immediatecorrective action forthe personnel errorwas handled through station performance management.
+A planned corrective action will change procedure PTI-C41-P0001 to add an independentverification stepforthe closure
+oftheTransfer Line Isolation valve.
+PREVIOUS SIMILAR EVENTS
+A reviewofCondition Reportsforthe pastthreeyears was performed, and no similar issueswere identified.
+COMMITMENTS
+None
+NRCFORM366A (08-2020) Page of

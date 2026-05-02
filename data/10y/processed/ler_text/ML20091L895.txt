@@ -1,0 +1,184 @@
+Exelon Generation
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming. NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Patrick D. Navin
+Site Vice President - JAF
+JAFP-20-0025
+March 31 , 2020
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: Licensee Event Report (LEA) 2020-001
+Enclosed is a Licensee Event Report concerning an automatic scram following a turbine trip on
+high RPV water level. In accordance with NEI 99-04, the regulatory commitment contained in
+this correspondence is to restore compliance with the regulations. The specific methods that
+have been planned to restore and maintained compliance are discussed in the LEA. If you have
+any questions or require additional information, please do not hesitate to contact Richard
+Sullivan, Regulatory Assurance Manager, at (315) 349-6562.
+Sincer/ t l_/ )_
+Patrick D. Navin
+Site Vice President
+FitzPatrick Nuclear Power Plant
+TCP/RS
+Enclosure
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Collections Branch
+LICENSEE EVENT REPORT (LER) (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not display
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+a currently valid OMB control number, the NRC may not conduct or sponsor, and a person
+is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 3
+4. Title
+Automatic Scram due to Main Turbine Trip on High RPV Water Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+01 31 2020 2020 - 001 - 00 03 31 2020 N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+1
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. Power Level  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+38  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Richard Sullivan, Regulatory Assurance Manager 315-349-6562
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B SJ CKV E334JA Y NG Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ Yes (If yes, complete 15. Expected Submission date)  No
+Abstract (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 31, 2020, an automatic scram occurred as a result of a main turbine trip on high Reactor Pressure Vessel
+(RPV) water level. The plant was at reduced power in preparation for maintenance activities. When the ‘A’ Reactor Feed
+Pump (RFP) was removed from service, the ‘A’ RFP discharge check valve (34FWS-4A) failed to immediately close
+resulting in a rapid increase in RPV level. A high RPV level trip signal resulted in the ‘B’ RFP trip and Main Turbine trip.
+This event resulted in the automatic actuation of the Reactor Protection System and containment isolations in multiple
+systems, reportable per 10 CFR 50.73(a)(2)(iv)(A). When Secondary Containment automatically isolated, a differential
+pressure excursion momentarily exceeded Technical Specification limits, a condition reportable in accordance with 10
+CFR 50.73(a)(2)(v)(C).
+The cause of the event was determined to be due to a failure of the A’ RFP discharge check valve (34FWS-4A) to close.
+There were no actual safety consequences as a result of this event. The ‘B’ RFP was restored to service and the
+condensate and feedwater systems remained available for post-scram recovery.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+(S ee NUREG-1022, R.3 for instruction and guidance for completing this form person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2020 – 001 – 00
+NARRATIVE
+Background
+Unit Conditions Prior to the Event
+The James A. FitzPatrick Nuclear Power Plant (JAF) was in Mode 1 at approximately 38% rated thermal
+power to perform planned maintenance. There were no structures, systems, or components out of service that
+contributed to this event.
+Event Description
+On January 31, 2020 at approximately 0555 hours, after the operators removed the ‘A’ Reactor Feed Pump
+(RFP) from service, the ‘A’ RFP discharge check valve 34FWS-4A failed to close and ‘B’ RFP started to short
+cycle flow back through ‘A’ RFP. The feedwater control system responded to a lowering reactor water level
+and increased the ‘B’ feedwater turbine speed to automatically maintain RPV water level.
+When the 34FWS-4A, ‘A’ RFP Discharge Check Valve rapidly closed, the elevated ‘B’ RFP flow was
+redirected to the RPV resulting in a rapid increase in RPV level until the RPV Water Level - High (Level 8)
+condition was reached. The trip signal resulted in the ‘B’ RFP trip and Main Turbine trip. The Main Turbine trip
+signal resulted in the Reactor Protection System (RPS) [JC] actuation and resultant Reactor Scram.
+A subsequent low RPV water level resulted in a Group 2 isolation. The initiation of the RPS due to the
+automatic scram signal at critical power and the general containment Group 2 were reported per
+10 CFR 50.72(b)(2)(iv)(B) and 10 CFR 50.72(b)(3)(iv)(A) as ENS 54503.
+In addition, when Secondary Containment was isolated with Group 2 isolation, the transitory differential
+pressure change exceeded Technical Specification (TS) Surveillance Requirement (SR) 3.6.4.1.1 of greater
+than or equal to 0.25 inches of vacuum water gauge to 0.09 inches of vacuum water gauge for approximately
+4 seconds. The Secondary Containment DP did not exceed 0 inches of vacuum water gauge. The cause of
+the DP change during the transition phase is the difference in closure time for the RBV supply and exhaust
+isolation valves.
+Event Analysis
+34FWS-4A, ‘A’ RFP Discharge Check Valve, was removed and inspected. It was identified that several sub-
+components were found degraded or broken. This deficiency was determined to have originated at some point
+prior to this event, during normal operation.
+Under the current piping design, during a plant startup, makeup water to the RPV is aligned through a low flow
+line. This flow rate is insufficient to fully open the model DRV-B discharge check valve causing the check valve
+to “flutter,” exercising the internal valve parts. During normal power operations the main block valves are
+opened allowing sufficient flow.
+The high water level trip of the main turbine resulted in the actuation of RPS. A low water level from the scram
+resulted in containment isolations in multiple systems; an event reportable per 10 CFR 50.73(a)(2)(iv)(A).
+In this LER event, the transitory the secondary containment DP change exceeded SR 3.6.4.1.1 of greater than
+or equal to 0.25 inches of vacuum water gauge for a few seconds. When the SR is not met then TS 3.6.4.1
+was not met and Secondary Containment was Inoperable; therefore, this event is also reportable per 10 CFR
+50.73(a)(2)(v)(C).
+Page 2 of 3
+NRC FORM 366A (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+(S ee NUREG-1022, R.3 for instruction and guidance for completing this form person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2020 – 001 – 00
+There were no actual safety consequences as a result of this event. The ‘B’ RFP was restored
+to service and the condensate and feedwater systems remained available for post-scram
+recovery.
+Cause
+The cause for the scram event was the failure of ‘A’ Feed Pump discharge check valve, 34FWS-4A, resulting
+in reactor water level perturbation, Main Turbine trip, and automatic reactor scram.
+Similar Events
+LER: 1993-009-03, Low Reactor Water Level Scram Due to Feedwater Transient, JAFP-96-0072 dated
+February 22, 1996.
+LER: 2015-006-01, Transitory Secondary Containment Differential Pressure Excursions, JAFP-16-0002, dated
+February 4, 2016.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: Enertech
+Manufacturer Model Number: DRV-B
+NPRDS Manufacturer Code: E334JA
+NPRDS Component Code: CKV
+FitzPatrick Component ID: 34FWS-4A
+Corrective Actions
+The ‘A’ Feed Pump discharge check valve, 34FWS-4A, was repaired. Additional corrective actions are
+documented in the Corrective Action Program.
+References
+ Issue Report – IR 04314313, James A. FitzPatrick Reactor Scram 1/31/20
+Page 3 of 3
+NRC FORM 366A (04-2018)

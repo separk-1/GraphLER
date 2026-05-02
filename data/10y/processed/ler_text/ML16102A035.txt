@@ -1,0 +1,222 @@
+10CFR50.73
+LG-16-027
+April 11, 2016
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Units 1 and 2
+Renewed Facility Operating License Nos. NPF-39 and NPF-85
+NRC Docket No. 50-352 and 50-353
+Subject: LER 2016-002-00, Condition Prohibited by Technical Specifications
+This Licensee Event Report (LER) addresses a condition prohibited by Technical Specifications.
+Inoperability of station safeguard batteries during cell replacements was identified due to
+inadequate temporary seismic restraints. This LER is being submitted pursuant to the
+requirements of 10CFR50.73(a)(2)(i)(B).
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert B. Dickinson at (610) 718-3400.
+Respectfully,
+Original signed by
+Richard W. Libra
+Vice President – Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+digits/characters for each block)
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 1 05000352 1 OF 4
+4. TITLE
+Condition Prohibited by Technical Specifications Due to Inoperable Safeguard Batteries During Cell Replacements
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR Limerick Unit 2 05000353
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+02 10 2016 2016 - 002 - 00 04 11 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) S
+N
+p
+R
+e
+C
+c i
+F
+fy
+o
+i
+r
+n
+m
+A
+3
+b
+6
+s
+6
+tr
+A
+a ct below or in
+12. LICENSEE CONTACT FOR THIS LER
+FACILITY NAME TELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager – Regulatory Assurance 610-718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B EJ BTRY C173 Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+The Unit 1 Division 1 125 VDC Safeguard Battery was rendered inoperable due to installation of
+temporary seismic restraints that had not been approved for use. This historical issue was
+identified during a preventive maintenance activity to replace the battery. The investigation
+identified fifteen reportable events over a three year period. The cause was incomplete scoping
+of the engineering analysis performed to support battery cell replacements. The analysis did
+not include the impact of battery replacement activities on the battery rack. The battery cell rack
+support strategy was revised and a technical evaluation was performed for the seismic
+qualification of the battery rack during battery cell replacement. The battery cell replacement
+procedure (M-095-005) will be revised to address the updated technical evaluation and ensure
+seismic qualification of the battery rack is maintained during maintenance activities.
+NRC FORM 366 (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Limerick Generating Station, Unit 1 05000352 2 OF 4
+2016 - 002 - 00
+NARRATIVE
+Unit Conditions Prior to the Event
+Units 1 and 2 were in Operational Condition (OPCON) 1 (Power Operation) at 100% power.
+There were no structures, systems or components out of service that contributed to this event.
+Description of the Event
+On Monday, February 10, 2016, Limerick Units 1 and 2 were operating at 100% power. The
+Unit 1, Division 1, 1A1 125 VDC safeguard battery (EIIS:EJ) replacement was in progress under
+a preventive maintenance work order activity. The activity was to replace cells 43 through 51 (9
+cells). At 0842 hours the battery (EIIS:BTRY) was declared inoperable to support installation of
+the temporary seismically qualified battery cart which provides substitute battery cells during
+maintenance and TS 3.8.2.1 D.C. Sources – Operating, Action “c” was entered. Action “c”
+required restoration of the inoperable battery within 2 hours. Otherwise, be in Hot Shutdown
+within the next 12 hours and in Cold Shutdown within the following 24 hours. At 0858 hours, the
+battery was declared operable and the TS action was exited. The next activity was to replace
+the 9 cells. At 0900 hours the cell replacement was suspended with 12 cells jumpered out, due
+to a question regarding the seismic qualification of the battery with temporary cell seismic
+restraints installed. A technical evaluation had not been approved to authorize the use of the
+temporary restraints.
+An Engineering technical evaluation of the battery temporary seismic restraints was
+subsequently performed. The remaining 1A1 battery cells were replaced using a revised
+strategy with approved temporary restraints.
+A subsequent investigation determined that the method for on-line battery cell replacement
+(developed in the early 1990’s) approved the use of a seismically qualified battery cart to jumper
+cells during replacement but did not approve the use of the temporary seismic restraints to
+maintain operability of the battery during cell replacement.
+A review of work history for the last three years identified that the following Unit 1 batteries were
+replaced using unapproved seismic restraints to maintain operability and exceeded the TS
+3.8.2.1 allowed outage time (AOT):
+The 1A2 battery was replaced in September 2015.
+The 1B1 battery was replaced in December 2015.
+The 1A1 battery was replaced in February 2016.
+The following Unit 2 battery cell replacement was performed using unapproved seismic
+restraints to maintain operability and exceeded the TS 3.8.2.1 AOT:
+The 2A2-29 cell was replaced in July 2015.
+A review of the operator logs for the last three years identified that the TS 3.8.2.1 D.C. Sources
+– Operating, Action “c” to restore the inoperable battery within the 2 hour AOT and the
+“otherwise” Action to be in Hot Shutdown within the next 12 hours were exceeded fifteen times
+NRC FORM 366A (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(01-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+Limerick Generating Station, Unit 1 YEAR NUMBER NO.
+05000352 3 OF 4
+2016 - 002 - 00
+NARRATIVE
+while battery cell replacements were in progress. This LER is being submitted pursuant to the
+requirements of 10CFR50.73(a)(2)(i)(B) for a condition prohibited by Technical Specifications.
+Analysis of the Event
+There was no actual safety consequence associated with this event. The potential safety
+consequences of this event were minimal. The safeguard batteries were capable of performing
+their design function for non-seismic events. The degraded battery may not have been capable
+of performing its design function during design bases seismic events.
+UFSAR section 8.3.2.1.1 describes the Class 1E DC Power System. Each 125/250 V system is
+comprised of two 125 V batteries, each with its own charger. There are battery carts which can
+be connected to bypass defective battery cells in any one of the 125/250 V systems. Each 125
+V system is comprised of one 125 V battery with its own charger. Each Class 1E 125/250 V
+system battery is comprised of 120 cells and each 125 V system battery is comprised of 60
+cells.
+Replacement of a 60 cell Class 1E battery is performed in stages of 9 to 18 cells where it is
+typical for a stage of cells to be replaced in one day. The entire battery is typically replaced
+over a period of several consecutive days. Each replacement of a stage typically requires more
+than 14 hours but less than 20 hours from the initial battery inoperability to the restoration of
+operability. The replacement starts by electrically removing the cells to be replaced from the
+battery and electrically connecting the battery cart cells followed by installation of the temporary
+seismic restraints. The next activity is replacement of the battery cells in the stage, removal of
+the temporary seismic restraints and restoration of the normal seismic restraints. This is
+followed by reconnection of the battery cells, removal of the battery cart, and returning the
+battery to operable status. This sequence is typically repeated on subsequent days until all of
+the battery cells have been replaced.
+Cause of the Event
+The cause was incomplete scoping of the engineering analysis performed to support battery cell
+replacements. The work activity did not evaluate the impact of battery replacement activities on
+the battery rack.
+Corrective Action Completed
+The battery cell rack seismic support strategy was revised and a technical evaluation was
+performed for the seismic qualification of the battery rack during battery cell replacement.
+Corrective Action Planned
+The battery cell replacement procedure (M-095-005) will be revised to address the updated
+technical evaluation and ensure seismic qualification of the battery rack is maintained during
+maintenance activities.
+NRC FORM 366A (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(01-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+Limerick Generating Station, Unit 1 YEAR NUMBER NO.
+05000352 4 OF 4
+2016 - 002 - 00
+NARRATIVE
+Previous Similar Occurrences
+There were no previous similar occurrences of TS noncompliance in the last three years due to
+unplanned safeguard battery inoperability during battery cell replacement activities.
+Component data:
+System EJ DC Power System-Class IE
+Component BTRY Battery
+Component number 1A1 Battery
+Manufacturer C173 C&D Batteries (ELTRA Corp)
+Model number LC/LCR-21
+NRC FORM 366A (01-2014)

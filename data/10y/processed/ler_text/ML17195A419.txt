@@ -1,0 +1,341 @@
+Tennessee Valley Authority, Sequoyah Nuclear Plant, P.O. Box 2000, Soddy Daisy, Tennessee 37384
+July 14, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report 50-327 and 50-328/2017-002-00, Automatic Actuation
+of Emergency Diesel Generators Due to Loss of Power to 6.9kV Shutdown
+Board
+The enclosed licensee event report provides details concerning an automatic actuation of the
+four emergency diesel generators as a result of the loss of power to a 6.9kV shutdown board.
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A), as any event or
+condition that resulted in manual or automatic actuation of emergency ac electrical power
+systems, including emergency diesel generators.
+There are no regulatory commitments contained in this letter. Should you have any questions
+concerning this submittal, please contact Michael McBrearty, Site Licensing Manager, at
+(423) 843-7170.
+thony L. Williams
+Site Vice President
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2017-002-00
+cc: NRC Regional Administrator- Region II
+NRC Senior Resident Inspector-Sequoyah Nuclear Plant
+printed on recycled paper
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. TITLE
+Automatic Actuation of Emergency Diesel Generators Due to Loss of Power to 6.9kV Shutdown Board
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR Sequoyah Nuclear Plant Unit 2
+NUMBER NO. 05000328
+FACILITY NAME DOCKET NUMBER
+05 23 17 2017 - 002 - 00 07 14 17
+NA 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1 20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Scott Bowman 423-843-6910
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 23, 2017, at 2330 eastern daylight time (EDT), while transferring the 2A-A 6.9 kilovolt (kV) Shutdown
+Board (SDBD) from its alternate power source to its normal power source, in support of outage testing for
+Unit 2, a loss of power to the 2A-A 6.9kV SDBD resulted in the automatic actuation of all four emergency
+diesel generators. The power was restored to the SDBD on May 24, at 0027 EDT.
+At the time of the event, Unit 1 was in Mode 1 at 100 percent power and Unit 2 was in Mode 5 for a refueling
+outage. There were no actual safety consequences as a result of this event.
+The cause of the event was indeterminate. The direct cause of the event was an upstream unit board
+overcurrent relay actuation associated with the A phase. The corrective action was to obtain acceptable test
+results from all equipment in the zone of protection. This included all the cables, current transformers, relays
+and breakers that were in contact with the associated relay. There was no evidence of equipment
+degradation. Transient monitoring will be performed for 6.9kV SDBD normal and alternate feeder breakers.
+Data will be captured for each initial transfer. Any identified anomalies will be addressed via the corrective
+action program.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 002 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 was in Mode 1 at 100 percent rated
+thermal power. Unit 2 was in Mode 5 for a refueling outage.
+II. Description of Event
+A. Event Summary:
+On May 23, 2017, at 2330 eastern daylight time (EDT), while transferring the 2A-A 6.9
+kilovolt (kV) Shutdown Board (SDBD) [EIIS: EA, ECBD] from its alternate power source to its
+normal power source, in support of outage testing for Unit 2, a loss of power to the
+2A-A 6.9kV SDBD resulted in the automatic actuation of all four emergency diesel
+generators (EDGs) [EIIS: EK, DG].
+During transfer of the 2A-A 6.9kV SDBD, the hand switch [EIIS: HS] for the normal feeder
+breaker [EIIS: BKR] on the SDBD was maintained in the “CLOSE” position while the
+alternate feeder breaker hand switch was placed in “TRIP.” As expected, the alternate
+feeder breaker opened and the normal feeder breaker closed. However, the upstream
+supply breaker to the normal feeder breaker immediately tripped due to an overcurrent relay
+[EIIS: RLY] actuation on the A phase. As a result, the 2A-A 6.9kV SDBD de-energized,
+initiating a blackout signal that started all four EDGs.
+During load shedding of the SDBD to prepare for the automatic re-energization from the
+EDG, the normal feeder breaker to the 2A A 6.9kV SDBD remained closed, as designed.
+With the normal feeder breaker hand switch in the “CLOSE” position, the associated relay
+coil [EIIS: CL] remained sealed in. Because the normal feeder breaker remained closed, the
+2A-A EDG emergency feeder breaker could not close as it must be the only source supplying
+the SDBD when running in the emergency mode.
+As a result, the 2A A 6.9kV SDBD remained de-energized following the event. This
+prevented the cooling water supply valve for the 2A-A EDG from opening due to the loss of
+motive power. Per procedure, the lack of cooling water caused operators to emergency stop
+the 2A-A EDG.
+Main control room (MCR) operators entered the appropriate response procedures and re-
+established power to required loads. Power was restored to the SDBD on May 24, at
+0027 EDT.
+An 8-hour non-emergency event notification (EN 52769) was made to the NRC in
+accordance with 10 CFR 50.72(b)(3)(iv)(A) as any event or condition that resulted in manual
+or automatic actuation of emergency ac electrical power systems, including EDGs. This LER
+documents the reportable event under 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A (04-2017) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 002 - 00
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+C. Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+05/23/17, 1732 MCR operators transferred the 2A-A 6.9kV SDBD from normal to alternate
+power during 6.9kV unit board transfer testing.
+05/23/17, 2330 While transferring 2A-A 6.9kV SDBD from its alternate power source to its
+normal power source, the normal supply breaker on the upstream 6.9kV
+unit board opened causing the 2A-A 6.9kV SDBD to de-energize. All four
+EDGs automatically started.
+05/24/17, 0027 The 2A-A 6.9kV SDBD was energized from its alternate power supply.
+05/24/17, 0500 EDGs 1A-A, 1B-B, and 2B-B were stopped and returned to standby.
+05/24/17, 0529 The 2A-A EDG was returned to standby.
+D. Manufacturer and model number of each component that failed during the event:
+There was no component that failed during the event.
+E. Other systems or secondary functions affected:
+There were no systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+While transferring 2A-A 6.9kV SDBD from its alternate power source to its normal power source,
+the SDBD de-energized. This resulted in a loss of power to the SDBD and the automatic actuation
+of all four EDGs.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+There was no component that failed during the event.
+H. Operator actions:
+Control room operators entered the appropriate response procedures and re-established
+power to required loads.
+Page 3 of 6
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 002 - 00
+I. Automatically and manually initiated safety system responses:
+Following loss-of-voltage to the 2A-A 6.9kV SDBD, nonpermanent loads were shed and the four
+EDGs started. With the normal feeder breaker handswitch in the “CLOSE” position, the
+associated relay coil remained sealed in. Because the normal feeder breaker was closed, the
+2A-A EDG feeder breaker could not close, by design, as it must be the only source supplying
+the SDBD when running in emergency mode. The 2A-A SDBD was re-energized from its
+alternate power supply. All system logic functioned as intended by design.
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error:
+There was no component or system failure associated with the event.
+The cause of the event was indeterminate. The direct cause of the event was an upstream
+unit board overcurrent relay actuation associated with the A phase.
+B. Cause(s) and circumstances for each human performance related root cause:
+There was no identified human performance related root cause.
+IV. Analysis of the Event:
+The Class 1E alternating current (AC) Electrical Power Distribution System AC sources consist of
+the offsite power sources (preferred power sources), and the onsite standby power sources (Train
+A and Train B EDGs). The design of the AC electrical power system provides independence and
+redundancy to ensure an available source of power to the Engineered Safety Feature (ESF)
+systems.
+The onsite Class 1E AC Electrical Power Distribution System is divided into two redundant and
+independent load groups with two 6.9kV SDBDs in each load group. Each 6.9kV SDBD has a
+connection to a preferred offsite power source and an EDG. The 6.9kV SDBDs in a load group
+(i.e., 1A-A and 2A-A, or 1B-B and 2B-B) are normally powered by the same offsite power circuit.
+Each 6.9kV SDBD can also be powered by a dedicated EDG. Two EDGs associated with one
+load group can provide all safety related functions to mitigate a loss of coolant accident (LOCA) in
+one unit and safely shut down the other unit. The Train A and Train B ESF systems each provide
+for the minimum safety functions necessary to shut down the plant and maintain it in a safe
+shutdown condition.
+Page 4 of 6
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 002 - 00
+An EDG starts automatically on a safety injection (SI) signal or on a 6.9kV SDBD degraded
+voltage or loss-of-voltage signal. After the EDG has started, it will automatically tie to its
+respective 6.9kV SDBD after offsite power is tripped as a consequence of a 6.9kV SDBD
+degraded voltage or loss-of-voltage signal, independent of or coincident with an SI signal.
+Following the trip of offsite power, a loss-of-voltage signal strips nonpermanent loads from the
+6.9kV SDBD. When the EDG is tied to the 6.9kV SDBD, loads are then sequentially connected to
+its respective 6.9kV SDBD by individual load sequence timers.
+In this event, when the 2A-A 6.9kV SDBD was de-energized the EDGs started as required;
+however, the 2A-A SDBD did not tie onto the 2A-A SDBD due to the normal feeder breaker
+remaining closed. The SDBD was re-energized from its alternate power supply. Although this
+affected the A train ESF system, the B train ESF system was designed and available to provide
+for the minimum safety functions necessary to shut down the unit and maintain it in a safe
+shutdown condition.
+V. Assessment of Safety Consequences
+Based on the above Analysis of Event, no actual safety consequences resulted from this event.
+Both units remained stable during the event.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+There were no components or systems that failed during the event. During the event, B train
+power was available.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+Concerning Unit 2, which was in a refueling outage, B train power was available to perform
+required safety functions.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+The 2A-A 6.9kV SDBD was re-energized within 57 minutes. The 2A-A EDG was returned to
+operable status within 6 hours.
+VI. Corrective Actions
+Corrective Actions are being managed by the Tennessee Valley Authority (TVA) corrective action
+program under Condition Report 1299591.
+Page 5 of 6
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 002 - 00
+A. Immediate Corrective Actions:
+The 2A-A 6.9kV SDBD was re-energized from its alternate power supply.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+The corrective action was to obtain acceptable test results from all equipment in the zone of
+protection. This included all the cables, current transformers, relays and breakers that were
+in contact with the associated relay. Based on evidence that equipment degradation has not
+occurred, the risk of recurrence is low.
+Transient monitoring will be performed for 6.9kV SDBD normal and alternate feeder
+breakers. Data will be captured for each initial transfer. Any identified anomalies will be
+addressed via the corrective action program.
+VII. Previous similar events at the same plant:
+There were no previous similar events at SQN occurring within the last three years.
+VIII. Additional Information
+None.
+IX. Commitments:
+None.
+Page 6 of 6
+NRC FORM 366A (04-2017)
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+FAILURE CONTINUATION Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+- -
+SYSTEM COMPONENT MANUFACTURER REPORTABLETO EPIX
+NRC FORM 366B (04-2017) Page 7 of 7

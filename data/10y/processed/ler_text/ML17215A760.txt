@@ -1,0 +1,609 @@
+William R. Gideon
+Vice President
+Brunswick Nuclear Plant
+P.O. Box 10429
+Southport, NC 28461
+o: 910.457.3698
+10 CFR 50.73
+August 2, 2017
+Serial: BSEP 17-0063
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject: Brunswick Steam Electric Plant, Unit Nos. 1 and 2
+Renewed Facility Operating License Nos. DPR-71 and DPR-62
+Docket Nos. 50-325 and 50-324
+Licensee Event Report 1-2017-003
+In accordance with the Code of Federal Regulations, Title 10, Part 50.73, Duke Energy
+Progress, LLC, submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement of 10 CFR 50.73(a)(1) for a written report within sixty (60) days of a reportable
+occurrence.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager – Regulatory
+Affairs, at (910) 457-2487.
+William R. Gideon
+SWR/swr
+Enclosure: Licensee Event Report 1-2017-003
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Gale Smith, NRC Senior Resident Inspector
+8470 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Andrew.Hon@nrc.gov
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid OMB control number, the
+http:/ /www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP) Unit 1 05000325 1 OF 4
+4. TITLE
+Control Room Air Conditioning and Emergency Ventilation Systems Rendered Inoperable
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR
+NUMBER NO.
+MONTH DAY YEAR Brunswick Unit 2 05000324
+FACILITY NAME DOCKET NUMBER
+06 05 2017 2017 - 003 - 00 08 02 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Lee Grzeck, Manager - Regulatory Affairs (910) 457-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+ SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 5, 2017, at 0930 Eastern Daylight Time (EDT), Unit 1 was in Mode 1 at 100 percent power, and
+Unit 2 was in Mode 1 at 87 percent power and was increasing power after a preplanned control rod
+improvement evolution. Maintenance personnel were inspecting dampers in the Control Room Air
+Conditioning (AC) system and Control Room Emergency Ventilation (CREV) system and disconnected an air
+supply to a damper. This resulted in the CREV system being inoperable due to interruption of the pneumatic
+supply. The CREV system was restored to operable status by 1009 EDT. At 1352 EDT, a second damper
+was inspected, and its pneumatic supply was disconnected. During the second occurrence, the Control
+Room AC system also tripped and was made inoperable. Affected systems were restored by 1407 EDT.
+The event is reportable as a loss of safety function per 10 CFR 50.73(a)(2)(v)(D). The event resulted from
+inadequate use of human performance tools and inadequate work instructions. Corrective actions for this
+event include restoring the affected pneumatic supply, revising work orders, and taking steps to emphasize
+proper use of human performance tools.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 003 - 000
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+On June 5, 2017, at 0930 Eastern Daylight Time (EDT), Unit 1 was in Mode 1 at 100 percent power, and
+Unit 2 was in Mode 1 at 87 percent power and was increasing reactor power after a preplanned control
+rod improvement evolution. No inoperable equipment contributed to this event other than as specified in
+the event description below.
+Reportability Criteria
+In this event, the Control Room Air Conditioning (AC) system [NA] and the Control Room Emergency
+Ventilation (CREV) system [VI] were temporarily rendered incapable of performing their safety functions
+due to interruption of pneumatic pressure. Therefore, it is reportable per 10 CFR 50.73(a)(2)(v)(D) as a
+loss of safety function. The event was also reportable per 10 CFR 50.72(b)(3)(v)(D) for loss of safety
+function. This reporting requirement was fulfilled per Event Number 52788 on June 5, 2017, at 1940 EDT.
+Event Description
+On June 5, 2017, at 0930 EDT, Maintenance personnel were performing an inspection of damper seals in
+the Control Room AC and CREV systems. In the as-found condition, certain dampers were closed, which
+restricted the inspection to one side only. Thus, a complete inspection could not be performed.
+Craftsmen concluded that the particular damper being inspected needed to be stroked open so the
+inaccessible side could be viewed. They asked Operations personnel to open the damper. However, it
+was stated that due to the electrical logic configuration of these dampers, this single damper could not be
+actuated from the Control Room. Operations permission was given to the mechanics in the field to stroke
+the damper open locally.
+When initial efforts to open the damper manually were unsuccessful, craftsmen contacted the system
+engineer for guidance on opening the damper. The system engineer suggested the mechanics disconnect
+the normal instrument airline for the damper and reconnect a separate air source that would redirect air
+flow to allow the damper to cycle open. Therefore, the craftsmen removed the pneumatic supply from the
+damper port and connected a portable air tank to a port that channeled airflow to open the damper. The
+damper seals and the damper blade were then inspected and found to be satisfactory. The normal
+pneumatic supply was reconnected and restored to the original configuration by 1009 EDT.
+On the same day at 1352 EDT, the steps described above were repeated for a second damper. In this
+instance, the configuration of the system resulted in air porting from the pneumatic system, depressurizing
+it. Within about three minutes, pneumatic pressure decreased to the point where the two operating Control
+Room AC systems tripped, and the third was unable to start because of low pneumatic supply pressure. In
+NRC FORM 366A (04-2017) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 003 - 000
+NARRATIVE
+this condition, CREV dampers would have been unable to reposition as required due to lack of pneumatic
+pressure. Control Room personnel then contacted the craft personnel; the pneumatic line was promptly
+reconnected, and pneumatic pressure was restored, returning the CREV system and the Control Room AC
+system to operable status by 1407 EDT.
+Upon reviewing the second event, personnel realized that similar steps had been used for the inspection of
+the first damper. The first event was not self-revealing because it did not result in tripping the Control
+Room AC. Only then was it understood that CREV had been made inoperable during the first event from
+0930 EDT until 1009 EDT, and both CREV and Control Room AC were inoperable from 1352 EDT until
+1407 EDT.
+Event Cause
+This event occurred because of inadequate use of human performance tools and an inadequate work
+order. The work order did not contain sufficient information to facilitate performance of the task.
+Maintenance personnel did not stop to ensure that the work order was revised to provide instructions that
+would allow performance of steps to execute the damper seal inspections.
+Safety Assessment
+Three 50 percent capacity Control Room AC units provide temperature and humidity control for the Control
+Room during normal and accident conditions. Two units are normally required to maintain the designed
+environmental conditions. The CREV system provides a protected environment from which occupants can
+control the unit following an uncontrolled release of radioactivity, hazardous chemicals, or smoke. The
+safety related function of the CREV system is the radiation protection portion of the radiation/smoke
+protection mode and includes two redundant high efficiency air filtration subsystems for emergency
+treatment of recirculated air or outside supply air and a control room envelope (CRE) boundary that limits
+the inleakage of unfiltered air. The CREV system is a standby system that is common to both Unit 1 and
+Unit 2, parts of which also operate during normal unit operations to maintain the CRE environment.
+Upon receipt of initiation signal(s) indicative of conditions that could result in radiation exposure to CRE
+occupants, the CREV system automatically switches to the radiation/smoke protection mode of operation
+to minimize infiltration of contaminated air into the CRE. A system of dampers isolates the CRE, and a part
+of the recirculated air is routed through either of the two filter subsystems. Outside air is taken in at the
+normal ventilation intake and is mixed with the recirculated air before being passed through one of the
+CREV subsystems for removal of airborne radioactive particles.
+In this event, the Control Room AC and CREV system dampers described above were temporarily disabled
+by an interruption of their pneumatic supply. With the CREV recirculation dampers unable to respond as
+required, the CREV system was rendered inoperable and its safety function was lost. The combined
+duration of inoperability for CREV was 54 minutes. The Control Room AC was inoperable only during the
+second occurrence because it tripped and could not be restarted Therefore, its safety function was lost.
+NRC FORM 366A (04-2017) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+E
+le
+s
+s
+t
+s
+im
+on
+a
+s
+te d
+le
+b
+a
+u
+rn
+rd
+e
+e
+d
+n
+a
+p
+r
+e
+e
+r r
+in
+e
+c
+s
+o
+p
+r
+o
+p
+n
+o
+s
+r
+e
+a t
+t
+e
+o
+d
+c o
+in
+m
+to
+p ly
+t h
+w
+e
+i th
+li c
+th
+e
+i
+n
+s
+s
+m
+ing
+a nd
+p
+a
+ro
+to
+c
+r
+e
+y
+s s
+c ol
+a
+le
+n
+c
+d
+t io
+f
+n
+e d
+r eq
+b
+u
+a
+e
+c
+s
+k
+t :
+t
+8
+o
+0
+i
+h
+n
+o
+d
+u
+u
+r
+s
+s
+tr
+.
+y
+R
+.
+e p
+S
+or
+e
+te
+n
+d
+d
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+CONTINUATION SHEET Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP) YEAR
+05000325 NUMBER NO.
+Unit 1
+2017 - 003 - 000
+NARRATIVE
+The duration of this condition was 15 minutes. During that time, Control Room temperature, humidity, and
+radiation experienced no significant change, and there was no challenge to the habitability of the Control
+Room. Therefore, it is concluded that this event had no adverse impact on nuclear safety.
+Corrective Actions
+Any changes to the corrective actions and schedules noted below will be made in accordance with the
+site's corrective action program.
+Corrective actions for this event include restoring the affected pneumatic supply to CREV and Control
+Room AC, revising work orders, taking steps to emphasize proper use of human performance tools, and
+performing a Maintenance cultural assessment. These actions are completed.
+Planned corrective actions include performing a review of top latent organizational weaknesses and
+implementing a pilot for a fleet proficiency model. These actions are scheduled for completion by
+September 6, 2017.
+Previous Similar Events
+One event has been reported in the past three years in which the Control Room AC system was
+inoperable. That event was reported in Licensee Event Report 50-325/2016-006, dated
+February 13, 2017. That event resulted from corrosion which affected the seismic qualifications of
+supports for the air conditioning condensers. The corrective actions which addressed the failure were
+unrelated to the cause of the event described in this report.
+Commitments
+This report contains no new regulatory commitments.
+NRC FORM 366A (04-2017) Page 4 of 4

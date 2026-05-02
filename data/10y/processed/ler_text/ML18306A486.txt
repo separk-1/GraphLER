@@ -1,0 +1,235 @@
+...
+Exelon Generation®
+10 CFR 50.73
+NMP2L2672
+October 25, 2018
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+Docket No. 50-41 O
+Subject: NMP2 Licensee Event Report 2018-002, Turbine Trip and Scram Due to Unit
+Differential Relay Trip
+In accordance with the reporting requirements contained in 1O CFR 50.73(a)(2)(iv)(A), please
+find enclosed NMP2 Licensee Event Report (LER) 2018-001, Turbine Trip and Scram Due to
+Unit Differential Relay Trip.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Dennis M. Moore, Site Regulatory Assurance Manager, at (315) 349-5219.
+?(?~«10:
+Robert E. Kreider Jr.
+Plant Manager, Nine Mile Point Nuclear Station
+Exelon Generation Company, LLC
+REK/RSP
+Enclosure: NMP2 Licensee Event Report 2018-002, Turbine Trip and Scram Due to Unit
+Differential Relay Trip
+cc: NRG Regional Administrator, Region I
+NRG Resident Inspector
+NRG Project Manager
+I
+I
+____J
+Enclosure
+NMP2 Licensee Event Report 2018-002,
+Turbine Trip and Scram Due to Unit Differential Relay Trip
+Nine Mile Point Nuclear Station, Unit 2
+Renewed Facility Operating License No. NPF-69
+,:,
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+· il>c,..,,.R R£011,_,> o , .,. LICENSEE EVENT REPORT (LER) i R nd e u p s o t r r t y e . d S le e s n s d o n c s o m le m a e rn n e ts d r a e r g e a rd in in c g o rp b o u r r a d t e e n d e in s t t o im t a h t e e t li o c e t n h s e i ng In fo p r r m oc a e t s io s n a S n e d i v f ic e e d s b B a r c a k n c t h o
+:J ~ "' (See Page 2 for required number of digits/characters for each block) (T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 2055~001, or by e-mail
+~ ~ to lnlocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+t; r: Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+~ "' +" ......... +o~ I (See h ll N !) U :// R w E w G w - . 1 n 0 rc 2 . 2 g , o v R / . r 3 e a fo d r in in g s -r t m ru / c d t o io c n -c a o n ll d e c g ti u o i n d s a / n n c u e r e fo gs r / c s o ta m ff p /s le r1 tin 0 g 2 2 th /r i 3 s Q fo rm d W is a p s la h y in g a to c n u , r re D n C tl y 2 0 v 5 a 0 lid 3 . 0M If B a c o m n e tr a o n l s n u u m s b e e d r , to th e im N p R os C e m a a n y i n n o fo t rm co a n ti d o u n c t c o o r ll e s c p ti o o n n s o d r o , e a s n d n o a t
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3.Page
+Nine Mile Point Unit 2 05000410 1 OF 4
+4. Title
+NMP2 Turbine Trip and Scram Due to Unit Differential Relay Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+I I Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year NA NA
+Number No.
+- - Facility Name Docket Number
+08 27 2018 2018 002 00 NA NA
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: {Check all that apply)
+D D D D
+20.2201(b) 20.2203(a)(3)(i) 50. 73(a)(2)(ii)(A) q0.73(a)(2)(viii)(A)
+D D D D
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) ~ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100% D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRG Form 366A)
+12. Licensee Contact for this LER
+Licensee Contact relephone Number (Include Area Code)
+Dennis Moore, NMP Regulatory Assurance Manager, 315-349-5219 315-349-521 9
+13. Complete One Line for each Component Failure Described in this Report
+I
+Cause System Component Manufacturer Reportable ta ICES Cause System Component Manufacturer Reportable ID ICES
+NA NA NA NA NA NA NA NA NA NA
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+D
+Yes (If yes, complete 15. Expected Submission Date) ~ No NA NA NA
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 0033 on August 27, 2018, Nine Mile Unit 2 (NMP2) experienced an automatic reactor scram on turbine control valve
+fast closure due to a turbine trip. All control rods inserted. There were no safety system actuations. In response to the
+turbine trip and reactor scram all systems responded per design. The station responded in accordance with appropriate
+procedures and restored impacted systems. The condition was reported in Event Notification #53565 as an event or
+condition that results in a valid RPS actuation (scram) pursuant to 1 OCFR.50.72(b)(2)(iv)(B). This event is being reported
+as an event or condition that results in a valid RPS actuation pursuant to 1O CFR50. 73(a)(2)(iv)(A).
+The direct cause of this event is an actuation of the 'A' phase Unit Differential Relay, 87-2SPUY02(1) due to a grid
+disturbance on the 'A' phase of the 2-15 Clay-Edie transmission line. The root cause of the event is a failure of Relay
+& Control technicians to hold themselves accountable for use of the HU tools in preventing errors while removing
+grounding screws from the Unit Differential Relaying Circuitry. Corrective actions included: removal of the identified
+shorting screws and qualifications for those involved with the event.
+NRC FORM 366 (04-2018)
+.....
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currenfly valid 0MB control number, the NRG may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2018. - 002 - 00
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRE-EVENT PLANT CONDITIONS:
+Prior to the event NMP2 was at 100% power.
+B. EVENT:
+On August 27, 2018 at 0033 while operating at one hundred percent power, NMP2
+experienced a turbine trip resulting in a SCRAM. In response to the turbine trip and reactor
+scram, Operations entered N2-EOP-RPV, Reactor Pressure Vessel (RPV) Control Flowchart
+and N2-SOP-101 C, Reactor Scram, due to reactor pressure vessel low water level and high
+reactor pressure. Two Safety Relief Valves (SRV's) opened and reclosed during the
+transient. Operators established a normal RPV level band of 160-200 inches using
+Condensate and Feedwater, and a pressure band of 800-1000 psi using Digital Electro
+Hydraulic Control (DEHC) and turbine bypass valves.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO
+THE EVENT:
+None
+D. DATES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERATOR
+ACTIONS:
+All Occurrences and Action took place on August 27, 2018:
+0033 Grid Disturbance Occurs Due to a Phase 'A' Fault External to the Statioh
+0033 'A' Phase Unit Differential Relay Actuates
+0033 RPS A and B Control Valve Fast Closure Trip Received
+0033 Two Safety Relief Valves Opened and Closed Per Design
+0033 Entered EOPs and SOPs:
+N2-EOP-RPV, Control, for RPV Low Water Level and High Reactor Pressure
+N2-SOP-101 C, Reactor Scram.
+0033 Established Normal RPV Level Band Using Condensate and Feedwater
+0033 Pressure Band Established Using DEHC and Turbine Bypass Valves.
+0039 Reset Level Setpoint Setdown Per N2-SOP-101 C
+0226 Exited N2-EOP-RPV Control
+Exited N2-SOP-101 C Reactor Scram
+E. METHOD OF DISCOVERY:
+This event was self-revealina.
+NRG FORM 366A (04-2018) Page _2_ c,f _4_ _
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+CONTINUATION SHEET Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+2018 - 002 - 00
+NARRATIVE
+F. SAFETY SYSTEM RESPONSES:
+· Following the reactor scram safety systems operated per design.
+II. CAUSE OF EVENT:
+The direct cause of this event is an actuation of the 'A' Phase Unit Differential Relay, 87-
+2SPUY02(1) due to a grid disturbance on the 'A' phase of the 2-15 Clay- Edie transmission
+line. The root cause of the event is a failure of the Relay & Control technicians to hold
+themselves accountable for use of the HU tools in preventing errors while removing
+grounding screws from the Unit Differential Relaying Circuitry. The screws were initially
+installed during the refuel outage to facilitate generator testing. The failure to remove all the -
+screws after testing reduced the margin to actuation of the Unit Differential Relay Scheme
+making it vulnerable to the external fault outside of its zone of protection.
+Ill. ANALYSIS OF THE EVENT:
+This event is reportable in accordance with 1O CFR.50.72(b)(2)(iv)(B) and
+10CFR50.73(a)(2)(iv)(A). The event caused a valid actuation of the RPS system. The
+actuation was not part of a preplanned sequence during testing or reactor operation.
+IV. CORRECTIVE ACTIONS:
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT STATUS
+Operations responded in accordance with appropriate procedures and restored all
+impacted systems to pre-event status.
+B. ACTION TAKEN TO PREVENT RECURRENCE
+Corrective actions included: removal of the identified shorting screws and qualifications
+for those involved with the event.
+V. ADDITIONAL INFORMATION
+A. FAILED COMPONENTS
+There were no failed components that contributed to this event
+B. PREVIOUS LERS ON SIMILAR EVENT:
+There are no previous LERs for similar events
+NRG FORM 366A (04-2018) Page _3_ of _4_
+' 1 ' ~
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+.•"~ ~Rl"Ot,
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+; i: LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear Regulatory
+~ \ .,, ......... .. : l CONTINUATION SHEET C th o e m D m e i s s k s io O n f , f ic W er a , sh O in ff g ic t e o n o , f D In C f o 2 rm 05 a 5 ti 5 o - n 0 0 a 0 n 1 d , R or e g b u y l a e to -m ry a A il ff t a o i rs ln , fo N c E o O lle B c - t 1 s 0 .R 20 e 2 s , o u (3 rc 1 e 5 @ 0-0 n 1 rc 0 . 4 g ) o , v O , f a fi n c d e t o o f
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid 0MB control number, the NRG may not conduct or
+sponsor, and a person is not required to respond to, the information collection.
+htt12://www. n re. gov/reading-rm/doc-collections/nu regs/staff/sr1 022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 2 05000410 NUMBER NO.
+- -
+2018 002 00
+NARRATIVE
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM '(EIIS) COMPONENT FUNCTION
+IDENTIFIER AND SYSTEM NAME OF EACH COMPONENT OR SYSTEM REFERRED
+TO IN THIS LER:
+IEEE 803 Function IEEE 805 S~stem
+Comgonent
+Identifier Identification
+Turbine Control Valve ISV SB
+Turbine Bypass Valve PCV SB
+Digital Electro Hydraulic
+NA TG
+Control System
+Relav RLY FK
+Main Turbine TRB TA
+Reactor Protection
+N/A SC
+System
+D. SPECIAL COMMENTS:
+None
+NRG FORM 366A (04-2018) Page_4_ of _4_

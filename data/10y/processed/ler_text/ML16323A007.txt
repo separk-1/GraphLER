@@ -1,0 +1,178 @@
+Robert J. Franssen Susquehanna Nuclear, LLC
+Plant Manager 769 Salem Boulevard TALEN~
+Berwick, PA 18603
+Tel. 570.542.3170 Fax570.542.1504 ENERGY
+robert.franssen@talenenergy.com
+NOV I 7 2016
+U.S. Nuclear Regulatory Commission 10 CFR 50.73
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388(387)/2016-006-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF- 22 Docket No. 50-387
+PLA-7548 50-388
+Attached is Licensee Event Report (LER) 50-388(387)/2016-006-00. The LER reports
+an event involving loss of secondary containment differential pressure due to a stuck
+exhaust damper. This event was dete1mined to be reportable in accordance with 10 CFR
+50.73(a)(2)(v)(C) as a condition that could have prevented fulfillment of a safety
+function.
+There were no actual consequences to the health and safety of the public as a result of
+this event.
+This letter contains no new regulatory commitments.
+R. J. Franssen
+Attachment: LER 50-3 88(3 87)/20 16-006-00
+Copy: NRC Region I
+Mr. J. E. Greives, NRC Sr. Resident Inspector
+Ms. T. E. Hood, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandalol)l collection request: 80 hours.
+i.o>Y .. "'""~\ Reported lessons learned are incorporated into the licensing process and fed back to industl)l.
+LICENSEE EVENT REPORT (LER)
+{~) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+(See Page 2 for required number of digits/characters for each block) Branch (T-5 F53), U.S. Nuclear Regulalol)l Commission, Washington, DC 20555-0001, or by e-mail
+'!\" ......•< i" to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatol)l
+Alfairs, NEOB-10202, (3150·0104), Office of Managemenl and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+httQ:IIWNW.nrc.govlreading-rmldoc-collectionslnur~slstafflsr1022/r31) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME ~-DOCKET NUMBER 13. PAGE
+Susquehanna Steam Electric Station Unit 2 05000388 1 OF 3
+4. TITLE Loss of Secondary Containment Due to Damper Controller Sticking
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTH DAY YEAR YEAR I S EQUENTIAL I REV MONTH DAY YEAR S FA us C q I u L e IT h Y a n N n A a M S E te am Electric Station Unit 1 0 D 5 O 0 C 0 KE 0 T 3 8 NU 7 M BER
+NUMBER NO.
+I \ Itt FACILITY NAME DOCKET NUMBER
+09 22 2016 2016 006 00 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: Check all that apply)
+1 D 2o.2201(b) D 20.2203(a)(3)(i) D 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+D 2o.2201(d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1 )(i)(A) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+10. POWER LEVEL D 20.2203(a)(2)(ii) D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71(a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71(a)(5)
+100 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) [8J 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+ICENSEE CONTACT rELEPHONE NUMBER {Include Area Code)
+C. E. Manges, Jr., Senior Engineer- Nuclear Regulatory Affairs (570) 542-3089
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+E VA Bushing Contromatics Yes
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO
+DATE
+ABSTRACT (Limft to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 22, 2016 at 03:20, a Nuclear Plant Operator (NPO) reported that Reactor Building Zone II
+differential pressure (dP) was steady at 0.15 inches water gauge (WG) resulting in entry into Technical
+Specification 3.6.4.1. Operations determined that the flow control damper (PDD27522A) for the "A" Zone II
+equipment exhaust fan (2V206A) was sticking, resulting in Zone II dP not being properly controlled. The
+linkage for the damper was agitated and the damper moved to control dP as designed. Operations placed the
+"B" division fan (2V206B) in service. Following the fan swap, dP held steady at 0.31 inches WG with 2V206B
+in service and 2V206A in standby. Technical Specification 3.6.4.1 was cleared at 03:42.
+This event was reported in accordance with 10 CFR 50. 72(b )(3)(v)(C) as a condition that could have prevented
+fulfillment of a safety function (EN 52255). The condition also requires a Licensee Event Report (LER) in
+accordance with 10 CFR 50.73(a)(2)(v)(C).
+The cause of the event was age related degradation of the brass bushing and grease hardening in the damper
+linkage. Corrective actions include initiating work orders to disassemble, inspect, and replace the brass
+bushings for the remaining similar dampers. A Preventive Maintenance strategy will be evaluated following
+completion of the inspections of the remaining dampers.
+There were no actual consequences to the health and safety of the public as a result of this event.
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and led back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53). U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail
+CONTINUATION SHEET
+to lnlocollects.Resource@nrc.gov, and to the Desk Ollicer, Olfice ol Information and Regulatory
+Alfairs, NEOB-10202, (3150-0104), Ollice ol Management and Budget, Washington, DC 20503. II a
+(See NUREG-10 22, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://'NI/If'N. nrc.g ov/readi nq-rm/doc-collections/nureos/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3. LER NUMBER
+I I
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station 05000-388 NUMBER NO.
+Unit 2 2016 -006 -00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 - Mode 1, approximately 100 percent Rated Thermal Power
+EVENT DESCRIPTION
+On September 22, 2016 at 03:20, a Nuclear Plant Operator (NPO) reported that Reactor Building Zone II
+differential pressure (dP) was steady at 0.15 inches water gauge (WG) resulting in entry into Technical
+Specification 3.6.4.1. Operations determined that the flow control damper (PDD27522A) [EllS
+System/Component Identifier: VAIDMP] for the "A" Zone II equipment exhaust fan (2V206A) [EllS
+System/Component Identifier: VA/FAN] was sticking, resulting in Zone II dP not being properly controlled.
+The linkage for the damper was agitated and the damper moved to control dP as designed. Operations
+placed the "B" division fan (2V206B) in service. Following the fan swap, dP held steady at 0.31 inches WG
+with 2V206B in service and 2V206A in standby. Technical Specification 3.6.4.1 was cleared at 03:42.
+During troubleshooting for this event, the linkage was disassembled and the damper was manually stroked
+with the linkage arm. The damper stroked smoothly with no binding. Internal inspection identified no
+issues. The pivot point for the linkage arm was disassembled and replaced. When the pivot point was
+disassembled, Maintenance discovered that the brass bushing and pins were worn and the grease was
+hardened and sticky.
+This event was reported in accordance with 10 CFR 50.72(b)(3)(v)(C) as a condition that could have
+prevented fulfillment of a safety function (EN 52255). The condition also requires a Licensee Event Report
+(LER) in accordance with 10 CFR 50.73(a)(2)(v)(C).
+CAUSE OF EVENT
+The cause of the event was age related degradation of the brass bushing and grease hardening.
+ANALYSIS/SAFETY SIGNIFICANCE
+An engineering evaluation was performed and concluded that secondary containment could have performed
+its safety function of isolating as assumed in the accident analysis and also of re-establishing 0.25 inches
+vacuum (drawdown) within the assumed accident analysis time (1 0 minutes). Therefore, the subject event
+did not cause a loss of safety function. This event will not be counted as a safety system functional failure
+(SSFF) for the NRC performance indicator based on the engineering analysis that shows there was no loss
+of ability to fulfill the safety function.
+NRC FORM 366A (06-2016) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(06·2016)
+. .. .. .. Estimated burden per response to comply with this mandatory collection request: 80 hours.
+/~,_~. ,.,~ _ Reported lessons learned are incorporated into the licensing process and fed back to industry.
+' LICENSEE EVENT REPORT (LER)
+. ~' Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~.~.. ....~ ~ Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e·mail
+• CONTINUATION SHEET
+to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://www. nrc.gov/readi nq-rm/doc-collections/nu reqs/staff/sr1 022/r3/) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITYNAME 2. DOCKET NUMBER 3. LER NUMBER
+I SEQUENTIAL REV
+YEAR
+Susquehanna Steam Electric Station 05000-388 NUMBER I NO.
+Unit 2 2016 -006 -00
+CORRECTIVE ACTIONS
+Key corrective actions include the following:
+1. Work orders were written to disassemble, inspect, and replace the brass bushings for the remaining
+similar dampers (PDD27522B, PDD17522A/B, PDD17512A/B, and PDD27512A/B).
+2. A PM strategy will be evaluated following completion of the inspections of the remaining similar
+dampers. Industry benchmarking revealed that no other stations perform PMs on these damper linkage
+arms, and the failure history at Susquehanna is small I minimal.
+COMPONENT FAILURE INFORMATION
+Information on the failed bushing is as follows:
+Manufacturer: Contromatics
+Model #: 375SR
+PREVIOUS SIMILAR EVENTS
+LER 50-387(388) I 2016-012-00, "Secondary Containment Declared Inoperable Due to Loss of Differential
+Pressure as a Result of Solenoid Failure," dated May 26, 2016
+LER 50-387(388) I 2016-003-00, "U2 Zone 3 HVAC Unable to Maintain Zone 3 Differential Pressure Greater than
+0.25 in wg," dated May 6, 2016
+LER 50-387 I 2015-013-01, "Loss of Differential Pressure in Zone I of Secondary Containment Due to Solenoid
+Valve Failure," dated August 5, 2016
+LER 50-388(387) I 2015-010-01, "Supplement Report to LER-2015-01 0-00, Loss of Differential Pressure in Zone II
+of Secondary Containment," dated July 6, 2016
+LER 50-387(388) I 2015-002-00, "Secondary Containment lnoperability Due to Failure to Meet Technical
+Specification Surveillance Requirement 3.6.4.1.1 ,"dated June 10, 2015
+NRC FORM 366A (06-2016) Page 3 of 3

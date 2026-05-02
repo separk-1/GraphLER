@@ -1,0 +1,517 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+July 15, 2016
+10 cFR 50 73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and2
+Facility Operating License No. NPF-90 and NPF-96
+NRC Docket No. 50-390 and 50-391
+Subject: Licensee Event Report 390/2016-008-00, Emergency Diesel Generator
+Manual Start Due to Loss of Voltage on the 6.9kV Shutdown Board 1B-B
+This submittal provides Licensee Event Report (LER) 390/2016-008-00. This LER provides
+details concerning an emergency diesel generator manual start due to loss of voltage on
+the 6.9kV Shutdown Board 1B-B during installation of the new open phase protective
+relays. This report is being submitted in accordance with 10 CFR 50.73(a)(2)(ivXA).
+Please direct any questions concerning this matter to Gordon Arent, WBN Licensing
+Director, at (423) 365-2004.
+Respectfully,
+Paul Simmons
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc. See Page 2
+U.S. Nuclear Regulatory Commission
+Page 2
+July 15, 2016
+cc (Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident lnspector - Watts Bar Nuclear Plant
+NRC FORM 366 U.S. NUCLEAT. xEGULATORY COMMISSION APPROVED BY OMB: ..v. 3150-0104 EXPIRES: 1013112018
+(1 1-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours.
+ian"ft"t4o""oi-
+Reported lessons leamed are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and lnformation Collections
+"o-,- HS LT.ENSEE EVEN' REP.RT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 2055S0001, or by
+,*r, internet +mail to lnfocollects.Resource@nrc,gov, and to the Desk fficer, Office of lnformation and
+Regulatory Affairs, NE0B-10202, (3150-0104), Office of Management and Budget, Washington,
+DC 20503. lf a means used to impose an information oollection does not display a cunenfly valid
+OMB confol number, the NRC may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILIW NAME 2. DOCKET NUMBER 3. PAGE
+10F6
+Watts Bar Nuclear Plant, Unit 05000390
+1
+4. TITLE
+Emergency Diesel Generator Manual Start Due to Loss of Voltage on the 6.9kV Shutdown Board 1B-B
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTHI DAY I YEAR YEAR I ti,t"t$sL R N E O V . MONTH I DAY YEAR FA W CIL a ITY t ts N A B M ar E Nuctear Plant, Unit 2 I IO S D O OC O K O ET 3 9 NU 1 MBER
+05 17 I 2A16 2016 r 008 00 07 15 2016 FACILITY NAME N/A I I NN DOCKET NUMBER
+9. OPERATING MODE 11. THIS REPORT lS SUBMITTED PURSUANT TO THE REQUIREMENTS OF l0 CFR $: (Check ail thatapplfi
+n tr tr tr
+zo.22o1(b) 2o.2zo3(a)(3)(.) 50.73(aX2Xi.XA) s0.73(a)(2XviiiXA)
+tl tr tr tr
+Unitl-Mode1 20 22a1@) zo.2zo3(aX3Xii) 50.73(aX2XiiXB) 50.73(aX2)(viiiXB)
+Unit2-Mode3 tr tr tr tr
+20.2203(aX1) zo.22o3(aX4) 50.73(ax2x.ii) 50.73(aX2xix)(A)
+tr tl tr tr
+zo.zzo3(a)(2)(.) 50.36(cxl XiXA) 50.73(aX2XivXA) 50.73(aX2Xx)
+tr tr tr tl
+10. POWER LEVEL 20.2203(a)(2Xii) s0.36(cxl XiiXA) s0.73(a)(2XvXA) rc.r1(aX4)
+tr n n n
+20.2203(aX2)(iii) s0.36(cX2) 50.73(aX2Xv)(B) zs.r1(aXs)
+tr tr tr n
+20.2203(aX2)(iv) s0.46(a)(3xii) 50.73(a)(2XvXc) rs.rr(a)(1)
+Unit 1 - 100o/o tr tr tr tr
+2 zo.2zos(aX2Xv) 50.73(ax2xixA) s0.73(aX2)(v)(D) ft.rr(ax2x.)
+Unit 0o/o
+tr tr tr tr
+2o.22os(aX2Xvi) 50.73(aX2XiXB) 50.73(a)(2Xvii) B.rz(aX2X.i)
+tr
+50.73(aX2XiXc) tr OTHER Specify in Abstracl below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+ICENSEE CONTACT TELEPHONE NUMBER (lnclude Area Cde)
+Robert Clark, Licensing Engineer
+423-365-1818
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+cAUSE I svsrenr lconaeoNENrlrorruRER REP T O O R E T P A I B X LE CAUSE SYSTEM I COMPONENT FA M C A TU N R U E . R I I REP T O O R E T P A I B X LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTHI DAY I YEAR
+E YeS (f yes, comptete 15. EXPECTED SUBMISS,ON DATE) EI r,rO SUB D M A IS T S E ION
+ABSTRACT (Linitto 1400 s@ces, i.e., appoximately 15 single-spaced ty€wtitten lines)
+On May 17,2016, at 1630 hours while restoring from a plant modification related to installation of new protective relays
+designed to detect open phase conditions on the 6.gkv shutdown boards, the feeder breakers for the 6.9kV Shutdown
+Board 1B-B tripped resulting in a loss of bus voltage. The feeder breakers tripped due to actuation of the loss of
+voltage relays in the shutdown board protective relay trip logic circuit resulting in separation of offsite power from the
+6.9kV Shutdown Board 'lB-8. The 1B-B emergency diesel generator did not auto start during this event because it was
+out of service due to planned maintenance.
+ln response to the loss of power on the 6.9kV Shutdown Board 1B-B, the operators immediately entered Abnormal
+Operating lnstruction, 0-A0143.02, Loss of Unit 1 Train B Shutdown Boards, and manually started emergency diesel
+generators 1A-4, 2A-A, and 2B-8. Allequipment operated properly. The emergency dieselgenerators were not
+required to be paralleled to their respective boards because offsite power was available.
+Offsite power was restored to the 6.9kV Shutdown Board 1B-B at 1802 hours on May '17,2016. Event Notification
+51 940 was issued May 17 , 2016. This event is being reported pursuant to 1 0 CFR 50.73(aX2Xiv)(A).
+NRC FORM 365 (1 1-201s)
+Paaoe 2 oof 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 1013112018
+(1 1-2015)
+Estimated burden per response to comply with his mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+' - a 3 , 4 { i * i r ',, . f - ^ r ; , 'o * I " . t , 6 . I :o o r , ^ i - L TcENSEE EVENr REpoRT (LER) c F ln o 5 f m o 3 c ) m , o e l U le n . c B S t s . . r R N eg e u a s c o r le d u a i r n r c g e R @ b e u n g r r u d c l e . a g n t o o v r e y , s ti C a m n o a d m t e m t o i t s o t s h i t e o h n e D , e F W s 0 k a ! A s ff h , i i c n P e g ri t r v o , a n c , O y f D f a c C n e d 2 o 0 l f n 5 l f n 5 o f 5 r o m - r 0 m a 0 t a 0 io t 1 i n o , n C o r a o n l b le d y c R t i i n o e t n g e u s r l n a B e to t r r a y e n - c m A h f f a a ( i i T l r s - t 5 , o
+CONTINUATION SHEET NE0&10202, (315O0104), Ofice of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information oollection does not display a cunently valid OMB confol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Units 1 and 2 05000390 NUMBER NO.
+- -00
+2016 008
+NARRATIVE
+t. PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Watts Bar Nuclear Plant (WBN) Unit 1 was in Mode 1 at 100 percent rated thermal power. Unit 2 was in
+Mode 3 at zero percent rated thermal power.
+il. DESCRIPTION OF EVENT
+A.
+Event
+On May 17 ,2016, a clearance was issued in preparation of installing new protective relays designed to
+detect open phase (OP) conditions on the 6.9 kV Shutdown Board 1B-B {EllS:BU}, which is part of the on-
+site electrical distribution system [EllS:EA]. The work scope required that the OP relays {EllS:46} be tied in
+parallel with the existing loss of voltage (LOV), degraded voltage (DV), and overvoltage (OV) relays. The
+OP relays, including the LOV, DV, and the OV relays are electronic relays that sense the 3 phase 6.9kV
+bus voltage through a common step down potentialtransformer (PT). The electronic relays require dc
+power to operate. This power is provided by the vital dc control circuit which is the same power supply that
+is used to energize the protective relay trip logic circuit for the 6.9kV Shutdown Board 1B-B.
+Upon completion of work, the 6.9kV Shutdown Board 1B-B clearance was approved for removal. During
+restoration of dc control power, it was noted that the B-phase relays for the LOV (phase B-C), DV (phase B-
+C) and OV (phase A-C), did not reset while the other relays did. After trouble shooting, the decision was
+made to pull PK Test Block 1-PK-211-81714 to isolate the ac sensing voltage from the newly installed OP
+relays and eliminate any associated wiring as a possible cause for inability to reset the above relays. The
+PK test block is an isolation device for disconnecting the new OP relays from the PT secondary circuit.
+Upon removal of the PK test block at 1630, the 6.9kV Shutdown Board 1B-B immediately de-energized.
+The loss of power was caused by the LOV relays that initiate the trip sequence to separate offsite power
+from the 6.9kV Shutdown Board. The 1B-B emergency diesel generator (EDG) did not auto start during
+this event because it was out of service due to planned maintenance.
+ln response to the loss of power on the 6.9kV Shutdown Board 1B-8, the operators immediately entered
+Technical Specifications (TS) Limiting Condition of Operation (LCO) 3.8.9, Distribution System -
+Operating, Action Condition A. The operators also entered Abnormal Operating lnstruction, 0-AOl 43.02,
+Loss of Unit 1 Train B Shutdown Boards, and manually started EDGs 1A-A, 2A-A, and 2B-8. All
+equipment operated properly. The EDGs were not required to be paralleled to the boards because offsite
+power was available.
+Offsite power was restored to the 6.9kV Shutdown Board 1B-B at 1802 hours on May 17, 2016.
+This event is being reported pursuant to 10 CFR 50.73(aX2Xiv)(A),for any event or condition that resulted in
+manual or automatic actuation of the emergency ac electrical power system as listed in 10 CFR
+50.73(aX2Xiv)(B), paragraph (8).
+B. lnoperable Structures, Components, or Systems that Contributed to the Event
+There were no additional structures, components or systems that contributed to this event.
+NRC FORM 366A (1 1-201s)
+Paqee 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3{50-0104 EXPIRES: 10/3{/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons leamed are incorporated into the licensing process and fed back to industry. Send
+J"" ^'ou",-o commenB regarding burden estimate to the FOIA, Privmy and lnformation Collections Branch (T-5
+i $ d *E . r. . ', f - f , i' ; {Oi,} LTGENSEE EVENT REPORT (LER) F ln 5 fo 3 c ), o l U le . c S ts . . R N e u s c o le u a r r c e R @ e n g r u c l . a g t o o v ry , C an o d m m to i s th si e o n D , e W sk a s O h f i f n ic g e to r, n , O f D fic C e 2 o 0 f 5 ln 5 f $ or 0 m 0 a 0 t 1 io , n o a r n b d y R in e t g e u rn la e to t ry e -m Af a fa il i rs to ,
+A.--,; CONTINUATION SHEET NE0B-10202, (315G0104), Office of Management and Budget, Washington, DC 20503. lf a means
+used to impse an information collection does not display a cunently valid OMB conhol number, he
+NRC may not conduct or sponsor, and a penson is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Watts Bar Nuclear Plant, Units 1 and 2 05000390 YEAR NUMBER NO.
+- -00
+2016 008
+NARRATIVE
+C.
+Dates and Approximate Times of Occurrences
+Date (EDT)
+Time Event
+1428
+05117116 Clearance lifted to allow restoring protective relays to service.
+1630
+05117116 Loss of 6.9kV Shutdown Bd. 1B-B.
+1630
+05117116 Entered TS LCO 3.8.9, Action Condition A, One or more AC electrical
+power distribution subsystems inoperable.
+1630
+05117116 Entered 0-AOl-43.02, Loss of Unit 1 train B Shutdown Boards.
+1630
+05117116 Manually started EDGs 1A-4, 2A-A and 2B-B.
+1630
+05117116 Entered TS LCO 3.8.4, Action Condition A, One vital DC electrical
+subsystem inoperable.
+1630
+05117116 Entered TS LCO 3.7.11, Action Condition A, One CREATCS train
+inoperable.
+1632
+05117116 Entered TS LCO 3.7.8, Action Condition A, One ERCW train
+inoperable.
+1802
+05117116 Offsite power restored to 6.9kV Shutdown Bd. 1B-B.
+D. Manufacturer and Model Number of Components that Failed
+There were no component failures.
+E.
+Other Systems or Secondary Functions Affected
+No other systems or functions were affected.
+F.
+Method of discovery of each Component or System Failure or Procedural Error
+The event was self-evident at the time the 6.9kV Shutdown Board 1B-B lost power.
+G. Failure Mode and Effect of Each Failed Component
+During restoration of dc control power, it was noted that the B-phase relays for the LOV (phase B-C),
+DV (phase B-C) and OV (phase A-C), did not reset while the other relays did. After trouble shooting,
+the decision was made to pull PK Test Block 1-PK-211-81714 to isolate the ac sensing voltage from
+the newly installed OP relays and eliminate any associated wiring as a possible cause for inability to
+reset the above relays. This action created a voltage transient on the PT secondary that caused the
+remaining LOV relays to trip. Once the protective relay trip logic for the LOV relays was satisfied the
+6.9kV Shutdown Board 1B-B tripped isolating the bus from offsite power. This event was attributed to
+vulnerabilities in board restoration procedures due to reliance on the same dc control power fuses to
+isolate control power to both the sensing relays and the protective relay trip logic circuit.
+H. Operator Actions
+1.
+Operators entered TS LCO 3.8.9, Distribution System, Condition A, One or more AC electrical
+power distribution subsystems inoperable, for Units 1 and2 with a Completion Time of 8 hours.
+NRC FORM 366A (11-2015)
+Paaoe 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: fi13112018
+(11-201s)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+i
+f* o
+"
+"*
+E
+"
+F ,_
+^t
+,
+o
+#
+ut
+i
+::o
+r
+'^
+j LIcENSEE EVENT REPoRT (LER)
+c
+F
+o
+5
+m
+3)
+m
+,
+e
+U
+n
+.
+b
+S .
+r
+N
+eg
+u
+a
+c
+r
+le
+d
+a
+in
+r
+g
+R
+b
+e
+u
+g
+r
+u
+d
+l
+e
+a
+n
+to r
+e
+y
+s ti
+C
+m
+o
+a
+m
+te
+m
+t
+is
+o
+s i
+t
+o
+h
+n
+e
+,
+F
+W
+O
+a
+IA
+sh
+,
+in
+P
+g
+r
+t
+i
+o
+v
+n
+m
+,
+y
+D
+a
+C
+n d
+2 0
+ln
+5
+f
+5
+o
+5
+rm
+-0
+a
+0
+t
+0
+io
+1
+n
+, o
+C
+r
+o l
+b
+le
+y
+c t
+i
+i
+n
+o
+t
+n
+e
+s
+m e
+B
+t
+r a
+e
+n
+-
+c
+m
+h
+a
+(
+i
+T
+l
+-
+t
+5
+o
+%;-,}.1..." lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformation and Regulatory Affairs,
+CONTINUATION SHEET NE0B-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a cunently valid OMB conhol number, the
+NRC may not conduct or sponsor, and a person is not rEuired to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Units 1 and 2 05000390 NUMBER NO.
+- -00
+2016 008
+NARRATIVE
+2.
+Operators entered AbnormalOperating Instruction, 0-AOl-43.02, Loss of Unit 1 Train B Shutdown
+Boards, and manually started EDGs 1A-A, 2A-4, and 2B-8. Allequipment operated properly. The
+EDGs were not required to be paralleled to the boards because offsite power was available.
+3.
+Operators entered TS 3.8.4, Condition A, One vital DC electricalsubsystem inoperable, for Units 1
+and 2 due to Battery Board ll voltage below 128VDC following loss of power. Operators
+transferred Battery Charger ll normal power supply to the alternate supply within the required 2
+hour Completion Time.
+4.
+Operators entered TS 3.7.1 1, Condition A, One CREATCS train inoperable for Units 1 and 2. Entry
+was due to high oil temperature alarm on the B-train Main Control Room (MCR) Chiller following
+loss of power. Operators transferred control room cooling functions to the Atrain MCR Chiller.
+5. Operators entered TS 3.7.8, Condition A, One ERCW train inoperable for Units 1 and2. Operators
+place B-train ERCW pumps E-B and G-B in the Stop Pull to Lock Position following loss of power to
+the 6.9kV Shutdown Bd. 1B-B. However, Btrain ERCW pumps F-B and H-B were available
+because these pumps are powered by the 6.9kV Shutdown Bd. 2B-B which did not lose offsite
+power and the EDG 2B-B was operable.
+ilt. CAUSE OF THE EVENT
+A.
+The cause of each component or system failure or personnel error, if known.
+There was no component or system failure or personnel error.
+B. The cause(s) and circumstiances for each human performance related root cause.
+The cause was attributed to inadequate restoration procedures due to reliance on the same dc control
+power fuses to isolate control power to both the sensing relays and the protective relay trip logic
+circuit.
+tv. ANALYSIS OF THE EVENT
+As described in Section ll.G, the LOV relays initiated the trip sequence to separate the offsite power circuits
+from the 6.9kV Shutdown Board 1B-B due to cycling dc and ac sensing voltage to the protective relays.
+When dc control power was restored, the B-phase LOV, DV, and OV relays were in the tripped state with
+the protective relay trip logic circuit enabled. When the PK test block was pulled during trouble shooting to
+remove the ac sensing voltage to the OP relays it created a voltage transient on the PT secondary circuit
+which caused the remaining LOV relays to trip. Once the 2 out of 3 trip logic for the LOV relays was
+satisfied the feeder breakers to the 6.9kV Shutdown Board 1B-B tripped isolating the bus from offsite
+power.
+Based on discussion with the relay vendor the preferred sequence for restoring dc control power for the
+protective relays is to remove PK Test Block 1-PK-211-8717 from the protective relay trip logic circuit,
+restore dc control power (i.e., install dc control fuses), and then a final step to restore ac sensing voltage
+(i.e., install PT primary fuses). The above PK test block should not be reinstalled until all protective relays
+are verified reset (i.e., not tripped).
+NRC FORM 366A (1 1-2015)
+Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3{50-0{04 EXPIRESz 1013112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the limnsing process and tsd back to industry. Send
+^"u":on^ comments regarding burden estimate to the FOIA, Privacy and lnformation Collections Branch (T-5
+-*8..,H:"t"- .,. LTcENSEE EVENr REPoRT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet +mail to
+{ % #ff ; i6 -" ,^ } i : :-".- lnfocollecb.Resource@nrc.gov, and to the Desk fficer, Office of lnformation and Regulatory Affaim,
+CONTINUATION SHEET NE0B-10202, (315G0104), ffice of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a cunenty valid OMB confiol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Watts Bar Nuclear Plant, Units 1 and 2 05000390 YEAR NUMBER NO.
+- -00
+2016 009
+NARRATIVE
+V.
+ASSESSMENT OF SAFETY CONSEQUENCES
+A.
+Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event.
+The design bases for the 6.9kV shutdown boards are that two shutdown boards within the same load
+group must be available to mitigate an accident on one unit and maintain the other non-accident unit in
+hot standby (Mode 3). There are two load groups A and B. Load group A is supported by 6.9kV
+Shutdown Boards 1A-A and 2A-A. Load group B is supported by 6.9kV Shutdown Boards 1B-B and
+2B-B. Since a minimum of one load group (i.e., Shutdown Board 1A-A and 2A-A) was Operable, the
+design bases as defined in Chapters 8 and 15 of the Updated Final Safety Analysis Report (UFSAR)
+for the 6.9kV Shutdown Boards were met.
+B.
+For events that occurred when the reactor was shut down, availability of systems or components
+needed to shutdown the reactor and maintain safe shutdown conditions, remove residual heat, control
+the release of radioactive material, or mitigate the consequences of an accident
+Not applicable. At the time of event WBN Unit 1 was in Mode 1 at 100 percent rated thermal power.
+WBN Unit 2 was in Mode 3.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed time from
+the discovery of the failure until the train was returned to service.
+The 6.9kV Shutdown Board 1B-B was inoperable for t hour and 32 minutes before offsite power was
+restored.
+VI.
+CORRECTIVE ACTIONS
+This event was entered into the Tennessee Valley Authority Corrective Action Program and is being
+tracked under Condition Report (CR) 1172243.
+A.
+lmmediate Corrective Actions
+Operators entered AbnormalOperating lnstruction, 0-AOl-43.02, Loss of Unit 1 Train B Shutdown
+Boards, and manually started EDGs 1A-A, 2A-A, and 2B-8. All equipment operated properly. The
+EDGs were not required to be paralleled to their respective shutdown boards because offsite power
+was available.
+B.
+Corrective Actions to Prevent Recurrence
+WBN will revise General Operating lnstruction 0-GOl-7, Generic Equipment Operating Guidelines, to
+include general guidance for disabling and restoring the 6.9kV protective relay trip logic circuits.
+VII.
+ADDITIONAL INFORMATION
+A.
+Previous similar events at the same plant
+NRC FORM 366A (1 1-201s)
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10t3112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+.of"t "tnot,6t commenb regarding burden estimate to the FOIA, Privrcy and lnformation Collections Branch (T-5
+t $ # '-s f - f , i,,#i LTGENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 2055S0001, or by internet e-mail to
+, 'X*]*.- lnfocollecb.Resource@nrc.gov, and to the Desk Officer, Office of lnformation and Regulatory Afiairs,
+CONTINUATION SHEET NE0B-10202, (315G0104), Offce of Management and Budget, Washington, DC 20503. lf a means
+'r1111 used to impose an information collection does not display a cunently valid OMB conUol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Units 1 and 2 05000390 NUMBER NO.
+- -00
+2016 008
+NARRATIVE
+No previous similar events have occurred because the protective relays are not normally de-energized
+for any preventative maintenance. The configuration of de-energizing the relays was a requirement for
+installing the new open phase relays.
+B. Additional Information
+None.
+C.
+Safety System Functional Failure Consideration
+This event did not result in a safe$ system functionalfailure because as a minimum load group A
+(i.e., Shutdown Board 1A-A and 2A-A) were available to mitigate the design bases events
+described in the UFSAR for either Unit 1 or 2.
+D. Scrams with Complications Consideration
+There was no scram associated with this event.
+VIII.
+COMMITMENTS
+None.
+NRC FORM 366A (1 1-2015)

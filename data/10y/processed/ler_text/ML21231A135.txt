@@ -1,0 +1,185 @@
+•
+Entergy
+~~~ Entergy Operations, Inc.
+P.O. Box 756
+Port Gibson, Mississippi 39150
+Jeff A. Hardy
+Regulatory Assurance Manager
+Grand Gulf Nuclear Station
+Tel: 601-437-7500
+10 CFR 50.73
+GNRO-2021/00019
+August19,2021
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: Grand Gulf Nuclear Station, Unit 1 Revised Licensee Event Report 2020-
+002-02
+Grand Gulf Nuclear Station, Unit 1
+Docket No. 50-416
+Renewed License No. NPF-29
+Attached is revised Licensee Event Report 2020-002-02, Reactor Scram Due to Main Turbine
+Trip. This report is being submitted in accordance with 10 CFR 50.73(a)(2}(iv}(A), for any event
+or condition that resulted in manual or automatic actuation of the Reactor Protection System
+(RPS).
+This letter contains no new Regulatory Commitments. Should you have any questions
+concerning the content of this letter, please contact Jeff Hardy, Regulatory Assurance Manager
+at 269-764-2011.
+Sincerely,
+94l{a
+Jeff A. Hardy
+JAH/fas
+Attachments: Revised Licensee Event Report 2020-002-02
+GNRO-2021/00019
+Page 2 of 3
+cc: NRC Senior Resident Inspector
+Grand Gulf Nuclear Station
+Port Gibson, MS 39150
+U.S Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+GNRO-2021/00019
+Page 3 of 3
+Attachment
+Revised Licensee Event Report 2020-002-02
+NRC FORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: BO
+#°AAto,,¼ hours. Reported lessons learned are incorporated into the licensing process and fed back
+LICENSEE EVENT REPORT (LEA) to industry. Send comments regarding burden estimate to the FOIA, Library, and
+... Information Collections Branch (T-6 A10M), U.S Nuclear Regulatory Commission,
+C.~.- ~ ~\ .0 .., Washington, DC 20555-0001, or by e-mail to lnfocollects.Resource@nrc.gov, and the
+~ (See Page 3 for required number of digits/characters for each block) 0MB reviewer at· 0MB Office ol lnlormatton and Regulatory Affairs. (3150-0104). Attn:
+\,... , ···-· ..0 1 (See NUREG-1022, R.3 for instruction and guidance for completing this form Desk ail: oira subm1ss•on@omb.eop.gov. The NRC may not conduct or sponsor, and a
+person is not required lo respond lo, a collection ol inlomiation unless the document
+htti;i://www .nrc.gov/read1ng-rm/doc-collect1ons/nyr!:!9s/J;taff/l,!r1022/r3/l
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 12. Docket Number . Page
+Grand Gulf Nuclear Station, Unit 1 05000 416 1 OF3
+4. Title
+Reactor Scram Due to Main Turbine Trio
+5. Event Date 6. LEA Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year F N a /A cil ity Name Docket Number
+Number No. 05000 N/A
+Facility Name Docket Number
+05 25 2020 2020 -002 - 02 08 19 2021
+N/A 05000 N/A
+9. Operating Mode 11. This Reoort is Submitted Pursuant to the Reauirements of 10 CFR §: {Check all that annlvJ
+1 0 20.2201 (b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A)
+0 20.2201( d) D 20.2203(a)(3)(ii) 0 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) 0 50.36(c)(1 )(i)(A) 181 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+1D . Power Level D 20.2203(a)(2)(ii) 0 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 73.71 (a)(4)
+D 20.2203(a)(2)(iii) D 50.36(c)(2) D 50.73(a)(2)(v)(B) D 73.71 (a)(5)
+66 D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(C) D 73.77(a)(1)
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii)
+D 20.2203(a)(2)(vi) 0 50.73(a)(2)(i)(B) D 50.73(a)(2)(vii) D 73.77(a)(2)(iii)
+0 50.73(a)(2)(i)(C) D Other (Specify in Abstract below or in NRG Form 366A
+12. Licensee Contact for this LEA
+Licensee Contact relephone Number (Include Area Code)
+I
+Jeff Hardy, Manager Regulatory Assurance (601) 437-2103
+13. Complete One Line for each Comoonent Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+NA NA NA NA NA NA NA NA NA NA
+14. Supplemental Report Expected Month Day Year
+D Yes (If yes, complete 15. Expected Submission Date) [8J No 15. Expected Submission Date
+Abstract (limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+At 0433 CT on Monday, May 25, 2020, while operating in MODE 1 at approximately 66 percent power, Grand Gulf
+Nuclear Station (GGNS) experienced an automatic Reactor SCRAM due to a Main Turbine Trip. All systems responded as
+designed. The plant was stabilized in MODE 3.
+The Root Cause of the event is that Entergy Engineering Leadership (Corporate Projects and Site Engineering) did not
+ensure critical assumptions in EC 72780, Turbine Control Protection System - Non-Safety, were documented or validated
+for turbine shaft movement during operation where a reduction in margin was present in accordance with EN-DC-115,
+Engineering Change Process roles and responsibilities were not well communicated across organizations, and leadership
+behaviors were lacking to promote sufficient challenge to achieve an acceptable result to prevent an unplanned Scram.
+The corrective actions to preclude repetition was to revise EN-HU-104, Technical Task Risk & Rigor, to require creation of
+a detailed table listing generation risk parameters (setpoints, settings, dimensions) for engineering changes with high
+generation risk.
+There were no consequences to the general safety of the public, nuclear safety, industrial safety and radiological safety.
+This report is made in accordance with 10 CFR 50.73(a)(2)(iv)(A), for any event or condition that resulted in manual or
+automatic actuation of the Reactor Protection System (RPS).
+NRG FORM 366 (0B-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+/ ...... Estimated burden per response to comply with this mandatory collection request: 80
+~l¼I: , ' LICENSEE EVENT REPORT (LER) hours. Reported lessons learned are incorporated into the licensing process and fed
+li¥1i back to industry. Send comments regarding burden estimate to the FOIA, Library,
+..... CONTINUATION SHEET and Information Collections Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form and Regulatory Affairs, {3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+http:f/www .nrc.qov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3/) Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+01ra subm1ss1on@omb.eop.gov. The NRC may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO.
+2020 -002 -02
+NARRATIVE
+Plant Conditions:
+Grand Gulf Nuclear Station (GGNS) Unit 1 was operating at approximately 66 percent power in MODE 1. There
+were no Structures, Systems, or Components that were inoperable that contributed to this event.
+Event Description:
+At 0433 CT on Monday, May 25, 2020, while operating in MODE 1 at approximately 66 percent power, GGNS
+experienced an automatic Reactor SCRAM due to a Main Turbine [TA] Trip at a power level beyond the capability of the
+Turbine Bypass valves. The unit was shutdown without complication using pressure control through the main condenser.
+The unit tripped during valve testing in the initial power ascension following implementation of a Digital Turbine Control
+System upgrade during RF22.
+All systems responded as designed. No loss of offsite power or Engineered Safety Feature actuation occurred. No
+Emergency Core Cooling System or Emergency Diesel Generator initiations occurred. Main Steam Isolation valves
+remained open and no radioactive release occurred due to this event. The plant was stabilized in MODE 3.
+This event was reported under 10 CFR 50.72(b)(2)(iv)(B), for any event that results in tt:ie actuation of the Reactor
+Protection System (RPS), when the reactor is critical. Event Notification EN54725.
+This report is made pursuant to 10 CFR 50.73(a)(2)(iv)(A), as any event or condition that results in manual or automatic
+actuation of the RPS.
+Event Cause(s):
+The direct cause of the trip was determined to be inadvertent overspeed signals from two (2) Active Speed Probes which
+contacted the speed wheel installed on the turbine shaft. The contact resulted from movement of the shaft during
+operation of the turbine_ The contact occurred when one of four steam lines to the High-Pressure turbine was being
+isolated during valve stroke testing. The speed sensing probes, and speed sensing wheel had been modified via
+installation of new equipment during RF22 with a smaller air gap which reduced operating margin.
+The Root Cause of the event is that Entergy Engineering Leadership (Corporate Projects and Site Engineering) did not
+ensure critical assumptions in EC 72780, Turbine Control Protection System - Non-Safety, were documented or validated
+for turbine shaft movement during operation where a reduction in margin was present. In accordance with EN-DC-115,
+Engineering Change Process roles and responsibilities were not well communicated across organizations, and leadership
+behaviors were lacking to promote sufficient challenge to achieve an acceptable result to prevent an unplanned Scram.
+Safety Assessment:
+The Reactor Scram due to the Main Turbine Trip did not result in actual consequences to safety of the general public, nuclear
+safety, industrial safety or radiological safety. The safety significance of this event is determined to be low. The response to the
+Scram was performed in accordance with plant procedures. Plant parameters (reactor level, pressure) were maintained within
+procedure and safety limits. There were no actual nuclear safety consequences or radiological consequences during the event.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80
+_/'°'\ LICENSEE EVENT REPORT (LER) hours. Reported lessons learned are incorporated into the licensing process and fed
+\.j back to industry. Send comments regarding burden estimate to the FOIA, Library,
+.....
+CONTINUATION SHEET and lnfonnation Collections Branch (T-6 A10M), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/@ Commission, 725 17th Street NW, Washington, DC 20503; e-mail:
+01ra submission@omb.eop.gov. The NRG may not conduct or sponsor, and a person
+is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+YEAR SEQUENTIAL REV
+Grand Gulf Nuclear Station, Unit 1 05000-416 NUMBER NO
+2020 -002 -02
+Corrective Actions:
+A work order was implemented to change the active and passive turbine speed probe to speed wheel air gap from 35 mils
+to 50 mils which bounds the original equipment air gap setting of 47 mils (the minimum air gap is now larger than the
+original air gap). This action is complete.
+To preclude repetition, Entergy's procedure EN-HU-104, Technical Task Risk and Rigor, was revised to require creation
+of a detailed table listing generation risk parameters (setpoints, settings, dimensions) being revised for engineering
+changes with high generation risk. This table lists the old parameter, new, and basis for acceptability. This table would
+then be presented for challenge such as Independent Third-Party Review, and challenge board. I
+Entergy placed the vendor on Conditional Services until their cause analysis was completed, cause and corrective actions I
+were accepted by Entergy, and associated actions are completed.
+Previous Similar Event:
+Entergy conducted a three-year review of the relevant licensee event reports and determined that there were no
+similar events.
+NRG FORM 366A (08-2020) Page 3 of 3

@@ -1,0 +1,207 @@
+LaSalle County Station
+x
+l Generation® 2601 North 2151 Road
+Marseilles, IL 61341
+815-415-2000 Telephone
+www.exeloncorp.com
+10 CFR 50.73
+RA17-030
+March 24, 2017
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+LaSalle County Station, Unit 2
+Renewed Facility Operating License No. NPF-18
+NRG Docket No. 50-374
+Subject: Licensee Event Report 2017-001-00, Manual Reactor Scram due to
+Turbine-Generator Run-Back Caused by Stem-Disc Separation in Stator
+Water Cooling Heat Exchanger Inlet Valve
+In accordance with 10 CFR 50.73(a)(2)(iv)(A), Exelon Generation Company, LLC
+(EGG) is submitting Licensee Event Report (LER) Number 2017-001-00 for LaSalle
+County Station, Unit 2.
+There are no regulatory commitments in this letter. Should you have any questions
+concerning this report, please contact Mr. Guy V. Ford, Jr., Regulatory Assurance
+Manager, at (815) 415-2800.
+~y~
+Harold T. Vinyard
+Plant Manager
+LaSalle County Station
+Enclosure: Licensee Event Report
+cc: Regional Administrator- NRG Region Ill
+NRG Senior Resident Inspector - LaSalle County Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(06·2016)
+Estimated burden per response ta comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and led back ta industry.
+; ~ --~- 9 LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate ta the FOIA, Privacy and Information Collections
+~~4 ....·. ~j Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104). Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currenUy valid OMB control
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+LaSalle County Station, Unit 2 05000374 1 OF 3
+4. TITLE
+Manual Reactor Scram due to Turbine-Generator Run-Back Caused by Stem-Disc Separation in Stator Water Cooling
+Heat Exchanger Inlet Valve
+5. EVENT DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SEQUENTIAL REV MONTH DAY YEAR NA NA
+NUMBER NO.
+- - FACILITY NAME DOCKET NUMBER
+01 23 2017 2017 001 00 03 24 2017 NA NA
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: {Check all that apply)
+D D D 0
+20.2201 (bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4l so.13(a)(2)(m) 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(il D 50.36(c)(1 )(i)(A) 1:8] 50.7 3(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11(a)(4l
+D D D D
+20.2203(a)(2)(mJ so.3s(c)(2) 50.73(a)(2)(v)(B) 13_11 (a)(s)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3)(iil 50.73(a)(2)(v)(C) 13.77(a)(1J
+99 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 13.11(a)(2)(il
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(iil
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT r ELEPHONE NUMBER (Include Area Code)
+Joe Fiesel, Maintenance Director (815) 415-2500
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B TJ ISV C665 y NA NA NA NA NA
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DATE} 1:8] NO SUB D M A IS TE S ION NA NA NA
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On January 23, 2017, operators initiated a manual scram of the LaSalle County Station Unit 2 reactor as a result of observing a
+generator run-back due to a generator stator winding cooling (GC) system malfunction. Initial troubleshooting identified the most
+likely cause was plugging in the 'A' GC heat exchanger, based on inspection of the GC system flow-path components. The GC
+system was realigned to the 'B' heat exchanger until inspections could be performed in the upcoming refueling outage, and the unit
+was re-started on January 24, 2017.
+Further inspections of the GC components were performed while the unit was shut down for a planned refueling outage. These
+inspections determined the cause of the GC system failure was stem-disc separation in the 'A' GC heat exchanger inlet valve. The
+valve was repaired during the refueling outage.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that resulted in manual or automatic
+actuation of the Reactor Protection System (RPS). There were no safety consequences associated with the event since there was
+no loss of safety function, and the RPS functioned as designed.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+UCENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information colleclion does not display a currenUy valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the informalion
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+LaSalle County Station, Unit 2 05000374 YEAR NUMBER NO.
+2017 - 001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+LaSalle County Station Unit 2 is a General Electric Boiling Water Reactor with 3546 Megawatts Thermal Rated Core Power.
+The affected system was the generator stator winding cooling (GC) system, which supports main generator reliability by
+removing heat from the generator field rectifiers and generator terminal bushings. The GC system supplies cooling water from
+one of two pumps in combination with one of two heat exchangers.
+CONDITION PRIOR TO EVENT
+Unit(s): 2 Event Date: January 23, 2017 Event Time: 0806 CST
+Reactor Mode(s): 1 Mode(s) Name: Power Operation Power Level: 99 percent
+DESCRIPTION OF EVENT
+On January 23, 2017, LaSalle County Station Unit 2 was in Mode 1 at 99 percent, while in coast-down for a scheduled refueling
+outage. At 0806 hours CST, operators inserted a manual scram, in accordance with station procedures, in response to a GC
+system malfunction and generator load run-back. The unit was placed in a stable condition with all control rods fully inserted.
+Reactor pressure was maintained with the turbine bypass valves, and reactor water level was controlled using the main
+feedwater system.
+At the time of the event, stator water cooling was being provided by the 'B' GC pump aligned to the 'A' GC heat exchanger. The
+event was preceded by unexpected alarms with the GC and electro-hydraulic control (EHC) systems. Field operators reported
+that local alarms were observed for stator inlet flow, stator inlet pressure, and stator outlet temperature.
+CAUSE OF EVENT
+Initial investigation found the 'B' GC pump had been running with a higher than normal discharge pressure as indicated on a local
+gauge between the pump and the discharge check valve. Further investigation found evidence that limited cooling water flow to
+the generator existed, suggesting that blockage or a stem-to-disc separation of an upstream valve had occurred. Thermography,
+visual inspection, borescope inspection, and testing of all valves in the normal flow-path from the 'B' GC pump and the 'A' heat
+exchanger to the pressure control valve indicated that the most likely cause was plugging in the 'A' heat exchanger. Additional
+inspections of the GC system were performed during the scheduled refueling outage in order to ascertain a more definitive cause.
+These inspections determined the cause of the GC system failure was stem-disc separation in the 'A' GC heat exchanger inlet
+valve 2GC-Y08.
+The preliminary results from the root cause investigation indicate the likely cause of the stem-disc separation was due to
+maintenance activities from a valve disassembly performed in 2003 for a suspected leak-by. If the investigation reveals insights
+or cause different than described in this LER, a supplement will be provided.
+REPORTABILITY AND SAFETY ANALYSIS
+This event is reportable in accordance with 10 CFR 50. 73(a)(2)(iv)(A) as an event or condition that resulted in a manual or
+automatic actuation of the Reactor Protection System (RPS). There was no safety consequences associated with the event since
+all equipment functioned as designed to shut down the reactor and operational and safety limits were maintained within margin to
+place the unit into safe shutdown condition.
+The main generator provides electrical power from the motive force supplied by the main turbine. The main generator consists of
+a rotor, bearings, stator, collector rings, brushes, and high-voltage bushings. One of the support systems for the main generator
+is the GC system. Since the turbine and generator are used together, the main turbine is designed with several trip signals,
+including a loss of GC.
+NRC FORM 366A (06-2016) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06·2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T·5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e·mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnformabon and Regulatory Affairs,
+CONTINUATION Sl-lEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy vahd OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r30 collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+LaSalle County Station, Unit 2 05000374 YEAR NUMBER NO.
+2017 - 001 00
+NARRATIVE
+In this event, the digital EHC {DEHC) system detected the conditions for generator run-back {two-of-two low pressure switches
+closed) and initiated a run-back. During a run-back, after a 15-second delay the DEHC system is designed to reduce the load
+reference at 30 percent per minute from the normal full power load reference of 105 percent. This caused the control valves to
+close, which caused the reactor pressure to rise and the bypass valves to open. Approximately 54 seconds after the run-back
+was initiated, a manual scram was inserted, which reduced reactor pressure and allowed the bypass valves to close. The DEHC
+system functioned as expected.
+CORRECTIVE ACTIONS
+Initial investigation found evidence that limited cooling water flow to the generator existed, and testing of all valves in the normal
+flow-path from the 'B' GC pump and the 'A' heat exchanger to the pressure control valve indicated that the most likely cause was
+plugging in the 'A' heat exchanger. An extent of condition review was performed for the opposite unit's GC system and
+associated valves and controllers. A review of GC heat exchanger preventative maintenance for both units indicated all tasks
+were current, with no outstanding corrective work orders. Additionally, a review of corrective work orders on the GC valves at
+LaSalle indicated they were related to leak-by issues and not tube plugging.
+Additional inspections of the GC system were performed during the scheduled refueling outage in order to ascertain a more
+definitive cause. These inspections determined the cause of the GC system failure was stem-disc separation in the 'A' GC heat
+exchanger inlet valve 2GC-V08. The valve was repaired during the refueling outage, which restored the system. The extent of
+condition applied to the 'B' train GC heat exchanger inlet valve 2GC-V09, which was disassembled and inspected as part of the
+troubleshooting plan, due to its operation under similar conditions. Similarly, the GC heat exchanger outlet valves were inspected
+{2GC-Y11) or replaced (2GC-V10). Unit 1 GC heat exchanger inlet and outlet valves are scheduled for the next Unit 1 refueling
+outage for stem-disc replacements.
+PREVIOUS OCCURRENCES
+A review of LaSalle Station Licensee Event Reports for the past three years, related to reactor trips, identified instances where a
+reactor manual or automatic scram was inserted; however, no previous occurrences related directly to turbine controls or the GC
+system operation at LaSalle Station were identified. Valve stem-disc separation issues have occurred at LaSalle Station, including
+the following event.
+• LER 374-2014-001-00:
+On August 5, 2014, Unit 2 automatically scrammed from 100 percent power on high neutron flux, followed by a Group I
+containment isolation. Troubleshooting of the 2C Main Steam Isolation Valve {MSIV) determined that the valve stem-disc
+had separated from the stem, which allowed the main disc to drop into the main steam's flow-path. The cause of the stem
+disc separation on the 2C MSIV was fretting wear attributable to marginal design. The root cause of the event was a legacy
+decision made in 2008 deferring installation of a manufacturer upgrade that would have prevented the failure. Corrective
+actions included installing the upgrade on all MSIVs on both units, and reviewing previous deferral decisions made using the
+same decision-making process.
+COMPONENT FAILURE DATA
+Manufacturer: Crane [C665] I Aloyco [A200]
+Device: 90-Degree Angle, Globe, 6-lnch [Model 336-8-SP]
+Component ID: Crane Part Number PN 31196
+NRG FORM 366A (06-2016) Page_3_ of _3_

@@ -1,0 +1,426 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enclosure to 
+NRC-25-0037 
+ 
+ 
+Fermi 2 NRC Docket No. 50-341 
+Operating License No. NPF-43 
+ 
+ 
+Licensee Event Report (LER) No. 2025-001-00 
+“Div. 1 Transformer 64 Load Tap Changer Failure Potentially Prohibited by Technical 
+Specifications and Potential Loss of Safety Function” 
+
+NRC FORM 366
+(04-02-2024) 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                 EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and the OMB reviewer 
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. 
+The NRC may not conduct or sponsor, and a person is not required to respond to, a collection of information unless 
+the document requesting or requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block) 
+(See NUREG-1022, R.3 for instruction and guidance for completing this 
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. Facility Name 
+ Fermi 2 
+2. Docket Number 
+ 05000341 
+3. Page 
+1 OF 3 
+4. Title 
+ Division I Transformer 64 Load Tap Changer Failure Potentially Prohibited by Technical Specifications and Potential Loss 
+of Safety Function 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Month 
+Day 
+Year 
+Year 
+Sequential 
+Number 
+Rev 
+No. 
+Month 
+Day 
+Year 
+Facility Name 
+N/A 
+ ☐ 050 
+Docket Number 
+00      
+06 
+17 
+2025 
+2025 
+- 001 - 
+00 
+08 
+13 
+2025 
+Facility Name 
+N/A 
+ ☐ 052 
+Docket Number 
+00      
+9. Operating Mode 
+1 
+10. Power Level 
+100 
+11. This Report is Submitted Pursuant to the Requirements of10 CFR §:    (Check all that apply)
+10 CFR Part 20
+ 20.2203(a)(2)(vi) 
+10 CFR Part 50 
+ 50.73(a)(2)(ii)(A) 
+ 50.73(a)(2)(viii)(A) 
+ 73.1200(a) 
+ 20.2201(b) 
+ 20.2203(a)(3)(i) 
+ 50.36(c)(1)(i)(A) 
+ 50.73(a)(2)(ii)(B) 
+ 50.73(a)(2)(viii)(B) 
+ 73.1200(b)
+ 20.2201(d) 
+ 20.2203(a)(3)(ii) 
+ 50.36(c)(1)(ii)(A) 
+ 50.73(a)(2)(iii) 
+ 50.73(a)(2)(ix)(A) 
+ 73.1200(c) 
+ 20.2203(a)(1) 
+ 20.2203(a)(4) 
+ 50.36(c)(2) 
+ 50.73(a)(2)(iv)(A) 
+ 50.73(a)(2)(x) 
+ 73.1200(d) 
+ 20.2203(a)(2)(i) 
+10 CFR Part 21 
+ 50.46(a)(3)(ii) 
+ 50.73(a)(2)(v)(A) 
+10 CFR Part 73 
+ 73.1200(e) 
+ 20.2203(a)(2)(ii) 
+ 21.2(c) 
+ 50.69(g) 
+ 50.73(a)(2)(v)(B) 
+ 73.77(a)(1) 
+ 73.1200(f) 
+ 20.2203(a)(2)(iii) 
+ 
+ 50.73(a)(2)(i)(A) 
+ 50.73(a)(2)(v)(C) 
+ 73.77(a)(2)(i) 
+ 73.1200(g) 
+ 20.2203(a)(2)(iv) 
+ 
+ 50.73(a)(2)(i)(B) 
+ 50.73(a)(2)(v)(D) 
+ 73.77(a)(2)(ii) 
+ 73.1200(h) 
+ 20.2203(a)(2)(v) 
+ 
+ 50.73(a)(2)(i)(C) 
+ 50.73(a)(2)(vii) 
+ 
+ 
+ Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include Area Code)  
+Eric Frank – Manager, Nuclear Licensing
+734-586-4772 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable To IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable To IRIS 
+X 
+EB 
+TTC 
+G080 
+Y 
+      
+      
+      
+      
+      
+14. Supplemental Report Expected 
+15.  Expected Submission Date 
+Month 
+Day 
+Year 
+   No 
+  Yes (If yes, complete 15. Expected Submission Date) 
+10 
+03 
+2025 
+ 16.  Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On 6/17/25 around 1755 Eastern Prevailing Time (EPT), Station Service Transformer (SST) 64 low voltage alarm was 
+received on Division I Bus after starting Circulating Water Pump #4. SST 64 Load Tap Changer (LTC) was found to be 
+non-functional requiring manual operation of the LTC to be initiated. Subsequent diagnostics revealed a failed time-
+delay closing relay in the LTC circuitry, which was replaced on 6/19/25 at 1932 EPT.  After reviewing historical data, 
+the LTC was last found to be functioning on 2/7/2024.  The non-functional LTC could potentially result in lower than 
+minimum required voltages during a postulated loss of coolant accident coincident with degraded voltage conditions. 
+This Licensee Event Report (LER) is being made under the corresponding requirement in Title 10 of the Code of Federal 
+Regulations (CFR) 50.73(a)(2)(i)(B), due to a condition that is potentially prohibited by Technical Specifications.   This 
+LER is also being made pursuant to 10 CFR 50.73(a)(2)(v)(D) as a potential condition that could have prevented the 
+fulfillment of the safety function needed to mitigate the consequences of an accident. Further investigation is being 
+conducted to determine the extent of the condition, and a supplement is planned.  The event had no significant effect on 
+public health and safety. 
+<)P~ ••c,,._. 
+/·"~ .<I'\ 
+~ 
+·n 
+i 
+~ -
+._,, C 
+91'11i!")l-l!:'""_lfS 
+'o:-/,,_,:;'-0 4'+0# 
+···~· 
+I 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+~ 
+~ 
+□ 
+□ 
+□ 
+□ 
+□ 
+□ 
+11 
+□ 
+1~ 
+
+NRC FORM 366A (04-02-2024) 
+ 
+Page 2 of 3 
+ 
+NRC FORM 366A
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Fermi 2 
+ 
+05000-341 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2025 
+- 001 
+- 00 
+NARRATIVE  
+INITIAL PLANT CONDITIONS 
+MODE – 1 
+Reactor Power – 100 
+There were no structures, systems, or components (SSCs) that were inoperable at the start of this event that 
+contributed to this event.  
+DESCRIPTION OF THE EVENT 
+On 6/17/25 around 1755 Eastern Prevailing Time (EPT), Station Service Transformer (SST) [XFMR] 64, Maximo 
+Location Number R1200S002, low voltage alarm was received on Division I Bus [EB] [BU] after starting Circulating 
+Water Pump #4 [KA][P]. SST 64, Load Tap Changer (LTC) [TTC] (General Electric, Model LR-65) was found to be 
+non-functional requiring manual operation of the LTC to be initiated. The LTC was manually adjusted, which cleared 
+the alarm and raised the bus voltage to 118 V. The LTC was then returned to automatic mode. SST 64 voltage was 
+recorded hourly to ensure voltage was maintained within the operability band (122-to-124-meter volts) and adjusted as 
+necessary to maintain the band.  The transformer was confirmed to be operable after manual voltage control was 
+maintained within the required band. Subsequent diagnostics revealed a failed time-delay closing relay [TDC] in the 
+LTC circuitry, which was replaced and tested on 6/19/25 at 1932 EPT.  After reviewing historical data, the LTC was 
+last found to be working on 2/7/2024.   
+The primary function of SST 64 is to provide a means to step down voltage (13.8 kV) from Bus 11 to 4160V for 
+distribution to Division 1 Engineered Safety Feature (ESF) (class 1E power requirements) and Balance of Plant loads.  
+Operability is based on the ability to supply power from the 120 kV switchyard, through SST 64, to 4160V buses 64B 
+and 64C. This transformer is also sized to accommodate the simultaneous starting of all ESF loads on receipt of an 
+accident signal, without the need for load sequencing. The LTC modulates the voltage on the transformer to keep a 
+nominal 121.8 meter-Volts to ensure Division 1 offsite source has adequate voltage to support the startup and 
+subsequent functionality of the Fermi 2, Division 1 ESF loads without tripping during a Loss of Offsite Coolant Accident 
+(LOCA) transient. 
+While SST 64, LTC control switch was set to automatic, would not automatically tap to control voltage. While the LTC 
+is in manual mode, procedure states that if the voltage range of 122-to-124-meter volts is not met, then Buses 64B 
+and 64C are considered INOPERABLE. The basis of this requirement is the offsite circuit cannot be lost (i.e. by 
+actuation of the degraded voltage relaying) during a design basis accident and must be capable of starting all required 
+ESF loads on the receipt of an accident signal, so this condition impacts the ability to meet the requirements of 
+Technical Specification (TS) 3.8.1.   
+TS 3.8.1 “AC Sources – Operating” requires (During MODES 1,2 and 3) two qualified circuits between the offsite 
+transmission network and the onsite Class IE AC Electrical Power Distribution System and two emergency diesel 
+generators (EDGs) per division. When one offsite circuit is inoperable, then CONDITION D is entered to restore the 
+offsite circuit to OPERABLE status within 72 hours. If the REQUIRED ACTION and COMPLETION TIME is not met, 
+MODE 3 needs to be entered within 12 hours. Further investigation is being done to determine when the voltage level 
+was outside of the voltage band exceeding the completion time of 72 hours along with determining whether the 
+condition was a potential loss of a safety function.  The results from the investigation will be provided in a 
+supplemental report.   
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS 
+Further investigation is being conducted for the safety consequences and implications and will be supplemented.  
+I 
+oJ>"llfGc,~ 
+I 
+l·~ 
+'.'\ 
+\ 
+~,,; 
+... 
+. 
+·~•"' 
+
+NRC FORM 366A (04-02-2024) 
+ 
+Page 3 of 3 
+ 
+NRC FORM 366A
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY OMB: NO. 3150-0104                               EXPIRES: 04/30/2027 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+e-mail 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or 
+sponsor, and a person is not required to respond to, a collection of information unless the document 
+requesting or requiring the collection displays a currently valid OMB control number. 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1.  FACILITY NAME 
+    2.  DOCKET NUMBER 
+3.  LER NUMBER 
+ 
+Fermi 2 
+ 
+05000-341 
+YEAR 
+SEQUENTIAL 
+NUMBER 
+REV 
+NO. 
+2025 
+- 001 
+- 00 
+This Licensee Event Report (LER) is being made under the corresponding requirement in Title 10 of the Code of 
+Federal Regulations (CFR) 50.73(a)(2)(i)(B), due to a condition that is potentially prohibited by Technical 
+Specifications.  This LER is also being made pursuant to 10 CFR 50.73(a)(2)(v)(D) as a potential condition that could 
+have prevented the fulfillment of the safety function needed to mitigate the consequences of an accident  
+There were no safety consequences or radiological releases associated with this event.  At no time during this event 
+was there potential for endangering the public health and safety.   
+ 
+CAUSE OF THE EVENT 
+The LTC failed due to a failed time-delay relay within the LTC controls.    
+ 
+CORRECTIVE ACTIONS 
+Diagnosis identified a failed Time Delay Relay. LTC was placed back in AUTO mode following replacement of the 
+relay.  Actions to address procedural and human performance gaps will be addressed in the Corrective Action 
+Program. 
+ 
+PREVIOUS OCCURRENCES 
+An examination of Condition Reports from the past three years yielded the following information: 
+CR-2024-39536 - On 5/13/24, SST 64 LTC did not maintain voltage automatically. Operators manually increased the 
+voltage from approximately 119V to 121V. Although the transformer continued to supply proper voltage and frequency 
+to essential safety buses, a work order was requested to investigate and repair the issue.  However, this work was 
+never performed until the alarm in June 2025.   
+ 
+ 
+I 
+oJ>"llfGc,~ 
+I 
+l·~ 
+'.'\ 
+\ 
+~,,; 
+... 
+. 
+·~•"' 

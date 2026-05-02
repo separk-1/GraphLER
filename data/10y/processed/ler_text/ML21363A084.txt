@@ -1,0 +1,199 @@
+Peter Dietrich
+Senior Vice President and Chief Nuclear Officer
+DTE Electric Company
+6400 N. Dixie Highway, Newport, MI 48166
+Tel: 734.586.4153 Fax: 734.586.1431
+Email: peter.dietrich@dteenergy.com
+December 29, 2021 10 CFR 50.73
+NRC-21-0056
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, DC 20555-0001
+Fermi 2 Power Plant
+NRC Docket No. 50-341
+NRC License No. NPF-43
+Subject: Licensee Event Report (LER) No. 2021-003
+Pursuant to 10 CFR 50.73(a)(2)(v)(D), DTE Electric Company (DTE) is submitting LER No.
+2021-003, High Pressure Coolant Injection Inoperable due to Contact Oxidation.
+No new commitments are being made in this submittal.
+Should you have any questions or require additional information, please contact Mr. Ertman
+L Bennett III, Manager – Nuclear Licensing, at (734) 586-4273.
+Sincerely,
+Peter Dietrich
+Senior Vice President and Chief Nuclear Officer
+Enclosure: Licensee Event Report No. 2021-003, High Pressure Coolant Injection Inoperable
+due to Contact Oxidation
+cc: NRC Project Manager
+NRC Resident Office
+Regional Administrator, Region III
+Enclosure to
+NRC-21-0056
+Fermi 2 NRC Docket No. 50-341
+Operating License No. NPF-43
+Licensee Event Report No. 2021-003
+High Pressure Coolant Injection Inoperable due to Contact Oxidation
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Fermi 2
+05000 341 1 OF 3
+4. Title
+High Pressure Coolant Injection Inoperable due to Contact Oxidation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+N/A 05000
+6 3 2021 2021 - 003 - 0 12 29 2021 Facility Name Docket Number
+N/A 05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ertman L Bennett III – Manager, Nuclear Licensing 734-586-4273
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 6/3/2021 at 0313 a condition was encountered during performance of the HPCI Condensate Storage Tank Level Channel
+Functional Test when the HPCI Pump Suction Isolation Valve from the Suppression Pool was slow to open. The Channel
+Functional Test was successfully completed; however, the valve took approximately 5 minutes to open on the simulated low
+Condensate Storage Tank (CST) level signal. Technical Specification (TS) 3.3.5.1 Action D.2.1 and D.2.2 were entered on
+6/3/2021 at 0241 (surveillance start) which allows 24 hours to place the channel in trip or to align HPCI pump suction to the
+suppression pool. Troubleshooting of the condition identified an oxidated relay contact was the cause of the slow opening of the
+suction isolation valve. After relay repair and a repeat performance of the HPCI CST Level Channel Functional Test the Limiting
+Condition of Operation was exited on 6/4/2021 at 1451. It was later determined that the condition impacted both channels of the
+CST low level suction transfer logic, and during the condition TS 3.3.5.1 Action D.1 should have been entered resulting in
+declaring the HPCI system inoperable. HPCI suction was transferred to the suppression pool on 6/3/2021 at 1817 completing
+required actions for D.2.2 also making condition D.1 not applicable.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 003 - 0
+NARRATIVE
+INITIAL PLANT CONDITIONS
+Mode – 1
+Reactor Power – 100%
+There were no structures, systems, or components that were inoperable at the start of this event that contributed to this
+event.
+DESCRIPTION OF THE EVENT
+On 6/3/2021 at 0313 while performing the HPCI [BJ] Condensate Storage Tank Level Channel Functional Test, the
+E4150-F042, HPCI Pump Suction Isolation Valve [ISV] from the Suppression Pool [BT], was slow to open. The isolation
+valve took approximately 5 minutes to open on the simulated signal low CST level. Technical Specification (TS) 3.3.5.1
+Action D.2.1 and D.2.2 were entered which allows 24 hours to place the channel in trip or to align HPCI pump suction to
+the suppression pool. During the LCO period of time it was believed HPCI remained operable and available as there are
+two channels within this logic and the subsequent channel was verified to be working satisfactorily following the slow
+response time of the first channel. The first channel tested operates the logic and transfers the suction from the CST to
+the suppression pool. The valves are not repositioned to test the second channel, only the logic is tested. Further
+investigation identified that an oxidated contact on a common relay [RLY] was the cause of the delayed opening of the
+E4150-F042 isolation valve. This condition impacted both channels of the CST low level suction transfer logic. Technical
+Specification 3.3.5.1 Action D.1 should have been entered declaring the HPCI system inoperable or HPCI suction
+transferred to the Suppression Pool within 1 hour upon the discovery of the impact to both channels. During the event
+HPCI was available and functional.
+During the HPCI condition between 0313 on 6/3/2021 and 1451 on 6/4/2021 Reactor Core Isolation Cooling (RCIC) was
+declared inoperable twice for performance of surveillances. The first instance was from 0944 to 1236 on 6/3/2021. At
+1236 the Division 1 Emergency Equipment Cooling Water (EECW) Pump and Valve Operability Test was satisfactorily
+completed restoring RCIC operability. The second instance was from 1515 to 1750 on 6/3/2021. At 1750 the Division 1
+EECW Check Valve Operability Test was completed satisfactorily restoring RCIC operability. During performance of
+these surveillances entry into TS 3.5.1 Condition I with a completion time of 12 hours to be in Mode 3 was required due to
+the HPCI condition but was not recognized or entered. When RCIC is restored to Operable status TS 3.5.1 Condition I is
+exited. During performance of the EECW pump and valve operability tests HPCI was verified operable by administrative
+means; however, it was not recognized that HPCI was inoperable due to the common relay.
+HPCI suction was transferred to the suppression pool on 6/3/2021 at 1817 completing required actions for TS 3.3.5.1
+D.2.2 also making Action D.1 not applicable. After relay repair and a repeat performance of the HPCI CST Level Channel
+Functional Test the LCO was exited on 6/4/2021 at 1451.
+After CST level logic was repaired and restored to operable it was discovered that HPCI should have been declared
+inoperable and an eight-hour NRC report was required per 10CFR50.72 and an LER per 10CFR50.73(a)(2)(v)(D) Mitigate
+the consequences of an accident. The 8 Hour NRC Event Notification for Unplanned HPCI Inoperability for the relay
+E41A-K17 condition was identified on 11/3/2021 at 0900 and completed on 11/3/2021 at 1345. A Technical Evaluation
+was completed that determined HPCI was available to perform its function during this event.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Fermi 2 341
+2021
+- 003 - 0
+NARRATIVE
+SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+The HPCI system normally takes suction from the condensate storage tank. This tank is designed such that the last
+150,000 gal is reserved for use by the HPCI or RCIC systems by the tank’s standpipe design. HPCI suction automatically
+switches to the suppression pool upon low condensate storage tank (CST) level (equivalent to about 45,000 gallons of
+water in the CST). However, while the plant is operating, the CST is maintained at a normal level in excess of 400,000
+gallons.
+A Technical Evaluation determined if HPCI operation were required with the CST inventory at the low CST level suction
+transfer setpoint that HPCI would operate as designed for most of the approximate 5 minutes of the slow suction transfer
+condition. However, before suction transfer would have been completed the CST level would have lowered below the level
+where vortexing, or air entrainment would have occurred. Without operator action, HPCI would trip on a low suction
+pressure signal. Then upon completion of the suction transfer, suction pressure would be restored, and HPCI would
+automatically restart if demanded and continue to inject.
+However, if HPCI operation were required with CST inventory at the low CST level suction transfer setpoint operators
+would receive a control room annunciator, HPCI/RCIC Suction Transfer CST Level Low. The associated alarm procedure
+directs the operator to verify the automatic transfer occurs as expected. If automatic suction transfer does not occur,
+operators are trained per station procedures to complete automatic actions manually. Therefore, the operator would have
+established the proper line-up. The relay contact associated with manual operation of the HPCI Pump Suction Isolation
+Valve [ISV] was unaffected.
+During the event Division 2 Low Pressure Coolant Injection (LPCI) [BO], Core Spray (CS) [BM] and Automatic
+Depressurization System (ADS) were operable. Division 1 LPCI and CS were operable except during the Division 1
+EECW pump and valve testing.
+CAUSE OF THE EVENT
+The direct cause is Electrical Contact Degradation due to the oxidation of the E41A-K17 relay contact.
+CORRECTIVE ACTIONS
+The initial performance of the channel test was completed successfully though the transfer was slow.
+The E41A-K17 contact was burnished during initial troubleshooting. The valve was returned to operable after the contact
+burnishing and was successfully tested.
+The Inspection and Testing of Multi-Contact Auxiliary Relays HFA, HMA and HGA procedure was revised to require
+contact burnishing.
+This condition was entered into the corrective action program and lessons learned were determined and communicated.
+PREVIOUS OCCURRENCES
+There are no previous similar occurrences.
+NRC FORM 366A (08-2020) Page 3 of 3

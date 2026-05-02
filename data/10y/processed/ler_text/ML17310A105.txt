@@ -1,0 +1,515 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+November 3, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and 2
+Facility Operating License Nos. NPF-90 and NPF-96
+NRC Docket No. 50-390 and 50-391
+Subject: Licensee Event Report 390/2017-007-01, Multiple Unreported Potential
+Loss of Safety Function Events Associated with Inoperable Single Train
+Systems Due to Misinterpretation of Reporting Guidance
+This submittal provides Licensee Event Report (LER) 390/2017-007-01. This LER
+supplement provides details concerning a failure by Watts Bar personnel to report potential
+Loss of Safety Function events associated with single train safety systems. This issue, and
+the related events are being reported in accordance with 10 CFR 50. 73(a)(2)(v).
+There are no regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Kim Hulvey, WBN Licensing Manager, at (423) 365-7720.
+Paul Simmons
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc: See Page 2
+U.S. Nuclear Regulatory Commission
+Page 2
+November 3, 2017
+cc (Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Watts Bar Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+_,.tc.::P'-~$l;~(;<.\, Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~ i LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+~; $; Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+'%...;;_, ~ Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+.. _*' ... ~ NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Watts Bar Nuclear Plant, Unit 1 05000390 1 OF 9
+4. TITLE
+Multiple Unreported Potential Loss of Safety Function Events Associated with Inoperable Single Train Systems Due to
+Misinterpretation of Reporting Guidance
+5. EVENT DA TE 6. LER NUMBER 7. REPORT DAT E 8. OTHER FACILITIES INVOLVED
+I I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR Watts Bar Nuclear Plant, Unit 2 05000391
+NUMBER NO.
+06 09 2017 2017 - 007 - 01 11 03 2017 FACILITY NAME DOCKET NUMBER
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.7 3(a)(2)(ii)(A) 50.7 3(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50. 73(a)(2)(ii)(B) 50. 73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50. 73( a )(2)(ix) (A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1 )(i)(A) 50. 73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.7 3(a)(2)(v)(A) 73.71 (a)(4)
+D D D D
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71 (a)(5)
+D D f8J D
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50. 73(a)(2)(v)(C) 73.77(a)(1)
+76 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) f8J 50.7 3(a)(2)(v)(D) D 73.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50. 73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50. 73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Dean Baker, Licensing Engineer 423-452-4589
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) (8J NO SUBMISSION
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 9, 2017, Watts Bar Nuclear Plant (WBN) personnel determined that the reporting requirements of 10 CFR
+50.72(b)(3)(v) and 10 CFR 50.73(a)(2)(v), as clarified by guidance in NUREG-1022, Revision 3, were being incorrectly
+applied for certain events associated with single train safety systems. When events occurred that resulted in these
+systems not meeting Technical Specification (TS) Limiting Conditions for Operation (LCO), the short duration of these
+events relative to their required action completion time, coupled with prompt return to allowable values, were not
+considered a loss of safety function by Operations and Licensing personnel. As a result, multiple potential loss of
+safety function events were not reported as required. These events were related to Refueling Water Storage Tank
+(RWST) level, Containment and Shield Building pressure, and Control Room Envelope integrity.
+A review of these events indicate, when considering the actual system capability and the response of equipment and
+personnel, a loss of safety function capability impacting public health and safety did not occur for events associated
+with the RWST, Containment, Shield Building, or Control Room. Corrective actions include briefing personnel on the
+regulatory impact of these events, and the importance of the control room boundary.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 007 01
+NARRATIVE
+I. PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Watts Bar Nuclear Plant (WBN) Unit 1 was at 76 percent rated thermal power (RTP) . WBN Unit 2 was in
+Mode 5.
+II. DESCRIPTION OF EVENT
+A. Event Summary
+On June 9, 2017, Watts Bar Nuclear Plant (WBN) personnel determined that the reporting
+requirements of 10 CFR 50. 72(b)(3)(v) and 10 CFR 50. 73(a)(2)(v), as clarified by guidance in
+NUREG-1022, Revision 3, were being incorrectly applied for certain events associated with single
+train safety systems. When events occurred that resulted in these systems not meeting Technical
+Specification (TS) Limiting Conditions for Operation (LCO) for these systems, the short duration of
+these events relative to their required action completion time, coupled with prompt return to
+allowable values, were not considered a loss of safety function by Operations and Licensing
+personnel. As a result, multiple potential loss of safety function events were not reported as
+required.
+This event is being reported to the Nuclear Regulatory Commission (NRC) under
+10 CFR 50. 73(a)(2)(v)(C) and (D) as an event or condition that could have prevented fulfillment of
+a safety function needed to control the release of radioactive material and to mitigate the
+consequences of an accident.
+B. Inoperable Structures, Components, or Systems that Contributed to the Event
+Various equipment issues and personnel errors did contribute to the events described in Section
+VIII of this report.
+C. Dates and Approximate Times of Occurrences
+Date Time Event
+EDT
+3/13/17 N/A Condition Report (CR)1273873 generated for Potential Failure to
+Report Loss of Safety Function
+6/09/17 N/A Extent of Condition for CR 1273873 completed for period of 3/17/14 to
+3/17 /17. This review incorrectly concludes no failure to report.
+6/22/17 N/A Condition Report 1310096 generated to address position on loss of
+safety function reporting. WBN licensing determines that multiple
+examples of failure to report have occurred and that the
+event/discovery date for reporting is 6/09/17.
+D. Manufacturer and Model Number of Components that Failed During the Event
+Not applicable.
+NRC FORM 366A (04-2017) Page _2_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 007 01
+NARRATIVE
+E. Other Systems or Secondary Functions Affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each Component or System Failure or Procedural Error
+The failure to report these potential loss of safety function events was discovered during an
+on-going evaluation of this issue by WBN licensing personnel with assistance from other offsite
+licensing personnel who had been involved in the development of NUREG-1022 Revision 3.
+G. Failure Mode and Effect of Each Failed Component
+Individual failures for each event are summarized in Section VIII.
+H. Operator Actions
+No operator actions were required at the time, as there were no on-going events.
+I. Automatically and Manually Initiated Safety System Responses
+Not applicable.
+Ill. CAUSE OF THE EVENT
+A The cause of each component or system failure or personnel error, if known.
+The cause of the failure to report was an incorrect understanding of the regulation associated with
+events or conditions that could have prevented fulfillment of a safety function.
+B. The cause(s) and circumstances for each human performance related root cause.
+The cause of the failure to report was an incorrect understanding of the regulation associated with
+events or conditions that could have prevented fulfillment of a safety function in addition to the
+individual human performance and equipment failures attributed to each event.
+IV. ANALYSIS OF THE EVENT
+When events occurred that resulted in single train systems not meeting TS LCO requirements; the short
+duration of these events relative to their required action completion time were not considered a loss of
+safety function by Operations and Licensing personnel. During evaluation of this issue, with input from
+offsite sources, WBN licensing personnel became aware of a letter transmitted by the Nuclear Regulatory
+Commission (NRG) staff to Exelon Corporation in January 2015 that provides an NRG position on loss of
+safety function related to single train type systems. This resulted in a reassessment of those events that
+should have been reported as a potential loss of safety function, considering the guidance of NUREG-
+1022 that a report is required when:
+NRC FORM 366A (04-2017) Page _3_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 007 01
+NARRATIVE
+"1) there is a determination that the SSC is inoperable in a required mode or other specified condition
+in the TS Applicability,
+2) the inoperability is due to one or more personnel errors, including procedure violations; equipment
+failures; inadequate maintenance; or design, analysis, fabrication, equipment qualification,
+construction, or procedural deficiencies, and
+3) no redundant equipment in the same system was operable."
+Reassessment using these criteria identified a number of events related to single train systems. WBN had
+not reported events related to Refueling Water Storage Tank (RWST) {EllS:TK} level, shield building
+{EllS: NH} pressure being outside TS limits, containment pressure being outside TS limits, and the control
+room envelope {EllS:NA} being inoperable due to a boundary door {EllS:DR} inadvertently left open. Each
+event is described in Section VIII of this report. WBN's assessment of the safety impacts of these events
+is provided below.
+1. With respect to RWST level, three events occurred where the RWST level went below the TS 3.5.4
+allowed value. While the level was below that permitted by the TS, the level reduction was very small with
+respect to the tank volume. The safety function capability of the tank was determined to have been met for
+design basis events (DBEs).
+2. The WBN containment design includes a free standing steel pressure vessel surrounded by a
+reinforced concrete shield building. The shield building is maintained at a negative pressure during normal
+operation by non-safety related ventilation systems required to be in operation in Modes 1 -4. In the event
+of an accident, safety related ventilation systems would filter the exhaust from the shield building, reducing
+the offsite dose to members of the public from postulated leakage of the containment pressure vessel. On
+multiple occasions, the pressure in the shield building went outside of TS 3.6.15 allowable limits as a result
+of equipment failures. While these events are reportable as a potential loss of safety function, evaluation
+of these events shows that the safety function capability of the shield building, the containment pressure
+vessel, and the associated ventilation systems would not have been lost. The Emergency Gas Treatment
+System (EGTS), which would function to filter the exhaust from the shield building, is capable of
+performing its safety function assuming the shield building is not at a negative pressure as documented in
+the dose analysis in the UFSAR. In addition, such testing or equipment malfunctions also has impacted
+containment pressure TS 3.6.4 which specifies the relative pressure limits between the containment and
+the annulus. The design of the containment pressure vessel bounds any minor pressure transient that
+may occur during ventilation system transients and its safety function capability would not be lost.
+3. The control room envelope (CRE) is required to be operable in Modes 1 through 6. Operability requires
+integrity of the control room envelope such that it will have a low unfiltered in leakage during accident
+conditions to maintain the dose to operators within the requirements of 1O CFR 50, General Design
+Criterion 19. TS allows the CRE boundary to be opened intermittently under administrative control,
+normally to allow personnel ingress and egress from the control room. Administrative controls in the case
+of boundary doors are that an individual is in control of the door when it is opened. On multiple occasions,
+personnel entering and leaving the control room left one of the boundary doors open. This resulted in
+operations personnel entering TS LCO 3.7.10, Control Room Emergency Ventilation System (CREVS),
+Condition B for one or more CREVS trains inoperable due to an inoperable CRE boundary. Low positive
+pressure (less than 0.2 inches of water gauge (WG)) in the control room for 90 seconds results in a control
+room alarm. Upon receipt of the alarm, operations personnel promptly closed the CRE door. For these
+events, the time that the CRE boundary was open was approximately four minutes for each event,
+includin the alarm dela time. The licensin basis at WBN for a loss of coolant accident LOCA assumes
+NRC FORM 366A (04-2017) Page _4_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 007 01
+NARRATIVE
+instantaneous core damage and release, and therefore, a potential loss of safety function event for each
+case occurred. The physics of such an event are that core damage and a containment release would take
+some period of time much greater than a few minutes. The CRE door would be expected to be closed with
+high confidence well in advance of an actual radiological release. Most of the door events involved the
+door being ajar, and under these circumstances simplified, non-surveillance testing has shown that a
+positive control room pressure would be present.
+V. ASSESSMENT OF SAFETY CONSEQUENCES
+The failure to report potential loss of safety function events represents a significant concern from a
+regulatory standpoint. A review of these events indicate, when considering the actual system capability
+and the response of equipment and personnel, a loss of safety function capability impacting public health
+and safety did not occur with respect to the RWST, Shield Building, Containment or the Control Room.
+A Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+Availability of systems to perform the required functions is described in Section IV.
+B. For events that occurred when the reactor was shut down, availability of systems or components
+needed to shutdown the reactor and maintain safe shutdown conditions, remove residual heat,
+control the release of radioactive material, or mitigate the consequences of an accident
+Availability of systems to perform the required functions is described in Section IV.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed time
+from the discovery of the failure until the train was returned to service
+The time period that systems and equipment were outside of specified TS limits is described in
+Section VIII of this LER.
+VI. CORRECTIVE ACTIONS
+This event was entered into the Tennessee Valley Authority (TVA) Corrective Action Program and is being
+tracked under Condition Report (CR) 1310096.
+A Immediate Corrective Actions
+Upon determining that previous events were reportable, this LER was initiated and developed for
+submittal. Communication of this reporting issue has occurred within operations and licensing.
+B. Corrective Actions to Prevent Recurrence or to Reduce Probability of Similar Events Occurring in
+the Future
+WBN will brief personnel, including supplementary staff, on the regulatory and nuclear safety
+impacts related to failure to close the control room boundary doors, and will post door watches as
+needed.
+NRG FORM 366A (04-2017) Page _5_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+'~. .f .t NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+»:t·jc~~ used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR ·
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 007 01
+NARRATIVE
+VII. PREVIOUS SIMILAR EVENTS AT THE SAME SITE
+On November 11, 2015, WBN Unit 1 failed to enter TS 3.1.8 Condition A which was required when WBN
+Unit 1 experienced a rod drop event. This was subsequently reported to the NRC as a condition prohibited
+by TS in LER 390-2016-007 on June 20, 2016. This event is similar in that licensing personnel incorrectly
+interpreted requirements related to how to comply with TS 3.1.8.
+VIII. POTENTIAL LOSS OF SAFETY FUNCTION EVENTS FOR PREVIOUS THREE YEARS
+A summary of potential loss of safety function events over the last three years is provided below:
+Events related to TS LCO 3.5.4 for the Refueling Water Storage Tank less than 370,000 gallons
+Date Time Condition Summary
+Report
+3/24/14 0435 864251 Entry into TS LCO 3.5.4.B when level in the RWST went below TS
+minimum of 370,000 gallons with Unit 1 in Mode 4. Exited LCO when Unit
+1 entered Mode 5 at 0620 on March 24, 2014. Due to other equipment
+issues, a decision was made to use the RWST to provide a Reactor
+Coolant System (RCS) makeup water source during cooldown.
+7/7/14 1255 907544 Entry into TS LCO 3.5.4.B when level in the RWST went below TS
+minimum of 370,000 gallons. A leak from the suction side of the Refueling
+Water Purification Pumps was isolated and the Unit 1 RWST was refilled.
+The LCO condition was exited on July 7, 2014 at 1320.
+6/5/16 1230 1317307 Entry into TS LCO 3.5.4 Condition B when level in the RWST went below
+TS minimum of 370,000 gallons due to a reactor trip with safety injection
+(SI) on WBN Unit 2. Exited TS LCO 3.5.4 Condition B on June 5, 2016 at
+1622 when the RWST was above TS minimum level. The trip with SI
+was reported to the NRC in LER-391-2016-004 on August 4, 2016.
+Events related to TS LCO 3.6.4 for Containment Pressure outside range of greater than of equal to -0.1
+psid and less than or equal to +0.3 psid relative to the annulus
+Date Time Condition Summary
+Report
+7/14/16 1307 1317307 Entry into TS LCO 3.6.4 condition A when the containment pressure was
+less than -0.1 psid relative to the annulus following the loss of power to the
+annulus vacuum fans. TS LCO 3.6.4 Condition A was exited on July 14,
+2016 at 1354. This was subsequently determined to not be reportable
+because this occurred during a planned evolution performed using
+approved plant procedures.
+3/13/17 1558 1273873 Entry into TS LCO 3.6.4 condition A when the containment pressure was
+less than -0.1 psid relative to the annulus during Auxiliary Building Gas
+Treatment System (ABGTS) Pressure Test of Train B. TS LCO 3.6.4
+Condition A was exited On March 13, 2017 at 1613.
+NRC FORM 366A (04-2017) Page _6_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 1 05000390
+2017 - 007 - 01
+NARRATIVE
+Events related to TS LCO 3.6.15 Condition B for annulus pressure requirement not met for the Shield
+Building. SR 3.6.15.1 requires annulus to be greater than -5 inches WG with respect to atmosphere
+Date Time Condition Summary
+Report
+3/12/15 1133 998890 Entry into TS 3.6.15 Condition B for annulus pressure not within limits
+(more negative than -5 inches WG) due to dropping below -5.5 inches
+WG because 1-FC0-65-49 Annulus Vacuum normal control damper not
+controlling properly. Annulus pressure restored at 1305.
+9/13/15 1025 1317307 Entry into TS 3.6.15 Condition B for annulus pressure not within limits due
+to pressure transient from initiating an Auxiliary Building Isolation (ABI) for
+U2 testing. LCO 3.6.15 was exited at 1031. This was subsequently
+determined to not be reportable because this occurred during a planned
+evolution performed using approved plant procedures.
+6/2/16 1512 1177619 Entry into TS 3.6.15 Condition B for annulus pressure not within limits due
+to failure of 2-FC0-65-45 to open during 2-Sl-99-303-B. Exited LCO
+3.6.15 at 1518.
+6/5/16 1240 1317307 Shield building pressure less than -5 in WG due to U2 Reactor Trip with
+SI. Exited condition at 1242 on June 5, 2016. The trip with SI was
+reported to the NRG in LER-391-2016-004 on August 4, 2016.
+7/14/16 1303 1317307 Shield building pressure less than -5 in WG due to Loss of Power Power
+Ascension Test (PAT). TS LCO 3.6.15 Condition B not entered into plant
+logs. Exited condition at 1438 on July 14, 2016 when annulus pressure
+was greater than -5 in WG. This was subsequently determined to not be
+reportable because this occurred during a planned evolution for power
+ascension performed using approved plant procedures.
+-14-45-
+-·3/1117- - --1317307 Entry into TS LCO 3.6.15 Condition A and B for annulus not more
+negative than -5 inches WG due to transient caused by storm front
+moving through area. Exited TS LCO 3.6.15 Condition A and B on March
+1, 2017 at 1446.
+3/13/17 1558 1272164/ Shield building pressure less than -5 in WG due to ABGTS testing (No
+1272224 entry into LCO 3.6.15 Condition B logged). Exited condition at 1812 on
+March 13, 2017.
+Events related to TS LCO 3.7.1O for the Control Room Emergency Ventilation System (CRE boundary
+breached)
+Note: The control room pressure alarm comes in after a 90 second delay.
+Date Time Condition Report Summary
+(Alarm)
+3/23/14 0424 862708 Boundary door closed by 0427
+3/30/14 0951 866226 Boundary door closed by 0953
+5/31/14 0157 894134 Boundary door closed by 0159
+6/14/14 0915 899633 Boundary door closed by 0917
+6/23/14 1135 903067 Boundary door closed by 1140
+7/10/14 1255 909000 Boundary door closed by 1257
+7/11/14 1014 910194 Boundary door closed by1016
+NRC FORM 366A (04-2017) Page _7_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+,f~,-~·f· ""'"'·~\ comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~· ~ lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+o '-<; . -;,...~~**~"'./ii - > ~ : CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 - 007 - 01
+NARRATIVE
+Date Time Condition Report Summary
+(Alarm)
+7/19/14 0822 912154 Boundary door closed by 0823
+8/22/14 1740 1317307 /132644 7 Boundary door closed by 17 43
+8/23/14 2240 1317307 /132644 7 Boundary door closed by 2246
+10/21/14 0708 948571 Boundary door closed by 0710
+11 /7/14 1722 1317307 /132644 7 Boundary door closed by 1725
+12/15/14 1245 967964 Boundary door closed by 1247
+1/18/15 0703 979264 Boundary door closed by 0705
+2/3/15 1305 985860 Boundary door closed by 1306
+2/8/15 0726 986637 Boundary door closed by 0727
+2/11 /15 0603 988464 Boundary door closed by 0605
+3/15/15 1242 1000413 Boundary door closed by 1244
+3/25/15 1924 1317307/1326447 Boundary door closed by 1925
+6/15/15 1502 1040054 Boundary door closed by 1504
+7/21 /15 1918 1317307 /132644 7 Boundary door closed by 1922
+7/22/15 2100 1061510 Boundary door closed by 2103
+8/18/15 0427 1071973 Boundary door closed by 0429
+10/13/15 0751 1092726 Boundary door closed by 0753
+10/31/15 0240 1099526 Boundary door closed by 0242
+10/31 /15 1358 1099592 Boundary door closed by1360
+11/14/15 0728 1104089 Boundary door closed by 0731
+12/5/15 2207 1112234 Boundary door closed by 2210
+1/ 4/16 1053 1121123 Boundary door closed by 1055
+1/22/16 0332 1127775 Boundary door closed by 0334
+1/ 22/16 2247 1128181 Boundary door closed by 2250
+1/26/16 0550 1129073 Boundary door closed by 0552
+1/26/16 2005 1129477 Boundary door closed by 2007
+2/15/16 1102 1137634 Boundary door closed by 1104
+4/20/16 1827 1162773 Boundary door closed by 1830
+4/27/16 2334 1317307 /132644 7 Boundary door closed by 2337
+5/12/16 2134 1170567 Boundary door closed by 2141
+6/29/16 1951 1187273 Boundary door closed by 1954
+7/ 30/16 0404 1197627 Boundary door closed by 0406
+10/21/16 1409 1225143 Boundary door closed by 1412
+3/20/17 0120 1274363 Boundary door closed by 0122
+3/21 /17 0900 1275203 Boundary door closed by 0902. The Control room door was
+undergoing minor maintenance. Maintenance personnel were
+in control of the door durinq this activity.
+4/6/17 1620 1281767 Boundary door closed by 1623
+5/13/17 1408 1295376 Boundary door closed by 1410
+IX. ADDITIONAL INFORMATION
+None.
+NRC FORM 366A (04-2017) Page _8_ of _9_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Watts Bar Nuclear Plant, Unit 1 05000390 NUMBER NO.
+2017 007 01
+NARRATIVE
+X. COMMITMENTS
+None.
+NRC FORM 366A (04-2017) Page _9_ of _9_

@@ -1,0 +1,432 @@
+Constellation. James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Timothy C. Peter
+Site Vice President- JAF
+JAFP-23-0045
+August 14, 2023
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2023-002-01, Reactor Protection System Electric Power Monitoring
+System Trip Caused Primary Containment Isolation
+Dear Sir or Madam:
+This report is being submitted pursuant to 1O CFR 50.73(a)(2)(iv)(A).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Mark Hawes, Regulatory Assurance,
+at (315) 349-6659.
+~ e, ----
+Site Vice President
+TCP/MH
+Enclosure: LER: 2023-002-01, Reactor Protection System Electric Power Monitoring
+System Trip Caused Primary Containment Isolation
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER)
+b
+le
+u
+a
+r
+r
+d
+n
+e
+e
+n
+d
+e
+a
+s
+r
+t
+e
+im a
+in
+t
+c
+e
+o
+t
+r
+o
+p o
+t
+r
+h
+a
+e
+t ed
+F O
+in
+I
+t
+A
+o
+,
+th
+L
+e
+ib r
+l
+a
+ic
+r
+e
+y
+n
+,
+s
+a
+i
+n
+n
+d
+g p
+In
+ro
+fo
+c
+r
+e
+m
+ss
+a ti
+a
+o
+n
+n
+d
+C
+fe
+o
+d
+ll e
+b
+c
+a
+ti
+c
+o
+k
+n s
+t o
+B
+in
+r
+d
+a
+u
+n
+s
+c
+t
+h
+ry .
+(T
+S
+-6
+e n
+A
+d
+1
+c
+0
+o
+M
+m
+)
+m
+, U
+e
+.
+n t
+S
+s
+.
+re
+N
+ga
+u
+r
+c
+d
+le
+in
+a
+g
+r
+Regulatory Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and
+(See Page 3 for required number of digits/characters for each block) the OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the
+Nuclear Regulatory Commission, 725 17th Street NW, Washington, DC 20503; email:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form oira_submission@omb.eop.gov. The NRC may not conduct or sponsor, and a person is not required
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) t
+c
+o
+u r
+r
+r
+e
+e
+s
+n
+p
+tl
+o
+y
+n
+v
+d
+a l
+t
+i
+o
+d
+,
+O
+a
+M
+c
+B
+o ll
+c
+e
+o
+c
+n
+ti
+t
+o
+ro
+n
+l
+o
+n
+f
+u m
+inf
+b
+o
+e
+rm
+r.
+ation unless the document requesting or requiring the collection displays a
+1. Facility Name  050 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+ 052 05000333
+1 OF 4
+4. Title
+Reactor Protection System Electric Power Monitoring System Trip Caused Primary Containment Isolation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Ye ar S N eq u u m e b n e ti r a l Rev N i o s . i on Month Day Year F N ac / il A ity N ame  050 Do N ck / et A Nu mber
+Facility Name Docket Number
+04 14 2023 2023 - 002 - 01 08 14 2023 N/A  052 N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.1200(a)
+ 20.2201(b)  20.2203(a)(3)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)  73.1200(b)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)  73.1200(c)
+ 20.2203(a)(1)  20.2203(a)(4)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)  73.1200(d)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73  73.1200(e)
+ 20.2203(a)(2)(ii)  21.2(c)  50.69(g)  50.73(a)(2)(v)(B)  73.77(a)(1)  73.1200(f)
+ 20.2203(a)(2)(iii)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.77(a)(2)(i)  73.1200(g)
+ 20.2203(a)(2)(iv)  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(2)(ii)  73.1200(h)
+ 20.2203(a)(2)(v)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)
+OTHER (Specify in Abstract below or in NRC Form 366A).
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Mark Hawes, Regulatory Assurance 315-349-6659
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D JE EC O026 N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 14, 2023, at 05:11, James A. FitzPatrick Nuclear Power Plant (JAF) received indication of a
+half-scram on the “B” side Reactor Protection System (RPS). The cause was determined to be an overvoltage
+condition that tripped the Electrical Protection Assembly (EPA) for the “B” RPS Motor Generator (MG) Set.
+The same condition occurred on May 25, 2023, at 23.59. These events caused invalid primary containment
+isolation signals in multiple systems, reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A). The cause was
+corrosion buildup in the voltage adjust potentiometer which led to the overvoltage trip of the EPA. Corrective
+actions included replacing the voltage adjust potentiometer.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104),
+Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 002 – 01
+NARRATIVE
+Background
+Reactor Protection System (RPS) [EIIS: JE] Electric Power Monitoring System is provided to isolate the RPS
+bus from the motor generator (MG) set or an alternate power supply in the event of overvoltage, undervoltage,
+or underfrequency. This system protects the loads connected to the RPS bus against unacceptable voltage
+and frequency conditions and forms an important part of the primary success path of the essential safety
+circuits. Some of the essential equipment powered from the RPS buses includes the RPS logic, scram pilot
+valve solenoids, and various valve isolation logic.
+RPS electric power monitoring assembly will detect any abnormal high or low voltage or low frequency
+condition in the outputs of the two MG sets or the alternate power supply and will de-energize its respective
+RPS bus, thereby causing all safety functions normally powered by this bus to de-energize. (Safety functions
+powered by the RPS buses deenergize to actuate.)
+Two redundant Class IE circuit breakers are connected in series between each RPS bus and its MG set, and
+between each RPS bus and its alternate power supply. Each of these circuit breakers has an associated
+independent set of Class IE overvoltage, undervoltage, and under frequency sensing logic. Together, a circuit
+breaker and its sensing logic constitute an electric power monitoring assembly. If the output of the inservice
+MG set or alternate power supply exceeds predetermined limits of overvoltage, undervoltage, or
+underfrequency, a trip coil driven by this logic circuitry opens the circuit breaker, which removes the associated
+power supply from service.
+Event Description
+On April 14, 2023, at 05:11 when James A. FitzPatrick Nuclear Power Plant (JAF) was at 100% power, the
+station received indication of a half-scram on “B” side RPS. AOP-60, Loss of RPS Bus B Power, was entered
+and the cause was determined to be a trip of the “B” RPS MG set due to an overvoltage condition. The direct
+cause of the output breaker tripping was due to an Electric Power Monitoring System overvoltage trip on
+71EPA-RPS1B1G, Electrical Protection Assembly (EPA).
+On May 25, 2023, at 23:59, when JAF was at 100% power, the station received indication of a half-scram on
+the “B” side RPS. AOP-60 was entered and the cause was determined to be a trip of the “B” RPS MG set due
+to an overvoltage condition. The direct cause of the output breaker tripping was due to an Electric Power
+Monitoring System overvoltage trip on 71EPA-RPS1B1G, EPA.
+In both events, the RPS bus power was restored when it was placed on the alternate power supply.
+Both events resulted in invalid system actuations of "B" side half scram and Primary Containment Isolation
+System (PCIS) [JM] isolations. The following systems isolated as a result of the loss of “B” RPS bus: Reactor
+Water Cleanup [CE], Reactor Building ventilation [NG], “B” Containment Atmosphere Dilution [BB], Torus Vent
+and Purge, Drywell Equipment and Floor Drain Sumps [WK], “B” Drywell Containment Atmospheric Monitors
+[IP], Recirculation System Sample Line, and Main Steam Line Drains [SB]. “B” Standby Gas Treatment
+System [BH] started as designed. These system actuations were not initiated by signals in response to actual
+plant conditions or parameters satisfying the requirements for initiation of the system.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+Page 2 of 4
+NRC FORM 366A (03-14-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104),
+Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 002 – 01
+Event Analysis
+Following the April 14 “B” RPS MG set trip, initial troubleshooting determined the most likely cause of the
+event was a degraded voltage regulator. The voltage regulator was replaced and sent to PowerLabs for
+analysis. The voltage adjust potentiometer “1P” was not replaced. On April 16, 2023, at 22:27, the “B” RPS
+MG set was restored to service as the RPS bus power supply.
+PowerLabs testing concluded that there was no issue with the voltage regulator component in a report dated
+May 15, 2023; however, they identified the most probable cause to be the voltage adjust potentiometer “1P”
+component.
+After the May 25 trip, a Simpson meter (analog multimeter) was used during troubleshooting and the meter
+was observed to waiver erratically across the potentiometer full range of movement. The expected response is
+smooth movement as the potentiometer is moved through its full range. The potentiometer was replaced and
+sent to PowerLabs for analysis.
+The erratic performance of the
+potentiometer “1P” was determined to be
+poor electrical connection, likely between
+the wiper and winding. The most likely
+cause of the poor electrical connection is
+oxidation on the wiper and winding mating
+surfaces. This corrosion introduced an
+elevated electrical resistance between the
+wiper and coil. Elevated resistance caused
+the voltage regulator output to rise, which
+caused the RPS MG set voltage to rise
+above the overvoltage trip voltage of the
+EPA.
+Potentiometer wiping preventive
+maintenance (PM) should detect and prevent failure. The current PM has technicians take an ‘as-found’
+resistance reading using an ohmmeter, then wipe the potentiometer, and take an as-left reading. Best
+practices were determined to be a Simpson meter or similar analog type should be used so the potentiometer
+resistance can be measured across the entire range to determine if high-resistance spots exist on the
+potentiometer. Wiping should continue until the high-resistance sections are eliminated and if that is not
+possible, the potentiometer should be replaced. Based on failure modes team input and an industry
+benchmark preventative maintenance guidance is being updated to reduce the likelihood of future failures.
+Cause
+The "B" side half scram, system actuations, and Primary Containment Isolation System (PCIS) isolations were
+caused by corrosion buildup in the voltage adjust potentiometer which led to an overvoltage trip of the
+Electrical Protection Assembly (EPA).
+Page 3 of 4
+NRC FORM 366A (03-14-2023)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+LICENSEE EVENT REPORT (LER)
+hours. Reported lessons learned are incorporated into the licensing process and fed
+CONTINUATION SHEET back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104),
+Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) conduct or sponsor, and a person is not required to respond to, a collection of
+information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+James A. FitzPatrick Nuclear Power Plant 05000333
+ 052
+2023 – 002 – 01
+Similar Events
+Condition Report – CR-JAF-2012-01491 dated March 14, 2012, “B” RPS bus failed to transfer from alternate
+power supply to MG Set. Most probable cause is momentary high resistances across the voltage adjust
+potentiometer “1P”. Corrective actions included revising the PM for the RPS MG sets to include periodic
+exercise of the potentiometer. This new maintenance practice was ineffective at preventing the event reported
+in this report.
+Corrective Actions
+Completed Actions
+Replaced voltage adjustment potentiometer “1P”.
+Planned Actions
+Revise “A” and “B” RPS MG set voltage adjustment potentiometer PM to incorporate the use of analog
+multimeter and include expected response.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: Ohmite
+Manufacturer Model Number: RHS500E
+Manufacturer Code: O026
+Component Code: EC
+FitzPatrick Component ID: Voltage adjustment potentiometer “1P”
+is a subcomponent to 71RP-1B(GEN)
+Safety Significance
+There were no actual nuclear consequences. RPS Electric Power Monitoring System responded as
+designed to an overvoltage condition to protect the electrical power systems. Then system actuations
+responded to the loss of power condition as expected without any issue. There was no loss of any safety
+functions during these events.
+References
+Issue Report - IR 04670001, AOP-60 entry due to B side half scram, dated April 14, 2023
+Issue Report - IR 04680732, Entry into AOP-60, dated May 26, 2023
+Page 4 of 4
+NRC FORM 366A (03-14-2023)

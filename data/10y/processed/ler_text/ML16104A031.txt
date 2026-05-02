@@ -1,0 +1,185 @@
+Dresden Generating Station
+6500 North Dresden Road
+Exelon Generation®
+J.cs/' Morris. IL 60450
+www.exeloncorp.com
+10 CFR 50.73
+SVPLT R # 16-0013
+April 8, 2016
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Dresden Nuclear Power Station, Unit 2 and 3
+Renewed Facility Operating License Nos. DPR-19 and DPR-25
+NRC Docket No. 50-237 and 50-249
+Subject: Licensee Event Report 237/2016-001-00, Secondary Containment Differential
+Pressure Transient
+Enclosed is Licensee Event Report 237/2016-001-00, "Secondary Containment Differential
+Pressure Transient ". This report describes events which are being reported in accordance
+with 10 CFR 50.73(a)(2)(v)(C}, "Any event or condition that could have prevented the
+fulfillment of the safety function of ... systems that are needed to control the release of
+radioactive material".
+There are no regulatory commitments contained in this submittal.
+Should you have any questions concerning this letter, please contact Mr. Bruce Franzen
+at (815) 416-2800.
+Respectfully,
+Peter J Karaba
+Site Vice President
+Dresden Nuclear Power Station
+Enclosure Licensee Event Report 237/2016-001-00
+cc: Regional Administrator - NRC Region Ill
+NRC Senior Resident Inspector - Dresden Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+iJ>'Atltc1u, Estimated burden per response to comply with this mandatory collection request: 80 hours.
+f ~ ~~{;;. "''o s ~ Reported lessons learned are incorporated into the licensing process and led back to industry.
+t: .. : Send comments regarding burden estimate to the FOIA, Privacy and lnlormation Collections
+~+.., ......... +/ LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+digits/characters for each block) DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Dresden Nuclear Power Station, Unit _2 05000237 1 OF 3
+4. TITLE
+Secondary Containment Differential Pressure Transient
+5. EVENT'DATE 6. LEA NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR I SE N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR Dresden Unit 3 05000249
+- FACILITY NAME DOCKET NUMBER
+02 09 2016 2016 - 001 00 04 08 16 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(il 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4l so.13(a)(2)(iiil 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(iil 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 13.11 (a)(4l
+D D D D
+20.2203(a)(2)(iiil so.3a(c)(2) 50.73(a)(2)(v)(B) 13.11 (a)(5l
+D 20.2203(a)(2)(iv) D so.4a(a)(3l(iil [8] 50.73(a)(2)(v)(C) D 13.11(a)(1)
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.11(a)(2)(il
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(iil
+::~2 ;;~,,~~~- ··::;?;W'.~ D so.13(a)(2)(il(Cl D OTHER Specify in Abstract below or in NRG Form 366A
+12. LICENSEE CONTACT FOR THIS LEA
+LICENSEE CONTACT !TELEPHONE NUMBER (Include Area Code)
+Bruce Franzen - Regulatory Assurance Manager 815-416-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B VA PDC J073 y
+14. SUPPLEMENTAL REPQRT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) [8J NO SUB D M A IS TE S ION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten Jines)
+On 2/9/16 at 19:00 CST, the operating heating boiler shutdown. At 19:15, the Main Control Room (MCR) received alarms
+for low reactor building (RB) differential pressure (DP). As directed by procedure, Operators verified local gauge readings
+and equipment configuration. At 21 :42, local gauge readings were averaged at -0.24 inches we which required entry into
+Tech Spec 3.6.4.1.A due to RB DP being greater than Technical Specification required -0.25 inches we by local average
+on the refuel floor. At 22:05, U3 RB ventilation was secured, and at 22:07 TS 3.6.4.1.A was exited when RB DP returned
+below -0.25 inches we.
+The cause of the event was determined to be a degraded area DP controller that restricted exhaust flow, preventing the
+system from maintaining RB DP greater than TS allowed value.
+Corrective actions include calibration of the area DP controller, enhancements to operational response procedures, a
+review of the associated maintenance strategy, and review for potential component upgrades.
+NRG FORM 366 (11-2015)
+Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/201 E
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+~(,.;.,..11nrallt., comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+aI'! . LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+\+ ~IS., CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+I):***'*"' used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Dresden Nuclear Power Station, Unit 2 05000-237
+2016 - 001 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+Dresden Nuclear Power Station (DNPS), Unit 2, is a General Electric Company Boiling Water Reactor with
+a licensed maximum power level of 2957 megawatts thermal. The Energy Industry Identification System
+codes used in the text are identified as [XX].
+A. Plant Conditions Prior to Event:
+Unit: 02 Event Date: 02/09/2016 Event Time: 1900 CST
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100 percent
+B. Description of Event:
+On 2/9/16 at 19:00, the operating heating boiler [LV] shutdown. At 19:15, the Main Control
+Room (MCR) received alarms indicating that Reactor Building (RB) [NG] DP was below -0.3"
+wc. An Equipment Operator (EO) was dispatched to take local RB DP readings on the Refuel
+Floor. Local readings were averaged to be -0.35" we. Operations verified that all Secondary
+Containment interlock doors, RB blowout panels and reactor building ventilation [VA] (RBV)
+exhaust hatches were in the proper configuration.
+Following the loss of the heating boiler, Operations entered the associated response
+procedure. This procedure directed field operators to block open all doors of both the U2 and
+U3 RBV supply plenums to prevent freezing of the ventilation filters and heating coils within the
+plenums.
+At 21 :42, another step change in RB DP was noticed by Operations. Main Control Room RB
+DP indication degraded from -0.25" wc to -0.12" we. An EO was dispatched to obtain local
+readings on the Refuel Floor. Local readings were averaged at -0.24" we which required entry
+into Tech Spec 3.6.4.1.A due to RB DP being greater than Tech Spec required -0.25" wc by
+local average on the refuel floor.
+At 22:05, U3 RBV was secured, and at 22:07 Tech Spec 3.6.4.1.A was exited when RB DP
+returned to below -0.25" we.
+An 8 hour non-emergency notification was made via Emergency Notification System #51721 in
+accordance with 1O CFR 50.72(b)(3)(v)(C) for the loss of Secondary Containment.
+NRC FORM 366A (11-2015)
+---------
+Page 3 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2011
+(11·2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and led back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T·5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfacollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office ol Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Dresden Nuclear Power Station, Unit 2 05000-237 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+C. Cause of Event:
+The apparent cause of the event was determined to be the system operating with an out of
+tolerance (OOT} U3 Area DP controller that degraded total system margin.
+D. Safety Analysis:
+With the exception of the degraded area differential pressure controller, all equipment
+responded as designed. Operator action to secure Unit 3 RBV in accordance with
+proceduralized guidance prevented the further degradation of the reactor building differential
+pressure, maintaining the negative differential pressure and preventing loss of safety function.
+This event is of very low safety significance.
+This event is being reported under 1O CFR 50. 73(a)(2)(v)(C) "Any event or condition that could
+have prevented the fulfillment of the safety function of ... systems that are needed control the
+release of radioactive material."
+E. Corrective Actions:
+The degraded area DP controller was calibrated and the Unit 3 RBV restored to operation.
+Gaps in the maintenance strategy will be identified and eliminated. System upgrades will be
+reviewed for implementation. The operational response procedure for the loss of plant heating
+steam will be reviewed for enhancements.
+F. Previous Occurrences:
+A previous event in 2009 was found during the investigation where a degraded area DP
+controller caused a loss of secondary containment differential pressure. This event was used in
+the development of corrective actions.
+G. Component Failure Data:
+Manufacturer Model S/N Type
+Pneumatic
+Johnson Controls T-5312 RY10812
+Con roller
+NRC FORM 366A (11-2015)

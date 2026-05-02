@@ -1,0 +1,187 @@
+Exelon Generation .
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Timothy C. Peter
+Plant Manager - JAF
+JAFP-19-0015
+February 1, 2019
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2018-001, Secondary Containment Differential Pressure Exceeded
+the Technical Specification Surveillance Requirement
+Dear Sir or Madam:
+This report is being submitted pursuant to 1O CFR 50.73(a)(2)(v)(D) as an "Event or Condition
+that Could Have Prevented Fulfillment of a Safety Function."
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+Sincere!~
+it~ter
+Plant Manager
+TCP/WD/hm
+Enclosure: LER: 2018-001, Secondary Containment Differential Pressure Exceeded
+the Technical Specification Surveillance Requirement
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Collections Branch
+LICENSEE EVENT REPORT (LER) (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of digits/characters for each block) Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+Washington, DC 20503. If a means used to impose an information collection does not display
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+a currently valid OMB control number, the NRC may not conduct or sponsor, and a person
+is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 4
+4. Title
+Secondary Containment Differential Pressure Exceeded the Technical Specification Surveillance Requirement
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+12 05 2018 2018 - 001 - 00 02 04 2019 N/A N/A
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+1
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. Power Level  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+100  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. William Drews, Regulatory Assurance Manager 315-349-6562
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to ICES Cause System Component Manufacturer Reportable to ICES
+B LD CMP I075 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ Yes (If yes, complete 15. Expected Submission date)  No
+Abstract (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1010 on December 5, 2018, Secondary Containment differential pressure exceeded the Technical Specification
+Surveillance Requirement of greater than or equal to 0.25 inches of vacuum water column. The highest Secondary
+Containment differential pressure was measured at a positive value of 0.06 inches water column. This condition existed
+for approximately 3 minutes before the differential pressure was restored to normal when the Standby Gas Treatment
+system was manually initiated.
+This event was caused by a trip of the service air compressor 39AC-2A. The loss of instrument air pressure caused
+Reactor Building ventilation to isolate and raise Secondary Containment differential pressure. The instrument air pressure
+was restored when 39AC-2A was isolated and the two backup air compressors started.
+This condition did not impact the ability of the Standby Gas Treatment system to establish and maintain the required
+negative pressure in the containment structure. When Secondary Containment did not meet the Technical Specification
+Surveillance Requirement 3.6.4.1.1 for differential pressure, the Limiting Condition of Operation (LCO) was not met.
+Therefore, Secondary Containment was inoperable. This event was being reported under 10 CFR 50.72(b)(3)(v)(C).
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+(S ee NUREG-1022, R.3 for instruction and guidance for completing this form person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2018 – 001 – 00
+NARRATIVE
+Background
+The Secondary Containment [EIIS identifier: NG] is a structure comprised of the Reactor Building that
+surrounds the primary containment and refuel equipment. Its safety function is designed to provide
+containment for postulated accident scenarios: loss-of-coolant accident and refueling accident. This structure
+forms a control volume that serves to hold up and dilute fission products in the event of an accident. Since
+pressure may increase in Secondary Containment relative to the environmental pressure, the system was
+designed to include a differential pressure vacuum such that external atmosphere would leak into containment
+rather than fission products leak out.
+The systems which maintain a differential pressure vacuum inside Secondary Containment are the normal
+Reactor Building Ventilation (RBV) system [VA] and the safety-related Standby Gas Treatment (SBGT) system
+[BH]. During a postulated accident scenario, the normal RBV isolates and the SBGT initiates in order to filter
+gas from Secondary Containment to the environment. SBGT has the capacity to maintain the differential
+pressure vacuum.
+Event Description
+At 1010 on December 5, 2018, Secondary Containment differential pressure exceeded the Technical
+Specification Surveillance Requirement of greater than or equal to 0.25 inches of vacuum water gauge. The
+highest Secondary Containment differential pressure was measured at a positive value of 0.06 inches water column. This
+condition existed for approximately 3 minutes before the differential pressure was restored to normal when the
+Standby Gas Treatment system was manually initiated.
+This event was caused by a trip of the service air compressor 39AC-2A. The loss of instrument air pressure
+caused Reactor Building ventilation to isolate and raise Secondary Containment differential pressure. The
+instrument air pressure was restored when 39AC-2A was isolated and the two backup air compressors
+started.
+Event Analysis
+Loss of instrument air pressure to the Reactor Building Ventilation system’s air operated dampers caused the
+dampers to move to the closed position. Once air pressure is removed, spring pressure will force the air
+operator in the closed direction and thus close the damper. The result is the system not maintaining a negative
+pressure in the Reactor Building as compared to the outside environment.
+Cause
+The cause of this event was a loss of instrument air pressure when the 39AC-2A Service Air Compressor
+tripping off-line due to high inter-stage pressure and failure of the discharge check valve to close, allowing
+system pressure to be lost.
+External Events
+Hatch, Unit 1, Condition Prohibited by Tech Specs due to Secondary Containment Inoperability, caused by in-
+leakage through degraded secondary containment door seals. (ML18080A054)
+Fermi, Unit 2, Secondary Containment Pressure Exceeded Technical Specification due to Reactor Building
+HVAC System Manipulation – This event was cause by a degraded bolt and pivot linkage on a modulating
+damper. (ML18054A752)
+Page 2 of 3
+NRC FORM 366A (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the Information Collections Branch (T-5 F53), U.S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information collection
+does not display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+(S ee NUREG-1022, R.3 for instruction and guidance for completing this form person is not required to respond to, the information collection.
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2018 – 001 – 00
+Corrective Actions
+Future Corrective Actions
+ Engineering Evaluation of installation of an external check valve on discharge of service air
+compressors (in addition to the compressor internal check valve).
+ Procure a spare station air compressor to be stored on site
+Completed Corrective Actions
+ Service Air compressor 39AC-2A was replaced; including internal check valve (JAF Work Order
+#04662559)
+Safety Significance
+Nuclear safety - This event did not have any actual or potential impact on nuclear safety.
+Radiological safety - There was no radiological consequence during this event.
+The potential for a radiological consequence is only applicable during the time that Secondary Containment
+was below 0.25 inches water vacuum differential pressure. When this condition had occurred at JAF it was
+momentary excursions.
+Secondary Containment maintains a differential pressure vacuum by two of four RBV exhaust fans or one of
+two SBGT trains. During a postulated accident scenario RBV is placed in isolation and the SBGT is used to
+maintain differential pressure. The condition does not adversely impact that ability of RBV to isolate or SBGT
+to initiate. Therefore, the capability of Secondary Containment to mitigate the consequence of an accident is
+unaffected by this deficiency.
+Industrial safety - This event did not have any actual or potential impact on industrial safety.
+References
+ JAF Issue Report – IR 04200410 – Equipment Corrective Action Evaluation
+Page 3 of 3
+NRC FORM 366A (04-2018)

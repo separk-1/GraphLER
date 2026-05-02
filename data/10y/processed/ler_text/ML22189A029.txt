@@ -1,0 +1,255 @@
+Constellation,,,
+SVP-22-040 10 CFR 50.73
+July 8, 2022
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 1
+Renewed Facility Operating License No. DPR-29
+NRC Docket No. 50-254
+Subject: Licensee Event Report 254/2022-002-00 "Low Pressure Coolant Injection Manually
+Isolated Due To Valve Test Equipment Issue"
+Enclosed is Licensee Event Report 254/2022-002-00 "Low Pressure Coolant Injection Manually
+Isolated Due To Valve Test Equipment Issue," for Quad Cities Nuclear Power Station, Unit 1.
+This report is submitted in accordance with 10 CFR 50. 73(a)(2)(v)(B) and 10 CFR
+50. 73(a)(2)(v)(D) for an event or condition that could have prevented the fulfillment of a safety
+function needed to remove residual heat and to mitigate the consequence of an accident.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mark Humphrey at
+(309) 227-2800.
+Brian Wake
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station
+NRCFORM366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+··¥~ Estimated burden per response to comply with this mandalO!y collection request 80 hours. Reported
+~ : .~, , . ., . 0i (See P L ag I e C 3 E fo N r re S q E uir E ed n E u V mb E er N o T f d ig R its E /c P ha O rac R te T rs f ( o L r e E ac R h ) b lock) l N r e e s u g s c a o l r e d n a i s n r g le a b r R u n r e e d g d e u n l a a r t e e O s f t i ' i n / m c a o t r e p C o o t r o m a t ! e t T h d i e s s in F io t O o n , I A th . e L W l i i b c a r e a s n r h s y i i n , n g g a t o n p d n r , o I c n e fo s D r s m C a a n ti d o n 2 f e 0 C d 5 o 5 b l 5 le a -0 c c t 0 k io 0 t n 1 o s , in B d r u a o s n r t c ry h . b (T y S - 6 e nd A e 1 c - 0 m o M m a ) i m , l U en .S t t o s .
+(See NUREG-1022, R.3 for instruction and guidance for completing this form lnfocol~ts.Resource@nn:.gov, and the 0MB reviewer at 0MB Office of lnfolTilation and RegulalO!y
+"••···,,. httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104). Attn: Desk ail: oira sub!Tission@omb.eop.gov. The NRG may not conduct or sponsor,
+and a person is not required to respond to. a col~n of info1TI1ation unless the document requesting or
+requiring the collection displays ac urrently valid 0MB control number.
+1. Facility Name 2. Docket Number 3.Page
+Quad Cities Nuclear Power Station Unit 1 05000 -254 1 OF 5
+4. Title
+Low Pressure Coolant Injection Manually Isolated Due To Valve Test Equipment Issue
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No. n/a 05000
+- - Facility Name Docket Number
+05 10 2022 2022 002 00 07 08 2022
+n/a 05000
+9. Operating Mode 110. Power Level
+1 - Run 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+D D D
+20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) ~
+D D D
+□ 20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A)
+D IZ! D
+□ 20.2201(d) 20.2203(a)(3)(ii) □ 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+D D D D
+20.2203(a)(1) 20.2203(a)(4) □ 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+D IZ! D
+20.2203(a)(2)(i) □ 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+D D D D
+20.2203(a)(2)(ii) 21.2(c) □ 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+D D D
+20.2203(a)(2)(iii) □ 50.73(a)(2)(ii)(A) 50.73(a)(2)(vili)(A) 73.77(a)(2)(ii)
+D D
+20.2203(a)(2)(iv) □ 50.36(c)(1)(i)(A) □ 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+D D D
+20.2203(a)(2)(v) □ 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Richard Swart 309-227-2810
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS - Cause System Component Manufacturer Reportable to IRIS
+X BO ISV L200 y lilil ~ n/a 1
+14. Supplemental Report Expected Month Day Year
+I D 15. Expected Submission Date
+[gj No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 10, 2022, with Unit 1 operating at 100% power, motor operated valve (MOV) thrust testing was being performed on Residual
+Heat Removal (RHR) Low Pressure Coolant Injection (LPCI) valve 1-1001-28B, 1B LPCI Loop Upstream Stop Valve. Inadequate
+thrust conditions were discovered on this valve, which also serves as a Primary Containment Isolation Valve (PCIV). Technical
+Specification (TS) 3.6.1.3 Condition A requires that a containment penetration with a degraded valve be manually isolated within
+4 hours. Manual closure of the companion PCIV valve 1-1001-29B, 1B LPCI Loop Downstream Stop Valve, including opening of the
+electrical breaker MCC 18/19-5 Cubicle F1 to the valve, rendered both loops of LPCI incapable of either manual or automatic
+injection as described in TS 3.5.1 Condition E for two LPCI Subsystems inoperable.
+The cause of the low MOV thrust value was found to be insufficient installation bond between the valve stem and the thrust sensor
+instrument. Thrust was eventually found to be sufficient, but this was not identified prior to the 4 hour TS action requirement. A new
+sensor was installed, and the valve thrust results were found to be satisfactory. This report is being submitted in accordance with
+10 CFR 50.73(a)(2)(v)(B) and 10 CFR 50.73(a)(2)(v)(D) for an event or condition that could have prevented the fulfillment of a safety
+function needed to (B) remove residual heat and (D) mitigate the consequences of an accident.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of infonmation unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR NUMBER NO.
+2022 - 002 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Low Pressure Coolant Injection Manually Isolated Due To Valve Test Equipment Issue
+CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: May 10, 2022 Event Time: 17 46 CST
+Reactor Mode: 1 Mode Name: Run Power Level: 100%
+No structures, systems or components were inoperable at the start of this event that contributed to the
+event.
+A. DESCRIPTION OF EVENT
+On May 10, 2022, Unit 1 was operating at 100% power. Motor Operated Valve (MOV) [VJ diagnostic
+testing was being performed on Residual Heat Removal (RHR) Low Pressure Coolant Injection (LPCI)
+[BO] valve 1-1001-288, 1B LPCI Loop Upstream Stop Valve, when a low thrust was measured at 1359
+hours causing the valve to be declared inoperable. Inadequate grease volume was also identified in
+one chamber of the MOV actuator, which was considered an initial contributor to the insufficient thrust
+measurement. The grease was later eliminated as a cause or a contributor to this event. This valve is
+also a Primary Containment Isolation (PCIV) [BD] valve for containment penetration X-0138, resulting
+in TS 3.6.1.3 Condition A to be entered for a penetration flow path with one PCIV inoperable.
+TS 3.6.1.3 Condition A requires that the affected flow path be isolated within 4 hours by use of one closed
+and de-activated valve. Engineering review of thrust data and grease quantities did not reach a conclusion
+during the 4 hour window to provide confidence in valve performance. Operations de-activated the affected
+penetration at 1746 hours by closing the 1-1001-298, 18 LPCI Loop Downstream Stop Valve, and
+electrically isolating it by opening breaker [BKR] MCC 18/19-5 Cubicle F1. LPCI Loop Select Logic will
+determine if LPCI flow is injected into the A or B loop of the Reactor Recirculation (RR) [AD] System
+depending upon the appropriate accident's line break location. The isolated penetration is part of the
+injection flow path into the B loop of the RR system with either the A or B loop of LPCI providing injection.
+Because the LPCI injection path cannot be predicted ahead of an event, this penetration isolation renders
+both the A and B LPCI loops inoperable, causing entry into TS 3.5.1 Condition E for two LPCI subsystems
+inoperable.
+NRC FORM 366A (08-2020) Page_2_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR SE N Q U U M E B N E T R IA L R N E O V .
+2022 - 002 00
+NARRATIVE
+The valve thrust failure investigation concluded that there was no actual MOV thrust deficiency on the
+1-1001-288 effecting valve functionality. The measurement and test equipment (M&TE) sensor was not
+bonded correctly to the valve stem. This cause was not identified until after TS 3.6.1.3 Condition A
+required isolation of the containment penetration. Following additional troubleshooting and repair
+activities, post maintenance testing indicated proper performance of both the M&TE sensor and all related
+MOV performance characteristics. At 1500 on May 11, 2022, the containment penetration was unisolated,
+and LPCI function was recovered.
+The penetration de-activation took place on May 10, 2022 at 17:46 and was recovered on May 11, 2022 at
+1500, for a total of twenty-one hours and fourteen minutes that LPCI was unavailable. Isolation of the
+containment penetration prevented both automatic and manual LPCI functions during this period.
+Therefore, reportability is required under 10 CFR 50. 73(a)(2)(v)(8) and 10 CFR 50. 73(a)(2)(v)(D) - "Any
+event or condition that could have prevented the fulfillment of the safety function of structures or systems
+that are needed to: (8) remove residual heat," and "(D) mitigate the consequences of an accident."
+B. CAUSE OF EVENT
+The cause of the as-found low thrust was bad data obtained from an insufficient installation bond between
+the M&T E sensor and the valve stem and not a deficiency with the valve, thus this condition never actually
+prohibited proper valve performance.
+The cause of the containment penetration and LPCI isolation was operator actions in accordance with
+Technical Specification (TS) requirements during the period that the 1-1001-288 valve performance was
+not clearly supported.
+C. SAFETY ANALYSIS
+System Design
+Valves 1-1001-288 and 1-1001-298 provide both a PCIV function for penetration X-0138, as well as an
+injection path into the 8 RR loop for RHR pump low pressure Emergency Core Cooling System (ECCS)
+subsystem of LPCI to provide core cooling and residual heat removal during accident conditions. These
+valves receive automatic signals for both the PCIV function as well as the LPCI function and can also be
+manually controlled from the main control room.
+Safety Impact
+Actual safety consequences of the event were minimal for both normal operation and design basis
+event operation based on the availability during this time of all High Pressure ECCS, as well as both
+loops of Low Pressure ECCS subsystem of Core Spray. The remaining functions of RHR including
+containment spray and suppression pool cooling remained available despite the loss of the LPCI
+NRC FORM 366A (08-2020) Page _3_ of _i_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 O M), U. S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. n re. gov/read ing-rm/d oc-collections/nuregs/staff/sr1 022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR NUMBER NO.
+2022 - 002 00
+NARRATIVE
+subsystem ability to inject into RR Loop B. Based on the availability of these additional sources of
+coolant to the core, the consequences of this event were minimal. There was no impact on the health
+and safety of the public or plant personal.
+This issue was evaluated for a Safety System Functional Failure (SSFF) in accordance with NEI 99-02
+and 10 CFR 50. 73. Although the failure analysis determined that there was no MOV failure related to the
+function of the 1-1001-288 valve, the 1-1001-298 valve was still closed and electrically de-activated
+which resulted in the loss of the manual and automatic function of LPCI. Therefore, reportability under
+50.73(a)(2)(v)(B) and 50.73(a)(2)(v)(D) - "Any event or condition that could have prevented the fulfillment
+of the safety function of structures or systems that are needed to: (8) remove residual heat" and "(D)
+mitigate the consequences of an accident" is required and this event is a Safety System Functional
+Failure (SSFF).
+D. CORRECTIVE ACTIONS
+Immediate:
+1. Operations de-activated the affected penetration by closing the 1-1001-298 and electrically isolating it
+by opening breaker MCC 18/19-5 Cubicle F 1.
+Follow up:
+1. Replaced the M&TE sensor and re-perform the MOV 1-1001-288 As-left diagnostic test satisfactorily.
+(Complete)
+2. Procedure and training enhancements to be reviewed for detecting issues with sensor installation or
+performance issues.
+E. PREVIOUS OCCURENCES
+The station events database, LERs and INPO Industry Reporting Information System (IRIS) were
+reviewed for similar events at Quad Cities Nuclear Power Station. This event was caused by M&TE
+equipment installation issues that resulted in test data that prompted operations to isolate the LPCI
+system. No previous occurrences were identified.
+NRC FORM 366A (08-2020) Page_4_ of _5_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond lo, a collection of infonmation unless the document
+http://www. nrc. gov/reading-rm/d oc-collections/nuregs/staff/sr1 022/r3D requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000- 254 YEAR NUMBER NO.
+2022 - 002 00
+NARRATIVE
+F. COMPONENT FAILURE DATA
+Valve 1-1001-298 failed to perform its design function when de-activated by operations.
+Failed Equipment: Motor Operated Valve Actuator
+Component Manufacturer: Limitorque
+Component Model Number: SMB-4
+Component Part Number: N/A
+This event will be reported to IRIS.
+The M&TE sensor was improperly installed but not failed.
+NRC FORM 366A (08-2020) Page_5_ of _5_

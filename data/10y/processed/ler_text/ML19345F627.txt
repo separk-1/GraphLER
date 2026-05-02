@@ -1,0 +1,192 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, P A 18603
+Tel. 570.542.3795 Fax 570.542.1504
+ENERGY
+Kevin.Cimorel1i@TalenEnergy.com
+Attn: Document Control Desk 10 CPR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387(388)/2019-003-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF-22 Docket No. 50-387
+PLA-7828 and 50-388
+Attached is Licensee Event Report (LER) 50-387(388)/2019-003-00. This LER reports a
+condition in which the D Diesel Generator was slow to start and reach required frequency. This
+condition was determined to be reportable in accordance with 10 CPR 50.73(a)(2)(i)(B) as a
+condition prohibited by Technical Specifications and 10 CPR 50.73(a)(2)(v) as an event or
+condition which could have prevented the fulfillment of a safety function. There were no actual
+consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-387(388)/2019-003-00
+Copy: NRC Region I
+Ms. L. H. Micewski, NRC Sr. Resident Inspector
+Ms. S. Goetz, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+personisnotrequiredtorespond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station Unit 1 05000387 1 OF 3
+4. Title
+D Diesel Generator Inoperable due to Inadequate Post-Maintenance Test
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year Susquehanna Steam Electric Station Unit 2
+Number No. 05000388
+Facility Name Docket Number
+10 13 2019 2019 003 00 12 11 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Shane Jurek, Senior Engineer – Nuclear Regulatory Affairs (570) 542-1695
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+D EK DG C634 Y
+Month Day Year
+14. Supplemental Report Expected
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On October 13, 2019, at 10:08, during performance of surveillance testing, the D Diesel Generator (DG) failed to
+reach the required frequency within the time specified by the acceptance criteria. Operators declared Surveillance
+Requirement 3.8.1.7 failed and entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.8.1,
+Condition B, on both Susquehanna Steam Electric Station units for the inoperable D DG. The other three DGs (A,
+B, and C) were verified to be OPERABLE before operators commenced a subsequent test of the D DG at 12:12,
+during which the D DG met all required acceptance criteria. The D DG was declared OPERABLE at 17:56 and
+LCO 3.8.1, Condition B, was exited for both units.
+The failure to reach the required frequency within the acceptance criteria was the result of inadequate oil pressure
+in the D DG mechanical governor internals which was caused by an inadequate Post Maintenance Test (PMT).
+The condition of the inoperable D DG was determined to have existed since September 17, 2019, and the event
+was determined to be reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+Due to a concurrent inoperability of the C DG, the event was also determined to be reportable in accordance with
+10 CFR 50.73(a)(2)(v) as an event or condition which could have prevented the fulfillment of a safety function.
+Corrective actions include procedure updates to ensure adequate PMTs are performed in the future.
+There were no actual safety consequences associated with this event.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2019 003 00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 – Mode 1, approximately 100 percent Rated Thermal Power
+There were no structures, systems, or components that were inoperable at the start of the event that
+contributed to the event.
+EVENT DESCRIPTION
+On October 13, 2019, at 10:08, operators started the D Diesel Generator (DG) [EIIS Code/Component Code:
+EK/DG] in accordance with the applicable surveillance procedure. The D DG reached the required frequency
+at a time of 10.75 seconds, which exceeds the acceptance criteria of 10 seconds. Operators declared
+Surveillance Requirement (SR) 3.8.1.7 failed and entered Technical Specification (TS) Limiting Condition of
+Operation (LCO) 3.8.1, Condition B, on both Susquehanna Steam Electric Station (SSES) units for the
+inoperable D DG. The other three DGs (A, B, and C) were verified to be OPERABLE before operators
+commenced a subsequent test of the D DG at 12:12, during which the D DG met all required acceptance
+criteria. The D DG was declared operable at 17:56 and LCO 3.8.1, Condition B, was exited for both units.
+Upon engine start, the engine cranked until the mechanical governor [EIIS Code/Component Code: EK/65]
+lever arm was able to travel to the maximum fuel position. The mechanical governor is not designed to hold
+pressure during standby; since the engine is not operating, there is no pressure being generated in the
+mechanical governor. During the next engine start, the governor will need to build up internal pressure prior
+to being able to move the output lever arm back to the maximum fuel position.
+On September 17, 2019, work was performed on the D DG which required draining the starting air receivers.
+Upon completion of the work, a Post-Maintenance Test (PMT) was performed to verify leak-tightness and
+proper operation of the Emergency Service Water System supply valve [EIIS Code/Component Code: BI/V]
+to the intercoolers. However, no PMT DG run was performed. Absent a PMT DG run, the DG mechanical
+governor was not primed with governor oil. This condition rendered the D DG inoperable due to its impact on
+the ability to reach the required frequency within 10 seconds.
+SSES TS LCO 3.8.1 requires, in part, that four DGs are OPERABLE in MODES 1, 2, and 3. Condition B
+requires that an inoperable DG be restored to OPERABLE status within 72 hours or that each unit be shut
+down to MODE 3 in 12 hours and MODE 4 in 36 hours. The D DG was inoperable from September 17, 2019,
+until it was declared OPERABLE at 17:56 on October 13, 2019. Both SSES units remained in MODE 1
+during the 26-day period which exceeds the 72 hours allowed by Condition B. As a result, this condition was
+determined to be reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+The C DG was also inoperable from 07:54 on October 2, 2019, through 23:40 on October 3, due to a fuel oil
+leak and again from 20:14 on October 7 through 01:16 on October 8 during DG swap following repairs to the
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2019 003 00
+leak. SSES TS LCO 3.8.1, Condition E requires that, with two or more DGs inoperable, at least three DGs
+be restored to an OPERABLE status within two hours or that each unit be shut down to MODE 3 in 12 hours
+and MODE 4 in 36 hours. The C and D DGs were concurrently inoperable for a period of approximately 40
+hours which exceeds the 2 hours allowed by Condition E (the second concurrent inoperability lasted
+approximately five hours, which is less than the 2 hours plus 12 hours allotted by Conditions E and F).
+Furthermore, with the C and D DG concurrently inoperable, the condition was also determined to be
+reportable in accordance with 10 CFR 50.73(a)(2)(v) as an event or condition which could have prevented
+the fulfillment of a safety function.
+CAUSE OF EVENT
+The cause of the slow start was an inadequate PMT after a starting air clearance resulted in
+depressurization of the governor oil. Work on the D DG on September 17, 2019, required control air to be
+taken out of service, thereby allowing pressure to bleed out of the mechanical governor until the next D DG
+start on October 13, 2019. Without a PMT DG run, the oil pressure was not restored in the DG mechanical
+governor.
+ANALYSIS/SAFETY SIGNIFICANCE
+The safety function of the DGs is to provide power to equipment as assumed in the safety analyses
+described in Chapter 15 of the Susquehanna Updated Final Safety Analysis Report. In this case, the
+accident analyses assume the DGs start within 25.1 seconds of a valid start signal. The start time of 10.75
+seconds observed during the October 13, 2019, test is within that assumed in the accident analyses.
+Therefore, the safety function of the D DG was maintained and, despite the concurrent inoperability of the C
+and D DGs, three DGs were always available to perform their safety function.
+Based on engineering analysis, this event will not be counted as a safety system functional failure under the
+NRC Reactor Oversight Process Performance Indicator.
+CORRECTIVE ACTIONS
+Corrective actions include procedure changes to require a PMT DG run whenever the starting air system is
+removed from service.
+PREVIOUS OCCURRENCES
+LER 50-387(388)/2016-008-00, “Inoperability of Diesel Generator Due to Misalignment of MOC [Mechanism-
+Operated Cell] Switch Contacts Due to Inadequate Post Maintenance Testing,” dated May 19, 2016
+LER 50-387(388)/2015-001-00, “Inoperability of the ‘B’ Emergency Diesel Generator due to Fuel Oil
+Leakage,” dated April 25, 2015
+LER 50-387(388)/2011-004-00, “’C’ Emergency Diesel Generator Inoperable,” dated February 13, 2012
+NRC FORM 366A (04-2018) Page 3 of 3

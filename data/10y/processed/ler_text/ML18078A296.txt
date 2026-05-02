@@ -1,0 +1,188 @@
+Oyster Creek
+741 Route 9 South
+Forked River, NJ 08731
+10 CFR 50.73
+RA-18-029
+March 12, 2018
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRG Docket No. 50-219
+Subject: Licensee Event Report (LER) 2017-005-01, "Failure of the #2 Emergency
+Diesel Generator During Surveillance Testing due to a Broken Electrical
+Connector''
+Enclosed is LER 2017-005-01 reporting the electrical connector failure on a current
+differential relay for #2 Emergency Diesel Generator during the performance of
+surveillance testing.
+This event did not affect the health and safety of the public or plant personnel. This event
+did result in a safety system functional failure. There are no regulatory commitments
+made in this LER submittal.
+Should you have any questions concerning this report, please contact Gary Flesher,
+Regulatory Assurance Manager, at (609} 971-4232.
+Respectfully,
+Michael F. Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRG Form 366, LER 2017-005-01
+cc: Administrator, NRG Region I
+NRG Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRG Project Manager - Oyster Creek Nuclear Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+r>. ...., .~I\ . Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+,/' % comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+~ ~ t LICENSEE EVENT REPORr (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+\ . #! (See Page 2 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+~ ......... '(>' NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the informafion
+http://www.nrc.oov/readino-rm/doc-collections/nureos/staff/sr1022/r3/)
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek Nuclear Generating Station 05000219 1 OF 3
+4. TITLE
+Failure of the Emergency Diesel Generator #2 During Surveillance Testing due to a Broken Electrical Connector
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I SEQUENTIAL I REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A 05000
+FACILITY NAME DOCKET NUMBER
+10 09 2017 2017 - 005 - 01 03 12 2018 N/A 05000
+9. OPERATING MODE 11. THIS REPORT 15 SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201cb> 20.2203<a><3>Cil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 Cd> 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B} 50.73(a)(2)(viii)(B)
+N
+D D D D
+20.2203(a>c1> 20.2203(a)(4> so.13(a>c2)(iii) 50.73(a}(2)(ix)(A)
+D D D D
+20.2203<a><2>0> 50.36(c)(1 )(i)(A) 50. 73(a)(2)(iv)(A) 50.73(a}(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a><2><ii) 50.36(c)(1)(ii}(A) 50.73(a)(2)(v)(A) 13.11ca><4>
+D D D D
+20.2203(a)c2>cm> so.3a(c><2> 50.73(a)(2)(v)(B) 13.11ca>cs>
+D D D D
+20.2203(a)(2)(iv) so.4a(a)(3)(ii) 50.73(a)(2)(v)(C) 13.11ca>c1>
+D D D D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 1s.11ca><2>0>
+D D D
+20.2203(a)(2}(vi) ~ 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.77(a>c2><ii)
+it\l·>(P' ,,; ..
+i>;; ' ~.· , ' ,· :it}·,," D D
+a,; , so.13(a><2><i>CC) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Gary Flesher, Regulatory Assurance Manager (609) 971-4232
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT FA M C A TU N R U- ER RE T P O O R E T P A IX B LE , ·~ ;~ CAUSE SYSTEM COMPONENT FA M C A TU N R U E - R RE T P O OR E T P A IX B LE
+E EK DG E147 y ., N/A NIA N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) ~NO SUB D M A IS TE S ION N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 10/09/17, during the bi-weekly Emergency Diesel Generator (EDG) #2 Load Test, a Generator Lockout signal (86G)
+was received which tripped the EDG output breaker. This failure resulted in EDG #2 being declared inoperable, and
+entry into an unplanned 7-day Limiting Condition for Operation (LCO) at 0312.
+Troubleshooting identified a broken electrical ring lug connector on a current transformer that provides an input to the
+protective relay logic. The investigation determined the connector failure was due to fatigue cracking that was initiated
+by stresses caused by bending and twisting of the electrical lug. The ring lug was most likely distressed during initial
+installation in the 1990's. The condition that led to the EDG #2 trip existed for greater than the allowed outage time in
+the plant's Technical Specification (TS) and is reportable under 1O CFR 50. 73(a)(2)(i)(B).
+NRG FORM 366 {06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the infonnation
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/@0 collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek Nuclear Generating Station 05000219 YEAR NUMBER NO.
+2017 - 005 01
+NARRATIVE
+Plant Conditions Prior To Event
+Event Date: October 09, 2017 Event Time: 03:12 hours ET
+Unit 1 Mode: Run Power Level: 100%
+Description of Event
+On 10/09/17, during the bi-weekly EDG #2 Load Test (station procedure 636.4.013), a Generator Lockout (86G)
+signal was received which tripped the EDG output breaker. The diesel had run for 4 minutes loaded in the
+procedurally prescribed band of 2600-2800 KW prior to receiving the 86G lockout signal. The EDG #2 trip is
+documented under Issue Report (IR) 04060815. This failure resulted in EDG #2 being declared inoperable, and
+entry into an unplanned 7-day LCO (TS Section 3.7.D) at 0312.
+Troubleshooting identified a broken electrical ring lug connector on one current transformer (CT5) that provides an
+input to a differential current relay (87G). When the ring lug connector became detached fmm the terminal point,
+the relay sensed a current imbalance and the protective relay logic actuated. The differential current relay (87G)
+provided an input to the Generator Lockout circuit, causing the lockout relay (86G) to trip the EDG#2 output
+breaker. Repairs were completed on 10/10/17 at 0557. EDG #2 was satisfactorily tested and declared operable at
+0805, and the 7-day LCO was exited.
+Cause of Event
+The investigation determined the electrical ring lug connector failure was due to fatigue cracking that was initiated
+by stresses caused by bending and twisting of the electrical lug.
+Analysis of the Event
+The ring lug that failed was sent to a metallurgical lab for failure analysis. The metallurgical analysis determined the
+ring lug had failed due to fatigue cracking. The investigation performed for the EDG#2 trip concluded the fatigue
+cracking was initiated by historical stresses caused by bending and twisting of the electrical lug beyond limits
+specified in industry guidelines. Based on a review of recent maintenance records for EDG#2 and a review of plant
+procedures and work practices, the investigation concluded the ring lug was most likely distressed during initial
+installation in the 1990's.
+Assessment of Safety Consequences
+Two EDG units serve as the Standby Power Supply for Oyster Creek Nuclear Generating Station (OCNGS) by
+providing an emergency source of power to the .4.16 kV buses 1C and 1 D in the event of a loss of normal power.
+The EDG units are designed to start and load automatically, if required. Non-essential loads are automatically shed
+by under-voltage sensing devices on loss of offsite power to ensure that the EDG units are not overloaded. The
+capacity of the EDG units is sufficient to sequentially energize for starting all safety-related pumps and auxiliaries
+required for a safe shutdown of the reactor in the event of a Design Basis Accident. The EDG units are
+independent of each other, except for a common bulk fuel storage supply, and are provided with auxiliary systems
+to ensure reliable starting and continuous operation with no Operator attention. Power to start the EDG units is
+self-contained and is not dependent on the availability of any other source of normal plant power at the moment of
+initiation.
+NRG FORM 366A (06-2016) Page _2_ of _3_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per r(lSponse to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Oyster Creek Nuclear Generating Station 05000219 YEAR NUMBER NO.
+2017 - 005 01
+NARRATIVE
+The Generator Lockout relay (86G) is an auxiliary relay that is operated upon the occurrence of abnormal
+conditions to maintain associated equipment out of service until it is reset. The lockout (86G) relay is sealed-in
+when the Differential Current Relay (87G) is initiated. The failure of the wire lug would not have prevented EDG #2
+from being able to start. However, in the as found condition EDG#2 was unable to start and load to supply power
+to the safety buses for the required mission time of 72 hours. Because EDG #1 was operable and available to
+supply power to its associated loads in the event of a loss of offsite power, there was no loss of safety function.
+Corrective Actions
+1. The broken ring lug connector for the current transformer (CT5) was replaced. EDG#2 was tested and
+restored to operable status on 10/10/17 at 0805 hours.
+2. All ring lug connectors were inspected in the current transformer and potential transformer cabinet for EDG#2.
+Four other bent and/or twisted ring lug connectors were identified and replaced on 10/10/17.
+3. Extent of condition inspections were performed on all ring lug connectors in the current transformer and
+potential transformer cabinet for EDG#1 .
+4. Two bent and/or twisted ring lug connectors were replaced on EDG#1 on 12/28/17.
+5. Revise electrical ring lug installation and EOG inspection procedures to include inspection for bent and/or
+twisted lugs.
+Previous Occurrences
+There have been no similar, previous events resulting from a failure of a wire lug on an EDG at Oyster Creek.
+Component Data
+Component IEEE 805 System ID IEEE 803A Component
+Emergency Diesel Generator EK DG
+NRG FORM 366A (06-2016) Page _3_ of _3_

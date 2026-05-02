@@ -1,0 +1,187 @@
+Edward Casulli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Edward.Casulli@TalenEnergy.com
+November 09, 2023
+Attn: Document Control Desk 10 CPR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387(388)/2023-003-00
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF-22 Docket No. 50-387
+PLA-8093 50-388
+Attached is Licensee Event Report (LER) 50-387(388)/2023-003-00. The LER reports a
+condition in which the D Diesel Generator was slow to start and reach required frequency within
+acceptance criteria. This condition was determined to be reportable in accordance with
+10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter cqntains no new or revised regulatory commitments.
+•f'
+~-!is G:<-4-wy 5
+E. Casulli
+Attachment: LER 50-387(388)/2023-003-00
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A. Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+:~,/;),>'¥"-"rc(l.(-f,.· ~ lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+:- ll i LICENSEE EVENT REPORT (LER) A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~ 0~ -~ !C (See Page 2 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+....... ~.. ; (See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+~ https://www .nrc.gov/readinq-rm/doc-collections/nureqs/staff /sr1022/r3O Washington, DC 20503; email: olra submisslon@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+reouestino or reouirino the collection disolavs a currenUv valid 0MB control number.
+1. Facility Name [8'J 050 2. Docket Number 3.Page
+Susquehanna Steam Electric Station (SSES) Unit 1 00387 1 OF 3
+□ 052
+4. Title
+D Diesel Generator Inoperable due to Clogged Fuel Injectors
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year S Fa S c E ili S ty U Na n m it e 2 [8'J 050 Docket Number
+Number No. 00388
+09 12 2023 2023 -003 - 00 11 09 2023 Facility Name □ 052 Docket Number
+9. Operating Mode 10. Power Level
+1 100
+11. This RePOrt is Submitted Pursuant to the Reauirements of 1O C FR !S: (Check all that aoo/v)
+10 CFR Part 20 D 20.2203(a)(2)(vi) 10 CFR Part 50 0 50. 73(a)(2)(ii)(A) D 50.73(a)(2)(viii)(A) D 73.1200(a)
+0 20.2201(b) D 20.2203(a)(3)(i) 0 50.36(c)(1)(i)(A) 0 50.73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B) 0 73.1200(b)
+0 20.2201(d) D 20.2203(a)(3)(ii) 0 50.36(c)(1)(ii)(A) D 50.73(a)(2)(iii) D 50.73(a)(2)(ix)(A) D 73.1200(c)
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.36(c)(2) D 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x) 0 73.1200(d}
+D 20.2203(a)(2)(i) 10 CFR Part 21 D 50.46(a)(3)(ii) D 50.73(a)(2)(v)(A) 10 CFR Part 73 D 73.1200(e)
+D 20.2203(a)(2)(ii) D 21.2(c) 0 50.69(9) D 50.73(a)(2)(v)(B) D 73.77(a)(1) 0 73.1200(f)
+D 20.2203(a)(2)(iii) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(C) D 73.77(a)(2)(i) 0 73.1200(9)
+D 20.2203(a)(2)(iv) [8'J 50. 73(a)(2)(i)(B) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(ii) 0 73.1200(h)
+D 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(C) D 50.73(a)(2)(vii)
+D OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact hone Number (Include Area Code)
+~
+Derek Smith - Nuclear Regulatory Affairs 570-542-1377
+13. Complete One Line for each Component Failure Described in this Report
+Cause System I Component I Manufacturer Reportable To IRIS Cause I System I Component I Manufacturer Reportable To IRIS
+D EK I DG I C634 y I I I
+14. Supplemental Report Expected Month Day Year
+D 15. Expected Submission Date
+~ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On September 12, 2023, at approximately 05:01, during the performance of surveillance testing, the D Diesel
+Generator (DG) failed to reach the required frequency within the acceptance criteria specified in Surveillance
+Requirement (SR) 3.8.1.7. Operators declared SR 3.8.1.7 failed and entered Technical Specification (TS)
+Limiting Condition of Operation (LCO) 3.8.1, Condition B, on both Susquehanna Steam Electric Station Unit 1
+and 2 for the inoperable D DG. The other three DGs (A, B, and C) were verified to be OPERABLE and operators
+substituted the E DG in for the D DG. After completion of the E DG substitution, LCO 3.8.1, Condition B, was
+exited on September 12, 2023, at approximately 22:52.
+The failure to reach the required frequency within the acceptance criteria was the result of clogged fuel injectors.
+The condition of the inoperable D DG was determined to likely have existed for longer than allowed by TS, and
+~he event was determined to be reportable in accordance with 10 CFR 50. 73(a)(2)(i)(B) as a condition prohibited
+by TS.
+There were no actual consequences to the health and safety of the public as a result of this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-202,,3,,), ...... Estimaled burden per response lo comply with this mandatory collection request: 80 hours. Reported
+,~;-, lessons learned are incorporated into the licensing process and fed back to induslry. Send comments
+• "' t LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Ubrary, and lnfonmation Collections Branch (T-6A10M), U.S.
+\ ':/.I
+.,.,. CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Oesk Officer for the Nuclear Regulatory Commission, 72517th Street NW
+https://www.nrc.gov/readinq-nm/doc-collections/nuregs/stafflsr1022/r30 Washington, DC 20503; email: oira submlssion@omb.eop.gov. The NRC may nol conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+181 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Susquehanna Steam Electric Station (SSES) D 052 05000387 2023 - 003 - 00
+Unit 1
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 100 percent Rated Thermal Power (RTP)
+Unit 2 - Mode 1, approximately 93 percent RTP
+There were no structures, systems, or components that were inoperable at the start of the event and
+contributed to the event.
+EVENT DESCRIPTION
+On September 12, 2023, at approximately 05:01, operators started the D Diesel Generator (DG)
+[EIIS Code/Component Code: EK/DG] in accordance with the applicable surveillance procedure. The D DG
+reached the required frequency at a time of 12.6 seconds, which exceeds the acceptance criteria of 10
+seconds specified in Surveillance Requirement (SR) 3.8.1.7. Operators declared SR 3.8.1.7 failed and
+entered Technical Specification (TS) Limiting Condition of Operation (LCO) 3.8.1, Condition B, on both
+Susquehanna Steam Electric Station (SSES) Unit 1 and 2 for the inoperable D DG. The other three DGs (A,
+B, and C) were verified to be OPERABLE and operators substituted the E DG in for the D DG. After
+completion of the E DG substitution, LCO 3.8.1, Condition B, was exited on September 12, 2023, at
+approximately 22:52.
+The condition of the inoperable D DG was determined to likely have existed for longer than allowed by TS,
+and the event was determined to be reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition
+prohibited by TS.
+The following is a timeline of events:
+February 2023 to August 2023 - The D DG has higher than normal accumulated low load run time, which
+was considered as a possible contributor to the clogged injectors. However, start times were acceptable after
+the low load operation, and there was not an increasing trend in start time.
+08/17/2023 - D DG monthly surveillance start time was 8.65 seconds.
+09/12/2023 - D DG monthly surveillance start time was 12.6 seconds. LCO 3.8.1, Condition B, was entered
+at approximately 05:01 due to the D DG being inoperable. The E DG was substituted for the D DG and LCO
+3.8.1, Condition B, was exited at approximately 22:52.
+09/21/2023 - Troubleshooting identified fuel injectors had excessive carbon buildup. The fuel injectors were
+cleaned.
+09/22/2023 - D DG monthly surveillance was performed successfully with a start time of 7.95 seconds. D DG
+was substituted back in for the E DG and the D DG was declared operable at approximately 02: 10 on
+09/23/2023.
+SSES TS LCO 3.8.1 requires, in part, that four DGs are OPERABLE in MODES 1, 2, and 3. Condition B
+requires that an inoperable DG be restored to OPERABLE status within 72 hours or that each unit be shut
+down to MODE 3 in 12 hours and MODE 4 in 36 hours. Based on the identified cause of the D DG slow start,
+this condition likely existed for longer than allowed by TS. As a result, this condition was determined to be
+reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+Page .l_ of.]_
+NRG FORM 366A (10-01-2023)
+NRG FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+<,)I-'' ... ,
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+(~) LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+•1,,• CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW
+https:/lwww.nrc.gov/readinq-rm/doc-collections/nureqs/staff/sr1022/r3D Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+[gJ 050
+YEAR SEQUENTIAL REV •
+NUMBER NO.
+Susquehanna Steam Electric Station (SSES) D 052 05000387 2023 - 003 - 00
+Unit 1
+NARRATIVE
+CAUSE OF EVENT
+The cause of the slow start was clogged fuel injectors.
+ANALYSIS/SAFETY SIGNIFICANCE
+As described in Section 8.3 of the Susquehanna Updated Final Safety Analysis Report (UFSAR), and
+required by 10 CFR 50, Appendix A, General Design Criterion 17, a single failure of a DG will not prevent
+safe shutdown of the units in the event of a design basis accident. While the D DG was inoperable, the three
+remaining DGs (A, B, and C) were aligned and operable. Therefore, the slow start of the D DG did not
+prevent the DGs from fulfilling their safety function.
+The safety function of the DGs is to provide power to equipment as assumed in the safety analyses
+described in Chapter 15 of the Susquehanna UFSAR. In this case, the safety analyses assume the DGs will
+start in 25.1 seconds of a valid start signal. Additionally, the loading analysis for the DGs assume the
+Residual Heat Removal motors are loaded at 13 seconds to ensure the DG can handle the load of the large
+motors. The start time of 12.6 seconds observed during the September 12, 2023, surveillance test was within
+that assumed in the accident analyses. Therefore, the D DG was able to perform its safety function.
+Based on engineering analysis, this event will not be counted as a safety system functional failure under the
+NRC Reactor Oversight Process Performance Indicator.
+CORRECTIVE ACTIONS
+Key corrective actions included all D DG fuel injectors being cleaned. Although the station had implemented
+vendor guidance for low load run time on the DG, Susquehanna is also taking additional actions to refine
+guidance on low load run times for the DGs.
+COMPONENT FAILURE INFORMATION
+Component Name - Diesel Generator 'D'
+Component Identification - 0G501 D
+Manufacturer - Cooper Energy Services
+PREVIOUS OCCURRENCES
+None.
+NRG FORM 366A (10-01-2023) Page .1. of .1.

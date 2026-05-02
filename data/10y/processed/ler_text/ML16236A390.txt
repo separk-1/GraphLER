@@ -1,0 +1,276 @@
+•
+Entergy Nuclear Northeast
+Entergy Nuclear Operations, Inc.
+~Entergy
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Brian R. Sullivan
+Site Vice President - JAF
+JAFP-16-0134
+August23,2016
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: LER: 2016-004, Transformer Fault Results in Manual Scram and
+Secondary Containment Vacuum Below Technical Specification Limit
+James A. FitzPatrick Nuclear Power Plant
+Docket No. 50-333
+License No. DPR-59
+Dear Sir or Madam:
+This report is submitted in accordance with 1O CFR 50.73(a)(2)(iv)(A) and
+10 CFR 50.73(a)(2)(v)(C).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+BRS/WD/mh
+Enclosure: JAF LER 2016-004, Transformer Fault Results in Manual Scram and Secondary
+Containment Vacuum Below Technical Specification Limit
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 5
+4. TITLE
+Transformer Fault Results in Manual Scram and Secondary Containment Vacuum Below Technical
+Specification Limit
+5. EVENT DATE 6. LER NUMBER 7.REPORTDATE 8.OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+FACILITY NAME DOCKET NUMBER
+6 24 2016 2016 - 004 - 00 8 23 2016 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTEDPURSUANTTOTHEREQUIREMENTSOF 10 CFR §: (Checkallthatapply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+1
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. POWER LEVEL  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+100  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACTFORTHISLER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mr. William Drews, Regulatory Assurance Manager 315-349-6562
+13. COMPLETE ONE LINE FOREACHCOMPONENTFAILUREDESCRIBEDINTHIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+E EC XFMR G080 N
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+ YES (If yes, complete 15. EXPECTED SUBMISSION DATE)  NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 24, 2016, at 1205, several 600V electrical busses lost power when James A. FitzPatrick Nuclear Power Plant was
+operating at 100% power. A fault in transformer 71T-5 caused a trip of circuit breaker 71-10340. Power was lost to 2 of 3
+Reactor Building Closed Loop Cooling (RBCLC) pumps and 2 of 3 lube oil pumps for the Motor-Generator (MG) Set for ‘A’
+Reactor Water Recirculation (RWR). The ‘A’ RWR pump tripped immediately causing reactor power to reduce to
+approximately 50%. The remaining RBCLC pump was inadequate to maintain the MG Set fluid drive oil temperature for the
+‘B’ RWR pump so Operators initiated a manual scram at 1236. This event is reportable per 10 CFR 50.73(a)(2)(iv)(A).
+The power loss also affected Reactor Building Ventilation (RBV). This system supports the requirement of Technical
+Specification Surveillance Requirement 3.6.4.1.1 for a differential pressure in Secondary Containment. At the loss of RBV,
+Secondary Containment automatically isolated and the Standby Gas Treatment system was manually initiated. However,
+during this short transition the differential pressure requirement was not met. This report is being submitted per 10 CFR
+50.73(a)(2)(v)(C).
+The apparent cause of the 71T-5 fault was inadequate preventative maintenance which allowed the transformer to remain
+in service beyond expected service life.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 004 – 00
+NARRATIVE
+Background
+James A. FitzPatrick Nuclear Power Plant (JAF) 600V electrical distribution system [EIIS identifier: EC] is
+supplied by stepping down 4160V to 600V through one of twelve transformers (T-5 to T-16). Nonsafety-related
+electrical busses are supplied by T-5 to T-12 and safety-related electrical buses by T-13 to T16. (See Figure:
+Electrical Distribution).
+A transformer uses a type of cellulose paper insulation between windings. The insulator material must have a
+large enough dielectric property to prevent electrical breakdown under high voltages. Electrical faults can
+occur if the insulator material degrades or becomes damaged. Many outdoor transformers are liquid-immersed
+using a highly refined mineral oil that cools and insulates the windings. Since electrical faults could breakdown
+the oil into combustible gases, extra fire protection measures are needed when using them indoors. Dry-type
+transformers use air cooling instead of oil. Both dry-type and liquid-immersed transformers are often self-
+cooled by natural convection. As power ratings increase, transformers are often cooled by forced-air cooling,
+forced-oil cooling, water-cooling, or combinations of these. All twelve 4160V to 600V transformers at JAF are
+dry-type and force-air cooled except T-5 and T-13 which are dry-type and convection cooled.
+This licensee event report (LER) addresses an electrical fault in T-5 caused by insulation breakdown.
+Event Description
+On June 24, 2016, at 12:05, when JAF was operating at 100% power, several 600V electrical busses lost
+power. A fault in 71T-5 caused breaker 10340 to trip. This breaker connects 4160V to four transformers which
+each provide power to a 600V bus: 11300 (L-13), 12300 (L-23), 13300 (L-33), and 14300 (L-43). These
+electric buses provide power to a variety of nonsafety-related plant loads; notable equipment include:
+ Reactor Water Recirculation (RWR) [AD], 2 of 3 Motor-Generator (MG) Set lube oil pumps for “A” recirc
+pump and 1 of 3 MG Set lube oil pumps for “B” recirc pump.
+ Reactor Building Closed Loop Cooling (RBCLC) [CC], 2 of 3 pumps
+ Fuel Pool Cooling [DA], 1 of 2 recirculation pumps
+ Reactor Building Ventilation (RBV) [VA], 2 of 3 supply fans and 2 of 4 exhaust fans
+ Service Air [LF], Instrument Air [LD], and Breathing Air [LH], 2 of 3 air compressors
+ Reactor Water Cleanup [CE], 1 of 2 pumps
+Immediately following breaker 10340 trip “A” RWR pump tripped causing reactor power to decrease to
+approximately 50%. MG Set fluid drive oil temperature for the “B” RWR pump began to rise because the single
+RBCLC pump was insufficient to maintain its temperature.
+Three of four nonsafety-related 600V electric buses affected by this event were crossed tied to the other four
+nonsafety-related 600V electric buses. This was not done for L-13 since the source of the fault was not known
+during the event.
+When power was lost to RBV fans, Secondary Containment [NG] automatically isolated and differential
+pressure began to degrade. Standby Gas Treatment (SBGT) [BH] was manually initiated and differential
+pressure was restored by 12:19.
+At 12:36, Operators initiated a manual scram. The event was reported to the NRC as ENS 52042.
+Page 2 of 5
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 004 – 00
+Event Analysis
+Secondary Containment
+The RBV supports the requirement of Technical Specification Surveillance Requirement 3.6.4.1.1 for a
+differential pressure in Secondary Containment. With the loss of RBV, Secondary Containment was
+automatically isolated and the SBGT was manually initiated, as designed. However, during this short transition
+the differential pressure requirement was not met. This condition could have prevented the fulfillment of a
+safety function to control the release of radioactive material; reportable per 10 CFR 50.73(a)(2)(v)(C).
+System Actuations
+Reactor Protection System (RPS) was actuated by a manual scram, resulting in all control rods inserting
+successfully. This event resulted in the actuation of RPS and containment isolations in multiple systems;
+reportable per 10 CFR 50.73(a)(2)(iv)(A).
+71T-5 Service Life
+The insulation system of a dry type transformer under the combined thermal, electrical, mechanical, and
+environmental stresses undergoes gradual deterioration, which ultimately leads to transformer failure. The life
+expectancy of insulation decreases with higher temperatures. A typical life span for dry-type transformers is
+more than 20 years. As discussed in the similar events section, 71T-5 failed in 1992 after 19 years of service.
+It was refurbished and used for 24 years until the failure described in this LER.
+Although 71T-5 loading varies based on operational needs, the typical load is between 700 KVA and 900 KVA
+with a possibility of exceeding the 1000 KVA limit for short periods from additional intermittent loads.
+Transformer 71T-5 has the highest continuous load of all the 600 VAC sub-station switchgear transformers at
+JAF.
+The preventive maintenance (PM) of 71T-5 included inspection, cleaning and insulation resistance testing.
+This PM was last performed in 2002. These PM practices alone would not have mitigated the effects of
+transformer load on transformer life; however, it may have alerted the station to evidence of load induced
+overheating as well as provided “cleaning” which, can reduce heat induced failures.
+A review of the preventative and predictive maintenance strategies for large dry-type transformers was
+performed which included EPRI (Electric Power Research Institute), fleet and industry. For the classification of
+71T-5, EPRI would not recommend any tasks be performed. However, other industry best practice PM
+templates included more extensive electrical tests (i.e. Doble test, polarization, exciting current, core ground,
+surge comparison), annual thermography, and more frequent cleaning, inspecting, and operator walkdowns.
+Cause
+The direct cause of the manual scram and secondary containment differential pressure excursion was a fault
+on the primary side windings on 71T-5. The apparent cause of the 71T-5 fault was inadequate preventative
+maintenance which allowed the transformer to remain in service beyond expected service life.
+Similar Events
+On June 23, 1992 (LER-92-034-01), 71T-5 failed during relatively high electrical loads after being in service
+since 1973. The heat from the fully loaded transformer could have contributed to the dielectric breakdown of
+the insulation due to aging, resulting in faults.
+Page 3 of 5
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 004 – 00
+71T-5 was refurbished in August 1992 rather than being replaced with a transformer that included forced air
+cooling, as was the case for all the other 600 VAC sub-station switchgear transformers (with exception of 71T-
+13). Replacement with a forced air cooled transformer could have reduced the effects of load on aging. After
+this event, corrective actions replaced or refurbished other dry-type transformers.
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: General Electric
+Manufacturer Model Number: G-853181A
+NPRDS Manufacturer Code: G080
+NPRDS Component Code: XFMR
+FitzPatrick Component ID: 71T-5
+Corrective Actions
+Completed Actions
+ 71T-5 was replaced with forced air cooled dry-type transformer.
+Future Actions
+ Send failed 71T-5 for vendor failure analysis.
+ Replace 71T-13 with forced air cooled dry-type transformer. This is the last remaining 4160/600V
+transformer without forced air cooling.
+ Develop Preventative Maintenance and System Monitoring for all large dry-type (4160/600V)
+transformers based on adopting industry best practices.
+Safety Significance
+There was no actual radiological or nuclear safety consequence during this event.
+Associated with the plant trip was the catastrophic failure of Condensate Booster Pump “C” (33P-9C). There
+was no actual industrial safety consequence but it was a potential personnel hazard.
+In addition, an environmental consequence related to the plant trip included a hydrogen seal oil discharge to
+Lake Ontario. This discharge did not include any radiological release.
+Although the transformer fault resulted in a manual scram, the only power loss was to non-vital systems. All
+emergency electrical buses remained available from both off-site and emergency diesel generator power.
+The potential for a radiological consequence was only applicable during the time period that Secondary
+Containment did meet the 0.25 inches vacuum water gauge. A higher Reactor Building pressure could allow
+for the exfiltration of radioactive material during an accident. However, the release would still be detected by
+radiation monitors and this would initiate a Secondary Containment isolation. This event did not adversely
+impact that ability of RBV to isolate or SBGT to initiate and maintain a sufficient differential pressure.
+Therefore, the capability of Secondary Containment to mitigate the consequence of an accident was not
+affected by this event.
+References
+ Condition Report: CR-JAF-2016-02245, Scram Root Cause Evaluation
+ LER: LER-92-034-01, Engineered Safety Feature Actuations due to Transformer Failure
+ Condition Report: CR-JAF-2016-02246, Catastrophic failure of “C” Condensate Boaster Pump
+ Condition Report: CR-JAF-2016-02284, Hydrogen Seal Oil leak
+Page 4 of 5
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 004 – 00
+Figure:
+Page 5 of 5
+NRC FORM 366A (06-2016)

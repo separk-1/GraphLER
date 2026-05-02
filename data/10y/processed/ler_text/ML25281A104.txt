@@ -1,0 +1,139 @@
+10 CFR 50.73
+CCN: 25-86
+October 8, 2025
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Peach Bottom Atomic Power Station (PBAPS) Units 2 and 3
+Subsequent Renewed Facility Operating License No. DPR-44, DPR-56
+NRC Docket No. 50-277, 50-278
+Subject: Licensee Event Report (LER) 2025-002-00 Uncoordinated DC Circuits Cause
+Unanalyzed Condition
+Reference: ENS 57899
+The subject report is being submitted in accordance with 50.73(a)(2)(ii)(B) for being in an
+unanalyzed condition that significantly degraded plant safety, due to uncoordinated DC
+circuits that result in being outside the bounds of the 10CFR50 Appendix R Fire Safe
+Shutdown Analysis.
+There are no commitments contained in this letter. If you have any questions, please contact
+the Peach Bottom Regulatory Assurance Manager, Mr. Brian Woodard at (257) 533-7430.
+Respectfully,
+Ryan C. Stiltner
+Plant Manager
+Peach Bottom Atomic Power Station
+Enclosure
+cc: USNRC, Administrator, Region I
+USNRC, Senior Resident Inspector
+W. DeHaas, Commonwealth of Pennsylvania
+S. Seaman, State of Maryland
+B. Watkins, PSE&G, Financial Controls and Co-Owner Affairs
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block) at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Peach Bottom Atomic Power Station (PBAPS), Unit 2 00277 1 OF 3
+052
+4. Title
+Uncoordinated DC Circuits Cause Unanalyzed Condition
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year PBAPS Unit 3 050 00278
+09 04 2025 2025 - 002 - 00 10 08 2025 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11.This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12.Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Brian Woodard, Regulatory Assurance Manager (267)533-7430
+13.Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B EI FU R352 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 09/04/2025, an analysis was completed which confirmed that six cables associated with direct current circuits (EIIS:EI) at
+PBAPS Units 2 and 3 were non-compliant with 10CFR50 Appendix R, Section III.G.1, Fire protection of safe shutdown
+capability. It was determined that the circuits were uncoordinated due to inadequate fuse sizing, meaning that during a
+postulated fire, the circuit’s fuse may not act to protect the circuit from a fire-induced hot short. Without adequate overcurrent
+protection for these circuits, a fire-induced short could lead to excessive current through the circuits. This could lead to
+secondary damage in another fire area where the circuits are routed, challenging the ability to achieve and maintain safe
+shutdown. Compensatory measures have been implemented and will remain until the identified non-compliant conditions are
+resolved.
+This event is reported under 10CFR50.73(a)(2)(ii)(B) as an unanalyzed condition because a fire that affects multiple fire areas
+is outside the bounds of the 10CFR50 Appendix R Fire Safe Shutdown Analysis.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1.FACILITY NAME 2.DOCKET NUMBER 3. LER NUMBER
+
+050 SEQUENTIAL REV
+YEAR
+Peach Bottom Atomic Power Station NUMBER NO.
+00277
+(PBAPS), Unit 2  052 2025 - 002 - 00
+NARRATIVE
+Plant Operating Conditions Before the Event
+Prior to the event, Peach Bottom Atomic Power Station (PBAPS), Unit 2 was operating at approximately 100%
+power in MODE 1. PBAPS, Unit 3 was operating at approximately 96% power in MODE 1. There were no
+structures, systems, or components that were inoperable at the start of the event that contributed to the event.
+Event Description
+On 09/04/2025, an analysis was completed which confirmed that six cables associated with direct current
+circuits (EIIS:EI) at PBAPS, Units 2 and 3 were non-compliant with 10 CFR 50 Appendix R, Section III.G.2,Fire
+protection of safe shutdown capability. It was determined that the circuits were uncoordinated due to
+inadequate fuse sizing, meaning that during a postulated fire, the circuit’s fuse may not act to protect the circuit
+from a fire-induced hot short. Without adequate overcurrent protection for these circuits, a fire-induced short
+could lead to excessive current through the circuits. This could lead to secondary damage in another fire area
+where the circuits are routed, challenging the ability to achieve and maintain safe shutdown.
+Compensatory actions were implemented immediately for the affected fire areas in accordance with procedural
+requirements. Compensatory actions will remain in place until the identified non-compliant conditions are
+resolved.
+The circuits for PBAPS,Units 2 and 3 noted above were reported under ENS 57899 per
+10CFR50.72(b)(3)(ii)(B) as an unanalyzed condition because a fire that affects multiple fire areas is outside the
+bounds of the 10CFR50 Appendix R Fire Safe Shutdown Analysis.
+Safety Consequences
+There were no actual consequences caused by this condition. The potential consequence of a hot short
+condition is for fire damage in one fire area to occur which subsequently damages cables in a second fire area.
+This chain of events could cause a loss of safe shutdown capability outside the bounds of the Fire Safe
+Shutdown Analysis. However, the risk of fire damage is limited by the use of fire retardant cabling, divisional
+separation, and fire protection features such as automatic suppression and detection, where required.
+Additionally, the station Fire Brigade is trained and will readily respond to all fire conditions.
+Cause and Corrective Actions
+The cause is an inadequate design dating back to original construction. Fire Protection Program
+compensatory measures were implemented as immediate actions to mitigate the risk of the affected circuits.
+Corrective Actions will include modification of the affected circuits to ensure they are properly coordinated.
+Previous Similar Events
+Peach Bottom LER 2-18-001, dated 05/18/2018, reported an unanalyzed condition due to valve cables not
+being protected from spurious operation during a postulated fire.
+Peach Bottom LER 2-14-001, dated 07/17/2014, reported an unanalyzed condition due to broken wires in
+breakers credited in the Appendix R Post-Fire Safe Shutdown Analysis.
+Peach Bottom LER 3-11-04, dated 01/13/2012, reported an unanalyzed condition due to an error in cable
+routing which affected the Post-Fire Safe Shutdown Analysis.
+NRC FORM 366A (04-02-2024) Page 2 of 2

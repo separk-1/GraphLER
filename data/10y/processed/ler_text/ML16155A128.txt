@@ -1,0 +1,355 @@
+Exelon Generation®
+May 19, 2016 10 CFR 50.73
+SVP-16-036
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Unit 2
+Renewed Facility Operating License No. DPR-30
+NRG Docket No. 50-265
+Subject: Licensee Event Report 265/2016-001-00, "Main Steam Isolation Valve Local
+Leak Rate Tests Exceed Technical Specification Limits"
+Enclosed is Licensee Event Report (LER) 265/2016-001-00, "Main Steam Isolation Valve Local
+Leak Rate Tests Exceed Technical Specification Limits," for Quad Cities Nuclear Power Station,
+Unit 2.
+This report is submitted in accordance with the requirements of the Code of Federal
+Regulations, Title 10, Part 50.73(a)(2)(i)(B), which requires the reporting of any operation or
+condition which was prohibited by the plant's Technical Specifications.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mr. W. J. Beck at
+(309) 227-2800.
+Respectfully,_ /
+•//~~
+Scott Darin
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRG Region Ill
+NRG Senior Resident Inspector-Quad Cities Nuclear Power Station
+'\
+.......
+~
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015) ..
+~lll<lri"' Estimated burden per response to comply with this mandatory collection request: 80 hours.
+I! . Reported lessons learned are incorporated into the licensing process and fed back to industry.
+~ .. .I , Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+;~ ···--· LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+digits/characters for each block) DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Quad Cities Nuclear Power Station Unit 2 05000265 1 OF 6
+4. TITLE
+Main Steam Isolation Valve Local Leak Rate Tests Exceed Technical Specification Limits
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+- - FACILITY NAME DOCKET NUMBER
+03 21 2016 2016 001 00 05 19 2016 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: {Check all that apply)
+D D D D
+20.2201 (b) 20.22os(a)(s)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.22os(a)(s)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+4
+D D D D
+20.22os(a)(1) 20.22os(a)(4) so.1s(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.22os(a)(2)(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.22os(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 1s.11 (a)(4)
+D D D D
+20.22os(a)(2)(iii) so.s6(c)(2) 50.73(a)(2)(v)(B) 1s.11(a)(s)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(s)(ii) 50.73(a)(2)(v)(C) 1s.11(a)(1)
+D D D D
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 1s.11(a)(2)(i)
+D IZ! D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 1s.11(a)(2)(ii)
+I ':t~\;.~ ,. ; , ·,, . ,, , ·: ~<~ •.· :·~ f;};~f,} :~J" D so.13(a)(2)(i)(C) D OTHER Specify in Abstract below or in NRG Form 366A
+I
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mark Humphrey-Regulatory Assurance (309) 227-2810
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TOEPIX FACTURER TO EPIX
+y
+B SB ISV C684
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 IZI SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e .. approximately 15 single-spaced typewritten lines)
+On March 21, 2016, at 2200 hours, with Unit 2 shutdown for refuel outage Q2R23, the as-found local leak rate tests (LLRT) for the four (4) main
+steam lines (MSL) were performed following closure of the main steam isolation valves (MSIV). The initial as-found LLRT on the "A" and "C" MSL
+MSIVs exceeded the minimum pathway criteria (lesser leakage in a line) of the Technical Specifications (TS), and the combined total leakage of all
+MSLs also exceeded the minimum pathway criteria (lesser leakage in each line when combined for all MSIVs) of the TS.
+Corrective actions included flushing, disassembling, inspecting, repairing, and retesting the valves. Future corrective actions include installation of an
+improved spherical nose plug design to the MSIV plug and seat, and installation of an anti-rotation device to the MSIV pilot.
+Valves 2-0203-2A and 2-0203-1C were disassembled and inspected. The most likely cause for the higher than expected leakages has been
+determined to be a valve design that is susceptible to a degraded main plug I seat interface during valve closure. A contributing cause was
+susceptible pilot plug I seat misalignment, due to pilot disc stem nut wear.
+The safety significance of this event was minimal. The total primary containment leakage of 315.866 scfh was well within the allowed leakage limit of
+1372.99 scfh (La). However, since the "A", "B", "C" and "D" MSL MSIV as-found leakage exceeded the TS limit, and the combined total leakage of all
+MSLs exceeded the TS limit, this report is submitted in accordance with the requirements of 10 CFR 50.73(a)(2)(i)(B), which requires the reporting of
+a past operation or condition which was prohibited by the plant Technical Specifications.
+NRG FORM 366 (11-2015)
+Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Main Steam Isolation Valve local leak rate testing resulted in two (2) MSIVs exceeding the individual Technical
+Specification limit and the combined minimum path MSIV leakage exceeding the Technical Specifications Limit.
+A. CONDITION PRIOR TO EVENT
+Unit: 2 Event Date: March 21, 2016 Event Time: 2200 hours
+Reactor Mode: 4 Mode Name: Cold Shutdown Power Level: 0%
+B. DESCRIPTION OF EVENT
+On March 21, 2016, at 2200 hours, with Unit 2 shutdown for refuel outage Q2R23, the as-found local leak rate tests
+(LLRT) for the four (4) main steam [SB] lines (MSL) were performed following closure of the main steam isolation
+valves [ISV] (MSIV). Two (2) MSIV leakage paths; "A" MSL inboard valve 2-0203-1A (65.5 scfh) and "C" MSL
+outboard valve 2-0203-2C (45 scfh), when tested at~ 25 psig; exceeded the allowed limit for leakage as specified by
+Technical Specifications (TS) Surveillance Requirement (SR) 3.6.1.3.10 criteria for the as-found min path (lesser
+leakage in a line) criteria of 34 scfh at ~ 25 psig. In addition, the combined total leakage of all MSLs, 118.8 scfh at ~
+25 psig, exceeded the allowed limit for leakage as specified by TS SR 3.6.1.3.10 criteria of s 86 scfh at ~ 25 psig for
+all MSIVs combined minimum path leakage limit (i.e., lesser leakage in each line when combined for all MSIVs).
+Following the completion of the individual as-found results, the "A", "B", and "D" MSLs were flushed. On March 22,
+2016, following the flushing of the MSIVs and the subsequent re-draining of the test volumes, an additional LLRT was
+performed on each MSL. Post-flushing LLRTs resulted in successful leakage rates on the 2-0203-1A, 2-0203-1B,
+and 2-0203-20 MSIVs, while the 2-0203-2A MSIV continued to show significant seat leakage. The "C" MSL was not
+flushed due to the decision to repair valve 2-0203-1C. Valves 2-0203-2A and 2-0203-1C were originally scoped into
+Q2R23 based on results from the previous Unit 2 refuel outage (Q2R22).
+Valves 2-0203-2A and 2-0203-1 C were disassembled and inspected, and MSIV pilot and disc stem nut wear
+associated with the 2-0203-2A and 2-0203-1C MSIVs was identified as causing the seat leakage. Valves 2-0203-2A
+and 2-0203-1 C were subsequently repaired and satisfactorily retested. Valve 2-0203-2C was not worked due to a
+successful combined as-left LLRT, following 2-0203-1C valve repair. The as-found leakage on valve 2-0203-1C
+masked 2-0203-2C as-found leakage and as such, repairs to valve 2-0203-2C were not required.
+Given the impact that the "A" and "C" MSL isolation valves as-found leakage exceeded the TS limit for minimum path
+leakage in its MSL, and the combined total leakage of all MSLs exceeded the TS limit for min-path leakage for all
+MSIVs, this report is submitted in accordance with the requirements of 1O CFR 50.73(a)(2)(i)(B), which requires the
+reporting of a past operation or condition which was prohibited by the plant Technical Specifications.
+NRG FORM 366A (11-2015)
+Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+C. CAUSE OF EVENT
+Subsequent investigation determined that the apparent cause of the leakage was due to the MSIV design being
+susceptible to degraded main plug/seat interface during valve closure; a non-optimal valve design. The MSIVs are
+20-inch, Crane-Aloyco Y-Pattern globe valves [ISV] that utilize line contact between the valve plug and the seat ring to
+create a leak tight seal. The line contact is formed by mismatching the angles associated with the plug seat and the
+seat ring. The resulting line of contact occurs along a sharp edge associated with the seat ring. As the MSIVs are
+stroked closed, the plug tends to drag across the sharp edge of the seat ring, which creates a potential for a degraded
+main plug/seat interface. With respect to the MSIV pilots, there is a tight tolerance between the pilot plug and disc
+stem nut, which allows for proper alignment of the pilot plug and pilot seat. Should the disc stem nut start to wear, the
+pilot plug will start to shift. The gap created by the disc stem nut wear can allow the pilot to move freely, causing a
+potential for pilot plug/seat misalignment. When the MSIV pilot closes, without proper alignment with its seat, a
+potential leakage path develops. This was determined to be a contributing cause.
+This apparent cause was previously identified (see LER 265/2012-001-00), and corrective actions to modify the MSIV
+valve plugs continue to be implemented.
+Since MSIVs 2-0203-1A and 2-0203-2C failed their as-found LLRTs, and the combined minimum path leakage rate
+also failed; and the failures were due to a degraded main plug/seat interface and pilot disc stem nut wear, the extent
+of condition of this event is limited to these two failure mechanisms of the MSIVs.
+The extent of cause is the MSIVs incorporate a non-optimal valve design that allows the plug to become misaligned
+with the seat ring during closure, and pilot disc stem nut wear. Since this cause is identified by failed or degraded
+LLRT results of susceptible MSIVs, the corrective actions identified from the apparent cause adequately address this
+issue.
+D. SAFETY ANALYSIS
+System Design
+The design of the MSIVs is to prevent reactor coolant [AD] inventory loss and protect plant personnel in the event of
+steam line breakage outside the isolation valves, and to complete the containment boundary after a Loss of Coolant
+Accident (LOCA). The MSIVs are 20-inch air/spring-operated, balanced "Y''-type globe valves mounted inboard and
+outboard of the containment. The inboard valve air is supplied from the containment drywell pneumatic system. The
+outboard valve is supplied by the normal instrument air system. This valve combines a full port design with straight
+line flow to provide a very good flow pattern. These valves use upstream pressure to aid in closure by tilting the
+actuator toward the upstream side of the valve.
+For lines that extend the primary containment boundary, the boundary includes the piping to the last (i.e., outboard)
+isolation valve. A primary containment pathway must be capable of being isolated and as such is tested in
+accordance with the Primary Containment Leakage Rate Program. Penetration leak rate testing verifies the capability
+of the penetrations to maintain overall containment leakage (La) within the limits established by 10 CFR 50 Appendix
+J. Technical Specification 3.6.1.3 provides the operability requirements for primary containment isolation valves.
+NRC FORM 366A (11-2015)
+Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+Safety Impact
+Two (2) MSIV leakage paths "A" MSL inboard valve 2-0203-1 A (65.5 scfh) and "C" MSL outboard valve 2-0203-2C
+(45 scfh), exceeded the allowed limit for leakage as specified by TS SR 3.6.1.3.10 criteria for the as-found minimum
+path criteria of s 34 scfh at ;;:: 25 psig. In addition, the combined leakage of all MSLs, 118.8 scfh at ;;:: 25 psig,
+exceeded the allowed limit for leakage as specified by TS SR 3.6.1.3.10 criteria of s 86 scfh at ;;:: 25 psig for all MS IVs
+combined min-path leakage limit (i.e., lesser leakage in each line when combined for all MSIVs). The combined
+leakage of all main steam lines was 190.436 scfh (calculated at 43.9 psig current accident pressure).
+The safety significance of this condition was minimal. The overall Q2R23 primary containment as-found leakage
+(MSIVs plus all other leak pathways) was 315.866 scfh (calculated at 43.9 psig current accident pressure). The TS
+allowable limit (0.6 La) for overall Unit 2 primary containment leakage is 823.79 scfh (at 43.9 psig, combined max path
+limit, allowed as-left), where La is 1372.99 scfh at 43.9 psig. The total primary containment leakage of 315.866 scfh
+was well within the allowed leakage limit of 1372.99 scfh. Therefore, the safety significance of the "A" and "C" MSLs
+leakage contribution and the total combined MSL contribution to the overall primary containment leakage was
+minimal.
+This condition has been compared to Updated Final Safety Analysis Report (UFSAR) Section 15.6.5.5.1 (Application
+of Alternative Source Term Methodology) assumptions, which includes a single failure of an inboard MSIV. Even if a
+single failure was considered during this condition, a single failure of the inboard MSIV in the line with the worst
+leakage outboard MSIV (158.70 scfh at 43.9 psig), would result in only a 17% increase in overall containment leakage
+(315.866 scfh increase to 369.59 scfh), which is still well below the La (1372.99 scfh) overall TS containment leakage
+criteria.
+Risk Insights
+Considering the impact of this condition on the Plant Probabilistic Risk Assessment (PRA), less than a 5% increase in
+risk would occur and would therefore have a negligible quantitative impact on the calculated Core Damage Frequency
+(CDF) and Large Early Release Frequency (LERF).
+Since the MSIVs were not required to be operable or available at the time of discovery, this condition did not create
+any actual plant or safety consequences since the Unit was not in an accident or transient condition requiring use of
+MSL isolation during this period of time.
+In conclusion, the safety significance of this event was minimal. Although this "A" and "C" MSIV line/path leak rate
+exceeded the as-found TS limit, and the combined MSIV min-path leak rate TS limit was exceeded, the overall
+containment leakage was maintained within limits. The total as-found leakage was 315.866 scfh at 43.9 psig, which is
+within La (1372.99 scfh) for overall Unit 2 primary containment leakage.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. Flushed "A", "B", and "D" MSL isolation Valves.
+2. 2-0203-1A, 2-0203-1 B, and 2-0203-20 maintenance flush LLRTs were satisfactory.
+3. 2-0203-2A and 2-0203-1C were repaired during Q2R23. Each of these valves were disassembled, inspected,
+repaired, and satisfactorily retested.
+NRC FORM 366A (11-2015)
+Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150·0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~<:."/>;\';)'.\I R!U1tc,.>o comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+i F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+~ LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+';I 7 CONTINUATION SHEET NEOB-10202, (3150·0104), Office of Management and Budget, Washington, DC 20503. If a means
+•..... used to impose an information collection does not display a curren~y valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuelear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2016 - 001 - 00
+NARRATIVE
+Follow-up:
+1. The MSIV plugs have been re-designed to move the plug/seat ring contact interface away from the sharp edge
+on the seat ring. The new spherical plug modification design incorporates a spherical leading edge that also
+provides a wider band of contact with the seat ring and is more tolerant of minor misalignment that may occur
+during closure. This modification has been incorporated into procedure QCMM 0203-53 "Main Steam Isolation
+Valve Overhaul", which allows installation of the new design during subsequent MSIV overhauls, and will
+achieve more reliable valve performance. The new design has already been installed on each Unit (Valve 1-
+0203-1 C on Unit 1 and Valves 2-0203-1 C and 2-0203-1 D on Unit 2) but the MSIV modification is currently
+limited until experience shows the design is effective.
+2. Add anti-rotation device to MSIV pilot plug.
+F. PREVIOUS OCCURRENCES
+The station events database, LERs, and INPO Consolidated Event System (ICES) were reviewed for similar events at
+Quad Cities Nuclear Power Station. This event was the initial as-found combined LLRT of all main steam lines
+exceeded the combined min-path leakage limit (i.e., lesser leakage in each line when combined for all MSIVs) of the
+TS Surveillance (86 scfh); and the initial as-found LLRT on the "A" and "C" MSL inboard and outboard isolation valves
+exceeded the minimum pathway criteria (lesser leakage in a line) of the TS Surveillance (34 scfh). Based on the
+conditions of this event, causes, and associated corrective actions, the events listed below, although similar in topic,
+are not considered significant station experiences that would have directly contributed to preventing this event.
+• Station Events Database - Previous LLRT failure investigations have been performed at Quad Cities [Root Cause
+36958 (2000 LER), Equipment Apparent Cause Evaluation 130565 (2003), Common Cause Analysis 203885
+(2004), and Apparent Cause Evaluation 747103 (2008)] that have concluded that ineffective guidance of the
+MSIV plug (an inherent design flaw) causes the seats to experience localized, accelerated wear as the plug drags
+across the sealing edge of the seat. There have been several cases where individual MSIVs have exceeded the
+acceptable leakage limits, however, between 2001 and 2012 the min-path leakage in these cases was within the
+TS values. Actions have been taken to minimize the number of valve strokes, modify seat and plug angles to
+improve the seating interface, and to eliminate closure of the MSIVs when MSL steam pressure is above 0 psig.
+To mitigate the overall design issue, the MSIV internals are currently being upgraded to improve the guidance of
+the plug (radius nose plug design). This design issue was identified in 2004 and 2012 (see 2012 LER below),
+and the resulting actions, although still in process of being implemented, are further addressed in this LER.
+• LER 265/2012-001-00, 05/18/12, Main Steam Isolation Valve Local Leak Rate Testing Exceeds Technical
+Specifications Limits (03/19/12) - The initial as-found LLRT on the "B" MSL MSIVs exceeded the minimum
+pathway criteria (lesser leakage in a line) of the Technical Specification (TS) Surveillance (34 standard cubic
+feet/hour (scfh)). The apparent cause of the higher than expected leakage was determined to be a valve design
+that allowed for minor seat ring wear to degrade the LLRT performance which may also have resulted in
+misalignment between the plug and the seat ring. Corrective actions included repairing the valves. Future
+corrective actions included pursuing a new plug and seat design, as well as improved trending methodology for
+predicting MSIV LLRT failures. This 2012 design issue and the resulting actions, although still in process of being
+implemented, are further addressed in this LER.
+• LER 254/2015-003-00, 04/29/15, Main Steam Isolation Valve Local Leak Rate Testing Exceeds Technical
+Specifications Limits (03/02/15) - The initial as-found LLRT on the "D" MSL MSIVs exceeded the minimum
+pathway criteria (lesser leakage in a line) of the Technical Specification (TS) Surveillance (34 standard cubic
+feet/hour (scfh)) and the combined total leakage of all MSLs also exceeded the minimum pathway criteria (smaller
+leakage in each line when combined for all MSIVs) of the Technical Specifications. The apparent cause of the
+higher than expected leakage was determined to be a valve design that allowed for minor seat ring wear to
+NRC FORM 366A (11-2015}
+Page 6 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+:il~tlf11!Uu<1 comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+~ LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+:;; lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+"' ~,, lf-it1'1'•"" .,.o CONTINUATION SHEET N us E e O d B to -1 0 im 20 p 2 o , s e (3 1 a 5 n 0 i - n 0 f 1 o 0 rm 4) a , ti O on ffi c c e o l o le f c M tio a n n a d g o e e m s e n n o t t a d n is d p l B a u y d a ge c t u , r W ren a t s ly h in va g l t i o d n , O M DC B 2 c 0 o 5 n 0 tr 3 o . l n I u f m a b m er e , a th n e s
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 2 05000265 YEAR NUMBER NO.
+2016 - 001 00
+NARRATIVE
+degrade the LLRT performance which may also have resulted in misalignment between the plug and the seat
+ring. Corrective actions included repairing the valves. Future corrective actions included pursuing a new plug and
+seat design, as well as improved trending methodology for predicting MSIV LLRT failures. This 2015 design
+issue and the resulting actions, although still in process of being implemented, are further addressed in this LER.
+G. COMPONENT FAILURE DATA
+Failed Equipment: MS IVs (inboard -2-0302-1 A, outboard -2-0302-2A, inboard -2-0302-18, inboard -2-0203-1 C,
+outboard -2-0203-2C, and outboard -2-0203-20}
+Component Manufacturer: Crane Nuclear, Inc.
+Component Model Number: Model 20-inch "Y''-Pattern Globe Valve
+Component Part Number: N/A
+This event has been reported to ICES as Failure Report No. 322335, Main Steam Isolation Valves Exceeded the
+Technical Specifications for As-found Local Leak Rate Testing.
+NRC FORM 366A {11-2015)

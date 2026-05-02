@@ -1,0 +1,213 @@
+t1 Exelon Generation®
+~
+Clinton Power Station
+8401 Power Road
+Clinton, IL 61727
+U-604328 10CFR50.73
+January 13, 2017 SRRS 5A.108
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555-0001
+Clinton Power Station, Unit 1
+Facility Operating License No. NPF-62
+NRC Docket No. 50-461
+Subject: Licensee Event Report 2016-011-00
+Enclosed is Licensee Event Report (LER) 2016-011-00: Incorrect Calculation Method Used
+to Demonstrate Control Room Habitability. This report is being submitted in accordance with
+the requirements of 10 CFR 50.73.
+There are no regulatory commitments contained in this report.
+Should you have any questions concerning this report, please contact Mr. Dale A. Shelton,
+Regulatory Assurance Manager, at (217) 937-2800.
+Respectfully,
+Theodore R. Stoner
+Site Vice President
+Clinton Power Station
+KP/cac
+Attachment: Licensee Event Report 2016-011-00
+cc:
+Regional Administrator- NRC Region Ill
+NRC Senior Resident Inspector - Clinton Power Station
+Office of Nuclear Facility Safety- Illinois Emergency Management Agency
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+~.._,r;P'i! "!OG'(f>o . . Reported lessons learned are incorporated into the licensing process and led back to industry.
+\~ : · i ; LICENSEE EVENT REPORT (LEA) S B e ra n n d c h c o (T m -5 m F e 5 n 3 ts ) , r U e . g S a . rd N in u g cl e b a u r r R de e n g ul e a s to ti r m y a C te o m to m i t s h s e io n F , O W IA a , s h P in ri g v t a o c n y , D a C nd 2 0 In 5 f 5 o 5 rm -0 a 0 t 0 io 1 n , o C r o b l y le e c - ti m on a s il
+"""~ ...... "": •.l (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+means used to impose an information collection does not display a curren~y valid OMS control
+number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Clinton Power Station, Unit 1 05000461 1 OF 4
+4. TITLE
+Incorrect Calculation Method Used to Demonstrate Control Room Habitability
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+- FACILITY NAME DOCKET NUMBER
+11 17 2016 2016 - 011 00 01 13 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply}
+D D D D
+20.2201 Cb> 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D 20.2201 <ct> D 20.2203Ca><3><n> J fgj 50.73(a)(2)(ii)(B) D 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203<a><1> 20.2203(a)(4) 50.13<a>c2><m> 50.73(a)(2)(ix)(A)
+D D D D
+20.2203<a>c2Hi> 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+1 O. POWER LEVEL D 20.2203(alC2l(iil D 50.36(c)(1 )(ii)(A) D 50.73(a)(2)(v)(A) D 13.11<a><4l
+D D D D
+20.2203Ca><2J<m> 5o.36(c><2> 50.73(a)(2)(v)(B) 7S.71(a)(5)
+D D D D
+20.2203(a)(2)(iv) 50-46(a)(3)(ii) 50.73(a)(2)(v)(C) 13.11<a><1>
+D D D D
+099 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.77(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(ii)
+;;;,z;;i:~1;,:·.JB,~,if ;,;~:[::):d<;~:~it D 50_13(a)(2)(il(C) D OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Dale A. Shelton, Regulatory Assurance Manager 217 -937-2800
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE '.: CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TOEPIX FACTURER TOEPIX
+N :)
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+0 YES (If yes, complete 15. EXPECTED SUBMISSION DATE) fgj NO SUB D M A IS TE S ION
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 17, 2016, during the NRC Component Design Basis Inspection {CDBI), Clinton'Power Station {CPS)
+determined that design calculation C-020 "Reanalysis of Loss of Coolant Accident {LOCA) Using Alternate Source
+Terms," incorrectly took credit for the dual Main Control Room ventilation (VC) supply inlets being single failure proof
+(SFP). This assumption allowed the calculation to reduce one of the dose terms by a factor of 4 in accordance with the
+guidance of Regulatory Guide 1.194, "Atmospheric Relative Concentrations for Control Room Radiological Habitability
+Assessments at Nuclear Power Plants". However, the inlets to VC at CPS are not SFP. This calculational error, when
+corrected, resulted in a calculated dose of greater than the 5 rem Total Effective Dose Equivalent (TEDE) allowable
+dose to occupants of the control room. A cause evaluation identified USAR sections that described the VC system
+were not clear regarding whether the intake structures were SFP. A standing order was issued for compensatory
+measures in the event of an emergency until calculations were prepared to demonstrate MCR operator dose limits can
+be met without compensatory measures. Actions have been initiated to finalize the MCR Operator dose analysis
+assuming single failure of outside air intake dampers and to revise the USAR to indicate that intake structures are not
+independently SFP. This event is reportable under 10 CFR 50.73(a)(2)(ii)(B), "Any event or condition that results in the
+nuclear power plant being in an unanalyzed condition that significantly degrades plant safety."
+NRG FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+{06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+....'. :p~P,llf;)(I""'"' comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+~ ~ LICENSEE EVENT REPORT (LEA) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+•
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+\ CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+")it•*··
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 011 - 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric-Boiling Water Reactor, 3473 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX]
+EVENT IDENTIFICATION
+Incorrect Calculation Method Used to Demonstrate Control Room Habitability
+A. Plant Operating Conditions before the Event
+Unit: 1 Event Date: 11/17/16 Event Time: None
+Mode: 1 Mode Name: Power Operation Reactor Power: 99 percent
+B. DESCRIPTION OF EVENT
+During the NRG Component Design Basis Inspection (GOBI) on November 17, 2016, CPS
+determined that Calculation, C-020 "Reanalysis of Loss of Coolant Accident (LOCA) Using Alternate
+Source Terms," incorrectly took credit for the dual Main Control Room ventilation (VG) supply inlets
+being single failure proof (SFP). The calculation is used to demonstrate control room habitability in
+the CPS accident analysis. The calculation assumed dual air inlets for the emergency zones as the
+type of system used for the Main Control Room ventilation system (VG). The dual inlet type system
+allows for one of the calculated dose concentrations to be reduced by a factor_of 4 in accordance with
+the guidance of Regulatory Guide 1.194, "Atmospheric Relative Concentrations for Control Room
+Radiological Habitability Assessments at Nuclear Power Plants." The VG system is SFP, but the
+individual subsystems at the inlet as designed are not. The calculational error, when corrected,
+resulted in a calculated dose of greater than the 5 rem Total Effective Dose Equivalent (TEDE)
+allowable dose to occupants of the control room.
+The cause investigation team established that the USAR sections which described the VG system
+were not clear regarding whether the intake structures were SFP. This condition was concluded as
+the cause of the event. A review of the design calculation established that C-020 was prepared by
+Sargent & Lundy. The individual responsible for the design calculation preparation considered that
+both VG intake structures were independently SFP based on his understanding of the USAR sections
+that described the VG system. This was an unverified assumption by the preparer which resulted in
+the use of an incorrect methodology when the calculation assumed the outside intakes for VG were
+SFP. The lack of technical rigor in the preparation of the design calculation was established a
+condition which contributed to the event described in this report.
+NRC FORM 366A (06-2016) Page _2_ of _4_
+_J
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+{06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Clinton Power Station, Unit 1 05000461
+2016 - 011 - 00
+NARRATIVE
+C. CAUSE OF EVENT
+The USAR sections that described the VC system were not clear regarding whether the intake
+structures were SFP. The design calculation preparer's consideration that both outside VC intake
+structures were SFP is attributable to the lack of clarity of the USAR sections.
+D. SAFETY ANALYSIS
+There were no safety consequences associated with the event described in this report. The
+event is reportable under 1OCFRSO.73(a)(2)(ii)(B) as "any event or condition that results in the
+nuclear power plant being in an unanalyzed condition that significantly degrades plant safety."
+The event described in this report did not involve degraded performance associated with any
+portion of the VC system or the Control Room Envelope boundary. It was limited to
+assumptions used in the performance of a design calculation that demonstrates control room
+habitability following a design basis accident. This design calculation used an incorrect method
+and represents a nonconforming condition as described in plant procedures since it did not align
+with the current licensing basis.
+The redundant subsystems of the Control Room Ventilation System during this event remained
+OPERABLE to ensure that at least one was available, if a single active failure disabled the other
+subsystem as described in Technical Specification Basis 3.7.3. Plant systems required for the
+safe shutdown of the plant were also not affected by the event described in this report.
+This event report does not identify any safety system functional failures.
+E. CORRECTIVE ACTIONS
+A standing order was issued for compensatory measures in the event of an emergency until
+calculations were prepared to demonstrate MCR operator dose limits can be met without
+compensatory measures. Actions have also been initiated to finalize the MCR Operator dose
+analysis assuming single failure of outside air intake dampers and revise the USAR to clarify
+that intake structures are not independently SFP.
+NRC FORM 366A {06-2016) Page _3_ of _4_
+-------
+--
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Clinton Power Station, Unit 1 05000461 YEAR NUMBER NO.
+2016 - 011 00
+NARRATIVE
+F. PREVIOUS SIMILAR OCCURENCES
+No previous Event Reports were identified associated with the event described in this report.
+G. COMPONENT FAILURE DATA
+This report does not involve the failure of components.
+NRC FORM 366A (06-2016) Page _4_ of _4_

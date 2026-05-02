@@ -1,0 +1,248 @@
+Exelon Generation@
+Oyster Creek
+Route 9 South
+P.O. Box 388
+Forked River, NJ 08731
+10 CFR 50.73
+RA-17-051
+September 22, 2011
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk or 0-881
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852
+Oyster Creek Nuclear Generating Station
+Renewed Facility Operating License No. DPR-16
+NRC Docket No. 50-219
+Subject: Supplemental Licensee Event Report (LER) 2016-005-01, "Technical
+Specification Prohibited Condition Caused by One Electromatic Relief Valve
+Inoperable for Greater than Allowed Outage Time."
+Enclosed is LER 2016-005-01 reporting the Technical Specification prohibited condition
+due to an Electromatic Relief Valve inoperable for greater than the allowed outage time
+discovered during as-found testing, which occurred on September 19, 2016. The LER
+was revised to add supplemental information as required by Revision 00 of the document.
+This event did not affect the health and safety of the public or plant personnel. This event
+did not result in a safety system functional failure. There are no regulatory commitments
+made in this LER submittal.
+Should you have any questions concerning this report, please contact Gary Flesher,
+Regulatory Assurance Manager, at (609) 971-4232.
+Respectfully,
+Michael Gillin
+Plant Manager
+Oyster Creek Nuclear Generating Station
+Enclosure: NRC Form 366, LER 2016-005-01
+cc: Administrator, NRC Region I
+NRC Senior Resident Inspector - Oyster Creek Nuclear Generating Station
+NRC Project Manager - Oyster Creek Nuclear Generating Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply wilh this mandatory collection request 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+··~\
+: (i i LICENSEE EVENT REPORT (LEA) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+\. .....r /j Branch [T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to lnfocoMects.ResourceOnrc.gov, and to the Desk Officer, Office of lnfoITTlation and Regliatory
+Affairs, NEOB-10202, (315().0104), Office ol Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an infoITTlation collection does not display a currently valid OMB control
+number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+httQ:/lwww.nrc.gov/reading-rm/doio-collections/nuregs/~taff/sr1022/13/)
+infoITTlation collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Oyster Creek, Unit 1 05000 -0219 1 OF 4
+4. TITLE
+Technical Specification Prohibited Condition Caused by One Electromatic Relief Valve Inoperable for Greater than Allowed
+Outage Time
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I I
+FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR NIA N/A
+- FACILITY NAME DOCKET NUMBER
+09 19 2016 2016 - 005 01 09 22 2017 NIA N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITIED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D 0 0
+20.2201(b) 20.2203(a)(3Hi> 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D 0 0
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N
+D D D 0
+20.2203(a)(1) 20.2203(a)(4) so.13(a)(2)(iiil 50.73(a)(2)(ix)(A)
+D 0 0 0
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D 0 0 D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 13.11(a)(4)
+D D 0 D
+20.2203(a)(2)(iii) so.36(c)(2) 50.73(a)(2)(v)(B) 13.11(a)(s)
+D D 0 D
+20.2203(a)(2)(1v) so.4a(a)(3)(11) 50. 73(a)(2)(v)(C) 13.77(a)(1)
+0 0 0 D
+000 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 13.77(a)(2)(i)
+0 C8J 0 D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 13.11(a)(2)(ii)
+D D
+so. 73(a)(2l(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Gary Flesher, Regulatory Assurance Manager (609) 971-4232
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU· REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+8 SB RV 0245 y NIA NIA NIA NIA NIA
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+0 C8J SUBMISSION
+YES (If yes. complete 15. EXPECTED SUBMISSION DATE) NO DATE NIA NIA NIA
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 19, 2016, after achieving Cold Shutdown for the 1 R26 Refuel Outage, as found testing was performed
+on all five (5) Electromatic Relief Valves (EMRVs). The "E" EMRV did not open from the Main Control Room (MCR),
+and no change in indication was observed. Per the work activity, technicians were dispatched to the Drywell to verify
+that the valve did not move upon receiving an open signal from the MCA.
+A cutout switch in the valve actuator was stuck in the open position, thereby preventing a solenoid from actuating to
+open the valve. The cutout switch did not operate as required because the hinge pin lock star washers were not
+installed in the cutout switch assembly. Without the lock star washers installed, the hinge pins interfered with the
+solenoid frame holes creating mechanical binding. Based on this information it is suspected that the "E" EMRV would
+have been inoperable for longer than the Technical Specification Allowed Out of Service Time (AOT) of 24 hours.
+Therefore, this issue is reportable under 1O CFR 50. 73(a)(2)(i)(B) as an Operation or Condition which was Prohibited
+by the plant's Technical Specifications.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory coHection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/@ collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000- 0219 YEAR NUMBER NO.
+2016 - 005 - 01
+NARRATIVE
+Plant Conditions Prior To Event
+Event Date: September 19, 2016 Event Time: 1500 EDT
+Unit 1 Mode: Cold Shutdown Power Level: 0%
+Description of Event
+On September 19, 2016 after achieving Cold Shutdown for the 1 R26 Refuel Outage, as found testing was
+performed on all five (5) Electromatic Relief Valves (EMRVs). The "E" EMRV did not open from the Main Control
+Room (MGR), and no change in indication was observed. Per the work activity, technicians were dispatched to the
+Drywell to validate that the valve did not move upon receiving an open signal from the MGR. Troubleshooting was
+developed and determined that the cutout switch in the valve actuator was stuck in the open position, thereby
+preventing the actuator pickup solenoid from energizing to open the valve. The cutout switch did not operate as
+required because the hinge pin lock star washers were not installed in the cutout switch assembly. Without the lock
+star washers installed, the hinge pins interfered with the solenoid frame holes creating mechanical binding.
+During each refueling outage, all five (5) EMRV actuators are removed from the plant, refurbished, and reinstalled
+during the following refueling outage. By Oyster Creek Nuclear Generating Station (OCNGS) process, the EMRV
+actuators are refurbished with new springs, posts, guides, and microswitches every 24 months during refueling
+outages. The actuator inspection/refurbishment frequency of 24 months is more frequent than the manufacturer's
+(Dresser Industries) recommended frequency of 36 months (per Vendor Manual VM-OC-0030, Installation and
+Maintenance Manual for Electromatic Relief Valves, Revision 1, Section VII, Ref. 4.5).
+Equipment Description
+The EMRVs are Type 6" 1525-VX relief valves manufactured by Dresser Industries. They are installed on the two
+(2) main steam lines that carry steam from the reactor vessel to the main turbine. Actuation signals from either the
+Automatic Depressurization System or the individual EMRV pressure switches, as well as from the manual control
+switches will open the valves to lower reactor pressure, thereby allowing the low pressure Core Spray System to
+provide makeup water to the reactor core during accident I transient conditions.
+The main valve is operated by a pilot valve that is controlled by energizing a DC operated solenoid actuator. When
+energized, the solenoid develops an electromagnetic field that enables the downward travel of a plunger, which
+strikes the pilot valve lever pushing it down. In that position, the lever opens the exhausVventing path of the main
+valve, which subsequently opens the EMRV. The solenoid actuator is equipped with two solenoid coils (a pickup,
+low resistance - 50 coil, and a hold, high resistance - 3000 coil) in series. The hold coil has a parallel cutout
+switch, which is normally closed, thus bypassing the hold coil during the initial solenoid actuation. The initial pickup
+current in that configuration (-20 amps) is capable of developing the force required by the plunger for striking down
+the pilot valve lever and opening the EMRV. During its downward travel, the plunger tail will also strike down the
+cutout switch lever, which opens the cutout switch and connects the hold coil into the circuit. The low current
+developed (- 0.5 Amps) in that configuration is required to allow the EMRV to remain open, as needed, without the
+risk of burning out the pickup coil.
+NAC FOAM 366A (06-2016) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)) Estimated burden per response to comply with this mandatory collection request: eo hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch {T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/@ collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-0219 YEAR NUMBER NO.
+2016 - 005 - 01
+NARRATIVE
+Analysis of Event
+When the EMRV is no longer required to be open, the solenoid coils are de-energized, and the plunger travels
+upward pulled by the actuator springs. As it travels upward, the plunger releases the cutout switch lever, which
+retracts to its initial (closed) position helped by the combination of a tension and torsional springs. The failure of the
+cutout switch to retract to its normal (closed) position would result in the pickup and hold coil simultaneously
+energized during an EMRV actuation, which would subsequently prevent the solenoid from developing the required
+force to overcome the actuator spring force, inhibiting the EMRV from opening.
+Based on the failure mechanism, it has been determined that the "E" EMRV was inoperable for longer than the
+Technical Specification Allowed Out of Service time of 24 hours.
+There was no actual safety consequence associated with this event. The results of the analysis performed
+substantiate that the cause of the event was isolated to the "E" EMRV only.
+Cause of Event
+The "E" EMRV failure was caused due to the failure to install the hinge pin lock star washers in the cutout switch
+assembly. Without the lock star washers installed, the hinge pins interfered with the solenoid frame holes creating
+binding and rotational forces that resulted in a deformation of the cutout switch lever arm. The lever arm
+deformation allowed the lever arm to bind on the solenoid frame and could not be overcome by the spring force.
+This condition resulted in the cutout switch being held open and the "E" EMRV unable to actuate.
+Immediate Actions
+Extent of Condition Inspections were performed on the other four (4) EMRV actuators that were removed during
+1 R26 Refuel Outage. Discrepancies were identified with the "E" EMRV only.
+Corrective Actions
+1. Inspected all five (5) EMRV solenoid actuators prior to installation in the plant to verify critical parameters as
+wen as installation of the hinge pin lock star washers.
+2. Implemented a policy improving field observations and increasing the criticality requirements.
+3. Revised procedure to rebuild EMRVs to include verification signatures for critical steps.
+NRC FORM 366A (06-2016) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FO!A, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+lnfocollects.Resoun:e@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Oyster Creek, Unit 1 05000-0219 YEAR NUMBER NO.
+2016 - 005 - 01
+NARRATIVE
+Assessment of Safety Consequences
+There was no actual safety consequences associated with this event. All EM RVs were operable at the time of
+installation during 1 R25 Refuel Outage (2014) as proven by operability surveillance testing during start-up from
+the outage. During Cycle 25, the OCNGS did not have any transients or events which required the "E" EMRV to
+operate. Additionally, OCNGS UFSAR Chapter 15, assumes four out of the five EM RVs are available for any of
+the accident analyses requiring EMRV operation/actuation.
+The Electromatic Relief Valves (EMRVs) have three modes of operation that were evaluated for Design Basis.
+These three modes are:
+1) Automatic operation under Small Break Loss of Coolant Accident (SBLOCA) conditions
+2) Automatic operation under high Reactor Pressure Vessel (RPV) Pressure condition
+3) Manual operation under conditions dictated by the Emergency Operating Procedures (EOPs)
+The 'B', 'C', and 'E' EMRV have a setpoint to open at 1085 psig, which is higher than the setpoints for the 'A' and 'D'
+EMRV of 1065 psig. Time delay relays prevent the simultaneous opening of the EMRVs. The failure of the EMRV
+cutout switch lever arm would have precluded the "E" EMRV assembly from being able to cycle open in the event of
+an automatic or manual actuation. The remaining four (4) of the five (5) EMRVs would have continued to operate
+and would have cycled as required to ensure operations under a SBLOCA or RPV high pressure condition. The 'A'
+through 'D' EMRVs were evaluated to not be susceptible to a common cause failure and were maintained in an
+operable condition in accordance with station procedures.
+Previous Occurrences
+In 2014 the station experienced an event in which two (2) actuators were found to be inoperable during the
+refurbishment process, after removal from the plant in September 2012 during the 1 R24 Refuel Outage. The
+station performed the corrective actions to change the design of the EMRV solenoid actuators to prevent
+recurrence. The newly designed actuators were installed in September 2014 during OCNGS 1R 25 Refuel Outage.
+Additionally, a corrective action was implemented to perform as found testing during subsequent refuel outages
+prior to replacing the actuators. The performance of these modifications was not a contributing cause to the failure
+experienced in the "E" EMRVon September 19, 2016.
+Component Data
+Component IEEE 805 System ID IEEE 803A Component
+Relief Valve SB RV
+NRC FORM 366A (06-2016) Page _4_ of _4_

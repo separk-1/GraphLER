@@ -1,0 +1,184 @@
+Constellation
+James A. FitzPatrick NPP
+PO Box 110
+Lycoming. NY 13093
+Timothy C. Peter
+Site Vice President-JAF
+JAFP-22-0034
+June 28, 2022
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+James A. FitzPatrick Nuclear Power Plant
+Renewed Facility Operating License No. DPR-059
+NRC Docket No. 50-333
+Subject: LER: 2022-001, Exhaust Drain Pot Line Filled with Water up to HPCI
+Turbine due to Relay Failure
+Dear Sir or Madam:
+This report is being submitted pursuant to 10 CFR 50. 73(a)(2)(v)(D).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. Richard Sullivan, Regulatory
+Assurance Manager, at (315) 349-6562.
+TCP/RS
+Enclosure: LER: 2022-001, Exhaust Drain Pot Line Filled with Water up to HPCI
+Turbine due to Relay Failure
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (IRIS)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-
+(See Page 3 for required number of digits/characters for each block) 6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 3
+4. Title
+LER: 2022-001, Exhaust Drain Pot Line Filled with Water up to HPCI Turbine due to Relay Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A N/A
+Facility Name Docket Number
+04 29 2022 2022 - 001 - 00 06 28 2022 N/A N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20  20.2203(a)(2)(vi)  50.36(c)(2)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+ 20.2201(b)  20.2203(a)(3)(i)  50.46(a)(3)(ii)  50.73(a)(2)(v)(A) 10 CFR Part 73
+ 20.2201(d)  20.2203(a)(3)(ii)  50.69(g)  50.73(a)(2)(v)(B)  73.71(a)(4)
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(C)  73.71(a)(5)
+ 20.2203(a)(2)(i) 10 CFR Part 21  50.73(a)(2)(i)(B)  50.73(a)(2)(v)(D)  73.77(a)(1)
+ 20.2203(a)(2)(ii)  21.2(c)  50.73(a)(2)(i)(C)  50.73(a)(2)(vii)  73.77(a)(2)(i)
+ 20.2203(a)(2)(iii) 10 CFR Part 50  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)  73.77(a)(2)(ii)
+ 20.2203(a)(2)(iv)  50.36(c)(1)(i)(A)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+ 20.2203(a)(2)(v)  50.36(c)(1)(ii)(A)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ OTHER (Specify in Abstract below or in NRC Form 366A).
+12.Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Mr. Richard Sullivan, Regulatory Assurance Manager 315-349-6562
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BJ RLY G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+ No  Yes (If yes, complete 15. Expected Submission date)
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1251 EDT on April 29, 2022, while troubleshooting the failure of the High Pressure Coolant Injection (HPCI)
+Exhaust Drain Pot High Level Alarm to clear, it was discovered that the High Pressure Coolant Injection
+exhaust line condensate drain system was not functioning as designed to support removal of condensate from
+the turbine exhaust. Troubleshooting determined that a logic relay failed to start the HPCI Gland Seal
+Condensate pump. This resulted in some water accumulation in the turbine casing.
+Subsequently, the High Pressure Coolant Injection System was declared inoperable. The turbine casing was
+manually drained and the failed relay was replaced. The system was restored to Operable.
+As a result, this condition is being reported under 10 CFR 50.72(b)(3)(v)(D) as a condition that could have
+prevented fulfillment of the safety function at the time of discovery.
+NRC FORM 366 (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2022 – 001 – 00
+NARRATIVE
+Background
+The High Pressure Coolant Injection (HPCI) System [EIIS Identifier: BJ] at James A. FitzPatrick Nuclear Power
+Plant (JAF) is a part of the Emergency Core Cooling System (ECCS); HPCI provides and maintains an
+adequate coolant inventory inside the Reactor Pressure Vessel [RPV] to prevent damage to the reactor core
+under postulated accident scenarios. The system is comprised of various components which include pumps,
+valves, piping, and instrumentation. The HPCI system is powered by a steam turbine using steam from the
+reactor. Steam is pressurized up to the admission valve 23MOV-14 which will open to admit steam to the
+HPCI turbine on a system initiation signal.
+HPCI has a Gland Exhaust System to collect steam leakage from the turbine shaft seals, turbine control & stop
+valve stems, and turbine exhaust casing drains. The system works with the HPCI exhaust Drain Pot to collect
+condensation from the bonnets of several valves and the HPCI turbine casing. The condensation is collected
+in the Gland Seal Condenser, and then pumped to Radwaste while in a standby lineup.
+23LS-98 senses level in the Exhaust Drain Pot, causes Annunciator ARP-09-3-3-18 (HPCI Exhaust Drain Pot
+Level High) and opens a valve to allow the Drain Pot to drain to the Gland Seal Condenser.
+23LS-100 senses level in the Gland Seal Condenser, energizes 23A-K31, and auto starts the 23P-141 (HPCI
+Gland Seal Condensate Pump) to pump the Gland Seal Condenser to Radwaste.
+Event Description
+On April 28, 2022, at 2245, control room annunciator ARP-09-3-3-18, HPCI drain pot water level alarm was
+received. Troubleshooting determined that HPCI logic relay 23A K31 failed to activate the HPCI Gland Seal
+Condensate pump to remove condensate from the turbine exhaust. As a result, water from 23MOV-14 steam
+leakby had accumulated in the HPCI turbine casing.
+The crew placed the HPCI auxiliary oil pump in Pull to Lock to mitigate any potential impact to personnel while
+draining the HPCI exhaust. The Pull to Lock switch position prevents the HPCI turbine from starting. The
+HPCI Exhaust Drain Pot was manually drained by Operations. Following draining, the HPCI system was
+declared operable.
+The condition was reported as a condition which could have prevented fulfillment of a safety function to
+mitigate the consequences of an accident per 10 CFR 50.72(b)(3)(v)(D), as submitted by ENS 55871.
+Event Analysis
+Level switch 23LS-100 senses water level in the HPCI gland seal condenser. On a high level, the level switch
+actuates relay 23A-K31 which alarms in the control room and starts the HPCI gland seal condenser pump
+(23P-141). The pump removes the condensate by pumping the water to the radwaste system. Troubleshooting
+determined that 23A-K31 had failed, preventing the auto start of 23P-141. This caused the HPCI exhaust
+drain pot to fill with condensate and subsequently a volume of condensate also accumulated in the HPCI
+turbine casing.
+The potential effects of water in the HPCI turbine casing is that a slug of water could cause a HPCI exhaust
+rupture disk diaphragm to be damaged upon HPCI initiation. Another potential effect of water in the turbine
+Page 2 of 3
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+CONTINUATION SHEET regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2022 – 001 – 00
+exhaust line is that it could cause abnormal turbine operation due to high exhaust pressure. The backup of
+water into the HPCI turbine is a condition that could have prevented the operation of HPCI and is reportable
+per 10 CFR 50.73(a)(2)(v)(D).
+Cause
+The direct cause of this event was a failure of 23A-K31 from actuating 23P-141 to pump down the
+condensate water before it filled the HPCI exhaust drain pot.
+Similar Events
+Condition Report: AR 04381156, Suspected leakage past 23MOV-14, dated October 31, 2020
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: General Electric
+Manufacturer Model Number: CR2820B SERIES A
+Manufacturer Code: G080
+Component Code: RLY
+FitzPatrick Component ID: 23A-K31
+Corrective Actions
+Completed Actions
+Operators manually drained the HPCI Drain Pot
+The HPCI Logic Relay 23A-K31 was replaced
+Planned Actions
+Evaluate PM strategy for affected relay and condensate drain system.
+Perform further analysis on impacts of water in HPCI turbine casing.
+Operations refresher training on Abnormal Condition Monitoring Plans.
+Safety Significance
+Nuclear safety – There were no actual consequences caused by this condition. The potential consequence
+during a postulated accident scenario is when HPCI actuates, the water present in the turbine could damage
+or prevent the system operation. While HPCI is operating, the ability to drain water through the drain pot is not
+required for continued system operation since excess water accumulation is pushed out with steam exhaust.
+The risk for this event is restricted to the period when the relay failed to automatically actuate the pump to
+remove water which was determined to be less than 14 hours.
+References
+Issue Report - IR 04496616, HPCI Exhaust Drain Pot Level Hi Troubleshooting, dated April 29, 2022
+Page 3 of 3
+NRC FORM 366A (08-2020)

@@ -1,0 +1,237 @@
+(~ DUKE William R. Gideon
+Vice President
+ENERGY~ Brunswick Nuclear Plant
+P .0. Box 10429
+Southport, NC 28461
+o: 910.457.3698
+AUG 2 9 2016
+10 CFR 50.73
+Serial: BSEP 16-0077
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Subject: Brunswick Steam Electric Plant, Unit No. 2
+Renewed Facility Operating License No. DPR-62
+Docket No. 50-324
+Licensee Event Report 2-2016-002
+In accordance with the Code of Federal Regulations, Title 10, Part 50. 73, Duke Energy
+Progress, Inc., submits the enclosed Licensee Event Report (LER). This report fulfills the
+requirement for a written report within sixty (60) days of a reportable occurrence.
+This document contains no regulatory commitments.
+Please refer any questions regarding this submittal to Mr. Lee Grzeck, Manager - Regulatory
+Affairs, at (910) 457-2487.
+William R. Gideon
+MAT/mat
+Enclosure: Licensee Event Report
+U.S. Nuclear Regulatory Commission
+Page 2 of 2
+cc (with enclosure):
+U. S. Nuclear Regulatory Commission, Region II
+ATTN: Ms. Catherine Haney, Regional Administrator
+245 Peachtree Center Ave, NE, Suite 1200
+Atlanta, GA 30303-1257
+U. S. Nuclear Regulatory Commission
+ATTN: Ms. Michelle P. Catts, NRC Senior Resident Inspector
+84 70 River Road
+Southport, NC 28461-8869
+U. S. Nuclear Regulatory Commission
+ATTN: Mr. Andrew Hon (Mail Stop OWFN 8G9A) (Electronic Copy Only)
+11555 Rockville Pike
+Rockville, MD 20852-2738
+Chair - North Carolina Utilities Commission (Electronic Copy Only)
+4325 Mail Service Center
+Raleigh, NC 27699-4300
+swatson@ncuc.net
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+l.6' Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+~
+~ I1:l LICENSEE EVENT REPORT (LEA)
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+\~ ....... ..J (See Page 2 for required number of digits/characters for each block) to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R.3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+httg://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3l) number, the NRC may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Brunswick Steam Electric Plant (BSEP), Unit 2 05000324 1 OF 4
+4. TITLE
+High Pressure Coolant Injection System Inoperable due to Failed Relay Coil
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L R N E O V . MONTH DAY YEAR 05000
+- FACILITY NAME DOCKET NUMBER
+07 05 2016 2016 - 002 00 08 29 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 1 O CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3}(i} 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201(d} 20.2203(aH3Hii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) so.13(a)(2)(m) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2}(i) 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv}(A) 50.73(a}(2}(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c}(1 }(ii)(A) 50.73(a)(2}(v}(A) 13.11 (a)(4)
+D D D D
+20.2203(a}(2)(iii) so.3s(c}(2} 50.73(a)(2)(v)(B) 13.11 (a)(s)
+D D D D
+20.2203(a)(2}(iv) so.4s(aH3Hii) 50.73(a)(2)(v)(C) 13.77(a)(1)
+100 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) ~ 50.73(a)(2)(v)(D) D 13.11(a)(2)(i)
+D D D D
+20.2203(a)(2}(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(aH2Hii)
+D D
+II 50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONT ACT rELEPHONE NUMBER (Include Area Code)
+Lee Grzeck, Manager-Regulatory Affairs (910) 457-2487
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+x y
+BJ CL G080
+1~SUPPLEMENTALREPORTEXPECTED 15. EXPECTED MONTH DAY YEAR
+0 SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) ~NO DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 5, 2016, at 1640 Eastern Daylight Time (EDT), the Unit 2 High Pressure Coolant Injection (HPCI) system was
+declared inoperable due to apparent failure of the HPCI Auxiliary Oil Pump. The HPCI Auxiliary Oil Pump provides
+hydraulic pressure required to open the HPCI Turbine Stop Valve and the HPCI Turbine Control Valve during initial
+HPCI startup. Failure of the HPCI Auxiliary Oil Pump prevents the HPCI system from performing its safety function.
+This condition is being reported in accordance with 1O CFR 50. 73(a)(2)(v)(D), as an event or condition that could have
+prevented the fulfillment of the safety function of a system that is needed to mitigate the consequences of an accident.
+The HPCI system inoperability was due to loss of control power for the Auxiliary Oil Pump. The loss of control power
+was caused by a failed motor overload alarm relay coil; which caused current flow in excess of the control power fuse
+rating. The HPCI system was restored on July 6, 2016, at 1050 EDT. The alarm relay coil failure was age related.
+The corrective actions include creation of preventive maintenance tasks to replace the Unit 1 and 2 HPCI motor
+overload alarm relay coils on an appropriate frequency.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06·2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~.,_,"1-flill.£011'-t>o comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T·5
+{ ? <'. ~'"i LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555·0001, or by e-mail to
+~ . ~ ..... , ..~... . · l CONTINUATION SHEET N ln E fo O co B l - le 10 ct 2 s 0 .R 2, e s (3 o 1 u 5 rc 0 e -0 @ 10 n 4 rc ), . g O o f v fi , c e a n o d f t M o a th n e a g D em es e k n O t a ff n ic d e r B , u O d f g fi e c t e , W of a In sh fo in rm gt a o t n io , n D a C n d 2 0 R 5 e 0 g 3 u . lat I o f r a y A m f e fa a ir n s s ,
+used to impose an information collection does not display a currently valid OMB control number, the
+{See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR NUMBER NO.
+05000-324
+Unit 2
+2016 - 002 00
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+Background
+Initial Conditions
+At the time of this event, Unit 2 was in Mode 1 at approximately 100 percent of rated thermal power. The
+Reactor Core Isolation Cooling (RCIC) system [BN], Automatic Depressurization System (ADS), Low
+Pressure Coolant Injection (LPCI) system [BO], and Core Spray (CS) system [BM] were operable at the
+time of the event.
+Reportability Criteria
+This condition is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D), as an event or condition
+that could have prevented the fulfillment of the safety function of a system that is needed to mitigate the
+consequences of an accident. The NRC was initially notified of this event on July 5, 2016 (i.e., Event
+Number 52064).
+Event Description
+On July 5, 2016, at 1640 Eastern Daylight Time (EDT), the Unit 2 High Pressure Coolant Injection (HPCI)
+system [BJ] was declared inoperable after the control room received annunciator 2-A-1 (3-3), 11HPCI Aux
+Oil Pump Motor Overload.11 Upon further investigation, it was determined that the HPCI Auxiliary Oil Pump
+motor overload alarm relay (i.e., 2-2XDA-B11-74) had failed and blown the associated control circuit fuse
+(i.e., 2-2XDA-B11-2FU). The HPCI Auxiliary Oil Pump provides hydraulic pressure required to open the
+HPCI Turbine Stop Valve and the HPCI Turbine Control Valve during initial HPCI startup. With failure of
+the relay, the HPCI Auxiliary Oil Pump was incapable of starting; rendering the HPCI system inoperable.
+Operability of the HPCI system was restored on July 6, 2016, at 1050 EDT.
+Event Cause
+The cause of the Unit 2 HPCI inoperability was determined to be age related failure of HPCI Auxiliary Oil
+Pump motor overload alarm relay (i.e., 2-2XDA-B11-74) coil.
+The failed relay is normally energized and was original plant equipment. The equipment reliability
+classification was 11lmportant" as opposed to "Critical." Based on this classification, preventive
+maintenance had not been performed to replace the Unit 2 relay.
+The Unit 1 HPCI Auxiliary Oil Pump motor overload alarm relay was last replaced in January 1995.
+NRC FORM 366A (06-2016) Page _2_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
++.:,~""'"'ltEOut..,,.o., i comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+[ t.t'$~ c . LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+~~"..o.... . ·/ CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LEA NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR NUMBER NO.
+05000-324
+Unit 2
+2016 - 002 00
+NARRATIVE
+Safety Assessment
+The safety significance of this event was minimal. The RCIC system, ADS, LPCI system, and CS system
+were all operable at the time of the event. The HPCI system was restored to operable status within the
+14-day Technical Specification Completion Time.
+Corrective Actions
+Any changes to the corrective actions and schedules noted below will be made in accordance with the
+site•s corrective action program.
+The following corrective actions have been completed or are planned.
+• Operability of the HPCI system was restored on July 6, 2016, at 1050 EDT.
+• Preventive Maintenance tasks to replace the Unit 1 and Unit 2 HPCI Auxiliary Oil Pump motor
+overload relays, on an appropriate frequency, will be created. This is currently scheduled to be
+completed by November 4, 2016.
+• The equipment reliability classifications for the Unit 1 and Unit 2 HPCI Auxiliary Oil Pump motor
+overload relays will be changed to 11Critical.11 This is currently scheduled to be completed by
+November 11, 2016.
+• A review of control wiring diagrams for Mitigating Systems Performance Index (MSPI) monitored
+components will be performed to identify components with 11lmportant11 equipment reliability
+classification. This review will either document classification is correct or change to critical if
+appropriate and implement appropriate preventive maintenance strategies. This is currently
+scheduled to be completed by December 15, 2016.
+Previous Similar Events
+A review of LERs and condition reports for the past five years identified the following previous similar
+occurrences.
+• LER 1-2015-001, Revision 1, dated December 21, 2015, reported inoperability of the Unit 1 HPCI
+system due to 'a faulty magnetic motor contactor coil (i.e., M-coil) within the HPCI turbine auxiliary
+oil pump motor contactor 1-1 XDA-811-M. The failure of the coil was determined to be most likely
+long term thermal cycling. The coil was replaced and the HPCI system was returned to operable
+status on February 20, 2015. Based on the age of the M-coil, a one-time replacement is expected
+to prevent recurrence of this failure through the end of licensed operation for BSEP. Therefore,
+no periodic replacement was recommended. Corrective actions associated with this LER were
+component level/function level and, therefore, would not be expected to prevent recurrence of
+HPCI system inoperability.
+NRC FORM 366A (06-2016) Page _3_ of _4_
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+~~"'fl'-~ R£o"t.. "'o comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+l <!"' ~~ LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+~~ .; CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+~,,." .........' +d-"' NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currenUy valid OMB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nureqs/staff/sr1022/r3D collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Brunswick Steam Electric Plant (BSEP), YEAR NUMBER NO.
+05000-324
+Unit 2
+2016 - 002 00
+NARRATIVE
+• LER 1-2012-004, dated June 29, 2012, reported HPCI system inoperability due to the erratic
+HPCI governor operation caused by a failed ramp generator signal converter (RGSC) operational
+amplifier. The root cause of the RGSC failure is the lack of a replacement preventive
+maintenance (PM) task for the RGSC. The corrective action to prevent recurrence for this event
+was to establish the appropriate PM for periodic replacement of the RGSC on both units' HPCI
+systems. Corrective actions associated with this LER were component level/function level and,
+therefore, would not be expected to prevent recurrence of HPCI system inoperability.
+Commitments
+No regulatory commitments are contained in this report.
+NRC FORM 366A (06-2016) Page _4_ of _4_

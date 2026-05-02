@@ -1,0 +1,242 @@
+•
+Entergy Nuclear Northeast
+Entergy
+Entergy Nuclear Operations, Inc.
+"'P
+James A. FitzPatrick NPP
+P.O. Box 110
+Lycoming, NY 13093
+Tel 315-349-6024 Fax 315-349-6480
+Brian R. Sullivan
+Site Vice President - JAF
+JAFP-16-0175
+November 17, 2016
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: LER: 2016-005, Degraded Damper Actuator Prevented Control Room
+Ventilation Exhaust Fan Start
+James A. FitzPatrick Nuclear Power Plant
+Docket No. 50-333
+License No. DPR-59
+Dear Sir or Madam:
+This report is submitted in accordance with 10 CFR 50.73(a)(2)(i)(B).
+There are no new regulatory commitments contained in this report.
+Questions concerning this report may be addressed to Mr. William Drews, Regulatory
+Assurance Manager, at (315) 349-6562.
+"'"'
+Sinc g erely c // - 1~ ~ (_ A 1 k i J .{.,, >~l(;v._., j
+Brian f.s~ullivan
+Site Vice President
+BRS/WD/mh
+Enclosure: JAF LER 2016-005, Degraded Damper Actuator Prevented Control Room
+Ventilation Exhaust Fan Start
+cc: USNRC, Region I Administrator
+USNRC, Project Manager
+USNRC, Resident Inspector
+INPO Records Center (ICES)
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+James A. FitzPatrick Nuclear Power Plant
+05000333 1 OF 4
+4. TITLE
+Degraded Damper Actuator Prevented Control Room Ventilation Exhaust Fan Start
+5. EVENT DATE 6. LER NUMBER 7.REPORTDATE 8.OTHER FACILITIES INVOLVED
+SEQUENTIAL REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+FACILITY NAME DOCKET NUMBER
+9 19 2016 2016 - 005 - 00 11 17 2016 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTEDPURSUANTTOTHEREQUIREMENTSOF 10 CFR §: (Checkallthatapply)
+ 20.2201(b)  20.2203(a)(3)(i)  50.73(a)(2)(ii)(A)  50.73(a)(2)(viii)(A)
+ 20.2201(d)  20.2203(a)(3)(ii)  50.73(a)(2)(ii)(B)  50.73(a)(2)(viii)(B)
+1
+ 20.2203(a)(1)  20.2203(a)(4)  50.73(a)(2)(iii)  50.73(a)(2)(ix)(A)
+ 20.2203(a)(2)(i)  50.36(c)(1)(i)(A)  50.73(a)(2)(iv)(A)  50.73(a)(2)(x)
+10. POWER LEVEL  20.2203(a)(2)(ii)  50.36(c)(1)(ii)(A)  50.73(a)(2)(v)(A)  73.71(a)(4)
+ 20.2203(a)(2)(iii)  50.36(c)(2)  50.73(a)(2)(v)(B)  73.71(a)(5)
+ 20.2203(a)(2)(iv)  50.46(a)(3)(ii)  50.73(a)(2)(v)(C)  73.77(a)(1)
+54  20.2203(a)(2)(v)  50.73(a)(2)(i)(A)  50.73(a)(2)(v)(D)  73.77(a)(2)(i)
+ 20.2203(a)(2)(vi)  50.73(a)(2)(i)(B)  50.73(a)(2)(vii)  73.77(a)(2)(ii)
+ 50.73(a)(2)(i)(C)  OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACTFORTHISLER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Mr. William Drews, Regulatory Assurance Manager 315-349-6562
+13. COMPLETE ONE LINE FOREACHCOMPONENTFAILUREDESCRIBEDINTHIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+X VI CDMP H260 N
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+ YES (If yes, complete 15. EXPECTED SUBMISSION DATE)  NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 19, 2016, the Control Room Ventilation exhaust fan 70FN-4A did not start when it was being
+placed into service. The fan outlet isolation damper actuator 70MOD-108A(OP) failed to give the fully-open
+permissive signal to start the fan. Gentle pressure on the actuator linkage allowed the fan to start. Prior to this,
+on August 16, 2016, during post-maintenance testing, 70FN-4A did not start. Troubleshooting adjusted the
+linkage and the fan started as appropriate. However, the intermittent fan start issue was caused by the degraded
+damper actuator 70MOD-108A(OP). Corrective action replaced 70MOD-108A(OP).
+This event is reportable per 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 005 – 00
+NARRATIVE
+Background
+The James A. FitzPatrick Nuclear Power Plant (JAF) Control Room Air Conditioning (AC) System [EIIS
+identifier: VI] and the Control Room Emergency Ventilation Air Supply (CREVAS) System [VI] (a mode of the
+Control Room AC) provides a protected environment from which occupants can control the plant during normal
+conditions and following an uncontrolled release of radioactivity, hazardous chemicals, or smoke.
+The Control Room AC System and CREVAS System consists of two redundant subsystems that provide
+recirculated control room air. A single subsystem is sufficient to maintain a suitable control room environment
+for a sustained occupancy of 20 persons. Each subsystem consists of air handling units, recirculation exhaust
+fans, air handling unit fans, ductwork, dampers, and associated Instrumentation and controls; and, each
+CREVAS subsystem consists of a series of filters, a control room emergency air supply fan, valves or
+dampers, doors, barriers and instrumentation.
+The recirculation / exhaust fans consist of two full capacity fans for the Control Room. The intake air supply is
+mixed with air from one of the recirculation / exhaust fans before it is recirculated back to the room. One
+Control Room exhaust fan runs at all times to support the normal or emergency mode while the other fan is on
+standby. Normally these exhaust fans are swapped manually. An automatic start function occurs only if the
+running exhaust fan stops.
+This Licensee Event Report (LER) addresses the ability to start one of the Control Room recirculation /
+exhaust fans (70FN-4A).
+Event Description
+On September 19, 2016, JAF was at 54 percent power when the Control Room Ventilation recirculation /
+exhaust fan lineup was being changed to place 70FN-4A inservice when it did not start as expected. A second
+attempt to start the fan was successful when gentle pressure was applied to assist the linkage between the
+damper (70MOD-108A) and motor actuator (70MOD-108A(OP)). This damper is located on the outlet to
+70FN-4A.
+To maintain the operability of 70FN-4A, it was placed in service as the lead fan with 70FN-4B in standby. In
+addition, a manual Operator compensatory action was developed to have an Operator dispatched to assist the
+damper linkage in the event that an exhaust fan does not start. This compensatory action requires a short
+transit from the Control Room to the Control Room Ventilation Equipment room.
+Event Analysis
+The switch in the Control Room begins the sequence to start the fan (70FN-4A) by opening its associated
+damper (70MOD-108A). The circuit logic starts the fan after a time delay so the damper has time to open; but,
+it only starts the fan if there is a permissive signal that the damper has fully opened. The open permissive
+signal originates from a position switch integral / internal to the damper actuator (70MOD-108A(OP)) itself.
+When gentle pressure was applied to assist the damper linkage during the event, it caused the actuator to
+complete its motion and close the contact for the permissive signal and initiate the fan start.
+Prior to this event, on August 16, 2016, 70FN-4A did not start during post maintenance testing. In addition, the
+time delay start logic relay (70-62-1CRVA04) was found out-of-tolerance and damper position indication in the
+Control Room was dual. Indication in the Control Room for damper position comes from position switches
+70PNS-108A1 and 70PNS-108A2. However, these position switches are for indication only and they do not
+Page 2 of 4
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 005 – 00
+provide the permissive signal. The corrective actions were to make a minor adjustment to the damper linkage,
+lubricate and clean moving parts, and re-calibrate 70-62-1CRVA04. The damper was tested and 70FN-4A
+started successfully with appropriate Control Room damper position indication. The damper actuator 70MOD-
+108A(OP) was not replaced at that time.
+After the event on September 19, 2016, the damper actuator 70MOD-108A(OP) was replaced.
+Troubleshooting identified that the old damper actuator was slow / degraded compared to the new damper
+actuator. If 70MOD-108A(OP) were slow or did not fully actuate the internal position switch then 70FN-4A
+would not receive a permissive signal to start.
+The inconsistent and degrading damper actuator performance began to affect system operability on August
+16, 2016. This deficiency prevented the reliability of one of two redundant subsystems of the Technical
+Specification (TS) 3.7.4 Control Room AC System and TS 3.7.3 CREVAS system. If one CREVAS subsystem
+is inoperable then Required Action A.1 of TS 3.7.3 requires that it be restored within 7 days. If the completion
+time of Condition A were not met then Required Action C.1 requires that the plant be in Mode 3 within 12
+hours and subsequently be in Mode 4 within 36 hours. Similarly, if one Control Room AC System is inoperable
+then Required Action A.1 of TS 3.7.4 requires that it be restored within 30 days. If the completion time of
+Condition A were not met then Required Action C.1 requires that the plant be in Mode 3 within 12 hours and
+subsequently be in Mode 4 within 36 hours. In both cases, the allowed out-of-service time was exceeded. This
+is a condition prohibited by Technical Specifications; reportable under 10 CFR 50.73(a)(2)(i)(B).
+Cause
+Degraded damper actuator 70MOD-108A(OP) affected the ability of the Control Room Ventilation recirculation
+/ exhaust fan 70FN-4A to start reliably.
+Similar Events
+There were no other identical failures of 70MOD-108A(OP) historically. However, similar ventilation damper
+actuator problems have occurred on other components.
+April 8, 2005: The relay room exhaust isolation damper 70MOD-102A did not reach full open before the time
+delay relay timed out. A new damper actuator was installed. (CR-JAF-2005-01396)
+June 7, 2007: The Control Room air handling unit 70AHU-3A starts but the damper 70MOD-106A did not
+appear to be opening. This was caused by the damper actuator and was corrected when it was replaced. (CR-
+JAF-2007-02124)
+August 5, 2011: The control room supply fan 70AHU-3A discharge damper 70MOD-106A will not open on
+initiation of fan start. This was caused by inadequate damper and damper linkage lubrication which increased
+the resistance to proper damper actuator performance. (CR-JAF-2011-04043)
+FAILED COMPONENT IDENTIFICATION:
+Manufacturer: Honeywell Inc
+Manufacturer Model Number: M8185D1006
+NPRDS Manufacturer Code: H260
+NPRDS Component Code: VALVOP
+FitzPatrick Component ID: 70MOD-108A(OP)
+Page 3 of 4
+NRC FORM 366A (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+James A. FitzPatrick Nuclear Power Plant 05000 – 333 NUMBER N0.
+2016 – 005 – 00
+Corrective Actions
+Completed Actions
+ 70MOD-108A(OP) replaced and tested.
+ A manual Operator action was evaluated and incorporated into procedure OP-55B and ST-18.
+Future Actions
+ Evaluate changes to the preventative maintenance activities for 70MOD-108A(OP).
+ Evaluate the need to replace similar damper actuators.
+Safety Significance
+There was no actual radiological or nuclear safety consequence during this event.
+The condition where 70FN-4A would not reliably start existed between August and September 2016. During
+this time, the “B” Control Room exhaust fan remained available to perform the required safety function. This
+deficiency affected the redundant “A” Control Room exhaust fan to start reliably; either, manually or
+automatically in response to a failure of the “B” exhaust fan.
+If the “A” Control Room exhaust fan was needed, and did not start, a plant Operator could manually correct the
+deficiency by traveling to the damper actuator location and locally assisting the damper linkage. When the
+deficiency was identified in September 2016, this manual Operator action was evaluated and accepted as a
+compensatory measure. Based on the calculated accumulated doses which could be received in these areas
+for the various design basis accidents combined with the relatively short period of time needed to perform this
+compensatory action, the increase in dose that could be incurred during the performance of this compensatory
+action would be negligible when compared to the dose that would be received by maintaining continuous
+occupancy in the Control Room.
+References
+ Condition Report: CR-JAF-2016-03593, September 19, 2016
+ Condition Report: CR-JAF-2016-03116, August 16, 2016
+Page 4 of 4
+NRC FORM 366A (06-2016)

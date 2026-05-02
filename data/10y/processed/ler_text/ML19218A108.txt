@@ -1,0 +1,266 @@
+-------------------~ -------------------------
+--~
+-- '7 Exelon Generation(ID
+ftt:·:t:'::...,;:Jf:"
+10 CFR 50.73
+NMP1L3305
+August 2, 2019
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Nine Mile Point Nuclear Station, Unit 1
+Renewed Facility Operating License No. DPR-63
+Docket No. 50-220
+Subject: NMP1 Licensee Event Report 2019-003, Revision 1, Manual Reactor Scram Due
+to Pressure and Power Oscillations
+The original NMP1 LER 2019-003 was submitted June 28, 2019. Enclosed is NMP1 Licensee
+Event Report (LER) 2019-003, Revision 1, Manual Reactor Scram Due to Pressure and Power
+Oscillations. This revision is to provide additional details on the cause of the event and the
+corrective actions following completion of the root cause analysis.
+There are no regulatory commitments contained in this letter.
+Should you have any questions regarding the information in this submittal, please contact
+Brandon Shultz, Site Regulatory Assurance Manager, at (315) 349-7012.
+Respectfully,
+~,~-~,
+Plant Manager, Nine Mile Point Nuclear Station
+Exelon Generation Company, LLC
+TAT/DJW
+Enclosure: NMP1 Licensee Event Report 2019-003 Revision 1, Manual Reactor Scram Due
+to Pressure and Power Oscillations.
+cc: NRG Regional Administrator, Region I
+NRG Resident Inspector
+NRG Project Manager
+August2,2019
+NMP1 LER 2019-003, Revision 1
+Page 2
+bee: P. M. Orphanos
+T. A. Tierney
+J. Barstow
+B. K. Shultz
+S. Brannan Cole
+D. P. Ferraro
+H.Apa
+COMMITMENTS IDENTIFIED IN THIS CORRESPONDENCE
+• None
+Enclosure
+NMP1 Licensee Event 2019-003, Revision 1
+Manual Reactor Scram Due to Pressure and Power Oscillations
+Nine Mile Point Nuclear Station, Unit 1
+Renewed Facility Operating License No. DPR-63
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+.; ~~·~ Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+\~..-..~. ) ~ LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+(See Page 2 for required number of digits/characters for each block) Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+(See NUREG-1022, R.3 for instruction and guidance for completing this form used to impose an information collection does not display a currently valid 0MB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+htt1,1://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Nine Mile Point Unit 1 05000220 1 OF 4
+4. TITLE
+Manual Reactor Scram due to Pressure and Power Oscillations
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+I FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR N/A N/A
+FACILITY NAME DOCKET NUMBER
+04 29 2019 2019 - 003 - 01 06 28 2019 N/A N/A
+9. OPERA TING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201(bl 20.2203(aJ(3Hil 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (dl 20.2203(a)(3)(iil 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+N
+D D D D
+20.2203(aJ(1) 20.2203(a)(4) so.13(aJ(2J(iiil 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2J(il D 50.36(c)(1)(i)(A) 1:8] 50.73(a)(2)(iv)(A) D 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(al(4l
+D D D D
+20.2203(aJ(2J(iiil so.3s(cJ(2J 50.73(a)(2)(v)(B) 13.11(aJ(sJ
+D 20.2203(a)(2)(iv) D so.4s(aJ(3J(iil D 50.73(a)(2)(v)(C) D 13.77(aJ(1J
+084 D 20.2203(a)(2)(v) D 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73. n(aJ(2J(il
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(aJ(2)(ii)
+,,
+.\0 >. ::, : D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Brandon Shultz, Site Regulatory Assurance Manager (315) 349-7012
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX 1: CAUSE SYSTEM COMPONENT FACTURER TOEPIX
+X JJ RG GE y ll N/A N/A N/A N/A N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) 1:8] NO SUB D M A IS T S E I ON N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 29, 2019 at 16:33, Nine Mile Point Unit 1 inserted a manual reactor scram due to pressure and power
+oscillations. The High Pressure Coolant Injection (HPCI) System automatically initiated, on low reactor vessel
+water level, as designed. This event is reportable under 10 CFR 50. 73(a)(2)(iv)(A) as any event or condition
+that resulted in a manual or automatic actuation of any of the systems listed in 10 CFR 50.73(a)(2)(iv)(B).
+The cause of the event is the organization did not effectively incorporate appropriate learnings from previous
+NMP events and operating history that would have provided adequate flexibility in the operating strategy to
+mitigate the risks of increased oscillations. The scope of the corrective actions is to incorporate operational
+history and events into Special Operating Procedures (SOPs)
+The event described in this LER is documented in the plant's corrective action program.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 1 05000220 NUMBER NO.
+2019 - 003 01
+NARRATIVE
+I. DESCRIPTION OF EVENT
+A. PRp-EVENT PLANT CONDITIONS:
+Prior to the event, Nine Mile Point Unit 1 (NMP1) was in the Power Operating Condition at
+I
+84.6% reactor power. Power ascension was in progress.
+B. EVENT:
+On April 29, 2019, at approximately 16:30, NMP1 experienced oscillations in reactor pressure,
+level and power during power ascension. A manual reactor scram was inserted when the
+procedural limits were reached.
+The scram resulted in shrink of the water level in the reactor vessel and the low level set point
+was reached. This resulted in a HPCI initiation as designed.
+Nine Mile Point Unit 2 (NMP2) was unaffected by the scram at NMP1.
+Operations performed the ENS notification (#54035) required by 10 CFR 50.72(b)(2)(iv)(B)
+and 10 CFR 50.72(b)(3)(iv)(A) for the reactor scram and specified system activations.
+This event has been entered into the plant's corrective action program as IR 4244521.
+C. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO
+THE EVENT:
+No other systems, structures, or components contributed to this event.
+D. DAT ES AND APPROXIMATE TIMES OF MAJOR OCCURRENCES AND OPERAT OR
+ACTIONS:
+The dates, times, and major occurrences and operator actions for this event are:
+April 29, 2019
+16:29-Control Rod 14-39 withdrawn to position 30 from position 08
+16:29-0perators observe reactor power, pressure and level oscillations
+16:30-0perator places the feedwater flow control valve in manual to check for controller
+malfunction
+16:30-0perators enter SOP for pressure regulator malfunctions
+16:33-Mode switch placed in shutdown
+16:33-HPCI initiation due to low reactor vessel water level
+16:34-HPCI reset
+NRC FORM 366A (04-2017) Page _2_ of _4_
+.
+'
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRC may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30 collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 1 05000220 NUMBER NO.
+2019 - 003 01
+NARRATIVE
+E. METHOD OF DISCOVERY:
+This event was discovered by Reactor Operators when the reactor pressure, level and
+power oscillations were observed in the control room.
+F. SAFETY SYSTEM RESPONSES:
+All safety systems responded per design.
+II. CAUSE OF EVENT:
+The organization did not effectively incorporate appropriate learnings from previous NMP
+events and operating history that would have provided adequate flexibility in the operating
+strategy to mitigate the risks of increased oscillations. The Nine Mile Point U1 operational
+strategy did not provide flexibility or incorporate an exit strategy from the oscillation region.
+III. ANALYSIS OF THE EVENT:
+The reactor scram and specified system activation is reportable under 10 CFR
+50.73(a)(2)(iv)(A), as any event or condition that resulted in manual or automatic action of
+any of the specified systems listed in 10 CFR 50. 73(a)(2)(iv)(B).
+The non-optimal tuning resulted in EPR pressure control issues in the 80-90% power
+region during reactor startup that produced reactor pressure, level and power oscillations
+greater than those allowed without a backup pressure regulator available. A manual
+reactor scram was inserted per procedure.
+All other plant systems performed per design. Plant parameters, other than the pressure, level
+and power oscillations, remained within normal values throughout the event. There was no
+loss of offsite power to the onsite emergency buses, the HPCI mode of feed and condensate
+system initiated as designed on the low reactor water level signal.
+Based on the above discussion, it is concluded that the safety significance of this event is
+low and the event did not pose a threat to the health and safety of the public or plant
+personnel.
+This event does affect the NRC Regulatory Oversight Process Indicator for unplanned
+scrams per 7000 hours of critical operation.
+IV. CORRECTIVE ACTIONS:
+A. ACTION TAKEN TO RETURN AFFECTED SYSTEMS TO PRE-EVENT NORMAL
+STATUS:
+NRC FORM 366A (04-2017) Page _3_ of _4_
+••
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+LICENSEE EVENT REPORT (LER) Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Res'ource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid 0MB control number, the
+(See NUREG-1022, R.3 for instruction and guidance for completing this form NRG may not conduct or sponsor, and a person is not required to respond to, the information
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+YEAR
+Nine Mile Point Unit 1 05000220 NUMBER NO.
+2019 - 003 01
+NARRATIVE
+Replaced bean valve and flushed/cleaned MPR sensing line. Tuning of the Turbine
+Control systems was completed prior to return to service.
+B. ACTION TAKEN OR PLANNED TO PREVENT RECURRENCE:
+N1-SOP-31.2, "Pressure Regulator Malfunctions" has been revised to allow margin for
+expected oscillations. SOPs that direct a unit to shutdown or derate will be reviewed and
+revised as needed to incorporate the lessons learned pertaining to providing appropriate
+operational flexibility.
+V. ADDITIONAL INFORMATION:
+A. FAILED COMPONENTS:
+Tuning of the EPR was not optimal. There were no individual component failures.
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+NMP1 LER 2017-002, submitted May 18, 2017, was due to pressure oscillations at 4%.
+power. The cause of that event was a partial blockage within the MPR sensing line
+coupled with hysteresis found within the cylinder stroke of the Mechanical Hydraulic
+Control (MHC) Bypass Relay. The actions to prevent recurrence in 2017 included:
+1. Implementation of a two-year preventive maintenance activity for routine flushing and
+filling of the pressure sensing bellows line and associated piping with contingencies to
+replace when required.
+2. Revision of associated procedures to include steps to flush and backfill sensing lines.
+3. Revised the Turbine Trip Test procedure.
+These actions do not ensure the EPR is optimally tuned and would not have prevented
+this event.
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION
+IDENTIFIER AND SYSTEM NAME OF EACH COMPONENT OR SYSTEM REFERRED TO
+IN THIS LER:
+IEEE 803 IEEE 805
+COMPONENT FUNCTION SYSTEM
+IDENTIFIER IDENTIFICATION
+Reactor Pressure Vessel RPV AD
+Feedwater Level Control System N/A JB
+High Pressure Coolant Injection System N/A BJ
+Reactor Protection System N/A JC
+Turbine Control System N/A JJ
+Electronic Pressure Regulator RG JJ
+NRG FORM 366A (04-2017) Page _4_ of _4_

@@ -1,0 +1,203 @@
+'
+Exelon Generation
+10CFR50.73
+LG-16-060
+May 18, 2016
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Limerick Generating Station, Unit 1
+Renewed Facility Operating License No. NPF-39
+NRG Docket No. 50-352
+Subject: LER 2016-003-00, Plant Shutdown Required by Technical Specifications
+This Licensee Event Report (LER) addresses a plant shutdown required by Technical
+Specifications. This LER also reports an event that resulted in the condition of the plant,
+including its reactor coolant system pressure boundary, being degraded. This LER is being
+submitted pursuant to the requirements of 10CFR50.73(a)(2)(i)(A) and 10CFR50.73(a)(2)(ii)(A).
+There are no commitments contained in this letter.
+If you have any questions, please contact Robert 8. Dickinson at (610) 718-3400.
+Respectfully,
+~~
+Richard W. Libra
+Vice President - Limerick Generating Station
+Exelon Generation Company, LLC
+cc: Administrator Region I, USNRC
+USNRC Senior Resident Inspector, LGS
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+LICENSEE EVENT REPORT (LER) Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+(See Page 2 for required number of Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC
+digits/characters for each block)
+20503. If a means used to impose an information collection does not display a currently valid OMB
+control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Limerick Generating Station, Unit 1 05000352 1 OF 3
+4. TITLE
+Plant Shutdown Required by Technical Specification Due to a Pressure Boundary Leak
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR 05000
+NUMBER NO.
+FACILITY NAME DOCKET NUMBER
+03 20 2016 2016 - 003 - 00 05 18 2016 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(B) 73.71(a)(5)
+14.5
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) OTHER
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) S
+N
+p
+R
+e
+C
+c i
+F
+fy
+o
+i
+r
+n
+m
+A
+3
+b
+6
+s
+6
+tr
+A
+a ct below or in
+12. LICENSEE CONTACT FOR THIS LER
+FACILITY NAME TELEPHONE NUMBER (Include Area Code)
+Robert B. Dickinson, Manager – Regulatory Assurance 610-718-3400
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B BO ISV A585 Y
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+Reactor coolant system pressure boundary leakage was identified by a drywell leak inspection
+team during a planned shutdown for a Unit 1 refueling outage. This event resulted in a plant
+shutdown required by Technical Specifications. The Unit 1 ‘A’ RHR Shutdown Cooling Return
+Check Valve equalizing line developed a crack at the toe of a weld due to high cyclic fatigue
+induced by vibration from the reactor recirculation system. The Unit 1 welds were reworked to
+EPRI 2x1 at select locations on the “A” and “B” RHR Shutdown Cooling Return check valve
+equalizing lines for HV-051-1F050A and 50B. The similar Unit 2 welds on equalizing lines for
+HV-051-2F050A and 50B will be examined and reinforced. The scope will be added into the
+next refueling outage (2R14) currently scheduled for April 2017.
+NRC FORM 366 (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 01/31/2017
+(01-2014)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+LICENSEE EVENT REPORT (LER) internet e-mail to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information
+and Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+CONTINUATION SHEET Washington, DC 20503. If a means used to impose an information collection does not display a
+currently valid OMB control number, the NRC may not conduct or sponsor, and a person is not
+required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+YEAR NUMBER NO.
+Limerick Generating Station, Unit 1 05000352 2 OF 3
+2016 - 003 - 00
+NARRATIVE
+Unit Conditions Prior to the Event
+Unit 1 was in Operational Condition (OPCON) 1 (Power Operation) at approximately 14.5
+percent power performing a planned Unit 1 shutdown to support a refueling outage. There were
+no structures, systems or components out of service that contributed to this event.
+Description of the Event
+On Sunday March 20, 2016, Limerick Unit 1 was operating at 14.5 percent power performing a
+planned Unit 1 shutdown to support a refueling outage (1R16). At 2154 hours, the drywell leak
+inspection team identified a 0.5 gpm pressure boundary leak on the shutdown cooling (BO:EIIS)
+testable check valve (ISV:EIIS) equalizing line. The control room supervisor (CRS) entered
+Technical Specification (TS) 3.4.3.2 Reactor Coolant System - Operational Leakage Action “a”
+which requires being in at least Hot Shutdown within 12 hours and Cold Shutdown within the
+next 24 hours. The 12 hour Hot Shutdown TS Action was met at 0133 hours and the 24 hour
+Cold Shutdown Action was met at 1401 hours.
+An investigation determined that Unit 1 Unidentified Leakage increased from 0.03 gpm to 0.06
+gpm between January 16, 2016 and January 18, 2016. Leakage increased to 0.24 gpm on
+January 19, 2016 and continued to vary with reactor recirculation pump speed for the remainder
+of the cycle. The maximum leakage recorded was 1.2 gpm which stabilized at 1.0 gpm following
+power reduction to 95 percent. On March 20, 2016 Maintenance Technicians performed a
+planned drywell entry at 14.5 percent power and identified a leak on the ¾ inch reactor side
+equalizing line of the 1A Shutdown Cooling (SDC) Return Line Inboard Testable Check Primary
+Containment Isolation Valve, HV-051-1F050A. The leak was located approximately ¼ inch from
+the valve body weld and was determined to be pressure boundary leakage.
+A 4-hour ENS (#51809) was completed at 2351 hours as required by 10CFR50.72(b)(2)(i) for
+the initiation of a plant shutdown required by TS. The ENS also reported an event that resulted
+in the condition of the plant principal safety barriers being seriously degraded per
+10CFR50.72(b)(3)(ii). Therefore, this LER is being submitted pursuant to the requirements of
+10CFR50.73(a)(2)(i)(A) and 10CFR50.73(a)(2)(ii)(A).
+Analysis of the Event
+There was no actual safety consequence associated with this event. The potential safety
+consequences of this event were minimal. The Unidentified Leakage remained a small fraction
+of the 5 gpm TS 3.4.3.2 LCO. HPCI was unavailable less than 29 minutes due to testing and
+RCIC was unavailable for less than 13 hours due to maintenance and testing during the three
+month period (January, February and March of 2016) of elevated drywell leakage. HPCI is
+designed to prevent the actuation of the automatic depressurization system (ADS) and ensure
+that the reactor core remains covered in the event of a small pipe break size of one-inch
+diameter or less.
+NRC FORM 366A (01-2014)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION
+(01-2014) LICENSEE EVENT REPORT (LER)
+CONTINUATION SHEET
+1. FACILITY NAME 2. DOCKET 6. LER NUMBER 3. PAGE
+SEQUENTIAL REV
+Limerick Generating Station, Unit 1 YEAR NUMBER NO.
+05000352 3 OF 3
+2016 - 003 - 00
+NARRATIVE
+The SDC return is a 12-inch diameter line equipped with an outboard motor operated valve
+(MOV) primary containment isolation valve (PCIV) and an inboard testable check valve PCIV.
+The testable check valve has a bypass line that is equipped with an air operated valve (AOV)
+PCIV which is used to equalize the differential pressure across the testable check valve disc
+when the valve is opened during stroke testing. Testable check valves are also used in similar
+applications on low pressure coolant injection (LPCI) and core spray (CS) injection lines. The
+SDC valve is subject to vibration induced high cycle fatigue due to recirculation pump flow
+induced vibration. The LPCI and CS injection lines’ socket welds are not subject to vibration
+induced high cycle fatigue.
+The affected section of bypass line piping was replaced with a new socket weld with a 2x1 weld
+to improve pipe stability and minimize stresses at the toe as a result of the 2x1 weld
+configuration. A 2x1 weld was also applied at the similar valve body socket welds for the HV-
+051-1F050A residual heat removal (RHR) side and HV-051-1F050B RHR and reactor side
+welds.
+Cause of the Event
+The Unit 1 ‘A’ RHR Shutdown Cooling Return Check Valve equalizing line developed a crack at
+the toe of the weld due to high cyclic fatigue induced by vibration from the reactor recirculation
+system (Apparent Cause).
+Corrective Action Completed
+The Unit 1 welds were reworked to EPRI 2x1 at select locations on the “A” and “B” RHR
+Shutdown Cooling Return check valve equalizing lines for HV-051-1F050A and 50B.
+Corrective Action Planned
+The similar Unit 2 welds on equalizing lines for HV-051-2F050A and 50B will be examined and
+reinforced. The scope will be added into the next refueling outage (2R14) currently scheduled
+for April 2017.
+Previous Similar Occurrences
+There were no previous similar occurrences of pressure boundary leakage in the past 5 years.
+Component data:
+System BO RHR/Low Pressure Coolant Injection System
+Component ISV Valve, Isolation
+Component number HV-051-1F050A
+Manufacturer A585 Weir Valves & Controls USA Inc.
+Model number 50301-A
+Serial Number 2-50301-A
+NRC FORM 366A (01-2014)

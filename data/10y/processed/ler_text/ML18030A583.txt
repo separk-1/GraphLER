@@ -1,0 +1,394 @@
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+January 30, 2018
+10 cFR 50 73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Units 1 and 2
+Facility Operating License Nos. NPF-90 and NPF-96
+NRC Docket Nos. 50-390 and 50-391
+Subject: Licensee Event Report 39012017-012-01, Error in Plant Emergency
+Procedures Leads to a Condition Prohibited by the Technica!
+Specifications
+This submittal provides Licensee Event Report (LER) 39012017-012-01. This LER
+provides details concerning a condition where a procedure error related to use of the
+Essential Raw Cooling Water crosstie resulted in a condition prohibited by the Technical
+Specifications (TS). This condition is being reported as a condition prohibited by TS in
+accordance with 10 CFR 50.73(aX2)(iXB). This supplement addresses the cause and
+corrective actions for this event.
+There are no regulatory commitments contained in this letter. Please direct any questions
+WBN Licensing Manager, at (423) 365-7720.
+Respectfull
+aul Simmons
+Site Vice President
+Watts Bar Nuclear Plant
+Enclosure
+cc: see Page 2
+U.S. Nuclear Regulatory Commission
+Page 2
+January 30,2018
+cc (Enclosure):
+NRC Regional Administrator - Region ll
+NRC Senior Resident lnspector - Watts Bar Nuclear Plant
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY oMB: NO. 31s0-0104 ExptRES: o3tgltzozo
+(04-2017)
+nEo",n, Estimated burden per response to comply with this mandatory collection request: 80 hours.
+r+.--. t€^fn fia^ Reported lessons learned are incorporated into the licensing process and fed back to industry,
+LTGENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the lnformation Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to lnfocollects.
+Resource@nrc,gov, and to the Desk Officer, ffice of lnformation and Regulatory Afiairs,
+NE0B-1 02A2, (3150-0104), ffice of Management and Budget, Washington, DC 20503 lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection,
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Watts Bar Nuclear Plant, Unit 1 05000390 10F7
+4. TITLE
+Error in Plant Emergency Procedures Leads to a condition Prohibited by the Technical specifications
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+MONTHI Ony I yenn YEAR I tt-tYrt#Jf' R N E O V , MONTH I DAY YEAR W F a A t C ts IL B IT a Y r N N A u M cle E a r Plant, Unit 2 @ IOSOOOSS1
+08 23 I 2017 2017 012 01 01 30 2018 FACTLTTYNAME mMaER
+9. OPERATING MODE 11. THIS REPORT lS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 1O CFR g: (Check att that appty)
+tr zo zzol (b) tr zo 22o3(aX3Xi) I 50 73(aX2XiiXA) tr 50 73(aX2Xviii)(A)
+tr zo zzol (d) tr 2o.2zo3(aXsXii) tr 50 73(aX2XiiXB) tr 50 73(a)(2)(viii)(B)
+1 tr zo 22o3(aX1) tr 20 zzo3(aX4) tr 50 73(ax2xiii) tr 50 73(aX2)(ixXA)
+tl 20 2zo3(a)(2)(i) n 50 36(cX1Xi)(A) tr 50 73(aX2XivXA) f] 50 73(aX2Xx)
+10. POWER LEVEL tr zo 22o3(aX2Xii) tr 50 36(cxl XiiXA) X 50 73(a)(2)(v)(A) tr n t1 (aXa)
+tr zo 22o3(aX2Xiii) tl 50 36(c)(2) n 50 73(a)(2XvXB) tr n 71 (aXs)
+I 20 zzo3(a)(2Xiv) tr 50 46(ax3xii) tr 50 73(aX2XvXC) tr rcrr(a)(1)
+100 tr zo zzoi(aX2Xv) I 50 73(aX2XiXA) tr 50 73(aXzXvXD) tr fi r7(ax2xi)
+I za zzo3(aX2Xvi) tr 50 73(aX2XiXB) tr 50 73(aX2Xvii) tr fi rt(aX2Xii)
+tr
+50 73(aX2XiXC) I OTHER Specify in Abstract betow or in NRC Form 3664
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (lnclude Area Code)
+Dean Baker, Licensing Engineer 423-452-4589
+13. coMpLETE oNE LINE FoR EAcH coMpoNENT FATLURE DESCRTBED rN THrs neponi
+cAUSE I svsrervr lcor',reoNENr I ,^t+[H;- l*t?31$,.:Lt CAUSE SYSTEM I conapoNENT FA M C A TU N R U E - R I I REP T O O R E T P A I B X LE
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MoNTHI ony I yenn
+x
+f] vrs (f yes, comptete 15.EXPECTED SU BMt SS/O/V DATE) NO SUBMISSION
+DATE
+ABSTMCT (Limit to 1400 spaces, i.e., approximately 1S singte-spaced typewitten lines)
+On August 23,2017, Watts Bar Nuclear Plant (WBN) identified that procedures 1-E-1 and 2-E-1, Loss of Reactor or
+Secondary Coolant, contained steps to manually open 1-FCV-67-458 in the event of a Train A or B power failure.
+Opening 1-FCV-67-458 would result in the crosstie of Essential Raw Cooling Water (ERCW) Headers 2A and 1B,
+which would lead to providing flow to equipment not operating due to the loss of a train of power. On October 6,2017,
+it was determined that for certain time periods, if a design basis accident had occurred on Unit 2 with a loss of offsite
+power concurrent with a train failure and with 1-FCV-67-458 opened, inadequate ERCW flow would have been
+available to remove decay heat after transfer to cold leg recirculation. This condition only atfected operability of ERCW
+Train A. This is reportable as a condition prohibited by Technical Specification 3.7.8.
+The issue associated with this incorrect procedural step to cross-tie the ERCW trains in 1-E-1 and 2-E-1 was
+addressed as part of actions to resolve an ERCW design and procedure issue documented in Licensee Event Report
+(LER) 390-2017-009. This report, while related, identifies an issue that was not addressed in the prior LER. The
+cause was determined to be the incorrect application of a cross tie requirement associated with 1O CFR 50 Appendix
+R. Corrective action will be to include engineering in the review of procedures affected by complex design changes.
+NRC FORM 366 (04-2017)
+366A
+NRC FORM U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3is0-0104
+(04-2017n
+Estimated burden per response to comply with ilris mandatory collection request 80 hours. Reported
+lessons learned are. incorporated into the licensing process and fed back to industry. Send
+LTCENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re ry ga r C di o n m g m bu i r s d s e i n o n es , tim w a m te h t i o n g th to e n ln , f or D ma C tion 2 S 0 e 5 rv s ic 5 e - s 0 0 B 0 ra 1 n , c h o ( i T -2 b F4 y 3) , U e , - S m . N a u i c l l ea to r
+CONTINUATION SHEET lnfocollects.Resource@lrc.gov, and to the Desk Officer, Office of lnformation and Regulatory Affairs,
+NEOB-10202, (315G0104), ffice of Managenrent and Budget, Washington, DC 20503. lf i means
+ys_e! to impose an information collection does not display a cunently viliO OUg control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+-
+2017 012 r 01
+NARRATIVE
+I PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Watts Bar Nuclear Plant (WBN) Unit 1 was at 100 percent rated thermal power (RTp) . WBN Unit 2 was
+also in Mode 1 at 100 percent power.
+il. DESCRIPTION OF EVENT
+A.
+Event Summary
+On August 23,2017, WBN identified that procedures 1-E-1 and 2-E-1, Loss of Reactor or
+Secondary Coolant, contained steps to manually open 1-FCV{7-458 {EllS:FCV} in the event of a
+Train A or Train B power failure. Opening 1-FCV-67458 would result ih the crosstie of Essential
+Raw Cooling Water (ERCW {EllS:Bl} Headers 2Aand 1B, which woutd lead to providing flow to
+equipment not operating due to the loss of a train of power. On October 6,201i, it was
+determined that for certain time periods, if a design basis accident had occurred on Unit 2 with a
+loss of offsite power concurrent with a train failure and with 1-FCV-674S8 opened, inadequate
+ERCW flow would have been available to remove decay heat after transfer io cold leg
+recirculation. This condition only affected operability of ERCW Train A.
+The issue associated with this incorrect procedural step to cross-tie the ERCW trains in 1-E-1 and
+2-E-1 was addressed as part of actions to resolve an ERCW design and procedure issue
+documented in Licensee Event Report (LER) 390-2017-009. This report, while related, identifies
+an issue that was not addressed in the prior LER.
+This event is being reported to the Nuclear Regulatory Commission (NRC) under
+10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical SpeiiRcations.
+B.
+lnoperable Structures, Components, or Systems that Contributed to the Event
+No inoperable equipment contributed to this event.
+C.
+Dates and Approximate Times of Occurrences
+Date Event
+10t20t15 WBN Unit 1 receives license Amendment 104 to revise tfre Tecfrnical
+specifications (TS) for ccs and ERCW to support Dual Unit operation.
+10t22t15 WBN Unit 2 receives operating license
+10t08t15 Procedure 2-E-1, Loss of Reactor or Secondary Coolant, Rev. 0 issued
+including steps to open 1-lSV-67458, ERCW Cross tie.
+12t28t15 Procedure 1-E-1, Rev. 7 issued including steps to open 1-lSV-67459, ERCW
+Cross tie.
+5t23t16 WBN Unit 2 is critical for the first time
+7 112t17 condition Report (cR) 1316395 is generated to document ERCW design issue.
+7114t17 Procedures 1-E-0 and 2-E-o, are revised to address proper position or encw
+outlet valves from the ccs heat exchangers. Additionally, procedures 1-E-1
+and 2-E-1 are revised to remove action to cross tie ERCW headers.
+NRC FORM 366A (04-2017) Page 2 of
+7
+366A
+NRC FORM U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3t50-0,l04
+(44-2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry, Send
+LICENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re ry ga r C di o n m g m bu i r s d s e i n o n es , tim w a m te h t i o n g th t e o n ln , f or D ma c tio n 2 S 0 e s rv s ic s e - s 0 0 B 0 ra 1 n , ch o ( r T -2 b F4 y 3) , U e , - S m . N a u i c l l ea to r
+CONTINUATION SHEET lnfocollects.Resource@ryc.gov, and to the Desk fficer, ffice of lnformation and Regulatory Affairs,
+NE0B-10202, (315G0104), ffice of Management and Budget, Washington, DC 20503. tf i means
+used to impose an information collection does not display a cunently valid OMB contnol number, the
+NRC may not conduct or sponsor, and a person is not rEuired to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+- -
+2017 012 01
+NARRATIVE
+Date Event
+8t23t17 cR 1331422 generated to document concern that step to cross tie gRcw
+headers had been removed without evaluating impact on past operability.
+10t6t17 !3s^t operability Evaluation (PoE) for cR 1331422 determines that opening
+ERcw cross tie would have resulted in inoperabitity of rrain A for 19.9 dayl
+between March- 19, 2017 and April 25,2017.
+D.
+Manufacturer and Model Number of Components that Failed During the Event
+There were no failed components that contributed to this event.
+E.
+Other Systems or Secondary Functions Affected
+No other systems or secondary functions were affected.
+F.
+Method of discovery of each Component or System Failure or Procedural Error
+The issue was identified as concern subsequent to it being corrected. A past operability
+evaluation performed after the condition was identified determined the condition to be reportable.
+G.
+Failure Mode and Effect of Each Failed Component
+No actual equipment failures occurred during this event.
+H.
+Operator Actions
+No actual event was ongoing related to this report.
+l.
+Automatically and Manually lnitiated Safety System Responses
+Not applicable.
+ilt CAUSE OF THE EVENT
+A.
+The cause of each component or system failure or personnel error, if known.
+Procedure writers incorrectly applied the 1-tSV-67-458 position requirements for a 10 CFR 50
+Appendix R concern to the requirements for starting the third ERCW pump.
+B.
+The cause(s) and circumstiances for each human performance related root cause.
+Procedure writers incorrectly applied the 'l-lSV-67-458 position requirements for a 10 CFR 50
+Appendix R concern to the requirements for starting the third ERCW pump. This is a knowledge
+based error by the procedure writers due to the complexity of the procedure changes.
+NRC FORM 366A p4-2017) Page 3 of
+7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: No. 3{50-0104 ExptRESt o33u2o2o
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+Rlct{.l lessons learned are incorporated into the licensing process and fed back to industry. Send
+.tf * '"**- " lh t *, *w ,'g 1 LICENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re r g y a r C di , n o g m b m u i r s d s e i n o n e , s tim w a a te s h to in t g h t e o l n n , fo r D ma C tion 2 S 0 e 5 rv s ic s e - s 0 0 B 0 ra 1 n , c h o ( r T -2 b F4 y 3) , U e . - S m . N a u i c l l ea to r
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, ffice of lnformation and Regulatory Afiairs,
+, alaqr NE0B-10202, (315&0104), ffice of Man4enrent and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a cunently valid OMB conffol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+r r
+2017 012 01
+NARRATIVE
+IV.
+ANALYSIS OF THE EVENT
+The WBN plant is provided with a common ERCW system serving both units (see Figure). Eight ERCW
+pumps are provided, with two pumps aligned to each 6.9 kV Shutdown Board (SDBD) and aligned to two
+ERCW trains A and B. The ERCW system supplies cooling water to the Component Cooling Water
+System (CCS) heat exchangers, the containment spray heat exchangers, the emergency Oieset
+generators, containment coolers, and various other system loads.
+The CCS is an intermediate cooling loop cooled by the ERCW system. Three CCS heat exchangers serve
+both units aligned into two trains. CCS heat exchangers A and B serve Train A for Units 1 and 2-,
+respectively, and CCS heat exchanger C serves Train B for both units. The CCS heat exchangers provide
+heat removal for the Residual Heat Removal (RHR) heat exchangers, the Spent Fuel Pool heat
+exchangers, the Chemicaland Volume Control System (CVCS), various pump coolers, and various other
+loads. ERCW flow to the CCS heat exchangers is controlled using the discharge flow control valves to
+each heat exchanger with a pair of valves, one which is normally throttled during normal conditions and the
+other normally closed and used during accident conditions which can be positioned to one of three (A, B,
+Open) preset opening positions.
+The limiting le_sign for both the ERCW and CCS systems is a normal shutdown on one unit w1h a design
+basis Loss of Coolant Accident (LOCA) on the other unit. The operation of the RHR system on the uniiin
+shutdown and the transition to cold leg recirculation heat load on the RHR heat exchanger(s) for the LOCA
+unit represent the maximum heat load that is applied to the CCS system.
+During normal operation, ERCW flow is modulated to the CCS heat exchangers to allow the CCS
+temperature to be maintained in an optimaloperating band. Because heat loads during normaloperation
+are low, ERCW flow would be maintained at flows lower than during an accident to allow for optimal CCS
+system operation.
+ln LER 390-2017-009, WBN reported several issues associated with the ERCW system, the most
+significant being that for an accident on Unit 2, no provisions existed in the Emergency Operating
+lnstructions (EOls) for adjusting ERCW flows to the Train A CCS heat exchangers by opening thL ERCW
+to the CCS heat exchanger discharge control valves to one of the desired pre-set opening poiitions to
+support accident operation (minimum analysis required ERCW flow of 3500 gpm). These valve position
+adjustments should have been performed in procedure 2-E-0, Reactor Trip or Safety lnjection. Without
+repositioning these valves in advance of switchover to recirculation, unacceptably high temperature in the
+CCS Train A system for both units may occur following transfer to recirculation post LOCn. The required
+valve repositioning steps were also incorrect in 1-E-0 for Unit 1, but the procedure did support an
+alignment yielding adequate flow for Unit 1 and Unit 2.
+A separate issue was identified in Condition Report (CR) 1331422[hat is the subject of this report where
+incorrect change to procedures 1-E-1 and 2-E-1, Loss of Reactor or Secondary Coolant, were made prior
+to Unit 2 initial operation. Steps were added to both procedures where, for a LOCA concurrent with a loss
+of offsite power and a train failure while the other unit was on RHR cooling, an ERCW supply side cross
+connect between the A and B trains would be open. This erroneous change had the potential to reduce
+ERCW flow to the functioning train.
+A detailed engineering review of the positions of the ERCW discharge valves from the CCS heat
+exchangers was performed from the time period of the introduction of the 1-E-1 procedure error until
+NRC FORM 365A (04-2017l, Page 4 of
+7
+366A
+NRC FORM U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 315O-O{04
+(04-2017))
+Estimated burden per response to compty with this mandatory collection request 80 hours. Reported
+lessons leamed are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re r g y a r C di o ng m m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o l n n , fo r D ma C tion 2 S 0 e 5 rv s ic s e - s 0 0 B 0 ra 1 n , c h o ( r T -2 b F4 y 3) , U e . - S m . N a u i c l l ea to r
+CONTINUATION SHEET lnfocollecb.Resource@!ry.99v, and to the Desk Ofiicer, ffice of lnformation and Regulatory Affairs,
+NE0B-10202, (315G0104), Offce of Management and Budget, Washington, DC 20503. lf i nreans
+yled to impose an information collection does not display a cunently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+r -
+2017 012 01
+NARRATIVE
+correction of this issue via EO! revisions as part of the evaluation of LER 3gO-2017-OOg. This review was
+used as a basis to document the impact of considering a LOCA with a train failure to address the impact of
+opening the ERCW supply side cross connect of system safety function.
+The review performed for LER 390-2017-009 determined that inadequate ERCW flow would have been
+present for approximately 0.252 years for a large break LOCA on Unit 2. The review of the open cross tie
+issue identified a total of 18.9 days of inoperability on Unit 2Train A. Of the 18.g days, 7.g days were
+already deemed inoperable by the review performed for LER 3gO-2017-OOg.
+V.
+ASSESSMENT OF SAFETY CONSEQUENCES
+As described in the previous section, the ERCW system Train A was not able to perform its safety function
+for a design basis accident on Unit 2 for about 18.9 days associated with the ERCW cross tie valve being
+opened in the event of a LOCA with a train failure. A probabilistic risk assessment (pRA) performed
+determined that the increase in core damage frequency (CDF) for this issue, when iouptbi with the issue
+described in LER 390-2017-009, to be tess than 1E-7.
+A.
+Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+Train B ERCW was able to perform its safety function for a design basis accident on Unit 2 related
+to this issue for the periods where Train A was inoperable.
+B.
+For events that occurred when the reactor was shut down, availability of systems or components
+needed to shutdown the reactor and maintain safe shutdown conditions, remove residuai heat,
+control the release of radioactive material, or mitigate the consequences of an accident
+Not applicable.
+C.
+For failure that rendered a train of a safety system inoperable, an estimate of the elapsed time
+from the discovery of the failure until the train was returned to service
+This issue was corrected during the resolution of the ERCW design issue reported in LER 3g0-
+2017-009.
+VI.
+CORRECTIVE ACTIONS
+This event was entered into the T91ryqs9e Valley Authority (TVA) Corrective Action Program and is being
+tracked under Condition Report (CR) 1391422.
+A.
+lmmediate Corrective Actions
+The issue identified was already corrected when it was identified.
+B.
+Corrective Actions to Prevent Recurrence or to Reduce Probability of Similar Events Occurring in
+the Future
+NRC FORM 3664 (04-2017) Page 5 of
+7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104
+(04-2017)',)
+Estimated burden per response to comply with this mandatory collection request 80 hours, Reported
+lessons learned are. incorporated into the licensing process and fed back to industry. Send
+LIGENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re ry ga r C di o n m g m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o n ln , fo r D ma C tion 2 S 0 e s rv s ic s e - s 0 0 B 0 ra 1 n , ch o ( i T -2 b F4 y 3) , U e , - S m . N a u i c l l ea to r
+CONTINUATION SHEET lnfocollects.Resource@!ry.99v, and to the Desk fficer, ffice of lnformation and Regulatory Affairs,
+NE0B-10202, (315C0104), Offce of Management and Budget, Washington, DC 20S0i. lf i rneans
+yp! to impose an information collection does not display a currenfly viliO On,1g oonhol number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+- -
+2417 012 01
+NARRATIVE
+For design changes involving significant procedure changes, engineering will be specified as a
+reviewing organization on the procedure changes developed to insure correct impl'ementation.
+VII.
+PREV]OUS SIMILAR EVENTS AT THE SAME SITE
+LER 390/2017-009 reported an unanalyzed condition that showed adequate ERCW flow may not be
+available du.ring dual unit limiting des_ign basis conditions of one unit in ilot Shutdown on RHit cooling
+when the other unit experiences a LOCA during specific single failure events due to a design error. Due to
+procedural errors, the analysis showed during a Unit t LOCA, Unit 1 received adequate floiv when
+following existing proceduralguidance. During a Unit 2 LOCA, however, proceduraiguidance was not
+adequate to ensure the proper system alignment to establish correct ERCW to CCS-Heat Exchanger A
+and B flow rates for either unit's cool down requirements, due to procedure errors. The cause of this event
+was human performance related to both a knowledge of personnel associated with the design and a failure
+by procedure preparers to properly capture configuration changes specified in a plant desigi change when
+WBN went to dual unit operation.
+LER 390/2016-004 reported an unanalyzed condition where the Unit 1 Fire protection Report (FpR)
+analysis for 10 CFR 50, Appendix R contained a non-conservative time for isolation of tne Votume Control
+Tank (VCT) following a postulated fire in room 737.0-A1A. Multiple fire-induced failures were postulated
+to result in a loss of suction to the Centrifugal Charging Pumps (CCps), which could cause Reictor
+Coolant Pump sealdamage and loss of Reactor Coolant System inventory. Fire modeling subsequengy
+determined that for any credible combination of failures or equipment spuiious operation ihat the CCps
+would remain operable. This issue was determined to be the result of i latent engineering error
+associated with the original Appendix R analysis performed for Unit 1.
+VIII.
+ADDITIONAL INFORMATION
+None.
+IX.
+COMMITMENTS
+None.
+NRC FORM 366A (04-2017) Page 6 of
+7
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY oMB: No.31s0-0104 ExptRES: ol3uzo2O
+(04-2017))
+Estimated burden per response to comply with this mandatory collection request: 80 hours, Reported
+lessons learned are incorporated into the licensing process and fed back to industry, Send
+LTGENSEE EVENT REPORT (LER) c R o e m g m u en la ts t o re ry ga r C di o n m g m bu i r s d s e i n o n es , tim w a a te s h to in t g h t e o l n n , fo r D ma C tion 2 S 0 e s rv 5 ic 5 e - s 0 0 B 0 ra 1 n , c h o ( r T -2 b F4 y 3) , U e , - S m , N a u i c l l ea to r
+CONTINUATION SHEET lnfocollects,Resource@nrc,gov, and to the Desk fficer, Office of lnformation and Regulatory Affairs,
+NE0B-10202, (315G0104), ffice of Management and Budget, Washington, DC 20503. lf a means
+used to impose an information collection does not display a currently valid OMB control number, the
+IIRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 05000390 NUMBER NO.
+1
+- -
+2017 012 01
+NARRATIVE
+ERCW
+ERCW ERCW
+Train 1A Train 2A Train 28
+Other
+Loads
+CCS Other
+Train A Loads
+Simplified ERCW Figure
+NRC FORM 3664 (04-2017) Page 7 of
+7

@@ -1,0 +1,171 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504
+Kevin.Cimorelli@TalenEnergy.com
+February 8, 2022
+Attn: Document Control Desk 10 CFR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388/2021-002-01
+UNIT 2 LICENSE NO. NPF-22
+PLA-7981 Docket No. 50-388
+Attached is Licensee Event Report (LER) 50-388/2021-002-01. The LER supplement reports an
+event in which the secondary containment was inoperable due to differential pressure exceeding
+the Technical Specification limit. The condition is being reported in accordance with
+10 CFR 50.73(a)(2)(v)(C) as an event or condition which could have prevented the fulfillment
+of a safety function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-388/2021-002-01
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A. Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION A PPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station 05000388 1 of 3
+4. Title
+Loss of Secondary Containment due to Failed Differential Pressure Transmitter
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+08 30 2021 2021 - 002 - 01 02 08 2022
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 ☐ 20.2203(a)(2)(vi) ☐ 50.36(c)(2) ☐ 50.73(a)(2)(iv)(A) ☐ 50.73(a)(2)(x)
+☐ 20.2201(b) ☐ 20.2203(a)(3)(i) ☐ 50.46(a)(3)(ii) ☐ 50.73(a)(2)(v)(A) 10 CFR Part 73
+☐ 20.2201(d) ☐ 20.2203(a)(3)(ii) ☐ 50.69(g) ☐ 50.73(a)(2)(v)(B) ☐ 73.71(a)(4)
+☐ 20.2203(a)(1) ☐ 20.2203(a)(4) ☐ 50.73(a)(2)(i)(A) ☒ 50.73(a)(2)(v)(C) ☐ 73.71(a)(5)
+☐ 20.2203(a)(2)(i) 10 CFR Part 21 ☐ 50.73(a)(2)(i)(B) ☐ 50.73(a)(2)(v)(D) ☐ 73.77(a)(1)(i)
+☐ 20.2203(a)(2)(ii) ☐ 21.2(c) ☐ 50.73(a)(2)(i)(C) ☐ 50.73(a)(2)(vii) ☐ 73.77(a)(2)(i)
+☐ 20.2203(a)(2)(iii) 10 CFR Part 50 ☐ 50.73(a)(2)(ii)(A) ☐ 50.73(a)(2)(viii)(A) ☐ 73.77(a)(2)(ii)
+☐ 20.2203(a)(2)(iv) ☐ 50.36(c)(1)(i)(A) ☐ 50.73(a)(2)(ii)(B) ☐ 50.73(a)(2)(viii)(B)
+☐ 20.2203(a)(2)(v) ☐ 50.36(c)(1)(ii)(A) ☐ 50.73(a)(2)(iii) ☐ 50.73(a)(2)(ix)(A)
+☐ Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Shane Jurek, Principal Licensing Engineer (570) 542-1695
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+E VA PDT B384 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+☒ No ☐ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 30, 2021, at 09:55, operators at the Susquehanna Steam Electric Station (SSES), Unit 2,
+identified that Reactor Building Zone II Pressure Differential Indicator (PDI), PDI-27581, was stuck at a
+reading of 0.32” water column vacuum. Operators also reported difficulties opening doors in the SSES Unit 2
+Reactor Building, indicating a positive secondary containment differential pressure (D/P). At this time,
+operators determined that a loss of the secondary containment had occurred and entered the off-normal
+procedure for the condition. Review of alternate indication documented from earlier that day, identified the
+condition likely existed longer than allowed by the Technical Specification Surveillance Requirement 3.6.4.1.1
+associated Note. This condition is being reported under 10 CFR 50.73(a)(2)(v)(C) as a loss of safety function.
+Secondary containment was restored to an operable status at 10:30 on August 30.
+The cause of the event was determined to be an age-related failure of Pressure Differential Transmitter
+(PDT) PDT-27581. Corrective actions included replacing PDT-27581. There were no actual safety
+consequences associated with the described condition.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-388 NUMBER NO.
+Unit 2 2021 - 002 - 01
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power (RTP)
+Unit 2 – Mode 1, approximately 100 percent RTP
+At 04:00 on August 30, 2021, operators at the Susquehanna Steam Electric Station (SSES), Unit 2, identified
+that both the A and B Standby Gas Treatment (SGT) System Zone 2 Outside Delta Pressure Indicators,
+pressure differential indicators (PDIs) PDI-07554A2 and PDI-07554B2 [EIIS System/Component Codes
+BH/PDI], respectively, were indicating below downscale on the associated meters while the digital display
+was reading -0.25” water column (wc) vacuum. This is indicative of a positive differential pressure (D/P) in the
+secondary containment. At the time of discovery, this was believed to be an “indication-only” issue.
+EVENT DESCRIPTION
+At 09:55 on August 30, 2021, while investigating the downscale indication on the A and B SGT System Zone
+2 Outside Delta Pressure Indicators, PDI-07554A2 and PDI-07554B2, operators at SSES, Unit 2, identified
+that the SGT System Zone 2 Exhaust System Circulating Space/Outside D/P Indicator, PDI-27581 [VA/PDI],
+was stuck at a reading of 0.32” wc vacuum. Operators also reported difficulties opening doors in the SSES
+Unit 2 Reactor Building, indicating a positive secondary containment D/P. At this time, operators determined
+that a loss of the secondary containment had occurred and entered the off-normal procedure for the
+condition. Entry into Technical Specification Limiting Condition for Operation (LCO) 3.6.4.1, Condition A was
+evaluated and determined to be unnecessary at the time of discovery based on no known breach in
+secondary containment and the SGT subsystem was determined to be capable of drawing down secondary
+containment to 0.25” wc vacuum. This allowance is defined within the associated Note for Surveillance
+Requirement (SR) 3.6.4.1.1.
+Subsequently, when reviewing the stuck indication on PDI-27581 in aggregate with the downscale readings
+on PDI-07554A2 and PDI-07554B2, it was determined firm evidence exists that secondary containment D/P
+was likely lost at 04:00 when PDI-07554A2 and PDI-07554B2 were identified as reading downscale. As a
+result, the four-hour allowance of the Note modifying SR 3.6.4.1.1 would result in the SR not met at
+approximately 08:00 and LCO 3.6.4.1, Condition A being entered. Because there is no redundant system to
+secondary containment, this event requires reporting under 10 CFR 50.73(a)(2)(v)(C) as a condition that
+could have prevented the fulfillment of a safety function needed to control the release of radioactive material.
+CAUSE OF EVENT
+The cause of the event was determined to be an age-related failure of Pressure Differential Transmitter
+(PDT) PDT-27581 [VA/PDT]. The output of PDT-27581 was failed and providing incorrect inputs to the
+indicators and controllers, which resulted in the loss of Zone 2 D/P.
+NRC FORM 366A (08-2020) Page 2 of 3
+.
+NRC FORM 366A U. S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-388 NUMBER NO.
+Unit 2 2021 - 002 - 01
+NARRATIVE
+ANALYSIS/SAFETY SIGNIFICANCE
+Based on engineering analysis of the event, secondary containment could have performed its safety function
+of isolating as assumed in the accident analysis and of re-establishing 0.25” wc vacuum (drawdown) within
+the assumed accident analysis time (10 minutes).
+This event will not be counted as a safety system functional failure for the NRC performance indicator based
+on the engineering analysis supporting the system’s ability to fulfill the safety function.
+CORRECTIVE ACTIONS
+PDT-27581 was replaced and the SGT System was returned to service.
+COMPONENT FAILURE INFORMATION
+1. Component Identifier – PDT-27581
+Component Name – Reactor Building Zone 2 Exhaust System HVAC
+Component Manufacturer – Brandt
+Model Number – 21PDT2220-0.5
+PREVIOUS OCCURRENCES
+LER 50-388(387)/2016-006-00, “Loss of Secondary Containment Due to Damper Controller Sticking,” dated
+November 17, 2016.
+LER 50-388(387)/2015-010-01, “Supplemental Report to LER-2015-010-00, Loss of Differential Pressure in
+Zone II of Secondary Containment,” dated July 6, 2016.
+NRC FORM 366A (08-2020) Page 3 of 3
+.

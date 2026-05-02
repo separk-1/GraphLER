@@ -1,0 +1,349 @@
+Xcel Energy®
+June 18, 2025 
+ATTN: Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Washington, DC 20555-0001 
+Monticello Nuclear Generating Plant 
+Docket No. 50-263 
+Subsequent Renewed Facility Operating License No. DPR-22 
+Monticello Nuclear Generating Plant Licensee Event Report 2025-003-00 
+Northern States Power Company, a Minnesota corporation, doing business as 
+2807 West County Road 75 
+Monticello, MN 55362 
+L-MT-25-027
+10 CFR 50.73 
+Xcel Energy (hereafter "NSPM"), hereby submits Licensee Event Report (LER) 50-263/2025-
+003-00 per 10 CFR 50. 73(a)(2)(i)(B).
+If you have any questions about this submittal, please contact Carrie Seipp, Senior Regulatory 
+Engineer, at 612-330-5576. 
+Summary of Commitments 
+IJKL 
+and no revisions to existing commitments. 
+Greg D. Brown 
+Plant Manager, Monticello Nuclear Generating Plant 
+Northern States Power Company - Minnesota 
+Enclosure 
+cc: 
+Administrator, Region Ill, USNRC 
+Project Manager, Monticello, USNRC 
+Resident Inspector, Monticello, USNRC 
+State of Minnesota 
+
+ENCLOSURE 
+MONTICELLO NUCLEAR GENERATING PLANT 
+LICENSEE EVENT REPORT 50-263/2025-003-00 
+3 pages follow 
+
+NRC FORM 366
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION
+LICENSEE EVENT REPORT (LER) 
+(See Page 2 for required number of digits/characters for each block)
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported lessons 
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden 
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer 
+at:  OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory 
+Commission, 725 17th Street NW, Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is 
+not required to respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+1. Facility Name
+052 
+050
+2. Docket Number
+3. Page
+1 OF
+4. Title
+5. Event Date
+Month
+Day
+Year
+6. LER Number
+Year
+-
+Sequential 
+Number
+-
+Revision 
+No.
+7. Report Date
+Month
+Day
+Year
+8. Other Facilities Involved
+Facility Name
+Facility Name
+Docket Number
+Docket Number
+9. Operating Mode
+10. Power Level
+050
+052
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:  (Check all that apply)
+10 CFR Part 20
+20.2201(b)
+20.2201(d)
+20.2203(a)(1)
+20.2203(a)(2)(i)
+20.2203(a)(2)(ii)
+20.2203(a)(2)(iii)
+20.2203(a)(2)(iv)
+20.2203(a)(2)(v)
+20.2203(a)(2)(vi)
+20.2203(a)(3)(i)
+20.2203(a)(3)(ii)
+20.2203(a)(4)
+10 CFR Part 21
+21.2(c)
+10 CFR Part 50
+50.36(c)(1)(i)(A)
+50.36(c)(1)(ii)(A)
+50.36(c)(2)
+50.46(a)(3)(ii)
+50.69(g)
+50.73(a)(2)(i)(A)
+50.73(a)(2)(i)(B)
+50.73(a)(2)(i)(C)
+50.73(a)(2)(ii)(A)
+50.73(a)(2)(ii)(B)
+50.73(a)(2)(iii)
+50.73(a)(2)(iv)(A)
+50.73(a)(2)(v)(A)
+50.73(a)(2)(v)(B)
+50.73(a)(2)(v)(C)
+50.73(a)(2)(v)(D)
+50.73(a)(2)(vii)
+50.73(a)(2)(viii)(A)
+50.73(a)(2)(viii)(B)
+50.73(a)(2)(ix)(A)
+50.73(a)(2)(x)
+10 CFR Part 73
+73.77(a)(1)
+73.77(a)(2)(i)
+73.77(a)(2)(ii)
+73.1200(a)
+73.1200(b)
+73.1200(c)
+73.1200(d)
+73.1200(e)
+73.1200(f)
+73.1200(g)
+73.1200(h)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact
+Phone Number (Include area code)
+13. Complete One Line for each Component Failure Described in this Report
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+Cause
+System
+Component
+Manufacturer
+Reportable to IRIS
+14. Supplemental Report Expected
+Yes (If yes, complete 15.  Expected Submission Date)  
+No 
+15. Expected Submission Date
+Month
+Day
+Year
+Monticello Nuclear Generating Plant
+■
+263
+3
+Condition Prohibited by Technical Specifications for not implementing setpoint change of Primary Containment Isolation Valve
+05
+12
+2025
+2025
+003
+00
+06
+18
+2025
+4
+000
+✔
+Carrie Seipp, Senior Nuclear Regulatory Engineer
+612-330-5576
+A
+VB
+ISV
+B295
+Y
+✔
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 12, 2025 at 0344 CDT, while Monticello Nuclear Generating Plant was in Mode 4 for Refueling Outage 1R32, it was discovered that 
+the 2 Inch Inboard Torus Purge Exhaust Air Operated Valve, CV-2384, had been inoperable and potentially unable to close as required in 
+the event of a design basis accident.  
+With CV-2384 inoperable, Technical Specification 3.6.1.3 “Primary Containment Isolation Valves (PCIVs)" condition A required the affected 
+penetration be isolated with the automatic valve de-activated within 4 hours and, if condition A was not completed, condition F required 
+the plant to be in Mode 3 in 12 hours. While CV-2384 is normally closed, since the condition of inoperability of CV-2384 was not known, no 
+valves in this penetration had been closed and de-activated when the plant had been in Modes 1, 2, or 3. This issue is reportable under 10 
+CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by Technical Specifications. 
+The cause is that the lower bench set pressure of CV-2384 had insufficient closing force.  In 2009, the Air Operated Valve Program 
+engineer determined an updated lower bench set pressure, but no work order was performed to implement this new setpoint.  The lower 
+bench set pressure of CV-2384 was raised during Refueling Outage 1R32 and the valve operability was restored.
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1. FACILITY NAME
+2. DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+EVENT DESCRIPTION 
+On May 12, 2025 at 0344 CDT, while Monticello Nuclear Generating Plant (MNGP) was in Mode 4 for Refueling Outage 
+1R32, it was discovered that the Inboard Torus Purge Exhaust Air Operated Valve (AOV), CV-2384, [EIIS System Code: 
+VB, Manufacturer: Black, Sivals, and Bryson, 2 inch globe valve, Model Number: 70-27-1DRT] had been inoperable and 
+potentially unable to close as required in the event of a design basis accident. 
+Program engineers were preparing to update to the 6th Inservice Testing Interval, which includes the initial implementation 
+of ASME Code for Operation and Maintenance of Nuclear Power Plants (OM Code) Division 1, Mandatory Appendix IV 
+“Preservice and Inservice Testing of Active Pneumatically Operated Valve Assemblies in Nuclear Reactor Power Plants.” 
+This requires reanalysis and update to the calculations for valves within the scope of OM Code Appendix IV. On April 21, 
+2025 while the plant was in Mode 5 for Refueling Outage 1R32, during review of the component calculation for CV-2384, 
+which included the updated OM Code Appendix IV requirements, it was identified that a 2009 change to the setpoint 
+appeared to not have been implemented.  The last recorded lower bench set pressure, via a 2001 work order, was 
+nominally 5 psig rather than the updated value of 8 psig.
+A work order was added to the Refueling Outage 1R32 scope to perform a diagnostic test and setpoint adjustment for 
+CV-2384.  On May 9, 2025, the as-found lower bench set pressure was 5.26 psig.  On May 10, 2025, the as-left lower
+bench set pressure was adjusted to 12.13 psig. On May 12, 2025, it was concluded that this valve had been inoperable
+and potentially unable to close as required since the as-found lower bench set pressure was less than the minimum
+required 5.98 psig.
+Since it was concluded that CV-2384 had been inoperable, TS 3.6.1.3 Condition A should have been entered whenever 
+the plant was in Modes 1, 2, or 3. Required Action A.1 of TS 3.6.1.3 is to “isolate the affected penetration flow path by use 
+of at least one closed and de-activated automatic valve, closed manual valve, blind flange, or check valve with flow 
+through the valve secured” in 4 hours. Condition F of TS 3.6.1.3 requires the plant to be in Mode 3 in 12 hours if the 
+Required Action and associated Completion Time of Condition A is not met. Since the condition of inoperability of 
+CV-2384 was not known prior to this discovery, no valves in this penetration had been closed and de-activated when the
+plant had been in Modes 1, 2, or 3.  This is being reported as a condition prohibited by Technical Specifications when the
+plant was in Modes 1, 2, and 3 in the previous three-year reporting period.
+ASSESSMENT OF SAFETY CONSEQUENCES 
+There were no radiological, environmental, or industrial impacts associated with this issue. The health and safety of the 
+public and site personnel were not impacted during this issue.  
+CV-2384 is a normally closed 2 inch bypass valve around the normally closed 18 inch Inboard Torus Vent AOV AO-2383.
+Outboard of these two valves is the normally closed Torus Main Exhaust AOV AO-2896.   These Primary Containment
+Isolation Valves are opened to vent the drywell to the Standby Gas Treatment System to maintain Primary Containment
+pressure or for de-inerting and inerting activities for refueling outages.
+These valves automatically close upon Reactor Water Low Level and High Drywell Pressure.  A review was performed for 
+the three years prior to the discovery of this issue and it was determined that the Primary Containment Isolation function 
+for this penetration was maintained during the period of inoperability of CV-2384 since AO-2896 was operable and able to 
+isolate the penetration’s flow path if necessary. There were no other systems, structures, or components that were 
+inoperable or contributed to this issue. 
+2
+3
+Monticello Nuclear Generating Plant
+263
+2025
+003
+00
+■
+
+NRC FORM 366A
+(04-02-2024)
+U.S. NUCLEAR REGULATORY COMMISSION 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET
+APPROVED BY OMB:  NO. 3150-0104
+EXPIRES:  04/30/2027
+Estimated burden per response to comply with this mandatory collection request: 80 hours.  Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:  OMB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn:  Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC  20503.  The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid OMB control number.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+NARRATIVE
+NRC FORM 366A (04-02-2024)
+Page 
+of
+1. FACILITY NAME
+2. DOCKET NUMBER
+3. LER NUMBER
+YEAR
+-
+SEQUENTIAL 
+NUMBER
+-
+REV 
+NO.
+052 
+050
+CAUSE OF THE EVENT 
+The cause is that the lower bench set pressure of CV-2384 had insufficient closing force.  In 2009, the AOV Program 
+engineer determined an updated lower bench set pressure, but no work order was performed to implement this new 
+setpoint. 
+CORRECTIVE ACTIONS 
+The lower bench set pressure of CV-2384 was raised during Refueling Outage 1R32 and the valve operability was 
+restored. 
+The planned incorporation of OM Code Appendix IV will reduce the probability of a similar issue occurring in the future. 
+PREVIOUS SIMILAR EVENTS 
+LER 50-263/2025-002-00 was submitted on June 18, 2025 for a condition prohibited by Technical Specifications for a 
+Primary Containment Isolation Valve in the Reactor Recirculation Sample Line.  While the cause of this inoperability was 
+different, the issue was also identified while performing an update to the valve’s component calculation to the OM Code 
+Appendix IV requirements.
+3
+3
+Monticello Nuclear Generating Plant
+263
+2025
+003
+00
+■

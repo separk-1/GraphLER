@@ -1,0 +1,188 @@
+Nebraska Public Power District
+''Always there when you need us"
+NLS2017077
+August 17, 2017
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555-0001
+Subject: Licensee Event Report No. 2017-005-00
+Cooper Nuclear Station, Docket No. 50-298, DPR-46
+Dear Sir or Madam:
+The purpose of this correspondence is to forward Licensee Event Report 2017-005-00.
+There are no new commitments contained in this letter.
+Sincerely,
+K r\p!\,J\ pl-"" fw-Cf h ~ ~ Pz:::>
+C) h.
+John Dent, Jr.
+Vice President Nuclear
+Chief Nuclear Officer
+/lb
+Attachment: Licensee Event Report 2017-005-00
+cc: Regional Administrator w/attachment NPG Distribution w/attachment
+USNRC -Region IV
+Cooper Project Manager w/attachment INPO Records Center w/attachment
+USNRC - NRR Plant Licensing Branch IV via ICES entry
+Senior Resident Inspector w/attachment SORC Chairman w/attachment
+USNRC-CNS
+SRAB Administrator w/attachment CNS Records w/attachment
+COOPER NUCLEAR STATION
+P. 0. Box 98 I Brownville, NE 68321-0098
+Telephone: (402) 825-3811 I Fax: (402) 825-5211
+www.nppd.com
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 0313112020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80
+r~, ,l)J>•""4~":\ hours. Reported lessons learned are incorporated into the licensing process and fed back to
+; ;~ LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+..~ ., ..... .<;/.' . (See Page 2 for required number of digits/characters for each block) m (T a -2 il t F o 4 3 ln ) f , o c U o . l S le . c N ts u .R cl e e s a o r u R rc e e g @ ul n a r t c o . r g y o v C , o a m nd m i t s o s t i h o e n , D W es a k s h O in ff g ic t e o r n , , O D ffi C ce 2 o 0 f 5 In 5 f 5 o - r 0 m 0 a 01 tio , n o a r n b d ye-
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R 3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not display
+http://www.nrc.gov1reading-rm/doc-collectionslnuregslstaff/sr1022lr31)
+a currently valid OMB control number, the NRC may not conduct or sponsor, and a person is
+not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Cooper Nuclear Station 05000298 1 of 3
+4. TITLE
+Traversing In-core Probe In-shield Limit Switch Mounting Failure Results in Common Cause lnoperability of
+Independent Trains or Channels and Condition Prohibited by Technical Specifications
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+REV FACILITY NAME DOCKET
+MONTH DAY YEAR YEAR ISEQUENTIALI MONTH DAY YEAR
+NUMBER NO. 05000
+FACILITY NAME DOCKET
+06 22 17 2017 - 005 - 00 08 17 2017 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D 20.2201(b) D 20.2203(a)(3)(i) 0 50.73(a)(2)(ii)(A) 0 50.73(a)(2)(viii)(A)
+D 20.2201(d) D 20.2203(a)(3)(ii) D 50.73(a)(2)(ii)(B) D 50. 73(a)(2)(viii)(B)
+1
+D 20.2203(a)(1) D 20.2203(a)(4) D 50.73(a)(2)(ii) D 50.73(a)(2)(ix)(A)
+D 20.2203(a)(2)(i) D 50.36(c)(1)(i)(A) 0 50.73(a)(2)(iv)(A) D 50. 73(a)(2)(x)
+D 20.2203(a)(2)(ii) 0 50.36(c)(1)(ii)(A) 0 50.73(a)(2)(v)(A) D 73.71(a)(4)
+10. POWER LEVEL D 20.2203(a)(2)(iii) D 50.36(c)(2) 0 50.73(a)(2)(v)(B) D 73.71(a)(5)
+D 20.2203(a)(2)(iv) D 50.46(a)(3)(ii) 0 50.73(a)(2)(v)(C) D 73.77(a)(1)
+100
+0 20.2203(a)(2)(v) 0 50.73(a)(2)(i)(A) D 50.73(a)(2)(v)(D) D 73.77(a)(2)(i)
+0 20.2203(a)(2)(vi) ~ 50.73(a)(2)(i)(B) ~ 50.73(a)(2)(vii) D 73.77(a)(2)(ii)
+D 50.73(a)(2)(i)(C) 0 OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT I TELEPHONE NUMBER (Include Area Code}
+Jim Shaw, Licensing Manager (402) 825-2788
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANU- REPORTABLE CAUSE SYSTEM COMPONENT MANU- REPORTABLE
+FACTURER TO EPIX FACTURER TO EPIX
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D IZI SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 21, 2017, Traversing In-core Probe {TIP) C failed to stop at its in-shield position when being withdrawn from
+the core. Cooper Nuclear Station (CNS) Operations personnel declared the associated TIP C ball valve inoperable
+as a Primary Containment Isolation Valve (PCIV) at 0524 and entered Technical Specification {TS) Limiting Condition
+for Operation (LCO) 3.6.1.3, Condition A. On June 22, 2017, TIP D failed to stop at its in-shield position when being
+withdrawn from the core. CNS Operations personnel declared the associated TIP D ball valve inoperable as a PCIV
+at 0445 and entered TS LCO 3.6.1.3, Condition A.
+Subsequent investigation determined the cause of the failures was inadequate mounting and securing of the in-
+shield limit switch to the chamber shield. Corrective actions included repair of the mounting of the in-shield limit
+switches for all TIP channels, and improved procedure guidance for properly mounting the in-shield limit switches.
+Both valves were declared operable on July 13, 2017, at 1133.
+There were no safety consequences associated with this condition.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017) Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a
+(See NUREG-1022, R 3 for instruction and guidance for completing this form means used to impose an information collection does not display a currently valid OMB control
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) number, the NRG may not conduct or sponsor, and a person is not required to respond to, the
+information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 05000- 298 NUMBER NO.
+2017 -005 -00
+NARRATIVE
+PLANT STATUS
+Cooper Nuclear Station (CNS) was in Mode 1, Power Operations, 100 percent power, at the time of
+discovery; i.e., June 22, 2017.
+BACKGROUND
+The Traversing In-Core Probe (TIP) subsystem is a part of the Neutron Monitoring System [EllS:IG]. The
+TIP subsystem allows calibration of Local Power Range Monitor (LPRM) [EllS:MON] signals by
+correlating TIP signals to LPRM signals as the TIP is positioned in various locations in the core. A TIP
+drive mechanism [EllS:DRIV] uses an ionization chamber attached to a flexible drive cable, which is
+driven from outside Primary Containment [EllS:NH] and is contained by guide tubes that continue into the
+reactor core.
+A valve system is provided with a valve on each TIP guide tube entering the primary containment. A ball
+valve [EllS:V] and a cable shearing valve [EllS:V] are mounted in the TIP guide tubing just outside of the
+primary containment. The ball valve opens when the TIP is being inserted and closes automatically upon
+receipt of the proper signal and after the TIP cable and ionization chamber have been retracted. An in
+shield limit switch [EllS:33] actuates to stop withdrawal of the TIP detector and also provides a permissive
+for closing the ball valve. The shear valve is used in the event the ball valve should fail to close or the
+chamber drive cable should fail to retract during the time that primary containment isolation is required.
+CNS Technical Specifications (TS) Limiting Condition for Operation (LCO) 3.6.1.3 requires each Primary
+Containment Isolation Valve (PCIV) to be operable. The TIP ball valves are PCIVs.
+EVENT DESCRIPTION
+On June 21, 2017, TIP C failed to stop at the designated in-shield position when being withdrawn from
+the core. The TIP machine was manually stopped approximately seven inches beyond the in-shield
+position, and was then manually moved to the correct position by Operations. The TIP C ball valve was
+declared inoperable as a PCIV due to the failure of the in-shield limit switch. TS LCO 3.6.1.3, Primary
+Containment Isolation Valves, Condition A, was entered at 0524 and the Required Actions taken.
+On June 22, 2017, TIP D failed to stop at the designated in-shield position when being withdrawn from
+the core. The TIP machine was manually stopped at approximately six inches past the in-shield position,
+and was then manually returned to in-shield location by Operations. The TIP D ball valve was declared
+inoperable as a PCIV due to failure of the in-shield limit switch. TS LCO 3.6.1.3, Primary Containment
+Isolation Valves, Condition A, was entered at 0445 and the Required Actions taken.
+In each case, the condition would have prevented the ball valve from automatically closing on initiation of
+a Group 2 containment isolation signal.
+Page 2 of3
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY APPROVED BYOMB: NO. 3150-0104 EXPIRES: 03/31/2020
+COMMISSION
+Estimated burden per response to comply with this mandatory collection request: 80
+(04-2017)
+hours. Reported lessons learned are incorporated into the licensing process and fed back to
+industry. Send comments regarding burden estimate to the Information Services Branch (T-
+2 F43}, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory
+CONTINUATION SHEET Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503.
+If a means used to impose an information collection does not display a currently valid OMB
+(See NUREG-1022, R 3 for instruction and guidance for completing this form control number, the NRC may not conduct or sponsor, and a person is not required to respond to,
+htto://www.nrc.aov/readina-rm/doc-collections/nuregs/staff/sr1022/r3/) the information collection.
+1. FACILITYNAME 2. DOCKETNUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Cooper Nuclear Station 050 298 NUMBER NO.
+00-
+2017 -005 -00
+NARRATIVE
+The valves were declared operable on July 13, 2017, at 1133, and TS LCO 3.6.1.3, Condition A, was
+exited.
+BASIS FOR REPORT
+CNS is reporting these events under 10 CFR 50.73(a)(2)(vii) as common cause inoperability of
+independent trains or channels, as the primary containment isolation ball valves on TIPs C and
+D were inoperable at the same time. It is also being reported as a condition prohibited by Technical
+Specifications as defined in 10 CFR 50. 73(a)(2)(i)(B).
+SAFETY SIGNIFICANCE
+There were no safety consequences associated with this condition. The potential safety significance of this
+event was low. The TIP ball valves are able to be closed by taking manual action to remove power in the case
+of a primary containment isolation signal. In addition, the TIP shear valves remained operable during the period
+of time the TIP ball valves were inoperable. The safety function of the primary containment isolation system
+was maintained. This condition did not cause an impact to the safety of the general public, nuclear safety,
+industrial safety, or radiological safety.
+CAUSE
+Inadequate mounting and securing of the in-shield limit switch to the chamber shield caused the limit
+switch to fail to actuate as designed.
+CORRECTIVE ACTIONS
+A Work Order was implemented to repair the mounting of the in-shield limit switches for all TIP channels.
+In addition, the procedure for TIP chamber shield maintenance was revised to provide guidance for
+properly mounting the TIP in-shield limit switches.
+PREVIOUS EVENTS
+CR-CNS-2016-02424 - On May 3, 2016, TIP B detector failed to stop at its in-shield position when being
+retracted back into its chamber shield. This failure was attributed to inadequate maintenance associated
+with mounting the limit switch to the chamber shield.
+CR-CNS-2016-08539-0n November 29, 2016, TIP C detector failed to stop at its in-shield position
+when being retracted back into its chamber shield. This failure was attributed to inadequate maintenance
+associated with mounting the limit switch to the chamber shield.
+NRC FORM 366A (04-2017) Page 3 of 3

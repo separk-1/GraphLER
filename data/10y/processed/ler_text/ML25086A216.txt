@@ -1,0 +1,432 @@
+Constellation .. 
+SVP-25-016 
+March 27, 2025 
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, D.C. 20555 
+Quad Cities Nuclear Power Station, Unit 1 and 2 
+Renewed Facility Operating License No. DPR-29 and DPR-30 
+NRC Docket No. 50-254 and 50-265 
+10 CFR 50.73 
+Subject: 
+Licensee Event Report 254/2025-002-00 "Control Room Emergency Ventilation Air 
+Conditioning System Inoperable due to Logic Issue" 
+Enclosed is Licensee Event Report 254/2025-002-00 "Control Room Emergency Ventilation Air 
+Conditioning System Inoperable due to Logic Issue," for Quad Cities Nuclear Power Station, Units 1 
+and 2. 
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(v)(D) for any event or condition 
+that could have prevented the fulfillment of the safety function of structures or systems that are 
+needed to mitigate the consequences of an accident. 
+There are no regulatory commitments contained in this letter. 
+Should you have any questions concerning this report, please contact Conner Bealer at 779-231-
+6207. 
+Res~+tf)i) 
+Doug Hild 
+Site Vice President 
+Quad Cities Nuclear Power Station 
+cc: 
+Regional Administrator- NRC Region Ill 
+NRC Senior Resident Inspector - Quad Cities Nuclear Power Station 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULA TORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+(04-02-2024) 
+Estimated burden per response ID ~ly wi1h 11\is mandata<y collection raquest 80 hoUIS. Repo<1ed lessons 
+<¥.\ 
+LICENSEE EVENT REPORT (LER) 
+learned are incorpo,-aled inlD the licensing process and fed back to indusl'y Send convnenls regil'ding burden 
+estimate to the FOIA, Libriwy, and lnfoonation Collections Branch (T-6 A 1 OM). U. S. Nucleil' RegulatOIY 
+\. 
+rj 
+(See Page 2 for required number of digits/characters for each block) 
+Co,-nmission. Washingllln. DC 20555-0001, o,- by email ID lnfocollects,Resource@nrc.gov. and Ille 0MB reviewer 
+at 0MB Office of lnfOl'fflation and Regulatory Affairs, (315~104), Attn: Desk Officer fer the Nuclea- RegulatOIY 
+..... 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+Co,-nmission, 725 17111 Street NW, WashinglDn, DC 20503. The NRC may not conduct o,- sponsor, and a person is 
+httQ :/lwww .nr!:,.gov/reading-rm/QQ.C;:-!:;Qllections/nureg~/s!aff /sr1 022/r3/) 
+not required ID respond ID, a collection of infOl'fflation unless Ille document requesting o,- requiring the collection 
+displays a currently valid 0MB conlJol number. 
+1. Facility Name 
+~ 050 
+2. Docket Number 
+3.Page 
+Quad Cities Nuclear Power Station, Unit 1 
+• 
+052 
+00254 
+1 OF 4 
+4. Title 
+Control Room Emergency Ventilation Air Conditioning System Inoperable Due to a Logic Issue 
+5. Event Date 
+6. LER Number 
+7. Report Date 
+8. Other Facilities Involved 
+Sequential 
+Revision 
+Facility Name 
+181 
+Docket Number 
+Month 
+Day 
+Year 
+Year 
+Number 
+No. 
+Month 
+Day 
+Year 
+Quad Cities Unit 2 
+050 
+00265 
+01 
+26 
+2025 
+2025 
+002 
+00 
+03 
+27 
+2025 
+Facility Name 
+• 
+Docket Number 
+-
+-
+N/A 
+052 
+N/A 
+9. Operating Mode 
+1 - Power Operation 
+110. Power Level 
+091% 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+10 CFR Part 20 
+D 20.2203(a)(2)(vi) 
+10 CFR Part 50 • 50.73(a)(2)(ii)(A) 
+D 50.73(a)(2)(viii)(A) 
+D 73.1200(a) 
+• 20.2201(b) 
+D 20.2203(a)(3)(i) 
+0 50.36(c)(1)(i)(A) • 50. 73(a)(2)(ii)(B) 
+D 50.73(a)(2)(viii)(B) • 73.1200(b) 
+• 
+20.2201(d) 
+D 20.2203(a)(3)(ii) 
+• 50.36(c)(1 )(li)(A) 
+D 50.73(a)(2)(iii) 
+D 50.73(a)(2)(ix)(A) 
+D 73.1200(c) 
+• 
+20.2203(a)(1) 
+D 20.2203(a)(4) 
+D 50.36(c)(2) 
+D 50.73(a)(2)(iv)(A) 
+D 50. 73(a)(2)(x) 
+• 73.1200(d) 
+• 
+20.2203(a)(2)(i) 
+10 CFR Part 21 
+D 50.46(a)(3)(11) 
+D 50. 73(a)(2)(v)(A) 
+10 ~FR Part 73 
+D 73.1200(e) 
+• 
+20.2203(a)(2)(ii) 
+D 21.2(c) 
+• 50.69(g) 
+D 50.73(a)(2)(v)(B) 
+D 73.77(a)(1) 
+• 73.1200(f) 
+• 
+20.2203(a)(2)(iii) 
+0 50. 73(a)(2)(i)(A) 
+D 50.73(a)(2)(v)(C) 
+D 73.77(a)(2)(i) 
+• 73.1200(g) 
+• 
+20.2203(a)(2)(iv) 
+• 50.73(a)(2)(i)(B) 
+~ 
+50.73(a)(2)(v)(D) 
+D 73.77(a)(2)(ii) 
+0 73.1200(h) 
+• 
+20.2203(a)(2)(v) 
+• 50.73(a)(2)(i)(C) 
+D 50. 73(a)(2)(vii) 
+D OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LER 
+Licensee Contact 
+Phone Number (Include area code) 
+Richard Swart - Regulatory Assurance 
+309-227-2810 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+X 
+VI 
+52 
+C770 
+y 
+14. Supplemental Report Expected 
+Month 
+Day 
+Year 
+IZJ No 
+D Yes (if yes, complete 15. Expected Submission Date) 
+15. Expected Submission Date 
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines) 
+On 01/26/2025 at 14:50, the Control Room Emergency Ventilation (CREV) Air Conditioning (AC) system was declared 
+inoperable due to a trip of the Refrigeration Condensing Unit (RCU) feed breaker. Technical Specification (TS) 3. 7.5 Condition 
+A was entered at that time. Control Room operators discovered that the indicating light for the RCU was not lit. An operator was 
+dispatched and found that the feed breaker had tripped. After post maintenance testing of the breaker, TS 3.7.5 Condition A 
+was exited on 02/07/2025 at 00:30. 
+Initial troubleshooting narrowed down to two potential causes which includes breaker failure and loose breaker wiring. The 
+causal product identified a design vulnerability where a simultaneous failure of a pressure switch and time delay relay could 
+also cause the issue. The first two causes were addressed by breaker inspection and overhaul. The final cause will be 
+addressed by replacement of a time delay relay and low suction pressure switch. 
+This is being reported in accordance with 10 CFR 50. 73(a)(2)(v)(D), any event or condition that could have prevented the 
+fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident. 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+/rllll\oc,<.r,O: 
+f~J·} 
+LICENSEE EVENT REPORT (LER) 
+,~ 
+CONTINUATION SHEET 
+..... 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http:1/www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3D 
+1. FACILITY NAME 
+• 
+050 
+Quad Cities Nuclear Power Station Unit 1 
+• 
+052 
+NARRATIVE 
+PLANT AND SYSTEM IDENTIFICATION 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate lo the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollecls.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclea,- Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of infom1ation unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00254 
+2024 -
+3. LE R NUMBER 
+SEQUENTIAL 
+NUMBER 
+002 
+REV 
+NO. 
+00 
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power 
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. 
+EVENT IDENTIFICATION 
+Control Room Emergency Ventilation Air Conditioning System Inoperable Due to a Logic Issue 
+A. CONDITION PRIOR TO EVENT 
+Unit: 1 
+Reactor Mode: 1 
+Event Date: January 26, 2025 
+Mode Name: Power Operation 
+Event Time: 1450 hours CST 
+Power Level: 91% 
+No systems, structures, or components that were inoperable at the start of the event contributed to the event. 
+B. DESCRIPTION OF EVENT 
+On January 26, 2025, at 14:50, Operations identified that there was no indicating light for the Control Room 
+Emergency Ventilation (CREV)[VI] Refrigeration [RFU] Condensing Unit (RCU) 0-9400-102 on the Main 
+Control Room (MCR)[NA] Panel 912-5. An operator was dispatched and found that local indications also 
+showed the RCU to have no power and the breaker [BKR] in a tripped condition. The station entered 
+Technical Specification (TS) 3.7.5 Condition A for an inoperable CREV Air Conditioning (AC) [ACU] system. 
+ENS Notification #57515 was made in accordance with 10 CFR 50.72(b)(3)(v)(D) for any event or condition 
+that could have prevented the fulfillment of the safety function of structures or systems that are needed to 
+mitigate the consequences of an accident. 
+The CREV RCU is known to start with a high inrush of current. This was previously attributed to a "double 
+start" condition where it would start once and then within seconds start again. Between 2009 and 2012, 
+numerous trips of the CREV RCU breaker occurred. To eliminate these events a modification was installed in 
+2009 to add a time delay relay to the low suction pressure switch. The modification was to eliminate/reduce 
+the number of "double starts" on the compressor and reduce the breaker tripping. In addition, the breaker dial 
+setting was changed in 2012 from 8.1 to 9.4 to provide additional margin in the breaker trip setting. 
+All these previous events and changes to the logic and breaker settings have made the system more robust 
+over time. Between 2012 and 2020, and again after 2020, there were no CREV RCU breaker trip events. 
+Because the CREV AC system is a single train system, this report is submitted in accordance with the 
+requirements of 10 CFR 50.73(a)(2)(v)(D), which requires the reporting of an event or condition that could 
+have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the 
+consequences of an accident. 
+NRC FORM 366A (04-02-2024) 
+Page_2_ of _4_ 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+/ ....... 
+{~~-.": 
+LICENSEE EVENT REPORT (LER) 
+i~j 
+CONTINUATION SHEET 
+..... 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/readinq-rm/doc-collections/nuregs/staff/sr1022/r3D 
+1. FACILITY NAME 
+• 
+050 
+Quad Cities Nuclear Power Station Unit 1 
+0 
+052 
+NARRATIVE 
+C. CAUSE OF EVENT 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW • 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currenUy valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00254 
+2024 -
+3. LER NUMBER 
+SEQUENTIAL 
+NUMBER 
+002 
+REV 
+NO. 
+00 
+Initial troubleshooting narrowed down to two potential causes which includes breaker failure and loose breaker 
+wiring. The causal product identified a design vulnerability where a simultaneous failure of a pressure switch 
+and time delay relay could also cause the issue. A simultaneous failure could have potentially allowed a high 
+inrush starting current during one of the CREV RCU compressor pump down cycles. A pump down cycle 
+happens approximately every four hours. During the pump down cycle the RCU compressor starts for a short 
+period to pump any liquid refrigerant from the suction side of the compressor to prevent compressor damage. 
+The first two causes were addressed by breaker inspection and overhaul. The final cause will be addressed by 
+replacement of a time delay relay [62] and low suction pressure switch [PS]. 
+D. SAFETY ANALYSIS 
+System Design 
+The purpose of the Control Room Emergency Ventilation system is to maintain the proper air environment for 
+instrumentation and personnel in the Main Control Room. The CREV AC system is a single train safety-
+related system that is designed to maintain design temperature in the Control Room Envelope (CRE) under 
+post-accident conditions. The loss of CREV AC could impact the plant's ability to mitigate the consequences 
+of an accident. The CREV RCU is a key component of the CREV AC system and is a Carrier reciprocating 
+compressor with a capacity of 90 tons. The backup to the CREV system is the Train A Control Room HVAC 
+system, which is a non-safety related system. 
+Per Updated Final Safety Analysis Report (UFSAR) Section 6.4, "Habitability Systems," the Control Room 
+Heating, Ventilation and Air conditioning (HVAC) systems are capable of maintaining the control room 
+atmosphere suitable for occupancy throughout the duration of a Design Basis Accident (OBA). The RCU 
+provides cooling to support CREVs operation. The emergency operation of CREVs requires manual actions. 
+Safety Impact 
+The safety significance of this event was minimal. The CREV system filtration capability was not lost, and 
+control room temperature was maintained during this event. In addition, the non-safety related Train A Control 
+Room HVAC system was available and operating throughout this event. 
+E. CORRECTIVE ACTIONS 
+Immediate: The breaker cubicle was inspected and overhauled. 
+Follow-up: The time delay relay and the low suction pressure switch will be replaced. 
+NRC FORM 366A (04-02-2024) 
+Page_3_ of _4_ 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+•p"'--"<-t-o. 
+fli.J) 
+LICENSEE EVENT REPORT (LER) 
+\~/ 
+CONTINUATION SHEET 
+..... 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3D 
+1. FACILITY NAME 
+• 
+050 
+Quad Cities Nuclear Power Station Unit 1 
+• 
+052 
+NARRATIVE 
+F. PREVIOUS OCCURENCES 
+Estimated burden per response lo comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back lo industry. Send comments 
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S, 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer al: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, 
+Washington, DC 20503. The NRG may not conduct or sponsor, and a person is not required to 
+respond lo. a collection of infonnalion unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00254 
+2024 -
+3. LER NUMBER 
+SEQUENTIAL 
+NUMBER 
+002 
+REV 
+NO. 
+00 
+The station events database, LERs and IRIS were reviewed for similar events at Quad Cities Nuclear Power 
+Station. This event was a CREV RCU power issue, which was caused by a logic issue. 
+LER (254/2020-001-00) Control Room Emergency Ventilation Air Conditioning System Inoperable Due to 
+Incorrect Breaker Setting, 04/14/2020. The CREV RCU was declared inoperable when the electrical feed 
+breaker to the RCU was found in a tripped condition. This event was cause by an incorrect breaker setting for 
+the RCU feed breaker. The breaker setting was changed in 2012, however the guidance documents for the 
+preventative maintenance tasks on the RCU feed breaker were not updated prior to the PM task completion in 
+2013. 
+G. COMPONENT FAILURE DATA 
+Failed Equipment: BREAKER, MCC; 480V 
+Component Manufacturer: Cutler-Hammer/Eaton 
+Component Model Number: KD3250 
+Component Part Number: N/A 
+This event has been reported to IRIS. 
+NRC FORM 366A (04-02-2024) 
+Page_4_ of _4_ 

@@ -1,0 +1,437 @@
+Constellation. 
+SVP-25-031 
+June 4, 2025 
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, D.C. 20555 
+Quad Cities Nuclear Power Station, Unit 1 
+Renewed Facility Operating License No. DPR-29 
+NRC Docket No. 50-254 
+10 CFR 50.73 
+Subject: 
+Licensee Event Report 254/2025-004-00 "Loss of Suppression Chamber Vacuum 
+Breaker Safety Function due to Configuration Control Error'' 
+Enclosed is Licensee Event Report 254/2025-004-00 "Loss of Suppression Chamber Vacuum 
+Breaker Safety Function due to Configuration Control Error". 
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(v)(D), any event or condition 
+that could have prevented the fulfillment of the safety function of systems needed to mitigate the 
+consequences of an accident, and 10 CFR 50.73(a)(2)(i)(B), any operation or condition prohibited by 
+Technical Specifications. 
+There are no regulatory commitments contained in this letter. 
+Should you have any questions concerning this report, please contact Conner Bealer at 779-231-
+6207. 
+RespJ~~ 
+Doug Hild 
+Site Vice President 
+Quad Cities Nuclear Power Station 
+cc: 
+Regional Administrator - NRC Region Ill 
+NRC Senior Resident Inspector- Quad Cities Nuclear Power Station 
+
+NRC FORM 366 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+(04-02-2024) 
+Estmated burden per response to comply with this mandatOI'{ collecton request 80 hours. Reported lessons 
+/~"'·:····:\ 
+LICENSEE EVENT REPORT (LER) 
+teamed are ncorpo,ated rllo the licensing process and led back to 11dustry. Send comments regardng burden 
+estimate to the FOIA. Librar1- and Information Cottectons Branch (T-6 A10M). U. S. Nuclear Regulatory 
+;~~i 
+(See Page 2 for required number of digits/characters for each block) 
+Commissoo. Washngton. DC 20555-0001. or by emal to lnfocollects.Resource@nrc.gov, and the 0MB reviewer 
+~, 
+• .r 
+at: 0MB Office of lnlorma!ion and Regulatory Affairs, (3150-0104), Ann: Desk Officer for the Nuclear Regulatory 
+..... 
+(See NUREG-1 022, R.3 for instruction and guidance for completing this form 
+Convnissoo. 725 17th Street NW, Washington. DC 20503. The NRC may not conduct or sponsor. and a person is 
+httQ://www.nrc.gov/reading-rm/doc-collections/nuregs/stalf/sr 1 022/r3/) 
+not required lo respond to. a collection of nformaton unless the document requesting or requirng the collection 
+displays a cu"enl~/ valid 0MB control number. 
+1. Facility Name 
+~ 050 
+2. Docket Number 
+3.Page 
+Quad Cities Nuclear Power Station, Unit 1 
+□ 052 
+00254 
+1 OF 4 
+4. Title 
+Loss of Suppression Chamber Vacuum Breaker Safety Function due to Configuration Control Error 
+5. Event Date 
+6. LEA Number 
+7. Report Date 
+8. Other Facilities Involved 
+Year 
+Sequential 
+Revision 
+Facility Name 
+□ 
+Docket Number 
+Month 
+Day 
+Year 
+Number 
+No. 
+Month 
+Day 
+Year 
+N/A 
+050 N/A 
+04 
+05 
+2025 
+2025 
+004 
+00 
+06 
+04 
+2025 
+Facility Name 
+□ 
+Docket Number 
+-
+-
+N/A 
+052 
+N/A 
+9. Operating Mode 
+110. Power Level 
+1 
+100% 
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply) 
+10 CFR Part 20 
+D 20.2203(a)(2)(vi) 
+10 CFR Part 50 
+□ 50.73(a)(2)(ii)(A) 
+□ 50.73(a)(2)(viii)(A) 
+D 73.1200(a) 
+□ 
+20.2201(b) 
+D 20.2203(a)(3)(i) 
+□ 50.36(c)(1 )(i)(A) 
+□ 
+50.73(a)(2)(ii)(B) 
+□ 50. 73(a)(2)(viii)(B) 
+□ 
+73.1200(b) 
+□ 20.2201(d) 
+D 20.2203(a)(3)(ii) 
+□ 50.36(c)(1 )(ii)(A) 
+□ 50.73(a)(2)(iii) 
+□ 50. 73(a)(2)(ix)(A) 
+D 73.1200(c) 
+D 20.2203(a)(1) 
+D 20.2203(a)(4) 
+□ 50.36(c)(2) 
+□ 50. 73(a)(2)(iv)(A) 
+□ 50. 73(a)(2)(x) 
+□ 
+73.1200(d) 
+D 20.2203(a)(2)(i) 
+1 O CFR Part 21 
+□ 50.46(a)(3)(ii) 
+□ 50. 73(a)(2)(v)(A) 
+10 CFR Part 73 
+D 73.1200(e) 
+D 20.2203(a)(2)(ii) 
+D 21.2(c) 
+□ 50.69(g) 
+□ 50. 73(a)(2)(v)(B) 
+□ 73.77(a)(1) 
+□ 
+73.1200(f) 
+D 20.2203(a)(2)(iii) 
+□ 50. 73(a)(2)(i)(A) 
+□ 50. 73(a)(2)(v)(C) 
+□ 73.77(a)(2)(i) 
+□ 
+73.1200(9) 
+D 20.2203(a)(2)(iv) 
+~ 50. 73(a)(2)(i)(B) 
+~ 50. 73(a)(2)(v)(D) 
+□ 73. 77(a)(2)(ii) 
+□ 73.1200(h) 
+D 20.2203(a)(2)(v) 
+□ 
+50.73(a)(2)(i)(C) 
+□ 50.73(a)(2)(vii) 
+D OTHER (Specify here, in abstract, or NRC 366A). 
+12. Licensee Contact for this LEA 
+Licensee Contact 
+Phone Number (Include area code) 
+Richard Swart - Regulatory Assurance 
+309-227-2810 
+13. Complete One Line for each Component Failure Described in this Report 
+Cause 
+System 
+Component 
+Manufacturer Reportable to IRIS 
+Cause 
+System 
+Component 
+Manufacturer 
+Reportable to IRIS 
+N/A 
+N/A 
+14. Supplemental Report Expected 
+Month 
+Day 
+Year 
+~ 
+No 
+□ 
+15. Expected Submission Date 
+Yes (If yes, complete 15. Expected Submission Date) 
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewri11en lines) 
+On 04/05/2025 at 04:00, Operations determined that a mispositioned manual isolation valve made both trains of Reactor 
+Building to Suppression Chamber Vacuum Breakers simultaneously inoperable. The vacuum breaker inoperability could have 
+prevented fulfillment of primary containment function following a design-basis accident with no operator intervention. The valve 
+was not properly repositioned following refuel outage activities in March of 2025. 
+The cause of the valve mispositioning was inadequate standards in Procedure Use and Adherence during refuel outage 
+activities. Immediate corrective action was to open the isolation valve. Subsequent actions will be to make the valve a locked-
+open valve, to improve related procedures, and to provide training related to this event. 
+This is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D), any event or condition that could have prevented the 
+fulfillment of the safety function of systems needed to mitigate the consequences of an accident, and 1 O CFR 50.73(a)(2)(i)(B), 
+any operation or condition prohibited by Technical Specifications. 
+
+NRC FORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. FACILITY NAME 
+■ 050 
+Quad Cities Nuclear Power Station Unit 1 
+□ 052 
+NARRATIVE 
+PLANT AND SYSTEM IDENTIFICATION 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and led back to industry. Send comments 
+regarding burden estimate to the FOIA. Library. and lnlormation Collections Branch (T-6 A10M), U. S. 
+Nuclear 
+Regulatory 
+Commission. 
+Washington, 
+DC 
+20555·0001, 
+or 
+by 
+email 
+to 
+lnlocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office ol Information and Regulatory 
+Aflairs, (3150-0104), Alln: Desk Ollicer for the Nuclear Regulatory Commission. 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection ol information unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+YEAR 
+00254 
+2025 
+-
+3. LE R NUMBER 
+SEQUENTIAL 
+NUMBER 
+004 
+REV 
+NO. 
+00 
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power 
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. 
+EVENT IDENTIFICATION 
+Loss of Suppression Chamber Vacuum Breaker Safety Function due to Configuration Control Error 
+A. CONDITION PRIOR TO EVENT 
+Unit: 1 
+Reactor Mode: 1 
+Event Date: May 5, 2025 
+Mode Name: Power Operation 
+Event Time: 0400 hours CST 
+Power Level: 100% 
+No systems, structures, or components that were inoperable at the start of the event contributed to the event. 
+B. DESCRIPTION OF EVENT 
+On 04/05/2025 at 04:00, Operations discovered that manual isolation valve [V] 1-1601-84B, U1 Torus Line 1-
+1635B-1/2 inch LA Root Valve, was in the closed position. Closure of the 1-1601-84B (-84B) valve prevents 
+operation of air operated Reactor Building to Suppression Chamber Vacuum Breakers [VACB][BF] 1-1601-
+20A and 1-1601-20B, hereafter denoted as "the vacuum breakers." The -84B valve isolated differential 
+pressure sensors [DPS] from the suppression pool atmosphere, subsequently preventing the operation of 
+solenoid valves [PDSV] providing air to the vacuum breakers. Technical Specification {TS) 3.6.1.7, Reactor 
+Building to Suppression Chamber Vacuum Breakers, Conditions C and E were entered for each vacuum 
+breaker. Condition C is for one line with one or more reactor building to suppression chamber vacuum 
+breakers inoperable for opening; Condition E is for two lines with one or more vacuum breakers inoperable for 
+opening. The -84B valve was opened, and TS 3.6.1.7 was exited on 04/05/2025 at 0400. The vacuum 
+breaker inoperability could have prevented fulfillment of primary containment function following a design-basis 
+accident with no operator intervention. Additionally, the TS 3.6.1.7 Condition E Completion Time of 1 hour 
+was not met based on the Required Action to restore vacuum breakers in one of two lines to operable status 
+following entry into Mode 2. Also, TS Limiting Condition for Operation (LCO) 3.0.4 was not met when Mode 2 
+was entered without any specific allowances or risk assessments performed for the vacuum breaker 
+inoperability related to TS 3.6.1.7. 
+During the refuel outage, March 10, 2025, through April 1, 2025, Local Leak Rate Tests (LLRTs) and valve 
+maintenance activities included closure of the -84B valve. At the conclusion of the as-left LLRT on 03/28/25, 
+steps to open the -84B and other valves were annotated that they were to be left closed per the Unit 
+Supervisor, with a Senior Reactor Operator (SRO) having an expectation that subsequent outage clearance 
+order activities would later recover the desired valve position. No peer reviews were performed on the 
+incomplete steps, nor were any verifications made related to the applicable clearance order, resulting in the 
+isolation valves remaining closed the duration of the refuel outage. 
+NRC FORM 366A (04·02-2024) 
+Page_2_ of _4_ 
+
+NRC F.ORM 366A 
+(04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+LICENSEE EVENT REPORT (LER) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www. nrc .gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/l 
+1. FACILITY NAME 
+■ 050 
+Quad Cities Nuclear Power Station Unit 1 
+□ 052 
+NARRATIVE 
+Estimated burden per response to comply wilh lhis mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated inlo the licensing process and fed back to industry. Send comments 
+regarding burden estimale to the FOIA, Library. and Information Collections Branch (T-6 AtOM), U. S. 
+Nuclear 
+Regulatory 
+Commission. 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW, 
+Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid 0MB control number. 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+SEQUENTIAL 
+REV 
+NUMBER 
+NO. 
+00254 
+2025 -
+004 
+-
+00 
+The valve remained closed through reaching the Mode of Applicability for TS 3.6.1.7, Mode 2, on 03/31/2025 
+at 1052, and through Mode 1 operation. In subsequent days, unexpected continuous operation of a 
+compressor [CMP] associated with differential pressure control between the drywell and the suppression 
+chamber resulted in troubleshooting of compressor control instruments. This is when the -84B valve was 
+found closed. The -84B valve was opened on 04/05/2025 at 0400. 
+The total time the vacuum breakers 
+were inoperable in the modes of applicability was 4 days, 17 hours, and 8 minutes. TS 3.6.1 . 7 Condition C 
+has a 7-day completion time, which was not exceeded. TS 3.6.1.7 Condition E has a 1-hour completion time, 
+which was exceeded. 
+Event Notification System report 57647 was submitted on 04/05/2025 at 1133. 
+C. CAUSE OF EVENT 
+The cause of the self-identified event was inadequate standards in Procedure Use and Adherence. 
+The procedure step to recover the -84B has instructions to "perform system restoration as follows, or as 
+directed by the Unit Supervisor." The SRO performing the LLRT procedure incorrectly assumed that the -84B 
+would be restored through some other process but did not validate this assumption or obtain a peer check, as 
+was required by procedure. Instead, the procedure step was annotated that the valve would be left closed per 
+the Unit Supervisor. 
+A failure to properly reinforce the required Human Performance and Technical Human Performance standards 
+contributed to this event. 
+D. SAFETY ANALYSIS 
+System Design 
+Automatic vacuum relief devices on the drywell and the suppression chamber prevent the primary 
+containment from exceeding the design external-to-internal pressure differential. The drywell is designed for a 
+maximum external pressure of 2 psi greater than the concurrent internal pressure. The suppression chamber 
+is designed for a maximum external pressure of 2 psi greater than the concurrent internal pressure based on 
+the original design calculations; however, the overpressure capability of the suppression chamber is 
+conservatively stated to be 1.0 psi. 
+The suppression chamber vacuum breakers prevent excessive vacuum in the suppression chamber relative 
+to the reactor building by admitting reactor building air at a preset pressure differential that does not exceed 
+the equivalent of 0.5 psid. Two vacuum breaker valves in series are used in each of two lines leading from the 
+reactor building atmosphere. One valve in each line (vacuum breakers 1-1601-20A or -20B) is air-operated 
+and actuated by a differential pressure signal, independently of electrical power. The second valve in each 
+NRC FORM 366A (04-02-2024) 
+Page_3_ of _4_ 
+
+NRC FORM 366A 
+{04-02-2024) 
+U.S. NUCLEAR REGULATORY COMMISSION 
+APPROVED BY 0MB: NO. 3150-0104 
+EXPIRES: 04/30/2027 
+LICENSEE EVENT REPORT (LEA) 
+CONTINUATION SHEET 
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) 
+1. FACILITY NAME 
+■ 050 
+Quad Cities Nuclear Power Station Unit 1 
+□ 052 
+NARRATIVE 
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported 
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments 
+regarding burden estimate to the FOIA, library. and Information Collections Branch (T-6 A10M), U.S. 
+Nuclear 
+Regulatory 
+Commission, 
+Washington, 
+DC 
+20555-0001, 
+or 
+by 
+email 
+to 
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory 
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW, 
+Washinglon. DC 20503. The NRG may not conduct or sponsor, and a person is not required to 
+respond to, a collection of information unless the document requesting or requiring the collection 
+displays a currently valid 0MB conlrol number. 
+2. DOCKET NUMBER 
+3. LER NUMBER 
+YEAR 
+SEQUENTIAL 
+REV 
+NUMBER 
+NO. 
+00254 
+2025 -
+004 
+-
+00 
+line is self-actuating. The combined pressure drop at rated flow through both valves does not exceed the 
+difference between suppression chamber design external pressure and maximum atmospheric pressure. 
+Safety Impact 
+There were no safety consequences as a result of this event. There was no radiation release associated with 
+this event. Operations took immediate actions upon discovery of the condition. The vacuum breakers will fail 
+open on the loss of electrical control power. Operator actions could also address this condition in an 
+applicable design-basis scenario. 
+This event is considered a safety system functional failure per NEI 99-02. 
+E. CORRECTIVE ACTIONS 
+Immediate: 
+1. Valve 1-1601-84B was returned to the open position. 
+Follow-up: 
+1. New default position for the valve will be 'Locked Open.' 
+2. Startup procedures will be revised to verify the position of the valve. 
+3. Training will be provided for the Operations Department related to this event. 
+F. PREVIOUS OCCURENCES 
+The station events database, LERs and IRIS were reviewed for similar events at Quad Cities Nuclear Power 
+Station. Two station LERs in the last three years listed below include events where written instructions were 
+not properly recognized or followed by Operations, resulting in TS violations. 
+LER (254/2024-01-00) Technical Specification 3.5.2 Action Not Performed Due to Inadequate Procedure 
+Adherence, 1/21/25. Procedure adherence related issue resulted in a Reactor Pressure Vessel Water 
+Inventory Control (RPV WIC) drainage event. Associated with that event was a failure to recognize the need 
+to enter RPV WIC related TS Actions. 
+LER (254/2025-001-00) Technical Specification 3.6.4.2 Not Performed Due to Tagout Boundary Placement 
+Error, 3/7/25. Failure to implement the administrative controls in a tagout resulted in a secondary containment 
+isolation valve being left in an open position. 
+G. COMPONENT FAILURE DATA 
+There were no equipment failures associated with this event. 
+This event has been reported to IRIS. 
+NRC FORM 366A {04-02-2024) 
+Page _4_ of _4_ 

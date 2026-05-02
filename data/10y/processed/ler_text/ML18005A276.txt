@@ -1,0 +1,219 @@
+SVP-18-002 10 CFR 50.73
+January 5, 2018
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, D.C. 20555
+Quad Cities Nuclear Power Station, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-29 and DPR-30
+NRG Docket Nos. 50-254 and 50-265
+Subject: Licensee Event Report 254/2017-004-00, "Unit 1 HPCI Did Not Trip Due to Wear
+Debris in the Turbine Stop Valve Oil Resetting Solenoid"
+Enclosed is Licensee Event Report (LER) 254/2017-004-00, "Unit 1 HPCI Did Not Trip Due to
+Wear Debris in the Turbine Stop Valve Oil Resetting Solenoid," for Quad Cities Nuclear Power
+Station, Unit 1.
+This report is submitted in accordance with 1O CFR 50.73 (a)(2)(v)(D) which requires the reporting
+of any event or condition that could have prevented fulfillment of a safety function.
+There are no regulatory commitments contained in this letter.
+Should you have any questions concerning this report, please contact Mark Humphrey at
+(309) 227-2800.
+Respectfully,
+Ke~r~ ~~
+Site Vice President
+Quad Cities Nuclear Power Station
+cc: Regional Administrator - NRG Region Ill
+NRG Senior Resident Inspector-Quad Cities Nuclear Power Station
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response to comply with this mandatory collection request: BO hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Privacy and Information Collections
+Branch (T-5 F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or bye-
+(See Page 2 for required number of digits/characters for each block) mail to lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget, Washington,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form DC 20503. If a means used to impose an information collection does not display a currently valid
+OMB control number, the NRG may not conduct or sponsor, and a person is not required to
+respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Quad Cities Nuclear Power Station Unit 1 05000254 1 OF 4
+4. TITLE
+Unit 1 HPCI Did Not Trip Due to Wear Debris in the Turbine Stop Valve Oil Resetting Solenoid
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I SEQUENTIAL I REV FACILITY NAME DOCKET NUMBER
+MONTH DAY YEAR YEAR NUMBER NO. MONTH DAY YEAR Quad Cities Nuclear Power Station Unit 2 05000265
+- - FACILITY NAME DOCKET NUMBER
+11 07 2017 2017 004 00 01 05 2018 N/A N/A
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (bl 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201 (d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1 l 20.2203(a)(4) so.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(il 50.36(c)(1 )(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1 )(ii)(A) 50.73(a)(2)(v)(A) 73.11 (a)(4)
+D D D D
+20.2203(a)(2)(m) so.36(c)(2) 50.73(a)(2)(v)(B) 73.11 (a)(s)
+D D D D
+20.2203(a)(2)(iv) so.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1 l
+D D IZ! D
+100 20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50. 73(a)(2)(v)(D) 1s.n(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT rELEPHONE NUMBER (Include Area Code)
+Rachel A. Luebbe - Regulatory Assurance (309) 227-2813
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+B BJ PSV 8070 y
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D IZI SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO DATE N/A N/A N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+During performance of the High Pressure Coolant Injection (HPCI) Pump Operability Test, the Unit 1 HPCI turbine did not
+trip when the Remote HPCI Turbine Trip pushbutton was depressed. Operations shut down HPCI by isolating the steam
+supply valves to trip the HPCI turbine. The Unit 1 HPCI system was declared inoperable, but remained available. The
+cause was determined to be accumulation of wear debris within the HPCI turbine stop valve oil resetting solenoid valve
+causing the valve to stick in the energized position. This wear debris was a result of a manufacturing deficiency.
+The immediate corrective action was to replace the turbine stop valve oil resetting solenoid valve. Follow-up corrective
+action is to evaluate the preventative maintenance frequency tor the HPCI turbine stop valve oil resetting solenoid valve.
+The safety impact of this condition was minimal. The HPCI system was still available to function, despite the issue with
+the HPCI Turbine Stop Valve oil resetting solenoid. The event is being reported because HPCI is a single train system
+and the loss of HPCI could potentially impact the plant's ability to mitigate the consequences of an accident.
+NRC FORM 366 (06-2016)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimaled burden per response lo comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+htto://www.nrc.aov/readino-rm/doc-collections/nureas/staff/sr1022/r3/l
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 NO.
+NUMBER
+2017 004 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+General Electric - Boiling Water Reactor, 2957 Megawatts Thermal Rated Core Power
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+EVENT IDENTIFICATION
+Unit 1 HPCI Did Not Trip Due to Wear Debris in the Turbine Stop Valve Oil Resetting Solenoid
+A. CONDITION PRIOR TO EVENT
+Unit: 1 Event Date: November 7, 2017 Event Time: 18:10 hours
+Reactor Mode: 1 Mode Name: Power Operation Power Level: 100%
+B. DESCRIPTION OF EVENT
+On November 7, 2017 at 1810 hours, during performance of the quarterly High Pressure Coolant Injection (HPCI)
+[BJ] Pump Operability test, the Unit 1 HPCI turbine [TRB] failed to trip when the remote HPCI Turbine Trip
+pushbutton [HS] was depressed. Operations directed the shutdown of the Unit 1 HPCI system by isolating the HPCI
+steam supply valves [ISV], causing HPCI flow to reduce to 0 GPM. After the isolation was completed, Unit 1 HPCI
+was declared inoperable but available. There were no other structures, systems or components (SSC) inoperable
+during this event time period that could have contributed to this event.
+After troubleshooting, the internal HPCI stop valve oil resetting solenoid [PSV] was replaced. Following the
+replacement of the solenoid valve, the HPCI system was declared operable on November 8, 2017 at 2335 hours.
+C. CAUSE OF EVENT
+The cause of the HPCI turbine failure to trip was determined to be accumulation of wear debris within the HPCI stop
+valve oil resetting solenoid valve causing the solenoid valve to stick in the energized position. The wear debris was
+caused by a manufacturing deficiency.
+D. SAFETY ANALYSIS
+System Design
+According to the Quad Cities Nuclear Power Station (QCNPS), Units 1 and 2 Updated Final Safety Analysis Report
+(UFSAR) Section 6.3.2.3, the HPCI subsystem is designed to pump water into the reactor vessel under Loss of
+Coolant Accident (LOCA) conditions which do not result in rapid depressurization of the pressure vessel. The loss of
+coolant might be due to a loss of reactor feedwater or to a small line break which does not cause immediate
+depressurization of the reactor vessel. The sizing of the HPCI subsystem is based upon providing adequate core
+cooling during the time that the pressure in the reactor vessel decreases to a value that the Core Spray [BM]
+subsystem and/or the Low Pressure Coolant Injection (LPCI) [BO] subsystem become effective. The HPCI
+subsystem is designed to pump 5600 gallons per minute into the reactor vessel within a reactor pressure range of
+NRC FORM 366A (06-2016) Paee 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Eslimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT {LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+h tto://www. n re. oov /readino-rm/doc-col lections/nu reos/staffi s r1 022/r 3/\
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 NO.
+NUMBER
+2017 - 004 00
+NARRATIVE
+about 1120 pounds per square inch gage (psig) to 150 psig. Initiation of the HPCI subsystem occurs automatically on
+signals indicating reactor low-low water level or high drywell pressure. HPCI injection into the reactor vessel may be
+accomplished manually by the operator or without operator action by the HPCI automatic initiation circuitry. HPCI can
+also operate in a pressure control mode of consuming steam from the reactor vessel without providing full injection
+into the vessel (down to and including zero injection).
+Safety Impact
+The safety significance of this event is minimal. The HPCI Turbine Stop Valve would not trip, however this did not
+impact the injection function of HPCI, until the system was isolated via the steam supply valves. The HPCI steam
+supply valves would have to be manually opened to allow HPCI to function as an injection system. The HPCI
+system was declared inoperable but available once the steam supply valves were closed.
+Since HPCI is a single train safety system, this notification is being made in accordance with 10 CFR 50.73
+(a)(2)(v)(D), Event or Condition that Could Have Prevented Fulfillment of a Safety Function.
+Risk Insights
+Automatic HPCI trip failure is represented in the Quad Cities Full Power Internal Events (FPIE) PRA model, which
+includes the HPCI turbine steam stop valve and others to manually control HPCI and prevent level overfill. The
+accident sequences involved are Automatic Transit without a Scram (ATWS) sequences, for which a HPCI trip failure
+leads to Boron dilution. ATWS sequences contribute about 3.7% to Core Damage Frequency (CDF). This
+assessment looks at the oil resetting solenoid valve trip failure. The PRA assessment found that there is minimal
+risk impact since the changes in CDF and LERF due to the HPCI (mechanical) trip failure are very small.
+E. CORRECTIVE ACTIONS
+Immediate:
+1. Replaced solenoid valve internal to HPCI Turbine Stop Valve and verified proper operation.
+Follow-up:
+1. Evaluate PM frequency change for Turbine Stop Valve internal solenoid valve replacements. Also
+evaluate current design for improvement by changing solenoid valve model or manufacturer.
+F. PREVIOUS OCCURRENCES
+The Station events database, LERs, and INPO Consolidated Event System (ICES) were reviewed for similar events
+at Quad Cities Nuclear Power Station. This event was attributed to wear debris in the HPCI Turbine Stop Valve oil
+resetting solenoid valve.
+No previous occurrences applicable to the circumstances of this event were identified in this search.
+NRC FORM 366A (06-2016) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(06-2016)
+Estimated burden per response lo comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office al Management and Budget, Washington, DC 20503. If a means
+CONTINUATION SHEET
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+h ttn ://www. n re. aov/ readinn-rm/doc-collections/nu reas/staff /s r 10 22/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Quad Cities Nuclear Power Station Unit 1 05000254 NO.
+NUMBER
+2017 004 00
+NARRATIVE
+G. COMPONENT FAILURE DATA
+Failed Equipment: Solenoid Valve
+Component Manufacturer: Barksdale
+Component Model Number: Q165A322BBG-1
+Component Part Number: N/A
+This event has been reported to ICES as Report No. 426159
+NRC FORM 366A (06-2016) Pae:e 4 of 4

@@ -1,0 +1,168 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Be1wick, PA 18603
+Tel. 570,542.3795 Fax 570.542.1504
+ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+March 30, 2022
+Attn: Document Control Desk 10 CPR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387/2021-005-01
+UNIT 1 LICENSE NO. NPF-14
+PLA-7992 Docket No. 50-387
+Attached is Licensee Event Report (LER) 50-3 87/2021-005-01. The LER supplement reports an
+event involving an automatic scram due to a Reactor Protection System actuation as a result of
+Turbine Valve fast closure and subsequent Electro-hydraulic Control Fluid pressure
+petturbation. The condition is being rep01ied in accordance with 10 CPR 50.73(a)(2)(iv)(A) as
+an event that resulted in automatic actuation of a system listed in 10 CFR 50.73(a)(2)(iv)(B).
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-387/2021-005-0l
+Copy: NRC Region I
+Mr. C. Highley, NRC Senior Resident Inspector
+Ms. A. Klett, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and lnfonmation Collections Branch {T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.~op.gov. The NRC may not conduct or
+fomn htt QS. · //www . nrc.qovI r ea d' , ng-rrn Id oc-co I I e c t' I o ns 1 n ureqs 1s t aff/s r1 02213r 11 r s e p q o u n e s s o t r in , g a n o d r r a e q p u e i r r s in o g n t 1 h s e n c o o t l r le e c q t u io ir n e d d is to p l r a e y s s p o a n c d u r to re , n a tly c o v l a le li c d t io 0 n M o B f c In o f n o t r r m ol a n tio u n m b u e n r le . ss the document
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station, Unit 1 05000387 1 of 3
+4. Title
+Automatic Reactor Scram due to Turbine Control Valve Fast Closure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Number No. Month Day Year 05000
+Facility Name Docket Number
+11 30 2021 2021 - 005 - 01 03 30 2022
+05000
+9. Operating Mode 10. Power Level
+1 080
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+□ 20.2203(a)(2)(vi) □ 50.36(c)(2) IZI 50.73(a)(2)(iv)(A) □ 50.73(a)(2)(x)
+□ 20.2203(a)(3)(i) □ 50.46(a)(3)(ii) □ 50.73(a)(2)(v)(A)
+□ 20.2201(d) □ 50.69(g) □ 50.73(a)(2)(v)(B) □ 73.71(a)(4)
+□ 20.2203(a)(1) □ 50.73(a)(2)(i)(A) □ 50.73(a)(2)(v)(C) □ 73.71(a)(5)
+□ 20.2203(a)(2)(i) □ 50.73(a)(2)(i)(B) □ 50.73(a)(2)(v)(D) □ 73.77(a)(1)(i)
+□ 20.2203(a)(2)(ii) □ 50.73(a)(2)(i)(C) □ 50.73(a)(2)(vii) □ 73.77(a)(2)(i)
+□ 20.2203(a)(2)(iii) □ 50.73(a)(2)(ii)(A) □ 50.73(a)(2)(viii)(A) □ 73.77(a)(2)(ii)
+□ 20.2203(a)(2)(iv) □ 50.36(c)(1 )(i)(A) □ 50.73(a)(2)(ii)(B) □ 50.73(a)(2)(viii)(B)
+□ 20.2203(a)(2)(v) □ 50.36(c)(1)(ii)(A) D 50.73(a)(2)(iii) □ 50.73(a)(2)(ix)(A)
+□ Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number {Include Area Code)
+Peggy Kramer, Regulatory Affairs Engineer (570) 542-3131
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B TA FCV P070 y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+181 No □ Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At approximately 12:54 on November 30, 2021, Susquehanna Steam Electric Station, Unit 1, experienced an automatic reactor scram
+during Turbine Valve Cycling surveillance testing. During the fast closure portion of the surveillance test on Main Stop Valve 4
+(MSV-4), a closure of Turbine Control Valve 4 (CV-4) occurred, resulting in a Division II Reactor Protection System (RPS) actuation.
+While the Division II half scram signal was actuated, a Division I RPS actuation occurred, resulting in a full reactor scram. All control
+rods inserted and operators placed mode switch to shut down.
+Event Notification 55616 reported this event in accordance with 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR 50.72{b)(3)(iv)(A). This event
+is also reportable in accordance with 10 CFR 50.73(a)(2){iv)(A) as an event that resulted in automatic actuation of a system in
+10 CFR 50.73(a)(2)(iv)(B).
+The CV-4 fast closed due to transient voltage from a ground fault on the CV-4 Fast Acting Solenoid (FASV) field wiring. The previous
+single point vulnerability review for the system failed to identify and mitigate this failure mechanism. The Electro-hydraulic Control
+fluid pressure perturbation from the simultaneous closure of MSV-4 and CV-4 resulted in the Division II RPS actuation. Further
+review identified a recommended modification to dampen pressure in the system was never installed based on vendor
+recommendation. Key corrective actions include, in part, replacement of the CV-4 FASV wire and installation of orifices in
+accordance with the General Electric Technical Information Letter 1212-2 guidance.
+There were no actual consequences to the health and safety of the public as a result of this event.
+U. 5. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT RE Po RT (LE R)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1 0M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+f , h' f Affairs, (3150-0104), Attn: Desk all: oira submission@ornb.eop.gov. The NRG may not conduct or
+(See NUREG-1022, R.3 for _inStruction and gu_idance or completing t IS arm sponsor, and a person is not required to respond to, a collection of infonmation unless the document
+https://www.nrc.gov/read1ng-rm/doc-collect1ons/nuregs/staff/sr1022/r31) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO,
+Unit 1 2021 - 005 - 01
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 - Mode 1, approximately 80 percent Rated Thermal Power (RTP)
+Unit 2 - Mode 1, approximately 100 percent RTP
+Unit 1 Turbine Valve Cycling surveillance testing was in progress at the time of the event.
+EVENT DESCRIPTION
+At approximately 12:54 on November 30, 2021, Susquehanna Steam Electric Station, Unit 1, experienced an
+automatic scram due to a Reactor Protection System (RPS) [EIIS System Code: JC] actuation during Turbine
+Valve Cycling surveillance testing. During the fast closure portion of the surveillance test on Main Stop Valve
+4 (MSV-4) [EIIS System/Component Codes: TA/SHV], Control Valve 4 (CV-4) [TA/FCV] unexpectedly fast
+closed, thereby generating a Turbine Control Valve fast closure on Division II RPS. Fast closure of CV-4 and
+MSV-4 caused an Emergency Trip System (ETS) pressure perturbation in the Electro-hydraulic Control
+(EHC) [TG] system which actuated one of the two Division I RPS low pressure switches. The Division I
+signal combined with the Division II signal resulted in a full scram. All control rods inserted, and operators
+placed mode switch to shut down. Reactor water level was maintained at the normal operating band using
+the Reactor Feed Water system [SJ]. All safety systems responded properly during the event.
+Event Notification 55616 reported this event in accordance with 10 CFR 50.72(b)(2)(iv)(B) and
+10 CFR 50.72(b)(3)(iv)(A). This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an
+event that resulted in automatic actuation of a system listed in 10 CFR 50.73(a)(2)(iv)(B).
+CAUSE OF EVENT
+Transient voltage from a ground fault on the CV-4 Fast Acting Solenoid, SV10150D, field wiring energized
+the solenoid causing CV-4 to unexpectedly fast close. The EHC Single Point Vulnerability Assessment did
+not identify failure modes necessary to develop bridging and mitigation strategies on a passive component
+(i.e., wiring) located in a severe service environment and ultimately contributed to a reactor scram.
+ETS header pressure drop from simultaneous fast closure of CV-4 and MSV-4 actuated one of the two
+Division I RPS control valve ETS low pressure switches (PSLC721 N005A/C) [JJ/PS]. Operating Experience
+General Electric Technical Information Letter (TIL) 1212-2, which provided recommendations for controlling
+ETS pressure/flow via installation of orifices [OR], was previously evaluated with an inadequate conclusion
+resulting in the orifices not being installed as recommended. ,
+ANALYSIS/SAFETY SIGNIFICANCE
+The actual consequence of this event was a Unit 1 Reactor scram. The scram did not require or result in the
+actuation of Emergency Core Cooling System and no main steam relief valves [SB/RV] opened. Reactor
+Core Isolation Cooling system [BN] initiated as designed. All safety systems responded properly during the
+event. The condition described herein did not result in a safety system functional failure. Accordingly, this
+NRC FORM 366A (08-2020) Page .1.. of .l.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104 EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatoiy collection request: 80 hours. Reported
+f ,., ~ pf.U,:hc-f \ >. lessons learned are incorporated into the licensing process and fed back to industiy. Send comments
+\~q LI C ENS EE EVENT REPORT (LE R) regarding burden estimate to the FOIA, Libraiy, and Information Collections Branch (T-6 A10M), U.S.
+...... CONTINUATION SHEET Nuclear Regulatoiy Commission, Washington, DC 20555-0001, or by e-mail to
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of information and Regulatoiy
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https:l/www.nrc.gov/reading-rm/doc-collections/nuregslstaff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LERNUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station, 05000-387 NUMBER NO.
+Unit 1 2021 - 005 - 01
+NARRATIVE
+event will not be counted as a safety system functional failure in the Reactor Oversight Process Performance
+Indicators. There were no actual consequences to the health and safety of the public as a result of this event.
+CORRECTIVE ACTIONS
+Key Corrective Actions Included:
+1. Replace damaged wiring for CV-4.
+2. Install orifices in accordance with General Electric TIL 1212-2 guidance.
+3. Perform Extent of Condition, as required, for Unit 1 and 2 main turbine steam valves.
+4. Develop preventative maintenance tasks for critical wiring on main turbine steam valves.
+5. Revise, as required, the EHC Single Point Vulnerability Mitigation Plan to address any vulnerabilities and
+associated mitigation strategies on passive components (e.g. wiring).
+COMPONENT FAILURE INFORMATION
+Component Identification - SV10150D Wiring
+Component Name - Control Valve 4 Fasting Acting Solenoid
+Component Model Number - D3W4BVY13X1555
+Manufacturer - Parker Hannifin
+PREVIOUS OCCURRENCES
+None.
+NRC FORM 366A (08-2020) Page .l._ of .l._

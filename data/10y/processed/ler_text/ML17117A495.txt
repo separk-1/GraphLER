@@ -1,0 +1,333 @@
+TennesseeValleyAuthority,SequoyahNuclearPlant, P.O. Box2000, SoddyDaisy,Tennessee37384
+April26, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Sequoyah Nuclear Plant, Units 1 and 2
+Renewed Facility Operating License Nos. DPR-77 and DPR-79
+NRC Docket Nos. 50-327 and 50-328
+Subject: Licensee Event Report50-327 and 50-328/2017-001-00, Breached Door
+Renders Both Trains ofthe Auxiliary Building Gas Treatment System
+Inoperable
+The enclosed licensee event report provides details concerning discovery of a breached door
+associated withthe auxiliary building secondary containment enclosure (ABSCE) boundarythat
+resulted in both trains oftheAuxiliary Building Gas Treatment System being declared
+inoperable. This report is being submitted inaccordance with 10 CFR 50.73(a)(2)(i)(B), as any
+operation or condition which was prohibited bythe plant's Technical Specifications and in
+accordance with 10 CFR 50.73(a)(2)(v), as an event or condition that could have prevented the
+fulfillmentof a safetyfunction ofstructures or systems that are needed to: (C) control the
+release of radioactive material and (D) mitigate the consequences of an accident.
+There are no regulatory commitments contained inthis letter. Should you have any questions
+concerning this submittal, please contact Michael McBrearty, Site Licensing Manager, at
+(423)843-7170.
+Anthony L.Williams
+Site Vice President
+Sequoyah Nuclear Plant
+Enclosure: Licensee Event Report 50-327 and 50-328/2017-001-00
+cc: NRC Regional Administrator- Region II
+NRC Senior Resident Inspector-Sequoyah Nuclear Plant
+printedonrecycledpaper
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER)
+Send comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.
+Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number,
+the NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. PAGE
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. TITLE
+Breached Door Renders Both Trains of the Auxiliary Building Gas Treatment System Inoperable
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+FACILITY NAME DOCKET NUMBER
+SEQUENTIAL REV
+MONTH DAY YEAR YEAR MONTH DAY YEAR Sequoyah Nuclear Plant Unit 2
+NUMBER NO. 05000328
+FACILITY NAME DOCKET NUMBER
+03 03 17 2017 - 001 - 00 04 26 17
+NA 05000
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1 20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+100
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(i)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTACT FOR THIS LER
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Scott T Bowman 423-843-6910
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+MANU- REPORTABLE MANU- REPORTABLE
+CAUSE SYSTEM COMPONENT CAUSE SYSTEM COMPONENT
+FACTURER TO EPIX FACTURER TO EPIX
+N/A
+14. SUPPLEMENTAL REPORT EXPECTED 15. EXPECTED MONTH DAY YEAR
+SUBMISSION
+YES (If yes, complete 15. EXPECTED SUBMISSION DATE) NO
+DATE
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 3, 2017, at 2232 eastern standard time (EST), Door A212 was improperly breached to facilitate a
+continuous fire watch. On March 7, 2017, at 0830 EST, a senior reactor operator discovered Door A212
+blocked open during a walk down of the Auxiliary Building. The open door created a breach of the auxiliary
+building secondary containment enclosure (ABSCE) boundary. The identified breach exceeded the allowed
+ABSCE breach margin. As a result, both units entered Technical Specification (TS) Limiting Condition for
+Operation (LCO) 3.7.12, Condition B for two trains of the Auxiliary Building Gas Treatment System (ABGTS)
+inoperable due to an inoperable ABSCE boundary in Mode 1, 2, 3, or 4. At 0949 EST, on March 7, the door
+was closed and both units exited LCO 3.7.12, Condition B. Both trains of ABGTS were inoperable longer than
+allowed by TS. There were no actual safety consequences as a result of this event.
+An evaluation determined the cause to be a less than adequate single barrier breaching standard exists at
+Sequoyah Nuclear Plant. A contributing cause was an inconsistent approach to entry into the barrier
+breaching process. Corrective actions include revising the breaching procedure to address all possible
+breaches and include a matrix for doors and their associated impacts, and addressing potential knowledge
+deficiencies.
+NRC FORM 366 (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 and Unit 2 were in Mode 1 at
+100 percent rated thermal power.
+II. Description of Event
+A. Event Summary:
+As a result of fire protection [EIIS: KF] piping inspections, the fire protection for the Fuel
+Handling Exhaust Fan (FHEF) [EIIS: FAN] Filter [EIIS: FLT] Enclosure was authorized to be
+isolated under a clearance. The isolation required a continuous fire watch to inspect the
+inside of the FHEF Filter Enclosure. With the FHEF in service, excessive differential
+pressure across Auxiliary Building [EIIS: NF] Door [EIIS: DR] A212 hindered opening the
+door for the inspection. Therefore, a fire protection impairment permit was generated to
+breach Door A212; however, the door was not evaluated as a breach of the auxiliary building
+secondary containment enclosure (ABSCE) boundary. On March 3, 2017, at 2232 eastern
+standard time (EST), Door A212 was breached to facilitate the continuous fire watch.
+On March 7, 2017, at 0830 EST, a senior reactor operator (SRO) discovered Door A212
+blocked open during a walk down of the Auxiliary Building. The open door created a breach
+of the ABSCE boundary. The identified breach exceeded the allowed ABSCE breach
+margin. As a result, both units entered Technical Specification (TS) Limiting Condition for
+Operation (LCO) 3.7.12, Condition B for two trains of the Auxiliary Building Gas Treatment
+System (ABGTS) [EIIS: VF] inoperable due to an inoperable ABSCE boundary in Mode 1, 2,
+3, or 4. At 0949 EST, on March 7, the door was closed and both units exited LCO 3.7.12,
+Condition B.
+An 8-hour non-emergency event notification (EN 52597) was made to the NRC in
+accordance with 10 CFR 50.72(b)(3)(v) as an event or condition that could have prevented
+fulfillment of a safety function of structures or systems that are needed to: (C) control the
+release of radioactive material and (D) mitigate the consequences of an accident. This LER
+documents the reportable event under 10 CFR 50.73(a)(2)(v)(C) and
+10 CFR 50.73(a)(2)(v)(D).
+Additionally, it was determined that both trains of ABGTS were inoperable from
+March 3, 2017, at 2232 to March 7, 2017, at 0949. LCO 3.7.12, Condition B requires
+restoration of the ABSCE boundary within 24 hours. Upon failure to meet the Required
+Action and associated Completion Time of Condition B, LCO 3.7.12, Condition C requires
+the unit to be in Mode 3 within 6 hours. Because both trains of ABGTS were inoperable for
+approximately 83.3 hours and remained in Mode 1, this is a condition prohibited by TS and is
+therefore being reported in accordance with 10 CFR 50.73(a)(2)(i)(B), as any operation or
+condition which was prohibited by the plant’s TS.
+NRC FORM 366A (04-2017) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 001 - 00
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+C. Dates and approximate times of occurrences:
+Date/Time (EST) Description
+03/03/17, 2232 Door A212 was breached to facilitate a continuous fire watch.
+03/07/17, 0830 An SRO discovered Door A212 breached. The identified breach
+exceeded the allowed ABSCE breach margin. Both units entered
+LCO 3.7.12, Condition B.
+03/07/17, 0949 Door A212 was closed. This restored both the ABSCE boundary and both
+trains of the ABGTS to operable status. Both units exited LCO 3.7.12,
+Condition B.
+D. Manufacturer and model number of each component that failed during the event:
+There was no component that failed during the event.
+E. Other systems or secondary functions affected:
+There were no systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+While performing a walk down of the Auxiliary Building, an SRO discovered Door A212
+blocked open.
+G. The failure mode, mechanism, and effect of each failed component, if known:
+There was no component that failed during the event.
+H. Operator actions:
+Both trains of ABGTS were declared inoperable due to the identified breach exceeding the
+allowed ABSCE breach margin. Both units entered LCO 3.7.12, Condition B.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual system responses associated with this event.
+Page 3 of 6
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 001 - 00
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error:
+There was no component or system failure associated with the event.
+An evaluation determined the cause to be a less than adequate single barrier breaching
+standard exists at SQN. A contributing cause was an inconsistent approach to entry into the
+barrier breaching process. Individuals enter into the barrier breaching process using the
+applicable standard that they are most familiar with rather than using the barrier breaching
+governing procedure.
+B. Cause(s) and circumstances for each human performance related root cause:
+There was no identified human performance related root cause.
+IV. Analysis of the Event:
+The ABGTS filters airborne radioactive particulates from the area of the fuel pool following a fuel
+handling accident or loss of coolant accident (LOCA). In Mode 1, 2, 3, or 4, the ABGTS is
+required to be operable to provide fission product removal associated with Emergency Core
+Cooling System leaks due to a LOCA and leakage from containment and annulus.
+The ABGTS is a standby system that consists of two independent and redundant trains. Each
+train consists of a heater, a prefilter, a high efficiency particulate air filter, an activated charcoal
+adsorber section for removal of gaseous activity, and a fan. The system initiates filtered
+ventilation of the auxiliary building following receipt of a high radiation signal from the fuel
+handling area radiation monitors, a high radiation signal from the train-specific Auxiliary Building
+exhaust vent monitor, a Phase A containment isolation signal from either reactor, or a high
+temperature signal from the Auxiliary Building air intakes.
+The breached door exceeded the allowed ABSCE breach margin rendering the ABSCE
+inoperable. This configuration could have prevented the ABGTS from maintaining a pressure
+greater than or equal to -0.25 inches water gauge with respect to atmospheric pressure during the
+post accident mode of operation.
+V. Assessment of Safety Consequences
+There were no actual safety consequences as a result of this event. The SQN probabilistic risk
+assessment model does not specifically credit the use of the ABGTS when calculating the
+probability of core damage or large early release. Accordingly, the risk associated with this event
+is considered to be very small.
+Page 4 of 6
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 001 - 00
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+There were no components or systems that failed during the event.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+Both trains of ABGTS were inoperable for approximately 83.3 hours. The elapsed time from
+discovery of both trains of ABGTS being inoperable until both trains were restored to
+operable status was approximately 79 minutes.
+VI. Corrective Actions
+Corrective Actions are being managed by the Tennessee Valley Authority (TVA) corrective
+action program under Condition Report 1269767.
+A. Immediate Corrective Actions:
+Door A212 was closed and both units exited LCO 3.7.12, Condition B.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+Corrective actions include revising the breaching procedure to address all possible breaches
+and include a matrix for doors and their associated impacts. Additionally, a performance
+analysis worksheet will be performed to identify knowledge deficiencies associated with the
+ABSCE and door postings.
+Page 5 of 6
+NRC FORM 366A (04-2017)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+(04-2017)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER)
+comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2017 - 001 - 00
+VII. Previous similar events at the same plant:
+A review of SQN LERs identified an event in which a penetration affecting the ABSCE was
+breached without required compensatory measures. LER 327/2013-01, associated with the
+event, identified the root cause as ineffective procedures for controlling containment
+penetration breaches during Modes 5 and 6. A corrective action was to develop and
+implement a governing procedure for controlling breaches of the shield building, ABSCE,
+control room boundaries, and design basis flood barriers.
+VIII. Additional Information
+None.
+IX. Commitments:
+None.
+Page 6 of 6
+NRC FORM 366A (04-2017)
+U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 3/31/2020
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the Information Services Branch (T-2 F43), U.S. Nuclear
+Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+FAILURE CONTINUATION Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+- -
+SYSTEM COMPONENT MANUFACTURER REPORTABLETO EPIX
+NRC FORM 366B (04-2017) Page 7 of 7

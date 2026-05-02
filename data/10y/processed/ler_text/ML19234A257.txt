@@ -1,0 +1,166 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504
+ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+Attn: Document Control Desk 10 CFR 50.73
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+AUG 2 2 2019
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-388/2019-002-00
+UNIT 2 LICENSE NO. NPF-22
+PLA-7807 Docket No. 50-388
+Attached is Licensee Event Report (LER) 50-388/2019-002-00. This LER is reporting a
+condition in which there was a loss of the Unit 2 B Reactor Protection System Bus, which
+resulted in a valid actuation of the Primary Containment Isolation System. This condition was
+determined to be reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as a valid actuation
+of a system identified in 10 CFR 50.73(a)(2)(iv)(B). There were no actual consequences to the
+health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+Attachment: LER 50-388/2019-002-00
+Copy: NRC Region I
+Ms. L. H. Micewski, NRC Sr. Resident Inspector
+Ms. T. E. Hood, NRC Project Manager
+Mr. M. Shields, PA DEP/BRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+person is not required to respond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station Unit 2 05000388 1 OF 3
+4. Title
+Valid Actuation of the Primary Containment Isolation System due to a Trip of Reactor Protection System Bus 2B
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year
+Number No. 05000
+Facility Name Docket Number
+06 27 2019 2019 002 00 08 22 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Shane Jurek, Senior Engineer – Nuclear Regulatory Affairs (570) 542-1695
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+X JC RLY G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On June 27, 2019, at 0937 a half scram signal was received on Unit 2, Division 2 of the Reactor Protection
+System (RPS). The half scram signal resulted in a trip of the 2B RPS instrument bus, a trip of the 2A
+Residual Heat Removal Service Water (RHRSW) Pump, a loss of the 2A and 2B Containment Radiation
+Monitors (CRMs), and Primary Containment Isolation System (PCIS) actuations. The loss of both CRMs
+resulted in entering Condition B of Technical Specifications (TS) Limiting Condition for Operation
+(LCO) 3.4.6, “RCS Leakage Detection Instrumentation.” The PCIS actuation resulted in isolation of
+containment isolation valves in multiple systems and was determined to be reportable in accordance with
+10 CFR 50.72(b)(3)(iv)(A) for the valid isolation signal. The 2B RPS instrument bus was transferred to its
+alternate power supply and the 2A and 2B CRMs were restored. The 2B RPS instrument bus was realigned
+to its normal source on July 2, 2019. The condition was also determined to be reportable in accordance with
+10 CFR 50.73(a)(2)(iv)(A) for the valid PCIS signal.
+The event was determined to be caused by an age-related failure of a control relay on the normal power
+supply to the 2B RPS instrument bus. Corrective actions included replacing the failed relay.
+There were no actual safety consequences associated with the condition.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2019 002 00
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 – Mode 1, approximately 100 percent Rated Thermal Power
+There were no structures, systems, or components that were inoperable at the start of the event that
+contributed to the event.
+EVENT DESCRIPTION
+On June 27, 2019, at approximately 0937, a half scram signal was received on Susquehanna Steam Electric
+Station (SSES) Unit 2, Division 2 of the RPS [EIIS Code: JC]. Concurrently, operators were performing
+SO-216-A03, “Quarterly Residual Heat Removal Service Water (RHRSW) System Flow Verification
+Division I,” The half scram signal resulted in a trip of the 2B RPS instrument bus, a trip of the 2A RHRSW
+Pump [EIIS System / Component Code: BO/P], a loss of the 2A and 2B CRMs [EIIS System / Component
+Code: IL / MON], and PCIS [EIIS Code: JM] actuations. The loss of both CRMs resulted in entering
+Condition B of SSES TS LCO 3.4.6, “RCS Leakage Detection Instrumentation.” The 2B RPS instrument bus
+was transferred to its alternate power supply at 0941 and the 2A and 2B CRMs were restored at 0956 and
+0959, respectively; Condition B of LCO 3.4.6 was exited at 1000; all TS Completion Times were met.
+Upon tripping the 2B RPS instrument bus, SSES personnel performed troubleshooting on the normal power
+supply to the bus. It was determined that Control Relay 2Y201BC72BK1B [Component Code: RLY]
+(hereafter referred to as the K1B relay) failed. The K1B relay was replaced and SSES personnel restored the
+2B RPS instrument bus to its normal source on July 2, 2019.
+The PCIS actuations resulted in isolations of multiple systems as designed. As a result, this condition was
+determined to be reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in
+automatic actuation of a system as identified in 10 CFR 50.73(a)(2)(iv)(B)(2).
+CAUSE OF EVENT
+The direct cause of the event was determined to be an age-related failure of the K1B relay.
+ANALYSIS/SAFETY SIGNIFICANCE
+Failure of the K1B relay caused a loss of power to one of two power distribution systems of the ‘B’ RPS. The
+RPS is “one out of two taken twice” logic. The loss of power resulted in a valid isolation signal on the ‘B’ logic
+division. This response is consistent with the safety analysis. Since the plant response was as designed, all
+accident functions would have been met. Therefore, there was no loss of safety function. Accordingly, this
+event will not be counted as a safety system functional failure in the Reactor Oversight Process Performance
+Indicators.
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+CONTINUATION SHEET
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 2 05000-388 NUMBER NO.
+2019 002 00
+There were no actual consequences to the health and safety of the public as a result of this event.
+CORRECTIVE ACTIONS
+Corrective actions included replacement of the K1B relay.
+COMPONENT FAILURE INFORMATION
+Component Identification – 2Y201BC72BK1B
+Component Name – B RPS Normal Power Contactor
+Component Manufacturer – GE
+Relay Type – GE Type CR305 Relay
+Manufacturer Part Number – 117C2491P002
+PREVIOUS OCCURRENCES
+LER 50-388(387)/2000-005-01, “ESF Actuations Due to RPS EPA Breaker Trip,” dated March 25, 2003
+LER 50-388/2000-003-00, “Inadvertent ESF Actuation Caused by Loss of RPS Power Supply,” dated
+August 2, 2000
+NRC FORM 366A (04-2018) Page 3 of 3

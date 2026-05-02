@@ -1,0 +1,143 @@
+Jack McCoy
+Manager
+Regulatory and Emergency Planning
+225-378-3310
+RBG-48371
+10 CFR 50.73
+August 14, 2025
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+Subject: Licensee Event Report 50-458 / 2025-003-00, Turbine Control Valve
+Closure Results in Loss of Safety Function
+River Bend Station – Unit 1
+NRC Docket Nos. 50-458
+Renewed Facility Operating License No. NPF-47
+In accordance with 10 CFR 50.73, enclosed is the subject Licensee Event Report.
+This document contains no commitments.
+Should you have any questions, please contact Mr. Jack McCoy, Regulatory and Emergency
+Planning Manager, at 225-378-3310.
+Respectfully,
+JM/jdb
+Enclosure: LER 50-458 / 2025-003-00, Turbine Control Valve
+Closure Results in Loss of Safety Function
+cc: NRC Region IV Regional Administrator - Region IV
+NRC Senior Resident Inspector - River Bend Station
+Entergy Operations, Inc., 5485 U.S. Highway 61N. St. Francisville, LA 70775
+Enclosure
+RBG-48371
+Licensee Event Report 50-
+458/2025-003-00
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+LICENSEE EVENT REPORT (LER)
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See Page 2 for required number of digits/characters for each block)
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+River Bend Station, Unit 1 00458 1 of 2
+052
+4. Title
+Turbine Control Valve Closure Results in Loss of Safety Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year S N eq u u m e b n e ti r al R N e o v . Month Day Year N/A 050
+Facility Name Docket Number
+06 18 2025 2025 003 00 08 14 2025 052
+N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1)(i) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+Other (Specify here, in abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Jack McCoy, Regulatory and Emergency Planning Manager (225) 378-3310
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+B TG IMOD G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes(If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 18, 2025, at 0553 CDT, with River Bend Station (RBS), Unit 1 operating in Mode 1 at 100% power, High
+Pressure Turbine Main Steam Supply Line “D” Control Valve (MSS-HYVCV3) closed causing both Turbine Bypass
+Valves to open. Reactor power was lowered to approximately 95% and the Bypass Valves Closed. At 0646 CDT,
+MSS-HYVCV3 was observed opening and all other Turbine Control Valves intermittently changing position causing the
+Bypass Valves to open again. Reactor power was lowered to approximately 90% and the Bypass Valves closed. The
+Bypass Valves were open for approximately one minute for each of the two occurrences.
+With the Bypass Valves open, Technical Specification (TS) required instrumentation that utilize turbine first stage
+pressure were declared inoperable.
+The direct cause of this event was a failure of the Redundant Valve Positioner “B” (RVP-B) for MSS-HYVCV3. The RVP-B
+was replaced on June 19, 2025.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an event or
+condition that could have prevented fulfillment of the safety function of structures or systems that are needed to: (A)
+shut down the reactor and maintain it in a safe shutdown condition and (D) mitigate the consequences of an accident.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collection Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503. The NRC may not conduct or sponsor, and a person is not required to respond
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) to, a collection of information unless the document requesting or requiring the collection displays a
+currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+River Bend Station, Unit 1 NUMBER NO.
+00458
+052 2025 003 00
+NARRATIVE
+Event Description
+On June 18, 2025, at 0553 CDT, with River Bend Station (RBS), Unit 1 operating in Mode 1 at 100% power, the High-
+Pressure Turbine Main Steam Supply Line “D” Control Valve (MSS-HYVCV3) [TG:VLV] closed causing both Turbine
+Bypass Valves [JI:V] to open. Control room operatorsentered appropriate procedures and began to lower reactor power.
+Reactor power was lowered to approximately 95% and the Turbine Bypass Valves closed. At 0646 CDT, MSS-HYVCV3
+was observed opening and all other High-Pressure Turbine Main Steam Supply Line Control Valves were observed
+intermittently changing positions causing the Turbine Bypass Valves to open again. Reactor power was lowered to
+approximately 90% and the Bypass Valves closed.
+During the time the Turbine Bypass Valves were open, Technical Specification (TS) required instrumentation that
+utilizes turbine first stage pressure were declared inoperable. Safety Related Functions of TS 3.3.1.1 (RPS
+Instrumentation), TS 3.3.2.1 (Control Rod Block Instrumentation) and TS 3.3.4.1 (End of Cycle Recirculation Pump
+Trip) were declared inoperable.
+This event was reported on June 18, 2025, at 1126 CDT in accordance with 10 CFR 50.72(b)(3)(v)(A) and 10 CFR
+50.72(b)(3)(v)(D) as an event or condition that at the time of discovery could have prevented fulfillment of a safety
+function of structures or systems that are needed to: (A) shut down the reactor and maintain it in a safe shutdown
+condition and (D) mitigate the consequences of an accident. (EN 57767)
+Event Cause
+The direct cause of this event was a failure of the Redundant Valve Positioner “B” (RVP-B) for MSS-HYVCV3. This
+failure resulted in the closing of MSS-HYVCV3 resulting in the opening of the Turbine Bypass Valves to maintain
+reactor pressure at the selected setpoint. The RVP-B was replaced on June 19, 2025.
+Safety Assessment
+During the transient there were no radiological impacts and therefore no actual impact to the health and safety of the
+public. The event is considered of small safety significance from the Probabilistic Risk Assessment (PRA) perspective
+as no PRA related mitigative components or strategies were affected by this event. While the corresponding functions
+were declared inoperable from a Technical Specification perspective, functionality was maintained, therefore this is
+not considered a safety system functional failure.
+Corrective Actions
+Planned:
+Perform a vendor analysis for the failed RVP module.
+Investigate a possible solution to mitigate or eliminate similar failures of the RVP modules.
+Previous Occurrences
+None
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX]. River Bend equipment codes are
+identified as (XX).
+NRC FORM 366A (04-02-2024) Page 2 of 2

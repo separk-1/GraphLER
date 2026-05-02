@@ -1,0 +1,677 @@
+Tennessee Valley Authority, Post Office Box 2000, Decatur, Alabama 35609-2000
+February 21, 2017
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Browns Ferry Nuclear Plant, Unit 2
+Renewed Facility Operating License No. DPR-52
+NRC Docket No. 50-260
+Subject: Licensee Event Report 50-260/2016-001-01
+Reference: Letter from TVA to NRC, "Licensee Event Report 50-260/2016-001-00,"
+dated August 16, 2016
+On August 16, 2016, the Tennessee Valley Authority (TVA) submitted Revision 0 to
+Licensee Event Report (LER) 50-260/2016-001 (Reference). This LER was based on a
+preliminary relay failure investigation, which has since been finalized, evaluated, and
+discussed. This LER has been revised to ensure clear and accurate event reporting.
+The enclosed Licensee Event Report revision provides details of the High Pressure
+Coolant Injection Safety System Functional Failures due to a Blown Fuse and Failed
+Relay. The Tennessee Valley Authority is submitting this report in accordance with Title 10
+of the Code of Federal Regulations 50.73(a)(2)(v)(D), as any event or condition that could
+have prevented the fulfillment of the safety function of structures or systems that are
+needed to mitigate the consequences of an accident.
+There are no new regulatory commitments contained in this letter. Should you have any
+questions concerning this submittal, please contact J. L. Paul, Nuclear Site Licensing
+Manager, at (256) 729-2636.
+Enclosure: Licensee Event Report 50-260/2016-001-01 - High Pressure Coolant Injection
+Safety System Functional Failure due to a Blown Fuse and Failed Relay
+U.S. Nuclear Regulatory Commission
+Page 2
+February 21, 2017
+cc (w/ Enclosure):
+NRC Regional Administrator - Region II
+NRC Senior Resident Inspector - Browns Ferry Nuclear Plant
+ENCLOSURE
+Browns Ferry Nuclear Plant
+Unit 2
+Licensee Event Report 50-260/2016-001-01
+High Pressure Coolant Injection Safety System Functional Failure
+due to a Blown Fuse and a Failed Relay
+See Enclosed
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+,y>• ~£C'1( Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(~) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5 F53), U.S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of lnfonmation and Regulatory Affairs,
+NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the infonmation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 13. PAGE
+Browns Ferry Nuclear Plant, Unit 2 05000260 1 OF10
+4. TITLE
+High Pressure Coolant Injection Safety System Functional Failure due to a Blown Fuse and a Failed Relay
+5. EVENT DATE 6. LER NUMBER 7. REPORT DATE 8. OTHER FACILITIES INVOLVED
+I
+MONTH DAY YEAR YEAR SE N Q U U M E B N E T R IA L I R N E O V . MONTH DAY YEAR FACI N LIT / Y A N AME N/A DO CKET NUMBER
+06 17 2016 2016 - 001 - 01 02 21 2017 FACI N LIT / Y A N AME N/A DO CKET NUMBER
+9. OPERATING MODE 11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+D D D D
+20.2201 (b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+D D D D
+20.2201( d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.7 3(a)(2)(viii)(B)
+1
+D D D D
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.7 3(a)(2)(ix)(A)
+D D D D
+20.2203(a)(2)(i) 50.36(c)(1) (i)(A) 50.7 3(a)(2)(iv)(A) 50.7 3(a)(2)(x)
+D D D D
+10. POWER LEVEL 20.2203(a)(2)(ii) 50.36(c)(1) (ii)(A) 50.73(a)(2)(v)(A) 73 71 (a}(4)
+D D D D
+20.2203(a)(2)(iii) 5o.36(c)(2) 50.73(a)(2)(v)(B) 73.7 1 (a}(5}
+D D D D
+20.2203(a)(2)(iv) 5o.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.7 7(a)(1)
+100 D D t8l D
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.7 7(a)(2)(i)
+D D D D
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(ii)
+D D
+50.73(a)(2)(i)(C) OTHER Specify in Abstract below or in NRC Form 366A
+12. LICENSEE CONTA CT FOR THIS LER
+l
+LICENSEE CONTACT TELEPHONE NUMBER (Include Area Code)
+Ryan Coons, Licensing Engineer 256-729-2070
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+l
+MANU- REPORTABLE MANU- I REPORTABLE
+CAUSE SYSTEM COMPONENT FACTURER TO EPIX CAUSE SYSTEM COMPONENT FACTURER TO EPIX
+x BJ RLY A348 y x BJ I FU S156 I y
+I
+I
+14. SUPPLEMENTAL REPORT EXPECTED 15.EXPECTED MONTH DAY YEAR
+D YES (If yes, complete 15. EXPECTED SUBMISSION DA TE) [8J NO SUBMISSION DATE N/A I N/A I N/A
+ABSTRACT (Limit to 1400 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 17, 2016, while performing a High Pressure Coolant Injection (HPCI) Time Delay Relay Calibration
+surveillance, an abnormal indication of no voltage to the Time Delay Relay coil was received. The
+electricians backed out of the procedure and informed Operations. Later that day, upon performing
+procedure step 7.3[17], fuse BFN-2-FU2-073-0039B cleared and a HPCI Logic Power Failure alarm was
+received. The loss of logic power rendered Unit 2 HPCI system inoperable. The most likely cause of the
+blown fuse was an equipment ground induced by the TM200 timer used in the calibration procedure for
+timing pick-up of the time delay relays. While the HPCI Time Delay Relay calibration was being performed,
+there was already a known ground on Battery Board 2. The corrective action is to revise the calibration
+procedures to reconfigure the setup of the test equipment to reduce the probability and consequences of a
+ground induced by the test equipment.
+During troubleshooting of the blown fuse, relay 2-RL Y-073-23A-K43 was replaced. It was later identified
+during bench testing that this relay was faulty as the result of normal breakdown of the coil insulation over
+time. This breakdown was attributed to end-of-life failure. The immediate corrective action to address the
+relay failure was replacement of the relay. To address the end of life failure of this relay, a preventative
+maintenance (PM) task was created to replace this relay every 16 years.
+NRC FORM 366A (11-2015)
+Page 2of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+G._.t.•" 11•0..,("> comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+~ g ° .., . ' .:: - :> .. - ., ~ . < . ~ : . . . , . . 01 i' : LICENSEE EVENT REPORT (LER) F ln 5 fo 3) c , o l U le . c S t . s . N R u e c s l o e u a r r c e R @ eg n u rc la .g to o r v y , C an o d m m to is th si e o n D , e W sk a O sh f i f n ic g e t r o , n O , f D fic C e 2 o 0 f 5 In 55 fo - r 0 m 00 a 1 tio , n o r a n b d y R in e t g e u rn la e t t o r e y - m Af a fa il irs to ,
+l CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of discovery, Browns Ferry Nuclear Plant (BFN), Unit 2, was in Mode 1 at 100 percent
+power.
+II. Description of Events
+A. Event:
+On June 17, 2016, while performing High Pressure Coolant Injection (HPCI) [BJ] Time Delay
+Relay Calibration surveillance 2-SR-3.3.6.1.6(3), Electrical Maintenance personnel received an
+abnormal indication of no voltage to the coil [CL] of 2-RL Y-073-23A-K43 at step 7. 3(17] of the
+procedure. The electricians backed out of the procedure, informed Operations, and initiated
+Condition Report (CR) 1183105. Later that day, a different crew performed the remaining
+sections of 2-SR-3.3.6.1.6(3) successfully, then returned to section 7.3. Upon performing the
+procedure step 7.3[17], fuse [FU] BFN-2-FU2-073-0039B cleared and 2-XA-55-3F window 3,
+HPCI Logic Power Failure, alarmed in the Control Room. The fuse was replaced and the
+procedure was continued. This loss of logic power rendered Unit 2 HPCI inoperable.
+Basic troubleshooting was performed on the circuit to determine what, if any, component had
+failed, and no component failure was identified; however, relay [RL Y] 2-RL Y-073-23A-K43 was
+replaced, along with its base, 3500 ohm dropping resistor, and zener diode. On June 20, 2016
+at 0455 Central Daylight Time (CDT), 2-SR-3.3.6.1.6(3) was completed satisfactorily, and Unit 2
+HPCI was declared operable.
+The old relay and the TM200 timer were bench tested on June 29, 2016, and the relay did not
+function properly. The 3500 ohm dropping resistor and zener diode tested acceptably, and the
+relay coil resistance was normal, but the relay did not pull in the contacts. The TM200 timer
+operated properly during the testing.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event:
+There were no structures, systems, or components (SSCs) whose inoperability contributed to this
+event.
+NRC FORM 366A (11-2015)
+Page 3of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+C. Dates and approximate times of occurrences:
+Dates and Annroximate Times Descriotion of Event
+June 17, 2016 at 0855 CDT Maintenance Electrical Group (MEG) was briefed and
+commenced HPCI Time Delay Relay Calibration
+2-SR-3.3.6.1.6(3). HPCI was declared inoperable by the
+Unit Supervisor (US) with Senior Reactor Operator (SRO)
+concurrence. TS LCO 3.5.1, Condition C was entered.
+HPCI remained available for service. Reactor Core
+Isolation Cooling (RCIC) was verified Operable by
+administrative means.
+June 17, 2016at1436 CDT 2-SR-3.3.6.1.6(3) was stopped due to receiving an
+improper response at step 7.3[17], when it was discovered
+that there was no voltage on 2-RL Y-073-23A-K43, from
+what appeared to be a procedural issue. The Unit 2
+Control Room was notified, the test equipment was
+removed, and all components were returned to normal
+alignment. US declared HPCI operable with SRO
+concurrence and exited TS LCO 3.5.1 Condition C. MEG
+initiated CR 1183105.
+June 17, 2016 at 1705 CDT MEG recommenced performance of 2-SR-3.3.6.1.6(3) at
+section 7.4. Unit Supervisor (US) declared HPCI
+inoperable.
+June 17, 2016 at -2100 CDT MEG completed 2-SR-3.3.6.1.6(3), sections 7.4 through
+7.7. MEG returned to section 7.3 to re-attempt the section
+for calibrating relay 2-RL Y-073-23A-K43.
+June 17, 2016 at 2135 CDT Control Room received 2-XA-55-3F, HPCI Logic Power
+Failure alarm. MEG reported that fuse 2-FU2-073-0039B
+cleared. Operations personnel declared HPCI
+unavailable. CR 1183196 initiated.
+June 17, 2016 at 2239 CDT Replaced fuse 2-FU2-073-0039B and HPCI Logic Power
+Failure alarm reset. Operations personnel declared HPCI
+available but remained inoperable for troubleshooting.
+June 18, 2016 at 0458 CDT Operations personnel made an 8-hour notification to the
+NRC (Event Number #52109) to report the unplanned
+inoperability of the Unit 2 HPCI system, in accordance with
+10 CFR 50.72(b)(3)(v)(D).
+NRC FORM 366A (11-2015)
+Page 4of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA. Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104). Office of Management and Budget. Washington. DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+Dates and Aooroximate Times Descriotion of Event
+June 19, 2016 at 2150 CDT Clearance placed on Unit 2 HPCI for replacement of relay
+2-RL Y-073-23A-K43. Operations personnel declared
+HPCI unavailable.
+June 20, 2016 at 0358 CDT Following relay replacement, Operations personnel
+removed clearance on Unit 2 HPCI, warmed and
+pressurized HPCI steam line.
+June 20, 2016 at 0455 CDT MEG completed 2-SR-3.3.6.1.6(3) satisfactorily.
+June 20, 2016 at 0530 CDT Operations personnel declared Unit 2 HPCI operable.
+D. Manufacturer and model number (or other identification) of each component that failed
+during the event:
+The blown fuse (2-FU2-073-0039B) was manufactured by Shawmut Company under
+manufacturer part number ATM10. The failed relay (2-RLY-073-23A-K43) is an Agastat ETR type
+time delay relay. It was manufactured by Amerace Corporation under manufacturer part number
+ETR 14D3BN003.
+E. Other systems or secondary functions affected:
+No other systems or secondary functions were affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+During performance of the HPCI Time Delay Relay Calibration surveillance 2-SR-3.3.6.1.6(3),
+Electrical Maintenance personnel received an abnormal indication of no voltage to the coil of
+2-RL Y-073-23A-K43 at step 7.3[17] of the procedure. Upon performing the procedure step
+7.3[17], fuse BFN-2-FU2-073-0039B cleared and 2-XA-55-3F window 3, HPCI Logic Power
+Failure, alarmed in the Control Room.
+The failed fuse was discovered during the performance of the Unit 2 HPCI Time Delay Relay
+Calibration 2-SR-3.3.6.1.6(3). HPCI Logic Bus B lost power when fuse 2-FU2-073-0039B
+cleared. During troubleshooting, relay 2-RL Y-073-23A-K43 was replaced along with its base,
+3500 ohm dropping resistor, and zener diode. The removed relay was bench tested and did not
+function properly.
+NRC FORM 366A (11-2015)
+Page 5of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMS: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+C;. .......... Q(/( .. .. comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+c~/ :~·J F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+'\ .. :.J
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component, if known:
+The most likely cause for the blown fuse on HPCI Logic Bus B was an equipment ground induced
+by the TM200 timer used in the calibration procedure for timing pick-up of the time delay relays.
+While the HPCI Time Delay Relay calibration was being performed, there was already a known
+ground on Battery Board 2.
+During troubleshooting, relay 2-RL Y-073-23A-K43 was replaced along with its base, 3500 ohm
+dropping resistor, and zener diode. The removed relay was bench tested and did not function
+properly. Initial bench testing of the faulty relay was performed on June 29, 2016, and additional
+testing was performed on July 8, 2016, in order to determine the failure mode and mechanism.
+The bench testing found that the current drawn by the electronic timer was approximately 5 mA.
+The coil resistance was calculated to be 800 ohms. The specification for coil resistance on this
+relay is 3000 ohms. The relay failure resulted from coil failure.
+Relay 2-RL Y-073-23A-K43, which is normally de-energized, is installed in a mild environment in
+the Unit 2 Auxiliary Instrument Room and is subjected to a very low duty cycle. The relay is
+energized for testing only 5 times per 24 month cycle; twice during the Logic Functional Test
+Procedure, and three times during the Time Delay Relay Calibration. Coil failure is accelerated
+by stressors such as temperature and humidity, prolonged continuous energization, prolonged
+overvoltage, and/or high cycling rate. Relay 2-RL Y-073-23A-K43 is not routinely subjected to
+these significant stressors; however, the effects of normal environmental stressors such as
+temperature and humidity over time are cumulative and permanent. The relay is approximately
+27 years old. The degradation of the insulation results in temperature rise in the coil, which
+further breaks down the dielectric strength of the insulation and results in local short circuits within
+the coil. The drop in coil resistance from 3000 ohms to 800 ohms indicates short circuits had
+developed in the coil. Because of this fault, the electromagnetic strength developed by the relay
+coil was below the minimum needed to overcome the spring force holding the relay contacts in
+their shelf state.
+The 2-RL Y-073-23A-K43 relay provides a 3 second time delay before closing the contacts that
+give an open signal to HPCI pump discharge valve 2-FCV-073-0034 and a close signal to HPCI
+Condensate Storage Tank (CST) test return valve 2-FCV-073-0035. The HPCI pump discharge
+valve 2-FCV-073-0034 is normally open, but if it were closed, the relay failure would have
+prevented flow during HPCI actuation. The HPCI CST test return valve 2-FCV-073-0035 is
+normally closed. The relay failure would prevent closure of this valve from the open position. At
+the time of discovery, 2-FCV-073-0034 was open and 2-FCV-073-0036 was closed such that the
+relay failure did not result in HPCI system inoperability.
+The review of the condition and the bench testing concluded that the relay failure was attributed to
+end-of-life failure caused by normal breakdown of the coil insulation over time.
+NRG FORM 366A (11-2015)
+Page 6of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150.0104), Offce of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+H. Operator actions:
+There were no operator actions associated with this event.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manual safety system responses associated with this event.
+Ill. Cause of the event
+A. The cause of each component or system failure or personnel error, if known:
+The most likely cause for the blown fuse on HPCI Logic Bus B was an equipment ground induced
+by the TM200 timer, while testing was being performed with a known ground on Battery Board 2.
+During troubleshooting of the blown fuse, it was discovered that the relay was faulty as well. It
+was determined that the relay failure was end-of-life failure caused by normal breakdown of coil
+insulation over time.
+B. The cause(s) and circumstances for each human performance related root cause:
+None.
+IV. Analysis of the event:
+The Tennessee Valley Authority (TVA) is submitting this report in accordance with Title 10 of the Code
+of Federal Regulations 50.73(a)(2)(v)(D), as an event or condition that could have prevented the
+fulfillment of the safety function of structures or systems that are needed to mitigate the
+consequences of an accident. The condition was discovered on June 17, 2016, while performing
+HPCI Time Delay Relay Calibration surveillance 2-SR-3.3.6.1.6(3) when electrical maintenance
+personnel observed fuse BFN-2-FU2-073-0039B clear and 2-XA-55-3F window 3, HPCI Logic Power
+Failure, alarmed in the Control Room. This loss of logic power rendered Unit 2 HPCI system
+inoperable. Also during troubleshooting, it was discovered that relay 2-RL Y-073-23A-K43 was faulty,
+which could result in HPCI system inoperability in certain test configurations. Since HPCI is a
+single-train safety system, the unplanned inoperability caused by the fuse failure is a reportable
+event, in accordance with NUREG-1022. The relay failure is also considered a safety system
+functional failure; however, the failure will not be counted on the performance indicator. In
+accordance with NEI 99-02, a failure leading to an evaluation in which additional failures are found is
+only counted as one failure; new problems found during the evaluation are not counted even if the
+causes or failures are different.
+NRG FORM 366A (11-2015)
+Page 7of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+LICENSEE EVENT REPORT (LER) F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150.0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+V. Assessment of Safety Consequences
+This event resulted in inoperability and unavailability of the single train of the BFN, Unit 2, HPCI
+system resulting in the inability of the HPCI system to perform its safety function. In the event of an
+emergency, the Reactor Core Isolation Cooling (RCIC) system remained operable, and all other
+Emergency Core Cooling Systems (ECCS) and Automatic Depressurization System (ADS) were
+available during this event to facilitate core cooling.
+Based on the discussion above, during the time period that the HPCI system was inoperable,
+sufficient systems were available to provide the required safety functions to protect the health and
+safety of the public.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+The Technical Specification Required Action and Completion Time when the HPCI system is
+inoperable is to verify RCIC is operable by administrative means immediately and restore HPCI
+operability within 14 days. The Technical Specification Required Action and Completion Time for
+this situation is to enter Mode 3 in 12 hours. RCIC was verified to be operable by administrative
+means by Operations personnel on June 17, 2016, at 0856 CDT. During this event, all other
+ECCS, including the ADS, were available to mitigate abnormal and accident conditions.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shut down the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+This event did not occur when the reactor was shutdown.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+HPCI was determined to be inoperable from a blown fuse at 1705 CDT on June 17, 2016. HPCI
+was declared operable on June 20, 2016, at 0530 CDT following post-maintenance testing.
+Approximately 2.5 days elapsed between the time of discovery and restoring operability.
+The failure of relay 2-RL Y-073-23A-K43 also caused HPCI inoperability, starting at the time of
+discovery at 1436 CDT on June 17, 2016, until the relay was declared operable following
+post-maintenance testing on June 20, 2016, at 0530 CDT. Approximately 2.5 days elapsed
+between the time of discovery and restoring operability. However, the normal valve configuration
+maintained the operability of the valve's safety functions throughout this event. The last five relay
+energization cases were reviewed, and these tests and calibrations were completed normally
+NRG FORM 366A (11-2015)
+Page 8of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/3112018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+within the Technical Specification required LCO times such that there were no violations of
+Technical Specifications.
+VI. Corrective Actions:
+Corrective Actions are being managed by TVA's corrective action program under Condition Report
+(CR) 1183196.
+A. Immediate Corrective Actions
+• Electricians stopped work after observing unexpected response during surveillance
+• Replaced fuse 2-FU2-073-0039B
+• Replaced relay 2-RLY -073-23A-K43
+B. Corrective Actions to Prevent Recurrence
+The most likely cause of the blown fuse was an equipment ground induced by the TM200 timer
+used in the calibration procedure for timing pick-up of the time delay relays during testing on a
+known ground on Battery Board 2. The corrective action to address this cause is to remove the
+TM200 timer from the operating circuit during testing. Instead of the having the timer installed in
+line with operating circuitry via a Single Pole Single Throw switch, a new test box module was
+built for this test. This module instantaneously operates the timer and operating circuitry using a
+Double Pole Single Throw (DPST) switch to start the test/calibration. This will prevent a
+non-operating equipment fault from being introduced into the operating circuit as part of the
+test. In addition, the DPST switch module includes 1 Amp fast acting fuses to provide additional
+protection to permanent plant equipment while it is connected to the test equipment. The
+calibration procedure 1/2/3-SR-3.3.6.1.6(3) has been revised to require the use of this test box
+when performing the surveillance test.
+After relay 2-RL Y-073-23A-K43 was replaced, bench testing found that the old relay was faulty.
+Bench testing revealed that the relay experienced end-of-life failure, as the relay was
+approximately 27 years old. The starting point for the relay inoperability was determined to be the
+time of discovery, since there is no firm evidence that the relay failed prior to the time of
+discovery. To address the end of life failure of this relay, a separate corrective action was
+previously established, which created a preventative maintenance (PM) task to replace this relay
+every 16 years. In this case, however, the relay failed prior to the first-time performance of that
+PM, which was not scheduled to be performed until Spring 2017.
+NRG FORM 366A (11-2015)
+Page 9of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+{~-'> c ;
+'
+,'-
+\
+~"
+.
+'"
+~
+"IO
+t
+<,i('f_ o . .,,
+J LICENSEE EVENT REPORT (LER)
+c
+F
+o
+5
+m
+3)
+m
+,
+e
+U
+n
+.S
+ts
+.
+r
+N
+eg
+u
+a
+c
+r
+l
+d
+e
+i
+a
+n
+r
+g
+R
+b
+e
+u
+g
+rd
+u
+e
+la
+n
+to r
+e
+y
+s ti
+C
+m
+o
+a
+m
+te
+m
+t
+i
+o
+ss i
+t
+o
+h
+n
+e
+,
+F
+W
+O
+a
+IA
+sh
+,
+in
+P
+g
+ri
+t
+v
+o
+a
+n
+c
+,
+y
+D
+a
+C
+n d
+2 0
+In
+5
+f
+5
+o
+5
+rm
+-0
+a
+0
+t
+0
+io
+1
+n
+,
+C
+or
+o l
+b
+le
+y
+c t
+i
+i
+n
+o
+t
+n
+e
+s
+r n
+B
+et
+r a
+e
+n
+-
+c
+m
+h
+a
+(
+i
+T
+l
+-
+to
+5
+·····. . lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+~~~.&· CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an information collection does not display a currently valid OMB control number, the
+NRG may not conduct or sponsor, and a person is not required to respond to, the information
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 - 001 01
+NARRATIVE
+VII. Additional Information:
+A. Previous Similar Events:
+An Internal Operating Experience (OE) search was performed for the past 5 years using key
+terms "HPCI," "RHR," "CS," and "Agastat ETR relay(s)". The following examples were identified
+as similar events resulting from blown fuses that were likely caused by the test equipment setup
+during time delay relay calibration performance:
+• CR 1180190: Fuse 2-FU2-074-10A/K36B cleared during performance of
+2-SR-3.3.5.1.5(LPCI II), RHR System Division II LPCI Mode Logic Time Delay Relay
+Calibration, 6/9/2016. No problems identified by basic troubleshooting. MEG
+re-commenced the procedure on 6/20/2016, and the surveillance was completed
+satisfactorily at that time. No causal analysis was performed. The CR details noted that
+the same fuse was blown during the previous performance of this procedure (see below
+for CR 898072).
+• CR 898072: Blown fuse during performance of 2-SR-3.3.5.1.5(LPCI II), RHR System
+Division II LPCI Mode Logic Time Delay Relay Calibration, 6/13/2014. Fuse was replaced,
+the surveillance was completed successfully, and CR was closed to actions taken. No
+additional analysis was performed.
+B. Additional Information:
+There is no additional information.
+C. Safety System Functional Failure Consideration:
+The blown fuse due to an inadequate calibration procedure resulted in the inability of the BFN,
+Unit 2, HPCI system to perform its safety function for mitigating the consequences of an accident.
+This event is considered to be a Safety System Functional Failure, in accordance with
+NUREG-1022.
+While the normal valve configuration would have permitted HPCI to perform its required safety
+functions throughout the duration of this event, if left undiscovered, the failed relay could have
+rendered HPCI inoperable in certain test configurations. Since a condition existed that could have
+prevented the fulfillment of a safety function, the failed relay event constitutes a Safety System
+Functional Failure, in accordance with NUREG-1022. However, as discussed in the Analysis of
+the event, the failure will not be counted on the performance indicator. In accordance with NEI
+99-02, a failure leading to an evaluation in which additional failures are found is only counted as
+one failure; new problems found during the evaluation are not counted even if the causes or
+failures are different. The intent is to not count additional events when problems are discovered
+while resolving the original problem.
+NRC FORM 366A (11-2015)
+Page 10of10
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 10/31/2018
+(11-2015)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Privacy and Information Collections Branch (T-5
+F53), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by internet e-mail to
+LICENSEE EVENT REPORT (LER)
+lnfocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and Regulatory Affairs,
+CONTINUATION SHEET NEOB-10202, (3150-0104), Office of Management and Budget, Washington, DC 20503. If a means
+used to impose an infonmation collection does not display a currently valid OMB control number, the
+NRC may not conduct or sponsor. and a person is not required to respond to. the infonmation
+collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL REV
+Browns Ferry Nuclear Plant, Unit 2 05000260 YEAR NUMBER NO.
+2016 001 01
+NARRATIVE
+D. Scram with Complications Consideration:
+This event did not result in a reactor scram.
+VIII. COMMITMENTS
+There are no new commitments.
+NRC FORM 366A (11-2015)

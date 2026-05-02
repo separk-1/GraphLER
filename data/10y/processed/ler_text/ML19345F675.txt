@@ -1,0 +1,185 @@
+Kevin Cimorelli Susquehanna Nuclear, LLC
+TALEN~
+Site Vice President 769 Salem Boulevard
+Berwick, PA 18603
+Tel. 570.542.3795 Fax 570.542.1504 ENERGY
+Kevin.Cimorelli@TalenEnergy.com
+Attn: Document Control Desk 10 CFR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUSQUEHANNA STEAM ELECTRIC STATION
+LICENSEE EVENT REPORT 50-387(388)/2019-001-01
+UNIT 1 LICENSE NO. NPF-14
+UNIT 2 LICENSE NO. NPF-22 Docket No. 50-387
+PLA-7827 and 50-388
+Attached is a supplement to Licensee Event Report (LER) 50-387(388)/2019-001-00. The LER
+reported a condition in which there was a loss of both the A and B Control Structure Chillers.
+This condition was determined to be reportable in accordance with 10 CFR 50.73(a)(2)(v)(A),
+(B), (C), and (D) as a condition that could have prevented the fulfillment of a safety function.
+There were no actual consequences to the health and safety of the public as a result of this event.
+This letter contains no new or revised regulatory commitments.
+K. Cimorelli
+Attachment: LER 50-387(388)/2019-001-01
+Copy: NRC Region I
+Ms. L. H. Micewski, NRC Sr. Resident Inspector
+Ms. S. Goetz, NRC Project Manager
+Mr. M. Shields, PA DEPIBRP
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to
+LICENSEE EVENT REPORT (LER) industry. Send comments regarding burden estimate to the Information Services Branch
+(T-2 F43), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail
+(See Page 2 for required number of digits/characters for each block) to Infocollects.Resource@nrc.gov, and to the Desk Officer, Office of Information and
+Regulatory Affairs, NEOB-10202, (3150-0104), Office of Management and Budget,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503. If a means used to impose an information collection does not
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+display a currently valid OMB control number, the NRC may not conduct or sponsor, and a
+personisnotrequiredtorespond to, the information collection.
+1. Facility Name 2. Docket Number 3. Page
+Susquehanna Steam Electric Station Unit 1 05000387 1 OF 3
+4. Title
+Loss of Both Control Structure Chillers due to Misaligned Breaker Stab
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year Susquehanna Steam Electric Station Unit 2
+Number No. 05000388
+Facility Name Docket Number
+05 22 2019 2019 001 01 12 11 2019
+05000
+9. Operating Mode 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+20.2201(b) 20.2203(a)(3)(i) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A)
+1
+20.2201(d) 20.2203(a)(3)(ii) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+20.2203(a)(2)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+10. Power Level 20.2203(a)(2)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(v)(A) 73.71(a)(4)
+20.2203(a)(2)(iii) 50.36(c)(2) 50.73(a)(2)(v)(B) 73.71(a)(5)
+100
+20.2203(a)(2)(iv) 50.46(a)(3)(ii) 50.73(a)(2)(v)(C) 73.77(a)(1)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii)
+20.2203(a)(2)(vi) 50.73(a)(2)(i)(B) 50.73(a)(2)(vii) 73.77(a)(2)(iii)
+50.73(a)(2)(i)(C) Other (Specify in Abstract below or in NRC Form 366A
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include Area Code)
+Shane Jurek, Senior Engineer – Nuclear Regulatory Affairs (570) 542-1695
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To ICES Cause System Component Manufacturer Reportable To ICES
+B ED 52 N140 Y
+Month Day Year
+14. Supplemental Report Expected
+15. Expected Submission Date
+Yes (If yes, complete 15. Expected Submission Date) No
+Abstract (Limit to 1400 spaces, i.e., approximately 14 single-spaced typewritten lines)
+On May 22, 2019, at 0240, the A Control Structure (CS) Chiller tripped due to a loss of power to Motor Control Center (MCC)
+0B136. At the time of the trip, the B CS Chiller was out of service for planned maintenance on the Emergency Service Water
+(ESW) System. The CS Chillers are required to be operable by Technical Specifications (TS) Limiting Conditions for
+Operation (LCOs) 3.7.3, “Control Room Emergency Outside Air Supply (CREOAS) System” and 3.7.4, “Control Room Floor
+Cooling System.” The CREOAS and Control Room Floor Cooling systems provide cooling and ventilation to various safety-
+related loads including the control room, computer room, relay rooms, and emergency switchgear rooms. The loss of both
+chillers required entry in LCOs 3.7.3, 3.7.4, and 3.0.3, thereby requiring the commencement of a dual unit shutdown. As a
+result, this event was reported in accordance with 10 CFR 50.72(b)(3)(v) as a condition which could have prevented the
+fulfillment of a safety function and 10 CFR 50.72(b)(2)(i) for the initiation of a plant shutdown required by TS. The power
+reduction was halted upon restoration of the A CS Chiller. The condition was also determined to be reportable in accordance
+with 10 CFR 50.73(a)(2)(v) as a condition that could have prevented the fulfillment of a safety function.
+The direct cause was determined to be inadequate engagement of cubicle stabs. The root cause was determined to be
+vendor design differences in cubicle stab assemblies introduced during replacement of original plant equipment. Corrective
+actions include removing the misaligned breaker stab from service and de-energizing, cleaning, and inspecting MCC 0B136.
+There were no actual safety consequences associated with the condition.
+NRC FORM 366 (04-2018)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2019 001 01
+NARRATIVE
+CONDITIONS PRIOR TO EVENT
+Unit 1 – Mode 1, approximately 100 percent Rated Thermal Power
+Unit 2 – Mode 1, approximately 100 percent Rated Thermal Power
+At the time of the event, Division II of the ESW System was out of service for planned maintenance. This
+rendered the B CS Chiller inoperable.
+EVENT DESCRIPTION
+On May 19, 2019, at approximately 2230, Division II of the ESW system was removed from service for
+planned maintenance. This rendered the B CS Chiller inoperable. Subsequently, on May 22, 2019, at 0240,
+the A CS Chiller [EIIS Code: VI] tripped due to a loss of power to MCC 0B136 [EIIS Code/Component Code:
+ED/MCC]. Susquehanna Steam Electric Station TS LCO 3.7.3, “Control Room Emergency Outside Air
+Supply (CREOAS) System,” and LCO 3.7.4, “Control Room Floor Cooling System,” require entry into LCO
+3.0.3 upon loss of both CS Chillers. At 0256, operators declared the CREOAS and Control Room Floor
+Cooling Systems inoperable and entered LCO 3.0.3. Unit shutdown commenced at 0340 and 0350 for Units
+2 and 1, respectively.
+The MCC 0B136-044 A-phase cubicle stab [Component Code: 52] was not engaged correctly on the vertical
+bus resulting in arcing conditions that created the conditions for a fault on the MCC bus. The bus was tested
+with satisfactory results and was reenergized. Power was restored to MCC 0B136 at 0901 on May 22,
+LCO 3.0.3 was exited, and the power reductions were halted.
+The CS Chillers are required to be operable to support operation of the CREOAS and Control Room Floor
+Cooling systems. The CREOAS and Control Room Floor Cooling systems provide cooling and ventilation to
+various safety-related loads including the control room, computer room, relay rooms, and emergency
+switchgear rooms. As a result, the condition was determined to be reportable in accordance with
+10 CFR 50.73(a)(2)(v) as a condition that could have prevented the fulfillment of a safety function of systems
+that are required to; (A) shut down the reactor and maintain it in a safe shutdown condition; (B) remove
+residual heat; (C) control the release of radioactive material; or (D) mitigate the consequences of an
+accident.
+CAUSE OF EVENT
+The direct cause of the event was determined to be that the 0B136-044 A-phase primary disconnect cubicle
+stab was not engaged on both sides of the bus bar. The root cause of the event was determined to be
+vendor design differences between the previous Cutler Hammer and replacement Nuclear Logistics
+Industries (NLI) assemblies affected the self-aligning capability which ensure cubicle stab engagement on
+the bus bar. On October 4, 2019, in accordance with 10 CFR 21, AZZ Nuclear notified the NRC of a
+NRC FORM 366A (04-2018) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 EXPIRES: 03/31/2020
+(04-2018)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the Information Services Branch (T-2 F43), U. S. Nuclear Regulatory
+CONTINUATION SHEET
+Commission, Washington, DC 20555-0001, or by e-mail to Infocollects.Resource@nrc.gov, and to
+the Desk Officer, Office of Information and Regulatory Affairs, NEOB-10202, (3150-0104), Office of
+Management and Budget, Washington, DC 20503. If a means used to impose an information
+(See NUREG-1022, R.3 for instruction and guidance for completing this form collection does not display a currently valid OMB control number, the NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, the information collection.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Susquehanna Steam Electric Station Unit 1 05000-387 NUMBER NO.
+2019 001 01
+deviation affecting F10 series MCC cubicles supplied by NLI with the current design of stab assembly P/N:
+5600-SA3-1.
+ANALYSIS/SAFETY SIGNIFICANCE
+Due to the concurrent loss of the A and B CS Chillers, neither division of the Control Room Floor Cooling
+and CREOAS systems were available to perform their safety functions in the event of a design basis
+accident (DBA) (e.g., Loss of Coolant Accident Coincident with a Loss of Offsite Power). Any operator action
+to restore either CS Chiller would have required significant time and, therefore, would not have supported
+the safety function of the systems.
+Based on engineering analysis, this event will be counted as a safety system functional failure under the
+NRC Reactor Oversight Process Performance Indicator.
+CORRECTIVE ACTIONS
+The load on Breaker 44 from MCC 0B136 was moved to a different breaker location within MCC 0B136.
+Additional corrective actions will include de-energizing, cleaning, and inspecting the entirety of MCC 0B136;
+and revising the procedures for NLI 480 VAC cubicle installation and maintenance to require verification of
+proper stab alignment.
+COMPONENT FAILURE INFORMATION
+Component Identification – 0B136044
+Component Name – Control Structure Passenger Elevator Disconnect Switch 0DS108 Breaker
+Manufacturer – Nuclear Logistics Industries
+Model Number – F10 MCC Cubicle
+Breaker Rating – 480 VAC
+PREVIOUS OCCURRENCES
+LER 50-388(387)/2015-015-00, “Loss of Safety Function due to Inoperability of Both Trains of the Control
+Room Emergency Outside Air Supply (CREOAS) System,” dated May 5, 2016
+LER 50-387(388)/2014-009-00, “Loss of Both Trains of Control Structure Chilled Water during Application of
+Clearance Order,” dated August 11, 2014
+LER 50-387(388)/2014-008-00, “Loss of Both Trains of Control Structure Chilled Water due to Personnel
+Error,” dated August 11, 2014
+NRC FORM 366A (04-2018) Page 3 of 3
